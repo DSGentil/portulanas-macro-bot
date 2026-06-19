@@ -2,9 +2,11 @@ name: Portulanas - Homologacao
 
 on:
   schedule:
-    # Todos os dias, de hora em hora, das 16h as 18h BRT (19h-21h UTC).
+    # Todos os dias, de hora em hora, das 16h as 20h BRT (19h-23h UTC),
+    # mais um disparo extra as 20h30 BRT (23h30 UTC) para fechar a janela.
     # Uso exclusivo de teste/auditoria do prompt - nao e o garimpo real.
-    - cron: "0 19-21 * * *"
+    - cron: "0 19-23 * * *"
+    - cron: "30 23 * * *"
   workflow_dispatch:
     inputs:
       quantidade:
