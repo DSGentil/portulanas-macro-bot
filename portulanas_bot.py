@@ -15,6 +15,7 @@ import json
 import time
 import hashlib
 import unicodedata
+import re
 import requests
 import feedparser
 from datetime import datetime, timezone, timedelta
@@ -48,6 +49,11 @@ FEEDS = {
     "InfoMoney Economia": "https://www.infomoney.com.br/economia/feed/",
     "Valor Economico":    "https://valor.globo.com/rss/valor",
     "ForexLive":          "https://www.forexlive.com/feed/news",
+    "Estadao Economia":   "https://estadao.com.br/arc/outboundfeed/economia",
+    "Folha Mercado":      "http://feeds.folha.uol.com.br/mercado/rss091.xml",
+    "Money Times":        "https://www.moneytimes.com.br/rss/",
+    "InvestNews":         "https://investnews.com.br/rss/",
+    "Google News Macro":  "https://news.google.com/rss/search?q=d%C3%B3lar+OR+Fed+OR+Copom+OR+PTAX&hl=pt-BR&gl=BR&ceid=BR:pt-419",
 }
 
 # Palavras-chave de alta relevancia (filtro barato antes de gastar chamada de IA)
@@ -106,7 +112,7 @@ CLASSIFICAÇÃO DE RELEVÂNCIA (escolha uma):
 FORMATO DE SAÍDA — responda APENAS em JSON válido, sem markdown, sem texto antes ou depois:
 {
   "relevancia": "ALTA" | "MEDIA" | "BAIXA",
-  "resumo": "resumo da notícia em 1-2 frases, em português, direto e sem floreio",
+  "resumo": "resumo da notícia em 2-4 frases, em português, cobrindo o que aconteceu, o contexto (quem disse o quê, qual dado saiu, qual número), e por que isso é relevante agora. Direto e sem floreio, mas completo — não corte informação só para ser breve.",
   "correlacao_wdo": "direta" | "inversa" | "contextual" | "agenda_volatilidade" | "neutra",
   "leitura_critica": "1-2 frases explicando o que isso significa para o viés do WDO agora, no estilo direto e técnico do Trade System. Se for contextual, diga isso explicitamente e não force uma direção.",
   "ignorar": true | false
@@ -151,6 +157,21 @@ def item_hash(title, link):
 # COLETA RSS
 # ─────────────────────────────────────────────────────────────────
 
+def parse_published_date(entry):
+    """Extrai a data de publicacao do item RSS e converte para horario
+    de Brasilia. Retorna string formatada ou None se nao disponivel."""
+    for field in ("published_parsed", "updated_parsed"):
+        time_struct = entry.get(field)
+        if time_struct:
+            try:
+                dt_utc = datetime(*time_struct[:6], tzinfo=timezone.utc)
+                dt_br = dt_utc.astimezone(TZ_BR)
+                return dt_br.strftime("%d/%m %H:%M")
+            except Exception:
+                continue
+    return None
+
+
 def fetch_feed(name, url, timeout=10):
     try:
         resp = requests.get(url, timeout=timeout, headers={
@@ -164,7 +185,8 @@ def fetch_feed(name, url, timeout=10):
                 "source": name,
                 "title": entry.get("title", "").strip(),
                 "link": entry.get("link", "").strip(),
-                "summary": entry.get("summary", "")[:500],
+                "summary": entry.get("summary", "")[:1200],
+                "published": parse_published_date(entry),
             })
         return items
     except Exception as e:
@@ -202,6 +224,68 @@ def quick_relevance_check(item):
     return False
 
 
+# Palavras muito comuns que nao ajudam a identificar se duas noticias
+# sao a mesma coisa - removidas antes de comparar titulos.
+TITLE_STOPWORDS = {
+    "a", "o", "as", "os", "de", "da", "do", "das", "dos", "em", "no", "na",
+    "nos", "nas", "com", "para", "por", "um", "uma", "e", "ou", "que", "se",
+    "sobre", "mas", "ao", "aos", "the", "an", "of", "in", "on", "for", "to",
+    "and", "or", "with", "at", "is", "are", "live", "levels",
+}
+
+# Limiar de similaridade Jaccard para considerar dois titulos "parecidos
+# o suficiente para agrupar visualmente". Calibrado empiricamente: 0.18
+# captura bem reformulações com vocabulário parcialmente sobreposto
+# (ex: "dólar recua com ajuste de risco" vs "dólar recua... com feriado
+# nos EUA"). NAO captura sinônimos puros sem nenhuma palavra-raiz em
+# comum (ex: "Copom corta Selic" vs "Banco Central reduz Selic") -
+# essa limitação é estrutural de comparação por palavras-chave; exigiria
+# similaridade semântica (embeddings) para cobrir. Por isso o agrupamento
+# é só um auxílio visual - nunca elimina nada, o operador decide.
+TITLE_SIMILARITY_THRESHOLD = 0.18
+
+
+def title_keywords(title):
+    text = strip_accents(title.lower())
+    words = re.findall(r"[a-z0-9]+", text)
+    return set(w for w in words if w not in TITLE_STOPWORDS and len(w) > 2)
+
+
+def title_similarity(title_a, title_b):
+    words_a = title_keywords(title_a)
+    words_b = title_keywords(title_b)
+    if not words_a or not words_b:
+        return 0.0
+    intersection = words_a & words_b
+    union = words_a | words_b
+    return len(intersection) / len(union)
+
+
+def group_similar_items(items):
+    """Agrupa itens com titulos parecidos (mesmo assunto, fontes
+    diferentes). Nao elimina nenhum item - apenas organiza em grupos
+    para que o operador veja juntos e decida se sao a mesma noticia.
+    Retorna lista de grupos, cada grupo e uma lista de itens."""
+    groups = []
+    used = [False] * len(items)
+
+    for i, item in enumerate(items):
+        if used[i]:
+            continue
+        group = [item]
+        used[i] = True
+        for j in range(i + 1, len(items)):
+            if used[j]:
+                continue
+            sim = title_similarity(item["title"], items[j]["title"])
+            if sim >= TITLE_SIMILARITY_THRESHOLD:
+                group.append(items[j])
+                used[j] = True
+        groups.append(group)
+
+    return groups
+
+
 # ─────────────────────────────────────────────────────────────────
 # ANALISE VIA GEMINI — segunda camada, aplica logica Portulanas
 # ─────────────────────────────────────────────────────────────────
@@ -227,6 +311,12 @@ def call_gemini_with_retry(payload, max_retries=3, base_wait=15):
     return None
 
 
+def pick_representative_item(group):
+    """Escolhe o item mais informativo de um grupo (maior resumo)
+    para servir de base da analise enviada ao Gemini."""
+    return max(group, key=lambda it: len(it.get("summary", "")))
+
+
 def analyze_with_gemini(item):
     user_content = f"""Notícia para análise:
 
@@ -242,7 +332,7 @@ Link: {item['link']}
         ],
         "generationConfig": {
             "temperature": 0.3,
-            "maxOutputTokens": 400,
+            "maxOutputTokens": 600,
         }
     }
 
@@ -292,10 +382,11 @@ def format_homolog_message(item, analysis):
     """Formata mensagem de homologacao incluindo o JSON crú do Gemini,
     para auditoria de que a logica Portulanas esta sendo seguida."""
     raw_json = json.dumps(analysis, ensure_ascii=False, indent=2)
+    pub = item.get("published") or "data não disponível"
     msg = (
         f"🧪 <b>HOMOLOGAÇÃO · TESTE DE PROMPT</b>\n\n"
         f"<b>{item['title']}</b>\n"
-        f"<i>{item['source']}</i>\n\n"
+        f"<i>{item['source']} · {pub}</i>\n\n"
         f"<b>JSON retornado pelo Gemini:</b>\n"
         f"<pre>{raw_json}</pre>\n\n"
         f"🔗 {item['link']}"
@@ -303,7 +394,7 @@ def format_homolog_message(item, analysis):
     return msg
 
 
-def format_alert(item, analysis):
+def format_alert(group, representative_item, analysis):
     rel = analysis["relevancia"]
     emoji = {"ALTA": "🔴", "MEDIA": "🟡", "BAIXA": "⚪"}.get(rel, "⚪")
 
@@ -315,16 +406,28 @@ def format_alert(item, analysis):
         "neutra": "— Neutra",
     }.get(analysis.get("correlacao_wdo", ""), "—")
 
-    msg = (
+    pub = representative_item.get("published") or "data não disponível"
+
+    header = (
         f"{emoji} <b>PORTULANAS · ALERTA {rel}</b>\n\n"
-        f"<b>{item['title']}</b>\n"
-        f"<i>{item['source']}</i>\n\n"
+        f"<b>{representative_item['title']}</b>\n"
+        f"<i>{representative_item['source']} · {pub}</i>\n\n"
         f"📋 {analysis['resumo']}\n\n"
-        f"🎯 Correlação WDO: {corr_label}\n"
+        f"🎯 <b>Correlação WDO:</b> {corr_label}\n"
         f"💡 {analysis['leitura_critica']}\n\n"
-        f"🔗 {item['link']}"
     )
-    return msg
+
+    if len(group) > 1:
+        # Mais de uma fonte trouxe titulo parecido - agrupado para o
+        # operador revisar e decidir se e a mesma noticia ou nao.
+        header += f"<b>📚 Possível mesmo assunto em {len(group)} fontes:</b>\n"
+        for it in group:
+            pub_it = it.get("published") or "s/ data"
+            header += f"• <a href=\"{it['link']}\">{it['source']} · {pub_it}</a> — {it['title'][:70]}\n"
+    else:
+        header += f"🔗 {representative_item['link']}"
+
+    return header
 
 
 # ─────────────────────────────────────────────────────────────────
@@ -374,9 +477,14 @@ def main():
     candidates = [it for it in new_items if quick_relevance_check(it)]
     print(f"[info] {len(candidates)} itens passaram no filtro de palavras-chave")
 
+    groups = group_similar_items(candidates)
+    multi_source_groups = sum(1 for g in groups if len(g) > 1)
+    print(f"[info] {len(groups)} grupos formados ({multi_source_groups} com mais de uma fonte)")
+
     sent_count = 0
-    for item in candidates:
-        analysis = analyze_with_gemini(item)
+    for group in groups:
+        representative = pick_representative_item(group)
+        analysis = analyze_with_gemini(representative)
         if analysis is None:
             continue
         if analysis.get("ignorar", True):
@@ -384,7 +492,7 @@ def main():
         if analysis.get("relevancia") == "BAIXA":
             continue
 
-        msg = format_alert(item, analysis)
+        msg = format_alert(group, representative, analysis)
         send_telegram(msg)
         sent_count += 1
         time.sleep(1)  # respeitar rate limit do Gemini free tier
