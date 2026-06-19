@@ -10,7 +10,13 @@ Robô de garimpo de notícias macro para apoio à operação de WDO (mini dólar
 
 3. **Checkpoint hora a hora** (09h às 16h BRT, dias de semana): rodada obrigatória de contexto, mesmo sem notícia nova.
 
-4. **Homologação** (16h às 18h BRT, todos os dias, ou disparo manual a qualquer momento): workflow de teste/auditoria. Ignora cache e filtro de palavras-chave, força a análise via Gemini das notícias mais recentes e envia o JSON crú retornado no Telegram. Serve para verificar, a qualquer momento, se o Gemini continua seguindo fielmente a lógica de correlação do Trade System — não é parte do fluxo de produção, é só uma ferramenta de controle de qualidade.
+4. **Homologação** (16h às 20h30 BRT, todos os dias, ou disparo manual a qualquer momento): workflow de teste/auditoria. Ignora cache e filtro de palavras-chave, força a análise via Gemini das notícias mais recentes e envia o JSON crú retornado no Telegram. Serve para verificar, a qualquer momento, se o Gemini continua seguindo fielmente a lógica de correlação do Trade System — não é parte do fluxo de produção, é só uma ferramenta de controle de qualidade.
+
+## Agrupamento de notícias por assunto
+
+Quando fontes diferentes publicam sobre o mesmo assunto com títulos parecidos (ex: Valor e InfoMoney noticiando o mesmo movimento do dólar com palavras diferentes), o robô agrupa esses itens antes de gastar uma análise de IA em cada um separadamente. A mensagem mostra a análise feita uma única vez, seguida da lista de todas as fontes/títulos agrupados com seus links — o operador decide, ao abrir os links, se é de fato a mesma notícia ou se há nuance que justifica leitura separada.
+
+Esse agrupamento é feito por similaridade de palavras-chave entre os títulos (sem custo de IA), com limiar calibrado para capturar reformulações com vocabulário parcialmente sobreposto. Tem uma limitação conhecida: não captura sinônimos puros sem nenhuma palavra-raiz em comum (ex: "Copom corta Selic" vs "Banco Central reduz Selic" pode não agrupar). O agrupamento nunca elimina nenhuma notícia — é só uma organização visual para facilitar a revisão humana.
 
 ## Arquitetura
 
