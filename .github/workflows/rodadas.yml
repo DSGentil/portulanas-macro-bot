@@ -1,0 +1,53 @@
+name: Portulanas - Rodadas Programadas
+
+on:
+  schedule:
+    # Horarios em UTC. Brasilia = UTC-3 (sem horario de verao atualmente).
+    # 08:30 BRT = 11:30 UTC -> panorama de abertura
+    - cron: "30 11 * * 1-5"
+    # Checkpoints hora a hora, 09h as 16h BRT = 12h as 19h UTC, dias de semana
+    - cron: "0 12-19 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      tipo:
+        description: "Tipo de rodada para disparo manual"
+        required: true
+        default: "checkpoint"
+        type: choice
+        options:
+          - abertura
+          - checkpoint
+
+jobs:
+  rodada:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Definir tipo de rodada
+        id: tipo
+        run: |
+          HORA_UTC=$(date -u +%H:%M)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "tipo=${{ github.event.inputs.tipo }}" >> "$GITHUB_OUTPUT"
+          elif [ "$HORA_UTC" = "11:30" ]; then
+            echo "tipo=abertura" >> "$GITHUB_OUTPUT"
+          else
+            echo "tipo=checkpoint" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Rodar panorama
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python portulanas_panorama.py ${{ steps.tipo.outputs.tipo }}
