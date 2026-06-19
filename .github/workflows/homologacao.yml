@@ -1,0 +1,40 @@
+name: Portulanas - Homologacao
+
+on:
+  schedule:
+    # Todos os dias, de hora em hora, das 16h as 18h BRT (19h-21h UTC).
+    # Uso exclusivo de teste/auditoria do prompt - nao e o garimpo real.
+    - cron: "0 19-21 * * *"
+  workflow_dispatch:
+    inputs:
+      quantidade:
+        description: "Quantas noticias forcar analise (amostra)"
+        required: false
+        default: "3"
+
+permissions:
+  contents: read
+
+jobs:
+  homologacao:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Rodar homologacao
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PORTULANAS_HOMOLOGACAO: "1"
+          PORTULANAS_HOMOLOG_SAMPLE: ${{ github.event.inputs.quantidade || '3' }}
+        run: python portulanas_bot.py
