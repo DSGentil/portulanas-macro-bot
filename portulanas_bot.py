@@ -202,6 +202,27 @@ def quick_relevance_check(item):
 # ANALISE VIA GEMINI — segunda camada, aplica logica Portulanas
 # ─────────────────────────────────────────────────────────────────
 
+def call_gemini_with_retry(payload, max_retries=3, base_wait=15):
+    """Chama a API do Gemini com retry automatico em caso de rate limit (429).
+    Espera progressiva: 15s, 30s, 60s entre tentativas."""
+    for attempt in range(1, max_retries + 1):
+        try:
+            resp = requests.post(GEMINI_URL, json=payload, timeout=20)
+            if resp.status_code == 429:
+                wait = base_wait * attempt
+                print(f"[aviso] rate limit (429) na tentativa {attempt}/{max_retries}, aguardando {wait}s")
+                time.sleep(wait)
+                continue
+            resp.raise_for_status()
+            return resp
+        except requests.exceptions.HTTPError as e:
+            if attempt == max_retries:
+                raise
+            print(f"[aviso] erro HTTP na tentativa {attempt}/{max_retries}: {e}")
+            time.sleep(base_wait)
+    return None
+
+
 def analyze_with_gemini(item):
     user_content = f"""Notícia para análise:
 
@@ -222,8 +243,10 @@ Link: {item['link']}
     }
 
     try:
-        resp = requests.post(GEMINI_URL, json=payload, timeout=20)
-        resp.raise_for_status()
+        resp = call_gemini_with_retry(payload)
+        if resp is None:
+            print(f"[erro] sem resposta do gemini apos retries para '{item['title'][:50]}'")
+            return None
         data = resp.json()
         text = data["candidates"][0]["content"]["parts"][0]["text"]
 
