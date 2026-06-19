@@ -10,6 +10,7 @@ Roda via GitHub Actions a cada 10-15 minutos.
 """
 
 import os
+import sys
 import json
 import time
 import hashlib
@@ -17,6 +18,11 @@ import unicodedata
 import requests
 import feedparser
 from datetime import datetime, timezone, timedelta
+
+# Modo homologacao: ignora cache e filtro de palavras-chave, forca analise
+# das N noticias mais recentes para fins de teste/auditoria do prompt.
+HOMOLOGACAO = os.environ.get("PORTULANAS_HOMOLOGACAO", "0") == "1"
+HOMOLOG_SAMPLE_SIZE = int(os.environ.get("PORTULANAS_HOMOLOG_SAMPLE", "3"))
 
 # ─────────────────────────────────────────────────────────────────
 # CONFIGURACAO
@@ -284,6 +290,21 @@ def send_telegram(text):
         print(f"[erro] falha ao enviar telegram: {e}")
 
 
+def format_homolog_message(item, analysis):
+    """Formata mensagem de homologacao incluindo o JSON crú do Gemini,
+    para auditoria de que a logica Portulanas esta sendo seguida."""
+    raw_json = json.dumps(analysis, ensure_ascii=False, indent=2)
+    msg = (
+        f"🧪 <b>HOMOLOGAÇÃO · TESTE DE PROMPT</b>\n\n"
+        f"<b>{item['title']}</b>\n"
+        f"<i>{item['source']}</i>\n\n"
+        f"<b>JSON retornado pelo Gemini:</b>\n"
+        f"<pre>{raw_json}</pre>\n\n"
+        f"🔗 {item['link']}"
+    )
+    return msg
+
+
 def format_alert(item, analysis):
     rel = analysis["relevancia"]
     emoji = {"ALTA": "🔴", "MEDIA": "🟡", "BAIXA": "⚪"}.get(rel, "⚪")
@@ -314,12 +335,33 @@ def format_alert(item, analysis):
 
 def main():
     now_br = datetime.now(TZ_BR)
-    print(f"[info] iniciando garimpo em {now_br.isoformat()}")
+    print(f"[info] iniciando garimpo em {now_br.isoformat()} (homologacao={HOMOLOGACAO})")
 
     cache = prune_cache(load_cache())
 
     raw_items = collect_all_news()
     print(f"[info] {len(raw_items)} itens coletados de {len(FEEDS)} fontes")
+
+    if HOMOLOGACAO:
+        # Modo homologacao: ignora cache e filtro de palavras-chave.
+        # Forca analise das N noticias mais recentes, so para auditoria
+        # do formato e da fidelidade do prompt Portulanas.
+        candidates = raw_items[:HOMOLOG_SAMPLE_SIZE]
+        print(f"[info] modo homologacao: forcando analise de {len(candidates)} itens (sem filtro/cache)")
+
+        sent_count = 0
+        for item in candidates:
+            analysis = analyze_with_gemini(item)
+            if analysis is None:
+                print(f"[aviso] gemini nao retornou analise valida para '{item['title'][:50]}'")
+                continue
+            msg = format_homolog_message(item, analysis)
+            send_telegram(msg)
+            sent_count += 1
+            time.sleep(2)
+
+        print(f"[info] homologacao: {sent_count} mensagens de teste enviadas")
+        return  # nao salva cache em modo homologacao, para nao interferir no garimpo real
 
     new_items = []
     for item in raw_items:
