@@ -32,7 +32,7 @@ TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID   = os.environ["TELEGRAM_CHAT_ID"]
 GEMINI_API_KEY     = os.environ["GEMINI_API_KEY"]
 
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-2.5-flash-lite"  # gemini-2.0-flash foi desativado em 01/06/2026
 GEMINI_URL   = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
 
 CACHE_FILE = "seen_cache.json"
@@ -43,8 +43,6 @@ TZ_BR = timezone(timedelta(hours=-3))
 
 # Fontes RSS — feeds publicos e gratuitos
 FEEDS = {
-    "Reuters Business":   "https://feeds.reuters.com/reuters/businessNews",
-    "Reuters Markets":    "https://feeds.reuters.com/reuters/USMarketsNews",
     "Investing.com":      "https://www.investing.com/rss/news_301.rss",
     "InfoMoney":          "https://www.infomoney.com.br/mercados/feed/",
     "InfoMoney Economia": "https://www.infomoney.com.br/economia/feed/",
