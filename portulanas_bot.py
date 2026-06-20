@@ -120,7 +120,7 @@ CANAIS POSSÍVEIS (marque só se a notícia falar EXPLICITAMENTE sobre isso - po
 - "juros" — a notícia é sobre Selic, Copom, DI, Fed, BCE ou outra decisão/expectativa de juros, dita explicitamente
 - "inflacao" — a notícia traz um dado, expectativa ou fala explícita sobre inflação, CPI, IPCA, preços
 - "atividade_emprego" — a notícia traz um dado explícito de PIB, produção industrial, payroll, desemprego
-- "fiscal_politico" — a notícia é explicitamente sobre arcabouço fiscal, déficit, dívida pública, decisão de governo, eleição, risco político, mudança regulatória
+- "fiscal_politico" — a notícia descreve uma DECISÃO ou MUDANÇA concreta de política fiscal, orçamentária ou regulatória (ex: arcabouço fiscal alterado, déficit anunciado, dívida pública divulgada, novo imposto, mudança de regra para empresas/investidores). Resultado de eleição, candidatura, declaração de político sobre disputa eleitoral, ou nomeação de cargo NÃO entra aqui por padrão - são fatos políticos, mas só conectam a este canal se a notícia também descrever uma consequência fiscal/regulatória concreta dessa mudança política, e essa consequência precisa estar no texto, não suposta por você. Exemplo do que NÃO marcar: "deputado X não vai disputar eleição para governador" sozinho não é fiscal_politico - é um fato eleitoral sem decisão fiscal associada.
 - "fluxo_capital" — a notícia descreve explicitamente um movimento de capital estrangeiro entrando ou saindo, e diz para onde (renda fixa, renda variável, ou de forma geral se a notícia não especificar - mas então registre como "não especificado" na leitura, não complete a lacuna)
 
 ORIGEM DO EFEITO (marque só se for claro pelo conteúdo - pode deixar null se não for óbvio):
@@ -148,7 +148,7 @@ FORMATO DE SAÍDA — responda APENAS em JSON válido, sem markdown, sem texto a
       "resumo": "resumo objetivo da notícia em 2-4 frases, em português, traduzindo para o português caso a notícia original esteja em outro idioma. Cubra o que aconteceu, quem disse o quê, qual dado ou número saiu. Apenas o fato - sem teorizar sobre consequências que a notícia não afirma.",
       "canais_afetados": [] - lista vazia se a notícia não falar explicitamente de nenhum canal, ou os canais que ela cita diretamente,
       "origem": "domestica" | "externa" | "ambas" | null,
-      "leitura_critica": "1-2 frases dizendo por que essa notícia é relevante para quem acompanha o câmbio, usando SÓ o que a notícia disse - sem inventar mecanismo, sem 'isso pode sugerir', sem 'isso pode indicar'. Se a notícia já é auto-explicativa sobre sua relevância, pode repetir isso de forma direta em vez de forçar uma análise adicional. Se não houver nada de relevante a acrescentar além do resumo, pode deixar este campo igual ou muito próximo do resumo."
+      "leitura_critica": "1-2 frases dizendo por que essa notícia é relevante para quem acompanha o câmbio, usando SÓ o que a notícia disse - sem inventar mecanismo, sem 'isso pode sugerir', sem 'isso pode indicar'. NUNCA deixe este campo como string vazia. Se a notícia já é auto-explicativa sobre sua relevância, ou se for BAIXA relevância e não houver nada a acrescentar, copie o conteúdo do campo 'resumo' para este campo - mas sempre preencha com texto, nunca com aspas vazias."
     },
     { "id": 2, ... }
   ]
@@ -560,6 +560,12 @@ def format_alert(group, representative_item, analysis):
 
     pub = representative_item.get("published") or "data não disponível"
 
+    # Fallback de seguranca: se o modelo (especialmente modelos menores
+    # como Llama 8B) deixar leitura_critica vazia mesmo com a instrucao
+    # do prompt, usa o resumo no lugar em vez de mostrar uma linha vazia
+    # ou quebrar a formatacao.
+    leitura_critica = analysis.get("leitura_critica") or analysis.get("resumo", "")
+
     header = (
         f"{emoji} <b>PORTULANAS · ALERTA {rel}</b>\n\n"
         f"<b>{representative_item['title']}</b>\n"
@@ -577,7 +583,7 @@ def format_alert(group, representative_item, analysis):
     if canais_txt or origem_txt:
         header += "\n"
 
-    header += f"💡 {analysis['leitura_critica']}\n\n"
+    header += f"💡 {leitura_critica}\n\n"
 
     if len(group) > 1:
         # Mais de uma fonte trouxe titulo parecido - agrupado para o
