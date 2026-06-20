@@ -39,6 +39,18 @@ GEMINI_URL   = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI
 CACHE_FILE = "seen_cache.json"
 CACHE_MAX_AGE_HOURS = 36  # itens mais antigos que isso saem do cache
 
+# Idade maxima de uma noticia para ser considerada "atual". Protege
+# contra itens antigos que ainda aparecem na lista do RSS (feeds
+# costumam manter os ultimos 15-20 itens publicados, nao so os de hoje)
+# sendo tratados como novidade so porque o cache estava vazio/resetado.
+NEWS_MAX_AGE_HOURS = 6
+
+# Limite de grupos analisados pelo Gemini por execucao do garimpo.
+# Protege a cota diaria do tier gratuito (~1500 req/dia): com execucao
+# a cada 15 min (96 execucoes/dia), 12 grupos por execucao no pior caso
+# da ~1150 chamadas/dia, com folga para a homologacao e picos.
+MAX_GROUPS_PER_RUN = 12
+
 # Fuso de Brasilia
 TZ_BR = timezone(timedelta(hours=-3))
 
@@ -49,7 +61,7 @@ FEEDS = {
     "InfoMoney Economia": "https://www.infomoney.com.br/economia/feed/",
     "Valor Economico":    "https://valor.globo.com/rss/valor",
     "ForexLive":          "https://www.forexlive.com/feed/news",
-    "Estadao Economia":   "https://estadao.com.br/arc/outboundfeed/economia",
+    # "Estadao Economia": removida - bloqueio 403 ativo confirmado em produção (não é falha temporária)
     "Folha Mercado":      "http://feeds.folha.uol.com.br/mercado/rss091.xml",
     "Money Times":        "https://www.moneytimes.com.br/rss/",
     "InvestNews":         "https://investnews.com.br/rss/",
@@ -85,45 +97,50 @@ MEDIUM_RELEVANCE_KEYWORDS = [
 
 PORTULANAS_SYSTEM_PROMPT = """Você é o motor analítico do PORTULANAS, sistema de leitura macro da RIVOOS WEALTH, especializado em apoiar quem opera WDO (mini dólar futuro, B3).
 
-Sua função: avaliar UMA notícia por vez e explicar POR QUAL MECANISMO ela pode afetar os fundamentos que movem o câmbio — sem tentar prever se o WDO vai subir ou cair.
+Sua função: resumir UMA notícia por vez de forma objetiva e dizer por que ela é relevante - sem especular, sem inventar mecanismo, sem teorizar conexão que a notícia não afirma.
 
-POR QUE NÃO PREVEMOS DIREÇÃO:
-O dólar pode subir por motivos opostos entre si, e cada um conta uma história diferente: pode subir porque o mundo está mais arriscado (fluxo global, o Brasil é só carona), ou porque o Brasil ficou mais fraco por mérito próprio (decisão ruim do Banco Central, risco fiscal, risco político, expectativa eleitoral desfavorável ao mercado). Pode cair porque capital estrangeiro está entrando por o Brasil estar atrativo (juro real alto), ou porque o mundo em geral está com apetite a risco e o Brasil só surfa a onda. Uma seta única de "alta" ou "baixa" esconde qual dessas histórias está acontecendo - e são histórias que pedem leituras técnicas diferentes. Por isso você nunca tenta prever direção. Você identifica o CANAL pelo qual a notícia atua e se a ORIGEM do efeito é doméstica ou externa - quem lê decide o resto.
+REGRA MAIS IMPORTANTE DESTE PROMPT - LEIA COM ATENÇÃO:
+Você só pode atribuir um canal ou uma origem a uma notícia SE O PRÓPRIO TEXTO DA NOTÍCIA disser isso explicitamente. Você não pode inferir, deduzir ou imaginar uma conexão que a notícia não afirma diretamente. Isso significa:
+- Se a notícia diz "o Copom decidiu manter a Selic em 14,25%", isso É sobre juros - pode marcar o canal.
+- Se a notícia diz "investidores estrangeiros aumentaram posições em títulos públicos brasileiros", isso É sobre fluxo de capital - pode marcar o canal, mas especificamente para renda fixa, não para bolsa, a menos que a notícia diga bolsa.
+- Se a notícia diz "Bitcoin subiu hoje", isso NÃO permite você concluir nada sobre fluxo de capital para o Brasil, apetite a risco global, ou qualquer outra coisa - a notícia não fez essa conexão, você não pode fazer por ela.
+- Se a notícia fala de um evento social, um jantar, uma premiação, um lançamento de produto sem relação a nenhum dos canais abaixo, não force conexão nenhuma - marque canal como lista vazia e origem como null.
+- ERROS A NÃO REPETIR: não diga "isso pode indicar fluxo de capital para a bolsa" a partir de uma notícia genérica sobre "entrada de capital" - entrada de capital pode ir para renda fixa, renda variável, ou nem ser sobre o Brasil. Não generalize. Se a notícia não especificar o destino do capital, não atribua canal "fluxo_capital" como ida para bolsa - descreva apenas o que a notícia disse, sem completar a lacuna com suposição.
+- Na dúvida entre marcar um canal por inferência ou deixar em branco: deixe em branco. É preferível dizer menos com precisão do que especular com aparência de análise.
 
-CANAIS POSSÍVEIS (uma notícia pode afetar mais de um):
-- "juros" — qualquer coisa que mude a expectativa de taxa de juros, no Brasil (Selic, Copom, DI) ou nos EUA/outros bancos centrais (Fed, BCE, decisões de juros)
-- "inflacao" — dados de preços, CPI, IPCA, expectativas inflacionárias, preços de commodities que pressionam custo de vida
-- "atividade_emprego" — PIB, produção industrial, payroll, taxa de desemprego, indicadores de atividade econômica
-- "fiscal_politico" — arcabouço fiscal, déficit, dívida pública, decisões de governo, cenário eleitoral, risco político, mudanças regulatórias
-- "fluxo_capital" — eventos que afetam diretamente a entrada ou saída de capital estrangeiro: carry trade, fluxo para bolsa ou renda fixa, sanções, guerra/geopolítica que move capital para ativos considerados seguros
+CANAIS POSSÍVEIS (marque só se a notícia falar EXPLICITAMENTE sobre isso - pode ser mais de um, ou nenhum):
+- "juros" — a notícia é sobre Selic, Copom, DI, Fed, BCE ou outra decisão/expectativa de juros, dita explicitamente
+- "inflacao" — a notícia traz um dado, expectativa ou fala explícita sobre inflação, CPI, IPCA, preços
+- "atividade_emprego" — a notícia traz um dado explícito de PIB, produção industrial, payroll, desemprego
+- "fiscal_politico" — a notícia é explicitamente sobre arcabouço fiscal, déficit, dívida pública, decisão de governo, eleição, risco político, mudança regulatória
+- "fluxo_capital" — a notícia descreve explicitamente um movimento de capital estrangeiro entrando ou saindo, e diz para onde (renda fixa, renda variável, ou de forma geral se a notícia não especificar - mas então registre como "não especificado" na leitura, não complete a lacuna)
 
-ORIGEM DO EFEITO (escolha uma):
-- "domestica" — o fato é sobre o Brasil e afeta os fundamentos brasileiros diretamente (decisão do Copom, dado de inflação brasileira, fala de autoridade do governo ou BC, risco político local)
-- "externa" — o fato é sobre o resto do mundo e afeta o Brasil só por contágio ou fluxo global (decisão do Fed, dado econômico americano, geopolítica fora do Brasil, movimento de bolsas internacionais)
-- "ambas" — o fato tem componente doméstico e externo ao mesmo tempo (ex: Brasil reagindo a um choque externo de um jeito que também revela algo sobre a política econômica doméstica)
+ORIGEM DO EFEITO (marque só se for claro pelo conteúdo - pode deixar null se não for óbvio):
+- "domestica" — o fato é sobre o Brasil
+- "externa" — o fato é sobre fora do Brasil
+- "ambas" — a notícia conecta explicitamente algo externo a uma consequência doméstica, ou vice-versa
 
 REGRAS DE PTAX (se a notícia mencionar câmbio/PTAX):
 - PTAX tem horários fixos: consultas 10h, 11h, 12h, 13h (cada uma 10min) e divulgação final a partir de 13h30.
-- Lembre o leitor que, nesses horários, o comportamento técnico pode distorcer o movimento natural - não é hora de tirar conclusão direcional de uma notícia isolada.
+- Mencione isso só se a notícia for sobre PTAX diretamente - não force esse aviso em toda notícia de câmbio.
 
 CLASSIFICAÇÃO DE RELEVÂNCIA (escolha uma):
-- "ALTA" — evento com potencial de mudar a leitura de algum canal de forma relevante (decisão de juros, dado de inflação fora do esperado, escalada geopolítica, fala de autoridade monetária ou fiscal)
+- "ALTA" — fato concreto com potencial de impacto relevante e direto (decisão de juros, dado de inflação fora do esperado, escalada geopolítica grave, fala oficial de autoridade monetária ou fiscal)
 - "MEDIA" — contribui para o quadro mas não é gatilho isolado (comentário de analista, dado secundário, fala de político sem novidade real)
-- "BAIXA" — ruído, não vale alertar
+- "BAIXA" — ruído, evento social, notícia sem nenhuma relação com os canais acima
 
 FORMATO DE SAÍDA — responda APENAS em JSON válido, sem markdown, sem texto antes ou depois:
 {
   "relevancia": "ALTA" | "MEDIA" | "BAIXA",
-  "resumo": "resumo da notícia em 2-4 frases, em português, cobrindo o que aconteceu, o contexto (quem disse o quê, qual dado saiu, qual número), e por que isso é relevante agora. Direto e sem floreio, mas completo — não corte informação só para ser breve.",
-  "canais_afetados": ["juros", "inflacao", "atividade_emprego", "fiscal_politico", "fluxo_capital"] - liste só os que se aplicam, pode ser um ou vários,
-  "origem": "domestica" | "externa" | "ambas",
-  "leitura_critica": "2-3 frases explicando POR QUAL MECANISMO essa notícia afeta o(s) canal(is) identificado(s) e por que a origem (doméstica/externa/ambas) importa para interpretar o movimento do câmbio. Não diga se o dólar vai subir ou cair - explique o mecanismo e deixe a leitura de direção para quem está vendo o gráfico.",
-  "ignorar": true | false
+  "resumo": "resumo objetivo da notícia em 2-4 frases, em português, traduzindo para o português caso a notícia original esteja em outro idioma. Cubra o que aconteceu, quem disse o quê, qual dado ou número saiu. Apenas o fato - sem teorizar sobre consequências que a notícia não afirma.",
+  "canais_afetados": [] - lista vazia se a notícia não falar explicitamente de nenhum canal, ou os canais que ela cita diretamente,
+  "origem": "domestica" | "externa" | "ambas" | null,
+  "leitura_critica": "1-2 frases dizendo por que essa notícia é relevante para quem acompanha o câmbio, usando SÓ o que a notícia disse - sem inventar mecanismo, sem 'isso pode sugerir', sem 'isso pode indicar'. Se a notícia já é auto-explicativa sobre sua relevância, pode repetir isso de forma direta em vez de forçar uma análise adicional. Se não houver nada de relevante a acrescentar além do resumo, pode deixar este campo igual ou muito próximo do resumo."
 }
 
-Marque "ignorar": true se a notícia for BAIXA relevância ou não tiver relação nenhuma com nenhum dos cinco canais.
+Notícias sobre criptomoedas (Bitcoin, Ethereum, etc.) são BAIXA relevância por padrão. Só sobem para MEDIA ou ALTA se a própria notícia conectar explicitamente a um banco central, decisão regulatória de governo, ou evento que a notícia mesma diga ter relação com o sistema financeiro tradicional - nunca por inferência sua sobre "apetite a risco".
 
-Seja extremamente direto. Sem jargão de mercado genérico, sem "fique atento", sem hedge excessivo de linguagem, e sem nunca tentar adivinhar se o dólar vai subir ou cair. O leitor é um trader profissional que vai decidir a leitura de direção sozinho, a partir do mecanismo que você explicar.
+Seja extremamente direto e econômico em palavras. Você está aqui para informar com precisão, não para parecer analítico. Prefira ser visto como "deixou de comentar algo" do que como "inventou uma conexão que não existia".
 """
 
 
@@ -160,19 +177,39 @@ def item_hash(title, link):
 # COLETA RSS
 # ─────────────────────────────────────────────────────────────────
 
-def parse_published_date(entry):
-    """Extrai a data de publicacao do item RSS e converte para horario
-    de Brasilia. Retorna string formatada ou None se nao disponivel."""
+def parse_published_datetime_utc(entry):
+    """Extrai a data de publicacao do item RSS como datetime UTC.
+    Retorna None se nao disponivel ou nao for possivel parsear."""
     for field in ("published_parsed", "updated_parsed"):
         time_struct = entry.get(field)
         if time_struct:
             try:
-                dt_utc = datetime(*time_struct[:6], tzinfo=timezone.utc)
-                dt_br = dt_utc.astimezone(TZ_BR)
-                return dt_br.strftime("%d/%m %H:%M")
+                return datetime(*time_struct[:6], tzinfo=timezone.utc)
             except Exception:
                 continue
     return None
+
+
+def parse_published_date(entry):
+    """Extrai a data de publicacao do item RSS e converte para horario
+    de Brasilia. Retorna string formatada ou None se nao disponivel."""
+    dt_utc = parse_published_datetime_utc(entry)
+    if dt_utc is None:
+        return None
+    dt_br = dt_utc.astimezone(TZ_BR)
+    return dt_br.strftime("%d/%m %H:%M")
+
+
+def is_news_too_old(dt_utc, max_age_hours=NEWS_MAX_AGE_HOURS):
+    """Verifica se uma noticia e mais antiga que o limite permitido.
+    Protege contra itens antigos da lista do RSS sendo tratados como
+    novidade. Se a data nao estiver disponivel (dt_utc is None), NAO
+    bloqueia o item - deixa passar para nao perder noticia so por falta
+    de metadado de data (algumas fontes nao informam published_parsed)."""
+    if dt_utc is None:
+        return False
+    age = datetime.now(timezone.utc) - dt_utc
+    return age > timedelta(hours=max_age_hours)
 
 
 def fetch_feed(name, url, timeout=10):
@@ -184,12 +221,14 @@ def fetch_feed(name, url, timeout=10):
         parsed = feedparser.parse(resp.content)
         items = []
         for entry in parsed.entries[:15]:
+            published_dt_utc = parse_published_datetime_utc(entry)
             items.append({
                 "source": name,
                 "title": entry.get("title", "").strip(),
                 "link": entry.get("link", "").strip(),
                 "summary": entry.get("summary", "")[:1200],
                 "published": parse_published_date(entry),
+                "published_dt_utc": published_dt_utc,
             })
         return items
     except Exception as e:
@@ -314,6 +353,40 @@ def call_gemini_with_retry(payload, max_retries=3, base_wait=15):
     return None
 
 
+def diversify_by_source(groups, max_items):
+    """Seleciona grupos priorizando diversidade de fontes (round-robin),
+    para evitar que uma fonte com volume alto (ex: Valor Economico)
+    ocupe todas as vagas do limite por execucao, deixando as demais
+    fontes praticamente invisiveis nos alertas."""
+    if len(groups) <= max_items:
+        return groups
+
+    # Agrupa por fonte do item representativo de cada grupo (primeiro item)
+    by_source = {}
+    for g in groups:
+        source = g[0]["source"]
+        by_source.setdefault(source, []).append(g)
+
+    selected = []
+    sources_cycle = list(by_source.keys())
+    idx_per_source = {s: 0 for s in sources_cycle}
+
+    while len(selected) < max_items:
+        progressed = False
+        for source in sources_cycle:
+            if len(selected) >= max_items:
+                break
+            i = idx_per_source[source]
+            if i < len(by_source[source]):
+                selected.append(by_source[source][i])
+                idx_per_source[source] += 1
+                progressed = True
+        if not progressed:
+            break  # todas as fontes esgotadas
+
+    return selected
+
+
 def pick_representative_item(group):
     """Escolhe o item mais informativo de um grupo (maior resumo)
     para servir de base da analise enviada ao Gemini."""
@@ -412,14 +485,14 @@ def format_alert(group, representative_item, analysis):
         "fluxo_capital": "Fluxo de Capital",
     }
     canais = analysis.get("canais_afetados", []) or []
-    canais_txt = " · ".join(canal_labels.get(c, c) for c in canais) or "não identificado"
+    canais_txt = " · ".join(canal_labels.get(c, c) for c in canais)
 
     origem_labels = {
         "domestica": "🇧🇷 Doméstica",
         "externa": "🌐 Externa",
         "ambas": "🇧🇷🌐 Doméstica + Externa",
     }
-    origem_txt = origem_labels.get(analysis.get("origem", ""), "—")
+    origem_txt = origem_labels.get(analysis.get("origem"))
 
     pub = representative_item.get("published") or "data não disponível"
 
@@ -428,10 +501,19 @@ def format_alert(group, representative_item, analysis):
         f"<b>{representative_item['title']}</b>\n"
         f"<i>{representative_item['source']} · {pub}</i>\n\n"
         f"📋 {analysis['resumo']}\n\n"
-        f"⚙️ <b>Canal:</b> {canais_txt}\n"
-        f"🧭 <b>Origem:</b> {origem_txt}\n"
-        f"💡 {analysis['leitura_critica']}\n\n"
     )
+
+    # So mostra Canal/Origem quando a propria noticia deu base explicita
+    # para isso (regra do prompt: sem inferencia). Se vazio, nao poluir
+    # a mensagem com "nao identificado".
+    if canais_txt:
+        header += f"⚙️ <b>Canal:</b> {canais_txt}\n"
+    if origem_txt:
+        header += f"🧭 <b>Origem:</b> {origem_txt}\n"
+    if canais_txt or origem_txt:
+        header += "\n"
+
+    header += f"💡 {analysis['leitura_critica']}\n\n"
 
     if len(group) > 1:
         # Mais de uma fonte trouxe titulo parecido - agrupado para o
@@ -459,6 +541,12 @@ def main():
     raw_items = collect_all_news()
     print(f"[info] {len(raw_items)} itens coletados de {len(FEEDS)} fontes")
 
+    fresh_items = [it for it in raw_items if not is_news_too_old(it.get("published_dt_utc"))]
+    discarded_old = len(raw_items) - len(fresh_items)
+    if discarded_old > 0:
+        print(f"[info] {discarded_old} itens descartados por serem mais antigos que {NEWS_MAX_AGE_HOURS}h")
+    raw_items = fresh_items
+
     if HOMOLOGACAO:
         # Modo homologacao: ignora cache e filtro de palavras-chave.
         # Forca analise das N noticias mais recentes, so para auditoria
@@ -485,7 +573,6 @@ def main():
         h = item_hash(item["title"], item["link"])
         if h in cache:
             continue
-        cache[h] = time.time()
         new_items.append(item)
 
     print(f"[info] {len(new_items)} itens novos (nao vistos antes)")
@@ -497,21 +584,47 @@ def main():
     multi_source_groups = sum(1 for g in groups if len(g) > 1)
     print(f"[info] {len(groups)} grupos formados ({multi_source_groups} com mais de uma fonte)")
 
+    # Limite de seguranca: o Gemini 2.5 Flash-Lite tem cota diaria de
+    # ~1500 requisicoes no tier gratuito. Com execucao a cada 15 min
+    # (96 execucoes/dia), processar mais de ~12 grupos por execucao
+    # arrisca esgotar a cota antes do fim do dia. Os grupos excedentes
+    # ficam descartados nesta rodada mas continuam disponiveis (nao
+    # marcados como vistos) para a proxima execucao, 15 min depois -
+    # por isso o cache so e atualizado para os itens dos grupos
+    # efetivamente processados, mais abaixo.
+    if len(groups) > MAX_GROUPS_PER_RUN:
+        print(f"[aviso] {len(groups)} grupos excedem o limite de {MAX_GROUPS_PER_RUN} por execucao - selecionando com diversidade entre fontes")
+        groups = diversify_by_source(groups, MAX_GROUPS_PER_RUN)
+
     sent_count = 0
     for group in groups:
         representative = pick_representative_item(group)
         analysis = analyze_with_gemini(representative)
+
+        # Marca no cache todos os itens deste grupo - ele foi processado
+        # (tentado), independente do resultado da analise. Isso evita
+        # tentar a mesma noticia infinitamente se a analise falhar por
+        # erro tecnico, mas tambem significa que uma falha de rate limit
+        # custa a chance daquela noticia ser re-analisada depois. Dado
+        # que o limite de RPM agora e respeitado (5s entre chamadas),
+        # falhas devem ser raras a partir desta versao.
+        for it in group:
+            h = item_hash(it["title"], it["link"])
+            cache[h] = time.time()
+
         if analysis is None:
             continue
-        if analysis.get("ignorar", True):
-            continue
-        if analysis.get("relevancia") == "BAIXA":
+        # Decisao de enviar ou nao e feita aqui no codigo, usando so a
+        # relevancia - nunca pelo campo "ignorar" da IA, que pode
+        # contradizer a propria classificacao (ex: relevancia=BAIXA
+        # mas ignorar=false). BAIXA sempre e descartada.
+        if analysis.get("relevancia") != "ALTA" and analysis.get("relevancia") != "MEDIA":
             continue
 
         msg = format_alert(group, representative, analysis)
         send_telegram(msg)
         sent_count += 1
-        time.sleep(1)  # respeitar rate limit do Gemini free tier
+        time.sleep(5)  # Gemini 2.5 Flash-Lite free tier: limite de 15 RPM (1 a cada 4s no maximo) - 5s de margem de seguranca
 
     print(f"[info] {sent_count} alertas enviados")
 
