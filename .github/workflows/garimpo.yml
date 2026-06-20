@@ -2,8 +2,11 @@ name: Portulanas - Garimpo Continuo
 
 on:
   schedule:
-    # A cada 15 minutos. GitHub Actions usa horario UTC.
-    - cron: "*/15 * * * *"
+    # A cada 30 minutos (ajustado de 15min - cota diaria do Gemini na
+    # conta atual e restrita a 20 req/dia, 15min geraria 96 exec/dia,
+    # quase 5x acima da cota mesmo com batch processing). GitHub
+    # Actions usa horario UTC.
+    - cron: "*/30 * * * *"
   workflow_dispatch: {}   # permite disparar manualmente pela aba Actions
 
 permissions:
