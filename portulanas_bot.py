@@ -129,14 +129,21 @@ CLASSIFICAÇÃO DE RELEVÂNCIA (escolha uma):
 - "MEDIA" — contribui para o quadro mas não é gatilho isolado (comentário de analista, dado secundário, fala de político sem novidade real)
 - "BAIXA" — ruído, evento social, notícia sem nenhuma relação com os canais acima
 
-FORMATO DE SAÍDA — responda APENAS em JSON válido, sem markdown, sem texto antes ou depois:
-{
-  "relevancia": "ALTA" | "MEDIA" | "BAIXA",
-  "resumo": "resumo objetivo da notícia em 2-4 frases, em português, traduzindo para o português caso a notícia original esteja em outro idioma. Cubra o que aconteceu, quem disse o quê, qual dado ou número saiu. Apenas o fato - sem teorizar sobre consequências que a notícia não afirma.",
-  "canais_afetados": [] - lista vazia se a notícia não falar explicitamente de nenhum canal, ou os canais que ela cita diretamente,
-  "origem": "domestica" | "externa" | "ambas" | null,
-  "leitura_critica": "1-2 frases dizendo por que essa notícia é relevante para quem acompanha o câmbio, usando SÓ o que a notícia disse - sem inventar mecanismo, sem 'isso pode sugerir', sem 'isso pode indicar'. Se a notícia já é auto-explicativa sobre sua relevância, pode repetir isso de forma direta em vez de forçar uma análise adicional. Se não houver nada de relevante a acrescentar além do resumo, pode deixar este campo igual ou muito próximo do resumo."
-}
+Você pode receber UMA OU VÁRIAS notícias na mesma consulta, cada uma identificada por um número (ex: "NOTÍCIA 1", "NOTÍCIA 2"). Analise cada uma de forma independente - uma notícia não deve influenciar a análise de outra, mesmo que estejam na mesma consulta.
+
+FORMATO DE SAÍDA — responda APENAS em JSON válido, sem markdown, sem texto antes ou depois. Se receber várias notícias, responda com uma LISTA de objetos, um por notícia, na mesma ordem em que foram apresentadas, cada um incluindo o campo "id" correspondente ao número da notícia:
+[
+  {
+    "id": 1,
+    "relevancia": "ALTA" | "MEDIA" | "BAIXA",
+    "resumo": "resumo objetivo da notícia em 2-4 frases, em português, traduzindo para o português caso a notícia original esteja em outro idioma. Cubra o que aconteceu, quem disse o quê, qual dado ou número saiu. Apenas o fato - sem teorizar sobre consequências que a notícia não afirma.",
+    "canais_afetados": [] - lista vazia se a notícia não falar explicitamente de nenhum canal, ou os canais que ela cita diretamente,
+    "origem": "domestica" | "externa" | "ambas" | null,
+    "leitura_critica": "1-2 frases dizendo por que essa notícia é relevante para quem acompanha o câmbio, usando SÓ o que a notícia disse - sem inventar mecanismo, sem 'isso pode sugerir', sem 'isso pode indicar'. Se a notícia já é auto-explicativa sobre sua relevância, pode repetir isso de forma direta em vez de forçar uma análise adicional. Se não houver nada de relevante a acrescentar além do resumo, pode deixar este campo igual ou muito próximo do resumo."
+  },
+  { "id": 2, ... }
+]
+Se receber apenas UMA notícia, responda com a LISTA contendo um único objeto (mesmo formato acima), não um objeto solto - mantenha sempre o formato de lista para que a resposta seja consistente independente de quantas notícias forem enviadas.
 
 Notícias sobre criptomoedas (Bitcoin, Ethereum, etc.) são BAIXA relevância por padrão. Só sobem para MEDIA ou ALTA se a própria notícia conectar explicitamente a um banco central, decisão regulatória de governo, ou evento que a notícia mesma diga ter relação com o sistema financeiro tradicional - nunca por inferência sua sobre "apetite a risco".
 
@@ -393,14 +400,25 @@ def pick_representative_item(group):
     return max(group, key=lambda it: len(it.get("summary", "")))
 
 
-def analyze_with_gemini(item):
-    user_content = f"""Notícia para análise:
+def analyze_batch_with_gemini(items):
+    """Analisa uma lista de itens em UMA UNICA chamada ao Gemini, em vez
+    de uma chamada por item. Reduz drasticamente o numero de requisicoes
+    consumidas - essencial dado o limite diario restrito da conta atual.
+    Retorna uma lista de analises na mesma ordem dos itens de entrada,
+    ou lista de Nones nas posicoes onde nao foi possivel obter analise."""
+    if not items:
+        return []
 
-Fonte: {item['source']}
-Título: {item['title']}
-Resumo: {item['summary']}
-Link: {item['link']}
-"""
+    noticias_txt = ""
+    for i, item in enumerate(items, start=1):
+        noticias_txt += (
+            f"\nNOTÍCIA {i}:\n"
+            f"Fonte: {item['source']}\n"
+            f"Título: {item['title']}\n"
+            f"Resumo: {item['summary']}\n"
+        )
+
+    user_content = f"Analise as seguintes {len(items)} notícia(s):\n{noticias_txt}"
 
     payload = {
         "contents": [
@@ -408,15 +426,15 @@ Link: {item['link']}
         ],
         "generationConfig": {
             "temperature": 0.3,
-            "maxOutputTokens": 600,
+            "maxOutputTokens": 600 * len(items) + 200,  # margem para overhead de formatacao da lista
         }
     }
 
     try:
         resp = call_gemini_with_retry(payload)
         if resp is None:
-            print(f"[erro] sem resposta do gemini apos retries para '{item['title'][:50]}'")
-            return None
+            print(f"[erro] sem resposta do gemini apos retries para batch de {len(items)} itens")
+            return [None] * len(items)
         data = resp.json()
         text = data["candidates"][0]["content"]["parts"][0]["text"]
 
@@ -428,11 +446,27 @@ Link: {item['link']}
                 text = text[4:]
         text = text.strip()
 
-        parsed = json.loads(text)
-        return parsed
+        parsed_list = json.loads(text)
+        if not isinstance(parsed_list, list):
+            # Seguranca: caso o modelo responda objeto solto em vez de lista
+            parsed_list = [parsed_list]
+
+        # Reordena pelos IDs para garantir alinhamento com a ordem original,
+        # mesmo que o modelo retorne fora de ordem
+        by_id = {}
+        for entry in parsed_list:
+            entry_id = entry.get("id")
+            if entry_id is not None:
+                by_id[entry_id] = entry
+
+        results = []
+        for i in range(1, len(items) + 1):
+            results.append(by_id.get(i))
+
+        return results
     except Exception as e:
-        print(f"[erro] analise gemini falhou para '{item['title'][:50]}': {e}")
-        return None
+        print(f"[erro] analise em batch falhou para {len(items)} itens: {e}")
+        return [None] * len(items)
 
 
 # ─────────────────────────────────────────────────────────────────
@@ -550,20 +584,22 @@ def main():
     if HOMOLOGACAO:
         # Modo homologacao: ignora cache e filtro de palavras-chave.
         # Forca analise das N noticias mais recentes, so para auditoria
-        # do formato e da fidelidade do prompt Portulanas.
+        # do formato e da fidelidade do prompt Portulanas. Usa batch
+        # processing tambem - mesmo em teste, economiza cota.
         candidates = raw_items[:HOMOLOG_SAMPLE_SIZE]
-        print(f"[info] modo homologacao: forcando analise de {len(candidates)} itens (sem filtro/cache)")
+        print(f"[info] modo homologacao: forcando analise de {len(candidates)} itens em 1 chamada batch (sem filtro/cache)")
+
+        analyses = analyze_batch_with_gemini(candidates)
 
         sent_count = 0
-        for item in candidates:
-            analysis = analyze_with_gemini(item)
+        for item, analysis in zip(candidates, analyses):
             if analysis is None:
                 print(f"[aviso] gemini nao retornou analise valida para '{item['title'][:50]}'")
                 continue
             msg = format_homolog_message(item, analysis)
             send_telegram(msg)
             sent_count += 1
-            time.sleep(2)
+            time.sleep(0.5)
 
         print(f"[info] homologacao: {sent_count} mensagens de teste enviadas")
         return  # nao salva cache em modo homologacao, para nao interferir no garimpo real
@@ -597,17 +633,20 @@ def main():
         groups = diversify_by_source(groups, MAX_GROUPS_PER_RUN)
 
     sent_count = 0
-    for group in groups:
-        representative = pick_representative_item(group)
-        analysis = analyze_with_gemini(representative)
 
+    # Batch processing: uma unica chamada ao Gemini para todos os grupos
+    # selecionados, em vez de uma chamada por grupo. Reduz drasticamente
+    # o numero de requisicoes consumidas - essencial dado o limite diario
+    # restrito observado na conta atual (20 req/dia).
+    representatives = [pick_representative_item(g) for g in groups]
+    analyses = analyze_batch_with_gemini(representatives) if representatives else []
+
+    for group, representative, analysis in zip(groups, representatives, analyses):
         # Marca no cache todos os itens deste grupo - ele foi processado
         # (tentado), independente do resultado da analise. Isso evita
         # tentar a mesma noticia infinitamente se a analise falhar por
-        # erro tecnico, mas tambem significa que uma falha de rate limit
-        # custa a chance daquela noticia ser re-analisada depois. Dado
-        # que o limite de RPM agora e respeitado (5s entre chamadas),
-        # falhas devem ser raras a partir desta versao.
+        # erro tecnico, mas tambem significa que uma falha custa a chance
+        # daquela noticia ser re-analisada depois.
         for it in group:
             h = item_hash(it["title"], it["link"])
             cache[h] = time.time()
@@ -624,7 +663,7 @@ def main():
         msg = format_alert(group, representative, analysis)
         send_telegram(msg)
         sent_count += 1
-        time.sleep(5)  # Gemini 2.5 Flash-Lite free tier: limite de 15 RPM (1 a cada 4s no maximo) - 5s de margem de seguranca
+        time.sleep(0.5)  # pequena pausa entre envios ao Telegram, evita rajada
 
     print(f"[info] {sent_count} alertas enviados")
 
