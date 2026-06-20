@@ -4,13 +4,13 @@ Robô de garimpo de notícias macro para apoio à operação de WDO (mini dólar
 
 ## O que ele faz
 
-1. **Garimpo contínuo** (a cada 15 minutos, todos os dias): coleta notícias de Reuters, Investing.com, InfoMoney, Valor Econômico e ForexLive. Filtra por palavras-chave de relevância e, para as candidatas, usa o Gemini para classificar relevância (ALTA/MÉDIA/BAIXA) e aplicar a lógica de correlação direta/inversa/contextual com o WDO. Só envia alerta no Telegram se a notícia for relevante.
+1. **Garimpo contínuo** (a cada 30 minutos, todos os dias): coleta notícias de Investing.com, InfoMoney, Valor Econômico, ForexLive, Money Times, InvestNews, Google News (busca direcionada) e Folha Mercado. Filtra por palavras-chave de relevância e, para as candidatas, usa o Groq (llama-3.1-8b-instant) em uma única chamada batch por execução para classificar relevância (ALTA/MÉDIA/BAIXA), identificar canais afetados (juros, inflação, atividade/emprego, fiscal/político, fluxo de capital) e origem (doméstica/externa/ambas) — só quando a própria notícia afirmar isso explicitamente, sem inferência especulativa. Só envia alerta no Telegram se a notícia for relevante.
 
 2. **Panorama de abertura** (08:30 BRT, dias de semana): visão geral do macro para começar o dia.
 
 3. **Checkpoint hora a hora** (09h às 16h BRT, dias de semana): rodada obrigatória de contexto, mesmo sem notícia nova.
 
-4. **Homologação** (16h às 20h30 BRT, todos os dias, ou disparo manual a qualquer momento): workflow de teste/auditoria. Ignora cache e filtro de palavras-chave, força a análise via Gemini das notícias mais recentes e envia o JSON crú retornado no Telegram. Serve para verificar, a qualquer momento, se o Gemini continua seguindo fielmente a lógica de correlação do Trade System — não é parte do fluxo de produção, é só uma ferramenta de controle de qualidade.
+4. **Homologação** (16h às 20h30 BRT, todos os dias, ou disparo manual a qualquer momento): workflow de teste/auditoria. Ignora cache e filtro de palavras-chave, força a análise via Groq das notícias mais recentes e envia o JSON crú retornado no Telegram. Serve para verificar, a qualquer momento, se o Groq continua seguindo fielmente a lógica de correlação do Trade System — não é parte do fluxo de produção, é só uma ferramenta de controle de qualidade.
 
 ## Agrupamento de notícias por assunto
 
@@ -35,13 +35,13 @@ Três secrets no repositório (`Settings → Secrets and variables → Actions`)
 
 - `TELEGRAM_BOT_TOKEN` — token do bot, obtido via @BotFather
 - `TELEGRAM_CHAT_ID` — ID do chat para onde as mensagens são enviadas
-- `GEMINI_API_KEY` — chave de API do Google AI Studio (Gemini, tier gratuito)
+- `GROQ_API_KEY` — chave de API do Groq (console.groq.com, tier gratuito)
 
 ## Custo
 
 100% gratuito no volume de uso esperado:
 - GitHub Actions: dentro do tier gratuito mensal (repositório público = ilimitado)
-- Gemini Flash: dentro do tier gratuito diário do Google AI Studio
+- Groq (llama-3.1-8b-instant): dentro do tier gratuito de 14.400 requisições/dia
 - Telegram Bot API: sempre gratuita
 
 ## Ajustando a lógica
@@ -52,10 +52,10 @@ As palavras-chave de relevância (filtro antes de gastar chamada de IA) estão e
 
 ## Auditando o prompt (homologação)
 
-Depois de qualquer ajuste no `PORTULANAS_SYSTEM_PROMPT`, é recomendável conferir se o Gemini está de fato seguindo a lógica nova antes de confiar nos alertas de produção. Para isso:
+Depois de qualquer ajuste no `PORTULANAS_SYSTEM_PROMPT`, é recomendável conferir se o Groq está de fato seguindo a lógica nova antes de confiar nos alertas de produção. Para isso:
 
 1. Vá na aba **Actions** → workflow **"Portulanas - Homologação"** → **Run workflow**
-2. Em poucos segundos, chegam no Telegram mensagens com o JSON completo retornado pelo Gemini para as notícias mais recentes
+2. Em poucos segundos, chegam no Telegram mensagens com o JSON completo retornado pelo Groq para as notícias mais recentes
 3. Compare a classificação de `correlacao_wdo` e o texto de `leitura_critica` com o que o Trade System diz que deveria ser
 
 Esse workflow nunca interfere no garimpo de produção — não usa o cache (`seen_cache.json`) e não respeita o filtro de palavras-chave, propositalmente, para garantir que sempre haverá algo para testar.

@@ -18,10 +18,12 @@ from datetime import datetime, timezone, timedelta
 
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID   = os.environ["TELEGRAM_CHAT_ID"]
-GEMINI_API_KEY     = os.environ["GEMINI_API_KEY"]
+GROQ_API_KEY       = os.environ["GROQ_API_KEY"]
 
-GEMINI_MODEL = "gemini-2.5-flash-lite"  # gemini-2.0-flash foi desativado em 01/06/2026
-GEMINI_URL   = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
+# Migrado de Gemini para Groq (mesma razao do portulanas_bot.py: cota
+# do Gemini ficou limitada a 20 req/dia na conta atual).
+GROQ_MODEL = "llama-3.1-8b-instant"
+GROQ_URL   = "https://api.groq.com/openai/v1/chat/completions"
 
 TZ_BR = timezone(timedelta(hours=-3))
 
@@ -41,12 +43,16 @@ Seja direto, sem floreio, sem "fique atento" genérico. Máximo 6 linhas de text
 """
 
 
-def call_gemini_with_retry(payload, max_retries=3, base_wait=15):
-    """Chama a API do Gemini com retry automatico em caso de rate limit (429).
+def call_groq_with_retry(payload, max_retries=3, base_wait=15):
+    """Chama a API do Groq com retry automatico em caso de rate limit (429).
     Espera progressiva: 15s, 30s, 60s entre tentativas."""
+    headers = {
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Content-Type": "application/json",
+    }
     for attempt in range(1, max_retries + 1):
         try:
-            resp = requests.post(GEMINI_URL, json=payload, timeout=20)
+            resp = requests.post(GROQ_URL, json=payload, headers=headers, timeout=20)
             if resp.status_code == 429:
                 wait = base_wait * attempt
                 print(f"[aviso] rate limit (429) na tentativa {attempt}/{max_retries}, aguardando {wait}s")
@@ -62,21 +68,23 @@ def call_gemini_with_retry(payload, max_retries=3, base_wait=15):
     return None
 
 
-def ask_gemini_panorama(tipo_label):
+def ask_groq_panorama(tipo_label):
     prompt = PANORAMA_PROMPT.format(tipo=tipo_label)
     payload = {
-        "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.4, "maxOutputTokens": 350},
+        "model": GROQ_MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.4,
+        "max_tokens": 350,
     }
     try:
-        resp = call_gemini_with_retry(payload)
+        resp = call_groq_with_retry(payload)
         if resp is None:
-            print("[erro] sem resposta do gemini apos retries")
+            print("[erro] sem resposta do groq apos retries")
             return None
         data = resp.json()
-        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        return data["choices"][0]["message"]["content"].strip()
     except Exception as e:
-        print(f"[erro] gemini panorama falhou: {e}")
+        print(f"[erro] groq panorama falhou: {e}")
         return None
 
 
@@ -105,7 +113,7 @@ def main():
         tipo_label = "checkpoint horário obrigatório"
         header = f"PORTULANAS - CHECKPOINT {hora}\n\n"
 
-    texto = ask_gemini_panorama(tipo_label)
+    texto = ask_groq_panorama(tipo_label)
     if texto is None:
         texto = "Não foi possível gerar o panorama agora — falha na consulta ao motor de análise. Verifique manualmente o painel macro."
 
