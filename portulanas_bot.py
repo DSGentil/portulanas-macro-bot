@@ -120,7 +120,7 @@ CANAIS POSSÍVEIS (marque só se a notícia falar EXPLICITAMENTE sobre isso - po
 - "juros" — a notícia é sobre Selic, Copom, DI, Fed, BCE ou outra decisão/expectativa de juros, dita explicitamente
 - "inflacao" — a notícia traz um dado, expectativa ou fala explícita sobre inflação, CPI, IPCA, preços
 - "atividade_emprego" — a notícia traz um dado explícito de PIB, produção industrial, payroll, desemprego
-- "fiscal_politico" — a notícia descreve uma DECISÃO ou MUDANÇA concreta de política fiscal, orçamentária ou regulatória (ex: arcabouço fiscal alterado, déficit anunciado, dívida pública divulgada, novo imposto, mudança de regra para empresas/investidores). Resultado de eleição, candidatura, declaração de político sobre disputa eleitoral, ou nomeação de cargo NÃO entra aqui por padrão - são fatos políticos, mas só conectam a este canal se a notícia também descrever uma consequência fiscal/regulatória concreta dessa mudança política, e essa consequência precisa estar no texto, não suposta por você. Exemplo do que NÃO marcar: "deputado X não vai disputar eleição para governador" sozinho não é fiscal_politico - é um fato eleitoral sem decisão fiscal associada.
+- "decisao_fiscal_regulatoria" — a notícia descreve uma DECISÃO ou MUDANÇA JÁ TOMADA (ou oficialmente proposta em texto/projeto de lei) de política fiscal, orçamentária ou regulatória, com efeito prático declarado no texto (ex: arcabouço fiscal alterado, déficit anunciado, dívida pública divulgada, novo imposto criado ou extinto, mudança de regra para empresas/investidores, decisão de tribunal com efeito tributário). Este canal é APENAS para decisões/normas concretas — não é um canal de "política" em geral. NÃO marque este canal para: resultado de eleição, intenção de candidatura, declaração de desistência de disputa eleitoral, nomeação de pessoa para cargo, pesquisa de opinião/aprovação de governo, declaração de político pedindo ou defendendo algo (sem que a coisa pedida já tenha sido decidida), comentário sobre cenário político geral. Esses são fatos políticos legítimos, mas SEM decisão fiscal/regulatória concreta e já efetivada no texto, não marque o canal. Exemplos do que NÃO marcar, baseados em erros já cometidos: "deputado X não vai disputar eleição para governador" (fato eleitoral, sem decisão fiscal); "pesquisa Datafolha mostra aprovação de X% ao governo" (pesquisa de opinião, não é decisão); "ministro pede mais transparência ao Banco Central" (pedido/cobrança, não é decisão tomada). Exemplo do que SIM marcar: "Copom decide manter Selic em X%" (decisão de política monetária já tomada); "Congresso aprova novo arcabouço fiscal" (mudança regulatória efetivada).
 - "fluxo_capital" — a notícia descreve explicitamente um movimento de capital estrangeiro entrando ou saindo, e diz para onde (renda fixa, renda variável, ou de forma geral se a notícia não especificar - mas então registre como "não especificado" na leitura, não complete a lacuna)
 
 ORIGEM DO EFEITO (marque só se for claro pelo conteúdo - pode deixar null se não for óbvio):
@@ -545,7 +545,7 @@ def format_alert(group, representative_item, analysis):
         "juros": "Juros",
         "inflacao": "Inflação",
         "atividade_emprego": "Atividade / Emprego",
-        "fiscal_politico": "Fiscal / Político",
+        "decisao_fiscal_regulatoria": "Fiscal / Regulatório",
         "fluxo_capital": "Fluxo de Capital",
     }
     canais = analysis.get("canais_afetados", []) or []
