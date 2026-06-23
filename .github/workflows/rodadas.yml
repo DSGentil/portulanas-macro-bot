@@ -1,12 +1,21 @@
 name: Portulanas - Rodadas Programadas
 
 on:
-  schedule:
-    # Horarios em UTC. Brasilia = UTC-3 (sem horario de verao atualmente).
-    # 08:30 BRT = 11:30 UTC -> panorama de abertura
-    - cron: "30 11 * * 1-5"
-    # Checkpoints hora a hora, 09h as 16h BRT = 12h as 19h UTC, dias de semana
-    - cron: "0 12-19 * * 1-5"
+  # ── DISPAROS AUTOMATICOS PAUSADOS ──
+  # O panorama/checkpoint estava gerando narrativa de mercado sem
+  # nenhum dado real (o modelo "alucinava" o cenario de DXY/treasuries/
+  # bolsas, sem ler nenhuma fonte de dado de fato), e o layout das
+  # mensagens nao era consistente com o do Garimpo. Pausado em
+  # 21/06/2026 a pedido do operador, ate decidir se vale reformular
+  # esse workflow com dados reais (e nao so o modelo "chutando"), ou
+  # manter apenas o Garimpo como unico workflow de producao.
+  # Para reativar um agendamento automatico no futuro, adicionar de
+  # volta um bloco assim:
+  #
+  # schedule:
+  #   - cron: "30 11 * * 1-5"
+  #   - cron: "0 12-19 * * 1-5"
+  #
   workflow_dispatch:
     inputs:
       tipo:
