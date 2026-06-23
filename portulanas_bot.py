@@ -3,7 +3,7 @@ Portulanas Macro Bot
 RIVOOS WEALTH · DG
 
 Coleta noticias de portais financeiros, filtra por relevancia,
-analisa com Groq usando a logica do Trade System WDO (correlacao
+analisa com Gemini usando a logica do Trade System WDO (correlacao
 direta/inversa/contextual) e envia resumo critico no Telegram.
 
 Roda via GitHub Actions a cada 10-15 minutos.
@@ -31,15 +31,18 @@ HOMOLOG_SAMPLE_SIZE = int(os.environ.get("PORTULANAS_HOMOLOG_SAMPLE", "3"))
 
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID   = os.environ["TELEGRAM_CHAT_ID"]
-GROQ_API_KEY       = os.environ["GROQ_API_KEY"]
+GEMINI_API_KEY     = os.environ["GEMINI_API_KEY"]
 
-# Migrado de Gemini para Groq: a conta do Gemini ficou limitada a 20
-# requisicoes/dia (muito abaixo do padrao publicado de 1500/dia, por
-# motivo nao identificado), o que era insuficiente mesmo com batch
-# processing. Groq llama-3.1-8b-instant tem cota de 14.400 req/dia no
-# tier gratuito - a mais alta entre os modelos do Groq.
-GROQ_MODEL = "llama-3.1-8b-instant"
-GROQ_URL   = "https://api.groq.com/openai/v1/chat/completions"
+# Revertido de Groq para Gemini: o Llama 8B (Groq) alucinava com mais
+# frequencia e seguia instrucao de prompt com menos precisao (campo
+# leitura_critica vazio, canal fiscal_politico mal aplicado mesmo com
+# regras explicitas). O Gemini 2.5 Flash-Lite segue melhor o prompt,
+# ao custo de uma cota diaria mais restrita (20 req/dia na conta atual).
+# Essa cota deixou de ser um problema real porque o garimpo passou a
+# rodar em JANELAS FIXAS (poucas vezes ao dia, nao mais a cada 15-30
+# min continuamente) - ver .github/workflows/garimpo.yml.
+GEMINI_MODEL = "gemini-2.5-flash-lite"
+GEMINI_URL   = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
 
 CACHE_FILE = "seen_cache.json"
 CACHE_MAX_AGE_HOURS = 36  # itens mais antigos que isso saem do cache
@@ -51,13 +54,25 @@ CACHE_MAX_AGE_HOURS = 36  # itens mais antigos que isso saem do cache
 NEWS_MAX_AGE_HOURS = 6
 
 # Limite de grupos analisados por execucao do garimpo (dentro da MESMA
-# chamada batch ao Groq). Com batch processing, isso nao consome mais
-# requisicoes extras de cota (a chamada e sempre 1, independente do
-# tamanho do lote) - o limite aqui existe para manter o tamanho do
-# prompt/resposta administravel e a leitura humana das mensagens
-# enviadas em sequencia ao Telegram razoavel. Com Groq (14.400 req/dia,
-# bem acima do que precisamos), nao ha mais pressao de cota para isso.
+# chamada batch ao Gemini). Com janelas fixas (poucas execucoes por dia,
+# nao mais continuo), o volume de candidatos por execucao tende a ser
+# maior (acumula desde a janela anterior) - este limite existe para
+# manter o tamanho do prompt/resposta administravel.
 MAX_GROUPS_PER_RUN = 20
+
+# Quantidade de noticias que cada janela fixa SEMPRE envia, mesmo que
+# nenhuma seja de relevancia alta - o operador pediu um "Top N sempre
+# visivel" em vez de silencio total quando a janela for fraca em
+# noticia relevante. Usado apenas no modo de janela fixa (ver
+# PORTULANAS_WINDOW abaixo); o garimpo padrao continua so enviando
+# ALTA/MEDIA, sem garantia de quantidade.
+TOP_N_GUARANTEED = int(os.environ.get("PORTULANAS_TOP_N", "5"))
+
+# Se ativado (via variavel de ambiente), o garimpo roda em "modo janela
+# fixa": sempre envia o Top N de noticias mais relevantes encontradas,
+# mesmo que nenhuma seja ALTA/MEDIA. Pensado para rodar em horarios
+# especificos do dia (08:40, 10:15, etc.) em vez de continuamente.
+JANELA_FIXA = os.environ.get("PORTULANAS_JANELA_FIXA", "0") == "1"
 
 # Fuso de Brasilia
 TZ_BR = timezone(timedelta(hours=-3))
@@ -346,19 +361,15 @@ def group_similar_items(items):
 
 
 # ─────────────────────────────────────────────────────────────────
-# ANALISE VIA GROQ — segunda camada, aplica logica Portulanas
+# ANALISE VIA GEMINI — segunda camada, aplica logica Portulanas
 # ─────────────────────────────────────────────────────────────────
 
-def call_groq_with_retry(payload, max_retries=3, base_wait=15):
-    """Chama a API do Groq com retry automatico em caso de rate limit (429).
+def call_gemini_with_retry(payload, max_retries=3, base_wait=15):
+    """Chama a API do Gemini com retry automatico em caso de rate limit (429).
     Espera progressiva: 15s, 30s, 60s entre tentativas."""
-    headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
-        "Content-Type": "application/json",
-    }
     for attempt in range(1, max_retries + 1):
         try:
-            resp = requests.post(GROQ_URL, json=payload, headers=headers, timeout=20)
+            resp = requests.post(GEMINI_URL, json=payload, timeout=20)
             if resp.status_code == 429:
                 wait = base_wait * attempt
                 print(f"[aviso] rate limit (429) na tentativa {attempt}/{max_retries}, aguardando {wait}s")
@@ -410,16 +421,16 @@ def diversify_by_source(groups, max_items):
 
 def pick_representative_item(group):
     """Escolhe o item mais informativo de um grupo (maior resumo)
-    para servir de base da analise enviada ao Groq."""
+    para servir de base da analise enviada ao Gemini."""
     return max(group, key=lambda it: len(it.get("summary", "")))
 
 
-def analyze_batch_with_groq(items):
-    """Analisa uma lista de itens em UMA UNICA chamada ao Groq, em vez
+def analyze_batch_with_gemini(items):
+    """Analisa uma lista de itens em UMA UNICA chamada ao Gemini, em vez
     de uma chamada por item. Reduz drasticamente o numero de requisicoes
-    consumidas. Retorna uma lista de analises na mesma ordem dos itens
-    de entrada, ou lista de Nones nas posicoes onde nao foi possivel
-    obter analise."""
+    consumidas - essencial dado o limite diario restrito da conta atual.
+    Retorna uma lista de analises na mesma ordem dos itens de entrada,
+    ou lista de Nones nas posicoes onde nao foi possivel obter analise."""
     if not items:
         return []
 
@@ -435,23 +446,22 @@ def analyze_batch_with_groq(items):
     user_content = f"Analise as seguintes {len(items)} notícia(s):\n{noticias_txt}"
 
     payload = {
-        "model": GROQ_MODEL,
-        "messages": [
-            {"role": "system", "content": PORTULANAS_SYSTEM_PROMPT},
-            {"role": "user", "content": user_content},
+        "contents": [
+            {"role": "user", "parts": [{"text": PORTULANAS_SYSTEM_PROMPT + "\n\n" + user_content}]}
         ],
-        "temperature": 0.3,
-        "max_tokens": 600 * len(items) + 200,  # margem para overhead de formatacao da lista
-        "response_format": {"type": "json_object"},
+        "generationConfig": {
+            "temperature": 0.3,
+            "maxOutputTokens": 600 * len(items) + 200,  # margem para overhead de formatacao da lista
+        }
     }
 
     try:
-        resp = call_groq_with_retry(payload)
+        resp = call_gemini_with_retry(payload)
         if resp is None:
-            print(f"[erro] sem resposta do groq apos retries para batch de {len(items)} itens")
+            print(f"[erro] sem resposta do gemini apos retries para batch de {len(items)} itens")
             return [None] * len(items)
         data = resp.json()
-        text = data["choices"][0]["message"]["content"]
+        text = data["candidates"][0]["content"]["parts"][0]["text"]
 
         # Limpar possiveis blocos de markdown ```json ... ```
         text = text.strip()
@@ -463,12 +473,10 @@ def analyze_batch_with_groq(items):
 
         parsed = json.loads(text)
 
-        # response_format json_object do Groq exige um OBJETO raiz, nao
-        # uma lista solta - por isso o prompt pede lista, mas o Groq pode
-        # encapsular como {"resultados": [...]} ou devolver a lista direto
-        # dependendo de como o modelo interpretar. Tratamos os dois casos.
+        # O prompt pede um objeto com chave "analises" contendo a lista,
+        # mas tratamos tambem o caso de o modelo devolver lista direta ou
+        # objeto solto, por robustez.
         if isinstance(parsed, dict):
-            # Procura a primeira chave que contenha uma lista
             parsed_list = None
             for value in parsed.values():
                 if isinstance(value, list):
@@ -519,7 +527,7 @@ def send_telegram(text):
 
 
 def format_homolog_message(item, analysis):
-    """Formata mensagem de homologacao incluindo o JSON crú do Groq,
+    """Formata mensagem de homologacao incluindo o JSON crú do Gemini,
     para auditoria de que a logica Portulanas esta sendo seguida."""
     raw_json = json.dumps(analysis, ensure_ascii=False, indent=2)
     pub = item.get("published") or "data não disponível"
@@ -528,7 +536,7 @@ def format_homolog_message(item, analysis):
         f"🧪 <b>HOMOLOGAÇÃO · AUDITORIA DE PROMPT</b>\n\n"
         f"<b>{item['title']}</b>\n"
         f"<i>{item['source']} · {pub}</i>\n\n"
-        f"<b>JSON retornado pelo Groq:</b>\n"
+        f"<b>JSON retornado pelo Gemini:</b>\n"
         f"<pre>{raw_json}</pre>\n\n"
         f"🔗 {item['link']}\n\n"
         f"⚠️ <i>Esta notícia foi forçada para teste, mesmo sem confirmação de relevância real. "
@@ -625,12 +633,12 @@ def main():
         candidates = raw_items[:HOMOLOG_SAMPLE_SIZE]
         print(f"[info] modo homologacao: forcando analise de {len(candidates)} itens em 1 chamada batch (sem filtro/cache)")
 
-        analyses = analyze_batch_with_groq(candidates)
+        analyses = analyze_batch_with_gemini(candidates)
 
         sent_count = 0
         for item, analysis in zip(candidates, analyses):
             if analysis is None:
-                print(f"[aviso] groq nao retornou analise valida para '{item['title'][:50]}'")
+                print(f"[aviso] gemini nao retornou analise valida para '{item['title'][:50]}'")
                 continue
             msg = format_homolog_message(item, analysis)
             send_telegram(msg)
@@ -656,12 +664,12 @@ def main():
     multi_source_groups = sum(1 for g in groups if len(g) > 1)
     print(f"[info] {len(groups)} grupos formados ({multi_source_groups} com mais de uma fonte)")
 
-    # Limite de seguranca: o motor de IA tem cota diaria de
-    # ~1500 requisicoes no tier gratuito. Com execucao a cada 15 min
-    # (96 execucoes/dia), processar mais de ~12 grupos por execucao
-    # arrisca esgotar a cota antes do fim do dia. Os grupos excedentes
-    # ficam descartados nesta rodada mas continuam disponiveis (nao
-    # marcados como vistos) para a proxima execucao, 15 min depois -
+    # Limite de seguranca: o Gemini 2.5 Flash-Lite tem cota diaria
+    # restrita (20 req/dia na conta atual). Processar grupos demais numa
+    # unica chamada batch nao consome mais requisicoes (e sempre 1
+    # chamada), mas mantem o tamanho do prompt/resposta administravel.
+    # Os grupos excedentes ficam descartados nesta rodada mas continuam
+    # disponiveis (nao marcados como vistos) para a proxima execucao -
     # por isso o cache so e atualizado para os itens dos grupos
     # efetivamente processados, mais abaixo.
     if len(groups) > MAX_GROUPS_PER_RUN:
@@ -670,23 +678,52 @@ def main():
 
     sent_count = 0
 
-    # Batch processing: uma unica chamada ao Groq para todos os grupos
+    # Batch processing: uma unica chamada ao Gemini para todos os grupos
     # selecionados, em vez de uma chamada por grupo. Reduz drasticamente
     # o numero de requisicoes consumidas - essencial dado o limite diario
     # restrito observado na conta atual (20 req/dia).
     representatives = [pick_representative_item(g) for g in groups]
-    analyses = analyze_batch_with_groq(representatives) if representatives else []
+    analyses = analyze_batch_with_gemini(representatives) if representatives else []
 
-    for group, representative, analysis in zip(groups, representatives, analyses):
-        # Marca no cache todos os itens deste grupo - ele foi processado
-        # (tentado), independente do resultado da analise. Isso evita
-        # tentar a mesma noticia infinitamente se a analise falhar por
-        # erro tecnico, mas tambem significa que uma falha custa a chance
-        # daquela noticia ser re-analisada depois.
+    # Marca no cache todos os itens de todos os grupos processados,
+    # independente do resultado - isso evita tentar a mesma noticia
+    # infinitamente se a analise falhar por erro tecnico.
+    for group in groups:
         for it in group:
             h = item_hash(it["title"], it["link"])
             cache[h] = time.time()
 
+    if JANELA_FIXA:
+        # Modo janela fixa: SEMPRE envia o Top N de noticias mais
+        # relevantes encontradas nesta janela, mesmo que nenhuma seja
+        # ALTA/MEDIA. Ordena por relevancia (ALTA > MEDIA > BAIXA) e
+        # corta no TOP_N_GUARANTEED. Nao aplica o filtro binario do
+        # garimpo continuo - aqui a garantia de "sempre mostrar algo"
+        # tem prioridade sobre o rigor do corte de relevancia.
+        rel_order = {"ALTA": 0, "MEDIA": 1, "BAIXA": 2}
+        triplets = [
+            (group, representative, analysis)
+            for group, representative, analysis in zip(groups, representatives, analyses)
+            if analysis is not None
+        ]
+        triplets.sort(key=lambda t: rel_order.get(t[2].get("relevancia"), 3))
+        triplets = triplets[:TOP_N_GUARANTEED]
+
+        print(f"[info] modo janela fixa: enviando top {len(triplets)} de {len(analyses)} analisadas")
+
+        for group, representative, analysis in triplets:
+            msg = format_alert(group, representative, analysis)
+            send_telegram(msg)
+            sent_count += 1
+            time.sleep(0.5)
+
+        print(f"[info] {sent_count} alertas enviados (janela fixa)")
+        save_cache(cache)
+        return
+
+    # Modo garimpo padrao: so envia ALTA/MEDIA, sem garantia de
+    # quantidade - pode nao enviar nada se a janela for fraca.
+    for group, representative, analysis in zip(groups, representatives, analyses):
         if analysis is None:
             continue
         # Decisao de enviar ou nao e feita aqui no codigo, usando so a
