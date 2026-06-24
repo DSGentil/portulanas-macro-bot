@@ -435,5 +435,111 @@
     "origem": "domestica",
     "leitura_critica": "A notícia trata da distribuição de juros sobre capital próprio pela B3, um evento corporativo específico. Não há impacto direto nos canais de juros, inflação, atividade/emprego ou decisões fiscais/regulatórias.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782338614.5225985,
+    "titulo": "Fatores pontuais podem ajudar, mas queda de juros estrutural depende do fiscal, aponta BGC Liquidez",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 17:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia conecta explicitamente a possibilidade de queda de juros à necessidade de um cenário fiscal favorável, indicando que a trajetória da Selic está atrelada a decisões fiscais futuras. Se o cenário fiscal se deteriorar, a expectativa de queda de juros pode ser frustrada; se houver avanços fiscais, o corte de juros pode se concretizar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782338616.7635722,
+    "titulo": "Economistas preveem que El Niño elevará inflação no Brasil, mostra consulta do BC",
+    "fonte": "Folha Mercado",
+    "publicado": "24/06 18:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aponta para uma expectativa de aumento da inflação devido a um fator climático (El Niño), conforme projeções de economistas. Se o fenômeno se intensificar e os preços de commodities agrícolas subirem de forma expressiva, a inflação pode vir acima do esperado, pressionando o Banco Central a manter uma postura mais restritiva nos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782338619.0925033,
+    "titulo": "Mato Grosso do Sul mostra potencial para ampliar processamento de soja - Globo Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "24/06 17:54",
+    "relevancia": "BAIXA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata de um desenvolvimento regional e setorial específico (processamento de soja em MS), sem conexão direta com canais macroeconômicos ou decisões fiscais/regulatórias de impacto nacional. É uma informação sobre o agronegócio, mas sem desdobramentos macro evidentes no texto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782338621.309463,
+    "titulo": "Governo autoriza concurso para CGU e ANPD; salários podem chegar a R$ 20 mil",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 17:32",
+    "relevancia": "BAIXA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata da autorização de concursos públicos para órgãos específicos, o que é uma decisão administrativa. Não se trata de uma mudança fiscal ou regulatória com impacto macroeconômico amplo, nem de dados de inflação, juros ou atividade. A relevância é baixa por ser uma notícia de gestão pública sem reflexos diretos nos canais de análise.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782338643.8578937,
+    "titulo": "Exclusivo: Braskem entra ainda nesta quarta com cautelar para se proteger de cobranças de credores, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 18:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata de uma ação judicial de proteção contra credores por parte de uma empresa privada, o que não se enquadra diretamente em decisão fiscal ou regulatória governamental com impacto macroeconômico amplo. Se a medida afetar a saúde financeira de um setor relevante ou gerar um precedente regulatório, sua relevância poderia ser reavaliada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782338643.8589165,
+    "titulo": "Fornecedora da Apple precifica IPO em Hong Kong visando levantar R$ 5,4 bi para atender IA",
+    "fonte": "Folha Mercado",
+    "publicado": "24/06 18:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia descreve um evento de mercado de capitais externo (IPO em Hong Kong) focado em um setor específico (IA), sem conexão explícita com canais de juros, inflação, atividade/emprego ou decisões fiscais/regulatórias brasileiras. Se o volume levantado for excepcionalmente grande e houver menção a impacto no fluxo de capital global, a relevância poderia ser maior.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782338643.859906,
+    "titulo": "Micron Technology superou as altas expectativas de Wall Street para seu 3º trimestre fiscal",
+    "fonte": "Money Times",
+    "publicado": "24/06 17:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia trata do resultado financeiro de uma empresa de tecnologia específica, com menção ao mercado de IA. Embora possa indicar tendências em setores de tecnologia globais, não há conexão explícita com canais macroeconômicos brasileiros ou decisões fiscais/regulatórias. O resultado positivo pode influenciar o sentimento em relação a empresas de tecnologia listadas em bolsas globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782338643.8608327,
+    "titulo": "Bolsas de NY encerram sem direção única com alívio no petróleo e cautela com techs",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 17:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia descreve o comportamento misto das bolsas americanas, influenciado por commodities (petróleo) e pelo setor de tecnologia. A queda nos rendimentos dos Treasuries é mencionada como suporte, mas sem detalhar a causa. Se a cautela com techs se intensificar, pode impactar o apetite a risco global, mas a notícia não faz essa conexão explícita.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782338643.8617287,
+    "titulo": "Bitcoin paira abaixo de US$ 61 mil em meio à queda de ações de tecnologia, temores de juros e saídas de ETFs",
+    "fonte": "Investing.com",
+    "publicado": "24/06 18:44",
+    "relevancia": "BAIXA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia descreve a performance do Bitcoin sem conectar explicitamente a movimentos de capital para o Brasil ou a decisões de política monetária doméstica. Se a queda de ações de tecnologia persistir, isso pode indicar um apetite a risco global reduzido, mas a notícia não faz essa conexão.",
+    "is_stocks": true
   }
 ]
