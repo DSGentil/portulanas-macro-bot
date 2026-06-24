@@ -85,6 +85,14 @@ DISCLAIMER_TEXT = (
     "certificado antes de qualquer decisão financeira.</i>"
 )
 
+# Separador visual enviado como mensagem propria, antes do bloco de
+# Acoes/FIIs comecar - marca onde o bloco macro termina e o bloco de
+# RV comeca, sem precisar de tag no titulo de cada noticia.
+STOCKS_BLOCK_SEPARATOR = (
+    "➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n"
+    "📊 <b>AÇÕES & FUNDOS</b>"
+)
+
 # Fuso de Brasilia
 TZ_BR = timezone(timedelta(hours=-3))
 
@@ -102,20 +110,102 @@ FEEDS = {
     "Google News Macro":  "https://news.google.com/rss/search?q=d%C3%B3lar+OR+Fed+OR+Copom+OR+PTAX&hl=pt-BR&gl=BR&ceid=BR:pt-419",
 }
 
-# Palavras-chave de alta relevancia (filtro barato antes de gastar chamada de IA)
-HIGH_RELEVANCE_KEYWORDS = [
-    # Bancos centrais e juros
-    "fed", "fomc", "powell", "copom", "selic", "banco central", "bacen",
-    "juros", "taxa de juros", "interest rate",
-    # Inflacao e atividade
-    "cpi", "ipca", "payroll", "nonfarm", "pib", "gdp", "inflação", "inflation",
-    # Geopolitica
-    "hormuz", "irã", "iran", "guerra", "war", "conflito", "ataque", "sanç",
-    "opep", "opec",
-    # Cambio e commodities direto
-    "dólar", "dollar", "dxy", "ptax", "petróleo", "oil", "brent", "wti",
-    "treasury", "treasuries", "yield",
+# ─────────────────────────────────────────────────────────────────
+# TAXONOMIA DE RELEVANCIA — estruturada por bloco tematico, nao mais
+# lista solta. Cada bloco cobre um dominio especifico de impacto
+# (cambio, juros, inflacao, etc) com termos PT-BR e EN emparelhados.
+# Termos genuinamente ambiguos (que tem outro sentido comum no idioma)
+# exigem coocorrencia com um termo de contexto financeiro - ver
+# RISKY_TERMS mais abaixo.
+# ─────────────────────────────────────────────────────────────────
+
+BLOCO_CAMBIO = [
+    "dólar", "dollar", "real", "câmbio", "cambio", "ptax", "dxy",
+    "moeda", "depreciação", "depreciacao", "apreciação", "apreciacao",
+    "fx", "currency", "exchange rate",
 ]
+
+BLOCO_JUROS = [
+    "selic", "copom", "di futuro", "ntn-b", "treasury", "treasuries",
+    "fed funds", "fed", "fomc", "powell", "juros", "taxa de juros",
+    "interest rate", "yield curve", "yield", "rate cut", "rate hike",
+    "banco central", "bacen", "lagarde", "ecb", "bce",
+]
+
+BLOCO_INFLACAO = [
+    "ipca", "igp-m", "inflação", "inflacao", "núcleo", "nucleo",
+    "inflation", "cpi", "pce", "core inflation", "shelter",
+    "services inflation",
+]
+
+BLOCO_EMPREGO = [
+    "payroll", "desemprego", "caged", "mercado de trabalho",
+    "jobs report", "unemployment", "labor market", "nonfarm payrolls",
+    "nonfarm",
+]
+
+BLOCO_RISCO = [
+    "cds", "risco fiscal", "dívida pública", "divida publica",
+    "déficit", "deficit", "rating soberano", "fiscal risk",
+    "public debt", "sovereign rating", "boletim focus",
+]
+
+BLOCO_DERIVATIVOS = [
+    "swap", "hedge", "rolagem", "swaps", "rollover",
+]
+
+BLOCO_COMMODITIES = [
+    "petróleo", "petroleo", "oil", "brent", "wti", "minério",
+    "minerio", "soja", "ouro", "cobre", "iron ore", "soybeans",
+    "gold", "copper", "opep", "opec",
+]
+
+BLOCO_GEOPOLITICA = [
+    "hormuz", "ormuz", "irã", "ira", "iran", "guerra", "war",
+    "conflito", "ataque", "sanção", "sancao", "trump", "israel",
+    "líbano", "libano", "netanyahu", "cessar-fogo", "cessar fogo",
+    "china", "tarifas", "tariff", "trade war", "guerra comercial",
+]
+
+BLOCO_PIB_ATIVIDADE = [
+    "pib", "gdp",
+]
+
+BLOCO_BOLSA = [
+    "ibovespa", "ibov", "b3", "nasdaq", "dow jones", "s&p 500",
+    "s&p500", "stocks", "equities", "shares", "wall street", "nyse",
+    "ftse", "dax", "nikkei",
+]
+
+# Termos das listas acima que sao seguros para usar isolados (sem
+# nenhum risco relevante de capturar sentido nao-financeiro comum).
+HIGH_RELEVANCE_KEYWORDS = (
+    BLOCO_CAMBIO + BLOCO_JUROS + BLOCO_INFLACAO + BLOCO_EMPREGO +
+    BLOCO_RISCO + BLOCO_DERIVATIVOS + BLOCO_COMMODITIES +
+    BLOCO_GEOPOLITICA + BLOCO_PIB_ATIVIDADE
+)
+
+MEDIUM_RELEVANCE_KEYWORDS = BLOCO_BOLSA
+
+# ─────────────────────────────────────────────────────────────────
+# TERMOS DE RISCO — palavras com sentido comum ambiguo no idioma, que
+# so contam como sinal financeiro quando aparecem JUNTO de um termo de
+# contexto que confirma a leitura financeira (coocorrencia simples:
+# o termo de contexto so precisa estar em algum lugar do texto, nao
+# necessariamente perto da palavra de risco).
+# ─────────────────────────────────────────────────────────────────
+RISKY_TERMS_CONTEXT = {
+    "ação": ["ticker", "bolsa", "preço da ação", "preco da acao", "ativo",
+             " on ", " pn ", "units", "ibovespa", "b3", "earnings",
+             "resultado trimestral", "balanço", "balanco"],
+    "ações": ["ticker", "bolsa", "preço", "ativo", "ibovespa", "b3",
+              "earnings", "resultado trimestral", "balanço", "balanco"],
+    "futuro": ["di futuro", "contrato futuro", "b3", "vencimento",
+               "juros", "índice futuro", "indice futuro", "wdo", "win"],
+    "opções": ["strike", "vencimento", "calls", "puts", "volatilidade",
+               "opções de compra", "opções de venda"],
+    "opcoes": ["strike", "vencimento", "calls", "puts", "volatilidade"],
+}
 
 # "fiscal" e "arcabouço" sao termos perigosamente amplos: aparecem tanto
 # em noticias de politica economica do governo (arcabouco fiscal, deficit,
@@ -132,23 +222,18 @@ FISCAL_GOVERNO_CONTEXT = [
     "congresso", "camara", "câmara", "senado",
 ]
 
-MEDIUM_RELEVANCE_KEYWORDS = [
-    "powell", "lagarde", "ecb", "bce", "china", "tarifas", "tariff",
-    "trade war", "guerra comercial", "vix", "boletim focus", "câmbio",
-]
-
 # Categoria propria para resumo de acoes/mercado de capitais, nacional e
 # internacional - usada para garantir 1 slot dedicado no Top N, separado
 # do drive principal de juros/fiscal/inflacao/fluxo de capital.
-STOCKS_KEYWORDS = [
-    "ibovespa", "ibov", "b3", "nasdaq", "dow jones", "s&p 500", "s&p500",
-    "ação", "ações", "acao", "acoes", "bolsa", "stocks", "earnings",
-    "resultado trimestral", "balanço", "balanco", "ipo", "follow-on",
-    "wall street", "nyse", "nasdaq composite", "ftse", "dax", "nikkei",
-    "fii", "fiis", "fundo imobiliário", "fundo imobiliario", "reit", "reits",
-    "dividendo", "dividendos", "jcp", "juros sobre capital", "proventos",
-    "ticker", "small cap", "blue cap",
-]
+STOCKS_KEYWORDS = (
+    BLOCO_BOLSA + [
+        "earnings", "resultado trimestral", "balanço", "balanco", "ipo",
+        "follow-on", "nasdaq composite",
+        "fii", "fiis", "fundo imobiliário", "fundo imobiliario", "reit", "reits",
+        "dividendo", "dividendos", "jcp", "juros sobre capital", "proventos",
+        "ticker", "small cap", "blue cap",
+    ]
+)
 
 # ─────────────────────────────────────────────────────────────────
 # PROMPT-MAE — LOGICA PORTULANAS / TRADE SYSTEM WDO
@@ -337,35 +422,54 @@ def strip_accents(text):
     return "".join(c for c in normalized if not unicodedata.combining(c))
 
 
+def keyword_matches(kw, text_normalized):
+    """Verifica se uma keyword aparece no texto respeitando limite de
+    palavra (\\b), evitando falso positivo de substring - ex: 'fed'
+    dentro de 'federal', 'ira' dentro de 'brasileiras', 'acao' dentro
+    de 'inflacao'. Usada por TODAS as funcoes de deteccao de keyword
+    do projeto, para nao repetir esse bug em mais lugares."""
+    kw_norm = strip_accents(kw)
+    return re.search(r"\b" + re.escape(kw_norm) + r"\b", text_normalized) is not None
+
+
 def has_fiscal_government_context(text):
     """Verifica se um termo fiscal aparece em contexto de governo/politica
     publica, e nao apenas como termo societario de uma empresa especifica."""
-    has_fiscal_term = any(strip_accents(t) in text for t in FISCAL_TERMS)
+    has_fiscal_term = any(keyword_matches(t, text) for t in FISCAL_TERMS)
     if not has_fiscal_term:
         return False
-    return any(strip_accents(c) in text for c in FISCAL_GOVERNO_CONTEXT)
+    return any(keyword_matches(c, text) for c in FISCAL_GOVERNO_CONTEXT)
+
+
+def has_risky_term_with_context(text):
+    """Verifica termos genuinamente ambiguos da RISKY_TERMS_CONTEXT
+    (acao, futuro, opcoes, etc) - so contam como sinal financeiro
+    quando aparecem JUNTO de algum termo de contexto que confirma a
+    leitura financeira (coocorrencia simples, sem exigir proximidade
+    entre as palavras no texto)."""
+    for risky_term, context_terms in RISKY_TERMS_CONTEXT.items():
+        if keyword_matches(risky_term, text):
+            if any(keyword_matches(c, text) for c in context_terms):
+                return True
+    return False
 
 
 def is_stocks_news(item):
     text = strip_accents((item["title"] + " " + item["summary"]).lower())
-    for kw in STOCKS_KEYWORDS:
-        kw_norm = strip_accents(kw)
-        # Usa word boundary (\b) para evitar falso positivo de substring,
-        # como "acao" sendo encontrado dentro de "inflacao" (infl+acao).
-        if re.search(r"\b" + re.escape(kw_norm) + r"\b", text):
-            return True
-    return False
+    return any(keyword_matches(kw, text) for kw in STOCKS_KEYWORDS)
 
 
 def quick_relevance_check(item):
     text = strip_accents((item["title"] + " " + item["summary"]).lower())
     for kw in HIGH_RELEVANCE_KEYWORDS:
-        if strip_accents(kw) in text:
+        if keyword_matches(kw, text):
             return True
     if has_fiscal_government_context(text):
         return True
+    if has_risky_term_with_context(text):
+        return True
     for kw in MEDIUM_RELEVANCE_KEYWORDS:
-        if strip_accents(kw) in text:
+        if keyword_matches(kw, text):
             return True
     if is_stocks_news(item):
         return True
@@ -850,17 +954,27 @@ def main():
 
         selected_general = non_stocks_triplets[:remaining_slots]
 
-        # Ordem final de envio: gerais primeiro (ja na hierarquia
-        # origem > relevancia), bloco de RV sempre por ultimo.
-        triplets = selected_general + selected_stocks
+        print(f"[info] modo janela fixa: enviando top {len(selected_general)+len(selected_stocks)} de {len(all_triplets)} analisadas ({len(stocks_triplets)} de acoes disponiveis)")
 
-        print(f"[info] modo janela fixa: enviando top {len(triplets)} de {len(all_triplets)} analisadas ({len(stocks_triplets)} de acoes disponiveis)")
-
-        for group, representative, analysis in triplets:
+        # Bloco 1 - macro (juros, inflacao, fiscal, fluxo de capital,
+        # geopolitica), ja na hierarquia origem > relevancia.
+        for group, representative, analysis in selected_general:
             msg = format_alert(group, representative, analysis)
             send_telegram(msg)
             sent_count += 1
             time.sleep(0.5)
+
+        # Separador visual + Bloco 2 - acoes, FIIs e fundos. Enviado
+        # como mensagem propria, distinta do bloco macro, para deixar
+        # claro onde um bloco termina e o outro comeca - tambem ajuda
+        # a isolar problemas de um bloco especifico na hora de revisar.
+        if selected_stocks:
+            send_telegram(STOCKS_BLOCK_SEPARATOR)
+            for group, representative, analysis in selected_stocks:
+                msg = format_alert(group, representative, analysis)
+                send_telegram(msg)
+                sent_count += 1
+                time.sleep(0.5)
 
         if sent_count > 0:
             send_telegram(DISCLAIMER_TEXT)
