@@ -1,1 +1,83 @@
+name: Portulanas - Retry de Janela
 
+on:
+  schedule:
+    # Roda ~25min depois de cada uma das 8 janelas do garimpo.yml.
+    # So dispara uma nova execucao do garimpo SE o flag retry_needed.json
+    # existir e for recente (escrito quando a janela anterior falhou
+    # totalmente na analise de IA, tipicamente por outage do Gemini -
+    # ver ARQUITETURA.md Secao 10.7). Em dias sem falha, este workflow
+    # roda mas sai rapido sem gastar cota de IA.
+    - cron: "55 11 * * 1-5"
+    - cron: "40 13 * * 1-5"
+    - cron: "40 15 * * 1-5"
+    - cron: "10 17 * * 1-5"
+    - cron: "55 18 * * 1-5"
+    - cron: "55 20 * * 1-5"
+    - cron: "25 22 * * 1-5"
+    - cron: "55 23 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  retry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verificar se retry e necessario
+        id: check
+        run: |
+          if [ ! -f retry_needed.json ]; then
+            echo "[info] nenhum flag de retry encontrado - nada a fazer"
+            echo "should_retry=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          TIMESTAMP=$(python3 -c "import json; print(json.load(open('retry_needed.json'))['timestamp'])")
+          NOW=$(python3 -c "import time; print(time.time())")
+          AGE_MIN=$(python3 -c "print(($NOW - $TIMESTAMP) / 60)")
+          echo "[info] flag de retry encontrado, idade: ${AGE_MIN} minutos"
+          IS_RECENT=$(python3 -c "print('true' if $AGE_MIN <= 40 else 'false')")
+          if [ "$IS_RECENT" = "true" ]; then
+            echo "[info] flag recente - disparando retry"
+            echo "should_retry=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "[info] flag obsoleto (mais de 40min) - ignorando, provavelmente de uma falha antiga ja tratada"
+            echo "should_retry=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup Python
+        if: steps.check.outputs.should_retry == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        if: steps.check.outputs.should_retry == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Rodar garimpo (retry)
+        if: steps.check.outputs.should_retry == 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PORTULANAS_JANELA_FIXA: "1"
+          PORTULANAS_TOP_N: "5"
+        run: python portulanas_bot.py
+
+      - name: Salvar estado atualizado
+        if: steps.check.outputs.should_retry == 'true'
+        run: |
+          git config --global user.name "portulanas-bot"
+          git config --global user.email "bot@portulanas.local"
+          touch seen_cache.json daily_history.json filter_audit_log.json
+          git add seen_cache.json daily_history.json filter_audit_log.json
+          git add -A -- retry_needed.json 2>/dev/null || true
+          git diff --staged --quiet && exit 0
+          git commit -m "retry de janela: atualiza estado"
+          git pull --rebase origin main
+          git push
