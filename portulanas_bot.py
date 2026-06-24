@@ -104,14 +104,36 @@ HIGH_RELEVANCE_KEYWORDS = [
     # Cambio e commodities direto
     "dólar", "dollar", "dxy", "ptax", "petróleo", "oil", "brent", "wti",
     "treasury", "treasuries", "yield",
-    # Brasil especifico
-    "câmbio", "boletim focus", "fiscal", "arcabouço",
+]
+
+# "fiscal" e "arcabouço" sao termos perigosamente amplos: aparecem tanto
+# em noticias de politica economica do governo (arcabouco fiscal, deficit,
+# meta fiscal) quanto em noticias societarias de empresas especificas
+# (credito fiscal de uma companhia, recuperacao judicial, etc). Para nao
+# capturar ruido societario com prioridade ALTA, esses termos so contam
+# como relevantes quando aparecem JUNTO de uma palavra que indica escopo
+# de governo/politica publica - nao bastam isolados.
+FISCAL_TERMS = ["fiscal", "arcabouço", "arcabouco"]
+FISCAL_GOVERNO_CONTEXT = [
+    "governo", "uniao", "união", "tesouro nacional", "deficit", "déficit",
+    "meta fiscal", "divida publica", "dívida pública", "orcamento",
+    "orçamento", "ministerio da fazenda", "ministério da fazenda",
+    "congresso", "camara", "câmara", "senado",
 ]
 
 MEDIUM_RELEVANCE_KEYWORDS = [
     "powell", "lagarde", "ecb", "bce", "china", "tarifas", "tariff",
-    "trade war", "guerra comercial", "vix", "bolsa", "stocks", "nasdaq",
-    "s&p", "europe", "europa",
+    "trade war", "guerra comercial", "vix", "boletim focus", "câmbio",
+]
+
+# Categoria propria para resumo de acoes/mercado de capitais, nacional e
+# internacional - usada para garantir 1 slot dedicado no Top N, separado
+# do drive principal de juros/fiscal/inflacao/fluxo de capital.
+STOCKS_KEYWORDS = [
+    "ibovespa", "ibov", "b3", "nasdaq", "dow jones", "s&p 500", "s&p500",
+    "ação", "ações", "acao", "acoes", "bolsa", "stocks", "earnings",
+    "resultado trimestral", "balanço", "balanco", "ipo", "follow-on",
+    "wall street", "nyse",
 ]
 
 # ─────────────────────────────────────────────────────────────────
@@ -171,6 +193,10 @@ FORMATO DE SAÍDA — responda APENAS em JSON válido, sem markdown, sem texto a
 Mesmo recebendo apenas UMA notícia, responda com esse mesmo formato de objeto contendo "analises" como lista de um único item - mantenha sempre essa estrutura para que a resposta seja consistente independente de quantas notícias forem enviadas.
 
 Notícias sobre criptomoedas (Bitcoin, Ethereum, etc.) são BAIXA relevância por padrão. Só sobem para MEDIA ou ALTA se a própria notícia conectar explicitamente a um banco central, decisão regulatória de governo, ou evento que a notícia mesma diga ter relação com o sistema financeiro tradicional - nunca por inferência sua sobre "apetite a risco".
+
+NOTÍCIAS SOBRE UMA EMPRESA ESPECÍFICA (resultado trimestral, decisão judicial, processo regulatório que afeta só aquela companhia, recuperação judicial, decisão de agência reguladora setorial sobre uma empresa) são BAIXA ou no máximo MEDIA relevância por padrão, mesmo que mencionem termos como "fiscal", "regulatório" ou "decisão". Isso é diferente de uma decisão de política pública do governo (Copom, arcabouço fiscal, Receita Federal mudando regra geral para todas empresas de um setor): aquilo é ALTA relevância potencial; uma decisão que afeta só uma companhia específica e não tem repercussão setorial ou macro mais ampla mencionada no texto, é BAIXA/MEDIA. Pergunte-se: "isso é sobre uma empresa específica, ou sobre uma política que afeta a economia/setor como um todo?" Marque "decisao_fiscal_regulatoria" apenas no segundo caso.
+
+CATEGORIA ESPECIAL — RESUMO DE AÇÕES/MERCADO: se receber notícias marcadas como [CATEGORIA: ACOES_MERCADO] na consulta, trate-as como uma categoria separada do drive principal (juros/inflação/fiscal/fluxo de capital). Essas notícias são sobre o desempenho de bolsas, índices (Ibovespa, Nasdaq, S&P 500) ou ações específicas. Resuma o que se moveu e por quê, sem forçar conexão com canais macro a menos que a própria notícia faça essa conexão (ex: "Ibovespa cai com temor de alta de juros" conecta com o canal juros; "Ação X sobe 3% após resultado" não conecta com nada além de ser informação de mercado).
 
 Seja extremamente direto e econômico em palavras. Você está aqui para informar com precisão, não para parecer analítico. Prefira ser visto como "deixou de comentar algo" do que como "inventou uma conexão que não existia".
 """
@@ -287,14 +313,38 @@ def strip_accents(text):
     return "".join(c for c in normalized if not unicodedata.combining(c))
 
 
+def has_fiscal_government_context(text):
+    """Verifica se um termo fiscal aparece em contexto de governo/politica
+    publica, e nao apenas como termo societario de uma empresa especifica."""
+    has_fiscal_term = any(strip_accents(t) in text for t in FISCAL_TERMS)
+    if not has_fiscal_term:
+        return False
+    return any(strip_accents(c) in text for c in FISCAL_GOVERNO_CONTEXT)
+
+
+def is_stocks_news(item):
+    text = strip_accents((item["title"] + " " + item["summary"]).lower())
+    for kw in STOCKS_KEYWORDS:
+        kw_norm = strip_accents(kw)
+        # Usa word boundary (\b) para evitar falso positivo de substring,
+        # como "acao" sendo encontrado dentro de "inflacao" (infl+acao).
+        if re.search(r"\b" + re.escape(kw_norm) + r"\b", text):
+            return True
+    return False
+
+
 def quick_relevance_check(item):
     text = strip_accents((item["title"] + " " + item["summary"]).lower())
     for kw in HIGH_RELEVANCE_KEYWORDS:
         if strip_accents(kw) in text:
             return True
+    if has_fiscal_government_context(text):
+        return True
     for kw in MEDIUM_RELEVANCE_KEYWORDS:
         if strip_accents(kw) in text:
             return True
+    if is_stocks_news(item):
+        return True
     return False
 
 
@@ -511,19 +561,45 @@ def analyze_batch_with_gemini(items):
 # TELEGRAM
 # ─────────────────────────────────────────────────────────────────
 
-def send_telegram(text):
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": text,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": True,
-    }
+SUBSCRIBERS_FILE = "subscribers.json"
+
+
+def load_subscribers():
+    """Carrega a lista de chat_ids inscritos (quem deu /start no bot).
+    Mantida por portulanas_subscribers.py - este script so le, nunca
+    escreve nesse arquivo, para nao haver conflito de concorrencia
+    entre os dois workflows."""
+    if not os.path.exists(SUBSCRIBERS_FILE):
+        # Fallback: se ainda nao existe lista de assinantes (ex: antes
+        # da primeira execucao do workflow de assinantes), usa o
+        # TELEGRAM_CHAT_ID fixo como unico destinatario, para nao
+        # quebrar o envio enquanto a migracao nao foi feita.
+        return [TELEGRAM_CHAT_ID]
     try:
-        resp = requests.post(url, json=payload, timeout=10)
-        resp.raise_for_status()
-    except Exception as e:
-        print(f"[erro] falha ao enviar telegram: {e}")
+        with open(SUBSCRIBERS_FILE, "r", encoding="utf-8") as f:
+            subs = json.load(f)
+            return subs if subs else [TELEGRAM_CHAT_ID]
+    except Exception:
+        return [TELEGRAM_CHAT_ID]
+
+
+def send_telegram(text):
+    """Envia a mensagem para TODOS os assinantes cadastrados, nao mais
+    para um unico chat_id fixo."""
+    subscribers = load_subscribers()
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    for chat_id in subscribers:
+        payload = {
+            "chat_id": chat_id,
+            "text": text,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+        }
+        try:
+            resp = requests.post(url, json=payload, timeout=10)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"[erro] falha ao enviar telegram para {chat_id}: {e}")
 
 
 def format_homolog_message(item, analysis):
@@ -696,20 +772,36 @@ def main():
     if JANELA_FIXA:
         # Modo janela fixa: SEMPRE envia o Top N de noticias mais
         # relevantes encontradas nesta janela, mesmo que nenhuma seja
-        # ALTA/MEDIA. Ordena por relevancia (ALTA > MEDIA > BAIXA) e
-        # corta no TOP_N_GUARANTEED. Nao aplica o filtro binario do
-        # garimpo continuo - aqui a garantia de "sempre mostrar algo"
-        # tem prioridade sobre o rigor do corte de relevancia.
+        # ALTA/MEDIA. Reserva 1 slot dedicado para a melhor noticia de
+        # Acoes/Mercado disponivel (se houver alguma no lote) - o
+        # restante dos slots e preenchido pelo ranking normal de
+        # relevancia (ALTA > MEDIA > BAIXA), sem o slot de acoes ser
+        # contado duas vezes.
         rel_order = {"ALTA": 0, "MEDIA": 1, "BAIXA": 2}
-        triplets = [
+        all_triplets = [
             (group, representative, analysis)
             for group, representative, analysis in zip(groups, representatives, analyses)
             if analysis is not None
         ]
-        triplets.sort(key=lambda t: rel_order.get(t[2].get("relevancia"), 3))
-        triplets = triplets[:TOP_N_GUARANTEED]
+        all_triplets.sort(key=lambda t: rel_order.get(t[2].get("relevancia"), 3))
 
-        print(f"[info] modo janela fixa: enviando top {len(triplets)} de {len(analyses)} analisadas")
+        stocks_triplets = [t for t in all_triplets if is_stocks_news(t[1])]
+        non_stocks_triplets = [t for t in all_triplets if not is_stocks_news(t[1])]
+
+        selected = []
+        if stocks_triplets:
+            # Reserva o primeiro slot para a melhor noticia de acoes
+            # disponivel (ja esta ordenada por relevancia).
+            selected.append(stocks_triplets[0])
+            remaining_slots = TOP_N_GUARANTEED - 1
+        else:
+            print("[info] nenhuma noticia de acoes/mercado disponivel nesta janela - slot dedicado fica vazio")
+            remaining_slots = TOP_N_GUARANTEED
+
+        selected.extend(non_stocks_triplets[:remaining_slots])
+        triplets = selected
+
+        print(f"[info] modo janela fixa: enviando top {len(triplets)} de {len(all_triplets)} analisadas ({len(stocks_triplets)} de acoes disponiveis)")
 
         for group, representative, analysis in triplets:
             msg = format_alert(group, representative, analysis)

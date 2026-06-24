@@ -1,0 +1,41 @@
+name: Portulanas - Gerenciar Assinantes
+
+on:
+  schedule:
+    # A cada 15 minutos, todos os dias - independente das janelas
+    # fixas do garimpo, para reconhecer gente nova rapido. E so um
+    # polling leve (getUpdates), nao consome cota de IA nenhuma.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  assinantes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Verificar novos assinantes
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: python portulanas_subscribers.py
+
+      - name: Salvar lista de assinantes e offset
+        run: |
+          git config --global user.name "portulanas-bot"
+          git config --global user.email "bot@portulanas.local"
+          touch subscribers.json telegram_update_offset.json
+          git add subscribers.json telegram_update_offset.json
+          git diff --staged --quiet || git commit -m "atualiza lista de assinantes"
+          git push
