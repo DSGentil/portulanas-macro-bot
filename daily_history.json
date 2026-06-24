@@ -221,5 +221,110 @@
     "origem": "ambas",
     "leitura_critica": "O alto percentual da cota de exportação de carne bovina para a China já preenchido demonstra a força da demanda chinesa pelo produto brasileiro. Se essa demanda se mantiver forte, pode haver pressão sobre os preços internos da carne e um impacto positivo na balança comercial brasileira. A notícia, contudo, não detalha se há riscos de saturação da cota ou mudanças na política de importação chinesa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782332238.997222,
+    "titulo": "O custo da desinflação no Brasil",
+    "fonte": "Folha Mercado",
+    "publicado": "24/06 17:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento das expectativas de inflação no Brasil, refletido tanto no Boletim Focus quanto na inflação implícita dos títulos públicos, sugere que o Banco Central pode ter que manter uma postura mais restritiva em sua política monetária. Se essas expectativas se consolidarem, o Copom pode adiar ou reduzir o ritmo de cortes na taxa Selic. Por outro lado, se os dados de inflação futuros vierem abaixo do esperado, isso poderia abrir espaço para uma flexibilização mais rápida da política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782332241.777278,
+    "titulo": "Seth Klarman e maior hedge fund listado em bolsa do mundo veem barganhas no Brasil",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 16:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de barganhas no crédito corporativo brasileiro por um investidor de renome como Seth Klarman pode indicar um ponto de inflexão para certos ativos. Se mais investidores internacionais seguirem essa linha, poderíamos observar um aumento no fluxo de capital para a renda fixa corporativa brasileira. No entanto, a notícia não detalha quais setores ou empresas específicas estão sob escrutínio, o que limita a precisão dessa leitura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782332244.6285937,
+    "titulo": "Rabobank cita inadimplência no agro e reduz mais previsão de vendas de fertilizantes no Brasil",
+    "fonte": "Money Times",
+    "publicado": "24/06 17:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A redução na previsão de vendas de fertilizantes no Brasil, citando a inadimplência no agronegócio e a guerra no Irã, indica um cenário desafiador para o setor. Uma menor demanda por fertilizantes pode impactar a produção agrícola e, consequentemente, as exportações brasileiras. Se essa tendência se agravar, pode haver repercussões na balança comercial e na atividade econômica geral. O impacto no mercado de WDO seria indireto, dependendo da magnitude dessas consequências.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782332247.4395504,
+    "titulo": "Governo tem reuniões semanais com autoridades dos EUA sobre tarifaço, diz ministro",
+    "fonte": "Folha Mercado",
+    "publicado": "24/06 13:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "As reuniões semanais entre Brasil e EUA sobre a imposição de tarifas comerciais adicionais de 25% sobre produtos brasileiros indicam uma tensão nas relações comerciais entre os dois países. Se essas tarifas forem efetivadas, isso poderá impactar negativamente as exportações brasileiras e a balança comercial, gerando incerteza para o setor produtivo. A resolução desse impasse pode influenciar o humor do mercado e o fluxo de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782332312.8790748,
+    "titulo": "Dólar fecha acima de R$ 5,20, no maior patamar em quase três meses, com apostas de alta dos juros nos EUA; Ibovespa cai",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 17:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar acima de R$ 5,20, associada às expectativas de juros nos EUA, sugere um cenário de pressão contínua sobre a moeda brasileira. Se o Federal Reserve sinalizar uma postura mais agressiva em relação aos juros, o dólar pode testar patamares ainda mais elevados. Por outro lado, se as negociações entre EUA e Irã avançarem significativamente e levarem a uma queda mais acentuada nos preços do petróleo, isso poderia aliviar parte da pressão sobre o real e, consequentemente, sobre o dólar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782332312.87955,
+    "titulo": "investingLive Americas FX news wrap 24 Jun: Dollar rally extends as risk-off mood deepens",
+    "fonte": "ForexLive",
+    "publicado": "24/06 17:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aprofundamento do sentimento de aversão ao risco global, evidenciado pela alta do dólar e pela queda do Bitcoin, sugere um cenário de maior cautela nos mercados. A fraqueza econômica indicada pela ata do BOC e o rendimento dos títulos do Tesouro americano podem influenciar as expectativas sobre a política monetária do Federal Reserve. Se o Fed adotar uma postura mais dovish devido a esses sinais, isso poderia gerar volatilidade no mercado de câmbio e impactar o fluxo de capitais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782332312.8825872,
+    "titulo": "Wall Street fecha sem direção única com nova queda do setor de tecnologia",
+    "fonte": "Money Times",
+    "publicado": "24/06 17:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O fechamento misto de Wall Street, com destaque para a queda do setor de tecnologia, reflete um sentimento de cautela nos mercados globais. Essa dinâmica pode influenciar o apetite por risco dos investidores e, consequentemente, o fluxo de capital para mercados emergentes como o Brasil. Se a aversão ao risco se intensificar, isso pode pressionar o dólar e impactar o mercado de WDO.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782332312.8830197,
+    "titulo": "Petrobras (PETR4), Prio (PRIO3) e outras petroleiras recuam nesta quarta (24) com Brent a US$ 73",
+    "fonte": "Money Times",
+    "publicado": "24/06 16:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda das petroleiras brasileiras, como Petrobras e Prio, em linha com a desvalorização do petróleo Brent para US$ 73 o barril, demonstra a forte correlação entre os preços das commodities e o desempenho dessas empresas. Se o preço do petróleo continuar em trajetória de queda, isso pode impactar negativamente os resultados da Petrobras e, consequentemente, o Ibovespa. A volatilidade nos preços do petróleo é um fator a ser monitorado de perto para quem opera WDO, dada sua influência na economia brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782332312.8834162,
+    "titulo": "Petrobras planeja duplicar capacidade das fábricas de fertilizantes no país, diz presidente",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 16:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A retomada da UFN-III pela Petrobras é um movimento estratégico que pode impactar o setor de fertilizantes e a balança comercial brasileira, reduzindo a dependência de importações. Se essa expansão de capacidade se concretizar e for bem-sucedida, pode ter um efeito positivo na produção agrícola e em setores relacionados. No entanto, o impacto direto e imediato no mercado de WDO é limitado, a menos que haja uma correlação explícita com a política fiscal ou com o setor de commodities de forma mais ampla.",
+    "is_stocks": true
   }
 ]
