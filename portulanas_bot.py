@@ -74,6 +74,17 @@ TOP_N_GUARANTEED = int(os.environ.get("PORTULANAS_TOP_N", "5"))
 # especificos do dia (08:40, 10:15, etc.) em vez de continuamente.
 JANELA_FIXA = os.environ.get("PORTULANAS_JANELA_FIXA", "0") == "1"
 
+# Disclaimer enviado uma unica vez ao final de cada janela (nao em cada
+# notica individual, para nao poluir). Necessario porque o bot inclui
+# interpretacao gerada por IA, nao so repasse de fato.
+DISCLAIMER_TEXT = (
+    "⚠️ <i>Conteúdo gerado com apoio de inteligência artificial, que pode interpretar "
+    "fatos de forma incorreta ou incompleta. Este material tem caráter informativo e "
+    "educacional, não constitui recomendação de investimento. Decisões de investimento "
+    "são de responsabilidade exclusiva do leitor — busque orientação de um profissional "
+    "certificado antes de qualquer decisão financeira.</i>"
+)
+
 # Fuso de Brasilia
 TZ_BR = timezone(timedelta(hours=-3))
 
@@ -133,7 +144,10 @@ STOCKS_KEYWORDS = [
     "ibovespa", "ibov", "b3", "nasdaq", "dow jones", "s&p 500", "s&p500",
     "ação", "ações", "acao", "acoes", "bolsa", "stocks", "earnings",
     "resultado trimestral", "balanço", "balanco", "ipo", "follow-on",
-    "wall street", "nyse",
+    "wall street", "nyse", "nasdaq composite", "ftse", "dax", "nikkei",
+    "fii", "fiis", "fundo imobiliário", "fundo imobiliario", "reit", "reits",
+    "dividendo", "dividendos", "jcp", "juros sobre capital", "proventos",
+    "ticker", "small cap", "blue cap",
 ]
 
 # ─────────────────────────────────────────────────────────────────
@@ -182,15 +196,25 @@ FORMATO DE SAÍDA — responda APENAS em JSON válido, sem markdown, sem texto a
     {
       "id": 1,
       "relevancia": "ALTA" | "MEDIA" | "BAIXA",
+      "titulo_traduzido": "se o título original da notícia estiver em inglês ou outro idioma, traduza para português aqui. Se já estiver em português, repita o título original sem alteração. Este campo é sempre preenchido, nunca vazio.",
       "resumo": "resumo objetivo da notícia em 2-4 frases, em português, traduzindo para o português caso a notícia original esteja em outro idioma. Cubra o que aconteceu, quem disse o quê, qual dado ou número saiu. Apenas o fato - sem teorizar sobre consequências que a notícia não afirma.",
       "canais_afetados": [] - lista vazia se a notícia não falar explicitamente de nenhum canal, ou os canais que ela cita diretamente,
       "origem": "domestica" | "externa" | "ambas" | null,
-      "leitura_critica": "1-2 frases dizendo por que essa notícia é relevante para quem acompanha o câmbio, usando SÓ o que a notícia disse - sem inventar mecanismo, sem 'isso pode sugerir', sem 'isso pode indicar'. NUNCA deixe este campo como string vazia. Se a notícia já é auto-explicativa sobre sua relevância, ou se for BAIXA relevância e não houver nada a acrescentar, copie o conteúdo do campo 'resumo' para este campo - mas sempre preencha com texto, nunca com aspas vazias."
+      "leitura_critica": "3-5 frases EM ESTILO CONDICIONAL/CENÁRIO - ver instruções detalhadas abaixo sobre como escrever este campo. NUNCA deixe vazio."
     },
     { "id": 2, ... }
   ]
 }
 Mesmo recebendo apenas UMA notícia, responda com esse mesmo formato de objeto contendo "analises" como lista de um único item - mantenha sempre essa estrutura para que a resposta seja consistente independente de quantas notícias forem enviadas.
+
+COMO ESCREVER O CAMPO "leitura_critica" — ESTE É O CAMPO MAIS IMPORTANTE DO PROMPT:
+Não escreva frases declarando que a notícia "é relevante" ou "é importante para quem acompanha X" — isso é formula vazia e repetitiva, o leitor já sabe que está lendo uma notícia relevante (ele só recebe notícia relevante). O objetivo deste campo é ENSINAR O LEITOR A PENSAR EM CENÁRIOS, não dar um veredito. Use a estrutura condicional "se X, então Y; se o oposto de X, então o oposto de Y" sempre que o fato permitir mais de uma leitura. Exemplos do estilo esperado (não copie literalmente, adapte ao caso real):
+- "Como o dado de inflação veio acima do esperado, a leitura mais provável é de que o Banco Central mantenha o tom mais duro nas próximas reuniões. Se na divulgação seguinte o número vier abaixo do consenso, isso reabriria espaço para discussão de corte de juros - é essa alternância que vale acompanhar nos próximos meses, não o dado isolado de hoje."
+- "A maioria dos analistas esperava um corte mais agressivo; como o Fed optou por um corte menor, o mercado pode interpretar isso como sinal de que o banco central americano ainda vê risco inflacionário relevante. Um corte menor do que o esperado tende a sustentar o dólar mais forte no curto prazo; se a ata da próxima reunião indicar postura mais dovish, esse efeito pode se inverter rápido."
+- "A decisão ainda precisa ser votada no plenário. Se for aprovada como está, o impacto fiscal é mais brando do que o anunciado inicialmente; se houver alterações no texto buscando agradar a oposição, o resultado pode pressionar mais o lado da despesa do que o esperado hoje."
+Use 3 a 5 frases, evite redundância entre elas (cada frase deve acrescentar algo novo, não repetir a anterior com outras palavras). Se a notícia for BAIXA relevância e genuinamente não permitir nenhuma leitura condicional interessante (ex: evento social, calendário administrativo), pode ser mais simples e direto, mas ainda evite a fórmula "é relevante porque".
+
+IMPORTANTE: o raciocínio condicional acima é sobre como interpretar O FATO em si (ex: dado vindo acima ou abaixo do esperado, decisão sendo tomada de um jeito ou de outro) - isso é diferente e não contradiz a regra de não inventar conexão de canal/origem que a notícia não afirma. Você pode especular sobre os desdobramentos possíveis de um fato já confirmado pela notícia; você não pode inventar que um fato (ex: "Bitcoin subiu") tem uma conexão com canal/origem que a notícia não menciona.
 
 Notícias sobre criptomoedas (Bitcoin, Ethereum, etc.) são BAIXA relevância por padrão. Só sobem para MEDIA ou ALTA se a própria notícia conectar explicitamente a um banco central, decisão regulatória de governo, ou evento que a notícia mesma diga ter relação com o sistema financeiro tradicional - nunca por inferência sua sobre "apetite a risco".
 
@@ -650,9 +674,15 @@ def format_alert(group, representative_item, analysis):
     # ou quebrar a formatacao.
     leitura_critica = analysis.get("leitura_critica") or analysis.get("resumo", "")
 
+    # Usa o titulo traduzido pela IA quando disponivel - garante que
+    # manchetes em ingles (ou outro idioma) aparecam em portugues. Se
+    # o campo nao vier preenchido (falha do modelo), cai no titulo
+    # original do RSS para nao deixar a mensagem sem manchete.
+    titulo_exibido = analysis.get("titulo_traduzido") or representative_item["title"]
+
     header = (
         f"{emoji} <b>PORTULANAS · ALERTA {rel}</b>\n\n"
-        f"<b>{representative_item['title']}</b>\n"
+        f"<b>{titulo_exibido}</b>\n"
         f"<i>{representative_item['source']} · {pub}</i>\n\n"
         f"📋 {analysis['resumo']}\n\n"
     )
@@ -774,32 +804,55 @@ def main():
         # relevantes encontradas nesta janela, mesmo que nenhuma seja
         # ALTA/MEDIA. Reserva 1 slot dedicado para a melhor noticia de
         # Acoes/Mercado disponivel (se houver alguma no lote) - o
-        # restante dos slots e preenchido pelo ranking normal de
-        # relevancia (ALTA > MEDIA > BAIXA), sem o slot de acoes ser
-        # contado duas vezes.
+        # restante dos slots e preenchido pelo ranking normal.
+        #
+        # Hierarquia de ordenacao das noticias gerais (nao-RV):
+        # 1) origem: domestica > ambas > externa
+        # 2) dentro de cada origem: relevancia ALTA > MEDIA > BAIXA
+        # O bloco de Acoes/RV e sempre exibido por ultimo, fora dessa
+        # ordenacao - e uma categoria separada, nao compete por posicao
+        # com o restante.
+        origem_order = {"domestica": 0, "ambas": 1, "externa": 2}
         rel_order = {"ALTA": 0, "MEDIA": 1, "BAIXA": 2}
+
+        def sort_key(triplet):
+            analysis = triplet[2]
+            return (
+                origem_order.get(analysis.get("origem"), 3),
+                rel_order.get(analysis.get("relevancia"), 3),
+            )
+
         all_triplets = [
             (group, representative, analysis)
             for group, representative, analysis in zip(groups, representatives, analyses)
             if analysis is not None
         ]
-        all_triplets.sort(key=lambda t: rel_order.get(t[2].get("relevancia"), 3))
 
         stocks_triplets = [t for t in all_triplets if is_stocks_news(t[1])]
         non_stocks_triplets = [t for t in all_triplets if not is_stocks_news(t[1])]
 
-        selected = []
+        # Ordena cada grupo pela hierarquia origem > relevancia, e o
+        # bloco de acoes pela relevancia entre si (para escolher o
+        # melhor item de RV disponivel).
+        non_stocks_triplets.sort(key=sort_key)
+        stocks_triplets.sort(key=lambda t: rel_order.get(t[2].get("relevancia"), 3))
+
+        selected_general = []
+        selected_stocks = []
         if stocks_triplets:
             # Reserva o primeiro slot para a melhor noticia de acoes
-            # disponivel (ja esta ordenada por relevancia).
-            selected.append(stocks_triplets[0])
+            # disponivel.
+            selected_stocks.append(stocks_triplets[0])
             remaining_slots = TOP_N_GUARANTEED - 1
         else:
             print("[info] nenhuma noticia de acoes/mercado disponivel nesta janela - slot dedicado fica vazio")
             remaining_slots = TOP_N_GUARANTEED
 
-        selected.extend(non_stocks_triplets[:remaining_slots])
-        triplets = selected
+        selected_general = non_stocks_triplets[:remaining_slots]
+
+        # Ordem final de envio: gerais primeiro (ja na hierarquia
+        # origem > relevancia), bloco de RV sempre por ultimo.
+        triplets = selected_general + selected_stocks
 
         print(f"[info] modo janela fixa: enviando top {len(triplets)} de {len(all_triplets)} analisadas ({len(stocks_triplets)} de acoes disponiveis)")
 
@@ -808,6 +861,9 @@ def main():
             send_telegram(msg)
             sent_count += 1
             time.sleep(0.5)
+
+        if sent_count > 0:
+            send_telegram(DISCLAIMER_TEXT)
 
         print(f"[info] {sent_count} alertas enviados (janela fixa)")
         save_cache(cache)
