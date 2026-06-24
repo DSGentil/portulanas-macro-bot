@@ -782,20 +782,37 @@ def group_similar_items(items):
 # ANALISE VIA GEMINI — segunda camada, aplica logica Portulanas
 # ─────────────────────────────────────────────────────────────────
 
-def call_gemini_with_retry(payload, max_retries=6, base_wait=20):
-    """Chama a API do Gemini com retry automatico em caso de rate limit
-    (429) ou indisponibilidade temporaria do servidor (503/500/502).
-    Espera progressiva: 20s, 40s, 60s, 80s, 100s, 120s entre tentativas
-    (total ~7 minutos de espera antes de desistir). Erros 503 do Gemini
-    sao um problema conhecido e recorrente do servico (nao exclusivo
-    desta conta), por isso o retry e generoso - ver ARQUITETURA.md
-    Seção 10.7."""
+def call_gemini_with_retry(payload, max_retries=6, base_wait=20, max_quota_retries=2):
+    """Chama a API do Gemini com retry automatico, com tratamento
+    DIFERENTE para dois tipos de erro:
+
+    - 429 (cota/rate limit excedida): retry MUITO limitado
+      (max_quota_retries, default 2). Insistir em 429 nao tem chance
+      real de sucesso se a causa for cota diaria esgotada (so reseta
+      a meia-noite Pacific Time) - cada tentativa extra so desperdiça
+      mais cota sem chance de recuperar. Ver ARQUITETURA.md Seção 10.8.
+
+    - 503/500/502/504 (instabilidade temporaria do servidor): retry
+      generoso (max_retries, default 6), com espera progressiva 20s,
+      40s, 60s, 80s, 100s, 120s (total ~7 minutos) - esses erros tendem
+      a se resolver em minutos, ver Seção 10.7.
+    """
+    quota_attempts = 0
     for attempt in range(1, max_retries + 1):
         try:
             resp = requests.post(GEMINI_URL, json=payload, timeout=30)
-            if resp.status_code in (429, 500, 502, 503, 504):
+            if resp.status_code == 429:
+                quota_attempts += 1
+                if quota_attempts > max_quota_retries:
+                    print(f"[erro] erro 429 (cota) persistente apos {quota_attempts} tentativas - desistindo para preservar cota restante")
+                    return None
                 wait = base_wait * attempt
-                print(f"[aviso] erro {resp.status_code} na tentativa {attempt}/{max_retries}, aguardando {wait}s")
+                print(f"[aviso] erro 429 (cota) na tentativa {quota_attempts}/{max_quota_retries}, aguardando {wait}s")
+                time.sleep(wait)
+                continue
+            if resp.status_code in (500, 502, 503, 504):
+                wait = base_wait * attempt
+                print(f"[aviso] erro {resp.status_code} (servidor) na tentativa {attempt}/{max_retries}, aguardando {wait}s")
                 time.sleep(wait)
                 continue
             resp.raise_for_status()
