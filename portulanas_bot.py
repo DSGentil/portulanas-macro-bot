@@ -177,6 +177,57 @@ BLOCO_BOLSA = [
     "ftse", "dax", "nikkei",
 ]
 
+# Principais empresas/bancos do Ibovespa e gigantes internacionais,
+# usados como nomes (nao tickers) - mais legivel em texto corrido.
+# Carteira do Ibovespa vigente 04/05/2026-04/09/2026 (B3): 79 ativos
+# de 76 empresas. Nomes aqui sao os que NAO colidem com palavras comuns
+# do portugues (testado com keyword_matches + word boundary).
+BLOCO_EMPRESAS_BR = [
+    "petrobras", "itau", "itaú", "bradesco", "santander", "btg",
+    "btg pactual", "banco do brasil", "ambev", "weg", "gerdau",
+    "suzano", "embraer", "natura", "magazine luiza", "magalu",
+    "eletrobras", "axia energia", "sabesp", "copel", "cemig",
+    "cosan", "cyrela", "localiza", "hapvida", "totvs", "csn",
+    "usiminas", "braskem", "klabin", "multiplan", "taesa", "engie",
+    "equatorial", "nubank", "prio", "minerva", "marfrig", "mrv",
+    "allos", "renner", "lojas renner", "raia drogasil", "drogasil",
+    "smartfit", "assai", "assaí", "vibra", "cogna", "yduqs", "fleury",
+    "porto seguro", "hypera", "telefonica brasil", "telefônica brasil",
+    "vivo", "tim participacoes", "energisa", "ultrapar", "direcional",
+    "ultragaz",
+]
+
+# Big techs e empresas internacionais de alta relevancia para fluxo
+# global de capital - nomes sem ambiguidade com palavras comuns.
+BLOCO_EMPRESAS_GLOBAL = [
+    "tesla", "nvidia", "amazon", "microsoft", "alphabet", "spacex",
+    "openai", "berkshire hathaway", "jpmorgan", "goldman sachs",
+    "morgan stanley", "wells fargo", "bank of america", "exxon",
+    "chevron", "boeing", "intel", "amd", "qualcomm", "netflix",
+    "disney", "walmart", "visa", "mastercard", "pfizer", "moderna",
+]
+
+# Nomes de empresas que SAO PALAVRAS COMUNS do portugues/ingles e por
+# isso exigem coocorrencia com termo de contexto financeiro - mesmo
+# padrao do RISKY_TERMS_CONTEXT mais abaixo, testado contra frases
+# comuns reais ("isso vale a pena", "o rumo da economia", "a azul do
+# ceu", "o gol marcado", "apple pie", "a meta foi atingida").
+EMPRESAS_AMBIGUAS_CONTEXT = {
+    "vale": ["mineracao", "mineração", "minerio", "minério", "vale on",
+             "vale3", "resultado trimestral", "ibovespa", "b3", "balanço",
+             "balanco", "earnings"],
+    "rumo": ["logistica", "logística", "ferrovia", "rumo on", "rail3",
+             "ibovespa", "b3", "resultado trimestral"],
+    "azul": ["aviacao", "aviação", "aerea", "aérea", "azul4", "voos",
+             "companhia aerea", "companhia aérea", "ibovespa", "b3"],
+    "gol": ["aviacao", "aviação", "aerea", "aérea", "goll4", "voos",
+            "companhia aerea", "companhia aérea", "ibovespa", "b3"],
+    "apple": ["iphone", "tim cook", "nasdaq", "tech", "wall street",
+              "earnings", "trimestral"],
+    "meta": ["facebook", "instagram", "whatsapp", "zuckerberg", "nasdaq",
+             "wall street", "earnings", "trimestral"],
+}
+
 # Termos das listas acima que sao seguros para usar isolados (sem
 # nenhum risco relevante de capturar sentido nao-financeiro comum).
 HIGH_RELEVANCE_KEYWORDS = (
@@ -185,7 +236,7 @@ HIGH_RELEVANCE_KEYWORDS = (
     BLOCO_GEOPOLITICA + BLOCO_PIB_ATIVIDADE
 )
 
-MEDIUM_RELEVANCE_KEYWORDS = BLOCO_BOLSA
+MEDIUM_RELEVANCE_KEYWORDS = BLOCO_BOLSA + BLOCO_EMPRESAS_BR + BLOCO_EMPRESAS_GLOBAL
 
 # ─────────────────────────────────────────────────────────────────
 # TERMOS DE RISCO — palavras com sentido comum ambiguo no idioma, que
@@ -205,6 +256,7 @@ RISKY_TERMS_CONTEXT = {
     "opções": ["strike", "vencimento", "calls", "puts", "volatilidade",
                "opções de compra", "opções de venda"],
     "opcoes": ["strike", "vencimento", "calls", "puts", "volatilidade"],
+    **EMPRESAS_AMBIGUAS_CONTEXT,
 }
 
 # "fiscal" e "arcabouço" sao termos perigosamente amplos: aparecem tanto
@@ -226,7 +278,7 @@ FISCAL_GOVERNO_CONTEXT = [
 # internacional - usada para garantir 1 slot dedicado no Top N, separado
 # do drive principal de juros/fiscal/inflacao/fluxo de capital.
 STOCKS_KEYWORDS = (
-    BLOCO_BOLSA + [
+    BLOCO_BOLSA + BLOCO_EMPRESAS_BR + BLOCO_EMPRESAS_GLOBAL + [
         "earnings", "resultado trimestral", "balanço", "balanco", "ipo",
         "follow-on", "nasdaq composite",
         "fii", "fiis", "fundo imobiliário", "fundo imobiliario", "reit", "reits",
@@ -456,7 +508,15 @@ def has_risky_term_with_context(text):
 
 def is_stocks_news(item):
     text = strip_accents((item["title"] + " " + item["summary"]).lower())
-    return any(keyword_matches(kw, text) for kw in STOCKS_KEYWORDS)
+    if any(keyword_matches(kw, text) for kw in STOCKS_KEYWORDS):
+        return True
+    # Empresas ambiguas (Vale, Rumo, Azul, Gol, Apple, Meta) so contam
+    # se aparecerem com contexto que confirme ser sobre a empresa, nao
+    # o sentido comum da palavra.
+    for empresa, contextos in EMPRESAS_AMBIGUAS_CONTEXT.items():
+        if keyword_matches(empresa, text) and any(keyword_matches(c, text) for c in contextos):
+            return True
+    return False
 
 
 def quick_relevance_check(item):
