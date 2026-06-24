@@ -42,6 +42,12 @@ RETURNING_MESSAGE = (
     "normalmente nos horários programados. Não é necessário fazer mais nada."
 )
 
+GOODBYE_MESSAGE = (
+    "👋 Você foi removido da lista de assinantes do Portulanas e não vai mais "
+    "receber notificações. Se quiser voltar a receber, basta enviar /start "
+    "novamente a qualquer momento."
+)
+
 
 def load_subscribers():
     if not os.path.exists(SUBSCRIBERS_FILE):
@@ -115,6 +121,8 @@ def main():
     print(f"[info] {len(updates)} updates novos encontrados")
 
     new_subscribers = 0
+    removed_subscribers = 0
+    subscribers_changed = False
     max_update_id = offset - 1 if offset > 0 else 0
 
     for update in updates:
@@ -132,27 +140,38 @@ def main():
             continue
 
         chat_id_str = str(chat_id)
+        text = message.get("text", "").strip()
 
         if chat_id_str in subscribers:
-            # Ja e assinante - se mandou /start de novo, confirma que
-            # ja esta inscrito (evita silencio total, mas nao duplica
-            # na lista).
-            text = message.get("text", "")
-            if text.strip() == "/start":
+            # Ja e assinante - trata /start (confirma inscricao, sem
+            # duplicar) e /stop (remove da lista, descadastro).
+            if text == "/start":
                 send_telegram_to(chat_id, RETURNING_MESSAGE)
+            elif text == "/stop":
+                subscribers.remove(chat_id_str)
+                removed_subscribers += 1
+                subscribers_changed = True
+                send_telegram_to(chat_id, GOODBYE_MESSAGE)
+                print(f"[info] assinante removido (via /stop): {chat_id_str}")
+            continue
+
+        # Quem nao e assinante e manda /stop nao precisa de resposta -
+        # ja esta efetivamente "fora", nao ha nada a fazer.
+        if text == "/stop":
             continue
 
         # Assinante novo - adiciona a lista e manda boas-vindas
         subscribers.append(chat_id_str)
         new_subscribers += 1
+        subscribers_changed = True
         send_telegram_to(chat_id, WELCOME_MESSAGE)
         print(f"[info] novo assinante adicionado: {chat_id_str}")
 
-    if new_subscribers > 0:
+    if subscribers_changed:
         save_subscribers(subscribers)
-        print(f"[info] {new_subscribers} novo(s) assinante(s) salvos. Total agora: {len(subscribers)}")
+        print(f"[info] {new_subscribers} novo(s), {removed_subscribers} removido(s). Total agora: {len(subscribers)}")
     else:
-        print("[info] nenhum assinante novo nesta rodada")
+        print("[info] nenhuma mudanca na lista de assinantes nesta rodada")
 
     if updates:
         save_offset(max_update_id + 1)
