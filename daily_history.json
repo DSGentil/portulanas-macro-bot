@@ -326,5 +326,114 @@
     "origem": "domestica",
     "leitura_critica": "A retomada da UFN-III pela Petrobras é um movimento estratégico que pode impactar o setor de fertilizantes e a balança comercial brasileira, reduzindo a dependência de importações. Se essa expansão de capacidade se concretizar e for bem-sucedida, pode ter um efeito positivo na produção agrícola e em setores relacionados. No entanto, o impacto direto e imediato no mercado de WDO é limitado, a menos que haja uma correlação explícita com a política fiscal ou com o setor de commodities de forma mais ampla.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782336242.6818419,
+    "titulo": "Ata do Copom não dissipa dúvidas sobre futuro da Selic",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/06 18:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A falta de clareza na ata do Copom pode gerar volatilidade no mercado de juros, pois os agentes econômicos terão dificuldade em precificar os próximos movimentos da Selic. Se a próxima ata apresentar sinais mais claros, isso pode direcionar as expectativas de forma mais consistente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782336245.0474327,
+    "titulo": "Mercado Esperava Selic em 14% no Fim de 2026 em Questionário Usado Como Referência Pelo Copom",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/06 16:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa do mercado para a Selic em 14% no final de 2026, conforme questionário usado pelo Copom, indica uma projeção de juros ainda elevados por um período considerável. Se as decisões futuras do Copom divergirem significativamente dessa expectativa, isso pode gerar volatilidade no mercado de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782336247.407804,
+    "titulo": "Petróleo lidera indústria e receita do setor soma R$ 5,3 trilhões em 2024",
+    "fonte": "Google News Commodities",
+    "publicado": "24/06 18:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta receita do setor de petróleo, impulsionada por seu desempenho na indústria, indica um forte impacto na economia brasileira. Se os preços do petróleo se mantiverem em patamares elevados, isso pode sustentar o crescimento da receita e a contribuição do setor para o PIB.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782336249.7518125,
+    "titulo": "Palmas recebe Copa Brasil Ouro de Tênis de Mesa",
+    "fonte": "Google News Commodities",
+    "publicado": "24/06 16:18",
+    "relevancia": "BAIXA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Esta notícia se refere a um evento esportivo local e não possui relação direta com os canais de análise macroeconômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782336253.4789505,
+    "titulo": "Petrobras estuda duplicar fábricas de fertilizantes para reduzir importações",
+    "fonte": "Google News Acoes",
+    "publicado": "24/06 16:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expansão da produção de fertilizantes pela Petrobras pode ter um impacto positivo na balança comercial brasileira e na atividade industrial do setor. Se a decisão for concretizada, isso pode sinalizar uma estratégia de longo prazo para aumentar a autossuficiência em insumos agrícolas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782336253.4798453,
+    "titulo": "Área técnica do Cade recomenda condenação da B3 por práticas anticoncorrenciais",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 17:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de condenação da B3 pelo Cade por práticas anticoncorrenciais pode levar a mudanças regulatórias no mercado financeiro. Se o Tribunal do Cade confirmar a decisão, isso pode impactar a concorrência e as operações da B3, abrindo espaço para novos entrantes no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782336253.4809306,
+    "titulo": "Ibovespa B3 fecha em queda de 0,44%, mas se mantém acima de 170 mil pontos; dólar sobe a R$ 5,20",
+    "fonte": "Google News Acoes",
+    "publicado": "24/06 17:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa e a alta do dólar podem refletir um cenário de aversão ao risco no mercado doméstico. Se os fatores que pressionam o câmbio e a bolsa persistirem, isso pode indicar uma maior cautela dos investidores em relação aos ativos brasileiros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782336253.481811,
+    "titulo": "Tesla é processada nos EUA por família de mulher morta em acidente de carro que atingiu sua casa",
+    "fonte": "Folha Mercado",
+    "publicado": "24/06 17:15",
+    "relevancia": "BAIXA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Este é um evento específico relacionado a um processo judicial contra a Tesla, sem conexão direta com os canais de análise macroeconômica de juros, inflação, atividade/emprego ou decisões fiscais/regulatórias.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782336253.4826262,
+    "titulo": "B3 (B3SA3) ajusta valor de JCP e acionistas receberão até R$ 0,22 por ação em julho",
+    "fonte": "Money Times",
+    "publicado": "24/06 18:14",
+    "relevancia": "BAIXA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata da distribuição de juros sobre capital próprio pela B3, um evento corporativo específico. Não há impacto direto nos canais de juros, inflação, atividade/emprego ou decisões fiscais/regulatórias.",
+    "is_stocks": true
   }
 ]
