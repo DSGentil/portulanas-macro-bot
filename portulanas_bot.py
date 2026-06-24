@@ -110,14 +110,6 @@ DISCLAIMER_TEXT = (
     "certificado antes de qualquer decisão financeira.</i>"
 )
 
-# Separador visual enviado como mensagem propria, antes do bloco de
-# Acoes/FIIs comecar - marca onde o bloco macro termina e o bloco de
-# RV comeca, sem precisar de tag no titulo de cada noticia.
-STOCKS_BLOCK_SEPARATOR = (
-    "➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n"
-    "📊 <b>AÇÕES & FUNDOS</b>"
-)
-
 # Fuso de Brasilia
 TZ_BR = timezone(timedelta(hours=-3))
 
@@ -407,10 +399,10 @@ FORMATO DE SAÍDA — responda APENAS em JSON válido, sem markdown, sem texto a
       "id": 1,
       "relevancia": "ALTA" | "MEDIA" | "BAIXA",
       "titulo_traduzido": "se o título original da notícia estiver em inglês ou outro idioma, traduza para português aqui. Se já estiver em português, repita o título original sem alteração. Este campo é sempre preenchido, nunca vazio.",
-      "resumo": "resumo objetivo da notícia em 2-4 frases, em português, traduzindo para o português caso a notícia original esteja em outro idioma. Cubra o que aconteceu, quem disse o quê, qual dado ou número saiu. Apenas o fato - sem teorizar sobre consequências que a notícia não afirma.",
+      "resumo": "resumo objetivo da notícia em 1-2 frases (não mais que isso), em português, traduzindo para o português caso a notícia original esteja em outro idioma. Cubra só o essencial: o que aconteceu, e o dado/número mais importante, se houver. Apenas o fato - sem teorizar sobre consequências que a notícia não afirma. Se a notícia tiver um número, valor monetário, ou percentual central (ex: 'US$ 4 bilhões', 'R$ 5,20', '25%', '14,25%'), envolva esse número em tags <b></b> (negrito HTML) dentro do próprio texto do resumo, para destacá-lo visualmente - mas só o número mais importante da notícia, não todos os números.",
       "canais_afetados": [] - lista vazia se a notícia não falar explicitamente de nenhum canal, ou os canais que ela cita diretamente,
       "origem": "domestica" | "externa" | "ambas" | null,
-      "leitura_critica": "3-5 frases EM ESTILO CONDICIONAL/CENÁRIO - ver instruções detalhadas abaixo sobre como escrever este campo. NUNCA deixe vazio."
+      "leitura_critica": "2-3 frases EM ESTILO CONDICIONAL/CENÁRIO - ver instruções detalhadas abaixo sobre como escrever este campo. NUNCA deixe vazio."
     },
     { "id": 2, ... }
   ]
@@ -422,7 +414,9 @@ Não escreva frases declarando que a notícia "é relevante" ou "é importante p
 - "Como o dado de inflação veio acima do esperado, a leitura mais provável é de que o Banco Central mantenha o tom mais duro nas próximas reuniões. Se na divulgação seguinte o número vier abaixo do consenso, isso reabriria espaço para discussão de corte de juros - é essa alternância que vale acompanhar nos próximos meses, não o dado isolado de hoje."
 - "A maioria dos analistas esperava um corte mais agressivo; como o Fed optou por um corte menor, o mercado pode interpretar isso como sinal de que o banco central americano ainda vê risco inflacionário relevante. Um corte menor do que o esperado tende a sustentar o dólar mais forte no curto prazo; se a ata da próxima reunião indicar postura mais dovish, esse efeito pode se inverter rápido."
 - "A decisão ainda precisa ser votada no plenário. Se for aprovada como está, o impacto fiscal é mais brando do que o anunciado inicialmente; se houver alterações no texto buscando agradar a oposição, o resultado pode pressionar mais o lado da despesa do que o esperado hoje."
-Use 3 a 5 frases, evite redundância entre elas (cada frase deve acrescentar algo novo, não repetir a anterior com outras palavras). Se a notícia for BAIXA relevância e genuinamente não permitir nenhuma leitura condicional interessante (ex: evento social, calendário administrativo), pode ser mais simples e direto, mas ainda evite a fórmula "é relevante porque".
+Use 2 a 3 frases, evite redundância entre elas (cada frase deve acrescentar algo novo, não repetir a anterior com outras palavras). Se a notícia for BAIXA relevância e genuinamente não permitir nenhuma leitura condicional interessante (ex: evento social, calendário administrativo), pode ser mais simples e direto, mas ainda evite a fórmula "é relevante porque".
+
+FRASES PROIBIDAS — não use, nem variações próximas delas (identificadas em produção como repetitivas e que não acrescentam informação real): "é relevante porque", "é importante para quem acompanha", "a notícia, por si só, não detalha", "o que limita a precisão dessa leitura", "vale acompanhar os próximos desdobramentos", "isso pode gerar impactos no mercado". Se a notícia genuinamente não tiver desdobramento condicional claro, prefira terminar a frase no fato em si, sem essas muletas.
 
 IMPORTANTE: o raciocínio condicional acima é sobre como interpretar O FATO em si (ex: dado vindo acima ou abaixo do esperado, decisão sendo tomada de um jeito ou de outro) - isso é diferente e não contradiz a regra de não inventar conexão de canal/origem que a notícia não afirma. Você pode especular sobre os desdobramentos possíveis de um fato já confirmado pela notícia; você não pode inventar que um fato (ex: "Bitcoin subiu") tem uma conexão com canal/origem que a notícia não menciona.
 
@@ -956,15 +950,33 @@ def analyze_batch_with_gemini(items):
         return [None] * len(items)
 
 
-STOCKS_SUMMARY_PROMPT = """Você é o motor analítico do PORTULANAS, RIVOOS WEALTH. Vai receber uma lista de notícias sobre ações, fundos imobiliários (FIIs) ou mercado de capitais, e precisa escrever UM RESUMO CONSOLIDADO ÚNICO cobrindo todas elas - não uma análise separada por notícia.
+STOCKS_SUMMARY_PROMPT = """Você é o motor analítico do PORTULANAS, RIVOOS WEALTH. Vai receber uma lista de notícias sobre ações, fundos imobiliários (FIIs) ou mercado de capitais, numeradas. Sua tarefa: organizar essas notícias em BULLETS TEMÁTICOS, agrupando notícias relacionadas ao mesmo ativo, setor ou tema no mesmo bullet.
 
-Escreva um texto corrido de 2-4 frases que sintetize o que se moveu no mercado de capitais nessas notícias: quais ativos, fundos ou setores foram mencionados, o que aconteceu com cada um (alta, queda, resultado, anúncio), sem repetir a mesma estrutura de frase para cada item - varie a forma de conectar as informações como faria um texto jornalístico de resumo de mercado.
+REGRAS DE AGRUPAMENTO:
+- Notícias sobre o mesmo ativo, empresa ou tema próximo (ex: duas notícias sobre Petrobras, ou petróleo + uma petroleira) devem ir no MESMO bullet, mesmo vindo de fontes diferentes.
+- Notícias sobre temas não relacionados ficam em bullets separados.
+- Cada bullet deve ter um emoji temático apropriado (ex: 🛢️ para petróleo/petroleiras, 💵 para câmbio, 🇺🇸 para mercado americano, 🏦 para bancos, 🌾 para agro, 📦 para varejo/consumo, 📊 para tema geral de bolsa) e um título curto (2-5 palavras) identificando o tema.
+- O resumo de cada bullet deve ter 1-2 frases, juntando as notícias do grupo de forma natural (não apenas concatenar títulos).
+- Inclua o(s) número(s) de índice (ID) das notícias que compõem cada bullet, para o código conseguir linkar as fontes corretas.
 
 Não invente nenhum dado ou número que não esteja nas notícias fornecidas. Não tente conectar essas notícias a canais macro (juros, inflação, etc) a menos que a própria notícia faça essa conexão explicitamente.
 
 Responda APENAS em JSON válido, sem markdown, neste formato:
 {
-  "resumo_consolidado": "texto corrido de 2-4 frases, em português, resumindo todas as notícias recebidas"
+  "bullets": [
+    {
+      "emoji": "🛢️",
+      "titulo": "Petroleiras",
+      "resumo": "1-2 frases juntando as notícias do grupo",
+      "ids": [1, 3]
+    },
+    {
+      "emoji": "💵",
+      "titulo": "Câmbio e Risco",
+      "resumo": "1-2 frases",
+      "ids": [2]
+    }
+  ]
 }
 """
 
@@ -973,15 +985,17 @@ def summarize_stocks_block(items):
     """Gera um resumo consolidado unico cobrindo varias noticias de
     Acoes/FIIs, em vez de uma analise separada por item. Chamada
     separada e pequena, feita apos os itens de RV ja terem sido
-    selecionados pelo pipeline principal."""
+    selecionados pelo pipeline principal. Retorna uma lista de bullets
+    (cada um com emoji, titulo, resumo, e indices dos itens de origem),
+    ou None se a chamada falhar - nesse caso o chamador usa fallback."""
     if not items:
         return None
 
     noticias_txt = ""
-    for item in items:
-        noticias_txt += f"- [{item['source']}] {item['title']}: {item['summary'][:300]}\n"
+    for i, item in enumerate(items, start=1):
+        noticias_txt += f"NOTÍCIA {i} [{item['source']}]: {item['title']}: {item['summary'][:300]}\n"
 
-    user_content = f"Resuma estas {len(items)} notícias de ações/fundos em um único parágrafo consolidado:\n{noticias_txt}"
+    user_content = f"Organize estas {len(items)} notícias de ações/fundos em bullets temáticos:\n{noticias_txt}"
 
     payload = {
         "contents": [
@@ -989,12 +1003,17 @@ def summarize_stocks_block(items):
         ],
         "generationConfig": {
             "temperature": 0.4,
-            "maxOutputTokens": 400,
+            "maxOutputTokens": 500,
         }
     }
 
     try:
-        resp = call_gemini_with_retry(payload)
+        # Retry economico: se a cota ja estiver pressionada pelo Bloco 1
+        # (chamada principal), nao vale insistir muito numa chamada
+        # secundaria - melhor cair rapido no fallback do que gastar mais
+        # cota disputando com a proxima janela. Ver ARQUITETURA.md
+        # Seção 10.9.
+        resp = call_gemini_with_retry(payload, max_retries=2, max_quota_retries=1)
         if resp is None:
             print("[erro] sem resposta do gemini para resumo consolidado de RV")
             return None
@@ -1009,7 +1028,7 @@ def summarize_stocks_block(items):
         text = text.strip()
 
         parsed = json.loads(text)
-        return parsed.get("resumo_consolidado")
+        return parsed.get("bullets")
     except Exception as e:
         print(f"[erro] resumo consolidado de RV falhou: {e}")
         return None
@@ -1079,6 +1098,16 @@ def format_homolog_message(item, analysis):
     return msg
 
 
+def truncate_at_word(text, max_length):
+    """Trunca um texto no limite de caracteres, mas recuando até o
+    último espaço antes do limite, para nunca cortar no meio de uma
+    palavra. Adiciona '…' ao final quando trunca de fato."""
+    if len(text) <= max_length:
+        return text
+    truncated = text[:max_length].rsplit(" ", 1)[0]
+    return truncated + "…"
+
+
 def format_alert(group, representative_item, analysis):
     rel = analysis["relevancia"]
     emoji = {"ALTA": "🔴", "MEDIA": "🟡", "BAIXA": "⚪"}.get(rel, "⚪")
@@ -1102,69 +1131,85 @@ def format_alert(group, representative_item, analysis):
 
     pub = representative_item.get("published") or "data não disponível"
 
-    # Fallback de seguranca: se o modelo (especialmente modelos menores
-    # como Llama 8B) deixar leitura_critica vazia mesmo com a instrucao
-    # do prompt, usa o resumo no lugar em vez de mostrar uma linha vazia
-    # ou quebrar a formatacao.
     leitura_critica = analysis.get("leitura_critica") or analysis.get("resumo", "")
-
-    # Usa o titulo traduzido pela IA quando disponivel - garante que
-    # manchetes em ingles (ou outro idioma) aparecam em portugues. Se
-    # o campo nao vier preenchido (falha do modelo), cai no titulo
-    # original do RSS para nao deixar a mensagem sem manchete.
     titulo_exibido = analysis.get("titulo_traduzido") or representative_item["title"]
+    link_principal = representative_item["link"]
 
     header = (
-        f"{emoji} <b>PORTULANAS · ALERTA {rel}</b>\n\n"
-        f"<b>{titulo_exibido}</b>\n"
+        f"{emoji} <b><a href=\"{link_principal}\">{titulo_exibido}</a></b>\n"
         f"<i>{representative_item['source']} · {pub}</i>\n\n"
-        f"📋 {analysis['resumo']}\n\n"
+        f"{analysis['resumo']}\n\n"
     )
 
-    # So mostra Canal/Origem quando a propria noticia deu base explicita
-    # para isso (regra do prompt: sem inferencia). Se vazio, nao poluir
-    # a mensagem com "nao identificado".
+    # Canal e Origem juntos numa unica linha (antes eram 2 linhas
+    # separadas) - so aparece quando a propria noticia deu base
+    # explicita para isso (regra do prompt: sem inferencia).
+    meta_parts = []
     if canais_txt:
-        header += f"⚙️ <b>Canal:</b> {canais_txt}\n"
+        meta_parts.append(f"⚙️ {canais_txt}")
     if origem_txt:
-        header += f"🧭 <b>Origem:</b> {origem_txt}\n"
-    if canais_txt or origem_txt:
-        header += "\n"
+        meta_parts.append(f"🧭 {origem_txt}")
+    if meta_parts:
+        header += " · ".join(meta_parts) + "\n\n"
 
-    header += f"💡 {leitura_critica}\n\n"
+    # Leitura critica em blockquote - cria identidade visual propria,
+    # separando "o fato" (acima) de "o que isso pode significar"
+    # (aqui dentro), sem precisar de mais texto.
+    header += f"<blockquote>{leitura_critica}</blockquote>"
 
     if len(group) > 1:
         # Mais de uma fonte trouxe titulo parecido - agrupado para o
         # operador revisar e decidir se e a mesma noticia ou nao.
-        header += f"<b>📚 Possível mesmo assunto em {len(group)} fontes:</b>\n"
+        header += f"\n\n<b>📚 Também em:</b> "
+        outras_fontes = []
         for it in group:
-            pub_it = it.get("published") or "s/ data"
-            header += f"• <a href=\"{it['link']}\">{it['source']} · {pub_it}</a> — {it['title'][:70]}\n"
-    else:
-        header += f"🔗 {representative_item['link']}"
+            if it["link"] == link_principal:
+                continue
+            outras_fontes.append(f"<a href=\"{it['link']}\">{it['source']}</a>")
+        header += " · ".join(outras_fontes)
 
     return header
 
 
-def format_stocks_block(items, resumo_consolidado):
-    """Formata o bloco de Acoes/FIIs como UM resumo consolidado unico,
-    seguido da lista de links das noticias usadas - diferente do
-    format_alert (que formata uma noticia macro por vez). Se o resumo
-    consolidado falhar, cai num resumo mais simples concatenando os
-    titulos, para nunca deixar o bloco vazio quando ha itens de RV."""
-    if resumo_consolidado:
-        texto = resumo_consolidado
+def format_stocks_block(items, bullets):
+    """Formata o bloco 'Rapidinhas da Bolsa': bullets tematicos, cada
+    um com emoji, titulo curto, resumo de 1-2 frases e link(s) das
+    fontes que compoem aquele bullet. Se os bullets da IA nao vierem
+    (falha tecnica), cai num fallback que ainda agrupa visualmente em
+    formato de lista, com titulos limpos e truncados corretamente -
+    nunca concatena tudo em uma unica frase corrida."""
+    msg = "📊 <b>RAPIDINHAS DA BOLSA</b>\n\n"
+
+    if bullets:
+        for bullet in bullets:
+            emoji = bullet.get("emoji", "📌")
+            titulo = bullet.get("titulo", "Mercado")
+            resumo = bullet.get("resumo", "")
+            ids = bullet.get("ids", [])
+
+            links = []
+            for idx in ids:
+                # ids vem 1-indexados (NOTÍCIA 1, NOTÍCIA 2, ...)
+                pos = idx - 1
+                if 0 <= pos < len(items):
+                    it = items[pos]
+                    links.append(f"<a href=\"{it['link']}\">{it['source']} ↗</a>")
+
+            msg += f"• {emoji} <b>{titulo}:</b> {resumo}"
+            if links:
+                msg += " " + " ".join(links)
+            msg += "\n\n"
     else:
-        # Fallback: sem resumo da IA, lista os titulos diretamente
-        titulos = "; ".join(it["title"] for it in items[:5])
-        texto = f"Notícias do mercado de capitais: {titulos}."
+        # Fallback: sem bullets da IA, lista cada item individualmente
+        # mas com titulo limpo (sem lixo de formatacao do RSS original)
+        # e truncado respeitando palavra - nunca concatena tudo numa
+        # unica frase corrida.
+        for it in items[:5]:
+            titulo_limpo = it["title"].split(" | ")[0].split(" - ")[0].strip()
+            titulo_limpo = truncate_at_word(titulo_limpo, 90)
+            msg += f"• <a href=\"{it['link']}\">{titulo_limpo}</a> <i>({it['source']})</i>\n\n"
 
-    msg = f"📋 {texto}\n\n<b>🔗 Fontes:</b>\n"
-    for it in items[:5]:
-        pub = it.get("published") or "s/ data"
-        msg += f"• <a href=\"{it['link']}\">{it['source']} · {pub}</a> — {it['title'][:70]}\n"
-
-    return msg
+    return msg.rstrip()
 
 
 # ─────────────────────────────────────────────────────────────────
@@ -1348,16 +1393,19 @@ def main():
             sent_count += 1
             time.sleep(0.5)
 
-        # Separador visual + Bloco 2 - acoes, FIIs e fundos. Diferente
-        # do Bloco 1: aqui NAO formatamos uma mensagem por noticia -
-        # geramos UM resumo consolidado cobrindo todos os itens de RV
-        # selecionados, seguido da lista de links usados.
+        # Bloco 2 - "Rapidinhas da Bolsa". Diferente do Bloco 1: aqui
+        # NAO formatamos uma mensagem por noticia - geramos bullets
+        # tematicos cobrindo todos os itens de RV selecionados. O
+        # titulo do bloco ("RAPIDINHAS DA BOLSA") ja vem embutido
+        # dentro de format_stocks_block, numa UNICA mensagem - isso
+        # evita o hiato visivel que existia antes (titulo chegando
+        # como mensagem separada, conteudo demorando para aparecer
+        # depois por causa do tempo de resposta da IA).
         if selected_stocks:
-            send_telegram(STOCKS_BLOCK_SEPARATOR)
             stocks_items = [representative for (_, representative, _) in selected_stocks]
             stocks_analyses = [analysis for (_, _, analysis) in selected_stocks]
-            resumo_consolidado = summarize_stocks_block(stocks_items)
-            msg_rv = format_stocks_block(stocks_items, resumo_consolidado)
+            bullets = summarize_stocks_block(stocks_items)
+            msg_rv = format_stocks_block(stocks_items, bullets)
             send_telegram(msg_rv)
             for representative, analysis in zip(stocks_items, stocks_analyses):
                 append_to_daily_history(representative, analysis, is_stocks=True)
