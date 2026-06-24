@@ -745,6 +745,65 @@ def analyze_batch_with_gemini(items):
         return [None] * len(items)
 
 
+STOCKS_SUMMARY_PROMPT = """Você é o motor analítico do PORTULANAS, RIVOOS WEALTH. Vai receber uma lista de notícias sobre ações, fundos imobiliários (FIIs) ou mercado de capitais, e precisa escrever UM RESUMO CONSOLIDADO ÚNICO cobrindo todas elas - não uma análise separada por notícia.
+
+Escreva um texto corrido de 2-4 frases que sintetize o que se moveu no mercado de capitais nessas notícias: quais ativos, fundos ou setores foram mencionados, o que aconteceu com cada um (alta, queda, resultado, anúncio), sem repetir a mesma estrutura de frase para cada item - varie a forma de conectar as informações como faria um texto jornalístico de resumo de mercado.
+
+Não invente nenhum dado ou número que não esteja nas notícias fornecidas. Não tente conectar essas notícias a canais macro (juros, inflação, etc) a menos que a própria notícia faça essa conexão explicitamente.
+
+Responda APENAS em JSON válido, sem markdown, neste formato:
+{
+  "resumo_consolidado": "texto corrido de 2-4 frases, em português, resumindo todas as notícias recebidas"
+}
+"""
+
+
+def summarize_stocks_block(items):
+    """Gera um resumo consolidado unico cobrindo varias noticias de
+    Acoes/FIIs, em vez de uma analise separada por item. Chamada
+    separada e pequena, feita apos os itens de RV ja terem sido
+    selecionados pelo pipeline principal."""
+    if not items:
+        return None
+
+    noticias_txt = ""
+    for item in items:
+        noticias_txt += f"- [{item['source']}] {item['title']}: {item['summary'][:300]}\n"
+
+    user_content = f"Resuma estas {len(items)} notícias de ações/fundos em um único parágrafo consolidado:\n{noticias_txt}"
+
+    payload = {
+        "contents": [
+            {"role": "user", "parts": [{"text": STOCKS_SUMMARY_PROMPT + "\n\n" + user_content}]}
+        ],
+        "generationConfig": {
+            "temperature": 0.4,
+            "maxOutputTokens": 400,
+        }
+    }
+
+    try:
+        resp = call_gemini_with_retry(payload)
+        if resp is None:
+            print("[erro] sem resposta do gemini para resumo consolidado de RV")
+            return None
+        data = resp.json()
+        text = data["candidates"][0]["content"]["parts"][0]["text"]
+
+        text = text.strip()
+        if text.startswith("```"):
+            text = text.split("```")[1]
+            if text.startswith("json"):
+                text = text[4:]
+        text = text.strip()
+
+        parsed = json.loads(text)
+        return parsed.get("resumo_consolidado")
+    except Exception as e:
+        print(f"[erro] resumo consolidado de RV falhou: {e}")
+        return None
+
+
 # ─────────────────────────────────────────────────────────────────
 # TELEGRAM
 # ─────────────────────────────────────────────────────────────────
@@ -876,6 +935,27 @@ def format_alert(group, representative_item, analysis):
     return header
 
 
+def format_stocks_block(items, resumo_consolidado):
+    """Formata o bloco de Acoes/FIIs como UM resumo consolidado unico,
+    seguido da lista de links das noticias usadas - diferente do
+    format_alert (que formata uma noticia macro por vez). Se o resumo
+    consolidado falhar, cai num resumo mais simples concatenando os
+    titulos, para nunca deixar o bloco vazio quando ha itens de RV."""
+    if resumo_consolidado:
+        texto = resumo_consolidado
+    else:
+        # Fallback: sem resumo da IA, lista os titulos diretamente
+        titulos = "; ".join(it["title"] for it in items[:5])
+        texto = f"Notícias do mercado de capitais: {titulos}."
+
+    msg = f"📋 {texto}\n\n<b>🔗 Fontes:</b>\n"
+    for it in items[:5]:
+        pub = it.get("published") or "s/ data"
+        msg += f"• <a href=\"{it['link']}\">{it['source']} · {pub}</a> — {it['title'][:70]}\n"
+
+    return msg
+
+
 # ─────────────────────────────────────────────────────────────────
 # MAIN
 # ─────────────────────────────────────────────────────────────────
@@ -1001,20 +1081,25 @@ def main():
         non_stocks_triplets.sort(key=sort_key)
         stocks_triplets.sort(key=lambda t: rel_order.get(t[2].get("relevancia"), 3))
 
+        # Quantidade maxima de itens de RV agregados no bloco
+        # consolidado (resumo unico cobrindo varias noticias).
+        MAX_STOCKS_IN_BLOCK = 5
+
         selected_general = []
         selected_stocks = []
         if stocks_triplets:
-            # Reserva o primeiro slot para a melhor noticia de acoes
-            # disponivel.
-            selected_stocks.append(stocks_triplets[0])
-            remaining_slots = TOP_N_GUARANTEED - 1
+            # Reserva ate MAX_STOCKS_IN_BLOCK itens de RV para o bloco
+            # consolidado - nao analisados individualmente, resumidos
+            # juntos em um unico paragrafo.
+            selected_stocks = stocks_triplets[:MAX_STOCKS_IN_BLOCK]
+            remaining_slots = TOP_N_GUARANTEED - 1  # 1 "slot logico" para o bloco de RV inteiro
         else:
-            print("[info] nenhuma noticia de acoes/mercado disponivel nesta janela - slot dedicado fica vazio")
+            print("[info] nenhuma noticia de acoes/mercado disponivel nesta janela - bloco de RV fica vazio")
             remaining_slots = TOP_N_GUARANTEED
 
         selected_general = non_stocks_triplets[:remaining_slots]
 
-        print(f"[info] modo janela fixa: enviando top {len(selected_general)+len(selected_stocks)} de {len(all_triplets)} analisadas ({len(stocks_triplets)} de acoes disponiveis)")
+        print(f"[info] modo janela fixa: enviando top {len(selected_general)} noticias gerais + bloco RV com {len(selected_stocks)} itens, de {len(all_triplets)} analisadas")
 
         # Bloco 1 - macro (juros, inflacao, fiscal, fluxo de capital,
         # geopolitica), ja na hierarquia origem > relevancia.
@@ -1024,17 +1109,18 @@ def main():
             sent_count += 1
             time.sleep(0.5)
 
-        # Separador visual + Bloco 2 - acoes, FIIs e fundos. Enviado
-        # como mensagem propria, distinta do bloco macro, para deixar
-        # claro onde um bloco termina e o outro comeca - tambem ajuda
-        # a isolar problemas de um bloco especifico na hora de revisar.
+        # Separador visual + Bloco 2 - acoes, FIIs e fundos. Diferente
+        # do Bloco 1: aqui NAO formatamos uma mensagem por noticia -
+        # geramos UM resumo consolidado cobrindo todos os itens de RV
+        # selecionados, seguido da lista de links usados.
         if selected_stocks:
             send_telegram(STOCKS_BLOCK_SEPARATOR)
-            for group, representative, analysis in selected_stocks:
-                msg = format_alert(group, representative, analysis)
-                send_telegram(msg)
-                sent_count += 1
-                time.sleep(0.5)
+            stocks_items = [representative for (_, representative, _) in selected_stocks]
+            resumo_consolidado = summarize_stocks_block(stocks_items)
+            msg_rv = format_stocks_block(stocks_items, resumo_consolidado)
+            send_telegram(msg_rv)
+            sent_count += 1
+            time.sleep(0.5)
 
         if sent_count > 0:
             send_telegram(DISCLAIMER_TEXT)
