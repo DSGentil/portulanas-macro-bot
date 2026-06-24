@@ -37,5 +37,7 @@ jobs:
           git config --global user.email "bot@portulanas.local"
           touch subscribers.json telegram_update_offset.json
           git add subscribers.json telegram_update_offset.json
-          git diff --staged --quiet || git commit -m "atualiza lista de assinantes"
+          git diff --staged --quiet && exit 0
+          git commit -m "atualiza lista de assinantes"
+          git pull --rebase origin main
           git push
