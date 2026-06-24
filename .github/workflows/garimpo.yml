@@ -59,7 +59,13 @@ jobs:
           git config --global user.email "bot@portulanas.local"
           touch seen_cache.json daily_history.json filter_audit_log.json
           git add seen_cache.json daily_history.json filter_audit_log.json
+          # retry_needed.json e tratado separado: so existe quando uma
+          # falha acabou de ocorrer, e pode ter sido removido pelo
+          # proprio script (execucao bem sucedida). git add -A captura
+          # tanto criacao quanto remocao, sem falhar se o arquivo nunca
+          # existiu no repositorio.
+          git add -A -- retry_needed.json 2>/dev/null || true
           git diff --staged --quiet && exit 0
-          git commit -m "atualiza cache, historico diario e log de auditoria"
+          git commit -m "atualiza cache, historico diario, log de auditoria e flag de retry"
           git pull --rebase origin main
           git push
