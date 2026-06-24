@@ -602,15 +602,16 @@ def group_similar_items(items):
 # ANALISE VIA GEMINI — segunda camada, aplica logica Portulanas
 # ─────────────────────────────────────────────────────────────────
 
-def call_gemini_with_retry(payload, max_retries=3, base_wait=15):
-    """Chama a API do Gemini com retry automatico em caso de rate limit (429).
-    Espera progressiva: 15s, 30s, 60s entre tentativas."""
+def call_gemini_with_retry(payload, max_retries=4, base_wait=15):
+    """Chama a API do Gemini com retry automatico em caso de rate limit
+    (429) ou indisponibilidade temporaria do servidor (503/500/502).
+    Espera progressiva: 15s, 30s, 45s, 60s entre tentativas."""
     for attempt in range(1, max_retries + 1):
         try:
             resp = requests.post(GEMINI_URL, json=payload, timeout=20)
-            if resp.status_code == 429:
+            if resp.status_code in (429, 500, 502, 503, 504):
                 wait = base_wait * attempt
-                print(f"[aviso] rate limit (429) na tentativa {attempt}/{max_retries}, aguardando {wait}s")
+                print(f"[aviso] erro {resp.status_code} na tentativa {attempt}/{max_retries}, aguardando {wait}s")
                 time.sleep(wait)
                 continue
             resp.raise_for_status()
@@ -618,8 +619,17 @@ def call_gemini_with_retry(payload, max_retries=3, base_wait=15):
         except requests.exceptions.HTTPError as e:
             if attempt == max_retries:
                 raise
-            print(f"[aviso] erro HTTP na tentativa {attempt}/{max_retries}: {e}")
-            time.sleep(base_wait)
+            wait = base_wait * attempt
+            print(f"[aviso] erro HTTP na tentativa {attempt}/{max_retries}: {e} - aguardando {wait}s")
+            time.sleep(wait)
+        except requests.exceptions.RequestException as e:
+            # Erros de rede/timeout/conexao - mesmo tratamento de retry
+            if attempt == max_retries:
+                print(f"[erro] falha de rede apos {max_retries} tentativas: {e}")
+                return None
+            wait = base_wait * attempt
+            print(f"[aviso] erro de rede na tentativa {attempt}/{max_retries}: {e} - aguardando {wait}s")
+            time.sleep(wait)
     return None
 
 
