@@ -51,6 +51,7 @@ Toda notícia coletada passa primeiro por um filtro barato e determinístico (co
 | `subscribers.json` | Lista de `chat_id` do Telegram inscritos | `portulanas_subscribers.py` | `portulanas_bot.py`, `portulanas_resumo_diario.py` |
 | `telegram_update_offset.json` | Offset da última mensagem processada (API `getUpdates`) | `portulanas_subscribers.py` | `portulanas_subscribers.py` |
 | `daily_history.json` | Histórico de análises completas enviadas no dia (título, relevância, canal, origem, leitura crítica) | `portulanas_bot.py` | `portulanas_resumo_diario.py` |
+| `filter_audit_log.json` | Itens que passaram no filtro de keyword mas foram BAIXA relevância (14 dias de retenção) | `portulanas_bot.py` | Revisão manual/externa periódica |
 
 **Risco conhecido**: como o estado é persistido via commit Git, execuções concorrentes (ex: duas execuções do mesmo workflow rodando simultaneamente) podem gerar conflito de push (`non-fast-forward`). Isso já ocorreu em produção (ver Seção 10.3) e foi parcialmente mitigado com `git pull --rebase` antes do push, mas o risco não é zero.
 
@@ -229,7 +230,10 @@ Diferente do Bloco 1 (uma mensagem por notícia), o Bloco 2 (Ações/FIIs) usa u
 | Folha Mercado | `feeds.folha.uol.com.br/mercado/rss091.xml` | — |
 | Money Times | `moneytimes.com.br/rss/` | — |
 | InvestNews | `investnews.com.br/rss/` | — |
-| Google News Macro | busca `dólar OR Fed OR Copom OR PTAX` | **Limitação conhecida** — ver Seção 9.1 |
+| Google News Câmbio/Juros | busca `dólar OR Fed OR Copom OR PTAX OR Selic` | — |
+| Google News Ações | busca `Ibovespa OR Petrobras OR Vale OR ações OR B3 OR ticker` | Adicionada em 24/06/2026 para cobrir lacuna identificada por auditoria externa |
+| Google News Commodities | busca `petróleo OR minério OR ouro OR soja OR cobre` | Adicionada em 24/06/2026 |
+| Google News Geopolítica | busca `Irã OR Ormuz OR Trump OR Israel OR cessar-fogo` | Adicionada em 24/06/2026 |
 
 **Removida**: Estadão Economia (bloqueio HTTP 403 confirmado em produção, não é falha temporária).
 
@@ -287,9 +291,17 @@ Originalmente o bot enviava para um único `TELEGRAM_CHAT_ID` fixo. Foi migrado 
 
 ## 10. Limitações conhecidas e pendências (lista honesta, não exaustiva)
 
-### 10.1 Google News Macro busca só 4 termos cambiais
+### 10.1 ~~Google News Macro busca só 4 termos cambiais~~ — RESOLVIDO em 24/06/2026
 
-A query atual (`dólar OR Fed OR Copom OR PTAX`) nunca traz notícia de ações/empresas especificamente, mesmo que o restante do pipeline já saiba reconhecê-las. **Esta limitação ainda não foi corrigida** — está em discussão se a solução é ampliar a query existente ou criar uma segunda fonte de Google News dedicada a ações.
+A query única foi substituída por 4 queries específicas por bloco temático (Câmbio/Juros, Ações, Commodities, Geopolítica), tratadas como fontes RSS separadas. Decisão tomada após auditoria externa (relatório de outra IA) sugerir que múltiplas queries focadas são preferíveis a ampliar uma única query ampla, para evitar que termos de blocos diferentes concorram entre si na mesma busca.
+
+### 10.1b Comando `/stop` — RESOLVIDO em 24/06/2026
+
+`portulanas_subscribers.py` agora trata o comando `/stop`, removendo o `chat_id` de `subscribers.json` e enviando mensagem de confirmação de descadastro. Quem não é assinante e manda `/stop` é ignorado silenciosamente (não há nada a fazer).
+
+### 10.1c Log de auditoria de falsos positivos do filtro — NOVO em 24/06/2026
+
+Todo item que passa no filtro de palavra-chave (`quick_relevance_check`) mas é classificado pela IA como BAIXA relevância é registrado em `filter_audit_log.json` (retenção de 14 dias). Não afeta o comportamento do bot — é um registro para revisão periódica (manual ou por outra IA), permitindo identificar de forma orientada a dado quais termos de `RISKY_TERMS_CONTEXT` precisam de contexto mais específico, em vez de depender só de revisão manual ad-hoc das mensagens recebidas.
 
 ### 10.2 Resumo do Dia Anterior — implementado mas não homologado em produção
 
@@ -341,4 +353,3 @@ O código-fonte integral dos arquivos Python e workflows YAML está anexado como
 - `.github/workflows/rodadas.yml` — agendamento do painel legado (pausado)
 
 **Recomendação para a IA auditora**: leia primeiro este documento de arquitetura por completo, depois o código-fonte na ordem listada acima. As decisões de design e o histórico de bugs documentados aqui devem ser tratados como contexto autoritativo sobre *por que* o código está estruturado da forma que está — várias escolhas que podem parecer subótimas a uma primeira leitura (ex: filtro de keyword antes de IA, janelas fixas em vez de contínuo, batch processing) são respostas deliberadas a restrições reais de custo e qualidade observadas em produção, não decisões arbitrárias.
-
