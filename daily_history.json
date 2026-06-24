@@ -1,0 +1,116 @@
+[
+  {
+    "_timestamp": 1782313690.923737,
+    "titulo": "Tesouro Direto hoje: Após recordes, taxas recuam e acompanham bom humor externo",
+    "fonte": "Money Times",
+    "publicado": "24/06 10:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas taxas do Tesouro Direto sugere um alívio nas preocupações com a inflação e juros no Brasil, refletindo o otimismo externo. Se o bom humor externo persistir, as taxas podem continuar a recuar. A correlação com os rendimentos dos títulos americanos indica a influência do cenário internacional nas taxas domésticas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782313691.9977918,
+    "titulo": "Dólar volta a ficar acima de R$ 5,20 e Bolsa recua com pressão do petróleo",
+    "fonte": "Folha Mercado",
+    "publicado": "24/06 09:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A volta do dólar acima de R$ 5,20 indica uma busca por segurança em meio a incertezas globais. A queda da Bolsa, associada à pressão do petróleo, sugere um sentimento de aversão ao risco no mercado. Se a procura por ativos de menor risco continuar, o dólar pode se manter forte.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782313693.07203,
+    "titulo": "Análise: Mercado pede ao Copom a certeza que não consegue formar",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 11:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A incerteza sobre o fim do ciclo de baixa de juros em agosto é um ponto crucial para o mercado. Se o Copom não oferecer clareza, isso pode aumentar a volatilidade nas taxas de juros futuras. A divisão entre os analistas reflete a dificuldade em prever o cenário econômico e as decisões do BC.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782313694.146139,
+    "titulo": "BC lançará ecossistema de duplicatas escriturais no dia 30 de junho",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 11:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento do ecossistema de duplicatas escriturais pelo Banco Central representa uma iniciativa regulatória com potencial para melhorar o mercado de crédito. Se a redução de custos e a maior segurança jurídica se concretizarem, isso pode ter efeitos positivos na economia real. A participação de autoridades do Ministério da Fazenda e do sistema financeiro reforça a importância do evento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782314116.6852214,
+    "titulo": "Governadora do DF sanciona lei que autoriza contratação de empréstimo de até R$ 6,6 bilhões para capitalizar BRB",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 11:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A sanção da lei para capitalização do BRB representa uma decisão fiscal concreta para o Distrito Federal. A remoção de artigos que exigiam ressarcimento e transparência prévia pode indicar uma flexibilização nas condições de empréstimo. A operação de R$ 6,6 bilhões tem potencial impacto nas finanças locais e na saúde do BRB.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782314116.6854577,
+    "titulo": "Dólar supera R$ 5,20 com apostas de alta dos juros americanos; Ibovespa, petróleo e taxas futuras caem",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 11:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar acima de R$ 5,20 reflete a força da moeda americana em meio a expectativas de juros mais altos nos EUA. A queda do Ibovespa e do petróleo sugere um cenário de aversão ao risco, apesar do alívio nas tensões com o Irã. A correlação entre juros americanos e o dólar é um fator chave a ser monitorado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782314116.6858132,
+    "titulo": "Estrangeiros retiram R$ 2 bi em ações na B3 em 22 de junho",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 11:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de R$ 2 bilhões por investidores estrangeiros em um único dia sinaliza uma cautela no mercado brasileiro de ações. Se essa tendência de saída se mantiver, pode pressionar o Ibovespa. Apesar do saldo negativo mensal, o saldo anual positivo sugere que a saída pode ser pontual.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782314116.6860764,
+    "titulo": "Trump exige queda no preço da gasolina nos EUA e ordena investigação",
+    "fonte": "Folha Mercado",
+    "publicado": "24/06 11:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A ação de Trump visa pressionar a queda dos preços da gasolina, o que pode ter um efeito direto na inflação ao consumidor. Se a investigação levar a medidas concretas, isso pode impactar o setor de energia. A ligação explícita com a inflação e a guerra no Oriente Médio reforça a relevância do tema para a economia americana.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782314116.6863213,
+    "titulo": "O balanço desta empresa será o termômetro do mercado de inteligência artificial; saiba o que esperar",
+    "fonte": "Money Times",
+    "publicado": "24/06 11:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O resultado da Micron Technology pode fornecer insights importantes sobre a saúde do setor de IA e semicondutores. Se o balanço for positivo, isso pode impulsionar o setor; se for negativo, pode confirmar as preocupações atuais. A volatilidade recente das ações sugere que o mercado está atento a qualquer sinal de mudança.",
+    "is_stocks": true
+  }
+]
