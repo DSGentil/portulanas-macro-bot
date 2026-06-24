@@ -57,6 +57,7 @@ jobs:
         run: |
           git config --global user.name "portulanas-bot"
           git config --global user.email "bot@portulanas.local"
+          touch seen_cache.json
           git add seen_cache.json
           git diff --staged --quiet || git commit -m "atualiza cache de noticias vistas"
           git push
