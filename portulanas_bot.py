@@ -47,6 +47,14 @@ GEMINI_URL   = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI
 CACHE_FILE = "seen_cache.json"
 CACHE_MAX_AGE_HOURS = 36  # itens mais antigos que isso saem do cache
 
+# Historico das analises completas enviadas durante o dia (titulo,
+# relevancia, canal, origem, leitura_critica) - diferente do
+# seen_cache.json, que so guarda hash para deduplicacao. Usado pelo
+# Resumo do Dia Anterior, que precisa reconstruir o que foi noticiado
+# sem precisar re-analisar nada com a IA.
+DAILY_HISTORY_FILE = "daily_history.json"
+DAILY_HISTORY_MAX_AGE_HOURS = 30  # um pouco mais que 24h, para cobrir atraso de fuso/execucao
+
 # Idade maxima de uma noticia para ser considerada "atual". Protege
 # contra itens antigos que ainda aparecem na lista do RSS (feeds
 # costumam manter os ultimos 15-20 itens publicados, nao so os de hoje)
@@ -141,7 +149,7 @@ BLOCO_INFLACAO = [
 BLOCO_EMPREGO = [
     "payroll", "desemprego", "caged", "mercado de trabalho",
     "jobs report", "unemployment", "labor market", "nonfarm payrolls",
-    "nonfarm",
+    "nonfarm", "salários", "salarios",
 ]
 
 BLOCO_RISCO = [
@@ -174,7 +182,9 @@ BLOCO_PIB_ATIVIDADE = [
 BLOCO_BOLSA = [
     "ibovespa", "ibov", "b3", "nasdaq", "dow jones", "s&p 500",
     "s&p500", "stocks", "equities", "shares", "wall street", "nyse",
-    "ftse", "dax", "nikkei",
+    "ftse", "dax", "nikkei", "ifix", "idiv", "smll", "ibrx",
+    "winfut", "wdofut", "mini indice", "mini índice",
+    "mini dolar", "mini dólar",
 ]
 
 # Principais empresas/bancos do Ibovespa e gigantes internacionais,
@@ -195,6 +205,20 @@ BLOCO_EMPRESAS_BR = [
     "porto seguro", "hypera", "telefonica brasil", "telefônica brasil",
     "vivo", "tim participacoes", "energisa", "ultrapar", "direcional",
     "ultragaz",
+]
+
+# Tickers (codigo de negociacao na B3) dos principais ativos do
+# Ibovespa - alfanumericos especificos, naturalmente seguros contra
+# colisao com palavras comuns (nao precisam de contexto adicional).
+BLOCO_TICKERS_BR = [
+    "petr3", "petr4", "vale3", "itub4", "itub3", "bbdc3", "bbdc4",
+    "bbas3", "sanb11", "btgp11", "bpac11", "abev3", "wege3", "b3sa3",
+    "elet3", "elet6", "rent3", "rail3", "cogn3", "azul4", "goll4",
+    "csna3", "gold3", "ggbr4", "usim5", "suzb3", "klbn11", "embr3",
+    "natu3", "mglu3", "radl3", "rent4", "ctsa3", "yduq3", "fleu3",
+    "psgg3", "hypr3", "vivt3", "tims3", "egie3", "ugpa3", "smfr3",
+    "asai3", "vbbr3", "csmg3", "cmig4", "cple6", "taee11", "mult3",
+    "cyre3", "hapv3", "tots3", "alos3", "lren3", "mrve3", "auren3",
 ]
 
 # Big techs e empresas internacionais de alta relevancia para fluxo
@@ -236,7 +260,7 @@ HIGH_RELEVANCE_KEYWORDS = (
     BLOCO_GEOPOLITICA + BLOCO_PIB_ATIVIDADE
 )
 
-MEDIUM_RELEVANCE_KEYWORDS = BLOCO_BOLSA + BLOCO_EMPRESAS_BR + BLOCO_EMPRESAS_GLOBAL
+MEDIUM_RELEVANCE_KEYWORDS = BLOCO_BOLSA + BLOCO_EMPRESAS_BR + BLOCO_TICKERS_BR + BLOCO_EMPRESAS_GLOBAL
 
 # ─────────────────────────────────────────────────────────────────
 # TERMOS DE RISCO — palavras com sentido comum ambiguo no idioma, que
@@ -256,6 +280,30 @@ RISKY_TERMS_CONTEXT = {
     "opções": ["strike", "vencimento", "calls", "puts", "volatilidade",
                "opções de compra", "opções de venda"],
     "opcoes": ["strike", "vencimento", "calls", "puts", "volatilidade"],
+    "win": ["b3", "pregao", "pregão", "fecha em", "abre em", "ibovespa",
+            "contrato", "mini indice", "mini índice", "ponto", "pontos"],
+    "wdo": ["b3", "pregao", "pregão", "fecha em", "abre em", "dolar",
+            "dólar", "contrato", "mini dolar", "mini dólar", "ptax"],
+    # Termos em ingles e portugues que sao genericos demais isolados,
+    # adicionados a partir de auditoria da taxonomia do operador.
+    "orçamento": ["governo", "fiscal", "deficit", "déficit", "tesouro",
+                  "uniao", "união", "congresso", "lei orcamentaria",
+                  "lei orçamentária"],
+    "orcamento": ["governo", "fiscal", "deficit", "déficit", "tesouro",
+                  "uniao", "união", "congresso"],
+    "options": ["strike", "expiry", "calls", "puts", "volatility",
+                "stock options", "derivatives"],
+    "futures": ["b3", "contract", "expiry", "wdo", "win", "ibovespa",
+                "commodity futures", "interest rate futures"],
+    "vencimento": ["di futuro", "contrato futuro", "b3", "opções",
+                   "opcoes", "titulo", "título", "debenture", "bond"],
+    "alimentos": ["ipca", "inflação", "inflacao", "cpi", "preços",
+                  "precos", "núcleo", "nucleo", "índice de preços",
+                  "indice de precos"],
+    "serviços": ["ipca", "inflação", "inflacao", "cpi", "núcleo",
+                 "nucleo", "pce", "core inflation"],
+    "servicos": ["ipca", "inflação", "inflacao", "cpi", "núcleo",
+                 "nucleo", "pce", "core inflation"],
     **EMPRESAS_AMBIGUAS_CONTEXT,
 }
 
@@ -278,7 +326,7 @@ FISCAL_GOVERNO_CONTEXT = [
 # internacional - usada para garantir 1 slot dedicado no Top N, separado
 # do drive principal de juros/fiscal/inflacao/fluxo de capital.
 STOCKS_KEYWORDS = (
-    BLOCO_BOLSA + BLOCO_EMPRESAS_BR + BLOCO_EMPRESAS_GLOBAL + [
+    BLOCO_BOLSA + BLOCO_EMPRESAS_BR + BLOCO_TICKERS_BR + BLOCO_EMPRESAS_GLOBAL + [
         "earnings", "resultado trimestral", "balanço", "balanco", "ipo",
         "follow-on", "nasdaq composite",
         "fii", "fiis", "fundo imobiliário", "fundo imobiliario", "reit", "reits",
@@ -393,6 +441,49 @@ def item_hash(title, link):
 
 
 # ─────────────────────────────────────────────────────────────────
+# HISTORICO DIARIO — alimenta o Resumo do Dia Anterior
+# ─────────────────────────────────────────────────────────────────
+
+def load_daily_history():
+    if not os.path.exists(DAILY_HISTORY_FILE):
+        return []
+    try:
+        with open(DAILY_HISTORY_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+
+def save_daily_history(history):
+    with open(DAILY_HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
+
+
+def prune_daily_history(history):
+    cutoff = time.time() - DAILY_HISTORY_MAX_AGE_HOURS * 3600
+    return [h for h in history if h.get("_timestamp", 0) > cutoff]
+
+
+def append_to_daily_history(representative_item, analysis, is_stocks):
+    """Registra uma noticia enviada no historico diario, com os dados
+    minimos necessarios para o Resumo do Dia Anterior reconstruir o
+    que aconteceu sem precisar re-analisar nada com IA."""
+    history = prune_daily_history(load_daily_history())
+    history.append({
+        "_timestamp": time.time(),
+        "titulo": analysis.get("titulo_traduzido") or representative_item.get("title", ""),
+        "fonte": representative_item.get("source", ""),
+        "publicado": representative_item.get("published", ""),
+        "relevancia": analysis.get("relevancia"),
+        "canais_afetados": analysis.get("canais_afetados", []),
+        "origem": analysis.get("origem"),
+        "leitura_critica": analysis.get("leitura_critica") or analysis.get("resumo", ""),
+        "is_stocks": is_stocks,
+    })
+    save_daily_history(history)
+
+
+# ─────────────────────────────────────────────────────────────────
 # COLETA RSS
 # ─────────────────────────────────────────────────────────────────
 
@@ -439,12 +530,20 @@ def fetch_feed(name, url, timeout=10):
         resp.raise_for_status()
         parsed = feedparser.parse(resp.content)
         items = []
-        for entry in parsed.entries[:15]:
+        for entry in parsed.entries[:30]:
+            link = entry.get("link", "").strip()
+            # Bloqueia conteudo patrocinado/publieditorial, identificavel
+            # pelo padrao da URL (ex: valor.globo.com/patrocinado/...).
+            # Esse tipo de conteudo costuma mencionar termos financeiros
+            # (Selic, IPCA) apenas como contexto promocional, nao como
+            # noticia real de evento/decisao.
+            if "/patrocinado/" in link.lower():
+                continue
             published_dt_utc = parse_published_datetime_utc(entry)
             items.append({
                 "source": name,
                 "title": entry.get("title", "").strip(),
-                "link": entry.get("link", "").strip(),
+                "link": link,
                 "summary": entry.get("summary", "")[:1200],
                 "published": parse_published_date(entry),
                 "published_dt_utc": published_dt_utc,
@@ -1116,6 +1215,7 @@ def main():
         for group, representative, analysis in selected_general:
             msg = format_alert(group, representative, analysis)
             send_telegram(msg)
+            append_to_daily_history(representative, analysis, is_stocks=False)
             sent_count += 1
             time.sleep(0.5)
 
@@ -1126,9 +1226,12 @@ def main():
         if selected_stocks:
             send_telegram(STOCKS_BLOCK_SEPARATOR)
             stocks_items = [representative for (_, representative, _) in selected_stocks]
+            stocks_analyses = [analysis for (_, _, analysis) in selected_stocks]
             resumo_consolidado = summarize_stocks_block(stocks_items)
             msg_rv = format_stocks_block(stocks_items, resumo_consolidado)
             send_telegram(msg_rv)
+            for representative, analysis in zip(stocks_items, stocks_analyses):
+                append_to_daily_history(representative, analysis, is_stocks=True)
             sent_count += 1
             time.sleep(0.5)
 
