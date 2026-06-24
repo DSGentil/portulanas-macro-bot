@@ -64,6 +64,14 @@ DAILY_HISTORY_MAX_AGE_HOURS = 30  # um pouco mais que 24h, para cobrir atraso de
 FILTER_AUDIT_LOG_FILE = "filter_audit_log.json"
 FILTER_AUDIT_LOG_MAX_AGE_HOURS = 24 * 14  # mantém 14 dias de histórico para análise de padrão
 
+# Flag de retry: escrito quando uma janela falha TOTALMENTE na analise
+# de IA (ex: outage do Gemini, ver Secao 10.7 do ARQUITETURA.md). Um
+# workflow separado (retry_garimpo.yml) verifica este arquivo ~25min
+# depois de cada janela e so dispara uma nova execucao se ele existir
+# e for recente - evita gastar cota de IA em dias sem falha.
+RETRY_FLAG_FILE = "retry_needed.json"
+RETRY_FLAG_MAX_AGE_MINUTES = 40  # janela de validade do flag antes de ser considerado obsoleto
+
 # Idade maxima de uma noticia para ser considerada "atual". Protege
 # contra itens antigos que ainda aparecem na lista do RSS (feeds
 # costumam manter os ultimos 15-20 itens publicados, nao so os de hoje)
@@ -542,6 +550,20 @@ def log_filter_false_positive(representative_item, analysis):
     save_filter_audit_log(log)
 
 
+def mark_retry_needed():
+    """Escreve o flag de retry, lido pelo workflow retry_garimpo.yml."""
+    with open(RETRY_FLAG_FILE, "w", encoding="utf-8") as f:
+        json.dump({"timestamp": time.time()}, f)
+
+
+def clear_retry_flag():
+    """Remove o flag de retry apos uma execucao bem sucedida (mesmo
+    que tenha enviado 0 noticias por falta de conteudo relevante -
+    isso e diferente de falha tecnica)."""
+    if os.path.exists(RETRY_FLAG_FILE):
+        os.remove(RETRY_FLAG_FILE)
+
+
 # ─────────────────────────────────────────────────────────────────
 # COLETA RSS
 # ─────────────────────────────────────────────────────────────────
@@ -760,13 +782,17 @@ def group_similar_items(items):
 # ANALISE VIA GEMINI — segunda camada, aplica logica Portulanas
 # ─────────────────────────────────────────────────────────────────
 
-def call_gemini_with_retry(payload, max_retries=4, base_wait=15):
+def call_gemini_with_retry(payload, max_retries=6, base_wait=20):
     """Chama a API do Gemini com retry automatico em caso de rate limit
     (429) ou indisponibilidade temporaria do servidor (503/500/502).
-    Espera progressiva: 15s, 30s, 45s, 60s entre tentativas."""
+    Espera progressiva: 20s, 40s, 60s, 80s, 100s, 120s entre tentativas
+    (total ~7 minutos de espera antes de desistir). Erros 503 do Gemini
+    sao um problema conhecido e recorrente do servico (nao exclusivo
+    desta conta), por isso o retry e generoso - ver ARQUITETURA.md
+    Seção 10.7."""
     for attempt in range(1, max_retries + 1):
         try:
-            resp = requests.post(GEMINI_URL, json=payload, timeout=20)
+            resp = requests.post(GEMINI_URL, json=payload, timeout=30)
             if resp.status_code in (429, 500, 502, 503, 504):
                 wait = base_wait * attempt
                 print(f"[aviso] erro {resp.status_code} na tentativa {attempt}/{max_retries}, aguardando {wait}s")
@@ -1203,10 +1229,30 @@ def main():
     representatives = [pick_representative_item(g) for g in groups]
     analyses = analyze_batch_with_gemini(representatives) if representatives else []
 
-    # Marca no cache todos os itens de todos os grupos processados,
-    # independente do resultado - isso evita tentar a mesma noticia
-    # infinitamente se a analise falhar por erro tecnico.
-    for group in groups:
+    # Detecta falha TOTAL do batch (a IA nao respondeu para nenhum
+    # item, tipicamente por outage do servidor - ver Secao 10.7 do
+    # ARQUITETURA.md). Usado para decidir se vale ou nao marcar os
+    # itens como vistos no cache.
+    batch_failed_completely = bool(representatives) and all(a is None for a in analyses)
+    if batch_failed_completely:
+        print("[erro] falha TOTAL do batch de analise - nenhum item foi processado pela IA")
+        print("[info] itens NAO serao marcados como vistos, para tentar novamente na proxima execucao")
+        mark_retry_needed()
+    else:
+        # Execucao teve sucesso (mesmo que parcial ou com 0 itens
+        # relevantes) - limpa qualquer flag de retry pendente de uma
+        # falha anterior, para o workflow de retry nao disparar de novo
+        # sem necessidade.
+        clear_retry_flag()
+
+    # Marca no cache APENAS os itens cuja analise teve resposta da IA
+    # (mesmo que BAIXA relevancia) - itens cuja analise falhou (None)
+    # por erro tecnico NAO sao marcados, para que a proxima execucao
+    # (ou um retry de janela) possa tentar analisa-los de novo. Marcar
+    # itens nao analisados como vistos os perderia permanentemente.
+    for group, analysis in zip(groups, analyses):
+        if analysis is None:
+            continue
         for it in group:
             h = item_hash(it["title"], it["link"])
             cache[h] = time.time()
