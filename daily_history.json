@@ -541,5 +541,71 @@
     "origem": "externa",
     "leitura_critica": "A notícia descreve a performance do Bitcoin sem conectar explicitamente a movimentos de capital para o Brasil ou a decisões de política monetária doméstica. Se a queda de ações de tecnologia persistir, isso pode indicar um apetite a risco global reduzido, mas a notícia não faz essa conexão.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782342188.7513864,
+    "titulo": "Campo de Búzios supera recorde e alcança produção média de 1,1 milhão barris de petróleo por dia",
+    "fonte": "Google News Commodities",
+    "publicado": "24/06 16:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde de produção no campo de Búzios demonstra a capacidade de exploração e produção do pré-sal brasileiro. Se houvesse problemas operacionais ou climáticos significativos, a produção poderia ter sido afetada negativamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782342191.019701,
+    "titulo": "Produção de petróleo atinge recorde de 3,7 milhões de barris por dia",
+    "fonte": "Google News Commodities",
+    "publicado": "24/06 14:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde de produção de petróleo indica um aumento na oferta global ou nacional. Se a demanda por petróleo diminuísse significativamente, esse nível de produção poderia levar a uma queda nos preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782342193.23869,
+    "titulo": "Indústria do petróleo espera que MP do imposto de exportação perca a validade, diz Shell",
+    "fonte": "Google News Commodities",
+    "publicado": "24/06 14:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa da indústria do petróleo é de que a MP do imposto de exportação não seja convertida em lei, o que aliviaria a carga tributária sobre o setor. Se a MP fosse aprovada e mantida, isso poderia impactar a competitividade das exportações de petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782342195.5142224,
+    "titulo": "Itamaraty diz que tarifaço é tentativa de interferência externa e que ‘traidores não reescreverão a história’",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 19:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do Itamaraty indica uma postura de confronto em relação às tarifas impostas pelos EUA, o que pode gerar instabilidade nas relações comerciais. Se as negociações sobre as tarifas fossem mais produtivas, a retórica poderia ser menos inflamada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782342218.0663595,
+    "titulo": "Ibovespa cai e perde nível dos 171 mil pontos com pressão de Petrobras e Vale",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 17:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa foi impulsionada por fatores externos (preço do petróleo) e internos (desempenho de commodities). Se os preços do petróleo tivessem se mantido estáveis ou subido, e se as ações da Petrobras e Vale tivessem apresentado desempenho positivo, o índice poderia ter fechado em alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782342218.0675588,
+    "titulo": "Ibovespa hoje cai com perdas acima de 2% das ações da Petrobras; dólar sobe a R$ 5,20",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/06 17:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa e a alta do dólar são reflexos de fatores como o desempenho das ações de commodities e a política monetária americana. Se as ações da Petrobras tivessem apresentado valorização e o dólar se mantivesse estável, o cenário para a bolsa seria mais positivo.",
+    "is_stocks": true
   }
 ]
