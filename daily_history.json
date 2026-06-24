@@ -112,5 +112,114 @@
     "origem": "externa",
     "leitura_critica": "O resultado da Micron Technology pode fornecer insights importantes sobre a saúde do setor de IA e semicondutores. Se o balanço for positivo, isso pode impulsionar o setor; se for negativo, pode confirmar as preocupações atuais. A volatilidade recente das ações sugere que o mercado está atento a qualquer sinal de mudança.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782327673.6912985,
+    "titulo": "Fluxo cambial registra entrada de US$ 4,066 bilhões na semana de 15 a 19 de junho",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 15:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada líquida de US$ 4,066 bilhões no fluxo cambial é um dado concreto que indica um aumento na disponibilidade de moeda estrangeira no Brasil. Se essa tendência de entrada se mantiver, pode haver pressão de valorização sobre o real. A distinção entre fluxo comercial e financeiro permite entender as origens dessa entrada, sendo o fluxo financeiro mais sensível a mudanças nas taxas de juros e no apetite por risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782327675.893798,
+    "titulo": "Em 2024, óleos brutos de petróleo foram o principal produto industrial pelo terceiro ano seguido - Agência de Notícias - IBGE",
+    "fonte": "Google News Commodities",
+    "publicado": "24/06 10:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O fato de óleos brutos de petróleo serem o principal produto industrial pelo terceiro ano consecutivo indica uma concentração na pauta de exportações e produção industrial brasileira. Se essa concentração se mantiver, pode haver vulnerabilidade a choques nos preços do petróleo. A notícia, por si só, não detalha se houve variação em relação ao ano anterior ou se essa liderança é um fator novo de atenção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782327678.1309507,
+    "titulo": "Vazio sanitário da soja está em vigor em Mato Grosso do Sul e segue até 15 de setembro",
+    "fonte": "Google News Commodities",
+    "publicado": "24/06 11:05",
+    "relevancia": "BAIXA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O vazio sanitário da soja é uma prática agrícola importante para a saúde das lavouras e a produtividade futura. A notícia em si não apresenta um impacto direto nos canais macroeconômicos de juros, inflação ou fluxo de capital. Sua relevância se restringe ao setor do agronegócio e à gestão de riscos fitossanitários.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782327680.3623457,
+    "titulo": "Quanto o dólar precisa subir para as Treasuries vencerem a Selic? - InvestNews",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/06 12:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A comparação entre a rentabilidade das Treasuries e a Selic, influenciada pela cotação do dólar, é um fator relevante para o fluxo de capital entre Brasil e EUA. Se o dólar se valorizar significativamente, as Treasuries podem se tornar mais atraentes para investidores internacionais, potencialmente impactando o fluxo de capital para o Brasil. A análise do ponto em que as Treasuries superam a Selic pode indicar um gatilho para movimentações de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782327805.9947872,
+    "titulo": "Sanepar (SAPR11): Dividendos extraordinários vão para o ‘ralo’ como decisão de agência e ação cai; entenda",
+    "fonte": "Money Times",
+    "publicado": "24/06 15:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Agepar sobre a destinação dos dividendos da Sanepar representa uma intervenção regulatória com impacto direto nos acionistas da empresa. Se decisões semelhantes se tornarem mais frequentes em outras agências reguladoras, isso pode gerar um receio generalizado sobre a previsibilidade de retornos de investimentos em empresas reguladas. A forma como essa decisão afeta o caixa da empresa e sua capacidade de investimento futuro é um ponto a ser observado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782327805.9952476,
+    "titulo": "Mercado agora | Pressionado por blue chips, Ibovespa opera em baixa; dólar avança",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/06 12:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A baixa do Ibovespa, combinada com a alta do dólar, pode indicar um cenário de aversão ao risco no mercado brasileiro. Se essa tendência se mantiver, pode haver pressão sobre ativos de renda variável e uma busca por ativos mais seguros, como o dólar. A influência das blue chips na queda do índice sugere que os grandes players estão reduzindo suas posições em ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782327805.9958282,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com petroleiras e VALE3",
+    "fonte": "Google News Acoes",
+    "publicado": "24/06 13:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, influenciada por petroleiras e VALE3, sugere que fatores específicos desses setores estão impactando o mercado acionário brasileiro. Se os preços do petróleo continuarem em baixa, isso pode afetar negativamente as petroleiras. A performance da VALE3, por sua vez, pode estar ligada a commodities metálicas. A notícia não especifica se há um fator macroeconômico externo ou interno que esteja guiando essa performance.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782327805.9964228,
+    "titulo": "Ouro fica abaixo de US$ 4.000 pela primeira vez desde novembro",
+    "fonte": "Folha Mercado",
+    "publicado": "24/06 14:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do ouro abaixo de US$ 4.000, ligada à expectativa de alta de juros nos EUA, reforça a tese de um aperto monetário que torna ativos sem rendimento, como o ouro, menos atrativos. Se a expectativa de alta de juros se concretizar, o dólar tende a se fortalecer, pressionando ainda mais o preço do ouro. A persistência dessa tendência pode indicar um fluxo de capital saindo de ativos de refúgio para ativos de maior rentabilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782327805.996949,
+    "titulo": "Brasil preenche 65,4% da cota de exportação de carne à China no ano",
+    "fonte": "Money Times",
+    "publicado": "24/06 15:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O alto percentual da cota de exportação de carne bovina para a China já preenchido demonstra a força da demanda chinesa pelo produto brasileiro. Se essa demanda se mantiver forte, pode haver pressão sobre os preços internos da carne e um impacto positivo na balança comercial brasileira. A notícia, contudo, não detalha se há riscos de saturação da cota ou mudanças na política de importação chinesa.",
+    "is_stocks": true
   }
 ]
