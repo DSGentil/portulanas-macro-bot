@@ -181,9 +181,12 @@ BLOCO_DERIVATIVOS = [
 
 BLOCO_COMMODITIES = [
     "petróleo", "petroleo", "oil", "brent", "wti", "minério",
-    "minerio", "soja", "ouro", "cobre", "iron ore", "soybeans",
-    "gold", "copper", "opep", "opec",
+    "minerio", "soja", "iron ore", "soybeans", "opep", "opec",
 ]
+# "ouro", "prata", "bronze" e "cobre" colidem com contextos esportivos
+# (medalha de ouro/prata/bronze, "Copa Ouro") e "cobre" tambem e verbo
+# comum ("ele cobre a vaga") - tratados em RISKY_TERMS_CONTEXT, mais
+# abaixo, exigindo contexto de commodity/preco/mercado.
 
 BLOCO_GEOPOLITICA = [
     "hormuz", "ormuz", "irã", "ira", "iran", "guerra", "war",
@@ -301,6 +304,26 @@ RISKY_TERMS_CONTEXT = {
             "contrato", "mini indice", "mini índice", "ponto", "pontos"],
     "wdo": ["b3", "pregao", "pregão", "fecha em", "abre em", "dolar",
             "dólar", "contrato", "mini dolar", "mini dólar", "ptax"],
+    # Metais preciosos/industriais - colidem com contexto esportivo
+    # (medalha de ouro/prata/bronze, "Copa Ouro") e "cobre" tambem e
+    # verbo comum ("ele cobre a vaga"). So contam como commodity com
+    # contexto de mercado/preco.
+    "ouro": ["onça", "onca", "xau", "commodity", "preço do ouro",
+             "preco do ouro", "cotação", "cotacao", "mercado", "barra",
+             "minério", "minerio", "reserva", "abaixo de", "acima de",
+             "alta de", "queda de", "patamar"],
+    "prata": ["onça", "onca", "xag", "commodity", "preço da prata",
+              "preco da prata", "cotação", "cotacao", "mercado",
+              "minério", "minerio", "abaixo de", "acima de",
+              "alta de", "queda de", "patamar"],
+    "bronze": ["liga metalica", "liga metálica", "commodity", "cobre",
+               "estanho", "metalurgia"],
+    "cobre": ["lme", "commodity", "preço do cobre", "preco do cobre",
+              "cotação", "cotacao", "mercado", "minério", "minerio",
+              "tonelada"],
+    "gold": ["ounce", "xau", "commodity", "price", "market", "bullion",
+             "reserve"],
+    "copper": ["lme", "commodity", "price", "market", "ton", "tonne"],
     # Termos em ingles e portugues que sao genericos demais isolados,
     # adicionados a partir de auditoria da taxonomia do operador.
     "orçamento": ["governo", "fiscal", "deficit", "déficit", "tesouro",
@@ -1355,6 +1378,32 @@ def main():
             if analysis.get("relevancia") == "BAIXA":
                 log_filter_false_positive(representative, analysis)
 
+        # PISO DE QUALIDADE: mesmo no modo "Top N garantido", nunca
+        # inclui um item que seja BAIXA relevancia E nao tenha nenhum
+        # CANAL identificado - isso e o sinal mais forte de que a
+        # propria IA achou a noticia irrelevante (ex: evento esportivo
+        # que passou no filtro de keyword por colisao de termo
+        # ambiguo). Nao usamos "origem" como sinal aqui porque origem
+        # pode vir preenchida mesmo em noticia irrelevante (ex:
+        # "Palmas" e cidade brasileira, entao origem=domestica nao
+        # significa que a noticia e sobre macroeconomia). Preferimos
+        # enviar menos itens do que forcar ruido so para completar o
+        # Top N. Ver ARQUITETURA.md Seção 10.10.
+        def passes_quality_floor(analysis):
+            if analysis.get("relevancia") != "BAIXA":
+                return True
+            # Exige CANAL especificamente - origem nao e sinal
+            # confiavel sozinha (ex: "Palmas" e cidade brasileira,
+            # entao origem="domestica" pode vir preenchida mesmo numa
+            # noticia de evento esportivo sem nenhuma relacao com
+            # mercado financeiro).
+            return bool(analysis.get("canais_afetados"))
+
+        descartados_qualidade = [t for t in all_triplets if not passes_quality_floor(t[2])]
+        if descartados_qualidade:
+            print(f"[info] {len(descartados_qualidade)} item(ns) descartado(s) pelo piso de qualidade (BAIXA + sem canal/origem)")
+        all_triplets = [t for t in all_triplets if passes_quality_floor(t[2])]
+
         stocks_triplets = [t for t in all_triplets if is_stocks_news(t[1])]
         non_stocks_triplets = [t for t in all_triplets if not is_stocks_news(t[1])]
 
@@ -1386,8 +1435,14 @@ def main():
 
         # Bloco 1 - macro (juros, inflacao, fiscal, fluxo de capital,
         # geopolitica), ja na hierarquia origem > relevancia.
-        for group, representative, analysis in selected_general:
+        for i, (group, representative, analysis) in enumerate(selected_general):
             msg = format_alert(group, representative, analysis)
+            if i == 0:
+                # Header "PORTULANAS NEWS" embutido na PRIMEIRA mensagem
+                # da janela (nao como mensagem separada, para nao
+                # reintroduzir o problema de hiato que ja corrigimos no
+                # Bloco 2).
+                msg = "<b>PORTULANAS NEWS</b>\n\n" + msg
             send_telegram(msg)
             append_to_daily_history(representative, analysis, is_stocks=False)
             sent_count += 1
@@ -1406,6 +1461,11 @@ def main():
             stocks_analyses = [analysis for (_, _, analysis) in selected_stocks]
             bullets = summarize_stocks_block(stocks_items)
             msg_rv = format_stocks_block(stocks_items, bullets)
+            if not selected_general:
+                # Bloco 1 ficou vazio nesta janela - o header
+                # "PORTULANAS NEWS" precisa aparecer aqui, na primeira
+                # (e unica) mensagem da janela.
+                msg_rv = "<b>PORTULANAS NEWS</b>\n\n" + msg_rv
             send_telegram(msg_rv)
             for representative, analysis in zip(stocks_items, stocks_analyses):
                 append_to_daily_history(representative, analysis, is_stocks=True)
