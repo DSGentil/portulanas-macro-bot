@@ -38,7 +38,7 @@ Toda notícia coletada passa primeiro por um filtro barato e determinístico (co
 
 | Arquivo | Papel | Disparado por |
 |---|---|---|
-| `portulanas_bot.py` | Motor principal: coleta RSS, filtra, analisa com IA, formata e envia | `garimpo.yml` (8x/dia, seg-sex) |
+| `portulanas_bot.py` | Motor principal: coleta RSS, filtra, analisa com IA, formata e envia | `garimpo.yml` (8x/dia, seg-sex) e `retry_garimpo.yml` (condicional) |
 | `portulanas_subscribers.py` | Detecta novos `/start` no Telegram, mantém lista de assinantes | `assinantes.yml` (a cada 15 min) |
 | `portulanas_resumo_diario.py` | Gera resenha do dia anterior a partir do histórico | (workflow pendente de criação — ver Seção 9) |
 | `portulanas_panorama.py` | Script legado de panorama/checkpoint horário | **Pausado** — ver Seção 8.1 |
@@ -52,6 +52,7 @@ Toda notícia coletada passa primeiro por um filtro barato e determinístico (co
 | `telegram_update_offset.json` | Offset da última mensagem processada (API `getUpdates`) | `portulanas_subscribers.py` | `portulanas_subscribers.py` |
 | `daily_history.json` | Histórico de análises completas enviadas no dia (título, relevância, canal, origem, leitura crítica) | `portulanas_bot.py` | `portulanas_resumo_diario.py` |
 | `filter_audit_log.json` | Itens que passaram no filtro de keyword mas foram BAIXA relevância (14 dias de retenção) | `portulanas_bot.py` | Revisão manual/externa periódica |
+| `retry_needed.json` | Flag temporário indicando falha total da última análise de IA | `portulanas_bot.py` | `retry_garimpo.yml` (workflow de retry) |
 
 **Risco conhecido**: como o estado é persistido via commit Git, execuções concorrentes (ex: duas execuções do mesmo workflow rodando simultaneamente) podem gerar conflito de push (`non-fast-forward`). Isso já ocorreu em produção (ver Seção 10.3) e foi parcialmente mitigado com `git pull --rebase` antes do push, mas o risco não é zero.
 
@@ -302,6 +303,16 @@ A query única foi substituída por 4 queries específicas por bloco temático (
 ### 10.1c Log de auditoria de falsos positivos do filtro — NOVO em 24/06/2026
 
 Todo item que passa no filtro de palavra-chave (`quick_relevance_check`) mas é classificado pela IA como BAIXA relevância é registrado em `filter_audit_log.json` (retenção de 14 dias). Não afeta o comportamento do bot — é um registro para revisão periódica (manual ou por outra IA), permitindo identificar de forma orientada a dado quais termos de `RISKY_TERMS_CONTEXT` precisam de contexto mais específico, em vez de depender só de revisão manual ad-hoc das mensagens recebidas.
+
+### 10.7 Outages do Gemini (HTTP 503) e mecanismo de retry de janela — NOVO em 24/06/2026
+
+Observado em produção: duas execuções consecutivas (horas separadas) falharam **completamente** na análise de IA, com erro 503 em todas as 4-6 tentativas de retry interno. Pesquisa externa confirmou que isso é um problema conhecido e recorrente do serviço Gemini (picos de demanda após lançamento de novos modelos podem gerar taxas de falha de até 45% em horários de pico), não exclusivo desta conta.
+
+**Bug crítico encontrado e corrigido durante a investigação**: antes desta correção, o código marcava TODOS os itens processados como "vistos" no cache (`seen_cache.json`) independentemente do resultado da análise — inclusive quando a IA falhava completamente. Isso significava que, numa falha total, as notícias eram perdidas permanentemente (nunca mais seriam tentadas), mesmo que ainda estivessem dentro da janela de 6h de idade. Corrigido: agora só são marcados como vistos os itens cuja análise teve resposta da IA (mesmo que BAIXA relevância); itens com análise `None` (falha técnica) permanecem disponíveis para nova tentativa.
+
+**Mecanismo de retry de janela**: quando uma execução do garimpo detecta falha total do batch (`batch_failed_completely`), escreve um flag em `retry_needed.json`. Um segundo workflow (`retry_garimpo.yml`) roda ~25-40 minutos depois de cada uma das 8 janelas e verifica esse flag: se existir e tiver menos de 40 minutos, dispara uma nova execução completa do garimpo; senão, sai sem custo. Isso evita gastar cota de IA em dias sem outage (a maioria), enquanto garante uma segunda chance em dias com instabilidade do servidor.
+
+**Resiliência interna também ampliada**: o retry dentro de uma única chamada de IA passou de 4 tentativas (15s/30s/45s/60s, total 150s) para 6 tentativas (20s/40s/60s/80s/100s/120s, total ~7 minutos), dando mais chance de recuperação automática sem precisar do retry de janela.
 
 ### 10.2 Resumo do Dia Anterior — implementado mas não homologado em produção
 
