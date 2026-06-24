@@ -55,6 +55,15 @@ CACHE_MAX_AGE_HOURS = 36  # itens mais antigos que isso saem do cache
 DAILY_HISTORY_FILE = "daily_history.json"
 DAILY_HISTORY_MAX_AGE_HOURS = 30  # um pouco mais que 24h, para cobrir atraso de fuso/execucao
 
+# Log de auditoria: notícias que passaram no filtro de palavra-chave
+# (quick_relevance_check) mas que a IA classificou como BAIXA relevância.
+# Não afeta o comportamento do bot - é só um registro para revisão
+# periódica, usado para identificar candidatos a entrar em
+# RISKY_TERMS_CONTEXT (termos que estão capturando ruído e precisam de
+# mais contexto) ou a sair de listas diretas (HIGH/MEDIUM_RELEVANCE).
+FILTER_AUDIT_LOG_FILE = "filter_audit_log.json"
+FILTER_AUDIT_LOG_MAX_AGE_HOURS = 24 * 14  # mantém 14 dias de histórico para análise de padrão
+
 # Idade maxima de uma noticia para ser considerada "atual". Protege
 # contra itens antigos que ainda aparecem na lista do RSS (feeds
 # costumam manter os ultimos 15-20 itens publicados, nao so os de hoje)
@@ -115,7 +124,15 @@ FEEDS = {
     "Folha Mercado":      "http://feeds.folha.uol.com.br/mercado/rss091.xml",
     "Money Times":        "https://www.moneytimes.com.br/rss/",
     "InvestNews":         "https://investnews.com.br/rss/",
-    "Google News Macro":  "https://news.google.com/rss/search?q=d%C3%B3lar+OR+Fed+OR+Copom+OR+PTAX&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    # Google News Macro foi dividido em 4 queries por bloco tematico, em
+    # vez de uma unica query ampla (cambio/juros) que nunca trazia
+    # noticia de ações/empresas. Cada query e tratada como fonte
+    # separada, para evitar que termos de blocos diferentes concorram
+    # entre si na mesma busca e diluam precisao.
+    "Google News Cambio Juros": "https://news.google.com/rss/search?q=d%C3%B3lar+OR+Fed+OR+Copom+OR+PTAX+OR+Selic&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "Google News Acoes":        "https://news.google.com/rss/search?q=Ibovespa+OR+Petrobras+OR+Vale+OR+a%C3%A7%C3%B5es+OR+B3+OR+ticker&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "Google News Commodities":  "https://news.google.com/rss/search?q=petr%C3%B3leo+OR+min%C3%A9rio+OR+ouro+OR+soja+OR+cobre&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "Google News Geopolitica":  "https://news.google.com/rss/search?q=Ir%C3%A3+OR+Ormuz+OR+Trump+OR+Israel+OR+cessar-fogo&hl=pt-BR&gl=BR&ceid=BR:pt-419",
 }
 
 # ─────────────────────────────────────────────────────────────────
@@ -481,6 +498,48 @@ def append_to_daily_history(representative_item, analysis, is_stocks):
         "is_stocks": is_stocks,
     })
     save_daily_history(history)
+
+
+# ─────────────────────────────────────────────────────────────────
+# LOG DE AUDITORIA DO FILTRO — identifica candidatos a refinar
+# RISKY_TERMS_CONTEXT a partir de falsos positivos reais observados
+# ─────────────────────────────────────────────────────────────────
+
+def load_filter_audit_log():
+    if not os.path.exists(FILTER_AUDIT_LOG_FILE):
+        return []
+    try:
+        with open(FILTER_AUDIT_LOG_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+
+def save_filter_audit_log(log):
+    with open(FILTER_AUDIT_LOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(log, f, ensure_ascii=False, indent=2)
+
+
+def prune_filter_audit_log(log):
+    cutoff = time.time() - FILTER_AUDIT_LOG_MAX_AGE_HOURS * 3600
+    return [entry for entry in log if entry.get("_timestamp", 0) > cutoff]
+
+
+def log_filter_false_positive(representative_item, analysis):
+    """Registra uma noticia que passou no filtro de palavra-chave
+    (custou processamento/cota de IA) mas foi classificada como BAIXA
+    relevancia pela IA. Nao afeta o comportamento do bot - serve so
+    para revisao periodica manual ou por outra IA, identificando
+    padroes de ruido que poderiam ser blindados com mais contexto em
+    RISKY_TERMS_CONTEXT ou removidos de listas diretas."""
+    log = prune_filter_audit_log(load_filter_audit_log())
+    log.append({
+        "_timestamp": time.time(),
+        "titulo": representative_item.get("title", ""),
+        "fonte": representative_item.get("source", ""),
+        "relevancia_atribuida": analysis.get("relevancia"),
+    })
+    save_filter_audit_log(log)
 
 
 # ─────────────────────────────────────────────────────────────────
@@ -1180,6 +1239,13 @@ def main():
             for group, representative, analysis in zip(groups, representatives, analyses)
             if analysis is not None
         ]
+
+        # Log de auditoria: registra itens que passaram no filtro de
+        # keyword (custaram processamento de IA) mas foram BAIXA
+        # relevância - util para revisao periodica de RISKY_TERMS_CONTEXT.
+        for _, representative, analysis in all_triplets:
+            if analysis.get("relevancia") == "BAIXA":
+                log_filter_false_positive(representative, analysis)
 
         stocks_triplets = [t for t in all_triplets if is_stocks_news(t[1])]
         non_stocks_triplets = [t for t in all_triplets if not is_stocks_news(t[1])]
