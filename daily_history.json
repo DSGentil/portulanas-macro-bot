@@ -881,5 +881,112 @@
     "origem": "externa",
     "leitura_critica": "O desempenho positivo das bolsas europeias, influenciado pelo setor de tecnologia e declarações do BCE, indica um ambiente de maior confiança no mercado. Se as declarações do BCE sinalizarem uma política monetária acomodatícia, isso pode sustentar a alta das bolsas no curto prazo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782412716.4955418,
+    "titulo": "Galípolo diz que BC pode ter errado ao tentar 'explicar demais' último corte na Selic",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/06 12:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Galípolo sugere uma reflexão interna sobre a comunicação do Banco Central, o que pode indicar uma busca por maior clareza ou uma mudança na abordagem em futuras decisões. Se o BC adotar uma comunicação mais direta, isso pode reduzir a volatilidade gerada por interpretações de comunicados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782412719.4258604,
+    "titulo": "Galípolo diz que problema de comunicação do Copom foi 'excesso de explicação '",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/06 13:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Galípolo reforça a ideia de que a comunicação do Banco Central sobre a política monetária pode ter sido confusa, gerando reações inesperadas no mercado. Se o BC ajustar sua forma de comunicar suas decisões, isso pode trazer mais previsibilidade para as expectativas de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782412722.3377979,
+    "titulo": "Sabíamos que comunicado do Copom geraria bastante reação por ser muito diferente do usual, diz Picchetti",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/06 12:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Picchetti sugere que a mudança na comunicação do Copom foi deliberada, buscando talvez sinalizar uma nova abordagem ou testar a reação do mercado. Se essa nova forma de comunicação se mantiver, o mercado precisará se adaptar para interpretar as futuras decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782412725.2766356,
+    "titulo": "Agência da ONU suspende retirada de navios de Ormuz após ataque",
+    "fonte": "Valor Economico",
+    "publicado": "25/06 15:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A suspensão da evacuação pode aumentar a incerteza na região, potencialmente impactando o fluxo de petróleo. Se as garantias de segurança não forem rapidamente restabelecidas, o risco para o transporte marítimo pode persistir, elevando os custos de seguro e frete.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782412749.3616374,
+    "titulo": "Ações da Americanas (AMER3) tombam na B3 com operação da PF sobre fraude bilionária",
+    "fonte": "Google News Acoes",
+    "publicado": "25/06 14:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A operação da PF sobre a Americanas representa um risco significativo para a empresa e pode gerar desconfiança em outros casos de fraudes corporativas. Se a investigação avançar e comprovar a fraude, isso pode ter repercussões mais amplas no mercado de crédito e na percepção de risco de empresas com governança questionável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782412749.3632174,
+    "titulo": "PIB dos EUA no 1º trimestre é revisado para cima",
+    "fonte": "Folha Mercado",
+    "publicado": "25/06 15:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A revisão para cima do PIB dos EUA no primeiro trimestre sugere uma economia mais resiliente do que se pensava inicialmente, embora a estagnação dos gastos do consumidor seja um ponto de atenção. Se essa tendência de crescimento se mantiver, pode influenciar as decisões futuras do Fed sobre a taxa de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782412749.3647583,
+    "titulo": "Petróleo perde força; o que esperar de Petrobras, Prio e Brava agora?",
+    "fonte": "Google News Commodities",
+    "publicado": "25/06 11:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A perda de força do petróleo pode impactar os resultados das empresas do setor de energia, como Petrobras e Prio. Se a tendência de queda se mantiver, isso pode pressionar as cotações dessas ações e influenciar decisões de investimento no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782412749.3663058,
+    "titulo": "Petrobras importará diesel em julho, após 3 meses sem compras externas, diz CEO",
+    "fonte": "Folha Mercado",
+    "publicado": "25/06 15:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Petrobras de importar diesel pode indicar uma antecipação de demanda ou uma estratégia para garantir o abastecimento. Se essa importação for significativa, pode influenciar os preços do diesel no mercado interno e as margens de refino da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782412749.367829,
+    "titulo": "Ibama pede esclarecimentos à Petrobras antes de decidir sobre ajuste de licença para poço na Foz do Amazonas",
+    "fonte": "Google News Acoes",
+    "publicado": "25/06 12:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A necessidade de esclarecimentos adicionais pelo Ibama pode atrasar a decisão sobre a licença do poço na Foz do Amazonas, impactando os planos de exploração da Petrobras. Se a licença for negada ou adiada significativamente, isso pode afetar a produção futura e os investimentos da empresa na região.",
+    "is_stocks": true
   }
 ]
