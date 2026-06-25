@@ -664,5 +664,106 @@
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa e a alta do dólar comercial indicam um cenário de aversão ao risco no mercado brasileiro. Se a pressão sobre o câmbio persistir, isso pode alimentar preocupações inflacionárias e pressionar o Banco Central a manter uma postura mais restritiva em relação à política monetária.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782403713.0223498,
+    "titulo": "Eco Invest inicia rodada na Ásia para atrair capital estrangeiro, diz Fazenda",
+    "fonte": "Valor Economico",
+    "publicado": "25/06 12:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa de buscar capital estrangeiro na Ásia visa impulsionar investimentos em áreas estratégicas para o Brasil. Se a rodada for bem-sucedida, poderá haver um aumento no fluxo de capital para o país, com potencial impacto positivo em setores específicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782403715.9987848,
+    "titulo": "Picchetti rejeita leitura de “leniência” do BC com meta de inflação: ‘Não estamos alongando o horizonte relevante’",
+    "fonte": "Money Times",
+    "publicado": "25/06 13:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Picchetti busca reforçar o compromisso do Banco Central com a meta de inflação, apesar de uma possível mudança na comunicação. Se o mercado interpretar essa fala como um sinal de que o BC manterá o foco no controle inflacionário, isso pode sustentar a expectativa de juros mais altos por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782403718.973327,
+    "titulo": "Galípolo diz que BC pode ter errado ao tentar 'explicar demais' último corte na Selic",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/06 12:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Galípolo abre espaço para interpretações sobre a comunicação do Banco Central e sua eficácia em transmitir suas decisões. Se o mercado interpretar essa fala como uma admissão de falha na comunicação, isso pode gerar volatilidade nas expectativas de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782403721.9106827,
+    "titulo": "Galípolo diz que BC teve ‘excesso de explicação’, e não falta, após ruído em comunicado",
+    "fonte": "Money Times",
+    "publicado": "25/06 12:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A fala de Galípolo tenta justificar o ruído na comunicação do BC, atribuindo-o a um excesso de detalhes. Se o mercado não aceitar essa justificativa, a credibilidade da comunicação do BC pode ser questionada, gerando incertezas sobre futuras decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782403745.2893639,
+    "titulo": "Dólar sobe e Wall Street bate recordes, mas gestores alertam: ‘Risco maior é ficar 100% Brasil’",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/06 12:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar e os recordes em Wall Street, combinados com o alerta de gestores sobre a concentração no Brasil, indicam um cenário de busca por segurança e diversificação. Se o cenário externo se mantiver favorável a ativos de maior risco, o fluxo de capital para mercados emergentes pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782403745.29059,
+    "titulo": "Ibovespa Futuro avança em meio a dados domésticos e nos EUA",
+    "fonte": "Google News Acoes",
+    "publicado": "25/06 09:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O avanço do Ibovespa Futuro sugere um otimismo pontual no mercado acionário brasileiro, influenciado por indicadores positivos tanto no Brasil quanto nos EUA. Se os dados econômicos dos EUA continuarem fortes, isso pode sustentar o apetite por risco em mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782403745.2919137,
+    "titulo": "Vamos precisar importar diesel em julho, afirma presidente da Petrobras",
+    "fonte": "Valor Economico",
+    "publicado": "25/06 12:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A necessidade de importar diesel em julho pode indicar uma pressão sobre a oferta interna ou um aumento da demanda, impactando os custos de energia. Se a importação se tornar recorrente, isso pode pressionar a inflação de custos e afetar o balanço comercial do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782403745.2932754,
+    "titulo": "Micron impulsiona forte abertura para ações dos EUA",
+    "fonte": "ForexLive",
+    "publicado": "25/06 10:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O forte desempenho da Micron e da Qualcomm sugere um otimismo renovado no setor de tecnologia e semicondutores, impulsionado pela demanda relacionada à inteligência artificial. Se essa tendência se mantiver, pode haver um impacto positivo em outros setores cíclicos e em empresas ligadas à cadeia de suprimentos de tecnologia.",
+    "is_stocks": true
   }
 ]
