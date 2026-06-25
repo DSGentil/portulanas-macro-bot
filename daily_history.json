@@ -765,5 +765,121 @@
     "origem": "externa",
     "leitura_critica": "O forte desempenho da Micron e da Qualcomm sugere um otimismo renovado no setor de tecnologia e semicondutores, impulsionado pela demanda relacionada à inteligência artificial. Se essa tendência se mantiver, pode haver um impacto positivo em outros setores cíclicos e em empresas ligadas à cadeia de suprimentos de tecnologia.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782408207.777548,
+    "titulo": "Selic: “O Banco Central está disposto a cortar, quer cortar e vai cortar”, avalia analista da Empiricus",
+    "fonte": "Money Times",
+    "publicado": "25/06 14:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação de que o Banco Central está disposto a cortar a Selic, aliada a um IPCA-15 abaixo do esperado, sugere um cenário de flexibilização monetária. Se o Banco Central confirmar essa postura nas próximas reuniões, isso pode impulsionar o mercado de renda variável e reduzir o custo do crédito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782408210.1362596,
+    "titulo": "Com alta do petróleo, arrecadação federal soma R$ 266,8 bilhões em maio e bate recorde para o mês - G1",
+    "fonte": "Google News Commodities",
+    "publicado": "25/06 11:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria",
+      "commodities"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recorde na arrecadação federal em maio, impulsionado pela alta do petróleo, sugere um cenário fiscal mais favorável para o governo no curto prazo. Se os preços do petróleo se mantiverem elevados, isso pode aliviar a pressão sobre as contas públicas e permitir maior flexibilidade fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782408212.3679657,
+    "titulo": "Dólar abre perto da estabilidade com economistas avaliando dados do IPCA-15 e projeções novas do BC - Folha de S.Paulo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/06 09:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar, em meio à avaliação de dados de inflação e projeções do BC, indica que o mercado aguarda mais clareza sobre os próximos passos da política monetária. Se as projeções do BC indicarem um cenário de inflação mais controlado, isso pode favorecer a valorização do real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782408214.5418394,
+    "titulo": "José Paulo Kupfer | Pé atrás com o Copom - Poder360",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/06 11:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A cautela expressa em relação ao Copom sugere que o analista pode estar antecipando decisões de política monetária que não sejam totalmente alinhadas com as expectativas do mercado. Se o Copom surpreender com uma decisão mais conservadora, isso pode gerar volatilidade no mercado de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782408242.1857195,
+    "titulo": "Cade recomenda condenação da B3 sobre supostas práticas anticoncorrenciais e pede multa de R$ 100 mi - Folha de S.Paulo",
+    "fonte": "Google News Acoes",
+    "publicado": "25/06 13:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de condenação da B3 pelo Cade por práticas anticoncorrenciais e a solicitação de multa de R$ 100 milhões indicam um escrutínio regulatório sobre o funcionamento do mercado de capitais. Se a condenação for confirmada, isso pode levar a mudanças nas práticas da bolsa e impactar a concorrência no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782408242.1871517,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com otimismo do exterior e volta aos 173 mil - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "25/06 11:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do Ibovespa, influenciada pelo otimismo externo, sugere um cenário favorável para ativos de risco no Brasil. Se o otimismo internacional persistir, isso pode sustentar a valorização da bolsa brasileira no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782408242.1885107,
+    "titulo": "Petrobras importará diesel em julho, após 3 meses sem compras externas, diz CEO",
+    "fonte": "Money Times",
+    "publicado": "25/06 13:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Petrobras de importar diesel em julho, após um hiato de três meses, pode indicar uma mudança na estratégia de suprimento da empresa ou uma resposta a uma demanda crescente. Se a importação for confirmada, isso pode impactar a oferta interna e os preços do combustível.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782408242.1898708,
+    "titulo": "Estrangeiros retiram R$ 1 bilhão em ações na B3 em 23 de junho - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "25/06 11:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de R$ 1 bilhão em ações por investidores estrangeiros na B3 em 23 de junho indica uma diminuição do fluxo de capital para a bolsa brasileira. Se essa tendência de saída se mantiver, isso pode pressionar o mercado de ações e afetar a liquidez.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782408242.191239,
+    "titulo": "Bolsas da Europa fecham em alta com impulso tech após resultados da Micron",
+    "fonte": "Money Times",
+    "publicado": "25/06 13:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O desempenho positivo das bolsas europeias, influenciado pelo setor de tecnologia e declarações do BCE, indica um ambiente de maior confiança no mercado. Se as declarações do BCE sinalizarem uma política monetária acomodatícia, isso pode sustentar a alta das bolsas no curto prazo.",
+    "is_stocks": true
   }
 ]
