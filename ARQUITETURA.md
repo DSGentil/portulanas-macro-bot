@@ -314,6 +314,40 @@ Observado em produção: duas execuções consecutivas (horas separadas) falhara
 
 **Resiliência interna também ampliada**: o retry dentro de uma única chamada de IA passou de 4 tentativas (15s/30s/45s/60s, total 150s) para 6 tentativas (20s/40s/60s/80s/100s/120s, total ~7 minutos), dando mais chance de recuperação automática sem precisar do retry de janela.
 
+### 10.8 Bug encontrado: retry generoso piorava esgotamento de cota (429)
+
+**Efeito colateral não previsto da correção da Seção 10.7**: ao tornar o retry mais generoso (6 tentativas) para lidar bem com outages 503, o mesmo código passou a fazer até 6 tentativas reais contra a API também quando o erro era **429 (cota excedida)** — e cada tentativa, mesmo falhando, consome 1 requisição da cota diária. Como a cota desta conta é de apenas 20/dia, uma única execução com erro 429 podia consumir até 6 dessas 20 só insistindo num erro que não tem chance de se resolver por retry (429 de cota diária só se resolve no reset, à meia-noite Pacific Time).
+
+Isso foi observado em produção: uma execução de retry de janela (que já era, ela mesma, uma segunda tentativa depois de uma falha anterior) bateu a sequência `429, 429, 429, 429, 503, 429` — 6 tentativas, a maioria 429, todas consumindo cota real sem chance de sucesso.
+
+**Correção**: `call_gemini_with_retry` agora trata 429 separadamente dos erros de servidor (500/502/503/504). Para 429, o limite de retry é bem mais curto (`max_quota_retries=2`, não 6) — porque insistir em erro de cota não tem teoria de recuperação dentro da mesma execução. Para 503 e similares, o retry generoso de 6 tentativas continua, porque esses erros genuinamente se resolvem em minutos.
+
+### 10.9 Bloco de Ações caindo em fallback ruim, e retry econômico na chamada secundária
+
+Observado em produção: o resumo consolidado do Bloco 2 (Ações/RV) caía com frequência no fallback (concatenação crua de títulos, incluindo lixo de formatação do RSS original como `| ` e ` - NomeDoSite`), porque `summarize_stocks_block` chamava `call_gemini_with_retry` sem nenhum ajuste de parâmetros — herdando os mesmos 6 retries generosos da chamada principal, que sozinha já podia esgotar a cota disponível antes mesmo dessa segunda chamada (do resumo de RV) ser tentada.
+
+**Correções**: (1) a chamada do resumo de RV agora usa retry bem mais econômico (`max_retries=2, max_quota_retries=1`) — se a cota já estiver pressionada pelo Bloco 1, não vale insistir numa chamada secundária; (2) o fallback foi reescrito para limpar o título (removendo tudo depois de `" | "` ou `" - "`) e truncar respeitando limite de palavra, nunca mais concatenando tudo cru numa única frase.
+
+### 10.10 Piso de qualidade no modo Janela Fixa, e novos termos ambíguos (metais)
+
+Observado em produção: a notícia "Palmas recebe Copa Brasil Ouro de Tênis de Mesa" foi enviada como alerta real, apesar de a própria IA ter classificado como BAIXA relevância e explicitamente declarado, na leitura crítica, que não tinha relação com macroeconomia. Duas causas, ambas corrigidas:
+
+**Causa 1 — colisão de keyword**: "ouro" (de `BLOCO_COMMODITIES`) bate em "Copa Brasil **Ouro**" (categoria/divisão esportiva, não o metal). Auditoria revelou o mesmo problema em "prata", "bronze", "cobre" (também verbo comum "ele cobre a vaga"), "gold" e "copper" (colidem com "gold medal"). Todos os 6 termos foram movidos de listas diretas para `RISKY_TERMS_CONTEXT`, exigindo contexto de commodity/mercado/valor monetário (`abaixo de`, `acima de`, `cotação`, `onça`, `LME`, etc.) para contar como sinal financeiro.
+
+**Causa 2 — falta de piso de qualidade no modo Janela Fixa**: a regra de "sempre mostrar Top N, mesmo que nada seja ALTA/MEDIA" (decidida para nunca deixar a janela em silêncio total) não tinha nenhum piso mínimo de qualidade — um item BAIXA relevância podia ser usado para "completar" o Top N mesmo sem nenhuma relação real com o propósito do bot. Corrigido: itens com `relevancia == "BAIXA"` **e** sem nenhum `canais_afetados` preenchido são descartados do pool de seleção, mesmo que isso resulte em menos de 5-6 itens enviados naquela janela. Importante: a regra exige **canal**, não origem - porque `origem` pode vir preenchida mesmo em notícia irrelevante (ex: "Palmas" é cidade brasileira, então `origem="domestica"` não é sinal confiável de relevância macroeconômica).
+
+### 10.11 Fallback de emergência via Groq para outages prolongados do Gemini
+
+Observado em produção (25/06/2026): um outage do Gemini durou mais de 1h20 contínuas, derrubando tanto a execução principal de uma janela quanto o retry de janela (`retry_garimpo.yml`) que rodou ~1h depois - ambos bateram 6/6 tentativas de erro 503. Isso expôs o limite real da arquitetura de defesa em camadas construída nas Seções 10.7-10.9: ela cobre bem outages de minutos, mas não outages de horas, porque tanto o retry interno (~7 min) quanto o retry de janela (1 tentativa extra) se esgotam antes do outage passar.
+
+**Solução implementada**: `analyze_batch_with_gemini` agora aciona automaticamente um fallback via Groq (`analyze_batch_with_groq_fallback`, usando `llama-3.1-8b-instant`) sempre que a chamada ao Gemini falha totalmente (após todos os retries esgotados, ou exceção de parsing). O Groq foi escolhido para esse papel porque: (1) já foi usado como motor principal antes e tem cota gratuita generosa (14.400 req/dia, bem acima da necessidade); (2) embora tenha qualidade de seguimento de prompt inferior ao Gemini (motivo pelo qual foi revertido como motor principal - ver topo desta seção de configuração no código), para uma situação de emergência "melhor isso do que silêncio total por horas" é um trade-off aceitável.
+
+**Transparência**: toda análise gerada pelo fallback é marcada internamente (`_from_fallback: True`) e a mensagem final no Telegram recebe um aviso visual (`FALLBACK_FOOTER`): *"⚠️ Gerado pelo motor de fallback (Groq) devido a instabilidade prolongada do Gemini."* — o operador sempre sabe quando está lendo uma análise do plano B, e pode julgar a qualidade com esse contexto em mente.
+
+A lógica de parsing de resposta (`parse_analysis_response`) foi extraída para uma função compartilhada entre Gemini e Groq, já que ambos devem responder no mesmo formato JSON (`{"analises": [...]}`) - evita duplicação e garante que correções de parsing feitas para um se aplicam automaticamente ao outro.
+
+**Limitação conhecida**: se o Groq também estiver indisponível no momento do outage do Gemini (cenário raro, mas possível), a notícia ainda fica sem análise - não há um terceiro provedor de fallback. O resumo do Bloco 2 (Ações/RV) não tem fallback Groq dedicado ainda - usa só o fallback de formatação (lista limpa de títulos) já existente.
+
 ### 10.2 Resumo do Dia Anterior — implementado mas não homologado em produção
 
 `portulanas_resumo_diario.py` foi escrito e lê `daily_history.json`, mas **não tem workflow associado ainda** (pendente de criação do `.yml` com cron às 08:00 BRT) e não foi testado com dados reais de um dia inteiro de operação. Decisão operacional: aguardar acumular 2-3 dias de histórico real antes de homologar.
