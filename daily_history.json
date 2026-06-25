@@ -607,5 +607,62 @@
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa e a alta do dólar são reflexos de fatores como o desempenho das ações de commodities e a política monetária americana. Se as ações da Petrobras tivessem apresentado valorização e o dólar se mantivesse estável, o cenário para a bolsa seria mais positivo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782351111.1405241,
+    "titulo": "STF endurece previsão sobre perda de cargo por ato de improbidade administrativa",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 21:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF sobre a lei de improbidade administrativa pode ter implicações na carreira de agentes públicos, endurecendo as consequências de atos ilícitos. Se a interpretação do STF for mantida, a retroatividade na contagem de prazos de suspensão de direitos políticos deixará de ser um fator de mitigação de sanções, impactando a responsabilização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782351113.3692408,
+    "titulo": "Itamaraty atribui tarifaço a ‘traidores da pátria’",
+    "fonte": "Valor Economico",
+    "publicado": "24/06 19:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do Itamaraty sobre o tarifaço americano sugere uma forte reação diplomática e política a ações percebidas como interferência externa. Se a retórica se mantiver e as negociações comerciais não avançarem, o cenário de tensões entre Brasil e EUA pode se intensificar, afetando relações bilaterais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782351115.586493,
+    "titulo": "Terremoto de magnitude 7,1 derruba prédios em Caracas, e USGS alerta para altas vítimas na Venezuela",
+    "fonte": "ForexLive",
+    "publicado": "24/06 20:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O terremoto de magnitude 7,1 na Venezuela representa um desastre humanitário e econômico com potencial de impacto significativo. Se as perdas econômicas se confirmarem na faixa de 1-4% do PIB, isso agravará a já delicada situação econômica do país, exigindo esforços de reconstrução e ajuda internacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782351117.7819452,
+    "titulo": "Governo Trump pede quase US$ 90 bilhões ao Congresso para repor munições em meio a guerra do Irã",
+    "fonte": "Google News Geopolitica",
+    "publicado": "24/06 20:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O pedido de quase US$ 90 bilhões do governo Trump ao Congresso para reposição de munições sinaliza um comprometimento financeiro substancial com o conflito no Irã e um aumento nos gastos de defesa. Se essa solicitação for aprovada, isso pode ter implicações fiscais nos EUA e aumentar a percepção de risco geopolítico global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782351140.2579575,
+    "titulo": "Ibovespa fecha em queda de 0,44% e dólar comercial sobe a R$ 5,2020",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/06 19:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa e a alta do dólar comercial indicam um cenário de aversão ao risco no mercado brasileiro. Se a pressão sobre o câmbio persistir, isso pode alimentar preocupações inflacionárias e pressionar o Banco Central a manter uma postura mais restritiva em relação à política monetária.",
+    "is_stocks": true
   }
 ]
