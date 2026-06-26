@@ -1,671 +1,5 @@
 [
   {
-    "_timestamp": 1782313690.923737,
-    "titulo": "Tesouro Direto hoje: Após recordes, taxas recuam e acompanham bom humor externo",
-    "fonte": "Money Times",
-    "publicado": "24/06 10:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas do Tesouro Direto sugere um alívio nas preocupações com a inflação e juros no Brasil, refletindo o otimismo externo. Se o bom humor externo persistir, as taxas podem continuar a recuar. A correlação com os rendimentos dos títulos americanos indica a influência do cenário internacional nas taxas domésticas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782313691.9977918,
-    "titulo": "Dólar volta a ficar acima de R$ 5,20 e Bolsa recua com pressão do petróleo",
-    "fonte": "Folha Mercado",
-    "publicado": "24/06 09:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A volta do dólar acima de R$ 5,20 indica uma busca por segurança em meio a incertezas globais. A queda da Bolsa, associada à pressão do petróleo, sugere um sentimento de aversão ao risco no mercado. Se a procura por ativos de menor risco continuar, o dólar pode se manter forte.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782313693.07203,
-    "titulo": "Análise: Mercado pede ao Copom a certeza que não consegue formar",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 11:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A incerteza sobre o fim do ciclo de baixa de juros em agosto é um ponto crucial para o mercado. Se o Copom não oferecer clareza, isso pode aumentar a volatilidade nas taxas de juros futuras. A divisão entre os analistas reflete a dificuldade em prever o cenário econômico e as decisões do BC.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782313694.146139,
-    "titulo": "BC lançará ecossistema de duplicatas escriturais no dia 30 de junho",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 11:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O lançamento do ecossistema de duplicatas escriturais pelo Banco Central representa uma iniciativa regulatória com potencial para melhorar o mercado de crédito. Se a redução de custos e a maior segurança jurídica se concretizarem, isso pode ter efeitos positivos na economia real. A participação de autoridades do Ministério da Fazenda e do sistema financeiro reforça a importância do evento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782314116.6852214,
-    "titulo": "Governadora do DF sanciona lei que autoriza contratação de empréstimo de até R$ 6,6 bilhões para capitalizar BRB",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 11:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A sanção da lei para capitalização do BRB representa uma decisão fiscal concreta para o Distrito Federal. A remoção de artigos que exigiam ressarcimento e transparência prévia pode indicar uma flexibilização nas condições de empréstimo. A operação de R$ 6,6 bilhões tem potencial impacto nas finanças locais e na saúde do BRB.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782314116.6854577,
-    "titulo": "Dólar supera R$ 5,20 com apostas de alta dos juros americanos; Ibovespa, petróleo e taxas futuras caem",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 11:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar acima de R$ 5,20 reflete a força da moeda americana em meio a expectativas de juros mais altos nos EUA. A queda do Ibovespa e do petróleo sugere um cenário de aversão ao risco, apesar do alívio nas tensões com o Irã. A correlação entre juros americanos e o dólar é um fator chave a ser monitorado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782314116.6858132,
-    "titulo": "Estrangeiros retiram R$ 2 bi em ações na B3 em 22 de junho",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 11:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A retirada de R$ 2 bilhões por investidores estrangeiros em um único dia sinaliza uma cautela no mercado brasileiro de ações. Se essa tendência de saída se mantiver, pode pressionar o Ibovespa. Apesar do saldo negativo mensal, o saldo anual positivo sugere que a saída pode ser pontual.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782314116.6860764,
-    "titulo": "Trump exige queda no preço da gasolina nos EUA e ordena investigação",
-    "fonte": "Folha Mercado",
-    "publicado": "24/06 11:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A ação de Trump visa pressionar a queda dos preços da gasolina, o que pode ter um efeito direto na inflação ao consumidor. Se a investigação levar a medidas concretas, isso pode impactar o setor de energia. A ligação explícita com a inflação e a guerra no Oriente Médio reforça a relevância do tema para a economia americana.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782314116.6863213,
-    "titulo": "O balanço desta empresa será o termômetro do mercado de inteligência artificial; saiba o que esperar",
-    "fonte": "Money Times",
-    "publicado": "24/06 11:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O resultado da Micron Technology pode fornecer insights importantes sobre a saúde do setor de IA e semicondutores. Se o balanço for positivo, isso pode impulsionar o setor; se for negativo, pode confirmar as preocupações atuais. A volatilidade recente das ações sugere que o mercado está atento a qualquer sinal de mudança.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782327673.6912985,
-    "titulo": "Fluxo cambial registra entrada de US$ 4,066 bilhões na semana de 15 a 19 de junho",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 15:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada líquida de US$ 4,066 bilhões no fluxo cambial é um dado concreto que indica um aumento na disponibilidade de moeda estrangeira no Brasil. Se essa tendência de entrada se mantiver, pode haver pressão de valorização sobre o real. A distinção entre fluxo comercial e financeiro permite entender as origens dessa entrada, sendo o fluxo financeiro mais sensível a mudanças nas taxas de juros e no apetite por risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782327675.893798,
-    "titulo": "Em 2024, óleos brutos de petróleo foram o principal produto industrial pelo terceiro ano seguido - Agência de Notícias - IBGE",
-    "fonte": "Google News Commodities",
-    "publicado": "24/06 10:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O fato de óleos brutos de petróleo serem o principal produto industrial pelo terceiro ano consecutivo indica uma concentração na pauta de exportações e produção industrial brasileira. Se essa concentração se mantiver, pode haver vulnerabilidade a choques nos preços do petróleo. A notícia, por si só, não detalha se houve variação em relação ao ano anterior ou se essa liderança é um fator novo de atenção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782327678.1309507,
-    "titulo": "Vazio sanitário da soja está em vigor em Mato Grosso do Sul e segue até 15 de setembro",
-    "fonte": "Google News Commodities",
-    "publicado": "24/06 11:05",
-    "relevancia": "BAIXA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O vazio sanitário da soja é uma prática agrícola importante para a saúde das lavouras e a produtividade futura. A notícia em si não apresenta um impacto direto nos canais macroeconômicos de juros, inflação ou fluxo de capital. Sua relevância se restringe ao setor do agronegócio e à gestão de riscos fitossanitários.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782327680.3623457,
-    "titulo": "Quanto o dólar precisa subir para as Treasuries vencerem a Selic? - InvestNews",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/06 12:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A comparação entre a rentabilidade das Treasuries e a Selic, influenciada pela cotação do dólar, é um fator relevante para o fluxo de capital entre Brasil e EUA. Se o dólar se valorizar significativamente, as Treasuries podem se tornar mais atraentes para investidores internacionais, potencialmente impactando o fluxo de capital para o Brasil. A análise do ponto em que as Treasuries superam a Selic pode indicar um gatilho para movimentações de capital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782327805.9947872,
-    "titulo": "Sanepar (SAPR11): Dividendos extraordinários vão para o ‘ralo’ como decisão de agência e ação cai; entenda",
-    "fonte": "Money Times",
-    "publicado": "24/06 15:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Agepar sobre a destinação dos dividendos da Sanepar representa uma intervenção regulatória com impacto direto nos acionistas da empresa. Se decisões semelhantes se tornarem mais frequentes em outras agências reguladoras, isso pode gerar um receio generalizado sobre a previsibilidade de retornos de investimentos em empresas reguladas. A forma como essa decisão afeta o caixa da empresa e sua capacidade de investimento futuro é um ponto a ser observado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782327805.9952476,
-    "titulo": "Mercado agora | Pressionado por blue chips, Ibovespa opera em baixa; dólar avança",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/06 12:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A baixa do Ibovespa, combinada com a alta do dólar, pode indicar um cenário de aversão ao risco no mercado brasileiro. Se essa tendência se mantiver, pode haver pressão sobre ativos de renda variável e uma busca por ativos mais seguros, como o dólar. A influência das blue chips na queda do índice sugere que os grandes players estão reduzindo suas posições em ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782327805.9958282,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com petroleiras e VALE3",
-    "fonte": "Google News Acoes",
-    "publicado": "24/06 13:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, influenciada por petroleiras e VALE3, sugere que fatores específicos desses setores estão impactando o mercado acionário brasileiro. Se os preços do petróleo continuarem em baixa, isso pode afetar negativamente as petroleiras. A performance da VALE3, por sua vez, pode estar ligada a commodities metálicas. A notícia não especifica se há um fator macroeconômico externo ou interno que esteja guiando essa performance.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782327805.9964228,
-    "titulo": "Ouro fica abaixo de US$ 4.000 pela primeira vez desde novembro",
-    "fonte": "Folha Mercado",
-    "publicado": "24/06 14:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda do ouro abaixo de US$ 4.000, ligada à expectativa de alta de juros nos EUA, reforça a tese de um aperto monetário que torna ativos sem rendimento, como o ouro, menos atrativos. Se a expectativa de alta de juros se concretizar, o dólar tende a se fortalecer, pressionando ainda mais o preço do ouro. A persistência dessa tendência pode indicar um fluxo de capital saindo de ativos de refúgio para ativos de maior rentabilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782327805.996949,
-    "titulo": "Brasil preenche 65,4% da cota de exportação de carne à China no ano",
-    "fonte": "Money Times",
-    "publicado": "24/06 15:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "O alto percentual da cota de exportação de carne bovina para a China já preenchido demonstra a força da demanda chinesa pelo produto brasileiro. Se essa demanda se mantiver forte, pode haver pressão sobre os preços internos da carne e um impacto positivo na balança comercial brasileira. A notícia, contudo, não detalha se há riscos de saturação da cota ou mudanças na política de importação chinesa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782332238.997222,
-    "titulo": "O custo da desinflação no Brasil",
-    "fonte": "Folha Mercado",
-    "publicado": "24/06 17:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento das expectativas de inflação no Brasil, refletido tanto no Boletim Focus quanto na inflação implícita dos títulos públicos, sugere que o Banco Central pode ter que manter uma postura mais restritiva em sua política monetária. Se essas expectativas se consolidarem, o Copom pode adiar ou reduzir o ritmo de cortes na taxa Selic. Por outro lado, se os dados de inflação futuros vierem abaixo do esperado, isso poderia abrir espaço para uma flexibilização mais rápida da política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782332241.777278,
-    "titulo": "Seth Klarman e maior hedge fund listado em bolsa do mundo veem barganhas no Brasil",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 16:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A percepção de barganhas no crédito corporativo brasileiro por um investidor de renome como Seth Klarman pode indicar um ponto de inflexão para certos ativos. Se mais investidores internacionais seguirem essa linha, poderíamos observar um aumento no fluxo de capital para a renda fixa corporativa brasileira. No entanto, a notícia não detalha quais setores ou empresas específicas estão sob escrutínio, o que limita a precisão dessa leitura.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782332244.6285937,
-    "titulo": "Rabobank cita inadimplência no agro e reduz mais previsão de vendas de fertilizantes no Brasil",
-    "fonte": "Money Times",
-    "publicado": "24/06 17:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A redução na previsão de vendas de fertilizantes no Brasil, citando a inadimplência no agronegócio e a guerra no Irã, indica um cenário desafiador para o setor. Uma menor demanda por fertilizantes pode impactar a produção agrícola e, consequentemente, as exportações brasileiras. Se essa tendência se agravar, pode haver repercussões na balança comercial e na atividade econômica geral. O impacto no mercado de WDO seria indireto, dependendo da magnitude dessas consequências.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782332247.4395504,
-    "titulo": "Governo tem reuniões semanais com autoridades dos EUA sobre tarifaço, diz ministro",
-    "fonte": "Folha Mercado",
-    "publicado": "24/06 13:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "As reuniões semanais entre Brasil e EUA sobre a imposição de tarifas comerciais adicionais de 25% sobre produtos brasileiros indicam uma tensão nas relações comerciais entre os dois países. Se essas tarifas forem efetivadas, isso poderá impactar negativamente as exportações brasileiras e a balança comercial, gerando incerteza para o setor produtivo. A resolução desse impasse pode influenciar o humor do mercado e o fluxo de capital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782332312.8790748,
-    "titulo": "Dólar fecha acima de R$ 5,20, no maior patamar em quase três meses, com apostas de alta dos juros nos EUA; Ibovespa cai",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 17:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar acima de R$ 5,20, associada às expectativas de juros nos EUA, sugere um cenário de pressão contínua sobre a moeda brasileira. Se o Federal Reserve sinalizar uma postura mais agressiva em relação aos juros, o dólar pode testar patamares ainda mais elevados. Por outro lado, se as negociações entre EUA e Irã avançarem significativamente e levarem a uma queda mais acentuada nos preços do petróleo, isso poderia aliviar parte da pressão sobre o real e, consequentemente, sobre o dólar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782332312.87955,
-    "titulo": "investingLive Americas FX news wrap 24 Jun: Dollar rally extends as risk-off mood deepens",
-    "fonte": "ForexLive",
-    "publicado": "24/06 17:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aprofundamento do sentimento de aversão ao risco global, evidenciado pela alta do dólar e pela queda do Bitcoin, sugere um cenário de maior cautela nos mercados. A fraqueza econômica indicada pela ata do BOC e o rendimento dos títulos do Tesouro americano podem influenciar as expectativas sobre a política monetária do Federal Reserve. Se o Fed adotar uma postura mais dovish devido a esses sinais, isso poderia gerar volatilidade no mercado de câmbio e impactar o fluxo de capitais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782332312.8825872,
-    "titulo": "Wall Street fecha sem direção única com nova queda do setor de tecnologia",
-    "fonte": "Money Times",
-    "publicado": "24/06 17:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O fechamento misto de Wall Street, com destaque para a queda do setor de tecnologia, reflete um sentimento de cautela nos mercados globais. Essa dinâmica pode influenciar o apetite por risco dos investidores e, consequentemente, o fluxo de capital para mercados emergentes como o Brasil. Se a aversão ao risco se intensificar, isso pode pressionar o dólar e impactar o mercado de WDO.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782332312.8830197,
-    "titulo": "Petrobras (PETR4), Prio (PRIO3) e outras petroleiras recuam nesta quarta (24) com Brent a US$ 73",
-    "fonte": "Money Times",
-    "publicado": "24/06 16:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda das petroleiras brasileiras, como Petrobras e Prio, em linha com a desvalorização do petróleo Brent para US$ 73 o barril, demonstra a forte correlação entre os preços das commodities e o desempenho dessas empresas. Se o preço do petróleo continuar em trajetória de queda, isso pode impactar negativamente os resultados da Petrobras e, consequentemente, o Ibovespa. A volatilidade nos preços do petróleo é um fator a ser monitorado de perto para quem opera WDO, dada sua influência na economia brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782332312.8834162,
-    "titulo": "Petrobras planeja duplicar capacidade das fábricas de fertilizantes no país, diz presidente",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 16:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A retomada da UFN-III pela Petrobras é um movimento estratégico que pode impactar o setor de fertilizantes e a balança comercial brasileira, reduzindo a dependência de importações. Se essa expansão de capacidade se concretizar e for bem-sucedida, pode ter um efeito positivo na produção agrícola e em setores relacionados. No entanto, o impacto direto e imediato no mercado de WDO é limitado, a menos que haja uma correlação explícita com a política fiscal ou com o setor de commodities de forma mais ampla.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782336242.6818419,
-    "titulo": "Ata do Copom não dissipa dúvidas sobre futuro da Selic",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/06 18:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A falta de clareza na ata do Copom pode gerar volatilidade no mercado de juros, pois os agentes econômicos terão dificuldade em precificar os próximos movimentos da Selic. Se a próxima ata apresentar sinais mais claros, isso pode direcionar as expectativas de forma mais consistente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782336245.0474327,
-    "titulo": "Mercado Esperava Selic em 14% no Fim de 2026 em Questionário Usado Como Referência Pelo Copom",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/06 16:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa do mercado para a Selic em 14% no final de 2026, conforme questionário usado pelo Copom, indica uma projeção de juros ainda elevados por um período considerável. Se as decisões futuras do Copom divergirem significativamente dessa expectativa, isso pode gerar volatilidade no mercado de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782336247.407804,
-    "titulo": "Petróleo lidera indústria e receita do setor soma R$ 5,3 trilhões em 2024",
-    "fonte": "Google News Commodities",
-    "publicado": "24/06 18:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta receita do setor de petróleo, impulsionada por seu desempenho na indústria, indica um forte impacto na economia brasileira. Se os preços do petróleo se mantiverem em patamares elevados, isso pode sustentar o crescimento da receita e a contribuição do setor para o PIB.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782336249.7518125,
-    "titulo": "Palmas recebe Copa Brasil Ouro de Tênis de Mesa",
-    "fonte": "Google News Commodities",
-    "publicado": "24/06 16:18",
-    "relevancia": "BAIXA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Esta notícia se refere a um evento esportivo local e não possui relação direta com os canais de análise macroeconômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782336253.4789505,
-    "titulo": "Petrobras estuda duplicar fábricas de fertilizantes para reduzir importações",
-    "fonte": "Google News Acoes",
-    "publicado": "24/06 16:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expansão da produção de fertilizantes pela Petrobras pode ter um impacto positivo na balança comercial brasileira e na atividade industrial do setor. Se a decisão for concretizada, isso pode sinalizar uma estratégia de longo prazo para aumentar a autossuficiência em insumos agrícolas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782336253.4798453,
-    "titulo": "Área técnica do Cade recomenda condenação da B3 por práticas anticoncorrenciais",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 17:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de condenação da B3 pelo Cade por práticas anticoncorrenciais pode levar a mudanças regulatórias no mercado financeiro. Se o Tribunal do Cade confirmar a decisão, isso pode impactar a concorrência e as operações da B3, abrindo espaço para novos entrantes no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782336253.4809306,
-    "titulo": "Ibovespa B3 fecha em queda de 0,44%, mas se mantém acima de 170 mil pontos; dólar sobe a R$ 5,20",
-    "fonte": "Google News Acoes",
-    "publicado": "24/06 17:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa e a alta do dólar podem refletir um cenário de aversão ao risco no mercado doméstico. Se os fatores que pressionam o câmbio e a bolsa persistirem, isso pode indicar uma maior cautela dos investidores em relação aos ativos brasileiros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782336253.481811,
-    "titulo": "Tesla é processada nos EUA por família de mulher morta em acidente de carro que atingiu sua casa",
-    "fonte": "Folha Mercado",
-    "publicado": "24/06 17:15",
-    "relevancia": "BAIXA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Este é um evento específico relacionado a um processo judicial contra a Tesla, sem conexão direta com os canais de análise macroeconômica de juros, inflação, atividade/emprego ou decisões fiscais/regulatórias.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782336253.4826262,
-    "titulo": "B3 (B3SA3) ajusta valor de JCP e acionistas receberão até R$ 0,22 por ação em julho",
-    "fonte": "Money Times",
-    "publicado": "24/06 18:14",
-    "relevancia": "BAIXA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia trata da distribuição de juros sobre capital próprio pela B3, um evento corporativo específico. Não há impacto direto nos canais de juros, inflação, atividade/emprego ou decisões fiscais/regulatórias.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782338614.5225985,
-    "titulo": "Fatores pontuais podem ajudar, mas queda de juros estrutural depende do fiscal, aponta BGC Liquidez",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 17:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia conecta explicitamente a possibilidade de queda de juros à necessidade de um cenário fiscal favorável, indicando que a trajetória da Selic está atrelada a decisões fiscais futuras. Se o cenário fiscal se deteriorar, a expectativa de queda de juros pode ser frustrada; se houver avanços fiscais, o corte de juros pode se concretizar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782338616.7635722,
-    "titulo": "Economistas preveem que El Niño elevará inflação no Brasil, mostra consulta do BC",
-    "fonte": "Folha Mercado",
-    "publicado": "24/06 18:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para uma expectativa de aumento da inflação devido a um fator climático (El Niño), conforme projeções de economistas. Se o fenômeno se intensificar e os preços de commodities agrícolas subirem de forma expressiva, a inflação pode vir acima do esperado, pressionando o Banco Central a manter uma postura mais restritiva nos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782338619.0925033,
-    "titulo": "Mato Grosso do Sul mostra potencial para ampliar processamento de soja - Globo Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "24/06 17:54",
-    "relevancia": "BAIXA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia trata de um desenvolvimento regional e setorial específico (processamento de soja em MS), sem conexão direta com canais macroeconômicos ou decisões fiscais/regulatórias de impacto nacional. É uma informação sobre o agronegócio, mas sem desdobramentos macro evidentes no texto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782338621.309463,
-    "titulo": "Governo autoriza concurso para CGU e ANPD; salários podem chegar a R$ 20 mil",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 17:32",
-    "relevancia": "BAIXA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia trata da autorização de concursos públicos para órgãos específicos, o que é uma decisão administrativa. Não se trata de uma mudança fiscal ou regulatória com impacto macroeconômico amplo, nem de dados de inflação, juros ou atividade. A relevância é baixa por ser uma notícia de gestão pública sem reflexos diretos nos canais de análise.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782338643.8578937,
-    "titulo": "Exclusivo: Braskem entra ainda nesta quarta com cautelar para se proteger de cobranças de credores, dizem fontes",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 18:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia trata de uma ação judicial de proteção contra credores por parte de uma empresa privada, o que não se enquadra diretamente em decisão fiscal ou regulatória governamental com impacto macroeconômico amplo. Se a medida afetar a saúde financeira de um setor relevante ou gerar um precedente regulatório, sua relevância poderia ser reavaliada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782338643.8589165,
-    "titulo": "Fornecedora da Apple precifica IPO em Hong Kong visando levantar R$ 5,4 bi para atender IA",
-    "fonte": "Folha Mercado",
-    "publicado": "24/06 18:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia descreve um evento de mercado de capitais externo (IPO em Hong Kong) focado em um setor específico (IA), sem conexão explícita com canais de juros, inflação, atividade/emprego ou decisões fiscais/regulatórias brasileiras. Se o volume levantado for excepcionalmente grande e houver menção a impacto no fluxo de capital global, a relevância poderia ser maior.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782338643.859906,
-    "titulo": "Micron Technology superou as altas expectativas de Wall Street para seu 3º trimestre fiscal",
-    "fonte": "Money Times",
-    "publicado": "24/06 17:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia trata do resultado financeiro de uma empresa de tecnologia específica, com menção ao mercado de IA. Embora possa indicar tendências em setores de tecnologia globais, não há conexão explícita com canais macroeconômicos brasileiros ou decisões fiscais/regulatórias. O resultado positivo pode influenciar o sentimento em relação a empresas de tecnologia listadas em bolsas globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782338643.8608327,
-    "titulo": "Bolsas de NY encerram sem direção única com alívio no petróleo e cautela com techs",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 17:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia descreve o comportamento misto das bolsas americanas, influenciado por commodities (petróleo) e pelo setor de tecnologia. A queda nos rendimentos dos Treasuries é mencionada como suporte, mas sem detalhar a causa. Se a cautela com techs se intensificar, pode impactar o apetite a risco global, mas a notícia não faz essa conexão explícita.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782338643.8617287,
-    "titulo": "Bitcoin paira abaixo de US$ 61 mil em meio à queda de ações de tecnologia, temores de juros e saídas de ETFs",
-    "fonte": "Investing.com",
-    "publicado": "24/06 18:44",
-    "relevancia": "BAIXA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia descreve a performance do Bitcoin sem conectar explicitamente a movimentos de capital para o Brasil ou a decisões de política monetária doméstica. Se a queda de ações de tecnologia persistir, isso pode indicar um apetite a risco global reduzido, mas a notícia não faz essa conexão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782342188.7513864,
-    "titulo": "Campo de Búzios supera recorde e alcança produção média de 1,1 milhão barris de petróleo por dia",
-    "fonte": "Google News Commodities",
-    "publicado": "24/06 16:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O recorde de produção no campo de Búzios demonstra a capacidade de exploração e produção do pré-sal brasileiro. Se houvesse problemas operacionais ou climáticos significativos, a produção poderia ter sido afetada negativamente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782342191.019701,
-    "titulo": "Produção de petróleo atinge recorde de 3,7 milhões de barris por dia",
-    "fonte": "Google News Commodities",
-    "publicado": "24/06 14:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O recorde de produção de petróleo indica um aumento na oferta global ou nacional. Se a demanda por petróleo diminuísse significativamente, esse nível de produção poderia levar a uma queda nos preços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782342193.23869,
-    "titulo": "Indústria do petróleo espera que MP do imposto de exportação perca a validade, diz Shell",
-    "fonte": "Google News Commodities",
-    "publicado": "24/06 14:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa da indústria do petróleo é de que a MP do imposto de exportação não seja convertida em lei, o que aliviaria a carga tributária sobre o setor. Se a MP fosse aprovada e mantida, isso poderia impactar a competitividade das exportações de petróleo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782342195.5142224,
-    "titulo": "Itamaraty diz que tarifaço é tentativa de interferência externa e que ‘traidores não reescreverão a história’",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 19:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração do Itamaraty indica uma postura de confronto em relação às tarifas impostas pelos EUA, o que pode gerar instabilidade nas relações comerciais. Se as negociações sobre as tarifas fossem mais produtivas, a retórica poderia ser menos inflamada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782342218.0663595,
-    "titulo": "Ibovespa cai e perde nível dos 171 mil pontos com pressão de Petrobras e Vale",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 17:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa foi impulsionada por fatores externos (preço do petróleo) e internos (desempenho de commodities). Se os preços do petróleo tivessem se mantido estáveis ou subido, e se as ações da Petrobras e Vale tivessem apresentado desempenho positivo, o índice poderia ter fechado em alta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782342218.0675588,
-    "titulo": "Ibovespa hoje cai com perdas acima de 2% das ações da Petrobras; dólar sobe a R$ 5,20",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/06 17:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa e a alta do dólar são reflexos de fatores como o desempenho das ações de commodities e a política monetária americana. Se as ações da Petrobras tivessem apresentado valorização e o dólar se mantivesse estável, o cenário para a bolsa seria mais positivo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782351111.1405241,
-    "titulo": "STF endurece previsão sobre perda de cargo por ato de improbidade administrativa",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 21:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do STF sobre a lei de improbidade administrativa pode ter implicações na carreira de agentes públicos, endurecendo as consequências de atos ilícitos. Se a interpretação do STF for mantida, a retroatividade na contagem de prazos de suspensão de direitos políticos deixará de ser um fator de mitigação de sanções, impactando a responsabilização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782351113.3692408,
-    "titulo": "Itamaraty atribui tarifaço a ‘traidores da pátria’",
-    "fonte": "Valor Economico",
-    "publicado": "24/06 19:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração do Itamaraty sobre o tarifaço americano sugere uma forte reação diplomática e política a ações percebidas como interferência externa. Se a retórica se mantiver e as negociações comerciais não avançarem, o cenário de tensões entre Brasil e EUA pode se intensificar, afetando relações bilaterais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782351115.586493,
-    "titulo": "Terremoto de magnitude 7,1 derruba prédios em Caracas, e USGS alerta para altas vítimas na Venezuela",
-    "fonte": "ForexLive",
-    "publicado": "24/06 20:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O terremoto de magnitude 7,1 na Venezuela representa um desastre humanitário e econômico com potencial de impacto significativo. Se as perdas econômicas se confirmarem na faixa de 1-4% do PIB, isso agravará a já delicada situação econômica do país, exigindo esforços de reconstrução e ajuda internacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782351117.7819452,
-    "titulo": "Governo Trump pede quase US$ 90 bilhões ao Congresso para repor munições em meio a guerra do Irã",
-    "fonte": "Google News Geopolitica",
-    "publicado": "24/06 20:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O pedido de quase US$ 90 bilhões do governo Trump ao Congresso para reposição de munições sinaliza um comprometimento financeiro substancial com o conflito no Irã e um aumento nos gastos de defesa. Se essa solicitação for aprovada, isso pode ter implicações fiscais nos EUA e aumentar a percepção de risco geopolítico global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782351140.2579575,
-    "titulo": "Ibovespa fecha em queda de 0,44% e dólar comercial sobe a R$ 5,2020",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/06 19:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa e a alta do dólar comercial indicam um cenário de aversão ao risco no mercado brasileiro. Se a pressão sobre o câmbio persistir, isso pode alimentar preocupações inflacionárias e pressionar o Banco Central a manter uma postura mais restritiva em relação à política monetária.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1782403713.0223498,
     "titulo": "Eco Invest inicia rodada na Ásia para atrair capital estrangeiro, diz Fazenda",
     "fonte": "Valor Economico",
@@ -987,6 +321,115 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A necessidade de esclarecimentos adicionais pelo Ibama pode atrasar a decisão sobre a licença do poço na Foz do Amazonas, impactando os planos de exploração da Petrobras. Se a licença for negada ou adiada significativamente, isso pode afetar a produção futura e os investimentos da empresa na região.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782494596.1025515,
+    "titulo": "Dólar abre em leve queda nesta sexta com dados de desemprego no radar - Folha de S.Paulo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/06 10:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A leve queda do dólar, atrelada à expectativa de dados de desemprego, sugere que o mercado está atento a indicadores que podem influenciar a política monetária. Se os dados de desemprego vierem mais fracos que o esperado, isso pode reforçar apostas de manutenção ou até mesmo de corte de juros, pressionando o dólar para baixo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782494598.9702764,
+    "titulo": "Governo do Piauí estuda isenção de pedágio para veículos leves na Rodovia da Soja - pi.gov.br",
+    "fonte": "Google News Commodities",
+    "publicado": "26/06 11:43",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de isenção de pedágio na Rodovia da Soja pelo governo do Piauí pode impactar a arrecadação estadual e o custo logístico para veículos leves. Se a medida for implementada, pode haver um debate sobre a sustentabilidade financeira da rodovia e o impacto em outros modais de transporte.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782494601.849977,
+    "titulo": "Trump ameaça impor tarifa de 100% a países que taxarem serviços digitais",
+    "fonte": "Valor Economico",
+    "publicado": "26/06 14:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A ameaça de tarifas por parte dos EUA pode intensificar tensões comerciais com países europeus que consideram a taxação de serviços digitais. Se os países europeus prosseguirem com a taxação, a imposição das tarifas americanas pode gerar retaliações e afetar cadeias de suprimentos globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782494604.6802971,
+    "titulo": "Trump diz que qualquer país europeu que implementar imposto sobre serviços digitais receberá tarifa de 100%",
+    "fonte": "ForexLive",
+    "publicado": "26/06 13:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sinaliza uma postura agressiva em relação à taxação de serviços digitais por parte da Europa, podendo levar a um aumento das tensões comerciais e a possíveis disputas tarifárias. A reação dos países europeus e a possível resposta das empresas de tecnologia americanas serão cruciais para determinar o desdobramento dessa situação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782494667.9682732,
+    "titulo": "Braskem (BRKM5) diz que Justiça suspendeu por 60 dias cobrança de dívidas por determinados credores",
+    "fonte": "Money Times",
+    "publicado": "26/06 13:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão da cobrança de dívidas pela Braskem por 60 dias oferece um fôlego temporário para a empresa em suas negociações com credores. Se a empresa conseguir reestruturar suas dívidas durante este período, isso pode evitar um cenário de recuperação judicial mais severo; caso contrário, a pressão sobre a companhia pode aumentar após o fim da suspensão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782494667.9690394,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e retoma os 173 mil pontos com grandes bancos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "26/06 12:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, liderada por grandes bancos, sugere um fluxo de capital positivo para o mercado de ações brasileiro no dia. Se os resultados corporativos dos bancos continuarem fortes e o cenário macroeconômico se mantiver favorável, a bolsa pode sustentar essa tendência de alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782494667.9698575,
+    "titulo": "Wall Street caminha para interromper sequência de perdas, apesar de queda em fabricantes de chips",
+    "fonte": "Folha Mercado",
+    "publicado": "26/06 14:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação parcial de Wall Street sugere um alívio temporário, mas a persistente queda em fabricantes de chips pode indicar preocupações setoriais específicas. Se a tendência de queda em semicondutores se mantiver, isso pode afetar setores dependentes de tecnologia e impactar o desempenho geral do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782494667.9706047,
+    "titulo": "O que vai acontecer com as debêntures e CRAs da Braskem agora, com proteção contra credores?",
+    "fonte": "InvestNews",
+    "publicado": "26/06 13:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão dos pagamentos a credores da Braskem por dois meses pode gerar incertezas para detentores de debêntures e CRAs. Se a empresa não apresentar um plano de reestruturação convincente, isso pode afetar a confiança dos investidores em instrumentos de dívida corporativa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782494667.9713979,
+    "titulo": "El Niño 2026/27 pode reduzir relação estoque/consumo de soja para 25% em cenário de quebra no Brasil, aponta Itaú BBA",
+    "fonte": "Google News Commodities",
+    "publicado": "26/06 13:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de redução nos estoques de soja devido ao El Niño pode pressionar os preços da commodity no futuro. Se a quebra na safra brasileira se concretizar e a demanda global permanecer alta, isso pode levar a um cenário de oferta restrita e aumento de preços.",
     "is_stocks": true
   }
 ]
