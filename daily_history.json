@@ -431,5 +431,99 @@
     "origem": "domestica",
     "leitura_critica": "A projeção de redução nos estoques de soja devido ao El Niño pode pressionar os preços da commodity no futuro. Se a quebra na safra brasileira se concretizar e a demanda global permanecer alta, isso pode levar a um cenário de oferta restrita e aumento de preços.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782505028.49456,
+    "titulo": "BC decreta liquidação extrajudicial da Sefer Investimentos, ligada ao caso Master",
+    "fonte": "InvestNews",
+    "publicado": "26/06 11:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A liquidação extrajudicial da Sefer Investimentos pelo Banco Central reforça a atuação regulatória do órgão em casos de instabilidade financeira. Se outras empresas ligadas ao Banco Master também forem liquidadas, isso pode indicar um problema sistêmico mais amplo no setor financeiro; caso contrário, pode ser um evento isolado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782505030.9471328,
+    "titulo": "Consultor jurídico da CNM debate legislação e divisão dos royalties do petróleo - Confederação Nacional de Municípios (CNM)",
+    "fonte": "Google News Commodities",
+    "publicado": "26/06 16:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O debate sobre a legislação e a divisão dos royalties do petróleo pela CNM pode indicar uma busca por alterações nas regras atuais. Se houver uma proposta concreta de mudança na distribuição desses recursos, isso pode afetar a arrecadação de municípios e estados; caso contrário, o debate pode permanecer no campo das discussões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782505033.408072,
+    "titulo": "Rubio: Framework levanta esperanças de paz, mas obstáculos importantes permanecem",
+    "fonte": "ForexLive",
+    "publicado": "26/06 16:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A apresentação de um framework para a paz entre Israel e Líbano, com envolvimento dos EUA, indica um esforço diplomático significativo para a região. Se o acordo for implementado, pode haver uma redução das tensões geopolíticas que afetam o fornecimento de energia; caso contrário, a instabilidade persistirá.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782505036.1534603,
+    "titulo": "Acordo entre EUA, Israel e Líbano prevê cessar-fogo e retirada gradual de tropas israelenses - Brasil de Fato",
+    "fonte": "Google News Geopolitica",
+    "publicado": "26/06 16:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A assinatura de um acordo-quadro para cessar-fogo e retirada de tropas entre EUA, Israel e Líbano representa um avanço diplomático na região. Se o cessar-fogo for respeitado e a retirada ocorrer, isso pode diminuir a volatilidade geopolítica; caso contrário, a escalada do conflito pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782505045.6955802,
+    "titulo": "Itaú aumenta projeção de Selic a 14% e espera dólar mais forte em 2026 e 2027 - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/06 12:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A elevação da projeção da Selic para 14% pelo Itaú sugere uma expectativa de manutenção ou aumento da taxa de juros pelo Banco Central. Se o cenário de juros altos se concretizar, isso pode impactar o custo do crédito e o investimento; se o Banco Central sinalizar o contrário, o dólar pode se desvalorizar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782505045.6965346,
+    "titulo": "Petrobras investe na construção de embarcações, com previsão de R$ 12 bilhões em Santa Catarina - Agência Petrobras de Notícias",
+    "fonte": "Google News Acoes",
+    "publicado": "26/06 15:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O investimento da Petrobras em Santa Catarina para a construção de embarcações pode impulsionar a economia local e o setor naval. Se o projeto for executado conforme o planejado, pode gerar empregos e movimentar a cadeia produtiva; caso contrário, atrasos ou cancelamentos podem impactar negativamente a região.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782505045.6975403,
+    "titulo": "Gol e Azul obtêm R$ 660 milhões de crédito para capital de giro",
+    "fonte": "Folha Mercado",
+    "publicado": "26/06 16:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A obtenção de R$ 660 milhões em crédito para capital de giro por Gol e Azul indica um alívio financeiro para o setor aéreo. Se as companhias conseguirem gerenciar bem esses recursos, isso pode melhorar sua liquidez e capacidade operacional; caso contrário, a situação financeira pode permanecer delicada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782505045.698493,
+    "titulo": "Confiança do consumidor dos EUA melhora, mas preocupações com alto custo de vida permanecem",
+    "fonte": "Folha Mercado",
+    "publicado": "26/06 14:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A melhora na confiança do consumidor dos EUA, apesar das preocupações com o custo de vida, sugere uma resiliência da economia americana. Se o custo de vida continuar a ser um fator de preocupação, isso pode limitar o ímpeto de consumo; caso contrário, a melhora na confiança pode impulsionar a atividade econômica.",
+    "is_stocks": true
   }
 ]
