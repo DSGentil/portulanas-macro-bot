@@ -525,5 +525,106 @@
     "origem": "externa",
     "leitura_critica": "A melhora na confiança do consumidor dos EUA, apesar das preocupações com o custo de vida, sugere uma resiliência da economia americana. Se o custo de vida continuar a ser um fator de preocupação, isso pode limitar o ímpeto de consumo; caso contrário, a melhora na confiança pode impulsionar a atividade econômica.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782510381.8068013,
+    "titulo": "Dívida pública federal do Brasil sobe 2,66% em maio e supera R$ 9 trilhões",
+    "fonte": "Folha Mercado",
+    "publicado": "26/06 17:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da dívida pública federal acima de R$ 9 trilhões em maio sinaliza pressões fiscais contínuas. Se o Tesouro Nacional precisar recorrer a atuações extraordinárias para gerenciar a dívida, isso pode indicar dificuldades em rolar os passivos a custos favoráveis, impactando a percepção de risco fiscal do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782510384.1181524,
+    "titulo": "Taxas curtas e intermediárias caem com aumento de apostas no corte da Selic",
+    "fonte": "Money Times",
+    "publicado": "26/06 17:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas taxas de juros de curto e médio prazo reflete a expectativa do mercado por um novo corte na Selic em agosto. Se o Banco Central confirmar essa tendência em suas próximas comunicações ou decisões, isso pode sustentar a queda das taxas e estimular a atividade econômica. Caso contrário, uma postura mais cautelosa pode levar a uma reversão desse movimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782510386.410784,
+    "titulo": "Dólar termina a semana em queda de 0,20%, cotado a R$ 5,17 - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/06 17:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda semanal do dólar para R$ 5,17 pode ser interpretada como um reflexo da melhora na percepção de risco doméstico ou de fluxos de capital. Se a tendência de valorização do real se mantiver, isso pode favorecer a importação e conter pressões inflacionárias, mas também pode afetar a competitividade das exportações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782510388.6812465,
+    "titulo": "Tesouro pode fazer atuação extraordinária no mercado de títulos se necessário, diz coordenador",
+    "fonte": "Folha Mercado",
+    "publicado": "26/06 17:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A possibilidade de o Tesouro Nacional realizar atuações extraordinárias no mercado de títulos sinaliza uma gestão ativa da dívida pública e a disposição de intervir para garantir a liquidez e o financiamento. Se tais atuações forem necessárias com frequência, isso pode indicar desafios na rolagem da dívida a custos favoráveis ou pressões de mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782510392.614161,
+    "titulo": "Ibovespa sobe 0,8% e retoma os 173 mil pontos, na contramão de outros emergentes",
+    "fonte": "Valor Economico",
+    "publicado": "26/06 17:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência do Ibovespa em relação a outros emergentes sugere que fatores domésticos, como a política monetária e dados de inflação, tiveram um peso maior na performance do índice. Se a tendência de queda nos juros futuros se mantiver, ações cíclicas podem continuar a se beneficiar; caso contrário, a reversão dessa tendência pode pressionar o índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782510392.615199,
+    "titulo": "Braskem recebe proteção judicial de 60 dias para renegociar dívidas",
+    "fonte": "Folha Mercado",
+    "publicado": "26/06 17:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proteção judicial concedida à Braskem para renegociar dívidas indica um processo de reestruturação financeira em andamento. Se os credores não concordarem com os termos propostos, a empresa pode enfrentar um cenário mais complexo, com potenciais desdobramentos para o setor petroquímico e o mercado de crédito corporativo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782510392.6163151,
+    "titulo": "Família Coelho Diniz passa a deter 25,1% do GPA",
+    "fonte": "Valor Economico",
+    "publicado": "26/06 18:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da participação da família Coelho Diniz no GPA e a remoção da cláusula de \"poison pill\" indicam uma mudança na estrutura de controle da empresa. Se essa concentração de poder acionário levar a decisões estratégicas que impactem o mercado ou a governança corporativa, isso pode gerar volatilidade para as ações da empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782510392.6173456,
+    "titulo": "investingLive Americas FX news wrap 26 Jun: Greenback ends mixed, still higher for week",
+    "fonte": "ForexLive",
+    "publicado": "26/06 18:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia apresenta um mosaico de eventos globais sem uma conexão clara com o mercado brasileiro, exceto pela menção à queda do petróleo, que pode ter impacto indireto. A volatilidade em índices americanos e as tensões geopolíticas no Oriente Médio indicam um cenário externo incerto, que pode influenciar o apetite a risco global.",
+    "is_stocks": true
   }
 ]
