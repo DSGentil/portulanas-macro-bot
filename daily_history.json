@@ -410,5 +410,76 @@
     "origem": "externa",
     "leitura_critica": "A liberação controlada de modelos de IA pela Anthropic, após preocupações de segurança, indica um cenário de regulamentação em desenvolvimento para a tecnologia. Se essa regulamentação se tornar mais rígida globalmente, pode afetar o ritmo de inovação e a adoção de novas tecnologias.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782559977.5977876,
+    "titulo": "Inflação abaixo do esperado, ata do Copom e Compass; veja os destaques da semana",
+    "titulo_original": "Inflação abaixo do esperado, ata do Copom e Compass; veja os destaques da semana - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/06 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A inflação abaixo do esperado pode reforçar a expectativa de manutenção ou até mesmo de aceleração do ciclo de cortes na taxa Selic. Se a ata do Copom confirmar um tom mais dovish, isso pode sinalizar mais espaço para flexibilização monetária. Caso contrário, se a ata indicar cautela, o mercado pode reavaliar as projeções para os próximos passos do Banco Central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782559980.0684097,
+    "titulo": "Do desemprego à renda, veja em seis gráficos a evolução do mercado de trabalho desde a pandemia",
+    "titulo_original": "Do desemprego à renda, veja em seis gráficos a evolução do mercado de trabalho desde a pandemia",
+    "fonte": "Valor Economico",
+    "publicado": "27/06 08:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise da evolução do mercado de trabalho desde a pandemia oferece um panorama sobre a resiliência e os desafios do setor. Se a recuperação observada em 2022 se mantiver consistente, pode indicar um cenário de melhora gradual na atividade econômica. Caso contrário, a persistência de fragilidades no setor informal pode sinalizar riscos para o consumo e a arrecadação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782559982.5538642,
+    "titulo": "Produtor pode amenizar impactos do El Niño no plantio da nova safra de soja",
+    "titulo_original": "Produtor pode amenizar impactos do El Niño no plantio da nova safra de soja - Globo Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "27/06 06:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A capacidade dos produtores de soja em mitigar os impactos do El Niño pode influenciar a oferta futura do grão e, consequentemente, os preços. Se as estratégias forem eficazes, a safra pode ser menos afetada do que o esperado, mantendo a contribuição do agronegócio para o PIB. Caso contrário, uma safra menor pode pressionar a inflação de alimentos e afetar a balança comercial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782559985.0254385,
+    "titulo": "Fed de Warsh inaugura era de menos orientação e mais incerteza para os mercados",
+    "titulo_original": "Fed de Warsh inaugura era de menos orientação e mais incerteza para os mercados - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/06 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A mudança na comunicação do Fed pode aumentar a volatilidade nos mercados globais, uma vez que a previsibilidade das decisões de juros é reduzida. Se o mercado interpretar essa incerteza como um sinal de que o Fed pode agir de forma mais reativa a dados econômicos, isso pode levar a movimentos mais bruscos nas taxas de juros e nos ativos de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782559988.284954,
+    "titulo": "Selic baixa popularizou os FIIs, mas deixou uma lição errada, diz professor da USP",
+    "titulo_original": "Selic baixa popularizou os FIIs, mas deixou uma lição errada, diz professor da USP - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/06 08:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise sobre a popularização dos FIIs em um cenário de Selic baixa sugere que a percepção de risco pode ter sido distorcida. Se as taxas de juros voltarem a subir, a atratividade dos FIIs pode diminuir, e investidores que não aprenderam a lição sobre diversificação e análise fundamentalista podem enfrentar perdas.",
+    "is_stocks": true
   }
 ]
