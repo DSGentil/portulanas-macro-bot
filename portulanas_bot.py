@@ -44,6 +44,19 @@ GEMINI_API_KEY     = os.environ["GEMINI_API_KEY"]
 GEMINI_MODEL = "gemini-2.5-flash-lite"
 GEMINI_URL   = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
 
+# Groq como FALLBACK DE EMERGENCIA - so usado quando o Gemini falha
+# totalmente apos todas as tentativas de retry (outage prolongado,
+# nao apenas um pico momentaneo). Groq usa llama-3.1-8b-instant, que
+# ja foi usado como motor principal antes e foi revertido por seguir
+# instrucao de prompt com menos precisao - mas para uma emergencia de
+# "melhor isso do que silencio total por horas", e aceitavel. Mensagens
+# geradas pelo fallback sao marcadas com FALLBACK_FOOTER para o
+# operador saber a origem. Ver ARQUITETURA.md Seção 10.11.
+GROQ_API_KEY_FALLBACK = os.environ.get("GROQ_API_KEY", "")
+GROQ_MODEL_FALLBACK = "llama-3.1-8b-instant"
+GROQ_URL_FALLBACK = "https://api.groq.com/openai/v1/chat/completions"
+FALLBACK_FOOTER = "\n\n<i>⚠️ Gerado pelo motor de fallback (Groq) devido a instabilidade prolongada do Gemini.</i>"
+
 CACHE_FILE = "seen_cache.json"
 CACHE_MAX_AGE_HOURS = 36  # itens mais antigos que isso saem do cache
 
@@ -399,6 +412,8 @@ CANAIS POSSÍVEIS (marque só se a notícia falar EXPLICITAMENTE sobre isso - po
 - "decisao_fiscal_regulatoria" — a notícia descreve uma DECISÃO ou MUDANÇA JÁ TOMADA (ou oficialmente proposta em texto/projeto de lei) de política fiscal, orçamentária ou regulatória, com efeito prático declarado no texto (ex: arcabouço fiscal alterado, déficit anunciado, dívida pública divulgada, novo imposto criado ou extinto, mudança de regra para empresas/investidores, decisão de tribunal com efeito tributário). Este canal é APENAS para decisões/normas concretas — não é um canal de "política" em geral. NÃO marque este canal para: resultado de eleição, intenção de candidatura, declaração de desistência de disputa eleitoral, nomeação de pessoa para cargo, pesquisa de opinião/aprovação de governo, declaração de político pedindo ou defendendo algo (sem que a coisa pedida já tenha sido decidida), comentário sobre cenário político geral. Esses são fatos políticos legítimos, mas SEM decisão fiscal/regulatória concreta e já efetivada no texto, não marque o canal. Exemplos do que NÃO marcar, baseados em erros já cometidos: "deputado X não vai disputar eleição para governador" (fato eleitoral, sem decisão fiscal); "pesquisa Datafolha mostra aprovação de X% ao governo" (pesquisa de opinião, não é decisão); "ministro pede mais transparência ao Banco Central" (pedido/cobrança, não é decisão tomada). Exemplo do que SIM marcar: "Copom decide manter Selic em X%" (decisão de política monetária já tomada); "Congresso aprova novo arcabouço fiscal" (mudança regulatória efetivada).
 - "fluxo_capital" — a notícia descreve explicitamente um movimento de capital estrangeiro entrando ou saindo, e diz para onde (renda fixa, renda variável, ou de forma geral se a notícia não especificar - mas então registre como "não especificado" na leitura, não complete a lacuna)
 
+ESTES SÃO OS ÚNICOS 5 VALORES VÁLIDOS para "canais_afetados": "juros", "inflacao", "atividade_emprego", "decisao_fiscal_regulatoria", "fluxo_capital". NÃO invente outros valores (erro real já observado: usar "commodities" como canal - isso não existe nesta lista; uma notícia sobre petróleo/commodities só entra em "canais_afetados" se ela também afetar um dos 5 canais oficiais de forma explícita, ex: petróleo impactando arrecadação fiscal = "decisao_fiscal_regulatoria" se for uma decisão concreta, ou simplesmente fica com canal vazio se não houver conexão explícita a nenhum dos 5).
+
 ORIGEM DO EFEITO (marque só se for claro pelo conteúdo - pode deixar null se não for óbvio):
 - "domestica" — o fato é sobre o Brasil
 - "externa" — o fato é sobre fora do Brasil
@@ -516,6 +531,7 @@ def append_to_daily_history(representative_item, analysis, is_stocks):
     history.append({
         "_timestamp": time.time(),
         "titulo": analysis.get("titulo_traduzido") or representative_item.get("title", ""),
+        "titulo_original": representative_item.get("title", ""),
         "fonte": representative_item.get("source", ""),
         "publicado": representative_item.get("published", ""),
         "relevancia": analysis.get("relevancia"),
@@ -772,6 +788,67 @@ def title_similarity(title_a, title_b):
     return len(intersection) / len(union)
 
 
+# Palavras capitalizadas comuns no inicio de frase que NAO sao nomes
+# proprios reais - evita falso positivo ao extrair nomes proprios.
+GENERIC_CAPITALIZED_WORDS = {
+    "o", "a", "os", "as", "em", "no", "na", "nos", "nas", "com", "para",
+    "sabiamos", "sabíamos", "vamos", "diz", "afirma", "aponta",
+}
+
+# Janela de tempo (horas) dentro da qual duas noticias que compartilham
+# um nome proprio central sao consideradas provavel duplicata, mesmo
+# com vocabulario de titulo diferente (ex: "explicar demais" vs
+# "excesso de explicacao" - mesmo fato, palavras diferentes). Ver
+# ARQUITETURA.md Seção 10.12.
+CROSS_WINDOW_DEDUP_HOURS = 5
+
+
+def extract_proper_nouns(title):
+    """Extrai nomes proprios e siglas de um titulo - tendem a se manter
+    estaveis entre reformulacoes do mesmo fato por fontes diferentes,
+    mesmo quando o resto do vocabulario do titulo muda bastante."""
+    text_no_accents_for_match = title
+    words = re.findall(r"\b[A-ZÀ-Ú][a-zà-ú]+\b|\b[A-Z]{2,}\b", text_no_accents_for_match)
+    nouns = set()
+    for w in words:
+        w_norm = strip_accents(w.lower())
+        if w_norm in GENERIC_CAPITALIZED_WORDS or len(w_norm) <= 2:
+            continue
+        nouns.add(w_norm)
+    return nouns
+
+
+def is_duplicate_of_recent_history(item, history):
+    """Verifica se um item e provavel duplicata de algo ja enviado
+    recentemente (dentro de CROSS_WINDOW_DEDUP_HOURS), usando DOIS
+    sinais complementares:
+    1. Similaridade de titulo tradicional (Jaccard) - pega
+       reformulacoes proximas.
+    2. Nome proprio central compartilhado - pega o mesmo fato contado
+       com vocabulario bem diferente (ex: "explicar demais" vs
+       "excesso de explicacao"), desde que dentro da janela de tempo.
+    Retorna True (e provavel duplicata) ou False."""
+    cutoff = time.time() - CROSS_WINDOW_DEDUP_HOURS * 3600
+    item_nouns = extract_proper_nouns(item["title"])
+
+    for h in history:
+        if h.get("_timestamp", 0) <= cutoff:
+            continue
+        titulo_anterior = h.get("titulo_original") or h.get("titulo", "")
+
+        # Sinal 1: similaridade de titulo tradicional
+        if title_similarity(item["title"], titulo_anterior) >= TITLE_SIMILARITY_THRESHOLD:
+            return True
+
+        # Sinal 2: nome proprio central compartilhado, dentro da janela
+        if item_nouns:
+            hist_nouns = extract_proper_nouns(titulo_anterior)
+            if item_nouns & hist_nouns:
+                return True
+
+    return False
+
+
 def group_similar_items(items):
     """Agrupa itens com titulos parecidos (mesmo assunto, fontes
     diferentes). Nao elimina nenhum item - apenas organiza em grupos
@@ -893,12 +970,123 @@ def pick_representative_item(group):
     return max(group, key=lambda it: len(it.get("summary", "")))
 
 
+def call_groq_with_retry(payload, max_retries=2, base_wait=10):
+    """Chama a API do Groq (fallback de emergencia) com retry limitado
+    - se o Groq tambem falhar, nao vale insistir muito, ja estamos no
+    plano B."""
+    headers = {
+        "Authorization": f"Bearer {GROQ_API_KEY_FALLBACK}",
+        "Content-Type": "application/json",
+    }
+    for attempt in range(1, max_retries + 1):
+        try:
+            resp = requests.post(GROQ_URL_FALLBACK, json=payload, headers=headers, timeout=30)
+            if resp.status_code in (429, 500, 502, 503, 504):
+                wait = base_wait * attempt
+                print(f"[aviso] groq fallback: erro {resp.status_code} na tentativa {attempt}/{max_retries}, aguardando {wait}s")
+                time.sleep(wait)
+                continue
+            resp.raise_for_status()
+            return resp
+        except requests.exceptions.RequestException as e:
+            if attempt == max_retries:
+                print(f"[erro] groq fallback tambem falhou: {e}")
+                return None
+            time.sleep(base_wait)
+    return None
+
+
+def parse_analysis_response(text, num_items):
+    """Logica de parsing compartilhada entre Gemini e Groq - ambos
+    devem responder no mesmo formato JSON ({"analises": [...]})."""
+    text = text.strip()
+    if text.startswith("```"):
+        text = text.split("```")[1]
+        if text.startswith("json"):
+            text = text[4:]
+    text = text.strip()
+
+    parsed = json.loads(text)
+
+    if isinstance(parsed, dict):
+        parsed_list = None
+        for value in parsed.values():
+            if isinstance(value, list):
+                parsed_list = value
+                break
+        if parsed_list is None:
+            parsed_list = [parsed]
+    elif isinstance(parsed, list):
+        parsed_list = parsed
+    else:
+        parsed_list = []
+
+    by_id = {}
+    for entry in parsed_list:
+        entry_id = entry.get("id")
+        if entry_id is not None:
+            by_id[entry_id] = entry
+
+    return [by_id.get(i) for i in range(1, num_items + 1)]
+
+
+def analyze_batch_with_groq_fallback(items):
+    """Chamada de EMERGENCIA ao Groq, usada apenas quando o Gemini
+    falha totalmente apos todos os retries. Marca os resultados com
+    um campo interno para o formatador de mensagem poder anexar o
+    aviso de fallback."""
+    if not GROQ_API_KEY_FALLBACK:
+        print("[aviso] GROQ_API_KEY nao configurada - fallback indisponivel")
+        return [None] * len(items)
+
+    noticias_txt = ""
+    for i, item in enumerate(items, start=1):
+        noticias_txt += (
+            f"\nNOTÍCIA {i}:\n"
+            f"Fonte: {item['source']}\n"
+            f"Título: {item['title']}\n"
+            f"Resumo: {item['summary']}\n"
+        )
+    user_content = f"Analise as seguintes {len(items)} notícia(s):\n{noticias_txt}"
+
+    payload = {
+        "model": GROQ_MODEL_FALLBACK,
+        "messages": [
+            {"role": "system", "content": PORTULANAS_SYSTEM_PROMPT},
+            {"role": "user", "content": user_content},
+        ],
+        "temperature": 0.3,
+        "max_tokens": 600 * len(items) + 200,
+        "response_format": {"type": "json_object"},
+    }
+
+    try:
+        resp = call_groq_with_retry(payload)
+        if resp is None:
+            return [None] * len(items)
+        data = resp.json()
+        text = data["choices"][0]["message"]["content"]
+        results = parse_analysis_response(text, len(items))
+        # Marca cada analise valida como vinda do fallback, para o
+        # formatador de mensagem anexar o aviso visual.
+        for r in results:
+            if r is not None:
+                r["_from_fallback"] = True
+        return results
+    except Exception as e:
+        print(f"[erro] analise via groq fallback falhou: {e}")
+        return [None] * len(items)
+
+
 def analyze_batch_with_gemini(items):
     """Analisa uma lista de itens em UMA UNICA chamada ao Gemini, em vez
     de uma chamada por item. Reduz drasticamente o numero de requisicoes
     consumidas - essencial dado o limite diario restrito da conta atual.
     Retorna uma lista de analises na mesma ordem dos itens de entrada,
-    ou lista de Nones nas posicoes onde nao foi possivel obter analise."""
+    ou lista de Nones nas posicoes onde nao foi possivel obter analise.
+    Se o Gemini falhar TOTALMENTE apos todos os retries, aciona
+    automaticamente o fallback de emergencia via Groq - ver
+    ARQUITETURA.md Seção 10.11."""
     if not items:
         return []
 
@@ -927,52 +1115,15 @@ def analyze_batch_with_gemini(items):
         resp = call_gemini_with_retry(payload)
         if resp is None:
             print(f"[erro] sem resposta do gemini apos retries para batch de {len(items)} itens")
-            return [None] * len(items)
+            print("[info] acionando fallback de emergencia via Groq")
+            return analyze_batch_with_groq_fallback(items)
         data = resp.json()
         text = data["candidates"][0]["content"]["parts"][0]["text"]
-
-        # Limpar possiveis blocos de markdown ```json ... ```
-        text = text.strip()
-        if text.startswith("```"):
-            text = text.split("```")[1]
-            if text.startswith("json"):
-                text = text[4:]
-        text = text.strip()
-
-        parsed = json.loads(text)
-
-        # O prompt pede um objeto com chave "analises" contendo a lista,
-        # mas tratamos tambem o caso de o modelo devolver lista direta ou
-        # objeto solto, por robustez.
-        if isinstance(parsed, dict):
-            parsed_list = None
-            for value in parsed.values():
-                if isinstance(value, list):
-                    parsed_list = value
-                    break
-            if parsed_list is None:
-                parsed_list = [parsed]  # objeto unico sem lista interna
-        elif isinstance(parsed, list):
-            parsed_list = parsed
-        else:
-            parsed_list = []
-
-        # Reordena pelos IDs para garantir alinhamento com a ordem original,
-        # mesmo que o modelo retorne fora de ordem
-        by_id = {}
-        for entry in parsed_list:
-            entry_id = entry.get("id")
-            if entry_id is not None:
-                by_id[entry_id] = entry
-
-        results = []
-        for i in range(1, len(items) + 1):
-            results.append(by_id.get(i))
-
-        return results
+        return parse_analysis_response(text, len(items))
     except Exception as e:
-        print(f"[erro] analise em batch falhou para {len(items)} itens: {e}")
-        return [None] * len(items)
+        print(f"[erro] analise em batch (gemini) falhou para {len(items)} itens: {e}")
+        print("[info] acionando fallback de emergencia via Groq")
+        return analyze_batch_with_groq_fallback(items)
 
 
 STOCKS_SUMMARY_PROMPT = """Você é o motor analítico do PORTULANAS, RIVOOS WEALTH. Vai receber uma lista de notícias sobre ações, fundos imobiliários (FIIs) ou mercado de capitais, numeradas. Sua tarefa: organizar essas notícias em BULLETS TEMÁTICOS, agrupando notícias relacionadas ao mesmo ativo, setor ou tema no mesmo bullet.
@@ -1012,7 +1163,8 @@ def summarize_stocks_block(items):
     separada e pequena, feita apos os itens de RV ja terem sido
     selecionados pelo pipeline principal. Retorna uma lista de bullets
     (cada um com emoji, titulo, resumo, e indices dos itens de origem),
-    ou None se a chamada falhar - nesse caso o chamador usa fallback."""
+    ou None se TODAS as tentativas (Gemini + Groq fallback) falharem -
+    nesse caso o chamador usa o fallback de formatacao (lista limpa)."""
     if not items:
         return None
 
@@ -1033,29 +1185,59 @@ def summarize_stocks_block(items):
     }
 
     try:
-        # Retry economico: se a cota ja estiver pressionada pelo Bloco 1
-        # (chamada principal), nao vale insistir muito numa chamada
-        # secundaria - melhor cair rapido no fallback do que gastar mais
-        # cota disputando com a proxima janela. Ver ARQUITETURA.md
-        # Seção 10.9.
-        resp = call_gemini_with_retry(payload, max_retries=2, max_quota_retries=1)
+        # Retry um pouco mais tolerante que antes (3 tentativas / 2 de
+        # cota) - o anterior (2/1) desistia cedo demais e acionava o
+        # fallback de lista crua com frequencia maior que o desejado.
+        # Ver ARQUITETURA.md Seção 10.9 e 10.12.
+        resp = call_gemini_with_retry(payload, max_retries=3, max_quota_retries=2)
+        if resp is not None:
+            data = resp.json()
+            text = data["candidates"][0]["content"]["parts"][0]["text"]
+            text = text.strip()
+            if text.startswith("```"):
+                text = text.split("```")[1]
+                if text.startswith("json"):
+                    text = text[4:]
+            text = text.strip()
+            parsed = json.loads(text)
+            bullets = parsed.get("bullets")
+            if bullets:
+                return bullets
+
+        print("[aviso] gemini nao respondeu para resumo de RV - tentando fallback Groq")
+    except Exception as e:
+        print(f"[aviso] resumo de RV via gemini falhou: {e} - tentando fallback Groq")
+
+    # Fallback Groq antes de desistir e cair no fallback de formatacao
+    # (lista crua) - mesma logica do Bloco 1, ver Seção 10.11.
+    if not GROQ_API_KEY_FALLBACK:
+        return None
+    try:
+        groq_payload = {
+            "model": GROQ_MODEL_FALLBACK,
+            "messages": [
+                {"role": "system", "content": STOCKS_SUMMARY_PROMPT},
+                {"role": "user", "content": user_content},
+            ],
+            "temperature": 0.4,
+            "max_tokens": 600,
+            "response_format": {"type": "json_object"},
+        }
+        resp = call_groq_with_retry(groq_payload)
         if resp is None:
-            print("[erro] sem resposta do gemini para resumo consolidado de RV")
             return None
         data = resp.json()
-        text = data["candidates"][0]["content"]["parts"][0]["text"]
-
+        text = data["choices"][0]["message"]["content"]
         text = text.strip()
         if text.startswith("```"):
             text = text.split("```")[1]
             if text.startswith("json"):
                 text = text[4:]
         text = text.strip()
-
         parsed = json.loads(text)
         return parsed.get("bullets")
     except Exception as e:
-        print(f"[erro] resumo consolidado de RV falhou: {e}")
+        print(f"[erro] resumo de RV via groq fallback tambem falhou: {e}")
         return None
 
 
@@ -1145,7 +1327,11 @@ def format_alert(group, representative_item, analysis):
         "fluxo_capital": "Fluxo de Capital",
     }
     canais = analysis.get("canais_afetados", []) or []
-    canais_txt = " · ".join(canal_labels.get(c, c) for c in canais)
+    # Fallback defensivo: se a IA inventar um canal fora dos 5 oficiais
+    # (ja observado em produção, ex: "commodities"), exibe capitalizado
+    # em vez de cru em minusculo - nao deveria acontecer dado o prompt,
+    # mas protege a formatacao visual se acontecer de novo.
+    canais_txt = " · ".join(canal_labels.get(c, c.replace("_", " ").title()) for c in canais)
 
     origem_labels = {
         "domestica": "🇧🇷 Doméstica",
@@ -1193,6 +1379,9 @@ def format_alert(group, representative_item, analysis):
             outras_fontes.append(f"<a href=\"{it['link']}\">{it['source']}</a>")
         header += " · ".join(outras_fontes)
 
+    if analysis.get("_from_fallback"):
+        header += FALLBACK_FOOTER
+
     return header
 
 
@@ -1225,10 +1414,15 @@ def format_stocks_block(items, bullets):
                 msg += " " + " ".join(links)
             msg += "\n\n"
     else:
-        # Fallback: sem bullets da IA, lista cada item individualmente
-        # mas com titulo limpo (sem lixo de formatacao do RSS original)
-        # e truncado respeitando palavra - nunca concatena tudo numa
-        # unica frase corrida.
+        # Fallback: sem bullets da IA (Gemini e Groq fallback ambos
+        # falharam), lista cada item individualmente mas com titulo
+        # limpo (sem lixo de formatacao do RSS original) e truncado
+        # respeitando palavra - nunca concatena tudo numa unica frase
+        # corrida. LIMITACAO CONHECIDA: este fallback NAO traduz
+        # titulos em ingles, porque isso exigiria mais uma chamada de
+        # IA - dado que ja sao 2 tentativas (Gemini + Groq) antes de
+        # chegar aqui, a frequencia deste caminho deve ser baixa. Ver
+        # ARQUITETURA.md Seção 10.12.
         for it in items[:5]:
             titulo_limpo = it["title"].split(" | ")[0].split(" - ")[0].strip()
             titulo_limpo = truncate_at_word(titulo_limpo, 90)
@@ -1290,6 +1484,18 @@ def main():
 
     candidates = [it for it in new_items if quick_relevance_check(it)]
     print(f"[info] {len(candidates)} itens passaram no filtro de palavras-chave")
+
+    # Filtra itens que sao provavel duplicata de algo ja enviado em
+    # janelas anteriores do mesmo dia (mesmo fato contado por fontes
+    # diferentes, com vocabulario diferente - ver ARQUITETURA.md
+    # Seção 10.12). Evita gastar cota de IA analisando algo que vai
+    # ser descartado por repeticao.
+    recent_history = prune_daily_history(load_daily_history())
+    candidates_pre_dedup = len(candidates)
+    candidates = [it for it in candidates if not is_duplicate_of_recent_history(it, recent_history)]
+    duplicatas_removidas = candidates_pre_dedup - len(candidates)
+    if duplicatas_removidas > 0:
+        print(f"[info] {duplicatas_removidas} item(ns) descartado(s) por duplicidade com janelas anteriores")
 
     groups = group_similar_items(candidates)
     multi_source_groups = sum(1 for g in groups if len(g) > 1)
