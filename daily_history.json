@@ -1,329 +1,5 @@
 [
   {
-    "_timestamp": 1782403713.0223498,
-    "titulo": "Eco Invest inicia rodada na Ásia para atrair capital estrangeiro, diz Fazenda",
-    "fonte": "Valor Economico",
-    "publicado": "25/06 12:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A iniciativa de buscar capital estrangeiro na Ásia visa impulsionar investimentos em áreas estratégicas para o Brasil. Se a rodada for bem-sucedida, poderá haver um aumento no fluxo de capital para o país, com potencial impacto positivo em setores específicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782403715.9987848,
-    "titulo": "Picchetti rejeita leitura de “leniência” do BC com meta de inflação: ‘Não estamos alongando o horizonte relevante’",
-    "fonte": "Money Times",
-    "publicado": "25/06 13:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Picchetti busca reforçar o compromisso do Banco Central com a meta de inflação, apesar de uma possível mudança na comunicação. Se o mercado interpretar essa fala como um sinal de que o BC manterá o foco no controle inflacionário, isso pode sustentar a expectativa de juros mais altos por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782403718.973327,
-    "titulo": "Galípolo diz que BC pode ter errado ao tentar 'explicar demais' último corte na Selic",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/06 12:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Galípolo abre espaço para interpretações sobre a comunicação do Banco Central e sua eficácia em transmitir suas decisões. Se o mercado interpretar essa fala como uma admissão de falha na comunicação, isso pode gerar volatilidade nas expectativas de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782403721.9106827,
-    "titulo": "Galípolo diz que BC teve ‘excesso de explicação’, e não falta, após ruído em comunicado",
-    "fonte": "Money Times",
-    "publicado": "25/06 12:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A fala de Galípolo tenta justificar o ruído na comunicação do BC, atribuindo-o a um excesso de detalhes. Se o mercado não aceitar essa justificativa, a credibilidade da comunicação do BC pode ser questionada, gerando incertezas sobre futuras decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782403745.2893639,
-    "titulo": "Dólar sobe e Wall Street bate recordes, mas gestores alertam: ‘Risco maior é ficar 100% Brasil’",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/06 12:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar e os recordes em Wall Street, combinados com o alerta de gestores sobre a concentração no Brasil, indicam um cenário de busca por segurança e diversificação. Se o cenário externo se mantiver favorável a ativos de maior risco, o fluxo de capital para mercados emergentes pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782403745.29059,
-    "titulo": "Ibovespa Futuro avança em meio a dados domésticos e nos EUA",
-    "fonte": "Google News Acoes",
-    "publicado": "25/06 09:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O avanço do Ibovespa Futuro sugere um otimismo pontual no mercado acionário brasileiro, influenciado por indicadores positivos tanto no Brasil quanto nos EUA. Se os dados econômicos dos EUA continuarem fortes, isso pode sustentar o apetite por risco em mercados emergentes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782403745.2919137,
-    "titulo": "Vamos precisar importar diesel em julho, afirma presidente da Petrobras",
-    "fonte": "Valor Economico",
-    "publicado": "25/06 12:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A necessidade de importar diesel em julho pode indicar uma pressão sobre a oferta interna ou um aumento da demanda, impactando os custos de energia. Se a importação se tornar recorrente, isso pode pressionar a inflação de custos e afetar o balanço comercial do país.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782403745.2932754,
-    "titulo": "Micron impulsiona forte abertura para ações dos EUA",
-    "fonte": "ForexLive",
-    "publicado": "25/06 10:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O forte desempenho da Micron e da Qualcomm sugere um otimismo renovado no setor de tecnologia e semicondutores, impulsionado pela demanda relacionada à inteligência artificial. Se essa tendência se mantiver, pode haver um impacto positivo em outros setores cíclicos e em empresas ligadas à cadeia de suprimentos de tecnologia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782408207.777548,
-    "titulo": "Selic: “O Banco Central está disposto a cortar, quer cortar e vai cortar”, avalia analista da Empiricus",
-    "fonte": "Money Times",
-    "publicado": "25/06 14:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação de que o Banco Central está disposto a cortar a Selic, aliada a um IPCA-15 abaixo do esperado, sugere um cenário de flexibilização monetária. Se o Banco Central confirmar essa postura nas próximas reuniões, isso pode impulsionar o mercado de renda variável e reduzir o custo do crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782408210.1362596,
-    "titulo": "Com alta do petróleo, arrecadação federal soma R$ 266,8 bilhões em maio e bate recorde para o mês - G1",
-    "fonte": "Google News Commodities",
-    "publicado": "25/06 11:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria",
-      "commodities"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O recorde na arrecadação federal em maio, impulsionado pela alta do petróleo, sugere um cenário fiscal mais favorável para o governo no curto prazo. Se os preços do petróleo se mantiverem elevados, isso pode aliviar a pressão sobre as contas públicas e permitir maior flexibilidade fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782408212.3679657,
-    "titulo": "Dólar abre perto da estabilidade com economistas avaliando dados do IPCA-15 e projeções novas do BC - Folha de S.Paulo",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/06 09:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade do dólar, em meio à avaliação de dados de inflação e projeções do BC, indica que o mercado aguarda mais clareza sobre os próximos passos da política monetária. Se as projeções do BC indicarem um cenário de inflação mais controlado, isso pode favorecer a valorização do real.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782408214.5418394,
-    "titulo": "José Paulo Kupfer | Pé atrás com o Copom - Poder360",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/06 11:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A cautela expressa em relação ao Copom sugere que o analista pode estar antecipando decisões de política monetária que não sejam totalmente alinhadas com as expectativas do mercado. Se o Copom surpreender com uma decisão mais conservadora, isso pode gerar volatilidade no mercado de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782408242.1857195,
-    "titulo": "Cade recomenda condenação da B3 sobre supostas práticas anticoncorrenciais e pede multa de R$ 100 mi - Folha de S.Paulo",
-    "fonte": "Google News Acoes",
-    "publicado": "25/06 13:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de condenação da B3 pelo Cade por práticas anticoncorrenciais e a solicitação de multa de R$ 100 milhões indicam um escrutínio regulatório sobre o funcionamento do mercado de capitais. Se a condenação for confirmada, isso pode levar a mudanças nas práticas da bolsa e impactar a concorrência no setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782408242.1871517,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com otimismo do exterior e volta aos 173 mil - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "25/06 11:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do Ibovespa, influenciada pelo otimismo externo, sugere um cenário favorável para ativos de risco no Brasil. Se o otimismo internacional persistir, isso pode sustentar a valorização da bolsa brasileira no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782408242.1885107,
-    "titulo": "Petrobras importará diesel em julho, após 3 meses sem compras externas, diz CEO",
-    "fonte": "Money Times",
-    "publicado": "25/06 13:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Petrobras de importar diesel em julho, após um hiato de três meses, pode indicar uma mudança na estratégia de suprimento da empresa ou uma resposta a uma demanda crescente. Se a importação for confirmada, isso pode impactar a oferta interna e os preços do combustível.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782408242.1898708,
-    "titulo": "Estrangeiros retiram R$ 1 bilhão em ações na B3 em 23 de junho - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "25/06 11:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A retirada de R$ 1 bilhão em ações por investidores estrangeiros na B3 em 23 de junho indica uma diminuição do fluxo de capital para a bolsa brasileira. Se essa tendência de saída se mantiver, isso pode pressionar o mercado de ações e afetar a liquidez.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782408242.191239,
-    "titulo": "Bolsas da Europa fecham em alta com impulso tech após resultados da Micron",
-    "fonte": "Money Times",
-    "publicado": "25/06 13:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O desempenho positivo das bolsas europeias, influenciado pelo setor de tecnologia e declarações do BCE, indica um ambiente de maior confiança no mercado. Se as declarações do BCE sinalizarem uma política monetária acomodatícia, isso pode sustentar a alta das bolsas no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782412716.4955418,
-    "titulo": "Galípolo diz que BC pode ter errado ao tentar 'explicar demais' último corte na Selic",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/06 12:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Galípolo sugere uma reflexão interna sobre a comunicação do Banco Central, o que pode indicar uma busca por maior clareza ou uma mudança na abordagem em futuras decisões. Se o BC adotar uma comunicação mais direta, isso pode reduzir a volatilidade gerada por interpretações de comunicados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782412719.4258604,
-    "titulo": "Galípolo diz que problema de comunicação do Copom foi 'excesso de explicação '",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/06 13:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Galípolo reforça a ideia de que a comunicação do Banco Central sobre a política monetária pode ter sido confusa, gerando reações inesperadas no mercado. Se o BC ajustar sua forma de comunicar suas decisões, isso pode trazer mais previsibilidade para as expectativas de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782412722.3377979,
-    "titulo": "Sabíamos que comunicado do Copom geraria bastante reação por ser muito diferente do usual, diz Picchetti",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/06 12:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Picchetti sugere que a mudança na comunicação do Copom foi deliberada, buscando talvez sinalizar uma nova abordagem ou testar a reação do mercado. Se essa nova forma de comunicação se mantiver, o mercado precisará se adaptar para interpretar as futuras decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782412725.2766356,
-    "titulo": "Agência da ONU suspende retirada de navios de Ormuz após ataque",
-    "fonte": "Valor Economico",
-    "publicado": "25/06 15:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A suspensão da evacuação pode aumentar a incerteza na região, potencialmente impactando o fluxo de petróleo. Se as garantias de segurança não forem rapidamente restabelecidas, o risco para o transporte marítimo pode persistir, elevando os custos de seguro e frete.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782412749.3616374,
-    "titulo": "Ações da Americanas (AMER3) tombam na B3 com operação da PF sobre fraude bilionária",
-    "fonte": "Google News Acoes",
-    "publicado": "25/06 14:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A operação da PF sobre a Americanas representa um risco significativo para a empresa e pode gerar desconfiança em outros casos de fraudes corporativas. Se a investigação avançar e comprovar a fraude, isso pode ter repercussões mais amplas no mercado de crédito e na percepção de risco de empresas com governança questionável.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782412749.3632174,
-    "titulo": "PIB dos EUA no 1º trimestre é revisado para cima",
-    "fonte": "Folha Mercado",
-    "publicado": "25/06 15:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A revisão para cima do PIB dos EUA no primeiro trimestre sugere uma economia mais resiliente do que se pensava inicialmente, embora a estagnação dos gastos do consumidor seja um ponto de atenção. Se essa tendência de crescimento se mantiver, pode influenciar as decisões futuras do Fed sobre a taxa de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782412749.3647583,
-    "titulo": "Petróleo perde força; o que esperar de Petrobras, Prio e Brava agora?",
-    "fonte": "Google News Commodities",
-    "publicado": "25/06 11:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A perda de força do petróleo pode impactar os resultados das empresas do setor de energia, como Petrobras e Prio. Se a tendência de queda se mantiver, isso pode pressionar as cotações dessas ações e influenciar decisões de investimento no setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782412749.3663058,
-    "titulo": "Petrobras importará diesel em julho, após 3 meses sem compras externas, diz CEO",
-    "fonte": "Folha Mercado",
-    "publicado": "25/06 15:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Petrobras de importar diesel pode indicar uma antecipação de demanda ou uma estratégia para garantir o abastecimento. Se essa importação for significativa, pode influenciar os preços do diesel no mercado interno e as margens de refino da companhia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782412749.367829,
-    "titulo": "Ibama pede esclarecimentos à Petrobras antes de decidir sobre ajuste de licença para poço na Foz do Amazonas",
-    "fonte": "Google News Acoes",
-    "publicado": "25/06 12:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A necessidade de esclarecimentos adicionais pelo Ibama pode atrasar a decisão sobre a licença do poço na Foz do Amazonas, impactando os planos de exploração da Petrobras. Se a licença for negada ou adiada significativamente, isso pode afetar a produção futura e os investimentos da empresa na região.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1782494596.1025515,
     "titulo": "Dólar abre em leve queda nesta sexta com dados de desemprego no radar - Folha de S.Paulo",
     "fonte": "Google News Cambio Juros",
@@ -625,6 +301,114 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A notícia apresenta um mosaico de eventos globais sem uma conexão clara com o mercado brasileiro, exceto pela menção à queda do petróleo, que pode ter impacto indireto. A volatilidade em índices americanos e as tensões geopolíticas no Oriente Médio indicam um cenário externo incerto, que pode influenciar o apetite a risco global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782523723.0461743,
+    "titulo": "Governo investiga três financeiras por juros abusivos de até 957% ao ano",
+    "fonte": "Valor Economico",
+    "publicado": "26/06 20:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A investigação aponta para práticas de juros consideradas abusivas, o que pode levar a sanções e novas regulamentações no setor de crédito. Se houver comprovação de ilegalidade, isso pode resultar em multas e mudanças nas práticas de mercado dessas instituições.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782523725.1842148,
+    "titulo": "Renda Fixa: Inflação e Selic Fortalecem Investimentos Seguros - Portal Contabeis",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/06 19:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A relação entre inflação, Selic e renda fixa é um tema recorrente no mercado financeiro. Se a inflação se mantiver alta, o Banco Central pode ser pressionado a manter a Selic elevada, o que continuaria a favorecer a renda fixa em detrimento de outras classes de ativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782523727.5558128,
+    "titulo": "Bolsa sobe 0,76%, puxada por juros futuros; Dólar é cotado a R$ 5,17 - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/06 18:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta da bolsa, influenciada pelos juros futuros, sugere um movimento de ajuste do mercado às expectativas de política monetária. Se os juros futuros indicarem uma trajetória de queda mais acentuada, isso pode sustentar a alta da bolsa; caso contrário, a tendência pode se reverter.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782523729.694038,
+    "titulo": "Dólar tem leve recuo frente ao real, em linha com pares - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/06 17:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O leve recuo do dólar frente ao real, em linha com outros pares, pode indicar uma melhora na percepção de risco global ou ajustes técnicos no mercado de câmbio. Se essa tendência de valorização do real se mantiver, pode contribuir para um ambiente de inflação mais controlada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782523733.22977,
+    "titulo": "EUA proíbem importação de mais produtos tecnológicos chineses",
+    "fonte": "Folha Mercado",
+    "publicado": "26/06 22:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A proibição de importação de tecnologia chinesa pelos EUA pode intensificar as tensões comerciais e afetar cadeias de suprimentos globais. Se essa medida se expandir para outros setores, pode gerar impactos na inflação e na atividade econômica de países dependentes dessas cadeias.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782523733.2304862,
+    "titulo": "Petróleo volta ao preço pré-guerra, Brent fecha semana com tombo de quase 10% e arrasta a Petrobras (PETR4) - Seu Dinheiro",
+    "fonte": "Google News Commodities",
+    "publicado": "26/06 18:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda acentuada no preço do petróleo pode ser influenciada por fatores de oferta e demanda globais, ou por uma diminuição das tensões geopolíticas. Se essa tendência de queda se mantiver, pode pressionar os resultados da Petrobras e afetar a balança comercial brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782523733.2315924,
+    "titulo": "B3 irá funcionar normalmente na 2ª feira, mas volume negociado pode cair cerca de 20% - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "26/06 17:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de menor volume negociado na B3 pode indicar um comportamento mais cauteloso dos investidores. Se essa redução de volume for acompanhada por quedas expressivas nos índices, pode sinalizar um cenário de menor liquidez ou aversão ao risco no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782523733.232411,
+    "titulo": "Banco do Brasil obtém autorização do TCU para repactuar devolução de recursos ao Tesouro",
+    "fonte": "Valor Economico",
+    "publicado": "26/06 19:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A repactuação da devolução de recursos ao Tesouro pelo Banco do Brasil pode ter implicações fiscais e de gestão de caixa para o banco e para o governo. Se essa repactuação aliviar a pressão sobre o fluxo de caixa do Tesouro, pode ser vista como um movimento positivo para as contas públicas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782523733.2331066,
+    "titulo": "Governo dos EUA autoriza Anthropic a liberar Mythos para algumas empresas americanas",
+    "fonte": "Folha Mercado",
+    "publicado": "26/06 21:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A liberação controlada de modelos de IA pela Anthropic, após preocupações de segurança, indica um cenário de regulamentação em desenvolvimento para a tecnologia. Se essa regulamentação se tornar mais rígida globalmente, pode afetar o ritmo de inovação e a adoção de novas tecnologias.",
     "is_stocks": true
   }
 ]
