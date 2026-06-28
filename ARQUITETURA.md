@@ -348,6 +348,20 @@ A lógica de parsing de resposta (`parse_analysis_response`) foi extraída para 
 
 **Limitação conhecida**: se o Groq também estiver indisponível no momento do outage do Gemini (cenário raro, mas possível), a notícia ainda fica sem análise - não há um terceiro provedor de fallback. O resumo do Bloco 2 (Ações/RV) não tem fallback Groq dedicado ainda - usa só o fallback de formatação (lista limpa de títulos) já existente.
 
+### 10.13 Migração do agendamento para cron-job.org (resolve drift do GitHub Actions)
+
+Observado em produção: execuções do `garimpo.yml` chegavam a atrasar quase 2 horas em relação ao horário agendado (`schedule:`). Pesquisa confirmou que isso é uma limitação **conhecida e documentada** do GitHub Actions - o agendamento nativo (`schedule:`) entra numa fila compartilhada globalmente, e o atraso cresce em períodos de alta carga da plataforma, sem garantia de execução no minuto exato. Fontes da comunidade relatam atrasos médios crescentes (de ~1h40 em 2025 a >4h30 em casos recentes).
+
+**Solução implementada**: o agendamento foi migrado para o **cron-job.org** (serviço externo gratuito, sem limite de cronjobs no tier free), que dispara - no horário exato - uma chamada HTTP `POST` para a API do GitHub (`/repos/.../actions/workflows/garimpo.yml/dispatches`), acionando o workflow via `workflow_dispatch` em vez de `schedule:`. Isso não move nenhuma execução para fora do GitHub Actions - código, logs, Secrets e todo o restante da infraestrutura permanecem exatamente como estavam. Apenas o **gatilho de horário** passou a vir de fora, evitando a fila de agendamento nativo do GitHub. Teste real confirmou: disparo programado para 08:30 BRT executou de fato as 08:32, dentro de margem aceitável.
+
+**Configuração**: 8 cronjobs (um por janela), cada um com um Personal Access Token do GitHub (permissão restrita a "Actions: Read and write" no repositório específico) no header `Authorization`, e corpo `{"ref":"main"}`.
+
+### 10.14 Lacunas geopolíticas e janela de cobertura para a primeira execução de segunda-feira — 26/06/2026
+
+**Lacuna geopolítica**: Rússia, Ucrânia, Putin, Zelensky, Venezuela e Maduro não estavam em nenhuma lista de keywords - notícias sobre esses temas nunca chegavam a ser analisadas pela IA, sendo descartadas já no filtro de palavra-chave (não era questão de perder por relevância, era nem chegar a ser avaliada). Adicionados ao `BLOCO_GEOPOLITICA`. "Maduro" foi tratado como termo de risco (`RISKY_TERMS_CONTEXT`) por ser também adjetivo comum em português ("mercado mais maduro", "fruta madura") - exige contexto venezuelano (Venezuela, Caracas, Guiana/Essequibo, chavismo, mobilização, etc.) para contar como sinal geopolítico.
+
+**Janela de cobertura de fim de semana (Weekend Recap)**: como o garimpo não roda sábado/domingo, a primeira execução de segunda-feira herdava um "buraco" de 60+ horas (desde sexta à noite) que o filtro padrão de idade (6h) descartava integralmente. A primeira abordagem testada (ampliar o filtro de idade da própria janela das 08:30) foi descartada em favor de uma solução mais limpa: um **workflow dedicado** (`weekend_recap.yml`), disparado uma única vez pelo cron-job.org (sugestão: 08:00 BRT, antes da janela normal), usando uma janela **absoluta** de data (`get_weekend_recap_window`) - sexta a partir das 18h BRT até domingo às 23h59 BRT - em vez de relativa ("últimas N horas"). Isso evita qualquer sobreposição com a janela normal das 08:30 (que continua usando o filtro padrão de 6h, cobrindo o overnight de domingo→segunda normalmente) e mantém a responsabilidade de "resumo do fim de semana" separada da rotina diária, com identificação visual própria na mensagem (`🗞️ Resumo do Fim de Semana`). Ativado via variável de ambiente `PORTULANAS_WEEKEND_RECAP=1`.
+
 ### 10.12 Deduplicação entre janelas, canal inválido, e melhoria do fallback de RV — 25/06/2026
 
 Auditoria de um dia completo de produção revelou 3 problemas adicionais:
