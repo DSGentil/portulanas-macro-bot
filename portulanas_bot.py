@@ -112,6 +112,15 @@ TOP_N_GUARANTEED = int(os.environ.get("PORTULANAS_TOP_N", "5"))
 # especificos do dia (08:40, 10:15, etc.) em vez de continuamente.
 JANELA_FIXA = os.environ.get("PORTULANAS_JANELA_FIXA", "0") == "1"
 
+# Modo Weekend Recap: disparado uma unica vez, antes da primeira
+# janela de segunda-feira, cobrindo SOMENTE noticias entre sexta a
+# noite e domingo a noite (janela absoluta de data, nao relativa ao
+# NEWS_MAX_AGE_HOURS padrao). Ver get_weekend_recap_window() e
+# ARQUITETURA.md Seção 10.13.
+WEEKEND_RECAP = os.environ.get("PORTULANAS_WEEKEND_RECAP", "0") == "1"
+WEEKEND_RECAP_START_HOUR = 18  # sexta-feira, a partir desta hora (BRT)
+WEEKEND_RECAP_END_HOUR = 23    # domingo, até esta hora (BRT) - inclusive o minuto 59
+
 # Disclaimer enviado uma unica vez ao final de cada janela (nao em cada
 # notica individual, para nao poluir). Necessario porque o bot inclui
 # interpretacao gerada por IA, nao so repasse de fato.
@@ -206,6 +215,8 @@ BLOCO_GEOPOLITICA = [
     "conflito", "ataque", "sanção", "sancao", "trump", "israel",
     "líbano", "libano", "netanyahu", "cessar-fogo", "cessar fogo",
     "china", "tarifas", "tariff", "trade war", "guerra comercial",
+    "rússia", "russia", "ucrânia", "ucrania", "ukraine", "putin",
+    "zelensky", "zelenski", "venezuela", "opep+", "kremlin",
 ]
 
 BLOCO_PIB_ATIVIDADE = [
@@ -337,6 +348,14 @@ RISKY_TERMS_CONTEXT = {
     "gold": ["ounce", "xau", "commodity", "price", "market", "bullion",
              "reserve"],
     "copper": ["lme", "commodity", "price", "market", "ton", "tonne"],
+    # "Maduro" e nome do presidente da Venezuela, mas tambem e adjetivo
+    # comum em portugues (fruta madura, mercado maduro). So conta como
+    # geopolitica quando aparece com contexto venezuelano.
+    "maduro": ["venezuela", "venezuelano", "venezuelana", "caracas",
+               "chavismo", "oposição", "oposicao", "ditador",
+               "presidente da venezuela", "guiana", "essequibo",
+               "mobilização", "mobilizacao", "regime", "eleição",
+               "eleicao", "golpe"],
     # Termos em ingles e portugues que sao genericos demais isolados,
     # adicionados a partir de auditoria da taxonomia do operador.
     "orçamento": ["governo", "fiscal", "deficit", "déficit", "tesouro",
@@ -636,6 +655,26 @@ def is_news_too_old(dt_utc, max_age_hours=NEWS_MAX_AGE_HOURS):
         return False
     age = datetime.now(timezone.utc) - dt_utc
     return age > timedelta(hours=max_age_hours)
+
+
+def get_weekend_recap_window(now_br):
+    """Calcula a janela absoluta (em UTC) do Weekend Recap: da
+    sexta-feira as WEEKEND_RECAP_START_HOUR (BRT) at\u00e9 o domingo as
+    WEEKEND_RECAP_END_HOUR:59 (BRT) mais proximos no passado, em
+    relacao ao momento da execucao (now_br). Pensado para disparar na
+    segunda de manha, antes da primeira janela normal (08:30) - a
+    janela calculada sempre se refere ao fim de semana IMEDIATAMENTE
+    anterior, nunca sobrepondo com o filtro padrao de 6h que a janela
+    das 08:30 ja usa."""
+    # Encontra a sexta-feira mais recente (incluindo hoje, se for sexta)
+    dias_desde_sexta = (now_br.weekday() - 4) % 7  # weekday(): segunda=0 ... sexta=4
+    sexta = (now_br - timedelta(days=dias_desde_sexta)).replace(
+        hour=WEEKEND_RECAP_START_HOUR, minute=0, second=0, microsecond=0
+    )
+    domingo_fim = (sexta + timedelta(days=2)).replace(
+        hour=WEEKEND_RECAP_END_HOUR, minute=59, second=59, microsecond=0
+    )
+    return sexta.astimezone(timezone.utc), domingo_fim.astimezone(timezone.utc)
 
 
 def fetch_feed(name, url, timeout=10):
@@ -1444,11 +1483,29 @@ def main():
     raw_items = collect_all_news()
     print(f"[info] {len(raw_items)} itens coletados de {len(FEEDS)} fontes")
 
-    fresh_items = [it for it in raw_items if not is_news_too_old(it.get("published_dt_utc"))]
-    discarded_old = len(raw_items) - len(fresh_items)
-    if discarded_old > 0:
-        print(f"[info] {discarded_old} itens descartados por serem mais antigos que {NEWS_MAX_AGE_HOURS}h")
-    raw_items = fresh_items
+    if WEEKEND_RECAP:
+        # Modo Weekend Recap: disparado uma unica vez, antes da
+        # primeira janela de segunda-feira, cobrindo SOMENTE noticias
+        # publicadas entre sexta a noite e domingo a noite (janela
+        # absoluta de data, nao relativa a "quantas horas atras"). A
+        # partir das 08:30 de segunda, o filtro padrao de 6h volta a
+        # cobrir o overnight normalmente - sem sobreposicao entre os
+        # dois modos. Ver ARQUITETURA.md Seção 10.13.
+        cutoff_start, cutoff_end = get_weekend_recap_window(now_br)
+        fresh_items = [
+            it for it in raw_items
+            if it.get("published_dt_utc") is not None
+            and cutoff_start <= it["published_dt_utc"] <= cutoff_end
+        ]
+        print(f"[info] modo weekend recap: janela de {cutoff_start.isoformat()} a {cutoff_end.isoformat()} (UTC)")
+        print(f"[info] {len(raw_items) - len(fresh_items)} itens fora da janela do fim de semana, descartados")
+        raw_items = fresh_items
+    else:
+        fresh_items = [it for it in raw_items if not is_news_too_old(it.get("published_dt_utc"))]
+        discarded_old = len(raw_items) - len(fresh_items)
+        if discarded_old > 0:
+            print(f"[info] {discarded_old} itens descartados por serem mais antigos que {NEWS_MAX_AGE_HOURS}h")
+        raw_items = fresh_items
 
     if HOMOLOGACAO:
         # Modo homologacao: ignora cache e filtro de palavras-chave.
@@ -1650,7 +1707,7 @@ def main():
                 # da janela (nao como mensagem separada, para nao
                 # reintroduzir o problema de hiato que ja corrigimos no
                 # Bloco 2).
-                msg = "<b>PORTULANAS NEWS</b>\n\n" + msg
+                msg = "<b>PORTULANAS NEWS</b>" + (" · 🗞️ <i>Resumo do Fim de Semana</i>" if WEEKEND_RECAP else "") + "\n\n" + msg
             send_telegram(msg)
             append_to_daily_history(representative, analysis, is_stocks=False)
             sent_count += 1
@@ -1673,7 +1730,7 @@ def main():
                 # Bloco 1 ficou vazio nesta janela - o header
                 # "PORTULANAS NEWS" precisa aparecer aqui, na primeira
                 # (e unica) mensagem da janela.
-                msg_rv = "<b>PORTULANAS NEWS</b>\n\n" + msg_rv
+                msg_rv = "<b>PORTULANAS NEWS</b>" + (" · 🗞️ <i>Resumo do Fim de Semana</i>" if WEEKEND_RECAP else "") + "\n\n" + msg_rv
             send_telegram(msg_rv)
             for representative, analysis in zip(stocks_items, stocks_analyses):
                 append_to_daily_history(representative, analysis, is_stocks=True)
