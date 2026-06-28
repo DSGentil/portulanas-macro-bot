@@ -1,0 +1,51 @@
+name: Portulanas - Weekend Recap
+
+on:
+  # Disparado pelo cron-job.org uma unica vez, antes da primeira
+  # janela normal de segunda-feira (08:30 BRT) - sugestao: 08:00 BRT.
+  # Cobre SOMENTE noticias entre sexta a noite (18h BRT) e domingo a
+  # noite (23h59 BRT), para preencher o "buraco" do fim de semana sem
+  # sobrepor com o filtro padrao de 6h que a janela das 08:30 ja usa.
+  # Ver ARQUITETURA.md Seção 10.13.
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  weekend_recap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Rodar Weekend Recap
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          PORTULANAS_JANELA_FIXA: "1"
+          PORTULANAS_TOP_N: "5"
+          PORTULANAS_WEEKEND_RECAP: "1"
+        run: python portulanas_bot.py
+
+      - name: Salvar estado atualizado
+        run: |
+          git config --global user.name "portulanas-bot"
+          git config --global user.email "bot@portulanas.local"
+          touch seen_cache.json daily_history.json filter_audit_log.json
+          git add seen_cache.json daily_history.json filter_audit_log.json
+          git add -A -- retry_needed.json 2>/dev/null || true
+          git diff --staged --quiet && exit 0
+          git commit -m "weekend recap: atualiza cache, historico e log de auditoria"
+          git pull --rebase origin main
+          git push
