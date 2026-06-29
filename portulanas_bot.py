@@ -1069,15 +1069,13 @@ def parse_analysis_response(text, num_items):
     return [by_id.get(i) for i in range(1, num_items + 1)]
 
 
-def analyze_batch_with_groq_fallback(items):
-    """Chamada de EMERGENCIA ao Groq, usada apenas quando o Gemini
-    falha totalmente apos todos os retries. Marca os resultados com
-    um campo interno para o formatador de mensagem poder anexar o
-    aviso de fallback."""
-    if not GROQ_API_KEY_FALLBACK:
-        print("[aviso] GROQ_API_KEY nao configurada - fallback indisponivel")
-        return [None] * len(items)
+GROQ_FALLBACK_MAX_BATCH_SIZE = 6  # llama-3.1-8b-instant tem TPM mais restrito que o Gemini - lotes grandes (ex: 20 itens) geram 413
 
+
+def _analyze_single_groq_batch(items):
+    """Chama o Groq para UM sub-lote pequeno (ate
+    GROQ_FALLBACK_MAX_BATCH_SIZE itens). Usado internamente por
+    analyze_batch_with_groq_fallback para dividir lotes grandes."""
     noticias_txt = ""
     for i, item in enumerate(items, start=1):
         noticias_txt += (
@@ -1105,16 +1103,39 @@ def analyze_batch_with_groq_fallback(items):
             return [None] * len(items)
         data = resp.json()
         text = data["choices"][0]["message"]["content"]
-        results = parse_analysis_response(text, len(items))
-        # Marca cada analise valida como vinda do fallback, para o
-        # formatador de mensagem anexar o aviso visual.
-        for r in results:
-            if r is not None:
-                r["_from_fallback"] = True
-        return results
+        return parse_analysis_response(text, len(items))
     except Exception as e:
-        print(f"[erro] analise via groq fallback falhou: {e}")
+        print(f"[erro] sub-lote groq fallback falhou: {e}")
         return [None] * len(items)
+
+
+def analyze_batch_with_groq_fallback(items):
+    """Chamada de EMERGENCIA ao Groq, usada apenas quando o Gemini
+    falha totalmente apos todos os retries. Divide o lote em
+    sub-lotes pequenos (GROQ_FALLBACK_MAX_BATCH_SIZE) antes de enviar,
+    porque o llama-3.1-8b-instant tem limite de TPM mais restrito que
+    o Gemini - lotes grandes (ex: os 20 itens do MAX_GROUPS_PER_RUN)
+    geravam erro 413 (payload/tokens excedendo limite por minuto). Ver
+    ARQUITETURA.md Seção 10.15. Marca os resultados com um campo
+    interno para o formatador de mensagem poder anexar o aviso de
+    fallback."""
+    if not GROQ_API_KEY_FALLBACK:
+        print("[aviso] GROQ_API_KEY nao configurada - fallback indisponivel")
+        return [None] * len(items)
+
+    all_results = []
+    for start in range(0, len(items), GROQ_FALLBACK_MAX_BATCH_SIZE):
+        sub_batch = items[start:start + GROQ_FALLBACK_MAX_BATCH_SIZE]
+        print(f"[info] fallback groq: processando sub-lote de {len(sub_batch)} itens ({start+1}-{start+len(sub_batch)} de {len(items)})")
+        sub_results = _analyze_single_groq_batch(sub_batch)
+        all_results.extend(sub_results)
+        if start + GROQ_FALLBACK_MAX_BATCH_SIZE < len(items):
+            time.sleep(2)  # pequena pausa entre sub-lotes, respeita RPM
+
+    for r in all_results:
+        if r is not None:
+            r["_from_fallback"] = True
+    return all_results
 
 
 def analyze_batch_with_gemini(items):
