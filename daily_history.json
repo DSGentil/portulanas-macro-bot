@@ -472,5 +472,58 @@
     "origem": "domestica",
     "leitura_critica": "Um recorde de produção de petróleo pode impactar a balança comercial e a arrecadação de royalties. Se essa produção se mantiver, pode influenciar os preços globais do petróleo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782770451.0431929,
+    "titulo": "Raízen (RAIZ4) tem prejuízo líquido de R$7,3 bi no 4° tri da safra 2025/26",
+    "titulo_original": "Raízen (RAIZ4) tem prejuízo líquido de R$7,3 bi no 4° tri da safra 2025/26",
+    "fonte": "Money Times",
+    "publicado": "29/06 18:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O resultado financeiro da Raízen, com um prejuízo significativo, pode ser um indicativo de desafios setoriais ou de gestão. Se a empresa for uma grande emissora de dívida, um Ebitda baixo pode aumentar a percepção de risco e impactar o custo de capital, refletindo em juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782770455.2210655,
+    "titulo": "Moedas Globais: dólar cede espaço a rivais; iene bate mínima em 39 anos",
+    "titulo_original": "Moedas Globais: dólar cede espaço a rivais; iene bate mínima em 39 anos - Jornal do Comércio",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/06 17:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A desvalorização do dólar frente a outras moedas e a mínima histórica do iene podem indicar mudanças no apetite a risco global ou em políticas monetárias de outros países. Sem detalhamento sobre as causas, é difícil inferir impactos diretos no mercado brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782770459.3551,
+    "titulo": "Onda de Calor na UE Ameaça Rendimentos de Girassol e Soja",
+    "titulo_original": "Onda de Calor na UE Ameaça Rendimentos de Girassol e Soja - Forbes Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "29/06 17:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O evento climático na Europa pode afetar a oferta global de commodities agrícolas. Se o Brasil for um importador relevante desses produtos, ou se a escassez global impactar os preços de commodities brasileiras, isso poderia ter reflexos indiretos. No entanto, a notícia não fornece detalhes para essa conexão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782770464.1207998,
+    "titulo": "B3 dá novo passo no mercado de previsões com contratos de IPCA e PIB",
+    "titulo_original": "B3 dá novo passo no mercado de previsões com contratos de IPCA e PIB - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "29/06 16:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A introdução de contratos de previsão de IPCA e PIB na B3 é um desenvolvimento significativo para o mercado financeiro brasileiro. Se esses contratos se tornarem amplamente utilizados, podem aumentar a liquidez e a precisão das expectativas sobre inflação e atividade econômica, influenciando decisões de política monetária e fiscal.",
+    "is_stocks": true
   }
 ]
