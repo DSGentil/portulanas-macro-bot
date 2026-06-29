@@ -396,7 +396,15 @@ Não há botão de avaliação (👍/👎) nem qualquer telemetria sobre quais a
 
 ---
 
-## 11. Checklist sugerido para auditoria por outra IA
+### 10.15 Fallback Groq falhando com 413 em lotes grandes — 29/06/2026
+
+Observado em produção: numa execução real onde o Gemini falhou totalmente (6×503, mesmo padrão da Seção 10.7) e o fallback Groq foi acionado automaticamente (Seção 10.11), o **próprio fallback também falhou**, com erro `413 Payload Too Large`. Investigação confirmou que isso não é sobre tamanho de payload em bytes, mas sobre **TPM (tokens por minuto) do modelo `llama-3.1-8b-instant`** - o Groq aplica limites de TPM por modelo, mais restritivos que o do Gemini, e o lote enviado (20 itens, o máximo de `MAX_GROUPS_PER_RUN`, com `max_tokens` calculado dinamicamente como `600 * len(items) + 200`) excedeu esse limite numa única chamada. O fallback nunca tinha sido testado com o tamanho máximo real de lote - os testes anteriores usaram poucos itens.
+
+**Correção**: `analyze_batch_with_groq_fallback` agora divide o lote em sub-lotes de no máximo `GROQ_FALLBACK_MAX_BATCH_SIZE = 6` itens, processando cada sub-lote em uma chamada separada (com pequena pausa de 2s entre elas) e combinando os resultados antes de retornar. Isso significa que, em caso de outage do Gemini com um lote grande, o fallback de emergência pode fazer múltiplas chamadas ao Groq (ex: 4 chamadas para 20 itens) em vez de uma só - ainda assim dentro da cota generosa do Groq (14.400 req/dia), e preferível a falhar por completo.
+
+---
+
+
 
 Ao revisar este projeto, sugerimos verificar especificamente:
 
