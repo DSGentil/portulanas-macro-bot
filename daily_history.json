@@ -96,5 +96,75 @@
     "origem": "domestica",
     "leitura_critica": "A alta do Ibovespa, sustentada por bancos, e a queda do dólar podem indicar um cenário de maior apetite a risco no mercado doméstico. Se essa tendência se mantiver, pode haver um fluxo de capital para a bolsa, mas a notícia não especifica as causas da queda do dólar ou os fatores que sustentaram os bancos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782732655.1481524,
+    "titulo": "Agenda do dia: Boletim Focus é destaque",
+    "titulo_original": "Agenda do dia: Boletim Focus é destaque",
+    "fonte": "Valor Economico",
+    "publicado": "29/06 07:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O Boletim Focus contém as projeções do mercado para indicadores como inflação, PIB e taxa de juros, sendo um termômetro importante para as expectativas econômicas. A Sondagem do Comércio e de Serviços da FGV fornece dados sobre a atividade econômica. Se as projeções do Boletim Focus para a inflação vierem significativamente acima ou abaixo do esperado, isso pode influenciar as expectativas sobre a política monetária do Banco Central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782732658.4652455,
+    "titulo": "IGP-M cai 0,5% em junho devido à queda do petróleo",
+    "titulo_original": "IGP-M cai 0,5% em junho devido à queda do petróleo - VEJA",
+    "fonte": "Google News Commodities",
+    "publicado": "29/06 08:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do IGP-M, um importante índice de inflação, é um dado relevante que pode indicar uma desaceleração da inflação em alguns setores. Se essa tendência se mantiver, pode influenciar as decisões de política monetária do Banco Central. A relação com a queda do petróleo sugere um impacto externo na inflação doméstica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782732661.8182678,
+    "titulo": "Nordeste avança em ritmo acelerado com boom de investimentos e infraestrutura",
+    "titulo_original": "Nordeste avança em ritmo acelerado com boom de investimentos e infraestrutura",
+    "fonte": "Valor Economico",
+    "publicado": "29/06 05:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de crescimento acelerado para o Nordeste, com investimentos em infraestrutura e indústria, indica um cenário positivo para a atividade econômica regional e nacional. Se esses investimentos se concretizarem, podem gerar um impacto positivo no PIB e na geração de empregos. A notícia destaca um diferencial de crescimento regional em relação à média brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782732665.155482,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "29/06 03:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O relatório Flash CPI da Espanha e o pronunciamento da presidente do BCE são eventos com potencial para influenciar as expectativas de inflação e, consequentemente, as decisões de política monetária na Europa. Se os dados de inflação vierem significativamente diferentes do esperado, isso pode gerar volatilidade nos mercados europeus e impactar o euro. A atenção para o NFP nos EUA e o CPI também são relevantes para a política monetária americana.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782732671.421017,
+    "titulo": "Agenda de empresas: Gestoras avaliam compra de fatia na Amil; Justiça suspende venda de participação da Oi na V.Tal",
+    "titulo_original": "Agenda de empresas: Gestoras avaliam compra de fatia na Amil; Justiça suspende venda de participação da Oi na V.Tal",
+    "fonte": "Valor Economico",
+    "publicado": "29/06 08:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão judicial que suspende a venda da participação da Oi na V.Tal representa uma mudança regulatória concreta, com potencial impacto na estrutura de capital das empresas envolvidas. Se a decisão for mantida, pode afetar o fluxo de caixa e a estratégia de desinvestimento da Oi.",
+    "is_stocks": true
   }
 ]
