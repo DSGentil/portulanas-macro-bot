@@ -260,5 +260,101 @@
     "origem": "domestica",
     "leitura_critica": "A projeção do Santander de uma economia mais forte em 2026, seguida por um corte na previsão para 2027, sugere um cenário de crescimento com incertezas futuras. Se os dados de atividade econômica confirmarem a melhora em 2026, isso pode sustentar o otimismo, mas a revisão para 2027 exige atenção a possíveis gargalos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782757884.6470423,
+    "titulo": "Lula propõe reajuste escalonado do MEI para R$ 140 mil em 2028",
+    "titulo_original": "Lula propõe reajuste escalonado do MEI para R$ 140 mil em 2028",
+    "fonte": "Folha Mercado",
+    "publicado": "29/06 14:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de reajuste escalonado do teto do MEI pode impactar a arrecadação tributária e a estrutura de pequenas empresas. Se aprovada, a medida pode incentivar o crescimento de alguns MEIs para a categoria de microempresas, alterando o cenário fiscal para esse segmento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782757887.70889,
+    "titulo": "Mercado mantém aposta de mais um corte na Selic em agosto e vê inflação mais alta em 2027",
+    "titulo_original": "Mercado mantém aposta de mais um corte na Selic em agosto e vê inflação mais alta em 2027 - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/06 09:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da aposta em corte da Selic em agosto sugere que o mercado avalia que as condições inflacionárias permitem essa flexibilização. No entanto, a projeção de inflação mais alta em 2027 pode indicar uma cautela quanto à sustentabilidade dessa trajetória de queda de juros no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782757890.7532973,
+    "titulo": "Febraban diz que adesão ao Desenrola Adimplentes deve ser limitada",
+    "titulo_original": "Febraban diz que adesão ao Desenrola Adimplentes deve ser limitada",
+    "fonte": "Valor Economico",
+    "publicado": "29/06 14:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Se a adesão for realmente limitada, o impacto na estrutura do mercado de crédito pode ser menor do que o temido pelos bancos. Caso contrário, a percepção de risco pode aumentar, pressionando os spreads bancários e, consequentemente, as taxas de juros para novas operações de crédito livre.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782757893.776942,
+    "titulo": "Safra recorde de soja reduz preço do óleo em 10,2% e alivia despesas, aponta Apas",
+    "titulo_original": "Safra recorde de soja reduz preço do óleo em 10,2% e alivia despesas, aponta Apas - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "29/06 13:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução no preço do óleo de soja, impulsionada pela safra recorde, pode contribuir para um alívio pontual na inflação de alimentos. Se essa tendência se mantiver e se estender a outros produtos, pode reforçar a percepção de desaceleração inflacionária, influenciando decisões futuras de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782757957.682869,
+    "titulo": "Ouro recua e segue pressionado por apostas de Fed mais restritivo",
+    "titulo_original": "Ouro recua e segue pressionado por apostas de Fed mais restritivo",
+    "fonte": "Valor Economico",
+    "publicado": "29/06 14:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A expectativa de um Fed mais restritivo tende a fortalecer o dólar e diminuir o apelo do ouro como ativo de refúgio. Se o Fed mantiver essa postura, o ouro pode continuar sob pressão, especialmente se o apetite ao risco nos mercados acionários se mantiver elevado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782757957.6835144,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta sustentar os 173 mil pontos",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta sustentar os 173 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "29/06 12:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa indica um momento de aversão ao risco no mercado acionário brasileiro. A capacidade do índice de sustentar os 173 mil pontos será um indicador da força da pressão vendedora e da confiança dos investidores no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782757957.6842084,
+    "titulo": "Cosan avalia alternativa para participação na Rumo e contrata BTG Pactual como assessor financeiro",
+    "titulo_original": "Cosan avalia alternativa para participação na Rumo e contrata BTG Pactual como assessor financeiro",
+    "fonte": "Folha Mercado",
+    "publicado": "29/06 12:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Cosan de reavaliar sua participação na Rumo pode indicar movimentos estratégicos no setor de logística. O impacto financeiro e operacional dependerá das alternativas que serão propostas e da negociação com o assessor financeiro.",
+    "is_stocks": true
   }
 ]
