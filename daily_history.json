@@ -166,5 +166,99 @@
     "origem": "domestica",
     "leitura_critica": "A decisão judicial que suspende a venda da participação da Oi na V.Tal representa uma mudança regulatória concreta, com potencial impacto na estrutura de capital das empresas envolvidas. Se a decisão for mantida, pode afetar o fluxo de caixa e a estratégia de desinvestimento da Oi.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782742115.0576756,
+    "titulo": "Contas públicas têm déficit de R$ 44,4 bi no ano até maio, pior saldo desde 2020",
+    "titulo_original": "Contas públicas têm déficit de R$ 44,4 bi no ano até maio, pior saldo desde 2020",
+    "fonte": "Folha Mercado",
+    "publicado": "29/06 09:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O déficit de R$ 44,4 bilhões nas contas públicas até maio, o pior desde 2020, indica uma deterioração fiscal. Se o governo não conseguir reverter essa tendência, isso pode aumentar a pressão sobre a dívida pública e a necessidade de medidas fiscais mais rigorosas no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782742118.1542196,
+    "titulo": "Governo central tem déficit primário de R$ 53,257 bilhões em maio, diz Tesouro",
+    "titulo_original": "Governo central tem déficit primário de R$ 53,257 bilhões em maio, diz Tesouro",
+    "fonte": "Valor Economico",
+    "publicado": "29/06 09:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O déficit primário de R$ 53,257 bilhões em maio, o pior desde 2024, reforça a preocupação com a trajetória fiscal do país. Se o governo não conseguir reverter essa tendência e atingir a meta de superávit de 0,25% do PIB, isso pode gerar desconfiança nos investidores e pressionar os juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782742121.2125154,
+    "titulo": "Economistas interrompem aumento na previsão da inflação após 15 semanas",
+    "titulo_original": "Economistas interrompem aumento na previsão da inflação após 15 semanas",
+    "fonte": "Folha Mercado",
+    "publicado": "29/06 08:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A interrupção do aumento nas previsões de inflação, mantendo-a em 5,33%, pode ser um sinal de estabilização. Se os próximos dados de inflação confirmarem essa tendência de desaceleração, isso pode abrir espaço para o Banco Central considerar uma política monetária menos restritiva.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782742124.2954133,
+    "titulo": "Acompanhe a cotação do dólar nesta segunda-feira (29)",
+    "titulo_original": "Acompanhe a cotação do dólar nesta segunda-feira (29) - Folha de S.Paulo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/06 10:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Acompanhar a cotação do dólar é fundamental para entender a dinâmica do mercado de câmbio. Se a moeda apresentar volatilidade significativa, isso pode refletir incertezas internas ou externas que merecem atenção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782742200.089583,
+    "titulo": "Mercados europeus fecham: preços do petróleo sobem, ações de tecnologia buscam recuperação",
+    "titulo_original": "investingLive European markets wrap: Oil prices rise, tech shares look to bounce back",
+    "fonte": "ForexLive",
+    "publicado": "29/06 08:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das ações de tecnologia e a estabilidade do petróleo em níveis pré-guerra podem sugerir um apetite a risco moderado no exterior. Se os dados dos EUA confirmarem uma economia robusta, isso pode reforçar a expectativa de juros mais altos por mais tempo pelo Fed, impactando mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782742200.0900216,
+    "titulo": "Microsoft perde US$ 570 bilhões em valor de mercado e caminha para seu pior mês desde 2000",
+    "titulo_original": "Microsoft perde US$ 570 bilhões em valor de mercado e caminha para seu pior mês desde 2000",
+    "fonte": "InvestNews",
+    "publicado": "29/06 09:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte desvalorização da Microsoft pode indicar um momento de correção no setor de tecnologia global. Se essa tendência se estender a outras grandes empresas de tecnologia, isso pode afetar o sentimento geral do mercado e o fluxo de capital para ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782742200.094238,
+    "titulo": "Santander vê economia mais forte em 2026, mas corta projeção do PIB em 2027",
+    "titulo_original": "Santander vê economia mais forte em 2026, mas corta projeção do PIB em 2027 - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/06 10:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Santander de uma economia mais forte em 2026, seguida por um corte na previsão para 2027, sugere um cenário de crescimento com incertezas futuras. Se os dados de atividade econômica confirmarem a melhora em 2026, isso pode sustentar o otimismo, mas a revisão para 2027 exige atenção a possíveis gargalos.",
+    "is_stocks": true
   }
 ]
