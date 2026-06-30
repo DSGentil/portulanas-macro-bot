@@ -525,5 +525,83 @@
     "origem": "domestica",
     "leitura_critica": "A introdução de contratos de previsão de IPCA e PIB na B3 é um desenvolvimento significativo para o mercado financeiro brasileiro. Se esses contratos se tornarem amplamente utilizados, podem aumentar a liquidez e a precisão das expectativas sobre inflação e atividade econômica, influenciando decisões de política monetária e fiscal.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782825491.8589907,
+    "titulo": "Inflação da indústria sobe 4,80% em 2026, até maio, maior resultado da série histórica do IBGE",
+    "titulo_original": "Inflação da indústria sobe 4,80% em 2026, até maio, maior resultado da série histórica do IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "30/06 09:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo da inflação da indústria, atingindo o maior patamar histórico, é um sinal de alerta para a economia brasileira. Se essa tendência de alta persistir, pode pressionar os custos de produção e, consequentemente, os preços ao consumidor, além de influenciar decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782825495.0953166,
+    "titulo": "Dólar hoje tem ligeira alta em dia de disputa pela Ptax - InfoMoney",
+    "titulo_original": "Dólar hoje tem ligeira alta em dia de disputa pela Ptax - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/06 09:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A ligeira alta do dólar em um dia de disputa pela Ptax sugere volatilidade no câmbio. Se a Ptax fechar em um patamar mais alto, isso pode indicar uma tendência de valorização da moeda americana no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782825498.3618484,
+    "titulo": "Governo Trump vai 'tensionar' eleições no Brasil por medo da China, diz especialista que mapeou direita na América Latina - BBC",
+    "titulo_original": "Governo Trump vai 'tensionar' eleições no Brasil por medo da China, diz especialista que mapeou direita na América Latina - BBC",
+    "fonte": "Google News Geopolitica",
+    "publicado": "30/06 05:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de um especialista sobre a possível interferência do governo Trump nas eleições brasileiras, motivada pelo medo da China, aponta para um cenário geopolítico complexo. Se essa tensão se concretizar, pode haver impacto na estabilidade política e nas relações internacionais do Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782825501.5969758,
+    "titulo": "Suprema Corte americana amplia poder de Trump sobre agências reguladoras - Migalhas",
+    "titulo_original": "Suprema Corte americana amplia poder de Trump sobre agências reguladoras - Migalhas",
+    "fonte": "Google News Geopolitica",
+    "publicado": "30/06 07:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão da Suprema Corte americana de ampliar o poder de Trump sobre agências reguladoras pode levar a mudanças significativas nas políticas e regulamentações nos EUA. Se Trump for eleito, essas mudanças podem ter repercussões globais, afetando o ambiente de negócios internacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782825575.5777953,
+    "titulo": "Ibovespa recua 1% após dados fiscais e incertezas no Oriente Médio; 5 coisas para saber antes de investir hoje (30)",
+    "titulo_original": "Ibovespa recua 1% após dados fiscais e incertezas no Oriente Médio; 5 coisas para saber antes de investir hoje (30)",
+    "fonte": "Money Times",
+    "publicado": "30/06 10:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa reflete a aversão ao risco diante de fatores domésticos (dados fiscais) e externos (Oriente Médio). Se os dados fiscais brasileiros continuarem a deteriorar, isso pode pressionar ainda mais o índice; por outro lado, uma resolução pacífica no Oriente Médio poderia aliviar parte da pressão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782825575.578607,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/06 09:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Acompanhar a cotação do dólar ao vivo é essencial para entender as flutuações diárias da moeda. Se houver movimentos bruscos, isso pode indicar reações a notícias econômicas ou eventos de mercado que merecem atenção.",
+    "is_stocks": true
   }
 ]
