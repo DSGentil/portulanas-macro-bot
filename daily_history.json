@@ -1,267 +1,5 @@
 [
   {
-    "_timestamp": 1782730882.0785742,
-    "titulo": "Selic caiu: agora é a hora de fazer um financiamento imobiliário?",
-    "titulo_original": "Selic caiu: agora é a hora de fazer um financiamento imobiliário? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/06 16:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda da Selic, por si só, pode incentivar o financiamento imobiliário, mas a decisão final depende de outros fatores como as taxas de juros dos bancos e a perspectiva de futuras quedas. Se a Selic continuar em trajetória de queda, o custo do crédito imobiliário tende a diminuir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782730884.950674,
-    "titulo": "Plano do Japão visa dobrar o crescimento econômico real ... para 1%",
-    "titulo_original": "Japan blueprint aims to double real economic growth ... to 1%",
-    "fonte": "ForexLive",
-    "publicado": "28/06 23:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A proposta de alinhar a política monetária do BOJ com o crescimento governamental pode ser interpretada como uma tentativa de influenciar as decisões de juros, o que seria negativo para o iene. Se o BOJ ceder a essa pressão, a inflação pode ser permitida a subir para atingir a meta de crescimento nominal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782730887.7726984,
-    "titulo": "Warsh enfrenta semana decisiva com estreia internacional e teste à independência do Fed",
-    "titulo_original": "Warsh enfrenta semana decisiva com estreia internacional e teste à independência do Fed - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "28/06 11:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A postura do Fed em relação à inflação é um fator crucial para os mercados globais. Se o Fed mantiver um tom mais duro, isso pode levar a juros mais altos por mais tempo, pressionando os ativos de risco e títulos de emergentes. A estreia internacional de Powell pode trazer mais clareza sobre as intenções do banco central.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782730890.553058,
-    "titulo": "Irã diz ter atacado alvos dos EUA após ação americana no Estreito de Ormuz",
-    "titulo_original": "Irã diz ter atacado alvos dos EUA após ação americana no Estreito de Ormuz - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "26/06 18:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Conflitos geopolíticos no Oriente Médio podem ter repercussões globais nos preços do petróleo e na estabilidade do comércio internacional. Se a escalada do conflito se intensificar, pode haver impacto nos preços de commodities e, consequentemente, na inflação global, afetando decisões de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782730918.0197253,
-    "titulo": "Fed sob Warsh adota tom mais duro contra inflação e desafia rali de títulos de emergentes",
-    "titulo_original": "Fed sob Warsh adota tom mais duro contra inflação e desafia rali de títulos de emergentes",
-    "fonte": "InvestNews",
-    "publicado": "28/06 12:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A postura mais dura do Fed contra a inflação sugere que as taxas de juros podem permanecer elevadas por mais tempo, o que aumenta o custo de financiamento para países emergentes e pode levar a uma saída de capital. Se o Fed sinalizar cortes de juros mais adiante, o cenário para os emergentes pode melhorar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782730918.0200493,
-    "titulo": "Preview - Goldman prevê 130 mil payrolls em junho com impulso da Copa do Mundo de 40 mil",
-    "titulo_original": "Preview - Goldman sees 130k June payrolls with World Cup adding 40k boost to print",
-    "fonte": "ForexLive",
-    "publicado": "28/06 23:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Uma leitura de payroll mais fraca que o esperado, especialmente nos dados privados, pode levar o Federal Reserve a considerar um corte de juros mais cedo. Se os dados de emprego e salários vierem abaixo do consenso, o dólar pode se desvalorizar e os mercados de juros podem precificar um corte em setembro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782730918.0206578,
-    "titulo": "Ibovespa Fecha em Alta Sustentado por Bancos, Dólar Cai",
-    "titulo_original": "Ibovespa Fecha em Alta Sustentado por Bancos, Dólar Cai - Forbes Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/06 18:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa, sustentada por bancos, e a queda do dólar podem indicar um cenário de maior apetite a risco no mercado doméstico. Se essa tendência se mantiver, pode haver um fluxo de capital para a bolsa, mas a notícia não especifica as causas da queda do dólar ou os fatores que sustentaram os bancos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782732655.1481524,
-    "titulo": "Agenda do dia: Boletim Focus é destaque",
-    "titulo_original": "Agenda do dia: Boletim Focus é destaque",
-    "fonte": "Valor Economico",
-    "publicado": "29/06 07:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O Boletim Focus contém as projeções do mercado para indicadores como inflação, PIB e taxa de juros, sendo um termômetro importante para as expectativas econômicas. A Sondagem do Comércio e de Serviços da FGV fornece dados sobre a atividade econômica. Se as projeções do Boletim Focus para a inflação vierem significativamente acima ou abaixo do esperado, isso pode influenciar as expectativas sobre a política monetária do Banco Central.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782732658.4652455,
-    "titulo": "IGP-M cai 0,5% em junho devido à queda do petróleo",
-    "titulo_original": "IGP-M cai 0,5% em junho devido à queda do petróleo - VEJA",
-    "fonte": "Google News Commodities",
-    "publicado": "29/06 08:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do IGP-M, um importante índice de inflação, é um dado relevante que pode indicar uma desaceleração da inflação em alguns setores. Se essa tendência se mantiver, pode influenciar as decisões de política monetária do Banco Central. A relação com a queda do petróleo sugere um impacto externo na inflação doméstica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782732661.8182678,
-    "titulo": "Nordeste avança em ritmo acelerado com boom de investimentos e infraestrutura",
-    "titulo_original": "Nordeste avança em ritmo acelerado com boom de investimentos e infraestrutura",
-    "fonte": "Valor Economico",
-    "publicado": "29/06 05:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de crescimento acelerado para o Nordeste, com investimentos em infraestrutura e indústria, indica um cenário positivo para a atividade econômica regional e nacional. Se esses investimentos se concretizarem, podem gerar um impacto positivo no PIB e na geração de empregos. A notícia destaca um diferencial de crescimento regional em relação à média brasileira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782732665.155482,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "29/06 03:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O relatório Flash CPI da Espanha e o pronunciamento da presidente do BCE são eventos com potencial para influenciar as expectativas de inflação e, consequentemente, as decisões de política monetária na Europa. Se os dados de inflação vierem significativamente diferentes do esperado, isso pode gerar volatilidade nos mercados europeus e impactar o euro. A atenção para o NFP nos EUA e o CPI também são relevantes para a política monetária americana.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782732671.421017,
-    "titulo": "Agenda de empresas: Gestoras avaliam compra de fatia na Amil; Justiça suspende venda de participação da Oi na V.Tal",
-    "titulo_original": "Agenda de empresas: Gestoras avaliam compra de fatia na Amil; Justiça suspende venda de participação da Oi na V.Tal",
-    "fonte": "Valor Economico",
-    "publicado": "29/06 08:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão judicial que suspende a venda da participação da Oi na V.Tal representa uma mudança regulatória concreta, com potencial impacto na estrutura de capital das empresas envolvidas. Se a decisão for mantida, pode afetar o fluxo de caixa e a estratégia de desinvestimento da Oi.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782742115.0576756,
-    "titulo": "Contas públicas têm déficit de R$ 44,4 bi no ano até maio, pior saldo desde 2020",
-    "titulo_original": "Contas públicas têm déficit de R$ 44,4 bi no ano até maio, pior saldo desde 2020",
-    "fonte": "Folha Mercado",
-    "publicado": "29/06 09:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O déficit de R$ 44,4 bilhões nas contas públicas até maio, o pior desde 2020, indica uma deterioração fiscal. Se o governo não conseguir reverter essa tendência, isso pode aumentar a pressão sobre a dívida pública e a necessidade de medidas fiscais mais rigorosas no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782742118.1542196,
-    "titulo": "Governo central tem déficit primário de R$ 53,257 bilhões em maio, diz Tesouro",
-    "titulo_original": "Governo central tem déficit primário de R$ 53,257 bilhões em maio, diz Tesouro",
-    "fonte": "Valor Economico",
-    "publicado": "29/06 09:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O déficit primário de R$ 53,257 bilhões em maio, o pior desde 2024, reforça a preocupação com a trajetória fiscal do país. Se o governo não conseguir reverter essa tendência e atingir a meta de superávit de 0,25% do PIB, isso pode gerar desconfiança nos investidores e pressionar os juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782742121.2125154,
-    "titulo": "Economistas interrompem aumento na previsão da inflação após 15 semanas",
-    "titulo_original": "Economistas interrompem aumento na previsão da inflação após 15 semanas",
-    "fonte": "Folha Mercado",
-    "publicado": "29/06 08:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A interrupção do aumento nas previsões de inflação, mantendo-a em 5,33%, pode ser um sinal de estabilização. Se os próximos dados de inflação confirmarem essa tendência de desaceleração, isso pode abrir espaço para o Banco Central considerar uma política monetária menos restritiva.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782742124.2954133,
-    "titulo": "Acompanhe a cotação do dólar nesta segunda-feira (29)",
-    "titulo_original": "Acompanhe a cotação do dólar nesta segunda-feira (29) - Folha de S.Paulo",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/06 10:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Acompanhar a cotação do dólar é fundamental para entender a dinâmica do mercado de câmbio. Se a moeda apresentar volatilidade significativa, isso pode refletir incertezas internas ou externas que merecem atenção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782742200.089583,
-    "titulo": "Mercados europeus fecham: preços do petróleo sobem, ações de tecnologia buscam recuperação",
-    "titulo_original": "investingLive European markets wrap: Oil prices rise, tech shares look to bounce back",
-    "fonte": "ForexLive",
-    "publicado": "29/06 08:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A recuperação das ações de tecnologia e a estabilidade do petróleo em níveis pré-guerra podem sugerir um apetite a risco moderado no exterior. Se os dados dos EUA confirmarem uma economia robusta, isso pode reforçar a expectativa de juros mais altos por mais tempo pelo Fed, impactando mercados globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782742200.0900216,
-    "titulo": "Microsoft perde US$ 570 bilhões em valor de mercado e caminha para seu pior mês desde 2000",
-    "titulo_original": "Microsoft perde US$ 570 bilhões em valor de mercado e caminha para seu pior mês desde 2000",
-    "fonte": "InvestNews",
-    "publicado": "29/06 09:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte desvalorização da Microsoft pode indicar um momento de correção no setor de tecnologia global. Se essa tendência se estender a outras grandes empresas de tecnologia, isso pode afetar o sentimento geral do mercado e o fluxo de capital para ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782742200.094238,
-    "titulo": "Santander vê economia mais forte em 2026, mas corta projeção do PIB em 2027",
-    "titulo_original": "Santander vê economia mais forte em 2026, mas corta projeção do PIB em 2027 - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/06 10:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Santander de uma economia mais forte em 2026, seguida por um corte na previsão para 2027, sugere um cenário de crescimento com incertezas futuras. Se os dados de atividade econômica confirmarem a melhora em 2026, isso pode sustentar o otimismo, mas a revisão para 2027 exige atenção a possíveis gargalos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1782757884.6470423,
     "titulo": "Lula propõe reajuste escalonado do MEI para R$ 140 mil em 2028",
     "titulo_original": "Lula propõe reajuste escalonado do MEI para R$ 140 mil em 2028",
@@ -602,6 +340,118 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "Acompanhar a cotação do dólar ao vivo é essencial para entender as flutuações diárias da moeda. Se houver movimentos bruscos, isso pode indicar reações a notícias econômicas ou eventos de mercado que merecem atenção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782856933.1255717,
+    "titulo": "Juros futuros recuam após Caged alimentar aposta em novo corte da Selic",
+    "titulo_original": "Juros futuros recuam após Caged alimentar aposta em novo corte da Selic",
+    "fonte": "Valor Economico",
+    "publicado": "30/06 18:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração no mercado de trabalho formal, indicada pelo Caged, sugere que o Banco Central pode ter mais espaço para reduzir a taxa Selic. Se os próximos dados de emprego continuarem a mostrar arrefecimento, a pressão por cortes adicionais na Selic tende a aumentar; caso contrário, se houver uma reversão nesse quadro, o cenário de cortes pode ser reavaliado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782856937.0595832,
+    "titulo": "Real vira ‘dano colateral’ e cai quase 3% em pior mês do ano com alta do dólar",
+    "titulo_original": "Real vira ‘dano colateral’ e cai quase 3% em pior mês do ano com alta do dólar - Bloomberg Línea Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/06 14:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte desvalorização do Real em junho, atribuída à alta do dólar, sugere uma saída de capital estrangeiro do Brasil ou uma menor entrada, impactando negativamente a moeda. Se o dólar continuar sua trajetória de alta globalmente, o Real pode sofrer mais pressões; uma reversão nesse movimento, impulsionada por fatores externos ou domésticos, poderia trazer alívio à moeda brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782856941.0156684,
+    "titulo": "Senado começa a discutir PEC dos agentes de saúde, mas Alcolumbre descarta votar hoje",
+    "titulo_original": "Senado começa a discutir PEC dos agentes de saúde, mas Alcolumbre descarta votar hoje",
+    "fonte": "Valor Economico",
+    "publicado": "30/06 18:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A PEC dos agentes de saúde, com um impacto fiscal estimado em R$ 29,3 bilhões, representa um potencial aumento de despesas públicas que pode pressionar o orçamento. Se a PEC for aprovada em sua forma atual, isso pode aumentar a dívida pública e exigir medidas de compensação fiscal; caso haja negociações para reduzir o impacto, o resultado final precisará ser avaliado quanto à sua sustentabilidade fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782856944.9422572,
+    "titulo": "Dólar fecha com leve queda em dia de disputa pela Ptax; sobe 2,3% no mês",
+    "titulo_original": "Dólar fecha com leve queda em dia de disputa pela Ptax; sobe 2,3% no mês - Notícias Agrícolas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/06 17:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A leve queda do dólar no dia, contrastando com a alta mensal de 2,3%, indica volatilidade no mercado de câmbio, influenciada pela disputa pela Ptax. Se a tendência de alta do dólar no mês se mantiver, isso pode continuar pressionando a inflação importada e afetar o fluxo de capital; uma reversão dessa tendência, contudo, poderia trazer mais estabilidade à moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782856950.9489832,
+    "titulo": "Taxas recuam na última sessão do semestre com geração fraca de vagas formais",
+    "titulo_original": "Taxas recuam na última sessão do semestre com geração fraca de vagas formais",
+    "fonte": "Money Times",
+    "publicado": "30/06 18:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A fraqueza na geração de vagas formais reforça a narrativa de desaceleração econômica, o que pode dar ao Banco Central mais margem para considerar cortes na taxa de juros. Se os próximos indicadores de emprego confirmarem essa tendência de arrefecimento, a expectativa de cortes na Selic se fortalecerá; caso contrário, um mercado de trabalho mais resiliente poderia adiar ou moderar esses cortes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782856950.9497607,
+    "titulo": "Em meio à alta do petróleo, Petrobras muda a fórmula para estabelecer preços do gás natural",
+    "titulo_original": "Em meio à alta do petróleo, Petrobras muda a fórmula para estabelecer preços do gás natural - InvestNews",
+    "fonte": "Google News Commodities",
+    "publicado": "30/06 18:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A mudança na precificação do gás natural pela Petrobras, em um cenário de alta do petróleo, pode ter implicações indiretas na inflação de custos para alguns setores industriais. Se essa alteração resultar em um aumento significativo nos preços do gás, isso poderia pressionar a inflação de forma pontual; a magnitude desse impacto dependerá da extensão da mudança e da sensibilidade dos setores consumidores a esses custos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782856950.9506373,
+    "titulo": "Itaú, Visa, BlackRock: mais de 100 empresas se unem para criar stablecoin em dólar",
+    "titulo_original": "Itaú, Visa, BlackRock: mais de 100 empresas se unem para criar stablecoin em dólar",
+    "fonte": "InvestNews",
+    "publicado": "30/06 17:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A criação de uma stablecoin em dólar por um consórcio de grandes empresas financeiras pode indicar uma tendência de maior adoção de ativos digitais no sistema financeiro tradicional. Se a Open USD for bem-sucedida e ganhar tração, isso pode facilitar transações internacionais e potencialmente influenciar fluxos de capital, embora o impacto direto e imediato nos mercados ainda seja incerto.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782856950.9513037,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com bancos, VALE3 e PETR4",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai com bancos, VALE3 e PETR4 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "30/06 15:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, impulsionada por setores importantes como bancos, Vale e Petrobras, pode refletir um sentimento de aversão ao risco no mercado acionário brasileiro. Se os dados de atividade econômica continuarem a indicar desaceleração, isso pode manter a pressão sobre as ações; uma melhora nas perspectivas de crescimento ou em dados macroeconômicos poderia reverter essa tendência de queda.",
     "is_stocks": true
   }
 ]
