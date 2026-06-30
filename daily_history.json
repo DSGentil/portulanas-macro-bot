@@ -453,5 +453,114 @@
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa, impulsionada por setores importantes como bancos, Vale e Petrobras, pode refletir um sentimento de aversão ao risco no mercado acionário brasileiro. Se os dados de atividade econômica continuarem a indicar desaceleração, isso pode manter a pressão sobre as ações; uma melhora nas perspectivas de crescimento ou em dados macroeconômicos poderia reverter essa tendência de queda.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782862251.1232154,
+    "titulo": "Citi renova aposta no real e vê espaço para moeda brasileira ganhar força - Estadão",
+    "titulo_original": "Citi renova aposta no real e vê espaço para moeda brasileira ganhar força - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/06 15:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A renovação da aposta do Citi no real brasileiro sugere uma perspectiva positiva para a moeda, o que pode indicar um fluxo de capital estrangeiro favorável ao Brasil. Se essa tendência se confirmar, o real pode se valorizar frente a outras moedas, impactando importações e exportações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782862254.1400845,
+    "titulo": "Governo Lula anuncia redução de R$ 0,35 por litro na subvenção do diesel a partir de 1º de julho",
+    "titulo_original": "Governo Lula anuncia redução de R$ 0,35 por litro na subvenção do diesel a partir de 1º de julho",
+    "fonte": "Folha Mercado",
+    "publicado": "30/06 14:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução da subvenção ao diesel pode gerar um impacto direto na inflação de transportes e, consequentemente, na inflação geral. Se essa medida for acompanhada por outras reduções em subsídios, pode haver um impacto fiscal positivo, mas é crucial monitorar a reação dos preços ao consumidor e a possibilidade de repasses.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782862257.1202233,
+    "titulo": "Empresas têm um mês para entregar declaração obrigatória à Receita. Entenda as regras",
+    "titulo_original": "Empresas têm um mês para entregar declaração obrigatória à Receita. Entenda as regras",
+    "fonte": "InvestNews",
+    "publicado": "30/06 16:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O prazo para entrega da Escrituração Contábil Fiscal (ECF) é uma obrigação regulatória para empresas. O cumprimento deste prazo é essencial para a conformidade fiscal; o não cumprimento pode acarretar penalidades, impactando a gestão financeira das companhias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782862260.189204,
+    "titulo": "Produção de petróleo cresceu 12% em 2025, mostra anuário da ANP - Agência iNFRA",
+    "titulo_original": "Produção de petróleo cresceu 12% em 2025, mostra anuário da ANP - Agência iNFRA",
+    "fonte": "Google News Commodities",
+    "publicado": "30/06 18:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento de 12% na produção de petróleo em 2025 é um dado relevante para a atividade econômica brasileira, especialmente para o setor de energia. Se essa tendência de crescimento se mantiver, pode haver impactos positivos na balança comercial e na arrecadação fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782862265.2946663,
+    "titulo": "Frigoríficos paralisam produção e dão férias coletivas com fim de cota de exportação para China",
+    "titulo_original": "Frigoríficos paralisam produção e dão férias coletivas com fim de cota de exportação para China",
+    "fonte": "Folha Mercado",
+    "publicado": "30/06 20:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O fim da cota de exportação para a China impacta diretamente a produção e o emprego no setor de frigoríficos no Brasil. Se a demanda chinesa não for suprida por outros mercados ou se as empresas não adaptarem suas estratégias, pode haver uma retração significativa na atividade econômica deste setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782862265.2956364,
+    "titulo": "Lucro da Nike supera estimativas, mas ação cai no pós mercado",
+    "titulo_original": "Lucro da Nike supera estimativas, mas ação cai no pós mercado",
+    "fonte": "Valor Economico",
+    "publicado": "30/06 19:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O resultado financeiro da Nike superou as expectativas, mas a queda das ações sugere que o mercado pode estar precificando outros fatores ou que as projeções futuras não foram tão positivas. A recuperação de tarifas de importação mencionada pode ter um impacto pontual nos resultados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782862265.2966745,
+    "titulo": "MP de Minas Gerais pede à Justiça punição da mineradora Sigma por operação noturna",
+    "titulo_original": "MP de Minas Gerais pede à Justiça punição da mineradora Sigma por operação noturna",
+    "fonte": "Valor Economico",
+    "publicado": "30/06 19:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O pedido de punição à Sigma Mineração por descumprimento de decisão judicial em relação a impactos socioambientais pode gerar um precedente para outras empresas do setor. Se a Justiça acatar o pedido, isso pode levar a novas regulamentações ou fiscalizações mais rigorosas em operações de mineração.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782862265.2975802,
+    "titulo": "Wall Street: Dow Jones fecha em recorde e tem melhor desempenho semestral em 5 anos",
+    "titulo_original": "Wall Street: Dow Jones fecha em recorde e tem melhor desempenho semestral em 5 anos",
+    "fonte": "Money Times",
+    "publicado": "30/06 17:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho recorde do Dow Jones e o forte desempenho semestral indicam um otimismo no mercado acionário americano, especialmente no setor de semicondutores. A notícia menciona que as negociações entre EUA e Irã ficaram em segundo plano, sugerindo que os fatores internos de mercado tiveram maior peso.",
+    "is_stocks": true
   }
 ]
