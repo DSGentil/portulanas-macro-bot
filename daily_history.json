@@ -714,5 +714,121 @@
     "origem": "externa",
     "leitura_critica": "A cautela em Wall Street reflete a incerteza em torno das próximas decisões do Fed e a expectativa por dados de emprego. Se o payroll vier forte, pode reforçar a visão de que o Fed manterá juros altos; se vier fraco, pode abrir espaço para especulações de cortes.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782943259.3022456,
+    "titulo": "BC incorpora prestadoras de serviços de ativos virtuais ao arcabouço prudencial",
+    "titulo_original": "BC incorpora prestadoras de serviços de ativos virtuais ao arcabouço prudencial",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 18:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A inclusão das SPSAVs no arcabouço prudencial visa aumentar a segurança e a supervisão do setor de ativos virtuais. Se a transição for bem-sucedida, pode haver maior confiança e adoção de criptoativos no mercado regulado; caso contrário, pode gerar custos adicionais para as empresas e limitar a inovação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782943263.521559,
+    "titulo": "Dólar sobe 0,92% e fecha a R$ 5,2103 no primeiro pregão de julho - Canal Rural",
+    "titulo_original": "Dólar sobe 0,92% e fecha a R$ 5,2103 no primeiro pregão de julho - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/07 18:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar no primeiro pregão de julho pode ser influenciada por fatores domésticos e externos, como as sanções americanas mencionadas em outras notícias. Se a percepção de risco em relação ao Brasil persistir, o dólar pode continuar pressionando a moeda local; caso contrário, a melhora no cenário externo ou doméstico pode trazer alívio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782943267.9465728,
+    "titulo": "Dólar sobe 0,9%, cotado R$ 5,21, após sanções americanas contra brasileiros - UOL Economia",
+    "titulo_original": "Dólar sobe 0,9%, cotado R$ 5,21, após sanções americanas contra brasileiros - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/07 17:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "As sanções americanas contra brasileiros com suposto elo com o PCC aumentaram a percepção de risco no mercado, impactando diretamente a cotação do dólar. Se novas sanções forem anunciadas ou se a tensão geopolítica aumentar, o dólar pode continuar sua trajetória de alta; caso contrário, a normalização das relações pode trazer alívio para a moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782943272.1427143,
+    "titulo": "Juros futuros sobem com piora da percepção de risco",
+    "titulo_original": "Juros futuros sobem com piora da percepção de risco",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 18:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta nos juros futuros, impulsionada pela piora na percepção de risco após as sanções americanas, indica que o mercado precifica um ambiente de maior incerteza e potencial inflacionário. Se as sanções se estenderem ou se novas tensões surgirem, os juros podem continuar em trajetória de alta; caso contrário, a normalização do cenário pode levar a uma queda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782943278.2032754,
+    "titulo": "investingLive Américas FX news wrap 1 Jul: Banqueiros centrais preocupam-se com a inflação",
+    "titulo_original": "investingLive Americas FX news wrap 1 Jul:  Central bankers worry about inflation",
+    "fonte": "ForexLive",
+    "publicado": "01/07 17:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A preocupação com a inflação por parte dos banqueiros centrais sugere um cenário de juros mais altos por mais tempo, o que pode continuar pressionando ativos de risco. Se os dados de inflação futuros vierem em desaceleração, isso poderia abrir espaço para uma mudança na postura dos bancos centrais; caso contrário, a pressão por mais aperto monetário deve se manter.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782943278.2046132,
+    "titulo": "Bolsas de NY recuam com pressão do setor de tecnologia",
+    "titulo_original": "Bolsas de NY recuam com pressão do setor de tecnologia",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 17:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas americanas, especialmente no setor de tecnologia, pode indicar uma reavaliação de risco por parte dos investidores, possivelmente influenciada por preocupações com a inflação e juros. Se a pressão sobre o setor de tecnologia persistir, isso pode afetar outros mercados globais; caso contrário, a recuperação de setores específicos pode impulsionar as bolsas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782943278.2059546,
+    "titulo": "Paramount propõe mudanças em acordo com a Warner mirando aprovação da UE",
+    "titulo_original": "Paramount propõe mudanças em acordo com a Warner mirando aprovação da UE",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 17:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A proposta de medidas corretivas pela Paramount visa contornar as objeções regulatórias da UE, indicando um movimento em direção à conclusão do negócio. Se a Comissão Europeia aprovar as mudanças, isso pode sinalizar um ambiente regulatório mais flexível para fusões e aquisições de grande porte na Europa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782943278.2072651,
+    "titulo": "Goldman Sachs mantém recomendação de compra para ações brasileiras, mercado preferido na América Latina - Valor Econômico",
+    "titulo_original": "Goldman Sachs mantém recomendação de compra para ações brasileiras, mercado preferido na América Latina - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "01/07 15:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recomendação positiva do Goldman Sachs para ações brasileiras sugere um otimismo do banco de investimento com o mercado local. Se os fundamentos econômicos do Brasil se mantiverem sólidos e o cenário político se estabilizar, essa recomendação pode atrair mais capital estrangeiro; contudo, eventos inesperados podem reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782943278.2085545,
+    "titulo": "Rumo fecha aditivo para manter operação mínima da Malha Oeste",
+    "titulo_original": "Rumo fecha aditivo para manter operação mínima da Malha Oeste",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 18:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aditivo para a operação mínima da Malha Oeste indica uma fase de transição para a ferrovia, com foco na preservação dos ativos. Se um novo modelo de concessão ou operação for definido em até 180 dias, isso pode trazer clareza para os investimentos futuros; caso contrário, a incerteza sobre o futuro da malha pode persistir.",
+    "is_stocks": true
   }
 ]
