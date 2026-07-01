@@ -506,5 +506,99 @@
     "origem": "externa",
     "leitura_critica": "A aversão ao risco em mercados internacionais é um indicador de sentimento que pode se propagar para o mercado brasileiro. Se a pressão em Nova York se intensificar, é provável que o Ibovespa abra em queda, refletindo o apetite reduzido por ativos de risco no cenário global.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782919193.9111693,
+    "titulo": "Mantendo viés de junho, dólar sobe a R$ 5,20 e Bolsa cai no 1º dia de julho",
+    "titulo_original": "Mantendo viés de junho, dólar sobe a R$ 5,20 e Bolsa cai no 1º dia de julho - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/07 10:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar e a queda da Bolsa no início de julho indicam um sentimento de cautela no mercado brasileiro. Se fatores externos, como a política monetária americana, continuarem a pressionar o câmbio, a Bolsa pode enfrentar mais volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782919197.2133095,
+    "titulo": "Confiança empresarial tem maior alta em 5 meses, com redução dos temores relacionados à guerra, diz FGV",
+    "titulo_original": "Confiança empresarial tem maior alta em 5 meses, com redução dos temores relacionados à guerra, diz FGV",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 11:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A melhora na confiança empresarial, mesmo que pontual, pode sinalizar um otimismo cauteloso no setor produtivo. Se os fatores de incerteza econômica e política forem mitigados, essa confiança pode se traduzir em investimentos e contratações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782919200.4941983,
+    "titulo": "Tabela Selic Julho/2026 - Governo do Estado do Ceará",
+    "titulo_original": "Tabela Selic Julho/2026 - Governo do Estado do Ceará",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/07 10:54",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação da Tabela Selic para Julho/2026 pelo Governo do Estado do Ceará é uma informação de caráter administrativo e de referência. O impacto direto nos mercados dependerá das decisões futuras do Banco Central sobre a taxa básica de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782919203.754714,
+    "titulo": "Ucrânia atinge refinaria de petróleo e fábrica de componentes de mísseis da Rússia",
+    "titulo_original": "Ucrânia atinge refinaria de petróleo e fábrica de componentes de mísseis da Rússia",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 09:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada dos ataques ucranianos em território russo, atingindo infraestruturas estratégicas, pode intensificar as tensões geopolíticas e gerar volatilidade nos mercados globais de energia. Se a Rússia retaliar de forma mais contundente, o risco de interrupção no fornecimento de petróleo pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782919328.1123722,
+    "titulo": "Produção no pré-sal em maio sobe 18,4% na base anual, diz ANP",
+    "titulo_original": "Produção no pré-sal em maio sobe 18,4% na base anual, diz ANP",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 11:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na produção do pré-sal indica um desempenho robusto do setor de energia no Brasil. Se essa tendência de crescimento se mantiver, pode haver um impacto positivo nas exportações e na arrecadação fiscal do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782919328.1135378,
+    "titulo": "Mercados europeus encerram: petróleo continua em baixa, ações de tecnologia recuam no início de julho",
+    "titulo_original": "investingLive European markets wrap: Oil keeps lower, tech shares retreat on July turn",
+    "fonte": "ForexLive",
+    "publicado": "01/07 09:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A fala do membro do BCE sugere que o banco central europeu pode estar se aproximando do fim do ciclo de aperto monetário, o que poderia ser um sinal positivo para os mercados. Se outros bancos centrais seguirem uma linha semelhante, isso pode impulsionar um sentimento de risco global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782919328.1147132,
+    "titulo": "Dividendos no topo, Bitcoin no fundo: veja os investimentos que mais ganharam e perderam no semestre",
+    "titulo_original": "Dividendos no topo, Bitcoin no fundo: veja os investimentos que mais ganharam e perderam no semestre",
+    "fonte": "Money Times",
+    "publicado": "01/07 11:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho superior das ações pagadoras de dividendos e do CDI em relação ao Ibovespa e ao Bitcoin, em um contexto de juros altos, sugere que os investidores buscaram ativos mais defensivos e com retorno previsível. Se os juros começarem a cair, o Ibovespa e ativos de maior risco podem ganhar tração.",
+    "is_stocks": true
   }
 ]
