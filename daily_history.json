@@ -388,5 +388,123 @@
     "origem": "domestica",
     "leitura_critica": "A operação policial em larga escala contra uma facção criminosa em múltiplos estados demonstra um esforço coordenado de combate ao crime organizado. Se a operação for bem-sucedida em desarticular a organização, pode haver um impacto na segurança pública; caso contrário, a capacidade de articulação do grupo pode se manter.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782914421.2742178,
+    "titulo": "Fórum do BCE: Lagarde teve perspectiva perfeita de política monetária para aumentar as taxas.",
+    "titulo_original": "ECB Forum:  Lagarde had perfect monetary policy outlook to raise rates.",
+    "fonte": "ForexLive",
+    "publicado": "01/07 10:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As declarações de Lagarde reforçam a postura do BCE em combater a inflação, o que pode manter os juros elevados na zona do euro. As falas de Warsh sobre IA e o futuro do trabalho sugerem um otimismo cauteloso do Fed, mas a ausência de guidance específico mantém a incerteza sobre os próximos passos da política monetária americana.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782914425.4852307,
+    "titulo": "Tendência de alta de juros no mundo pressiona dólar e bolsa",
+    "titulo_original": "Tendência de alta de juros no mundo pressiona dólar e bolsa - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/07 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A tendência de alta de juros no cenário global é um fator de peso para mercados emergentes como o Brasil. Se essa tendência se confirmar com aumentos concretos em economias desenvolvidas, o dólar tende a se fortalecer e a bolsa brasileira pode sofrer com a saída de capital em busca de retornos mais seguros em outras praças.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782914429.6454284,
+    "titulo": "Petróleo recua com Brent a US$ 72 o barril de olho nas negociações entre EUA e Irã e tráfego em Ormuz",
+    "titulo_original": "Petróleo recua com Brent a US$ 72 o barril de olho nas negociações entre EUA e Irã e tráfego em Ormuz - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "01/07 08:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As flutuações no preço do petróleo são influenciadas por fatores geopolíticos e de oferta. Se as negociações entre EUA e Irã resultarem em uma desescalada de tensões, o preço do petróleo pode continuar a ceder; caso contrário, qualquer interrupção no tráfego em Ormuz poderia gerar volatilidade e alta nos preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782914433.8209386,
+    "titulo": "Trump sobre o Irã: 'Estamos nos dando muito bem, tendo reuniões muito boas'",
+    "titulo_original": "Trump sobre o Irã: 'Estamos nos dando muito bem, tendo reuniões muito boas' - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "01/07 09:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre as relações com o Irã sugere uma possível melhora no cenário diplomático. Se essa melhora se concretizar em ações concretas, isso poderia aliviar tensões geopolíticas e impactar positivamente os preços de commodities, como o petróleo, que foram mencionados em outras notícias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782914505.9282355,
+    "titulo": "Ibovespa recua mais de 1% com alta dos juros futuros e Warsh no radar",
+    "titulo_original": "Ibovespa recua mais de 1% com alta dos juros futuros e Warsh no radar",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 10:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa reflete a cautela global com a política monetária americana. Se as falas de Warsh indicarem um aperto mais agressivo, a pressão sobre os ativos de risco tende a aumentar; caso contrário, um tom mais dovish poderia impulsionar uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782914505.9291248,
+    "titulo": "Bolsas de NY recuam pressionadas por techs; mercado observa Warsh em Sintra",
+    "titulo_original": "Bolsas de NY recuam pressionadas por techs; mercado observa Warsh em Sintra",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 10:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O recuo das bolsas de NY, especialmente no setor de tecnologia, indica uma correção após ganhos recentes. As declarações de Warsh no fórum são cruciais para determinar se essa correção é pontual ou se sinaliza uma mudança na postura do Fed em relação à política monetária, o que pode afetar mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782914505.9302957,
+    "titulo": "Inflação na zona do euro cai mais do que o esperado e vai a 2,8% em junho",
+    "titulo_original": "Inflação na zona do euro cai mais do que o esperado e vai a 2,8% em junho",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 09:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda da inflação na zona do euro abaixo do esperado pode levar o BCE a manter uma postura mais branda em relação aos juros. Se o BCE sinalizar que não há necessidade de novos aumentos, isso pode aliviar a pressão sobre as taxas de juros globais e potencialmente beneficiar ativos de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782914505.9312513,
+    "titulo": "Ibovespa cai 1% com exterior e baixa do petróleo; 5 coisas para saber antes de investir hoje (1º)",
+    "titulo_original": "Ibovespa cai 1% com exterior e baixa do petróleo; 5 coisas para saber antes de investir hoje (1º)",
+    "fonte": "Money Times",
+    "publicado": "01/07 10:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, impulsionada por fatores externos como a baixa em Wall Street e o recuo das commodities, demonstra a sensibilidade do mercado brasileiro ao cenário global. Se a pressão vendedora no exterior persistir e as commodities continuarem em baixa, o índice pode enfrentar mais dificuldades no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782914505.9321203,
+    "titulo": "Abertura | Aversão a risco em NY pode contaminar Ibovespa na abertura",
+    "titulo_original": "Abertura | Aversão a risco em NY pode contaminar Ibovespa na abertura - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "01/07 09:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A aversão ao risco em mercados internacionais é um indicador de sentimento que pode se propagar para o mercado brasileiro. Se a pressão em Nova York se intensificar, é provável que o Ibovespa abra em queda, refletindo o apetite reduzido por ativos de risco no cenário global.",
+    "is_stocks": true
   }
 ]
