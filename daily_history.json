@@ -600,5 +600,107 @@
     "origem": "domestica",
     "leitura_critica": "O desempenho superior das ações pagadoras de dividendos e do CDI em relação ao Ibovespa e ao Bitcoin, em um contexto de juros altos, sugere que os investidores buscaram ativos mais defensivos e com retorno previsível. Se os juros começarem a cair, o Ibovespa e ativos de maior risco podem ganhar tração.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782930717.0569277,
+    "titulo": "Tesouro projeta descumprimento até do piso da banda da meta fiscal entre 2028 e 2030",
+    "titulo_original": "Tesouro projeta descumprimento até do piso da banda da meta fiscal entre 2028 e 2030",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 13:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Tesouro Nacional indica um desafio fiscal significativo para os próximos anos, sugerindo que as metas fiscais podem ser difíceis de alcançar. Se o governo não conseguir reverter essa tendência, pode haver pressão por cortes de gastos mais drásticos ou aumento de impostos no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782930720.0252724,
+    "titulo": "Quase 70% do crédito pessoal não consignado não têm garantias, diz BC",
+    "titulo_original": "Quase 70% do crédito pessoal não consignado não têm garantias, diz BC",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 13:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta proporção de crédito pessoal sem garantias aponta para um risco maior no sistema financeiro. Se houver um aumento na inadimplência nesse segmento, isso pode afetar a estabilidade do setor bancário e a disponibilidade de crédito para a população.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782930723.0668545,
+    "titulo": "China restringe algumas cargas de minério de ferro da Fortescue, dizem fontes",
+    "titulo_original": "China restringe algumas cargas de minério de ferro da Fortescue, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 14:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A restrição chinesa à Fortescue pode indicar uma estratégia de negociação ou de controle de suprimentos. Se essa política se estender a outras mineradoras, pode haver pressão sobre os preços do minério de ferro e impacto nas exportações australianas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782930726.0566273,
+    "titulo": "Banco Mundial cortará gradualmente empréstimos à China até 2031",
+    "titulo_original": "Banco Mundial cortará gradualmente empréstimos à China até 2031",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 13:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão do Banco Mundial de reduzir gradualmente os empréstimos à China reflete a mudança no status econômico do país. Se a China continuar a crescer e a se financiar internamente, isso pode diminuir sua dependência de instituições financeiras internacionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782930790.297435,
+    "titulo": "Suspensão da proibição de poderoso modelo de IA da Anthropic beneficia Amazon e Broadcom",
+    "titulo_original": "Suspensão da proibição de poderoso modelo de IA da Anthropic beneficia Amazon e Broadcom",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 14:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A suspensão da proibição do modelo de IA da Anthropic sugere um avanço na regulamentação de tecnologias de inteligência artificial. Se a empresa conseguir mitigar as vulnerabilidades apontadas, isso pode abrir caminho para a adoção mais ampla de modelos de IA avançados por outras empresas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782930790.298591,
+    "titulo": "Vamos acompanhar a tendência de preços da gasolina, ‘mas não todos os dias’, diz presidente da Petrobras",
+    "titulo_original": "Vamos acompanhar a tendência de preços da gasolina, ‘mas não todos os dias’, diz presidente da Petrobras",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 14:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da presidente da Petrobras sobre o acompanhamento da tendência de preços da gasolina, sem repassar volatilidades diárias, sugere uma política de estabilização de preços. Se o governo continuar a utilizar subvenções, isso pode ajudar a controlar a inflação de combustíveis, mas pode gerar custos fiscais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782930790.2997463,
+    "titulo": "Petrobras reduz preço do querosene de aviação em 14,5% para julho",
+    "titulo_original": "Petrobras reduz preço do querosene de aviação em 14,5% para julho",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 10:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução no preço do querosene de aviação pela Petrobras, em linha com a queda do petróleo, pode impactar os custos das companhias aéreas. Se essa tendência de queda se mantiver, pode haver uma pressão para a redução das tarifas aéreas, beneficiando os consumidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782930790.3008332,
+    "titulo": "Startups de IA no Brasil crescem 149% ao ano, diz AWS",
+    "titulo_original": "Startups de IA no Brasil crescem 149% ao ano, diz AWS",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O expressivo crescimento das startups de IA no Brasil indica um forte potencial de inovação no setor. Se esse ritmo se mantiver, o país pode se consolidar como um polo de desenvolvimento em inteligência artificial, atraindo investimentos e gerando novas oportunidades de negócio.",
+    "is_stocks": true
   }
 ]
