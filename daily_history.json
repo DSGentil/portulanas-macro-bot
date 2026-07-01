@@ -1,83 +1,5 @@
 [
   {
-    "_timestamp": 1782825491.8589907,
-    "titulo": "Inflação da indústria sobe 4,80% em 2026, até maio, maior resultado da série histórica do IBGE",
-    "titulo_original": "Inflação da indústria sobe 4,80% em 2026, até maio, maior resultado da série histórica do IBGE",
-    "fonte": "Valor Economico",
-    "publicado": "30/06 09:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento expressivo da inflação da indústria, atingindo o maior patamar histórico, é um sinal de alerta para a economia brasileira. Se essa tendência de alta persistir, pode pressionar os custos de produção e, consequentemente, os preços ao consumidor, além de influenciar decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782825495.0953166,
-    "titulo": "Dólar hoje tem ligeira alta em dia de disputa pela Ptax - InfoMoney",
-    "titulo_original": "Dólar hoje tem ligeira alta em dia de disputa pela Ptax - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/06 09:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A ligeira alta do dólar em um dia de disputa pela Ptax sugere volatilidade no câmbio. Se a Ptax fechar em um patamar mais alto, isso pode indicar uma tendência de valorização da moeda americana no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782825498.3618484,
-    "titulo": "Governo Trump vai 'tensionar' eleições no Brasil por medo da China, diz especialista que mapeou direita na América Latina - BBC",
-    "titulo_original": "Governo Trump vai 'tensionar' eleições no Brasil por medo da China, diz especialista que mapeou direita na América Latina - BBC",
-    "fonte": "Google News Geopolitica",
-    "publicado": "30/06 05:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração de um especialista sobre a possível interferência do governo Trump nas eleições brasileiras, motivada pelo medo da China, aponta para um cenário geopolítico complexo. Se essa tensão se concretizar, pode haver impacto na estabilidade política e nas relações internacionais do Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782825501.5969758,
-    "titulo": "Suprema Corte americana amplia poder de Trump sobre agências reguladoras - Migalhas",
-    "titulo_original": "Suprema Corte americana amplia poder de Trump sobre agências reguladoras - Migalhas",
-    "fonte": "Google News Geopolitica",
-    "publicado": "30/06 07:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão da Suprema Corte americana de ampliar o poder de Trump sobre agências reguladoras pode levar a mudanças significativas nas políticas e regulamentações nos EUA. Se Trump for eleito, essas mudanças podem ter repercussões globais, afetando o ambiente de negócios internacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782825575.5777953,
-    "titulo": "Ibovespa recua 1% após dados fiscais e incertezas no Oriente Médio; 5 coisas para saber antes de investir hoje (30)",
-    "titulo_original": "Ibovespa recua 1% após dados fiscais e incertezas no Oriente Médio; 5 coisas para saber antes de investir hoje (30)",
-    "fonte": "Money Times",
-    "publicado": "30/06 10:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa reflete a aversão ao risco diante de fatores domésticos (dados fiscais) e externos (Oriente Médio). Se os dados fiscais brasileiros continuarem a deteriorar, isso pode pressionar ainda mais o índice; por outro lado, uma resolução pacífica no Oriente Médio poderia aliviar parte da pressão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782825575.578607,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/06 09:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Acompanhar a cotação do dólar ao vivo é essencial para entender as flutuações diárias da moeda. Se houver movimentos bruscos, isso pode indicar reações a notícias econômicas ou eventos de mercado que merecem atenção.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1782856933.1255717,
     "titulo": "Juros futuros recuam após Caged alimentar aposta em novo corte da Selic",
     "titulo_original": "Juros futuros recuam após Caged alimentar aposta em novo corte da Selic",
@@ -701,6 +623,96 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O expressivo crescimento das startups de IA no Brasil indica um forte potencial de inovação no setor. Se esse ritmo se mantiver, o país pode se consolidar como um polo de desenvolvimento em inteligência artificial, atraindo investimentos e gerando novas oportunidades de negócio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782937854.4559681,
+    "titulo": "Sentença autoriza retomada da correção de depósitos tributários pela SELIC",
+    "titulo_original": "Sentença autoriza retomada da correção de depósitos tributários pela SELIC - Honda, Teixeira, Rocha Advogados",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/07 16:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão judicial de corrigir depósitos tributários pela SELIC pode ter implicações fiscais e de fluxo de caixa para empresas e o governo. Se essa decisão se tornar um precedente, pode gerar um impacto significativo nos valores a serem pagos ou recebidos em disputas tributárias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782937857.460619,
+    "titulo": "Governo deve elevar projeção de inflação em 2026 sob impacto do El Niño, diz secretária",
+    "titulo_original": "Governo deve elevar projeção de inflação em 2026 sob impacto do El Niño, diz secretária",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 14:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão para cima da projeção de inflação em 2026, influenciada pelo El Niño, sinaliza um desafio adicional para o controle de preços. Se os efeitos climáticos se materializarem com força, o Banco Central pode ter que manter uma postura mais cautelosa em relação à política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782937860.5433724,
+    "titulo": "Fraude na Americanas (AMER3) expõe um problema maior: por que ações de varejo viram pó na Bolsa",
+    "titulo_original": "Fraude na Americanas (AMER3) expõe um problema maior: por que ações de varejo viram pó na Bolsa - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "01/07 15:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O caso Americanas levanta preocupações sobre a governança corporativa e a saúde financeira de empresas do setor de varejo. Se outros casos semelhantes vierem à tona, a confiança dos investidores no setor pode ser abalada, impactando negativamente o desempenho das ações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782937863.76755,
+    "titulo": "Inadimplência do consignado privado sobe e chega a 7,9% em maio, diz BC",
+    "titulo_original": "Inadimplência do consignado privado sobe e chega a 7,9% em maio, diz BC",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 12:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da inadimplência no crédito consignado privado pode indicar uma deterioração da saúde financeira de parte da população trabalhadora. Se essa tendência se mantiver, pode pressionar o setor bancário e exigir medidas de acompanhamento por parte do Banco Central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782937929.8415391,
+    "titulo": "Petróleo cai com foco em negociações EUA-Irã; WTI fecha abaixo dos US$ 70",
+    "titulo_original": "Petróleo cai com foco em negociações EUA-Irã; WTI fecha abaixo dos US$ 70",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 16:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nos preços do petróleo, influenciada pelas negociações entre EUA e Irã, sugere que o mercado está precificando uma menor probabilidade de escalada de conflito. Se as conversas resultarem em um acordo duradouro, os preços do petróleo podem continuar a cair; caso contrário, a volatilidade pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782937929.8428133,
+    "titulo": "Ibovespa fecha em leve queda apesar de aumento da aversão local a risco",
+    "titulo_original": "Ibovespa fecha em leve queda apesar de aumento da aversão local a risco",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 17:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A volatilidade do Ibovespa reflete a influência de fatores externos e internos. Se os sinais \"dovish\" do Fed se confirmarem em futuras comunicações, o mercado acionário pode encontrar suporte; caso contrário, a aversão ao risco local pode intensificar as quedas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782937929.8440063,
+    "titulo": "Após Dow Jones bater recorde, Wall Street recua de olho em Warsh e à espera do payroll",
+    "titulo_original": "Após Dow Jones bater recorde, Wall Street recua de olho em Warsh e à espera do payroll",
+    "fonte": "Money Times",
+    "publicado": "01/07 17:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A cautela em Wall Street reflete a incerteza em torno das próximas decisões do Fed e a expectativa por dados de emprego. Se o payroll vier forte, pode reforçar a visão de que o Fed manterá juros altos; se vier fraco, pode abrir espaço para especulações de cortes.",
     "is_stocks": true
   }
 ]
