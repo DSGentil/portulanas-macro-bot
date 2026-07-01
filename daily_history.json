@@ -1,270 +1,5 @@
 [
   {
-    "_timestamp": 1782757884.6470423,
-    "titulo": "Lula propõe reajuste escalonado do MEI para R$ 140 mil em 2028",
-    "titulo_original": "Lula propõe reajuste escalonado do MEI para R$ 140 mil em 2028",
-    "fonte": "Folha Mercado",
-    "publicado": "29/06 14:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de reajuste escalonado do teto do MEI pode impactar a arrecadação tributária e a estrutura de pequenas empresas. Se aprovada, a medida pode incentivar o crescimento de alguns MEIs para a categoria de microempresas, alterando o cenário fiscal para esse segmento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782757887.70889,
-    "titulo": "Mercado mantém aposta de mais um corte na Selic em agosto e vê inflação mais alta em 2027",
-    "titulo_original": "Mercado mantém aposta de mais um corte na Selic em agosto e vê inflação mais alta em 2027 - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/06 09:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da aposta em corte da Selic em agosto sugere que o mercado avalia que as condições inflacionárias permitem essa flexibilização. No entanto, a projeção de inflação mais alta em 2027 pode indicar uma cautela quanto à sustentabilidade dessa trajetória de queda de juros no médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782757890.7532973,
-    "titulo": "Febraban diz que adesão ao Desenrola Adimplentes deve ser limitada",
-    "titulo_original": "Febraban diz que adesão ao Desenrola Adimplentes deve ser limitada",
-    "fonte": "Valor Economico",
-    "publicado": "29/06 14:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Se a adesão for realmente limitada, o impacto na estrutura do mercado de crédito pode ser menor do que o temido pelos bancos. Caso contrário, a percepção de risco pode aumentar, pressionando os spreads bancários e, consequentemente, as taxas de juros para novas operações de crédito livre.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782757893.776942,
-    "titulo": "Safra recorde de soja reduz preço do óleo em 10,2% e alivia despesas, aponta Apas",
-    "titulo_original": "Safra recorde de soja reduz preço do óleo em 10,2% e alivia despesas, aponta Apas - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "29/06 13:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução no preço do óleo de soja, impulsionada pela safra recorde, pode contribuir para um alívio pontual na inflação de alimentos. Se essa tendência se mantiver e se estender a outros produtos, pode reforçar a percepção de desaceleração inflacionária, influenciando decisões futuras de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782757957.682869,
-    "titulo": "Ouro recua e segue pressionado por apostas de Fed mais restritivo",
-    "titulo_original": "Ouro recua e segue pressionado por apostas de Fed mais restritivo",
-    "fonte": "Valor Economico",
-    "publicado": "29/06 14:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A expectativa de um Fed mais restritivo tende a fortalecer o dólar e diminuir o apelo do ouro como ativo de refúgio. Se o Fed mantiver essa postura, o ouro pode continuar sob pressão, especialmente se o apetite ao risco nos mercados acionários se mantiver elevado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782757957.6835144,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta sustentar os 173 mil pontos",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta sustentar os 173 mil pontos - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "29/06 12:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa indica um momento de aversão ao risco no mercado acionário brasileiro. A capacidade do índice de sustentar os 173 mil pontos será um indicador da força da pressão vendedora e da confiança dos investidores no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782757957.6842084,
-    "titulo": "Cosan avalia alternativa para participação na Rumo e contrata BTG Pactual como assessor financeiro",
-    "titulo_original": "Cosan avalia alternativa para participação na Rumo e contrata BTG Pactual como assessor financeiro",
-    "fonte": "Folha Mercado",
-    "publicado": "29/06 12:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Cosan de reavaliar sua participação na Rumo pode indicar movimentos estratégicos no setor de logística. O impacto financeiro e operacional dependerá das alternativas que serão propostas e da negociação com o assessor financeiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782765052.4840798,
-    "titulo": "FGTS pode ser usado como garantia no Consignado CLT; veja o que muda e quem pode contratar",
-    "titulo_original": "FGTS pode ser usado como garantia no Consignado CLT; veja o que muda e quem pode contratar",
-    "fonte": "Folha Mercado",
-    "publicado": "29/06 17:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A medida visa baratear o crédito para trabalhadores com carteira assinada. Se a redução de juros se concretizar e a adesão for alta, isso pode estimular o consumo, mas também aumentar o endividamento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782765056.1924326,
-    "titulo": "Governo investiga sociedades de crédito Valor, Ágil e Crefisa por supostos juros abusivos",
-    "titulo_original": "Governo investiga sociedades de crédito Valor, Ágil e Crefisa por supostos juros abusivos",
-    "fonte": "Folha Mercado",
-    "publicado": "29/06 16:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A investigação sobre juros abusivos pode levar a mudanças regulatórias no setor de crédito. Se as empresas forem multadas ou obrigadas a reduzir suas taxas, isso pode impactar a rentabilidade do setor e o custo do crédito para os consumidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782765059.9372375,
-    "titulo": "Dólar fecha em leve alta em dia de baixa liquidez no mercado local",
-    "titulo_original": "Dólar fecha em leve alta em dia de baixa liquidez no mercado local",
-    "fonte": "Valor Economico",
-    "publicado": "29/06 17:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A baixa liquidez em dias de eventos de grande audiência pode distorcer movimentos de curto prazo. Se a liquidez retornar, a tendência do dólar pode se ajustar aos fundamentos macroeconômicos globais e domésticos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782765063.7759612,
-    "titulo": "Taxas caem após nova pesquisa eleitoral em dia de liquidez afetada por jogo da Copa",
-    "titulo_original": "Taxas caem após nova pesquisa eleitoral em dia de liquidez afetada por jogo da Copa",
-    "fonte": "Money Times",
-    "publicado": "29/06 17:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas de DI sugere uma percepção de menor risco político ou de que o cenário eleitoral está se consolidando. Se a pesquisa refletir uma tendência de estabilidade política, pode haver continuidade na queda dos juros de curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782765072.4017243,
-    "titulo": "Em NY, Dow Jones renova recorde e Nasdaq dispara com impulso de tecnologia",
-    "titulo_original": "Em NY, Dow Jones renova recorde e Nasdaq dispara com impulso de tecnologia",
-    "fonte": "Valor Economico",
-    "publicado": "29/06 17:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A renovação de recordes em índices importantes como o Dow Jones e o forte desempenho do Nasdaq indicam um momento de otimismo no mercado de ações, especialmente no setor de tecnologia. Se essa tendência se mantiver, pode haver um fluxo de capital para ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782765072.4023795,
-    "titulo": "Notícias do mercado das Américas: Um dia ruim para o Japão em todos os aspectos",
-    "titulo_original": "investingLive Americas market news wrap: A bad day for Japan all around",
-    "fonte": "ForexLive",
-    "publicado": "29/06 17:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão da Suprema Corte sobre um membro do Federal Reserve pode gerar especulações sobre a independência da política monetária americana. A queda na reserva estratégica de petróleo pode indicar pressões inflacionárias futuras ou uma demanda robusta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782765072.4031024,
-    "titulo": "Wall Street avança; Nasdaq e S&P 500 saltam impulsionados por tech",
-    "titulo_original": "Wall Street avança; Nasdaq e S&P 500 saltam impulsionados por tech",
-    "fonte": "Money Times",
-    "publicado": "29/06 17:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recuperação do setor de tecnologia sugere um apetite por risco em parte do mercado. A trégua geopolítica, se mantida, pode favorecer a continuidade da alta, mas falas divergentes podem gerar volatilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782765072.4037333,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/06 13:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento em tempo real do dólar é fundamental para quem opera no mercado financeiro, pois sua cotação reflete diversas variáveis econômicas e de sentimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782765072.4043694,
-    "titulo": "Campo de Búzios bate novo recorde e supera a marca de 1 milhão e 200 mil barris/dia",
-    "titulo_original": "Campo de Búzios bate novo recorde e supera a marca de 1 milhão e 200 mil barris/dia - Agência Petrobras de Notícias",
-    "fonte": "Google News Acoes",
-    "publicado": "29/06 11:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Um recorde de produção de petróleo pode impactar a balança comercial e a arrecadação de royalties. Se essa produção se mantiver, pode influenciar os preços globais do petróleo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782770451.0431929,
-    "titulo": "Raízen (RAIZ4) tem prejuízo líquido de R$7,3 bi no 4° tri da safra 2025/26",
-    "titulo_original": "Raízen (RAIZ4) tem prejuízo líquido de R$7,3 bi no 4° tri da safra 2025/26",
-    "fonte": "Money Times",
-    "publicado": "29/06 18:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O resultado financeiro da Raízen, com um prejuízo significativo, pode ser um indicativo de desafios setoriais ou de gestão. Se a empresa for uma grande emissora de dívida, um Ebitda baixo pode aumentar a percepção de risco e impactar o custo de capital, refletindo em juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782770455.2210655,
-    "titulo": "Moedas Globais: dólar cede espaço a rivais; iene bate mínima em 39 anos",
-    "titulo_original": "Moedas Globais: dólar cede espaço a rivais; iene bate mínima em 39 anos - Jornal do Comércio",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/06 17:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A desvalorização do dólar frente a outras moedas e a mínima histórica do iene podem indicar mudanças no apetite a risco global ou em políticas monetárias de outros países. Sem detalhamento sobre as causas, é difícil inferir impactos diretos no mercado brasileiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782770459.3551,
-    "titulo": "Onda de Calor na UE Ameaça Rendimentos de Girassol e Soja",
-    "titulo_original": "Onda de Calor na UE Ameaça Rendimentos de Girassol e Soja - Forbes Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "29/06 17:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O evento climático na Europa pode afetar a oferta global de commodities agrícolas. Se o Brasil for um importador relevante desses produtos, ou se a escassez global impactar os preços de commodities brasileiras, isso poderia ter reflexos indiretos. No entanto, a notícia não fornece detalhes para essa conexão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782770464.1207998,
-    "titulo": "B3 dá novo passo no mercado de previsões com contratos de IPCA e PIB",
-    "titulo_original": "B3 dá novo passo no mercado de previsões com contratos de IPCA e PIB - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "29/06 16:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A introdução de contratos de previsão de IPCA e PIB na B3 é um desenvolvimento significativo para o mercado financeiro brasileiro. Se esses contratos se tornarem amplamente utilizados, podem aumentar a liquidez e a precisão das expectativas sobre inflação e atividade econômica, influenciando decisões de política monetária e fiscal.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1782825491.8589907,
     "titulo": "Inflação da indústria sobe 4,80% em 2026, até maio, maior resultado da série histórica do IBGE",
     "titulo_original": "Inflação da indústria sobe 4,80% em 2026, até maio, maior resultado da série histórica do IBGE",
@@ -561,6 +296,97 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O desempenho recorde do Dow Jones e o forte desempenho semestral indicam um otimismo no mercado acionário americano, especialmente no setor de semicondutores. A notícia menciona que as negociações entre EUA e Irã ficaram em segundo plano, sugerindo que os fatores internos de mercado tiveram maior peso.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782905534.9270937,
+    "titulo": "Dólar fecha a R$ 5,16 no semestre: o que esperar até o fim de 2026? - InfoMoney",
+    "titulo_original": "Dólar fecha a R$ 5,16 no semestre: o que esperar até o fim de 2026? - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/07 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A cotação do dólar a R$ 5,16 no semestre indica um patamar de referência para o câmbio brasileiro. Se os fatores que influenciam a taxa de câmbio, como a política monetária e o cenário fiscal, se mantiverem estáveis, o dólar pode oscilar em torno desse valor; caso contrário, movimentos mais expressivos podem ocorrer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782905538.6356845,
+    "titulo": "Move Brasil aumenta procura por carros, mas aprovação de crédito dificulta vendas nas concessionárias",
+    "titulo_original": "Move Brasil aumenta procura por carros, mas aprovação de crédito dificulta vendas nas concessionárias",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O programa Move Brasil demonstra um potencial de estímulo ao setor automotivo através de juros mais baixos. Se a aprovação de crédito se tornar menos restritiva, o programa pode ter um impacto mais significativo nas vendas; caso contrário, a demanda pode não se converter em volume de negócios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782905542.306873,
+    "titulo": "Indicado de Haddad ganha peso em disputa por diretoria-chave do BC",
+    "titulo_original": "Indicado de Haddad ganha peso em disputa por diretoria-chave do BC",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ascensão de um indicado de Haddad para uma diretoria chave do Banco Central pode sinalizar uma influência maior do Ministério da Fazenda nas decisões de política monetária. Se Picchetti for efetivado, suas visões sobre a economia podem moldar as análises que subsidiam o Copom; caso contrário, a autonomia técnica do BC pode ser reforçada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782905545.9736114,
+    "titulo": "Preço da soja foi o destaque positivo de junho, o boi gordo o negativo - Farmnews",
+    "titulo_original": "Preço da soja foi o destaque positivo de junho, o boi gordo o negativo - Farmnews",
+    "fonte": "Google News Commodities",
+    "publicado": "01/07 06:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A performance divergente entre soja e boi gordo em junho sugere dinâmicas de oferta e demanda específicas para cada commodity. Se a demanda por soja se mantiver aquecida, pode sustentar os preços; se a oferta de boi gordo continuar alta, pode pressionar as cotações para baixo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782905554.3027382,
+    "titulo": "Dow Jones hoje: mercado olha dados de emprego e calibra juros; Fed e petróleo pesam - Estadão",
+    "titulo_original": "Dow Jones hoje: mercado olha dados de emprego e calibra juros; Fed e petróleo pesam - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/07 07:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A atenção do mercado aos dados de emprego e às decisões do Fed sobre juros indica que esses fatores são determinantes para a direção dos índices. Se os dados de emprego vierem fortes, o Fed pode manter uma postura mais restritiva em relação aos juros; se vierem fracos, pode haver espaço para cortes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782905554.3035445,
+    "titulo": "Agenda de empresas: Petrobras mantém preço do diesel após fim da subvenção; Oncoclínicas tem pedido de OPA negado",
+    "titulo_original": "Agenda de empresas: Petrobras mantém preço do diesel após fim da subvenção; Oncoclínicas tem pedido de OPA negado",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 08:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção do preço do diesel pela Petrobras, mesmo com o fim da subvenção, pode indicar uma estratégia de estabilização de custos para a estatal. A decisão da CVM sobre a Oncoclínicas impacta diretamente o valor de mercado da empresa e as expectativas dos minoritários.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782905554.30427,
+    "titulo": "PCC é alvo de mais de 300 mandados em megaoperação em seis Estados",
+    "titulo_original": "PCC é alvo de mais de 300 mandados em megaoperação em seis Estados",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 07:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A operação policial em larga escala contra uma facção criminosa em múltiplos estados demonstra um esforço coordenado de combate ao crime organizado. Se a operação for bem-sucedida em desarticular a organização, pode haver um impacto na segurança pública; caso contrário, a capacidade de articulação do grupo pode se manter.",
     "is_stocks": true
   }
 ]
