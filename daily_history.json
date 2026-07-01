@@ -830,5 +830,75 @@
     "origem": "domestica",
     "leitura_critica": "O aditivo para a operação mínima da Malha Oeste indica uma fase de transição para a ferrovia, com foco na preservação dos ativos. Se um novo modelo de concessão ou operação for definido em até 180 dias, isso pode trazer clareza para os investimentos futuros; caso contrário, a incerteza sobre o futuro da malha pode persistir.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782948671.3568425,
+    "titulo": "Audiência na Câmara expõe divergência sobre natureza jurídica das stablecoins",
+    "titulo_original": "Audiência na Câmara expõe divergência sobre natureza jurídica das stablecoins",
+    "fonte": "Valor Economico",
+    "publicado": "01/07 19:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre o Banco Central e o mercado sobre a classificação das stablecoins pode impactar a regulamentação futura desses ativos. Se o projeto de lei adotar a visão do BC de considerá-las instrumentos monetários tokenizados, isso poderá implicar em regras mais rigorosas para sua emissão e circulação no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782948674.8322194,
+    "titulo": "Câmara aprova ampliação de incentivo a exportadores por guerra no Oriente Médio e inclui agronegócio",
+    "titulo_original": "Câmara aprova ampliação de incentivo a exportadores por guerra no Oriente Médio e inclui agronegócio",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 19:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação da medida provisória que amplia o crédito para exportadores, com um valor de até R$ 15 bilhões, pode impulsionar o setor externo da economia brasileira. Se o Senado mantiver o texto aprovado pela Câmara, o agronegócio e a indústria poderão se beneficiar de melhores condições para exportar, o que pode ter um impacto positivo na balança comercial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782948678.2832284,
+    "titulo": "Subvenção ao diesel soma R$ 2,2 bilhões pagos, mas governo segue em atraso",
+    "titulo_original": "Subvenção ao diesel soma R$ 2,2 bilhões pagos, mas governo segue em atraso",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 19:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O atraso no pagamento integral da subvenção ao diesel, apesar de R$ 2,2 bilhões já terem sido pagos, indica possíveis dificuldades fiscais ou operacionais do governo. Se o governo não regularizar os pagamentos em atraso, isso pode afetar a previsibilidade de custos para o setor de transporte e, consequentemente, a inflação de alguns bens e serviços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782948681.7485323,
+    "titulo": "Taxas dos DIs sobem com avanço firme dos rendimentos dos Treasuries",
+    "titulo_original": "Taxas dos DIs sobem com avanço firme dos rendimentos dos Treasuries",
+    "fonte": "Money Times",
+    "publicado": "01/07 18:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nas taxas dos DIs, em sintonia com os Treasuries, reflete a precificação do mercado doméstico em relação a uma possível alta de juros nos Estados Unidos. Se o Federal Reserve de fato sinalizar ou implementar novas altas, isso pode pressionar ainda mais as taxas de juros no Brasil, impactando o custo do crédito e o apetite por investimentos em renda fixa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782948685.1482646,
+    "titulo": "O céu é o limite para os americanos",
+    "titulo_original": "O céu é o limite para os americanos",
+    "fonte": "Folha Mercado",
+    "publicado": "01/07 20:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As sanções impostas pelos Estados Unidos a brasileiros e empresas suspeitas de lavagem de dinheiro para facções criminais brasileiras podem ter implicações no fluxo de capital e na reputação do país. Se essas sanções forem ampliadas ou se novas medidas forem tomadas, isso poderá gerar um ambiente de maior cautela para investidores estrangeiros no Brasil.",
+    "is_stocks": false
   }
 ]
