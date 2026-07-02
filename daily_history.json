@@ -762,5 +762,119 @@
     "origem": "externa",
     "leitura_critica": "A opinião de estrategistas de grandes instituições financeiras sobre o limite de alta do dólar pode indicar expectativas sobre o comportamento futuro da moeda, o que pode ter implicações para o fluxo de capital e para a inflação importada. Se essa visão se consolidar, pode sinalizar um cenário de menor pressão sobre o câmbio no médio prazo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1782998163.1900523,
+    "titulo": "Com medo de calotes, empresas contratam mais seguro para cobrir inadimplência",
+    "titulo_original": "Com medo de calotes, empresas contratam mais seguro para cobrir inadimplência",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na contratação de seguro de crédito por empresas pode ser um reflexo direto do cenário de juros altos e maior risco de inadimplência. Se a taxa de juros começar a cair, a demanda por esse tipo de seguro pode diminuir, indicando uma melhora na percepção de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782998166.8609207,
+    "titulo": "FGTS no consignado CLT: nova regra pode derrubar juros para 1,99% ao mês",
+    "titulo_original": "FGTS no consignado CLT: nova regra pode derrubar juros para 1,99% ao mês",
+    "fonte": "Money Times",
+    "publicado": "02/07 09:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nova regra para o uso do FGTS em empréstimos consignados pode impactar as taxas de juros oferecidas a esses trabalhadores. Se a medida for amplamente adotada e gerar concorrência entre os bancos, pode haver uma pressão adicional para a queda dos juros em outras modalidades de crédito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782998170.5496686,
+    "titulo": "Lula sanciona lei que estabelece medidas de proteção a trabalhadores em situação análoga à escravidão",
+    "titulo_original": "Lula sanciona lei que estabelece medidas de proteção a trabalhadores em situação análoga à escravidão",
+    "fonte": "Valor Economico",
+    "publicado": "02/07 09:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A sanção da lei com veto presidencial sobre proteção a trabalhadores em condição análoga à escravidão representa uma decisão regulatória com impacto social e trabalhista. A retirada do dispositivo sobre o seguro-desemprego pode agilizar o acesso a benefícios em casos específicos, mas a decisão final sobre o veto pode gerar debates sobre sua constitucionalidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782998174.3485436,
+    "titulo": "Dólar abre em queda, à espera de novos dados do mercado de trabalho americano - G1",
+    "titulo_original": "Dólar abre em queda, à espera de novos dados do mercado de trabalho americano - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/07 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do dólar ante a expectativa por dados de emprego nos EUA sugere que um resultado fraco pode levar a uma percepção de que o Fed pode ser mais dovish. Se os dados vierem abaixo do esperado, o dólar pode continuar a cair; se vierem fortes, a tendência pode se reverter.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782998184.2085958,
+    "titulo": "US initial jobless claims 215K vs 220K estimate.",
+    "titulo_original": "US initial jobless claims 215K vs 220K estimate.",
+    "fonte": "ForexLive",
+    "publicado": "02/07 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de pedidos de seguro-desemprego abaixo do esperado nos EUA pode reforçar a expectativa de que o Fed possa adotar uma postura mais branda em relação aos juros. Se os próximos dados de emprego continuarem a vir fracos, isso pode aumentar a pressão por cortes de juros mais cedo ou mais profundos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782998184.209988,
+    "titulo": "Locked and loaded for non-farm payrolls: Eyes on wages",
+    "titulo_original": "Locked and loaded for non-farm payrolls: Eyes on wages",
+    "fonte": "ForexLive",
+    "publicado": "02/07 09:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A expectativa em torno dos dados de emprego e salários nos EUA é alta, com potencial de influenciar decisões de juros do Fed. Se os salários mostrarem aceleração inflacionária, o Fed pode ter mais justificativas para manter uma política monetária restritiva, impactando os mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782998184.2114658,
+    "titulo": "Bolsa de Seul despenca quase 8% com perdas acentuadas de Samsung e SK Hynix",
+    "titulo_original": "Bolsa de Seul despenca quase 8% com perdas acentuadas de Samsung e SK Hynix",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 09:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte queda na Bolsa de Seul, ligada a empresas do setor de tecnologia (chips), pode indicar um sentimento de aversão ao risco em relação a esse setor específico. Se essa tendência se espalhar para outras bolsas ou setores, pode sinalizar um cenário mais desafiador para o mercado de ações global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782998184.2128344,
+    "titulo": "Justiça rejeita recurso do Google e mantém multa aplicada pela UE de R$ 24,3 bilhões",
+    "titulo_original": "Justiça rejeita recurso do Google e mantém multa aplicada pela UE de R$ 24,3 bilhões",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 08:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A manutenção da multa bilionária aplicada à Google pela União Europeia reforça o cenário de maior rigor regulatório contra grandes empresas de tecnologia. Se outras big techs enfrentarem multas semelhantes, isso pode impactar seus resultados e estratégias de mercado, além de influenciar a concorrência no setor.",
+    "is_stocks": true
   }
 ]
