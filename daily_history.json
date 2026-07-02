@@ -1019,5 +1019,86 @@
     "origem": "ambas",
     "leitura_critica": "A notícia reforça a correlação entre os dados de emprego dos EUA e o desempenho da bolsa brasileira. Se os dados de emprego continuarem a indicar uma desaceleração, isso pode sustentar a alta do Ibovespa e pressionar o dólar para baixo, caso o Banco Central americano reaja com uma política monetária mais branda.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783035058.3685102,
+    "titulo": "Setor de alimentação volta a pressionar menos a inflação em SP",
+    "titulo_original": "Setor de alimentação volta a pressionar menos a inflação em SP",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 19:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração na pressão inflacionária do setor de alimentação é um sinal positivo para o controle da inflação geral. Contudo, o acumulado semestral ainda elevado para o setor exige atenção, pois pode indicar que a normalização completa dos preços ainda levará tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783035062.5678794,
+    "titulo": "Estatais federais lucram R$ 169,4 bilhões em 2025, alta de 38% no ano",
+    "titulo_original": "Estatais federais lucram R$ 169,4 bilhões em 2025, alta de 38% no ano",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 20:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo no lucro das estatais federais pode indicar uma melhora na gestão e eficiência dessas empresas, ou um cenário econômico mais favorável. Se esse desempenho se traduzir em maiores dividendos para o governo, isso pode ter um impacto positivo nas contas públicas e na capacidade de investimento do Estado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783035066.6878073,
+    "titulo": "Messias afirma que governo não vai colocar o Pix em mesa de negociação com outros países",
+    "titulo_original": "Messias afirma que governo não vai colocar o Pix em mesa de negociação com outros países",
+    "fonte": "Valor Economico",
+    "publicado": "02/07 19:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A declaração reforça a posição soberana do Brasil sobre o Pix, o que pode sinalizar uma postura mais firme em futuras discussões sobre regulamentação de sistemas de pagamento internacionais. Caso haja pressão externa contínua, o governo pode precisar detalhar os mecanismos de segurança e interoperabilidade do Pix para mitigar preocupações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783035070.957035,
+    "titulo": "Dólar termina praticamente estável frente ao real, mesmo com ‘payroll’ abaixo do consenso",
+    "titulo_original": "Dólar termina praticamente estável frente ao real, mesmo com ‘payroll’ abaixo do consenso",
+    "fonte": "Valor Economico",
+    "publicado": "02/07 17:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O payroll abaixo do esperado nos EUA sugere menor urgência do Fed em apertar a política monetária, o que tende a enfraquecer o dólar globalmente. No entanto, a estabilidade do real frente a esse cenário indica que fatores domésticos, como a proximidade das eleições e a volatilidade das commodities, estão exercendo maior influência no câmbio brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783035075.8982005,
+    "titulo": "Prio tem produção média de 178 mil barris por dia em junho, alta mensal de 8%",
+    "titulo_original": "Prio tem produção média de 178 mil barris por dia em junho, alta mensal de 8%",
+    "fonte": "Valor Economico",
+    "publicado": "02/07 18:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na produção da Prio pode impactar positivamente os resultados da companhia e, indiretamente, a balança comercial brasileira se o petróleo produzido for exportado. Se a tendência de alta na produção se mantiver nos próximos meses, isso pode reforçar a posição da empresa no mercado de energia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783035075.8999696,
+    "titulo": "Produção da Prio (PRIO3) bate recorde no ano",
+    "titulo_original": "Produção da Prio (PRIO3) bate recorde no ano",
+    "fonte": "Money Times",
+    "publicado": "02/07 19:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde de produção da Prio em junho reforça a capacidade operacional da empresa e pode ter um impacto positivo em seus resultados financeiros. Se a tendência de alta na produção se mantiver, isso pode ser um fator de atratividade para investidores no setor de energia.",
+    "is_stocks": true
   }
 ]
