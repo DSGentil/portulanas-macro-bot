@@ -1,226 +1,5 @@
 [
   {
-    "_timestamp": 1782856933.1255717,
-    "titulo": "Juros futuros recuam após Caged alimentar aposta em novo corte da Selic",
-    "titulo_original": "Juros futuros recuam após Caged alimentar aposta em novo corte da Selic",
-    "fonte": "Valor Economico",
-    "publicado": "30/06 18:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração no mercado de trabalho formal, indicada pelo Caged, sugere que o Banco Central pode ter mais espaço para reduzir a taxa Selic. Se os próximos dados de emprego continuarem a mostrar arrefecimento, a pressão por cortes adicionais na Selic tende a aumentar; caso contrário, se houver uma reversão nesse quadro, o cenário de cortes pode ser reavaliado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782856937.0595832,
-    "titulo": "Real vira ‘dano colateral’ e cai quase 3% em pior mês do ano com alta do dólar",
-    "titulo_original": "Real vira ‘dano colateral’ e cai quase 3% em pior mês do ano com alta do dólar - Bloomberg Línea Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/06 14:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte desvalorização do Real em junho, atribuída à alta do dólar, sugere uma saída de capital estrangeiro do Brasil ou uma menor entrada, impactando negativamente a moeda. Se o dólar continuar sua trajetória de alta globalmente, o Real pode sofrer mais pressões; uma reversão nesse movimento, impulsionada por fatores externos ou domésticos, poderia trazer alívio à moeda brasileira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782856941.0156684,
-    "titulo": "Senado começa a discutir PEC dos agentes de saúde, mas Alcolumbre descarta votar hoje",
-    "titulo_original": "Senado começa a discutir PEC dos agentes de saúde, mas Alcolumbre descarta votar hoje",
-    "fonte": "Valor Economico",
-    "publicado": "30/06 18:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A PEC dos agentes de saúde, com um impacto fiscal estimado em R$ 29,3 bilhões, representa um potencial aumento de despesas públicas que pode pressionar o orçamento. Se a PEC for aprovada em sua forma atual, isso pode aumentar a dívida pública e exigir medidas de compensação fiscal; caso haja negociações para reduzir o impacto, o resultado final precisará ser avaliado quanto à sua sustentabilidade fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782856944.9422572,
-    "titulo": "Dólar fecha com leve queda em dia de disputa pela Ptax; sobe 2,3% no mês",
-    "titulo_original": "Dólar fecha com leve queda em dia de disputa pela Ptax; sobe 2,3% no mês - Notícias Agrícolas",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/06 17:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A leve queda do dólar no dia, contrastando com a alta mensal de 2,3%, indica volatilidade no mercado de câmbio, influenciada pela disputa pela Ptax. Se a tendência de alta do dólar no mês se mantiver, isso pode continuar pressionando a inflação importada e afetar o fluxo de capital; uma reversão dessa tendência, contudo, poderia trazer mais estabilidade à moeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782856950.9489832,
-    "titulo": "Taxas recuam na última sessão do semestre com geração fraca de vagas formais",
-    "titulo_original": "Taxas recuam na última sessão do semestre com geração fraca de vagas formais",
-    "fonte": "Money Times",
-    "publicado": "30/06 18:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A fraqueza na geração de vagas formais reforça a narrativa de desaceleração econômica, o que pode dar ao Banco Central mais margem para considerar cortes na taxa de juros. Se os próximos indicadores de emprego confirmarem essa tendência de arrefecimento, a expectativa de cortes na Selic se fortalecerá; caso contrário, um mercado de trabalho mais resiliente poderia adiar ou moderar esses cortes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782856950.9497607,
-    "titulo": "Em meio à alta do petróleo, Petrobras muda a fórmula para estabelecer preços do gás natural",
-    "titulo_original": "Em meio à alta do petróleo, Petrobras muda a fórmula para estabelecer preços do gás natural - InvestNews",
-    "fonte": "Google News Commodities",
-    "publicado": "30/06 18:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A mudança na precificação do gás natural pela Petrobras, em um cenário de alta do petróleo, pode ter implicações indiretas na inflação de custos para alguns setores industriais. Se essa alteração resultar em um aumento significativo nos preços do gás, isso poderia pressionar a inflação de forma pontual; a magnitude desse impacto dependerá da extensão da mudança e da sensibilidade dos setores consumidores a esses custos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782856950.9506373,
-    "titulo": "Itaú, Visa, BlackRock: mais de 100 empresas se unem para criar stablecoin em dólar",
-    "titulo_original": "Itaú, Visa, BlackRock: mais de 100 empresas se unem para criar stablecoin em dólar",
-    "fonte": "InvestNews",
-    "publicado": "30/06 17:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A criação de uma stablecoin em dólar por um consórcio de grandes empresas financeiras pode indicar uma tendência de maior adoção de ativos digitais no sistema financeiro tradicional. Se a Open USD for bem-sucedida e ganhar tração, isso pode facilitar transações internacionais e potencialmente influenciar fluxos de capital, embora o impacto direto e imediato nos mercados ainda seja incerto.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782856950.9513037,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com bancos, VALE3 e PETR4",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai com bancos, VALE3 e PETR4 - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "30/06 15:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, impulsionada por setores importantes como bancos, Vale e Petrobras, pode refletir um sentimento de aversão ao risco no mercado acionário brasileiro. Se os dados de atividade econômica continuarem a indicar desaceleração, isso pode manter a pressão sobre as ações; uma melhora nas perspectivas de crescimento ou em dados macroeconômicos poderia reverter essa tendência de queda.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782862251.1232154,
-    "titulo": "Citi renova aposta no real e vê espaço para moeda brasileira ganhar força - Estadão",
-    "titulo_original": "Citi renova aposta no real e vê espaço para moeda brasileira ganhar força - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/06 15:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A renovação da aposta do Citi no real brasileiro sugere uma perspectiva positiva para a moeda, o que pode indicar um fluxo de capital estrangeiro favorável ao Brasil. Se essa tendência se confirmar, o real pode se valorizar frente a outras moedas, impactando importações e exportações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782862254.1400845,
-    "titulo": "Governo Lula anuncia redução de R$ 0,35 por litro na subvenção do diesel a partir de 1º de julho",
-    "titulo_original": "Governo Lula anuncia redução de R$ 0,35 por litro na subvenção do diesel a partir de 1º de julho",
-    "fonte": "Folha Mercado",
-    "publicado": "30/06 14:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução da subvenção ao diesel pode gerar um impacto direto na inflação de transportes e, consequentemente, na inflação geral. Se essa medida for acompanhada por outras reduções em subsídios, pode haver um impacto fiscal positivo, mas é crucial monitorar a reação dos preços ao consumidor e a possibilidade de repasses.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782862257.1202233,
-    "titulo": "Empresas têm um mês para entregar declaração obrigatória à Receita. Entenda as regras",
-    "titulo_original": "Empresas têm um mês para entregar declaração obrigatória à Receita. Entenda as regras",
-    "fonte": "InvestNews",
-    "publicado": "30/06 16:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O prazo para entrega da Escrituração Contábil Fiscal (ECF) é uma obrigação regulatória para empresas. O cumprimento deste prazo é essencial para a conformidade fiscal; o não cumprimento pode acarretar penalidades, impactando a gestão financeira das companhias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782862260.189204,
-    "titulo": "Produção de petróleo cresceu 12% em 2025, mostra anuário da ANP - Agência iNFRA",
-    "titulo_original": "Produção de petróleo cresceu 12% em 2025, mostra anuário da ANP - Agência iNFRA",
-    "fonte": "Google News Commodities",
-    "publicado": "30/06 18:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento de 12% na produção de petróleo em 2025 é um dado relevante para a atividade econômica brasileira, especialmente para o setor de energia. Se essa tendência de crescimento se mantiver, pode haver impactos positivos na balança comercial e na arrecadação fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782862265.2946663,
-    "titulo": "Frigoríficos paralisam produção e dão férias coletivas com fim de cota de exportação para China",
-    "titulo_original": "Frigoríficos paralisam produção e dão férias coletivas com fim de cota de exportação para China",
-    "fonte": "Folha Mercado",
-    "publicado": "30/06 20:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O fim da cota de exportação para a China impacta diretamente a produção e o emprego no setor de frigoríficos no Brasil. Se a demanda chinesa não for suprida por outros mercados ou se as empresas não adaptarem suas estratégias, pode haver uma retração significativa na atividade econômica deste setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782862265.2956364,
-    "titulo": "Lucro da Nike supera estimativas, mas ação cai no pós mercado",
-    "titulo_original": "Lucro da Nike supera estimativas, mas ação cai no pós mercado",
-    "fonte": "Valor Economico",
-    "publicado": "30/06 19:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O resultado financeiro da Nike superou as expectativas, mas a queda das ações sugere que o mercado pode estar precificando outros fatores ou que as projeções futuras não foram tão positivas. A recuperação de tarifas de importação mencionada pode ter um impacto pontual nos resultados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782862265.2966745,
-    "titulo": "MP de Minas Gerais pede à Justiça punição da mineradora Sigma por operação noturna",
-    "titulo_original": "MP de Minas Gerais pede à Justiça punição da mineradora Sigma por operação noturna",
-    "fonte": "Valor Economico",
-    "publicado": "30/06 19:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O pedido de punição à Sigma Mineração por descumprimento de decisão judicial em relação a impactos socioambientais pode gerar um precedente para outras empresas do setor. Se a Justiça acatar o pedido, isso pode levar a novas regulamentações ou fiscalizações mais rigorosas em operações de mineração.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782862265.2975802,
-    "titulo": "Wall Street: Dow Jones fecha em recorde e tem melhor desempenho semestral em 5 anos",
-    "titulo_original": "Wall Street: Dow Jones fecha em recorde e tem melhor desempenho semestral em 5 anos",
-    "fonte": "Money Times",
-    "publicado": "30/06 17:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho recorde do Dow Jones e o forte desempenho semestral indicam um otimismo no mercado acionário americano, especialmente no setor de semicondutores. A notícia menciona que as negociações entre EUA e Irã ficaram em segundo plano, sugerindo que os fatores internos de mercado tiveram maior peso.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1782905534.9270937,
     "titulo": "Dólar fecha a R$ 5,16 no semestre: o que esperar até o fim de 2026? - InfoMoney",
     "titulo_original": "Dólar fecha a R$ 5,16 no semestre: o que esperar até o fim de 2026? - InfoMoney",
@@ -900,5 +679,88 @@
     "origem": "externa",
     "leitura_critica": "As sanções impostas pelos Estados Unidos a brasileiros e empresas suspeitas de lavagem de dinheiro para facções criminais brasileiras podem ter implicações no fluxo de capital e na reputação do país. Se essas sanções forem ampliadas ou se novas medidas forem tomadas, isso poderá gerar um ambiente de maior cautela para investidores estrangeiros no Brasil.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1782991988.4372942,
+    "titulo": "Por Que a Selic de 14,25% Não Está Freando o PIB?",
+    "titulo_original": "Por Que a Selic de 14,25% Não Está Freando o PIB? - Forbes Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/07 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda a relação entre a taxa básica de juros (Selic) e o desempenho da atividade econômica (PIB) no Brasil. Se a taxa de juros elevada não está surtindo o efeito esperado de desaceleração do PIB, isso pode levantar questões sobre a eficácia da política monetária atual ou sobre outros fatores que estão impulsionando a economia. A análise da relação entre juros e PIB é fundamental para entender a trajetória futura da economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782991991.481444,
+    "titulo": "Agenda do dia: Relatório de emprego de junho dos EUA é destaque nesta quinta-feira",
+    "titulo_original": "Agenda do dia: Relatório de emprego de junho dos EUA é destaque nesta quinta-feira",
+    "fonte": "Valor Economico",
+    "publicado": "02/07 07:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divulgação do relatório de empregos dos EUA é um evento de alta relevância para os mercados globais, podendo influenciar as expectativas sobre a política monetária do Federal Reserve. Se os dados vierem fortes, podem reforçar a postura mais restritiva do Fed; se vierem fracos, podem aumentar a expectativa de cortes de juros. O leilão de títulos no Brasil também é relevante para a curva de juros doméstica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782991994.58691,
+    "titulo": "O quadro de inflação suíça permanece praticamente inalterado em junho",
+    "titulo_original": "Swiss inflation picture holds pretty much unchanged in June",
+    "fonte": "ForexLive",
+    "publicado": "02/07 03:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia informa que a inflação na Suíça se manteve estável em junho. Se as pressões inflacionárias permanecerem baixas, isso pode indicar que o Banco Nacional Suíço (SNB) manterá sua postura de observação, sem necessidade de ajustes na política monetária. A força do franco suíço continua a ser um fator que alimenta temores de deflação, o que é um risco chave para o SNB.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782991997.6799393,
+    "titulo": "Bitcoin (BTC) salta com ‘prévia’ do payroll favorável a corte de juros; veja o preço das criptomoedas nesta quinta-feira (2)",
+    "titulo_original": "Bitcoin (BTC) salta com ‘prévia’ do payroll favorável a corte de juros; veja o preço das criptomoedas nesta quinta-feira (2)",
+    "fonte": "Money Times",
+    "publicado": "02/07 08:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia associa a alta do Bitcoin a uma prévia do payroll que sugere desaceleração no mercado de trabalho dos EUA. Se o dado oficial do payroll confirmar essa desaceleração, isso pode aumentar a expectativa de cortes de juros, o que historicamente tem sido positivo para ativos de risco como criptomoedas. No entanto, a notícia não estabelece uma conexão direta com a política monetária ou fiscal brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1782992122.6535606,
+    "titulo": "Qual é a distribuição das previsões para o NFP dos EUA?",
+    "titulo_original": "What is the distribution of forecasts for the US NFP?",
+    "fonte": "ForexLive",
+    "publicado": "02/07 06:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A divulgação do relatório NFP é um dos principais indicadores da saúde do mercado de trabalho americano, com potencial para influenciar decisões de política monetária do Federal Reserve. Se os dados vierem significativamente acima do consenso, pode reforçar a visão de que o Fed precisará manter juros mais altos por mais tempo; se vierem abaixo, pode aumentar a expectativa de cortes de juros mais cedo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1782992122.654942,
+    "titulo": "Estrategistas do Morgan Stanley e do Crédit Agricole veem limite para alta do dólar",
+    "titulo_original": "Estrategistas do Morgan Stanley e do Crédit Agricole veem limite para alta do dólar - Bloomberg Línea Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/07 07:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A opinião de estrategistas de grandes instituições financeiras sobre o limite de alta do dólar pode indicar expectativas sobre o comportamento futuro da moeda, o que pode ter implicações para o fluxo de capital e para a inflação importada. Se essa visão se consolidar, pode sinalizar um cenário de menor pressão sobre o câmbio no médio prazo.",
+    "is_stocks": true
   }
 ]
