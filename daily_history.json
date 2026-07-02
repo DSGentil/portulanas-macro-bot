@@ -996,5 +996,92 @@
     "origem": "domestica",
     "leitura_critica": "O desempenho divergente entre o Ibovespa e ações específicas de um setor sugere que fatores setoriais ou microeconômicos estão impulsionando o desempenho de certas empresas. Se o setor em questão continuar a apresentar forte performance, pode atrair mais capital e influenciar o índice no médio prazo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783010782.4717305,
+    "titulo": "Durigan reafirma que subvenção da gasolina começará a ser reduzida semana que vem",
+    "titulo_original": "Durigan reafirma que subvenção da gasolina começará a ser reduzida semana que vem",
+    "fonte": "Valor Economico",
+    "publicado": "02/07 12:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de reduzir subsídios em combustíveis pode ter impacto direto na inflação e nas contas públicas. Se a redução for efetivada conforme anunciado, isso pode sinalizar uma busca por ajuste fiscal, mas o impacto na inflação dependerá da dinâmica dos preços internacionais do petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783010786.4271724,
+    "titulo": "BOE Mann: Afrouxamento das condições financeiras desde junho será importante para seu voto sobre juros",
+    "titulo_original": "BOE Mann: Loosening of financial conditions since June will be important for her rate vote",
+    "fonte": "ForexLive",
+    "publicado": "02/07 13:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A postura de Mann sugere que o BOE pode manter uma política monetária restritiva por mais tempo, caso os dados de inflação e emprego não mostrem uma desaceleração clara. Se os próximos indicadores vierem mais fracos, isso pode abrir espaço para uma revisão dessa postura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783010790.3955276,
+    "titulo": "Desemprego nos EUA cai a 4,2%, mas criação de vagas fica abaixo do esperado",
+    "titulo_original": "Desemprego nos EUA cai a 4,2%, mas criação de vagas fica abaixo do esperado",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 10:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda no desemprego, mesmo com a criação de vagas abaixo do esperado, sugere um mercado de trabalho ainda resiliente. Se a criação de vagas continuar a desacelerar de forma mais acentuada, isso pode pressionar o Federal Reserve a reconsiderar sua política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783010794.4830606,
+    "titulo": "Ouro sobe e passa de US$ 4.060 com investidores à espera do Payroll dos EUA",
+    "titulo_original": "Ouro sobe e passa de US$ 4.060 com investidores à espera do Payroll dos EUA - ADVFN",
+    "fonte": "Google News Commodities",
+    "publicado": "02/07 10:34",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do ouro é atribuída à expectativa em torno do Payroll dos EUA. Se os dados de emprego vierem fracos, isso pode impulsionar ainda mais o ouro como ativo de refúgio; se vierem fortes, pode haver uma pressão de venda sobre o metal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783010803.51074,
+    "titulo": "Bolsas sobem na Europa e Stoxx 600 alcança novo recorde com ‘payroll’ fraco",
+    "titulo_original": "Bolsas sobem na Europa e Stoxx 600 alcança novo recorde com ‘payroll’ fraco",
+    "fonte": "Valor Economico",
+    "publicado": "02/07 13:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O dado fraco de emprego nos EUA impactou positivamente os mercados europeus, sugerindo que bancos centrais podem ter mais espaço para cortes de juros. Se os próximos dados de emprego nos EUA continuarem fracos, isso pode sustentar a tendência de alta nas bolsas globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783010803.5123405,
+    "titulo": "Mercados europeus fecham: Iene vê salto repentino, dólar fica atrás antes do NFP",
+    "titulo_original": "investingLive European markets wrap: Yen sees sudden jump, dollar lags ahead of NFP",
+    "fonte": "ForexLive",
+    "publicado": "02/07 08:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade no câmbio, especialmente com o iene, pode ser um indicativo de movimentos especulativos ou de intervenção. A expectativa em torno do NFP sugere que os dados de emprego dos EUA continuarão a ser um fator chave para a direção dos mercados globais.",
+    "is_stocks": true
   }
 ]
