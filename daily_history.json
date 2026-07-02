@@ -876,5 +876,125 @@
     "origem": "externa",
     "leitura_critica": "A manutenção da multa bilionária aplicada à Google pela União Europeia reforça o cenário de maior rigor regulatório contra grandes empresas de tecnologia. Se outras big techs enfrentarem multas semelhantes, isso pode impactar seus resultados e estratégias de mercado, além de influenciar a concorrência no setor.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783005576.2561283,
+    "titulo": "Minidólar (WDOQ26): dólar ganha força; veja os níveis mais importantes do dia",
+    "titulo_original": "Minidólar (WDOQ26): dólar ganha força; veja os níveis mais importantes do dia - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/07 07:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sobre a força do dólar no minidólar indica um movimento de valorização da moeda americana no mercado brasileiro. Se essa tendência se mantiver, pode pressionar a inflação de importados e afetar a competitividade das exportações brasileiras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783005579.2613254,
+    "titulo": "IBGE prorroga até 9 de julho inscrições de concurso para 8.238 vagas temporárias",
+    "titulo_original": "IBGE prorroga até 9 de julho inscrições de concurso para 8.238 vagas temporárias",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 10:50",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação das inscrições para vagas temporárias do IBGE indica a continuidade da necessidade de dados censitários para planejamento. Se o Censo Agropecuário for realizado com sucesso, poderá fornecer informações valiosas para políticas públicas no setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783005582.3155434,
+    "titulo": "Operadores reduzem apostas em alta de juros pelo Fed após dados de emprego",
+    "titulo_original": "Operadores reduzem apostas em alta de juros pelo Fed após dados de emprego - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/07 10:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A redução das apostas em alta de juros pelo Fed, em decorrência de dados de emprego mais fracos, sinaliza uma possível mudança na postura do banco central americano. Se o Fed de fato sinalizar o fim do ciclo de aperto monetário, isso pode impulsionar os mercados globais e reduzir a pressão sobre ativos de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783005585.3081822,
+    "titulo": "Pedidos de fábrica dos EUA em maio -1,3% vs -1,8% esperado",
+    "titulo_original": "US May factory orders -1.3% vs -1.8% expected",
+    "fonte": "ForexLive",
+    "publicado": "02/07 11:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nos pedidos de fábrica, embora menor que o esperado, ainda indica uma desaceleração na atividade industrial dos EUA. Se os dados de emprego continuarem a surpreender positivamente, o Federal Reserve pode ter mais margem para manter uma postura mais restritiva em relação aos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783005709.744952,
+    "titulo": "Dow Jones hoje ganha força com payroll abaixo da expectativa; dólar e Tesouro tombam",
+    "titulo_original": "Dow Jones hoje ganha força com payroll abaixo da expectativa; dólar e Tesouro tombam - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/07 10:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um payroll abaixo do esperado nos EUA sugere uma desaceleração do mercado de trabalho, o que pode levar o Federal Reserve a considerar uma pausa ou até mesmo um corte nas taxas de juros. Se essa percepção se consolidar, o dólar tende a se desvalorizar globalmente, e os títulos do Tesouro podem se valorizar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783005709.7465017,
+    "titulo": "El Niño pode causar dispersão nos lucros das companhias brasileiras, aponta Santander",
+    "titulo_original": "El Niño pode causar dispersão nos lucros das companhias brasileiras, aponta Santander",
+    "fonte": "Valor Economico",
+    "publicado": "02/07 11:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Se o El Niño se manifestar com intensidade moderada, os impactos setoriais podem ser absorvidos pelo mercado. Caso o evento climático se agrave, a pressão sobre o agronegócio pode se intensificar, afetando a produção e os preços de commodities.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783005709.7480059,
+    "titulo": "El Niño traz vencedores, perdedores e ‘risco de 5 milhões de toneladas’, avalia Cesar Castro Alves, do Itaú BBA",
+    "titulo_original": "El Niño traz vencedores, perdedores e ‘risco de 5 milhões de toneladas’, avalia Cesar Castro Alves, do Itaú BBA",
+    "fonte": "Money Times",
+    "publicado": "02/07 12:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação do Itaú BBA sobre o impacto do El Niño na safra é um alerta para o setor agropecuário. Se a quebra de produção se confirmar, os preços das commodities agrícolas podem sofrer pressão, impactando a inflação e o fluxo de capital para o país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783005709.7495003,
+    "titulo": "Governo fecha acordo de última hora com Rumo e prorroga concessão da Malha Oeste por mais 180 dias",
+    "titulo_original": "Governo fecha acordo de última hora com Rumo e prorroga concessão da Malha Oeste por mais 180 dias",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 08:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação da concessão da Malha Oeste pela Rumo indica uma negociação em andamento para a definição de novos termos contratuais. Se um novo acordo de longo prazo não for firmado, a incerteza regulatória pode persistir, afetando investimentos futuros na infraestrutura ferroviária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783005709.7509794,
+    "titulo": "Ibovespa fecha mês no ‘zero a zero’, mas essas 3 ações do mesmo setor dispararam mais de 10% no período: qual o segredo?",
+    "titulo_original": "Ibovespa fecha mês no ‘zero a zero’, mas essas 3 ações do mesmo setor dispararam mais de 10% no período: qual o segredo?",
+    "fonte": "Money Times",
+    "publicado": "02/07 12:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho divergente entre o Ibovespa e ações específicas de um setor sugere que fatores setoriais ou microeconômicos estão impulsionando o desempenho de certas empresas. Se o setor em questão continuar a apresentar forte performance, pode atrair mais capital e influenciar o índice no médio prazo.",
+    "is_stocks": true
   }
 ]
