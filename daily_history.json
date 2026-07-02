@@ -1,217 +1,5 @@
 [
   {
-    "_timestamp": 1782914421.2742178,
-    "titulo": "Fórum do BCE: Lagarde teve perspectiva perfeita de política monetária para aumentar as taxas.",
-    "titulo_original": "ECB Forum:  Lagarde had perfect monetary policy outlook to raise rates.",
-    "fonte": "ForexLive",
-    "publicado": "01/07 10:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "As declarações de Lagarde reforçam a postura do BCE em combater a inflação, o que pode manter os juros elevados na zona do euro. As falas de Warsh sobre IA e o futuro do trabalho sugerem um otimismo cauteloso do Fed, mas a ausência de guidance específico mantém a incerteza sobre os próximos passos da política monetária americana.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782914425.4852307,
-    "titulo": "Tendência de alta de juros no mundo pressiona dólar e bolsa",
-    "titulo_original": "Tendência de alta de juros no mundo pressiona dólar e bolsa - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/07 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A tendência de alta de juros no cenário global é um fator de peso para mercados emergentes como o Brasil. Se essa tendência se confirmar com aumentos concretos em economias desenvolvidas, o dólar tende a se fortalecer e a bolsa brasileira pode sofrer com a saída de capital em busca de retornos mais seguros em outras praças.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782914429.6454284,
-    "titulo": "Petróleo recua com Brent a US$ 72 o barril de olho nas negociações entre EUA e Irã e tráfego em Ormuz",
-    "titulo_original": "Petróleo recua com Brent a US$ 72 o barril de olho nas negociações entre EUA e Irã e tráfego em Ormuz - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "01/07 08:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "As flutuações no preço do petróleo são influenciadas por fatores geopolíticos e de oferta. Se as negociações entre EUA e Irã resultarem em uma desescalada de tensões, o preço do petróleo pode continuar a ceder; caso contrário, qualquer interrupção no tráfego em Ormuz poderia gerar volatilidade e alta nos preços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782914433.8209386,
-    "titulo": "Trump sobre o Irã: 'Estamos nos dando muito bem, tendo reuniões muito boas'",
-    "titulo_original": "Trump sobre o Irã: 'Estamos nos dando muito bem, tendo reuniões muito boas' - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "01/07 09:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre as relações com o Irã sugere uma possível melhora no cenário diplomático. Se essa melhora se concretizar em ações concretas, isso poderia aliviar tensões geopolíticas e impactar positivamente os preços de commodities, como o petróleo, que foram mencionados em outras notícias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782914505.9282355,
-    "titulo": "Ibovespa recua mais de 1% com alta dos juros futuros e Warsh no radar",
-    "titulo_original": "Ibovespa recua mais de 1% com alta dos juros futuros e Warsh no radar",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 10:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa reflete a cautela global com a política monetária americana. Se as falas de Warsh indicarem um aperto mais agressivo, a pressão sobre os ativos de risco tende a aumentar; caso contrário, um tom mais dovish poderia impulsionar uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782914505.9291248,
-    "titulo": "Bolsas de NY recuam pressionadas por techs; mercado observa Warsh em Sintra",
-    "titulo_original": "Bolsas de NY recuam pressionadas por techs; mercado observa Warsh em Sintra",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 10:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O recuo das bolsas de NY, especialmente no setor de tecnologia, indica uma correção após ganhos recentes. As declarações de Warsh no fórum são cruciais para determinar se essa correção é pontual ou se sinaliza uma mudança na postura do Fed em relação à política monetária, o que pode afetar mercados globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782914505.9302957,
-    "titulo": "Inflação na zona do euro cai mais do que o esperado e vai a 2,8% em junho",
-    "titulo_original": "Inflação na zona do euro cai mais do que o esperado e vai a 2,8% em junho",
-    "fonte": "Folha Mercado",
-    "publicado": "01/07 09:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda da inflação na zona do euro abaixo do esperado pode levar o BCE a manter uma postura mais branda em relação aos juros. Se o BCE sinalizar que não há necessidade de novos aumentos, isso pode aliviar a pressão sobre as taxas de juros globais e potencialmente beneficiar ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782914505.9312513,
-    "titulo": "Ibovespa cai 1% com exterior e baixa do petróleo; 5 coisas para saber antes de investir hoje (1º)",
-    "titulo_original": "Ibovespa cai 1% com exterior e baixa do petróleo; 5 coisas para saber antes de investir hoje (1º)",
-    "fonte": "Money Times",
-    "publicado": "01/07 10:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa, impulsionada por fatores externos como a baixa em Wall Street e o recuo das commodities, demonstra a sensibilidade do mercado brasileiro ao cenário global. Se a pressão vendedora no exterior persistir e as commodities continuarem em baixa, o índice pode enfrentar mais dificuldades no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782914505.9321203,
-    "titulo": "Abertura | Aversão a risco em NY pode contaminar Ibovespa na abertura",
-    "titulo_original": "Abertura | Aversão a risco em NY pode contaminar Ibovespa na abertura - InvesTalk",
-    "fonte": "Google News Acoes",
-    "publicado": "01/07 09:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A aversão ao risco em mercados internacionais é um indicador de sentimento que pode se propagar para o mercado brasileiro. Se a pressão em Nova York se intensificar, é provável que o Ibovespa abra em queda, refletindo o apetite reduzido por ativos de risco no cenário global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782919193.9111693,
-    "titulo": "Mantendo viés de junho, dólar sobe a R$ 5,20 e Bolsa cai no 1º dia de julho",
-    "titulo_original": "Mantendo viés de junho, dólar sobe a R$ 5,20 e Bolsa cai no 1º dia de julho - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/07 10:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar e a queda da Bolsa no início de julho indicam um sentimento de cautela no mercado brasileiro. Se fatores externos, como a política monetária americana, continuarem a pressionar o câmbio, a Bolsa pode enfrentar mais volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782919197.2133095,
-    "titulo": "Confiança empresarial tem maior alta em 5 meses, com redução dos temores relacionados à guerra, diz FGV",
-    "titulo_original": "Confiança empresarial tem maior alta em 5 meses, com redução dos temores relacionados à guerra, diz FGV",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 11:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A melhora na confiança empresarial, mesmo que pontual, pode sinalizar um otimismo cauteloso no setor produtivo. Se os fatores de incerteza econômica e política forem mitigados, essa confiança pode se traduzir em investimentos e contratações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782919200.4941983,
-    "titulo": "Tabela Selic Julho/2026 - Governo do Estado do Ceará",
-    "titulo_original": "Tabela Selic Julho/2026 - Governo do Estado do Ceará",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/07 10:54",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação da Tabela Selic para Julho/2026 pelo Governo do Estado do Ceará é uma informação de caráter administrativo e de referência. O impacto direto nos mercados dependerá das decisões futuras do Banco Central sobre a taxa básica de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782919203.754714,
-    "titulo": "Ucrânia atinge refinaria de petróleo e fábrica de componentes de mísseis da Rússia",
-    "titulo_original": "Ucrânia atinge refinaria de petróleo e fábrica de componentes de mísseis da Rússia",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 09:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada dos ataques ucranianos em território russo, atingindo infraestruturas estratégicas, pode intensificar as tensões geopolíticas e gerar volatilidade nos mercados globais de energia. Se a Rússia retaliar de forma mais contundente, o risco de interrupção no fornecimento de petróleo pode aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782919328.1123722,
-    "titulo": "Produção no pré-sal em maio sobe 18,4% na base anual, diz ANP",
-    "titulo_original": "Produção no pré-sal em maio sobe 18,4% na base anual, diz ANP",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 11:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento na produção do pré-sal indica um desempenho robusto do setor de energia no Brasil. Se essa tendência de crescimento se mantiver, pode haver um impacto positivo nas exportações e na arrecadação fiscal do país.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782919328.1135378,
-    "titulo": "Mercados europeus encerram: petróleo continua em baixa, ações de tecnologia recuam no início de julho",
-    "titulo_original": "investingLive European markets wrap: Oil keeps lower, tech shares retreat on July turn",
-    "fonte": "ForexLive",
-    "publicado": "01/07 09:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A fala do membro do BCE sugere que o banco central europeu pode estar se aproximando do fim do ciclo de aperto monetário, o que poderia ser um sinal positivo para os mercados. Se outros bancos centrais seguirem uma linha semelhante, isso pode impulsionar um sentimento de risco global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782919328.1147132,
-    "titulo": "Dividendos no topo, Bitcoin no fundo: veja os investimentos que mais ganharam e perderam no semestre",
-    "titulo_original": "Dividendos no topo, Bitcoin no fundo: veja os investimentos que mais ganharam e perderam no semestre",
-    "fonte": "Money Times",
-    "publicado": "01/07 11:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho superior das ações pagadoras de dividendos e do CDI em relação ao Ibovespa e ao Bitcoin, em um contexto de juros altos, sugere que os investidores buscaram ativos mais defensivos e com retorno previsível. Se os juros começarem a cair, o Ibovespa e ativos de maior risco podem ganhar tração.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1782930717.0569277,
     "titulo": "Tesouro projeta descumprimento até do piso da banda da meta fiscal entre 2028 e 2030",
     "titulo_original": "Tesouro projeta descumprimento até do piso da banda da meta fiscal entre 2028 e 2030",
@@ -1107,6 +895,129 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A aprovação técnica do Cade para a operação entre Petrobras e Equinor Brasil representa um avanço regulatório para a transação. Se a aprovação for confirmada nas instâncias superiores, isso pode sinalizar um ambiente regulatório favorável para fusões e aquisições no setor de energia, impactando a dinâmica competitiva e os investimentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783029672.5567875,
+    "titulo": "Novo plano do governo prevê R$ 2,8 tri para petróleo e gás, 7 vezes mais do que para energia renovável",
+    "titulo_original": "Novo plano do governo prevê R$ 2,8 tri para petróleo e gás, 7 vezes mais do que para energia renovável",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 18:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alocação de recursos no plano energético pode sinalizar uma estratégia de longo prazo para o setor de petróleo e gás no Brasil. Se as metas de investimento forem cumpridas, isso pode impulsionar a produção e a exploração desses recursos, com potenciais impactos na balança comercial e na arrecadação fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783029676.6834726,
+    "titulo": "Tesouro faz leilão de prefixados, e juros futuros disparam",
+    "titulo_original": "Tesouro faz leilão de prefixados, e juros futuros disparam",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 16:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A realização de leilões de títulos prefixados com taxas elevadas pelo Tesouro Nacional pode indicar uma estratégia para atrair investidores em um cenário de juros altos. Se essa tendência de elevação dos juros futuros se mantiver, isso pode encarecer o crédito e impactar o consumo e o investimento no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783029680.784352,
+    "titulo": "El Niños mais frequentes e um aspecto ausente no debate sobre a meta de inflação",
+    "titulo_original": "El Niños mais frequentes e um aspecto ausente no debate sobre a meta de inflação",
+    "fonte": "Folha Mercado",
+    "publicado": "02/07 17:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A maior frequência e intensidade do El Niño podem ter implicações significativas para a inflação no Brasil, afetando a produção agrícola e os preços de alimentos. Se esses eventos climáticos causarem choques de oferta relevantes, o Banco Central pode precisar ajustar sua política monetária para atingir a meta de inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783029684.8834176,
+    "titulo": "Ministro diz que 'atropelos' atrapalham negociações com EUA sobre tarifas, mas que 'corre contra o tempo' por consenso - G1",
+    "titulo_original": "Ministro diz que 'atropelos' atrapalham negociações com EUA sobre tarifas, mas que 'corre contra o tempo' por consenso - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "02/07 14:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do ministro indica que as negociações comerciais com os EUA enfrentam obstáculos, mas também há um esforço para chegar a um acordo. Se as negociações forem bem-sucedidas, isso pode aliviar tensões comerciais; caso contrário, pode gerar incertezas para os setores afetados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783029750.0789957,
+    "titulo": "notícias do mercado das Américas: dólar desliza com não-farm payrolls abaixo do esperado",
+    "titulo_original": "investingLive Americas market news wrap: US dollar slides as non-farm payrolls miss",
+    "fonte": "ForexLive",
+    "publicado": "02/07 17:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um payroll mais fraco que o esperado nos EUA pode indicar uma desaceleração na economia, o que tende a reduzir a pressão por aumentos de juros pelo Federal Reserve. Se essa tendência se confirmar, o dólar pode continuar a enfraquecer, enquanto ativos de maior risco podem se beneficiar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783029750.0802872,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa reduz ganhos com dados de emprego dos EUA em foco - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa reduz ganhos com dados de emprego dos EUA em foco - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "02/07 13:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A reação do Ibovespa aos dados de emprego dos EUA sugere que o mercado brasileiro está sensível ao cenário macroeconômico americano. Se os dados de emprego continuarem fracos, isso pode impactar positivamente o apetite por risco global, beneficiando bolsas como a brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783029750.087084,
+    "titulo": "Ibovespa avança com ‘payroll’ fraco, mas alta é contida por juros futuros e piora em NY",
+    "titulo_original": "Ibovespa avança com ‘payroll’ fraco, mas alta é contida por juros futuros e piora em NY",
+    "fonte": "Valor Economico",
+    "publicado": "02/07 17:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia demonstra a influência dos dados de emprego dos EUA no mercado brasileiro, mas também a pressão dos juros futuros domésticos. Se a curva de juros continuar a subir, isso pode limitar o potencial de alta da bolsa brasileira, mesmo com um cenário externo favorável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783029750.0882924,
+    "titulo": "Dow Jones hoje fecha em alta com payroll abaixo da expectativa; dólar recua e Treasuries avançam - Estadão",
+    "titulo_original": "Dow Jones hoje fecha em alta com payroll abaixo da expectativa; dólar recua e Treasuries avançam - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/07 17:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A reação dos mercados americanos ao payroll fraco reforça a ideia de que dados de emprego mais fracos podem ser interpretados como positivos para os ativos de risco e negativos para o dólar. Se essa correlação se mantiver, podemos ver um cenário de maior apetite por risco global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783029750.0894814,
+    "titulo": "Ibovespa B3 sobe 0,64%, com dados do mercado de trabalho nos EUA; dólar se mantém a R$ 5,20 - Bora Investir",
+    "titulo_original": "Ibovespa B3 sobe 0,64%, com dados do mercado de trabalho nos EUA; dólar se mantém a R$ 5,20 - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "02/07 18:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia reforça a correlação entre os dados de emprego dos EUA e o desempenho da bolsa brasileira. Se os dados de emprego continuarem a indicar uma desaceleração, isso pode sustentar a alta do Ibovespa e pressionar o dólar para baixo, caso o Banco Central americano reaja com uma política monetária mais branda.",
     "is_stocks": true
   }
 ]
