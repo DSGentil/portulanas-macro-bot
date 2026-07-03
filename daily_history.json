@@ -807,5 +807,116 @@
     "origem": "domestica",
     "leitura_critica": "A análise do Santander sobre o Ibovespa sugere que, apesar de um desempenho positivo no semestre, o índice não atingiu as expectativas mais otimistas. A observação de que a oportunidade não é para todos indica a necessidade de uma análise setorial e de empresas mais aprofundada.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783084579.9899783,
+    "titulo": "Imposto sobre exportação de petróleo pode cair a 5% ou 6% com redução gradual de subvenções",
+    "titulo_original": "Imposto sobre exportação de petróleo pode cair a 5% ou 6% com redução gradual de subvenções",
+    "fonte": "Folha Mercado",
+    "publicado": "03/07 10:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A potencial redução do imposto sobre exportação de petróleo representa uma mudança na política tributária. Se confirmada, essa medida pode impactar a arrecadação fiscal e a competitividade do setor. A magnitude da queda, de 12% para 5% ou 6%, é significativa e merece acompanhamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783084583.0244238,
+    "titulo": "Fortalecimento do dólar e eleições são riscos para o Brasil no segundo semestre, avalia Gávea",
+    "titulo_original": "Fortalecimento do dólar e eleições são riscos para o Brasil no segundo semestre, avalia Gávea - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/07 05:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação da Gávea destaca dois fatores cruciais para o cenário econômico brasileiro. Um dólar mais forte pode indicar fuga de capitais ou menor entrada, impactando o fluxo de capital para o país. As eleições, por sua vez, geram incerteza política que pode afetar a confiança dos investidores e as decisões de política econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783084586.064775,
+    "titulo": "Dólar abre em queda enquanto aguarda dados do mercado de trabalho americano",
+    "titulo_original": "Dólar abre em queda enquanto aguarda dados do mercado de trabalho americano - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/07 09:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do dólar, influenciada pela expectativa de dados do mercado de trabalho americano, sugere uma possível mudança no cenário de juros nos EUA. Se os dados vierem fracos, isso pode reforçar apostas em cortes de juros pelo Fed, o que tende a pressionar o dólar globalmente e, por consequência, o real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783084589.0915565,
+    "titulo": "Flávio Bolsonaro pede a Trump que evite novas tarifas ao Brasil antes da eleição",
+    "titulo_original": "Flávio Bolsonaro pede a Trump que evite novas tarifas ao Brasil antes da eleição - Bloomberg Línea Brasil",
+    "fonte": "Google News Geopolitica",
+    "publicado": "03/07 07:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O pedido para evitar novas tarifas pode ter implicações fiscais e comerciais para o Brasil. Se Trump decidir impor tarifas, isso poderia afetar o fluxo de comércio e a competitividade de produtos brasileiros. A notícia indica uma tentativa de influência política em decisões que podem ter impacto econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783084665.4090264,
+    "titulo": "Juros futuros operam em queda após produção industrial frustrar expectativas",
+    "titulo_original": "Juros futuros operam em queda após produção industrial frustrar expectativas",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 09:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda na produção industrial é um indicador de atividade econômica fraca, o que pode levar o Banco Central a considerar um ciclo de cortes de juros mais cedo ou mais agressivo. Se a produção industrial continuar a decepcionar, isso reforça a expectativa de juros menores no futuro, o que tende a desvalorizar o real.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783084665.410501,
+    "titulo": "Mini índice pode buscar os 177 mil pontos, avalia BTG; mini dólar mira os 5.280 pontos",
+    "titulo_original": "Mini índice pode buscar os 177 mil pontos, avalia BTG; mini dólar mira os 5.280 pontos",
+    "fonte": "Money Times",
+    "publicado": "03/07 10:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise técnica sugere níveis de preço para o mini índice e o mini dólar. A relevância para o WDO reside na menção ao mini dólar, indicando um ponto de atenção para o ativo. No entanto, a análise é baseada em padrões gráficos e não em fundamentos macroeconômicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783084665.4119096,
+    "titulo": "“Higher for longer.” Quanto vale a Vale se o minério ficar onde está?",
+    "titulo_original": "“Higher for longer.” Quanto vale a Vale se o minério ficar onde está? - Brazil Journal",
+    "fonte": "Google News Acoes",
+    "publicado": "03/07 06:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A menção a 'higher for longer' sugere um cenário de juros elevados nos EUA, o que pode impactar o apetite por risco global e, consequentemente, o desempenho de commodities e ações de empresas como a Vale. A sustentação dos preços do minério de ferro é um fator chave para a empresa, mas o cenário de juros altos pode limitar o potencial de valorização.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783084665.4134214,
+    "titulo": "Preços mundiais dos alimentos recuam pelo segundo mês consecutivo, diz FAO",
+    "titulo_original": "Preços mundiais dos alimentos recuam pelo segundo mês consecutivo, diz FAO",
+    "fonte": "Folha Mercado",
+    "publicado": "03/07 09:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nos preços mundiais dos alimentos pode ter um efeito desinflacionário global e, por extensão, impactar a inflação no Brasil. Se essa tendência se mantiver, pode aliviar a pressão sobre o Banco Central para manter juros elevados, embora outros fatores de inflação devam ser considerados.",
+    "is_stocks": true
   }
 ]
