@@ -918,5 +918,115 @@
     "origem": "externa",
     "leitura_critica": "A queda nos preços mundiais dos alimentos pode ter um efeito desinflacionário global e, por extensão, impactar a inflação no Brasil. Se essa tendência se mantiver, pode aliviar a pressão sobre o Banco Central para manter juros elevados, embora outros fatores de inflação devam ser considerados.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783091759.36274,
+    "titulo": "BofA: Projeção de fim do ciclo de cortes da Selic é questionada com queda do petróleo",
+    "titulo_original": "BofA: Projeção de fim do ciclo de cortes da Selic é questionada com queda do petróleo - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/07 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do petróleo, ao reduzir pressões inflacionárias, pode levar o Banco Central a questionar o fim do ciclo de cortes da Selic, abrindo espaço para novas reduções de juros. Se a inflação continuar em trajetória descendente, o BC pode ter mais margem para flexibilizar a política monetária. Por outro lado, se a queda do petróleo for um evento isolado e outros fatores inflacionários persistirem, o fim do ciclo de cortes pode ser antecipado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783091763.522584,
+    "titulo": "Atribuir comportamento das NTN-Bs às dúvidas em torno da política fiscal é debate ‘pobre e superficial’, diz Ceron",
+    "titulo_original": "Atribuir comportamento das NTN-Bs  às dúvidas em torno da política fiscal é  debate ‘pobre e superficial’, diz Ceron",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 11:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Rogério Ceron aborda a relação entre a política fiscal e os juros dos títulos públicos indexados à inflação (NTN-Bs). Ao criticar a visão simplista sobre a influência da política fiscal, ele sugere que outros fatores podem estar em jogo. Se o mercado interpretar que as dúvidas fiscais são menos relevantes do que se pensava, isso pode levar a uma reavaliação das taxas de juros de longo prazo. A postura do Ministério da Fazenda em relação à dívida pública e ao arcabouço fiscal continuará sendo um fator chave.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783091767.8380992,
+    "titulo": "Governo fará concurso com 140 vagas para reforçar BC em meio à crise do Master",
+    "titulo_original": "Governo fará concurso com 140 vagas para reforçar BC em meio à crise do Master",
+    "fonte": "Folha Mercado",
+    "publicado": "03/07 11:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O anúncio de um concurso para o Banco Central pode indicar um reforço na capacidade de fiscalização e regulação do sistema financeiro. Se a crise do Banco Master expuser falhas regulatórias, a contratação de novos analistas pode ser vista como uma medida para mitigar riscos futuros. No entanto, a notícia não detalha o impacto direto nos canais de juros, inflação, atividade/emprego ou fluxo de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783091771.9447644,
+    "titulo": "Indústria de transformação segue como principal ponto de atenção, diz Fiesp",
+    "titulo_original": "Indústria de transformação segue como principal ponto de atenção, diz Fiesp",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 11:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A Fiesp aponta a indústria de transformação como ponto de atenção, projetando estabilidade para o setor em 2026. Se a indústria de transformação não apresentar crescimento robusto, isso pode impactar negativamente o PIB e o emprego. A expectativa de forte expansão na indústria extrativa pode compensar parcialmente, mas a leitura geral para a atividade econômica permanece sob observação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783091779.7566736,
+    "titulo": "FT/Análise: Será que Kevin Warsh conseguirá domar o balanço de US$ 7 trilhões do Fed?",
+    "titulo_original": "FT/Análise: Será que Kevin Warsh conseguirá domar o balanço de US$ 7 trilhões do Fed? - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/07 08:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A gestão do balanço do Fed tem implicações diretas na liquidez do mercado financeiro e, consequentemente, nas expectativas de juros. Se Kevin Warsh tiver sucesso em \"domar\" o balanço, isso pode sinalizar uma política monetária mais restritiva ou expansiva, dependendo da estratégia adotada. A forma como o Fed conduzirá essa política será crucial para as decisões de juros futuras, tanto nos EUA quanto globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783091779.7582684,
+    "titulo": "Estrangeiros retiram R$ 589,8 milhões em ações na B3 em 1º de julho",
+    "titulo_original": "Estrangeiros retiram R$ 589,8 milhões em ações na B3 em 1º de julho",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 11:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de capital estrangeiro da bolsa brasileira é um indicativo de menor apetite por risco em ativos locais. Se essa tendência de saída se intensificar, pode pressionar o mercado acionário e o câmbio. A análise do fluxo de capital estrangeiro é fundamental para entender a dinâmica do mercado, especialmente em cenários de incerteza econômica ou política.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783091779.7598066,
+    "titulo": "O consumidor dos EUA está \"estressado\", mas os gastos com gatos estão \"em chamas\", segundo a General Mills",
+    "titulo_original": "The US consumer is \"stressed\" but spending on cats is \"on fire\" according to General Mills",
+    "fonte": "ForexLive",
+    "publicado": "03/07 10:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração da General Mills sugere um cenário de consumo restrito nos EUA, o que pode impactar a demanda por produtos americanos. Se essa tendência se confirmar e se estender a outros setores, pode haver reflexos indiretos na economia global, mas a notícia em si não detalha conexões com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783091779.7613397,
+    "titulo": "Lagarde diz ser 'possível' antecipar saída do BCE para virar política",
+    "titulo_original": "Lagarde diz ser 'possível' antecipar saída do BCE para virar política",
+    "fonte": "Folha Mercado",
+    "publicado": "03/07 11:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Christine Lagarde sobre a possibilidade de antecipar sua saída do BCE pode gerar incertezas sobre a continuidade da política monetária europeia. Se ela deixar o cargo para se dedicar à política, isso pode levar a mudanças na condução da política monetária, com potenciais impactos nas decisões de juros do BCE. A forma como o mercado interpretará essa possibilidade influenciará as expectativas futuras.",
+    "is_stocks": true
   }
 ]
