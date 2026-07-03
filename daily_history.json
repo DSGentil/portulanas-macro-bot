@@ -1,383 +1,5 @@
 [
   {
-    "_timestamp": 1782930717.0569277,
-    "titulo": "Tesouro projeta descumprimento até do piso da banda da meta fiscal entre 2028 e 2030",
-    "titulo_original": "Tesouro projeta descumprimento até do piso da banda da meta fiscal entre 2028 e 2030",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 13:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Tesouro Nacional indica um desafio fiscal significativo para os próximos anos, sugerindo que as metas fiscais podem ser difíceis de alcançar. Se o governo não conseguir reverter essa tendência, pode haver pressão por cortes de gastos mais drásticos ou aumento de impostos no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782930720.0252724,
-    "titulo": "Quase 70% do crédito pessoal não consignado não têm garantias, diz BC",
-    "titulo_original": "Quase 70% do crédito pessoal não consignado não têm garantias, diz BC",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 13:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta proporção de crédito pessoal sem garantias aponta para um risco maior no sistema financeiro. Se houver um aumento na inadimplência nesse segmento, isso pode afetar a estabilidade do setor bancário e a disponibilidade de crédito para a população.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782930723.0668545,
-    "titulo": "China restringe algumas cargas de minério de ferro da Fortescue, dizem fontes",
-    "titulo_original": "China restringe algumas cargas de minério de ferro da Fortescue, dizem fontes",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 14:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A restrição chinesa à Fortescue pode indicar uma estratégia de negociação ou de controle de suprimentos. Se essa política se estender a outras mineradoras, pode haver pressão sobre os preços do minério de ferro e impacto nas exportações australianas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782930726.0566273,
-    "titulo": "Banco Mundial cortará gradualmente empréstimos à China até 2031",
-    "titulo_original": "Banco Mundial cortará gradualmente empréstimos à China até 2031",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 13:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A decisão do Banco Mundial de reduzir gradualmente os empréstimos à China reflete a mudança no status econômico do país. Se a China continuar a crescer e a se financiar internamente, isso pode diminuir sua dependência de instituições financeiras internacionais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782930790.297435,
-    "titulo": "Suspensão da proibição de poderoso modelo de IA da Anthropic beneficia Amazon e Broadcom",
-    "titulo_original": "Suspensão da proibição de poderoso modelo de IA da Anthropic beneficia Amazon e Broadcom",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 14:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A suspensão da proibição do modelo de IA da Anthropic sugere um avanço na regulamentação de tecnologias de inteligência artificial. Se a empresa conseguir mitigar as vulnerabilidades apontadas, isso pode abrir caminho para a adoção mais ampla de modelos de IA avançados por outras empresas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782930790.298591,
-    "titulo": "Vamos acompanhar a tendência de preços da gasolina, ‘mas não todos os dias’, diz presidente da Petrobras",
-    "titulo_original": "Vamos acompanhar a tendência de preços da gasolina, ‘mas não todos os dias’, diz presidente da Petrobras",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 14:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da presidente da Petrobras sobre o acompanhamento da tendência de preços da gasolina, sem repassar volatilidades diárias, sugere uma política de estabilização de preços. Se o governo continuar a utilizar subvenções, isso pode ajudar a controlar a inflação de combustíveis, mas pode gerar custos fiscais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782930790.2997463,
-    "titulo": "Petrobras reduz preço do querosene de aviação em 14,5% para julho",
-    "titulo_original": "Petrobras reduz preço do querosene de aviação em 14,5% para julho",
-    "fonte": "Folha Mercado",
-    "publicado": "01/07 10:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução no preço do querosene de aviação pela Petrobras, em linha com a queda do petróleo, pode impactar os custos das companhias aéreas. Se essa tendência de queda se mantiver, pode haver uma pressão para a redução das tarifas aéreas, beneficiando os consumidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782930790.3008332,
-    "titulo": "Startups de IA no Brasil crescem 149% ao ano, diz AWS",
-    "titulo_original": "Startups de IA no Brasil crescem 149% ao ano, diz AWS",
-    "fonte": "Folha Mercado",
-    "publicado": "01/07 10:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O expressivo crescimento das startups de IA no Brasil indica um forte potencial de inovação no setor. Se esse ritmo se mantiver, o país pode se consolidar como um polo de desenvolvimento em inteligência artificial, atraindo investimentos e gerando novas oportunidades de negócio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782937854.4559681,
-    "titulo": "Sentença autoriza retomada da correção de depósitos tributários pela SELIC",
-    "titulo_original": "Sentença autoriza retomada da correção de depósitos tributários pela SELIC - Honda, Teixeira, Rocha Advogados",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/07 16:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão judicial de corrigir depósitos tributários pela SELIC pode ter implicações fiscais e de fluxo de caixa para empresas e o governo. Se essa decisão se tornar um precedente, pode gerar um impacto significativo nos valores a serem pagos ou recebidos em disputas tributárias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782937857.460619,
-    "titulo": "Governo deve elevar projeção de inflação em 2026 sob impacto do El Niño, diz secretária",
-    "titulo_original": "Governo deve elevar projeção de inflação em 2026 sob impacto do El Niño, diz secretária",
-    "fonte": "Folha Mercado",
-    "publicado": "01/07 14:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão para cima da projeção de inflação em 2026, influenciada pelo El Niño, sinaliza um desafio adicional para o controle de preços. Se os efeitos climáticos se materializarem com força, o Banco Central pode ter que manter uma postura mais cautelosa em relação à política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782937860.5433724,
-    "titulo": "Fraude na Americanas (AMER3) expõe um problema maior: por que ações de varejo viram pó na Bolsa",
-    "titulo_original": "Fraude na Americanas (AMER3) expõe um problema maior: por que ações de varejo viram pó na Bolsa - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "01/07 15:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O caso Americanas levanta preocupações sobre a governança corporativa e a saúde financeira de empresas do setor de varejo. Se outros casos semelhantes vierem à tona, a confiança dos investidores no setor pode ser abalada, impactando negativamente o desempenho das ações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782937863.76755,
-    "titulo": "Inadimplência do consignado privado sobe e chega a 7,9% em maio, diz BC",
-    "titulo_original": "Inadimplência do consignado privado sobe e chega a 7,9% em maio, diz BC",
-    "fonte": "Folha Mercado",
-    "publicado": "01/07 12:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da inadimplência no crédito consignado privado pode indicar uma deterioração da saúde financeira de parte da população trabalhadora. Se essa tendência se mantiver, pode pressionar o setor bancário e exigir medidas de acompanhamento por parte do Banco Central.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782937929.8415391,
-    "titulo": "Petróleo cai com foco em negociações EUA-Irã; WTI fecha abaixo dos US$ 70",
-    "titulo_original": "Petróleo cai com foco em negociações EUA-Irã; WTI fecha abaixo dos US$ 70",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 16:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda nos preços do petróleo, influenciada pelas negociações entre EUA e Irã, sugere que o mercado está precificando uma menor probabilidade de escalada de conflito. Se as conversas resultarem em um acordo duradouro, os preços do petróleo podem continuar a cair; caso contrário, a volatilidade pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782937929.8428133,
-    "titulo": "Ibovespa fecha em leve queda apesar de aumento da aversão local a risco",
-    "titulo_original": "Ibovespa fecha em leve queda apesar de aumento da aversão local a risco",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 17:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A volatilidade do Ibovespa reflete a influência de fatores externos e internos. Se os sinais \"dovish\" do Fed se confirmarem em futuras comunicações, o mercado acionário pode encontrar suporte; caso contrário, a aversão ao risco local pode intensificar as quedas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782937929.8440063,
-    "titulo": "Após Dow Jones bater recorde, Wall Street recua de olho em Warsh e à espera do payroll",
-    "titulo_original": "Após Dow Jones bater recorde, Wall Street recua de olho em Warsh e à espera do payroll",
-    "fonte": "Money Times",
-    "publicado": "01/07 17:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A cautela em Wall Street reflete a incerteza em torno das próximas decisões do Fed e a expectativa por dados de emprego. Se o payroll vier forte, pode reforçar a visão de que o Fed manterá juros altos; se vier fraco, pode abrir espaço para especulações de cortes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782943259.3022456,
-    "titulo": "BC incorpora prestadoras de serviços de ativos virtuais ao arcabouço prudencial",
-    "titulo_original": "BC incorpora prestadoras de serviços de ativos virtuais ao arcabouço prudencial",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 18:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A inclusão das SPSAVs no arcabouço prudencial visa aumentar a segurança e a supervisão do setor de ativos virtuais. Se a transição for bem-sucedida, pode haver maior confiança e adoção de criptoativos no mercado regulado; caso contrário, pode gerar custos adicionais para as empresas e limitar a inovação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782943263.521559,
-    "titulo": "Dólar sobe 0,92% e fecha a R$ 5,2103 no primeiro pregão de julho - Canal Rural",
-    "titulo_original": "Dólar sobe 0,92% e fecha a R$ 5,2103 no primeiro pregão de julho - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/07 18:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar no primeiro pregão de julho pode ser influenciada por fatores domésticos e externos, como as sanções americanas mencionadas em outras notícias. Se a percepção de risco em relação ao Brasil persistir, o dólar pode continuar pressionando a moeda local; caso contrário, a melhora no cenário externo ou doméstico pode trazer alívio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782943267.9465728,
-    "titulo": "Dólar sobe 0,9%, cotado R$ 5,21, após sanções americanas contra brasileiros - UOL Economia",
-    "titulo_original": "Dólar sobe 0,9%, cotado R$ 5,21, após sanções americanas contra brasileiros - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/07 17:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "As sanções americanas contra brasileiros com suposto elo com o PCC aumentaram a percepção de risco no mercado, impactando diretamente a cotação do dólar. Se novas sanções forem anunciadas ou se a tensão geopolítica aumentar, o dólar pode continuar sua trajetória de alta; caso contrário, a normalização das relações pode trazer alívio para a moeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782943272.1427143,
-    "titulo": "Juros futuros sobem com piora da percepção de risco",
-    "titulo_original": "Juros futuros sobem com piora da percepção de risco",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 18:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta nos juros futuros, impulsionada pela piora na percepção de risco após as sanções americanas, indica que o mercado precifica um ambiente de maior incerteza e potencial inflacionário. Se as sanções se estenderem ou se novas tensões surgirem, os juros podem continuar em trajetória de alta; caso contrário, a normalização do cenário pode levar a uma queda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782943278.2032754,
-    "titulo": "investingLive Américas FX news wrap 1 Jul: Banqueiros centrais preocupam-se com a inflação",
-    "titulo_original": "investingLive Americas FX news wrap 1 Jul:  Central bankers worry about inflation",
-    "fonte": "ForexLive",
-    "publicado": "01/07 17:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A preocupação com a inflação por parte dos banqueiros centrais sugere um cenário de juros mais altos por mais tempo, o que pode continuar pressionando ativos de risco. Se os dados de inflação futuros vierem em desaceleração, isso poderia abrir espaço para uma mudança na postura dos bancos centrais; caso contrário, a pressão por mais aperto monetário deve se manter.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782943278.2046132,
-    "titulo": "Bolsas de NY recuam com pressão do setor de tecnologia",
-    "titulo_original": "Bolsas de NY recuam com pressão do setor de tecnologia",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 17:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda das bolsas americanas, especialmente no setor de tecnologia, pode indicar uma reavaliação de risco por parte dos investidores, possivelmente influenciada por preocupações com a inflação e juros. Se a pressão sobre o setor de tecnologia persistir, isso pode afetar outros mercados globais; caso contrário, a recuperação de setores específicos pode impulsionar as bolsas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782943278.2059546,
-    "titulo": "Paramount propõe mudanças em acordo com a Warner mirando aprovação da UE",
-    "titulo_original": "Paramount propõe mudanças em acordo com a Warner mirando aprovação da UE",
-    "fonte": "Folha Mercado",
-    "publicado": "01/07 17:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A proposta de medidas corretivas pela Paramount visa contornar as objeções regulatórias da UE, indicando um movimento em direção à conclusão do negócio. Se a Comissão Europeia aprovar as mudanças, isso pode sinalizar um ambiente regulatório mais flexível para fusões e aquisições de grande porte na Europa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782943278.2072651,
-    "titulo": "Goldman Sachs mantém recomendação de compra para ações brasileiras, mercado preferido na América Latina - Valor Econômico",
-    "titulo_original": "Goldman Sachs mantém recomendação de compra para ações brasileiras, mercado preferido na América Latina - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "01/07 15:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recomendação positiva do Goldman Sachs para ações brasileiras sugere um otimismo do banco de investimento com o mercado local. Se os fundamentos econômicos do Brasil se mantiverem sólidos e o cenário político se estabilizar, essa recomendação pode atrair mais capital estrangeiro; contudo, eventos inesperados podem reverter essa tendência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782943278.2085545,
-    "titulo": "Rumo fecha aditivo para manter operação mínima da Malha Oeste",
-    "titulo_original": "Rumo fecha aditivo para manter operação mínima da Malha Oeste",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 18:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aditivo para a operação mínima da Malha Oeste indica uma fase de transição para a ferrovia, com foco na preservação dos ativos. Se um novo modelo de concessão ou operação for definido em até 180 dias, isso pode trazer clareza para os investimentos futuros; caso contrário, a incerteza sobre o futuro da malha pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1782948671.3568425,
-    "titulo": "Audiência na Câmara expõe divergência sobre natureza jurídica das stablecoins",
-    "titulo_original": "Audiência na Câmara expõe divergência sobre natureza jurídica das stablecoins",
-    "fonte": "Valor Economico",
-    "publicado": "01/07 19:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divergência entre o Banco Central e o mercado sobre a classificação das stablecoins pode impactar a regulamentação futura desses ativos. Se o projeto de lei adotar a visão do BC de considerá-las instrumentos monetários tokenizados, isso poderá implicar em regras mais rigorosas para sua emissão e circulação no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782948674.8322194,
-    "titulo": "Câmara aprova ampliação de incentivo a exportadores por guerra no Oriente Médio e inclui agronegócio",
-    "titulo_original": "Câmara aprova ampliação de incentivo a exportadores por guerra no Oriente Médio e inclui agronegócio",
-    "fonte": "Folha Mercado",
-    "publicado": "01/07 19:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação da medida provisória que amplia o crédito para exportadores, com um valor de até R$ 15 bilhões, pode impulsionar o setor externo da economia brasileira. Se o Senado mantiver o texto aprovado pela Câmara, o agronegócio e a indústria poderão se beneficiar de melhores condições para exportar, o que pode ter um impacto positivo na balança comercial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782948678.2832284,
-    "titulo": "Subvenção ao diesel soma R$ 2,2 bilhões pagos, mas governo segue em atraso",
-    "titulo_original": "Subvenção ao diesel soma R$ 2,2 bilhões pagos, mas governo segue em atraso",
-    "fonte": "Folha Mercado",
-    "publicado": "01/07 19:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O atraso no pagamento integral da subvenção ao diesel, apesar de R$ 2,2 bilhões já terem sido pagos, indica possíveis dificuldades fiscais ou operacionais do governo. Se o governo não regularizar os pagamentos em atraso, isso pode afetar a previsibilidade de custos para o setor de transporte e, consequentemente, a inflação de alguns bens e serviços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782948681.7485323,
-    "titulo": "Taxas dos DIs sobem com avanço firme dos rendimentos dos Treasuries",
-    "titulo_original": "Taxas dos DIs sobem com avanço firme dos rendimentos dos Treasuries",
-    "fonte": "Money Times",
-    "publicado": "01/07 18:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta nas taxas dos DIs, em sintonia com os Treasuries, reflete a precificação do mercado doméstico em relação a uma possível alta de juros nos Estados Unidos. Se o Federal Reserve de fato sinalizar ou implementar novas altas, isso pode pressionar ainda mais as taxas de juros no Brasil, impactando o custo do crédito e o apetite por investimentos em renda fixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1782948685.1482646,
-    "titulo": "O céu é o limite para os americanos",
-    "titulo_original": "O céu é o limite para os americanos",
-    "fonte": "Folha Mercado",
-    "publicado": "01/07 20:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "As sanções impostas pelos Estados Unidos a brasileiros e empresas suspeitas de lavagem de dinheiro para facções criminais brasileiras podem ter implicações no fluxo de capital e na reputação do país. Se essas sanções forem ampliadas ou se novas medidas forem tomadas, isso poderá gerar um ambiente de maior cautela para investidores estrangeiros no Brasil.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1782991988.4372942,
     "titulo": "Por Que a Selic de 14,25% Não Está Freando o PIB?",
     "titulo_original": "Por Que a Selic de 14,25% Não Está Freando o PIB? - Forbes Brasil",
@@ -1099,6 +721,91 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O recorde de produção da Prio em junho reforça a capacidade operacional da empresa e pode ter um impacto positivo em seus resultados financeiros. Se a tendência de alta na produção se mantiver, isso pode ser um fator de atratividade para investidores no setor de energia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783078294.0338123,
+    "titulo": "Agenda do dia: Produção industrial é destaque",
+    "titulo_original": "Agenda do dia: Produção industrial é destaque",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 07:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Os dados de produção industrial e inflação ao consumidor (IPC-C1) são cruciais para avaliar a saúde da economia brasileira. Se a produção industrial vier acima do esperado, pode reforçar a confiança na atividade econômica; se a inflação mostrar aceleração, pode aumentar a cautela do Banco Central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783078298.1264818,
+    "titulo": "Operação da PF prende secretária alvo de sanção dos EUA por suspeita de ligação com PCC, diz portal",
+    "titulo_original": "Operação da PF prende secretária alvo de sanção dos EUA por suspeita de ligação com PCC , diz portal",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 07:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A operação da PF e as sanções dos EUA contra indivíduos ligados ao PCC e a empresas podem ter implicações para o fluxo de capital e a reputação do Brasil em termos de combate à lavagem de dinheiro. Se as sanções se estenderem a mais empresas, isso pode afetar o ambiente de negócios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783078302.2197247,
+    "titulo": "Aumentos salariais no Japão confirmados em mais de 5% pelo terceiro ano consecutivo",
+    "titulo_original": "Japan wage hikes confirmed to have topped 5% for a third year running",
+    "fonte": "ForexLive",
+    "publicado": "03/07 06:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O contínuo aumento salarial no Japão acima de 5% pelo terceiro ano consecutivo pode pressionar a inflação e justificar uma postura mais hawkish do Banco do Japão. Se o BOJ iniciar um ciclo de alta de juros, isso pode impactar o fluxo de capital global e a força do iene.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783078306.3140936,
+    "titulo": "PMI de serviços final do Reino Unido em junho 48,8 vs 48,7 preliminar",
+    "titulo_original": "UK June final services PMI 48.8 vs 48.7 prelim",
+    "fonte": "ForexLive",
+    "publicado": "03/07 05:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O PMI de serviços do Reino Unido em retração indica uma desaceleração da atividade econômica, o que pode levar o Banco da Inglaterra a considerar medidas de estímulo. Se a inflação de custos continuar a ceder, isso pode abrir espaço para cortes de juros no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783078336.4554045,
+    "titulo": "Agenda de empresas: Embraer entrega 65 aeronaves no 2º trimestre; Prio e Brava divulgam produção",
+    "titulo_original": "Agenda de empresas: Embraer entrega 65 aeronaves no 2º trimestre; Prio e Brava divulgam produção",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 08:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados operacionais da Embraer, Prio e Brava Energia indicam um desempenho positivo em seus respectivos setores, o que pode ser um indicativo de atividade econômica. Se esses resultados se mantiverem consistentes, podem contribuir para uma visão mais otimista sobre o PIB no futuro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783078336.4566703,
+    "titulo": "Ibovespa: Estrategistas do Santander veem oportunidade em Bolsa, mas ela não é para todos; entenda",
+    "titulo_original": "Ibovespa: Estrategistas do Santander veem oportunidade em Bolsa, mas ela não é para todos; entenda",
+    "fonte": "Money Times",
+    "publicado": "03/07 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise do Santander sobre o Ibovespa sugere que, apesar de um desempenho positivo no semestre, o índice não atingiu as expectativas mais otimistas. A observação de que a oportunidade não é para todos indica a necessidade de uma análise setorial e de empresas mais aprofundada.",
     "is_stocks": true
   }
 ]
