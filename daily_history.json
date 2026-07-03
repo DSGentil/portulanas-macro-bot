@@ -1028,5 +1028,117 @@
     "origem": "externa",
     "leitura_critica": "A declaração de Christine Lagarde sobre a possibilidade de antecipar sua saída do BCE pode gerar incertezas sobre a continuidade da política monetária europeia. Se ela deixar o cargo para se dedicar à política, isso pode levar a mudanças na condução da política monetária, com potenciais impactos nas decisões de juros do BCE. A forma como o mercado interpretará essa possibilidade influenciará as expectativas futuras.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783098188.3506765,
+    "titulo": "Desaceleração da produção industrial em maio pode ser pontual, avalia FGV Ibre",
+    "titulo_original": "Desaceleração da produção industrial em maio pode ser pontual, avalia FGV Ibre",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 13:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão da FGV Ibre de que a desaceleração da produção industrial pode ser pontual sugere que o cenário econômico pode não estar se deteriorando de forma generalizada. Se os setores extrativista e de derivados de petróleo se recuperarem nos próximos meses, a produção industrial geral pode voltar a apresentar crescimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783098191.389404,
+    "titulo": "Petróleo fica abaixo de US$ 70 e atinge patamar pré-guerra; tráfego em Hormuz aumenta",
+    "titulo_original": "Petróleo fica abaixo de US$ 70 e atinge patamar pré-guerra; tráfego em Hormuz aumenta",
+    "fonte": "Folha Mercado",
+    "publicado": "03/07 13:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do preço do petróleo para níveis pré-guerra, impulsionada por negociações de paz no Oriente Médio, pode sinalizar um alívio nas tensões geopolíticas que afetam o mercado de energia. Se as negociações de paz forem bem-sucedidas e um acordo definitivo for alcançado, os preços do petróleo podem se estabilizar em patamares mais baixos, impactando a inflação global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783098194.433734,
+    "titulo": "Crise de combustível na Rússia provoca corrida por carros elétricos da China",
+    "titulo_original": "Crise de combustível na Rússia provoca corrida por carros elétricos da China",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 13:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada da crise de combustível na Rússia pode impulsionar a demanda por veículos elétricos chineses, alterando o cenário automotivo local. Se a instabilidade no fornecimento de combustíveis fósseis persistir, a transição para veículos elétricos pode se acelerar mais do que o previsto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783098197.4553545,
+    "titulo": "Abertura | Feriado nos EUA deve enxugar liquidez da Bolsa; dólar abre em baixa",
+    "titulo_original": "Abertura | Feriado nos EUA deve enxugar liquidez da Bolsa; dólar abre em baixa - InvesTalk",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/07 09:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O feriado nos EUA, ao reduzir a liquidez, pode aumentar a volatilidade nos mercados. Se a baixa liquidez persistir, movimentos bruscos no dólar e na bolsa podem ocorrer, especialmente em mercados emergentes que dependem de fluxos externos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783098202.567169,
+    "titulo": "Ibovespa sobe e dólar recua após produção industrial fraca em sessão de liquidez reduzida",
+    "titulo_original": "Ibovespa sobe e dólar recua após produção industrial fraca em sessão de liquidez reduzida",
+    "fonte": "Valor Economico",
+    "publicado": "03/07 13:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A produção industrial fraca pode ter levado a uma expectativa de juros mais baixos, impulsionando o Ibovespa e derrubando o dólar. Se a fraqueza na produção industrial se confirmar em dados futuros, isso pode reforçar a pressão por cortes na taxa de juros, mas também sinalizar um cenário de desaceleração econômica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783098202.5689466,
+    "titulo": "Petróleo perde força com possível trégua no Oriente Médio; o que muda para a Petrobras (PETR4)?",
+    "titulo_original": "Petróleo perde força com possível trégua no Oriente Médio; o que muda para a Petrobras (PETR4)?",
+    "fonte": "Money Times",
+    "publicado": "03/07 14:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A possível trégua no Oriente Médio e a consequente queda no preço do petróleo podem afetar os resultados da Petrobras. Se o preço do barril se mantiver em patamares mais baixos, a lucratividade da empresa pode ser impactada, influenciando o desempenho de suas ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783098202.5705922,
+    "titulo": "S&P 500 nas máximas? Ainda há espaço para alta, dizem Avenue e Franklin Templeton",
+    "titulo_original": "S&P 500 nas máximas? Ainda há espaço para alta, dizem Avenue e Franklin Templeton",
+    "fonte": "Money Times",
+    "publicado": "03/07 12:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A perspectiva otimista sobre o S&P 500, mesmo em patamares recordes, sugere confiança na continuidade do ciclo de alta das ações americanas. Se os lucros corporativos e a economia dos EUA continuarem a apresentar resultados positivos, o mercado de ações pode se beneficiar, mas a concentração em setores como IA pode gerar riscos de bolha.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783098202.5722709,
+    "titulo": "Ibovespa opera em alta e dólar cai em dia de feriado nos Estados Unidos",
+    "titulo_original": "Ibovespa opera em alta e dólar cai em dia de feriado nos Estados Unidos - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/07 11:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do Ibovespa e a queda do dólar em um dia de feriado nos EUA, com baixa liquidez, podem ser movimentos pontuais. Se a ausência de referência externa persistir, a volatilidade pode aumentar, com movimentos mais acentuados no mercado local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783098202.573952,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe aos 174 mil, sem referência dos EUA",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe aos 174 mil, sem referência dos EUA - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "03/07 13:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do Ibovespa na ausência de referência dos EUA pode indicar força interna do mercado brasileiro ou movimentos especulativos em um dia de baixa liquidez. Se os mercados americanos reabrirem com viés de queda, essa alta local pode ser revertida rapidamente.",
+    "is_stocks": true
   }
 ]
