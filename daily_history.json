@@ -282,5 +282,125 @@
     "origem": "domestica",
     "leitura_critica": "A revisão do UBS BB para a RD Saúde indica que o cenário de juros altos pode afetar a demanda por produtos de maior valor agregado. Se as taxas de juros se mantiverem elevadas, a empresa pode precisar ajustar suas estratégias de vendas e marketing para mitigar o impacto.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783369871.1851957,
+    "titulo": "Dólar recua a R$ 5,13 com expectativa de Fed menos agressivo",
+    "titulo_original": "Dólar recua a R$ 5,13 com expectativa de Fed menos agressivo",
+    "fonte": "Money Times",
+    "publicado": "06/07 17:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar a R$ 5,13, associada à expectativa de um Fed menos agressivo, sugere uma melhora no apetite por risco em mercados emergentes. Se o Fed realmente sinalizar uma postura mais branda, isso pode sustentar a valorização do real e abrir espaço para novas quedas da moeda americana.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783369874.8004053,
+    "titulo": "Taxas de DIs caem em sessão de dólar novamente abaixo dos R$5,15",
+    "titulo_original": "Taxas de DIs caem em sessão de dólar novamente abaixo dos R$5,15 - Notícias Agrícolas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/07 16:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas taxas de DIs, acompanhada pela desvalorização do dólar, indica uma percepção de menor risco e possivelmente expectativas de juros mais baixos no futuro. Se essa tendência de queda nas taxas de juros se confirmar, pode impulsionar o mercado de crédito e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783369878.2763531,
+    "titulo": "Imposto de exportação sobre petróleo é 'redundante, desnecessário e injustificado', diz IBP",
+    "titulo_original": "Imposto de exportação sobre petróleo é 'redundante, desnecessário e injustificado', diz IBP",
+    "fonte": "Valor Economico",
+    "publicado": "06/07 17:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A posição do IBP contra o imposto de exportação de petróleo sinaliza preocupação com a segurança jurídica e a competitividade do setor. Se o governo mantiver a medida, isso pode desestimular investimentos de longo prazo e afetar a pauta exportadora brasileira, gerando um cenário de maior incerteza para o setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783369881.7283814,
+    "titulo": "Mercado começa ver abertura para uma Selic abaixo de 14%",
+    "titulo_original": "Mercado começa ver abertura para uma Selic abaixo de 14% - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/07 13:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de uma Selic abaixo de 14% indica uma mudança na percepção do mercado sobre a trajetória futura da política monetária. Se essa expectativa se concretizar com cortes de juros, isso pode estimular o crédito e o investimento, além de influenciar a precificação de ativos de renda fixa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783369946.5481899,
+    "titulo": "Wall Street fecha em alta com ações de tecnologia; Dow Jones renova recordes históricos",
+    "titulo_original": "Wall Street fecha em alta com ações de tecnologia; Dow Jones renova recordes históricos",
+    "fonte": "Money Times",
+    "publicado": "06/07 17:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta de Wall Street, especialmente com o setor de tecnologia liderando e o Dow Jones renovando recordes, sugere um otimismo renovado no mercado americano. Se essa tendência se mantiver, pode indicar um apetite a risco crescente e um fluxo de capital positivo para ativos de maior volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783369946.5489507,
+    "titulo": "Calendário econômico e de eventos na Ásia Terça-feira, 7 de julho de 2026 - apenas dados do Japão",
+    "titulo_original": "Economic and event calendar in Asia Tuesday, July 7, 2026 - Japan data only",
+    "fonte": "ForexLive",
+    "publicado": "06/07 17:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A persistência na queda dos gastos das famílias japonesas, mesmo com dados de salários sólidos, sugere uma cautela contínua no consumo. Se os custos de vida permanecerem elevados, a recuperação do consumo doméstico pode ser mais lenta do que o esperado, impactando a atividade econômica geral.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783369946.5496535,
+    "titulo": "Microsoft demitirá 4.800 funcionários em reestruturação da unidade Xbox",
+    "titulo_original": "Microsoft demitirá 4.800 funcionários em reestruturação da unidade Xbox",
+    "fonte": "Folha Mercado",
+    "publicado": "06/07 17:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A reestruturação da Microsoft com demissões em massa pode indicar uma mudança estratégica ou uma resposta a pressões de mercado. Se os cortes forem focados em áreas de menor crescimento, isso pode liberar recursos para investimentos em novas tecnologias; caso contrário, pode sinalizar um cenário de desaceleração para a empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783369946.5505052,
+    "titulo": "Renúncia no conselho da Vale (VALE3): como a notícia impacta nas ações?",
+    "titulo_original": "Renúncia no conselho da Vale (VALE3): como a notícia impacta nas ações? - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "06/07 15:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A renúncia de um membro do conselho da Vale pode gerar volatilidade no curto prazo, especialmente se houver preocupações sobre a governança corporativa ou a continuidade de estratégias. Se a renúncia for motivada por divergências significativas, isso pode indicar instabilidade interna; caso contrário, pode ser um evento isolado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783369946.5512185,
+    "titulo": "Eliminações podem frustrar previsões de venda de cerveja, e Ambev amarga perdas na Bolsa",
+    "titulo_original": "Eliminações podem frustrar previsões de venda de cerveja, e Ambev amarga perdas na Bolsa",
+    "fonte": "Folha Mercado",
+    "publicado": "06/07 16:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "As eliminações precoces de seleções populares na Copa do Mundo podem impactar negativamente as vendas de cerveja, afetando empresas como a Ambev. Se o desempenho da empresa na bolsa refletir essa queda nas expectativas de vendas, isso pode sinalizar um cenário de consumo mais contido do que o projetado.",
+    "is_stocks": true
   }
 ]
