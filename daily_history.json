@@ -72,5 +72,19 @@
     "origem": "domestica",
     "leitura_critica": "A queda do dólar e a alta do Ibovespa sugerem um cenário de maior apetite ao risco no mercado brasileiro. Se essa tendência se mantiver, pode haver um fluxo de capital mais positivo para a bolsa de valores e uma valorização de ativos locais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783344269.6629763,
+    "titulo": "Vendas no varejo da zona euro aumentam em maio",
+    "titulo_original": "Eurozone retail sales see a modest bounce back in May",
+    "fonte": "ForexLive",
+    "publicado": "06/07 06:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Se as vendas no varejo continuarem a crescer, isso pode indicar que a inflação não está afetando a demanda de consumo. No entanto, se as vendas começarem a diminuir, isso pode ser um sinal de que a inflação está começando a afetar a economia.",
+    "is_stocks": false
   }
 ]
