@@ -86,5 +86,103 @@
     "origem": "externa",
     "leitura_critica": "Se as vendas no varejo continuarem a crescer, isso pode indicar que a inflação não está afetando a demanda de consumo. No entanto, se as vendas começarem a diminuir, isso pode ser um sinal de que a inflação está começando a afetar a economia.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1783350956.1361723,
+    "titulo": "Análise: Estabilidade das expectativas dá alívio ao BC, apesar de alta do pessimismo",
+    "titulo_original": "Análise: Estabilidade das expectativas dá alívio ao BC, apesar de alta do pessimismo",
+    "fonte": "Valor Economico",
+    "publicado": "06/07 11:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade nas expectativas de inflação de longo prazo pode dar margem de manobra ao Banco Central, mesmo diante de um cenário de pessimismo crescente. Se as expectativas de inflação de curto prazo também se estabilizarem, isso reforçaria a confiança na política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783350959.2470305,
+    "titulo": "Boletim Focus: analistas cortam projeção de inflação de 2026 para 5,30%",
+    "titulo_original": "Boletim Focus: analistas cortam projeção de inflação de 2026 para 5,30% - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/07 08:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O corte na projeção de inflação para 2026, conforme o Boletim Focus, sugere uma expectativa de desaceleração inflacionária no médio prazo. Se essa tendência se confirmar, pode influenciar as decisões futuras de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783350962.2853146,
+    "titulo": "Emprega+ amplia acesso ao mercado de trabalho com ações nos bairros e supera 4,3 mil entrevistas em um ano e meio",
+    "titulo_original": "Emprega+ amplia acesso ao mercado de trabalho com ações nos bairros e supera 4,3 mil entrevistas em um ano e meio - Prefeitura de Jundiaí",
+    "fonte": "Google News Acoes",
+    "publicado": "06/07 11:45",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Iniciativas locais de empregabilidade demonstram esforços para facilitar a inserção de trabalhadores no mercado. O impacto macroeconômico dessas ações é limitado, mas contribui para o cenário de emprego em nível municipal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783350965.3408165,
+    "titulo": "Pauta de agosto no STF tem uberização, eleição no RJ e Moratória da Soja",
+    "titulo_original": "Pauta de agosto no STF tem uberização, eleição no RJ e Moratória da Soja - JOTA Info",
+    "fonte": "Google News Commodities",
+    "publicado": "06/07 08:56",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A inclusão de temas como uberização e moratória da soja na pauta do STF indica potenciais decisões com impacto regulatório e econômico. O resultado desses julgamentos poderá definir novas regras para setores específicos da economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783350975.4214804,
+    "titulo": "Dow Jones hoje: PMI nos EUA tem resultado dentro das expectativas do mercado; dólar avança",
+    "titulo_original": "Dow Jones hoje: PMI nos EUA tem resultado dentro das expectativas do mercado; dólar avança - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/07 11:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O PMI dos EUA em linha com as expectativas sugere uma atividade econômica estável, o que pode sustentar a valorização do dólar. A ausência de surpresas no dado pode limitar movimentos bruscos no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783350975.4219651,
+    "titulo": "Estrangeiros aportam R$ 568 milhões na B3 em 2 de julho",
+    "titulo_original": "Estrangeiros aportam R$ 568 milhões na B3 em 2 de julho",
+    "fonte": "Valor Economico",
+    "publicado": "06/07 11:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada líquida de capital estrangeiro na B3 em 2 de julho, apesar do déficit mensal, indica um fluxo positivo no acumulado anual. A continuidade dessa tendência pode sustentar o mercado acionário brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783350975.4225328,
+    "titulo": "European markets wrap: Dollar firms, US stocks eye bounce to start the week",
+    "titulo_original": "investingLive European markets wrap: Dollar firms, US stocks eye bounce to start the week",
+    "fonte": "ForexLive",
+    "publicado": "06/07 08:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A firmeza do dólar e a expectativa de recuperação nas bolsas americanas, com foco nos dados de inflação, sugerem um cenário de cautela nos mercados globais. Dados de inflação mais altos que o esperado podem pressionar o dólar e as bolsas.",
+    "is_stocks": true
   }
 ]
