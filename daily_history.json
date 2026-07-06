@@ -402,5 +402,129 @@
     "origem": "domestica",
     "leitura_critica": "As eliminações precoces de seleções populares na Copa do Mundo podem impactar negativamente as vendas de cerveja, afetando empresas como a Ambev. Se o desempenho da empresa na bolsa refletir essa queda nas expectativas de vendas, isso pode sinalizar um cenário de consumo mais contido do que o projetado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783375306.500529,
+    "titulo": "BC estuda limitar acesso ao Pix a instituições mais vulneráveis a ataques cibernéticos",
+    "titulo_original": "BC estuda limitar acesso ao Pix a instituições mais vulneráveis a ataques cibernéticos",
+    "fonte": "Folha Mercado",
+    "publicado": "06/07 18:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de limitação de acesso ao Pix visa reforçar a segurança do sistema financeiro. Se implementada, pode aumentar os custos de adequação para instituições menores, mas também reduzir o risco sistêmico de fraudes e desvios de recursos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783375309.996123,
+    "titulo": "Exportações de soja do Brasil somam 1,507 milhão de toneladas em julho, aponta Secex - Canal Rural",
+    "titulo_original": "Exportações de soja do Brasil somam 1,507 milhão de toneladas em julho, aponta Secex - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "06/07 17:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O volume de exportação de soja é um indicador da atividade econômica do agronegócio brasileiro. Se este volume for expressivo e consistente, pode contribuir positivamente para o PIB e para a balança comercial do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783375313.413053,
+    "titulo": "Representantes de setores dos EUA e Brasil pedem em audiências exceções à tarifa de 25%",
+    "titulo_original": "Representantes de setores dos EUA e Brasil pedem em audiências exceções à tarifa de 25%",
+    "fonte": "Folha Mercado",
+    "publicado": "06/07 14:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O pedido de exceções à tarifa proposta pelo governo Trump pode sinalizar uma negociação em curso que pode resultar na manutenção ou alteração da medida. Se a tarifa for implementada, pode afetar o fluxo comercial e a competitividade de setores específicos; se for revertida, o impacto será evitado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783375316.8742368,
+    "titulo": "Juros futuros recuam com apoio do real e alívio dos Treasuries",
+    "titulo_original": "Juros futuros recuam com apoio do real e alívio dos Treasuries",
+    "fonte": "Valor Economico",
+    "publicado": "06/07 18:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda dos juros futuros, acompanhando o alívio dos Treasuries e a valorização do real, sugere uma melhora nas expectativas de risco no Brasil. Se essa tendência de queda se mantiver, pode indicar um cenário futuro de juros mais baixos, o que favoreceria o crédito e o investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783375382.043112,
+    "titulo": "Trump diz que Walmart vai baixar o preço do bife moído. (ps. Cuidado com as inverdades de Trump)",
+    "titulo_original": "Trump says Walmart will lower the price of ground beef. (ps. Be wary of Trump's untruths)",
+    "fonte": "ForexLive",
+    "publicado": "06/07 17:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Se a declaração de Trump sobre a redução de preços do Walmart se concretizar e for amplamente seguida por outros varejistas, isso poderia sinalizar uma pressão descendente sobre a inflação nos EUA. Caso contrário, se a notícia se provar falsa ou isolada, o impacto sobre as expectativas inflacionárias será nulo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783375382.0440125,
+    "titulo": "Walmart (WALM34) vai reduzir preço dos produtos; carne moída deve cair cerca de 15%, diz Trump",
+    "titulo_original": "Walmart (WALM34) vai reduzir preço dos produtos; carne moída deve cair cerca de 15%, diz Trump",
+    "fonte": "Money Times",
+    "publicado": "06/07 18:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre a redução de preços no Walmart, se confirmada, pode indicar uma pressão para baixo na inflação ao consumidor nos EUA. A magnitude do impacto dependerá da adesão de outros varejistas a essa iniciativa e da sustentabilidade dessas reduções de preço.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783375382.045083,
+    "titulo": "Ibovespa cai com maior apetite por ações de tecnologia dos EUA; dólar recua a R$ 5,13 - Bloomberg Línea Brasil",
+    "titulo_original": "Ibovespa cai com maior apetite por ações de tecnologia dos EUA; dólar recua a R$ 5,13 - Bloomberg Línea Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/07 18:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, em contraste com a alta das bolsas americanas focadas em tecnologia, sugere uma rotação de capital. A valorização do real, que levou o dólar a R$ 5,13, pode ser um fator de alívio para a inflação importada, mas o movimento das ações de tecnologia nos EUA é um indicador de apetite a risco global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783375382.0459073,
+    "titulo": "Exportação de carne bovina do Brasil bate recorde e gera quase US$ 10 bi no 1º semestre, diz Abiec",
+    "titulo_original": "Exportação de carne bovina do Brasil bate recorde e gera quase US$ 10 bi no 1º semestre, diz Abiec",
+    "fonte": "Folha Mercado",
+    "publicado": "06/07 17:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recorde nas exportações de carne bovina demonstra a força do agronegócio brasileiro e contribui positivamente para a balança comercial e o PIB. Esse desempenho pode sustentar a atividade econômica do setor e gerar empregos relacionados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783375382.0468044,
+    "titulo": "Ibovespa fecha em forte baixa enquanto bolsas de NY avançam; dólar se descola do exterior e cai",
+    "titulo_original": "Ibovespa fecha em forte baixa enquanto bolsas de NY avançam; dólar se descola do exterior e cai",
+    "fonte": "Valor Economico",
+    "publicado": "06/07 18:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, em contramão às bolsas de NY, sugere uma dinâmica interna específica, possivelmente ligada à rotação para ações de tecnologia nos EUA. A queda dos juros futuros no Brasil, acompanhando o alívio dos Treasuries e a valorização do real, pode indicar uma melhora nas expectativas de inflação ou um cenário de menor risco fiscal.",
+    "is_stocks": true
   }
 ]
