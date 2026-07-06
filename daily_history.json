@@ -184,5 +184,103 @@
     "origem": "externa",
     "leitura_critica": "A firmeza do dólar e a expectativa de recuperação nas bolsas americanas, com foco nos dados de inflação, sugerem um cenário de cautela nos mercados globais. Dados de inflação mais altos que o esperado podem pressionar o dólar e as bolsas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783356404.4593978,
+    "titulo": "Estudo aponta que maioria dos recebíveis está apta à negociação como duplicata escritural",
+    "titulo_original": "Estudo aponta que maioria dos recebíveis está apta à negociação como duplicata escritural",
+    "fonte": "Valor Economico",
+    "publicado": "06/07 12:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aptidão da maioria dos recebíveis para se tornarem duplicatas escriturais pode facilitar a migração para o novo modelo do Banco Central, potencialmente reduzindo custos de crédito. Se a adoção for ampla, isso pode otimizar o fluxo de caixa de empresas e aumentar a segurança nas operações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783356408.68324,
+    "titulo": "Governo autoriza novos concursos com 316 vagas para Banco Central e Receita Federal",
+    "titulo_original": "Governo autoriza novos concursos com 316 vagas para Banco Central e Receita Federal",
+    "fonte": "Folha Mercado",
+    "publicado": "06/07 12:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A autorização de novos concursos para o Banco Central e a Receita Federal pode indicar um esforço para fortalecer a capacidade de fiscalização e regulação. Se os novos servidores forem efetivamente contratados e capacitados, isso pode resultar em maior eficiência na arrecadação e na condução da política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783356412.974903,
+    "titulo": "Recuperações extrajudiciais avançam no Brasil com pressão de juros altos",
+    "titulo_original": "Recuperações extrajudiciais avançam no Brasil com pressão de juros altos",
+    "fonte": "Folha Mercado",
+    "publicado": "06/07 11:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento das recuperações extrajudiciais sinaliza o impacto das altas taxas de juros sobre a saúde financeira das empresas. Se os juros permanecerem elevados por mais tempo, o número de pedidos pode continuar a crescer, afetando a confiança do investidor e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783356417.160237,
+    "titulo": "Economistas reduzem previsão para inflação pela primeira vez desde o início da guerra no Irã",
+    "titulo_original": "Economistas reduzem previsão para inflação pela primeira vez desde o início da guerra no Irã",
+    "fonte": "Folha Mercado",
+    "publicado": "06/07 09:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na previsão de inflação pode ser um sinal positivo para a política monetária, abrindo espaço para futuras decisões. Se essa tendência de desaceleração da inflação se confirmar, o Banco Central pode ter mais flexibilidade para ajustar a taxa de juros, mas a guerra no Irã ainda representa um fator de incerteza.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783356548.0614653,
+    "titulo": "Ibovespa recua mais de 1% na volta de NY; dólar e juros futuros também caem",
+    "titulo_original": "Ibovespa recua mais de 1% na volta de NY; dólar e juros futuros também caem",
+    "fonte": "Valor Economico",
+    "publicado": "06/07 12:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, apesar da alta em NY, sugere um fluxo de capital doméstico mais cauteloso ou direcionado a outros ativos. Se os dados econômicos dos EUA continuarem a favorecer um cenário de juros mais baixos, o mercado brasileiro pode se recuperar; caso contrário, a pressão vendedora pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783356548.0621028,
+    "titulo": "Ouro perde 26% do valor desde a máxima: o que acontece com o porto seguro dos ativos?",
+    "titulo_original": "Ouro perde 26% do valor desde a máxima: o que acontece com o porto seguro dos ativos?",
+    "fonte": "InvestNews",
+    "publicado": "06/07 12:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do ouro, tradicional porto seguro, sugere que o cenário de juros altos nos EUA e dólar forte está atraindo capital para ativos de maior retorno. Se as taxas de juros americanas começarem a cair, o ouro pode recuperar seu status de refúgio, mas a atual conjuntura favorece outros investimentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783356548.0630689,
+    "titulo": "RD Saúde (RADL3): UBS BB corta preço-alvo e prevê ‘peso menor’ das canetas emagrecedoras nas receitas",
+    "titulo_original": "RD Saúde (RADL3): UBS BB corta preço-alvo e prevê ‘peso menor’ das canetas emagrecedoras nas receitas",
+    "fonte": "Money Times",
+    "publicado": "06/07 13:26",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão do UBS BB para a RD Saúde indica que o cenário de juros altos pode afetar a demanda por produtos de maior valor agregado. Se as taxas de juros se mantiverem elevadas, a empresa pode precisar ajustar suas estratégias de vendas e marketing para mitigar o impacto.",
+    "is_stocks": true
   }
 ]
