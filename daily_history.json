@@ -1,79 +1,5 @@
 [
   {
-    "_timestamp": 1783335815.5058045,
-    "titulo": "Dólar mais forte muda estratégia de operadores de carry trade e impulsiona emergentes - Bloomberg Línea Brasil",
-    "titulo_original": "Dólar mais forte muda estratégia de operadores de carry trade e impulsiona emergentes - Bloomberg Línea Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/07 13:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A força do dólar pode impactar o fluxo de capital para mercados emergentes, alterando a dinâmica de investimentos de carry trade. Se a tendência de valorização do dólar se mantiver, isso pode levar a uma realocação de portfólios, com maior atratividade para ativos denominados na moeda americana.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783335819.6716392,
-    "titulo": "Guerra eleva preço de insumos de infraestrutura e pressiona concessionárias",
-    "titulo_original": "Guerra eleva preço de insumos de infraestrutura e pressiona concessionárias",
-    "fonte": "Folha Mercado",
-    "publicado": "05/07 23:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A interrupção do estreito de Hormuz e o consequente aumento no preço do petróleo impactam diretamente os custos de projetos de infraestrutura. Se o conflito se prolongar e o estreito permanecer fechado, o custo de obras de infraestrutura pode continuar elevado, afetando a rentabilidade das concessionárias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783335823.8311656,
-    "titulo": "Petróleo despenca com volta da oferta e reacende temor de excesso global - InfoMoney",
-    "titulo_original": "Petróleo despenca com volta da oferta e reacende temor de excesso global - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "04/07 13:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda acentuada no preço do petróleo, impulsionada pelo aumento da oferta, pode sinalizar um desequilíbrio entre demanda e oferta no mercado global. Se essa tendência de queda se consolidar, pode haver impactos negativos em países produtores de petróleo e em setores que dependem de insumos energéticos mais baratos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783335828.0041716,
-    "titulo": "Petróleo abre em queda após anúncio da OPEP+ sobre aumento de produção em agosto - InfoMoney",
-    "titulo_original": "Petróleo abre em queda após anúncio da OPEP+ sobre aumento de produção em agosto - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "05/07 20:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O anúncio da OPEP+ sobre o aumento da produção de petróleo pode pressionar os preços para baixo, contrariando a tendência recente de alta. Se o aumento de produção for significativo, pode haver um impacto na oferta global e, consequentemente, nos preços de outras commodities e insumos energéticos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783335835.9666011,
-    "titulo": "Com guerra do Irã e Copom, fundos de renda fixa perdem R$ 17 bi",
-    "titulo_original": "Com guerra do Irã e Copom, fundos de renda fixa perdem R$ 17 bi",
-    "fonte": "Folha Mercado",
-    "publicado": "05/07 23:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A saída de capital de fundos de renda fixa sugere uma aversão ao risco por parte dos investidores, influenciada por eventos geopolíticos e pela política monetária doméstica. Se o Copom sinalizar um ciclo de aperto monetário mais prolongado, a pressão sobre a renda fixa pode se intensificar, levando a novas saídas de recursos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783335835.9669383,
-    "titulo": "Dólar cai e fecha a R$ 5,16; Ibovespa sobe 0,76% - brasilagro.com.br",
-    "titulo_original": "Dólar cai e fecha a R$ 5,16; Ibovespa sobe 0,76 - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/07 20:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a alta do Ibovespa sugerem um cenário de maior apetite ao risco no mercado brasileiro. Se essa tendência se mantiver, pode haver um fluxo de capital mais positivo para a bolsa de valores e uma valorização de ativos locais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783344269.6629763,
     "titulo": "Vendas no varejo da zona euro aumentam em maio",
     "titulo_original": "Eurozone retail sales see a modest bounce back in May",
@@ -871,5 +797,73 @@
     "origem": "externa",
     "leitura_critica": "A necessidade da Amazon de captar um volume expressivo de recursos para investimentos em IA demonstra o alto custo e a intensidade da competição neste setor. Se a empresa não conseguir atingir seus objetivos de captação, isso pode impactar seus planos de expansão e rentabilidade.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783449076.1175268,
+    "titulo": "Tesouro diz estar preparado para recomprar títulos públicos, diz agência",
+    "titulo_original": "Tesouro diz estar preparado para recomprar títulos públicos, diz agência",
+    "fonte": "Money Times",
+    "publicado": "07/07 15:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Tesouro Nacional sobre a possibilidade de recompra de títulos públicos indica uma postura ativa na gestão da dívida e do mercado de renda fixa. Se o Tesouro efetivamente realizar recompras, isso pode influenciar as taxas de juros de títulos públicos, potencialmente reduzindo-as em cenários de volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783449080.6454442,
+    "titulo": "XP projeta Selic a 14% ao fim de 2026, com expectativa de corte em agosto - Estadão",
+    "titulo_original": "XP projeta Selic a 14% ao fim de 2026, com expectativa de corte em agosto - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/07 11:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção da XP para a Selic em 14% ao fim de 2026, com expectativa de corte em agosto, sugere um cenário de política monetária que pode se tornar mais flexível no médio prazo. Se o Banco Central iniciar os cortes em agosto conforme esperado, isso pode sinalizar uma confiança na trajetória da inflação ou uma priorização do crescimento econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783449085.171621,
+    "titulo": "Dólar sobe para R$ 5,14 e curva de juros avança nesta terça-feira - Canal Rural",
+    "titulo_original": "Dólar sobe para R$ 5,14 e curva de juros avança nesta terça-feira - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/07 09:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar para R$ 5,14 e o avanço da curva de juros indicam um cenário de maior custo de financiamento e possível pressão inflacionária. Se a curva de juros avança, isso pode refletir expectativas de manutenção ou aumento da taxa Selic, impactando o custo do crédito e o investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783449089.6873891,
+    "titulo": "Dólar avança e Bolsa recua, com foco em tensões no Oriente Médio e excesso de investimentos em IA - Folha de S.Paulo",
+    "titulo_original": "Dólar avança e Bolsa recua, com foco em tensões no Oriente Médio e excesso de investimentos em IA - Folha de S.Paulo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/07 10:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar e o recuo da Bolsa, impulsionados por tensões no Oriente Médio e pelo excesso de investimentos em IA, sugerem um cenário de aversão ao risco. Se as tensões geopolíticas se intensificarem, isso pode levar a uma maior fuga para ativos considerados seguros, como o dólar, e pressionar o mercado de ações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783449094.176635,
+    "titulo": "Tesouro dos EUA vende US$ 69 bilhões em títulos de três meses com alto rendimento de 4,179%",
+    "titulo_original": "US treasury sells $69 billion dollars of three or noted a high yield of 4.179%",
+    "fonte": "ForexLive",
+    "publicado": "07/07 14:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A venda de títulos do Tesouro dos EUA com um rendimento de 4,179% indica um nível de remuneração para a dívida soberana americana. Se a demanda por esses títulos se mantiver alta, isso pode sugerir um fluxo de capital para ativos de renda fixa nos EUA, o que, por sua vez, pode influenciar as taxas de juros globais.",
+    "is_stocks": false
   }
 ]
