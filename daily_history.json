@@ -526,5 +526,117 @@
     "origem": "ambas",
     "leitura_critica": "A queda do Ibovespa, em contramão às bolsas de NY, sugere uma dinâmica interna específica, possivelmente ligada à rotação para ações de tecnologia nos EUA. A queda dos juros futuros no Brasil, acompanhando o alívio dos Treasuries e a valorização do real, pode indicar uma melhora nas expectativas de inflação ou um cenário de menor risco fiscal.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783423999.462337,
+    "titulo": "Juíza federal determina retomada da correção de depósitos tributários pela Selic",
+    "titulo_original": "Juíza federal determina retomada da correção de depósitos tributários pela Selic - JOTA Info",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/07 06:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão judicial de corrigir depósitos tributários pela Selic pode ter implicações fiscais e para a gestão de caixa das empresas envolvidas em litígios tributários. Se essa decisão se tornar um precedente amplamente aplicado, pode gerar um impacto indireto na demanda por títulos públicos atrelados à Selic, dependendo do volume de depósitos afetados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783424002.9880555,
+    "titulo": "Agenda do dia: Leilão de NTN-Bs é destaque",
+    "titulo_original": "Agenda do dia: Leilão de NTN-Bs é destaque",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O leilão de títulos públicos (NTN-Bs e LFTs) é um evento importante para o mercado de renda fixa e pode gerar volatilidade nos juros futuros. A divulgação do IGP-DI pode fornecer um indicativo sobre a inflação de custos. A ausência de outros indicadores relevantes sugere que o foco estará nesses eventos de mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783424006.4760103,
+    "titulo": "Outro petroleiro de petróleo bruto supostamente danificado perto de Omã, perto do Estreito de Ormuz",
+    "titulo_original": "Another crude oil tanker reportedly damaged near Oman, around the Strait of Hormuz",
+    "fonte": "ForexLive",
+    "publicado": "07/07 06:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Estreito de Ormuz, uma rota vital para o transporte de petróleo, pode levar a um aumento nos preços do petróleo. Se essa alta for sustentada e impactar a inflação global, pode influenciar as decisões de política monetária de bancos centrais, o que, por sua vez, pode afetar o fluxo de capital e a taxa de câmbio no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783424009.9415123,
+    "titulo": "Bolsas da Ásia fecham em queda, com Seul liderando as perdas",
+    "titulo_original": "Bolsas da Ásia fecham em queda, com Seul liderando as perdas",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 08:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho negativo das bolsas asiáticas pode refletir um sentimento de aversão ao risco global, especialmente com a expectativa pela ata do Fed. Se essa aversão ao risco se estender para outros mercados, pode haver uma fuga de capitais de mercados emergentes, o que poderia pressionar o real e, consequentemente, o WDO.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783424088.2410314,
+    "titulo": "Tesla, Coca-Cola e Nestlé pedem que EUA não adotem tarifas sobre produtos brasileiros",
+    "titulo_original": "Tesla, Coca-Cola e Nestlé pedem que EUA não adotem tarifas sobre produtos brasileiros",
+    "fonte": "Folha Mercado",
+    "publicado": "07/07 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de tarifas adicionais sobre produtos brasileiros pelos EUA pode afetar o fluxo de exportações e, consequentemente, a balança comercial do Brasil. Se as tarifas forem implementadas, isso pode pressionar o câmbio para cima; se forem evitadas, o cenário pode se manter mais estável. A posição das empresas americanas sugere que a decisão ainda está em aberto.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783424088.2420783,
+    "titulo": "Tarifas de 25% contra o Brasil ocupam agenda do mercado; Ibovespa em dólar avança hoje (7)",
+    "titulo_original": "Tarifas de 25% contra o Brasil ocupam agenda do mercado; Ibovespa em dólar avança hoje (7)",
+    "fonte": "Money Times",
+    "publicado": "07/07 07:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A discussão sobre tarifas de 25% sobre produtos brasileiros pelos EUA é um fator de risco para as exportações brasileiras e pode impactar a balança comercial. Se as tarifas forem implementadas, isso pode gerar pressão de desvalorização sobre o real. A atenção do mercado a este tema sugere que qualquer decisão terá repercussão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783424088.243221,
+    "titulo": "Agenda de empresas: Conselho da Vale tem mudança; Petrobras recebe parcelas do programa de subvenção",
+    "titulo_original": "Agenda de empresas: Conselho da Vale tem mudança; Petrobras recebe parcelas do programa de subvenção",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 08:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Mudanças em conselhos de grandes empresas como Vale e Petrobras podem sinalizar alterações estratégicas futuras, mas o impacto imediato no mercado de câmbio é incerto. O recebimento de subvenções pela Petrobras pode ter um efeito pontual na liquidez, mas não altera o cenário macroeconômico de forma significativa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783424088.2442489,
+    "titulo": "Por que a melhora de um indicador pouco conhecido pode fortalecer a tese para investir em crédito privado",
+    "titulo_original": "Por que a melhora de um indicador pouco conhecido pode fortalecer a tese para investir em crédito privado",
+    "fonte": "Money Times",
+    "publicado": "07/07 07:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A melhora na relação entre geração de caixa e dívida das empresas brasileiras pode indicar um ambiente mais saudável para o crédito privado. Se essa tendência se confirmar e atrair mais capital para o mercado de renda fixa corporativa, isso pode reduzir a pressão sobre o mercado de crédito e, indiretamente, influenciar o apetite por outros ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783424088.2452712,
+    "titulo": "Ações globais caem com pressão sobre ações de chips após balanço da Samsung",
+    "titulo_original": "Ações globais caem com pressão sobre ações de chips após balanço da Samsung - Bloomberg Línea Brasil",
+    "fonte": "Google News Acoes",
+    "publicado": "07/07 06:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas ações globais, especialmente no setor de chips, pode indicar um sentimento de aversão ao risco que pode se espalhar para outros mercados. Se essa tendência de baixa se consolidar, pode haver uma fuga de capitais de mercados emergentes, o que poderia impactar negativamente o real e o WDO.",
+    "is_stocks": true
   }
 ]
