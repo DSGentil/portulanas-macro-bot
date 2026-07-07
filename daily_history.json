@@ -1,19 +1,5 @@
 [
   {
-    "_timestamp": 1783344269.6629763,
-    "titulo": "Vendas no varejo da zona euro aumentam em maio",
-    "titulo_original": "Eurozone retail sales see a modest bounce back in May",
-    "fonte": "ForexLive",
-    "publicado": "06/07 06:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Se as vendas no varejo continuarem a crescer, isso pode indicar que a inflação não está afetando a demanda de consumo. No entanto, se as vendas começarem a diminuir, isso pode ser um sinal de que a inflação está começando a afetar a economia.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1783350956.1361723,
     "titulo": "Análise: Estabilidade das expectativas dá alívio ao BC, apesar de alta do pessimismo",
     "titulo_original": "Análise: Estabilidade das expectativas dá alívio ao BC, apesar de alta do pessimismo",
@@ -865,5 +851,123 @@
     "origem": "externa",
     "leitura_critica": "A venda de títulos do Tesouro dos EUA com um rendimento de 4,179% indica um nível de remuneração para a dívida soberana americana. Se a demanda por esses títulos se mantiver alta, isso pode sugerir um fluxo de capital para ativos de renda fixa nos EUA, o que, por sua vez, pode influenciar as taxas de juros globais.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1783456292.4155188,
+    "titulo": "Líder do PT diz que Alcolumbre será eleito inimigo se PEC do fim da escala 6x1 não avançar no Senado",
+    "titulo_original": "Líder do PT diz que Alcolumbre será eleito inimigo se PEC do fim da escala 6x1 não avançar no Senado",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 15:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do líder do PT sobre a PEC do fim da escala 6x1 indica uma pressão política para acelerar a tramitação da matéria no Senado. Se a PEC for aprovada, pode haver um impacto na estrutura de custos de empresas que operam sob essa escala; caso contrário, a negociação política pode se intensificar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783456296.1534464,
+    "titulo": "Por que o dólar saindo do piso é o sinal para travar o câmbio antes do pico eleitoral de Q3",
+    "titulo_original": "Por que o dólar saindo do piso é o sinal para travar o câmbio antes do pico eleitoral de Q3 - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/07 16:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A indicação de que o dólar está saindo de seu piso sugere uma possível reversão de tendência, o que pode ser um sinal para travar o câmbio. Se o cenário eleitoral do terceiro trimestre gerar incertezas, a demanda por dólar pode aumentar, pressionando a moeda brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783456299.819309,
+    "titulo": "Fendt oferece crédito em dólar para compra de máquinas",
+    "titulo_original": "Fendt oferece crédito em dólar para compra de máquinas - Revista Cultivar",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/07 16:09",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A oferta de crédito em dólar pela Fendt pode ser uma estratégia para mitigar o impacto da volatilidade cambial e dos juros para compradores de máquinas. Se o dólar se mantiver estável ou em patamares favoráveis, essa linha de crédito pode impulsionar as vendas de equipamentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783456303.5247462,
+    "titulo": "FMI anuncia Silvana Tenreyro como nova economista-chefe",
+    "titulo_original": "FMI anuncia Silvana Tenreyro como nova economista-chefe",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 16:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A nomeação de Silvana Tenreyro para o FMI, com sua experiência em política monetária, pode influenciar as discussões sobre as perspectivas econômicas globais. Se sua visão se alinhar com uma postura mais cautelosa em relação à inflação, isso pode reforçar a tendência de juros mais altos por mais tempo em algumas economias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783456368.2980816,
+    "titulo": "Quais ações do varejo conseguem crescer apesar dos juros altos? BTG aponta favoritas",
+    "titulo_original": "Quais ações do varejo conseguem crescer apesar dos juros altos? BTG aponta favoritas",
+    "fonte": "Money Times",
+    "publicado": "07/07 16:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise do BTG Pactual sobre o varejo brasileiro em cenário de juros altos sugere que a seleção de empresas com resiliência operacional será crucial. Se a taxa Selic se mantiver elevada por mais tempo, empresas com menor endividamento e maior poder de precificação tendem a apresentar melhor desempenho.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783456368.2993095,
+    "titulo": "Weg (WEGE3) sobe 9% em junho: o que explica a recente valorização da ação?",
+    "titulo_original": "Weg (WEGE3) sobe 9% em junho: o que explica a recente valorização da ação?",
+    "fonte": "Money Times",
+    "publicado": "07/07 16:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte valorização da Weg em junho, impulsionada pela demanda em infraestrutura elétrica para IA, demonstra o potencial de setores alinhados a tendências tecnológicas. Se a adoção de IA continuar a crescer, a demanda por soluções de infraestrutura elétrica pode sustentar o desempenho da empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783456368.3004909,
+    "titulo": "Vale (VALE3): A expectativa do Citi para o lucro do 2T26",
+    "titulo_original": "Vale (VALE3): A expectativa do Citi para o lucro do 2T26",
+    "fonte": "Money Times",
+    "publicado": "07/07 16:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Citi para o lucro da Vale no 2T26, apesar de uma queda percentual, indica um crescimento robusto na receita. Se as estimativas de receita se concretizarem, isso pode sinalizar uma demanda forte por commodities, mesmo com margens de lucro sob pressão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783456368.3016129,
+    "titulo": "Data Expert: Monitor semanal de Preço de Paridade de Importação da Petrobras (07/07/2026) - XP Investimentos",
+    "titulo_original": "Data Expert: Monitor semanal de Preço de Paridade de Importação da Petrobras (07/07/2026) - XP Investimentos",
+    "fonte": "Google News Acoes",
+    "publicado": "07/07 15:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O monitoramento semanal do PPI da Petrobras pela XP Investimentos fornece dados importantes para a análise da política de preços da estatal. Se o PPI apresentar volatilidade significativa, isso pode impactar os resultados da empresa e as expectativas do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783456368.3027656,
+    "titulo": "Vale (VALE3) troca comando no conselho e mercado mede risco político",
+    "titulo_original": "Vale (VALE3) troca comando no conselho e mercado mede risco político - suno.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "07/07 15:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A troca no comando do conselho da Vale levanta questões sobre a influência do risco político na governança da empresa. Se a nova composição do conselho indicar maior interferência política, isso pode gerar incertezas para os investidores e afetar a percepção de risco da ação.",
+    "is_stocks": true
   }
 ]
