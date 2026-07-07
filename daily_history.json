@@ -638,5 +638,117 @@
     "origem": "externa",
     "leitura_critica": "A queda nas ações globais, especialmente no setor de chips, pode indicar um sentimento de aversão ao risco que pode se espalhar para outros mercados. Se essa tendência de baixa se consolidar, pode haver uma fuga de capitais de mercados emergentes, o que poderia impactar negativamente o real e o WDO.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783430164.214235,
+    "titulo": "Tendências 07/07/2026 | das principais ações da Bolsa",
+    "titulo_original": "Tendências 07/07/2026 | das principais ações da Bolsa - XP Investimentos",
+    "fonte": "Google News Acoes",
+    "publicado": "07/07 10:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Acompanhar as tendências das principais ações da Bolsa é fundamental para entender o comportamento do mercado acionário. Se as tendências forem de alta, pode indicar um cenário positivo para investimentos em renda variável; uma reversão para tendências de baixa exigiria cautela.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783430169.4062521,
+    "titulo": "Dólar hoje sobe com Oriente Médio no foco",
+    "titulo_original": "Dólar hoje sobe com Oriente Médio no foco - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/07 09:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A valorização do dólar em meio a tensões no Oriente Médio sugere um movimento de busca por ativos de segurança. Se a instabilidade na região se intensificar, o dólar pode continuar a se fortalecer; uma desescalada do conflito poderia levar a uma reversão desse movimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783430174.1780374,
+    "titulo": "Balança comercial dos Estados Unidos tem déficit de US$ 77,6 bilhões em maio",
+    "titulo_original": "Balança comercial dos Estados Unidos tem déficit de US$ 77,6 bilhões em maio",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 09:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento do déficit comercial dos EUA em maio pode indicar uma demanda interna robusta, mas também uma dependência maior de importações. Se o déficit continuar a crescer, pode pressionar a moeda americana; uma reversão para superávit poderia fortalecer o dólar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783430178.9555984,
+    "titulo": "Balança comercial internacional dos EUA: -$77.6B vs. estimativa de -$78.5B",
+    "titulo_original": "US International Trade balance -$77.6B vs -$78.5B estimate",
+    "fonte": "ForexLive",
+    "publicado": "07/07 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O déficit comercial dos EUA, embora ligeiramente menor que o esperado, ainda é significativo e pode refletir uma demanda interna forte. Se os dados de exportações continuarem a cair e importações a subir, isso pode indicar uma desaceleração futura; uma melhora nas exportações poderia sinalizar recuperação econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783430253.4216852,
+    "titulo": "Estrangeiros aportam mais de R$ 698 milhões na B3 em 3 de julho",
+    "titulo_original": "Estrangeiros aportam mais de R$ 698 milhões na B3 em 3 de julho - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "07/07 10:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada de capital estrangeiro na B3 é um indicador positivo para o mercado acionário brasileiro. Se esse fluxo se mantiver, pode sustentar a valorização dos ativos locais; uma reversão desse fluxo poderia indicar menor apetite por risco no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783430253.4229722,
+    "titulo": "Estrangeiros ingressam R$ 698 mi na B3 em um único dia e saldo anual é positivo em R$ 34,5 bi",
+    "titulo_original": "Estrangeiros ingressam R$ 698 mi na B3 em um único dia e saldo anual é positivo em R$ 34,5 bi - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "07/07 08:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada expressiva de capital estrangeiro na B3, com saldo anual positivo, reforça a atratividade do mercado brasileiro. Se essa tendência se mantiver, pode sustentar a valorização do Ibovespa; uma reversão desse fluxo indicaria menor confiança dos investidores externos no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783430253.4241576,
+    "titulo": "Mini-Índice Bovespa e Mini-dólar interrompem sequência de alta e perdem força no curto prazo, diz BTG",
+    "titulo_original": "Mini-Índice Bovespa e Mini-dólar interrompem sequência de alta e perdem força no curto prazo, diz BTG",
+    "fonte": "Money Times",
+    "publicado": "07/07 10:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A perda de força do Mini-Índice Bovespa sugere uma possível reversão da tendência de alta recente. Se os compradores não retomarem o controle, o índice pode testar níveis de suporte inferiores; uma recuperação da força compradora poderia sustentar novas altas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783430253.425276,
+    "titulo": "Ação da SpaceX recebe recomendação de compra de principais corretoras de Wall Street",
+    "titulo_original": "Ação da SpaceX recebe recomendação de compra de principais corretoras de Wall Street",
+    "fonte": "Folha Mercado",
+    "publicado": "07/07 09:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Recomendações positivas para a SpaceX podem impulsionar o desempenho de suas ações no mercado. Se a empresa continuar a entregar resultados promissores, o otimismo do mercado pode se sustentar; notícias negativas ou falhas na execução podem reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783430253.4265506,
+    "titulo": "notícias de câmbio europeu investingLive: Mercados permanecem em faixa de negociação na ausência de catalisadores",
+    "titulo_original": "investingLive European FX news wrap: Markets remain rangebound amid lack of catalysts",
+    "fonte": "ForexLive",
+    "publicado": "07/07 08:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A falta de catalisadores e a consolidação dos mercados europeus indicam um período de espera por novos dados econômicos. Se os dados do CPI dos EUA vierem acima do esperado, pode haver volatilidade; uma leitura abaixo do esperado pode impulsionar os mercados para cima.",
+    "is_stocks": true
   }
 ]
