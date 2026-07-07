@@ -1,201 +1,5 @@
 [
   {
-    "_timestamp": 1783350956.1361723,
-    "titulo": "Análise: Estabilidade das expectativas dá alívio ao BC, apesar de alta do pessimismo",
-    "titulo_original": "Análise: Estabilidade das expectativas dá alívio ao BC, apesar de alta do pessimismo",
-    "fonte": "Valor Economico",
-    "publicado": "06/07 11:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade nas expectativas de inflação de longo prazo pode dar margem de manobra ao Banco Central, mesmo diante de um cenário de pessimismo crescente. Se as expectativas de inflação de curto prazo também se estabilizarem, isso reforçaria a confiança na política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783350959.2470305,
-    "titulo": "Boletim Focus: analistas cortam projeção de inflação de 2026 para 5,30%",
-    "titulo_original": "Boletim Focus: analistas cortam projeção de inflação de 2026 para 5,30% - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "06/07 08:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O corte na projeção de inflação para 2026, conforme o Boletim Focus, sugere uma expectativa de desaceleração inflacionária no médio prazo. Se essa tendência se confirmar, pode influenciar as decisões futuras de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783350962.2853146,
-    "titulo": "Emprega+ amplia acesso ao mercado de trabalho com ações nos bairros e supera 4,3 mil entrevistas em um ano e meio",
-    "titulo_original": "Emprega+ amplia acesso ao mercado de trabalho com ações nos bairros e supera 4,3 mil entrevistas em um ano e meio - Prefeitura de Jundiaí",
-    "fonte": "Google News Acoes",
-    "publicado": "06/07 11:45",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Iniciativas locais de empregabilidade demonstram esforços para facilitar a inserção de trabalhadores no mercado. O impacto macroeconômico dessas ações é limitado, mas contribui para o cenário de emprego em nível municipal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783350965.3408165,
-    "titulo": "Pauta de agosto no STF tem uberização, eleição no RJ e Moratória da Soja",
-    "titulo_original": "Pauta de agosto no STF tem uberização, eleição no RJ e Moratória da Soja - JOTA Info",
-    "fonte": "Google News Commodities",
-    "publicado": "06/07 08:56",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A inclusão de temas como uberização e moratória da soja na pauta do STF indica potenciais decisões com impacto regulatório e econômico. O resultado desses julgamentos poderá definir novas regras para setores específicos da economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783350975.4214804,
-    "titulo": "Dow Jones hoje: PMI nos EUA tem resultado dentro das expectativas do mercado; dólar avança",
-    "titulo_original": "Dow Jones hoje: PMI nos EUA tem resultado dentro das expectativas do mercado; dólar avança - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "06/07 11:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O PMI dos EUA em linha com as expectativas sugere uma atividade econômica estável, o que pode sustentar a valorização do dólar. A ausência de surpresas no dado pode limitar movimentos bruscos no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783350975.4219651,
-    "titulo": "Estrangeiros aportam R$ 568 milhões na B3 em 2 de julho",
-    "titulo_original": "Estrangeiros aportam R$ 568 milhões na B3 em 2 de julho",
-    "fonte": "Valor Economico",
-    "publicado": "06/07 11:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada líquida de capital estrangeiro na B3 em 2 de julho, apesar do déficit mensal, indica um fluxo positivo no acumulado anual. A continuidade dessa tendência pode sustentar o mercado acionário brasileiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783350975.4225328,
-    "titulo": "European markets wrap: Dollar firms, US stocks eye bounce to start the week",
-    "titulo_original": "investingLive European markets wrap: Dollar firms, US stocks eye bounce to start the week",
-    "fonte": "ForexLive",
-    "publicado": "06/07 08:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A firmeza do dólar e a expectativa de recuperação nas bolsas americanas, com foco nos dados de inflação, sugerem um cenário de cautela nos mercados globais. Dados de inflação mais altos que o esperado podem pressionar o dólar e as bolsas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783356404.4593978,
-    "titulo": "Estudo aponta que maioria dos recebíveis está apta à negociação como duplicata escritural",
-    "titulo_original": "Estudo aponta que maioria dos recebíveis está apta à negociação como duplicata escritural",
-    "fonte": "Valor Economico",
-    "publicado": "06/07 12:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aptidão da maioria dos recebíveis para se tornarem duplicatas escriturais pode facilitar a migração para o novo modelo do Banco Central, potencialmente reduzindo custos de crédito. Se a adoção for ampla, isso pode otimizar o fluxo de caixa de empresas e aumentar a segurança nas operações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783356408.68324,
-    "titulo": "Governo autoriza novos concursos com 316 vagas para Banco Central e Receita Federal",
-    "titulo_original": "Governo autoriza novos concursos com 316 vagas para Banco Central e Receita Federal",
-    "fonte": "Folha Mercado",
-    "publicado": "06/07 12:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A autorização de novos concursos para o Banco Central e a Receita Federal pode indicar um esforço para fortalecer a capacidade de fiscalização e regulação. Se os novos servidores forem efetivamente contratados e capacitados, isso pode resultar em maior eficiência na arrecadação e na condução da política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783356412.974903,
-    "titulo": "Recuperações extrajudiciais avançam no Brasil com pressão de juros altos",
-    "titulo_original": "Recuperações extrajudiciais avançam no Brasil com pressão de juros altos",
-    "fonte": "Folha Mercado",
-    "publicado": "06/07 11:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento das recuperações extrajudiciais sinaliza o impacto das altas taxas de juros sobre a saúde financeira das empresas. Se os juros permanecerem elevados por mais tempo, o número de pedidos pode continuar a crescer, afetando a confiança do investidor e a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783356417.160237,
-    "titulo": "Economistas reduzem previsão para inflação pela primeira vez desde o início da guerra no Irã",
-    "titulo_original": "Economistas reduzem previsão para inflação pela primeira vez desde o início da guerra no Irã",
-    "fonte": "Folha Mercado",
-    "publicado": "06/07 09:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução na previsão de inflação pode ser um sinal positivo para a política monetária, abrindo espaço para futuras decisões. Se essa tendência de desaceleração da inflação se confirmar, o Banco Central pode ter mais flexibilidade para ajustar a taxa de juros, mas a guerra no Irã ainda representa um fator de incerteza.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783356548.0614653,
-    "titulo": "Ibovespa recua mais de 1% na volta de NY; dólar e juros futuros também caem",
-    "titulo_original": "Ibovespa recua mais de 1% na volta de NY; dólar e juros futuros também caem",
-    "fonte": "Valor Economico",
-    "publicado": "06/07 12:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa, apesar da alta em NY, sugere um fluxo de capital doméstico mais cauteloso ou direcionado a outros ativos. Se os dados econômicos dos EUA continuarem a favorecer um cenário de juros mais baixos, o mercado brasileiro pode se recuperar; caso contrário, a pressão vendedora pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783356548.0621028,
-    "titulo": "Ouro perde 26% do valor desde a máxima: o que acontece com o porto seguro dos ativos?",
-    "titulo_original": "Ouro perde 26% do valor desde a máxima: o que acontece com o porto seguro dos ativos?",
-    "fonte": "InvestNews",
-    "publicado": "06/07 12:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda do ouro, tradicional porto seguro, sugere que o cenário de juros altos nos EUA e dólar forte está atraindo capital para ativos de maior retorno. Se as taxas de juros americanas começarem a cair, o ouro pode recuperar seu status de refúgio, mas a atual conjuntura favorece outros investimentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783356548.0630689,
-    "titulo": "RD Saúde (RADL3): UBS BB corta preço-alvo e prevê ‘peso menor’ das canetas emagrecedoras nas receitas",
-    "titulo_original": "RD Saúde (RADL3): UBS BB corta preço-alvo e prevê ‘peso menor’ das canetas emagrecedoras nas receitas",
-    "fonte": "Money Times",
-    "publicado": "06/07 13:26",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão do UBS BB para a RD Saúde indica que o cenário de juros altos pode afetar a demanda por produtos de maior valor agregado. Se as taxas de juros se mantiverem elevadas, a empresa pode precisar ajustar suas estratégias de vendas e marketing para mitigar o impacto.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783369871.1851957,
     "titulo": "Dólar recua a R$ 5,13 com expectativa de Fed menos agressivo",
     "titulo_original": "Dólar recua a R$ 5,13 com expectativa de Fed menos agressivo",
@@ -968,6 +772,68 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A troca no comando do conselho da Vale levanta questões sobre a influência do risco político na governança da empresa. Se a nova composição do conselho indicar maior interferência política, isso pode gerar incertezas para os investidores e afetar a percepção de risco da ação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783467075.106804,
+    "titulo": "Planalto acusa Flávio Bolsonaro de legitimar investigação injusta dos EUA contra o Brasil",
+    "titulo_original": "Planalto acusa Flávio Bolsonaro de legitimar investigação injusta dos EUA contra o Brasil",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 19:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A crítica do Planalto à participação de Flávio Bolsonaro em audiência nos EUA evidencia divergências internas sobre a política externa e comercial. Se o senador continuar a defender posições que contrariam a diplomacia oficial, isso pode gerar ruído nas relações bilaterais; caso contrário, um alinhamento de discursos pode fortalecer a posição brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783467079.160558,
+    "titulo": "El Niño ameaça produção de soja, milho, café e laranja, diz FGV",
+    "titulo_original": "El Niño ameaça produção de soja, milho, café e laranja, diz FGV - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "07/07 19:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O alerta da FGV sobre o impacto do El Niño na produção agrícola brasileira indica um risco para a oferta de commodities importantes. Se o fenômeno se manifestar com intensidade, os preços desses produtos podem subir; caso contrário, uma ocorrência mais branda pode limitar os impactos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783467083.1609135,
+    "titulo": "Notícias do mercado americano: petróleo sobe com Trump reimpondo sanções ao Irã",
+    "titulo_original": "investingLive Americas market news wrap: Oil climbs as Trump reimposes sanctions on Iran",
+    "fonte": "ForexLive",
+    "publicado": "07/07 17:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A reimposição de sanções ao Irã e a alta do petróleo indicam um cenário de instabilidade geopolítica com potencial impacto inflacionário. Se as sanções persistirem e a oferta de petróleo for restrita, a inflação pode continuar a subir; caso contrário, a normalização do mercado de energia poderia aliviar as pressões inflacionárias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783467087.2126462,
+    "titulo": "Bitcoin cai com sentimento de risco afetado por ataques dos EUA ao Irã, venda de tecnologia",
+    "titulo_original": "Bitcoin falls as risk sentiment hit by U.S. strikes against Iran, tech sell-off",
+    "fonte": "Investing.com",
+    "publicado": "07/07 19:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Bitcoin, associada a eventos geopolíticos e ao setor de tecnologia, sugere uma correlação com o apetite a risco global. Se a tensão no Oriente Médio se intensificar, o comportamento do Bitcoin pode ser mais volátil; caso contrário, a recuperação do setor de tecnologia pode impulsionar seu valor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783467092.3370557,
+    "titulo": "Ibovespa fecha em queda com alta do petróleo e piora no cenário geopolítico",
+    "titulo_original": "Ibovespa fecha em queda com alta do petróleo e piora no cenário geopolítico - Bloomberg Línea Brasil",
+    "fonte": "Google News Acoes",
+    "publicado": "07/07 18:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, associada à alta do petróleo e à piora geopolítica, indica uma sensibilidade do mercado brasileiro a choques externos. Se o conflito no Oriente Médio se agravar, o Ibovespa pode continuar sob pressão; caso contrário, a melhora no cenário global pode favorecer uma recuperação.",
     "is_stocks": true
   }
 ]
