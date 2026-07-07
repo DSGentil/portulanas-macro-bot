@@ -750,5 +750,126 @@
     "origem": "externa",
     "leitura_critica": "A falta de catalisadores e a consolidação dos mercados europeus indicam um período de espera por novos dados econômicos. Se os dados do CPI dos EUA vierem acima do esperado, pode haver volatilidade; uma leitura abaixo do esperado pode impulsionar os mercados para cima.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783442768.8789937,
+    "titulo": "Banco Central aumenta fiscalização sobre criptomoedas e stablecoins; entenda como isso afeta o mercado brasileiro",
+    "titulo_original": "Banco Central aumenta fiscalização sobre criptomoedas e stablecoins; entenda como isso afeta o mercado brasileiro",
+    "fonte": "Money Times",
+    "publicado": "07/07 13:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da fiscalização do Banco Central sobre criptomoedas pode gerar maior segurança jurídica para o mercado, mas também pode impor restrições a algumas operações. Se a regulamentação for muito rigorosa, pode haver uma saída de capital do setor no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783442772.6430135,
+    "titulo": "Flávio diz nos EUA que tarifas ajudariam Lula e que agora é o 'pior momento' para adotá-las",
+    "titulo_original": "Flávio diz nos EUA que tarifas ajudariam Lula e que agora é o 'pior momento' para adotá-las",
+    "fonte": "Folha Mercado",
+    "publicado": "07/07 12:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de Flávio Bolsonaro sobre as tarifas sugere uma estratégia política de posicionamento em relação às relações comerciais com os EUA. Se os EUA decidirem impor tarifas, isso pode gerar um impacto negativo nas exportações brasileiras e na relação bilateral.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783442776.3310373,
+    "titulo": "Zema defende solução com EUA sobre tarifas e diz que Brasil precisa se aproximar do Ocidente",
+    "titulo_original": "Zema defende solução com EUA sobre tarifas e diz que Brasil precisa se aproximar do Ocidente",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 13:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de Romeu Zema sobre a necessidade de aproximar o Brasil do Ocidente e negociar tarifas com os EUA sugere uma visão de política externa voltada para alinhamentos tradicionais. Se eleito, uma mudança na orientação da política externa pode impactar as relações comerciais e de investimento do Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783442779.8465645,
+    "titulo": "Press TV: Tráfego no Estreito de Ormuz é conduzido de acordo com os arranjos do Irã",
+    "titulo_original": "Press TV: Traffic in Strait of Hormuz is conducted in accordance with Iran's arrangements",
+    "fonte": "ForexLive",
+    "publicado": "07/07 13:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do Irã e o aumento do nível de ameaça no Estreito de Ormuz indicam uma escalada de tensões geopolíticas que podem impactar o fornecimento global de petróleo. Se a situação evoluir para um conflito direto, o preço do petróleo pode sofrer novas altas significativas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783442806.0292485,
+    "titulo": "Ibovespa cai e dólar sobe em meio à alta do petróleo com ataques no Estreito de Ormuz",
+    "titulo_original": "Ibovespa cai e dólar sobe em meio à alta do petróleo com ataques no Estreito de Ormuz",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 13:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A escalada das tensões no Estreito de Ormuz e a consequente alta do petróleo aumentam a aversão ao risco global, pressionando o Ibovespa e fortalecendo o dólar. Se a instabilidade persistir, o Banco Central pode ter que considerar o impacto na inflação e nas expectativas de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783442806.030687,
+    "titulo": "Bolsas da Europa recuam com tensões geopolíticas e peso de 'techs'; Londres é exceção",
+    "titulo_original": "Bolsas da Europa recuam com tensões geopolíticas e peso de 'techs'; Londres é exceção",
+    "fonte": "Valor Economico",
+    "publicado": "07/07 13:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda generalizada das bolsas europeias, influenciada por tensões geopolíticas e pelo setor de tecnologia, indica um aumento da aversão ao risco global. Se a situação no Estreito de Ormuz se agravar, a tendência de queda pode se intensificar em outros mercados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783442806.0320272,
+    "titulo": "Expectativas de inflação de um ano atingem o maior nível desde 2023 na pesquisa do Fed de Nova York",
+    "titulo_original": "One-year inflation expectations hit the highest since 2023 in New York Fed survey",
+    "fonte": "ForexLive",
+    "publicado": "07/07 12:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento nas expectativas de inflação de curto prazo, mesmo com a queda nos preços da gasolina, é um sinal preocupante para o Federal Reserve. Se essa tendência se mantiver, o Fed pode ser forçado a adotar uma postura mais hawkish em relação aos juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783442806.0333574,
+    "titulo": "Europa: bolsas fecham na maioria em queda, sob pressão de ações de tecnologia e de olho em tensão em Ormuz",
+    "titulo_original": "Europa: bolsas fecham na maioria em queda, sob pressão de ações de tecnologia e de olho em tensão em Ormuz",
+    "fonte": "Money Times",
+    "publicado": "07/07 13:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A combinação de fatores negativos, como a queda em ações de tecnologia e as tensões geopolíticas no Estreito de Ormuz, contribui para a aversão ao risco nos mercados europeus. Se a situação no Oriente Médio se deteriorar, o fluxo de capital para ativos mais seguros pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783442806.0346873,
+    "titulo": "A corrida da IA está ficando mais cara para a Amazon",
+    "titulo_original": "A corrida da IA está ficando mais cara para a Amazon",
+    "fonte": "InvestNews",
+    "publicado": "07/07 13:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A necessidade da Amazon de captar um volume expressivo de recursos para investimentos em IA demonstra o alto custo e a intensidade da competição neste setor. Se a empresa não conseguir atingir seus objetivos de captação, isso pode impactar seus planos de expansão e rentabilidade.",
+    "is_stocks": true
   }
 ]
