@@ -1,131 +1,5 @@
 [
   {
-    "_timestamp": 1782336240.633997,
-    "titulo": "Tesla é processada nos EUA por família de mulher morta em acidente de carro que atingiu sua casa",
-    "fonte": "Folha Mercado",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782336240.6343613,
-    "titulo": "B3 (B3SA3) ajusta valor de JCP e acionistas receberão até R$ 0,22 por ação em julho",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782336240.6348374,
-    "titulo": "Trump indica que eleição no Brasil é teste para EUA na América Latina - Agência Brasil",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782336240.6352148,
-    "titulo": "Nomad dobra investimento em marketing e entra na Copa do Mundo",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782336240.6355453,
-    "titulo": "BB Seguridade (BBSE3) pagará R$ 3,8 bilhões em dividendos",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782336240.6358802,
-    "titulo": "Petrobras celebra 60 anos da Lubnor, referência em asfaltos e produtos especiais - Agência Petrobras de Notícias",
-    "fonte": "Google News Acoes",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782336240.6361337,
-    "titulo": "Israel diz que manterá tropas no sul do Líbano, apesar de acordo - CNN Brasil",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782336240.636414,
-    "titulo": "Klabin (KLBN11) aprova recompra de até 31,25 milhões de units e prevê cancelamento das ações",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782336240.6368885,
-    "titulo": "Palmas recebe Copa Brasil Ouro de Tênis de Mesa - Prefeitura de Palmas.",
-    "fonte": "Google News Commodities",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782338612.6077008,
-    "titulo": "Bitcoin hovers under $61k amid falling tech stocks, rate fears, and ETF outflows",
-    "fonte": "Investing.com",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782338612.6081567,
-    "titulo": "Banco pagará R$ 1,1 por ação em juros sobre o capital próprio; veja como aproveitar",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782338612.6085851,
-    "titulo": "Artigo: Investimento passivo para além do Ibovespa – por Raphael Nogueira* - Abrapp",
-    "fonte": "Google News Acoes",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782338612.6089966,
-    "titulo": "EUA permitem que seleção do Irã entre no país 2 dias antes do jogo - Alma Preta Jornalismo",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782338612.6093652,
-    "titulo": "Mato Grosso do Sul mostra potencial para ampliar processamento de soja - Globo Rural",
-    "fonte": "Google News Commodities",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782338612.609737,
-    "titulo": "Governo autoriza concurso para CGU e ANPD; salários podem chegar a R$ 20 mil",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782338612.6100793,
-    "titulo": "Extrato digital de cliente do Selic agregou informações do Tesouro Direto - Monitor Mercantil",
-    "fonte": "Google News Cambio Juros",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782338612.6105163,
-    "titulo": "Trump está proibido de voltar a atacar o Irã? Por que revés no Congresso é inédito? Veja perguntas e respostas - G1",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782342186.917456,
-    "titulo": "Grandes bancos americanos anunciam dividendos após passar em 'teste de estresse' do Fed - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782342186.9179807,
-    "titulo": "Bancos param de distribuir CDBs do Digimais, mas negociação no secundário continua",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782342186.918526,
-    "titulo": "Qualcomm irá adquirir startup Modular por US$ 4 bi para impulsionar software de IA",
-    "fonte": "Folha Mercado",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1782342186.9189522,
-    "titulo": "Na Casa Branca, chefe da Otan abusa de elogios e números para amenizar tensões entre Trump e a aliança militar - O Globo",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
     "_timestamp": 1782351109.1829252,
     "titulo": "Vale avaliou oportunidade, mas decidiu não investir na Bamin",
     "fonte": "Valor Economico",
@@ -2361,6 +2235,78 @@
     "_timestamp": 1783542695.4217794,
     "titulo": "Waymo amplia vantagem sobre Tesla e expande serviço de robotáxis para quatro novas cidades",
     "fonte": "Valor Economico",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6730857,
+    "titulo": "Gol inaugura voo entre Rio e NY e faz do RIOGaleão centro da expansão internacional da empresa",
+    "fonte": "Valor Economico",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6757925,
+    "titulo": "Justiça dos EUA aprova acordo de Musk com a SEC sobre compra de ações do Twitter",
+    "fonte": "Folha Mercado",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6786008,
+    "titulo": "China acelera compras de soja dos EUA após trégua comercial - InvestNews",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6812167,
+    "titulo": "Por que o Ibovespa recuou nesta quarta, mesmo com forte alta de petroleiras? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6838462,
+    "titulo": "CESB aponta produtividade como estratégia econômica na soja - Revista Cultivar",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6864858,
+    "titulo": "HYPR, de marketing digital, cria com Unicamp plataforma baseada em IA e análise de 250 milhões de notas fiscais",
+    "fonte": "Valor Economico",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6891363,
+    "titulo": "Cacau atinge máxima de 7 meses em Londres; açúcar bruto alcança máxima de quase 2 meses",
+    "fonte": "Money Times",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6918037,
+    "titulo": "Prefeito Renato Junior apresenta balanço de ações e entregas - Prefeitura de Manaus",
+    "fonte": "Google News Acoes",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.694437,
+    "titulo": "Secretaria de Manutenção realiza mais de 35 mil ações de zeladoria em seis meses - Prefeitura de Suzano",
+    "fonte": "Google News Acoes",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6970942,
+    "titulo": "Produtor de Santa Catarina bate recorde ao colher 156 sacas de soja por hectare - Globo Rural",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.6996818,
+    "titulo": "Milei se inspira nos EUA e quer paralisações do governo argentino em caso de impasse sobre orçamento",
+    "fonte": "Folha Mercado",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1783553518.7022443,
+    "titulo": "Tendências 09/07/2026 | das principais ações da Bolsa - XP Investimentos",
+    "fonte": "Google News Acoes",
     "relevancia_atribuida": "BAIXA"
   }
 ]

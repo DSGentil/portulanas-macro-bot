@@ -1,126 +1,5 @@
 [
   {
-    "_timestamp": 1783442768.8789937,
-    "titulo": "Banco Central aumenta fiscalização sobre criptomoedas e stablecoins; entenda como isso afeta o mercado brasileiro",
-    "titulo_original": "Banco Central aumenta fiscalização sobre criptomoedas e stablecoins; entenda como isso afeta o mercado brasileiro",
-    "fonte": "Money Times",
-    "publicado": "07/07 13:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da fiscalização do Banco Central sobre criptomoedas pode gerar maior segurança jurídica para o mercado, mas também pode impor restrições a algumas operações. Se a regulamentação for muito rigorosa, pode haver uma saída de capital do setor no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783442772.6430135,
-    "titulo": "Flávio diz nos EUA que tarifas ajudariam Lula e que agora é o 'pior momento' para adotá-las",
-    "titulo_original": "Flávio diz nos EUA que tarifas ajudariam Lula e que agora é o 'pior momento' para adotá-las",
-    "fonte": "Folha Mercado",
-    "publicado": "07/07 12:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração de Flávio Bolsonaro sobre as tarifas sugere uma estratégia política de posicionamento em relação às relações comerciais com os EUA. Se os EUA decidirem impor tarifas, isso pode gerar um impacto negativo nas exportações brasileiras e na relação bilateral.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783442776.3310373,
-    "titulo": "Zema defende solução com EUA sobre tarifas e diz que Brasil precisa se aproximar do Ocidente",
-    "titulo_original": "Zema defende solução com EUA sobre tarifas e diz que Brasil precisa se aproximar do Ocidente",
-    "fonte": "Valor Economico",
-    "publicado": "07/07 13:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração de Romeu Zema sobre a necessidade de aproximar o Brasil do Ocidente e negociar tarifas com os EUA sugere uma visão de política externa voltada para alinhamentos tradicionais. Se eleito, uma mudança na orientação da política externa pode impactar as relações comerciais e de investimento do Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783442779.8465645,
-    "titulo": "Press TV: Tráfego no Estreito de Ormuz é conduzido de acordo com os arranjos do Irã",
-    "titulo_original": "Press TV: Traffic in Strait of Hormuz is conducted in accordance with Iran's arrangements",
-    "fonte": "ForexLive",
-    "publicado": "07/07 13:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração do Irã e o aumento do nível de ameaça no Estreito de Ormuz indicam uma escalada de tensões geopolíticas que podem impactar o fornecimento global de petróleo. Se a situação evoluir para um conflito direto, o preço do petróleo pode sofrer novas altas significativas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783442806.0292485,
-    "titulo": "Ibovespa cai e dólar sobe em meio à alta do petróleo com ataques no Estreito de Ormuz",
-    "titulo_original": "Ibovespa cai e dólar sobe em meio à alta do petróleo com ataques no Estreito de Ormuz",
-    "fonte": "Valor Economico",
-    "publicado": "07/07 13:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A escalada das tensões no Estreito de Ormuz e a consequente alta do petróleo aumentam a aversão ao risco global, pressionando o Ibovespa e fortalecendo o dólar. Se a instabilidade persistir, o Banco Central pode ter que considerar o impacto na inflação e nas expectativas de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783442806.030687,
-    "titulo": "Bolsas da Europa recuam com tensões geopolíticas e peso de 'techs'; Londres é exceção",
-    "titulo_original": "Bolsas da Europa recuam com tensões geopolíticas e peso de 'techs'; Londres é exceção",
-    "fonte": "Valor Economico",
-    "publicado": "07/07 13:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda generalizada das bolsas europeias, influenciada por tensões geopolíticas e pelo setor de tecnologia, indica um aumento da aversão ao risco global. Se a situação no Estreito de Ormuz se agravar, a tendência de queda pode se intensificar em outros mercados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783442806.0320272,
-    "titulo": "Expectativas de inflação de um ano atingem o maior nível desde 2023 na pesquisa do Fed de Nova York",
-    "titulo_original": "One-year inflation expectations hit the highest since 2023 in New York Fed survey",
-    "fonte": "ForexLive",
-    "publicado": "07/07 12:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento nas expectativas de inflação de curto prazo, mesmo com a queda nos preços da gasolina, é um sinal preocupante para o Federal Reserve. Se essa tendência se mantiver, o Fed pode ser forçado a adotar uma postura mais hawkish em relação aos juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783442806.0333574,
-    "titulo": "Europa: bolsas fecham na maioria em queda, sob pressão de ações de tecnologia e de olho em tensão em Ormuz",
-    "titulo_original": "Europa: bolsas fecham na maioria em queda, sob pressão de ações de tecnologia e de olho em tensão em Ormuz",
-    "fonte": "Money Times",
-    "publicado": "07/07 13:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A combinação de fatores negativos, como a queda em ações de tecnologia e as tensões geopolíticas no Estreito de Ormuz, contribui para a aversão ao risco nos mercados europeus. Se a situação no Oriente Médio se deteriorar, o fluxo de capital para ativos mais seguros pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783442806.0346873,
-    "titulo": "A corrida da IA está ficando mais cara para a Amazon",
-    "titulo_original": "A corrida da IA está ficando mais cara para a Amazon",
-    "fonte": "InvestNews",
-    "publicado": "07/07 13:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A necessidade da Amazon de captar um volume expressivo de recursos para investimentos em IA demonstra o alto custo e a intensidade da competição neste setor. Se a empresa não conseguir atingir seus objetivos de captação, isso pode impactar seus planos de expansão e rentabilidade.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783449076.1175268,
     "titulo": "Tesouro diz estar preparado para recomprar títulos públicos, diz agência",
     "titulo_original": "Tesouro diz estar preparado para recomprar títulos públicos, diz agência",
@@ -952,6 +831,88 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O 'short squeeze' indica uma dinâmica de mercado específica que impulsionou as ações da Natura. Se o movimento for sustentado por fundamentos da empresa, a alta pode continuar; caso contrário, pode haver uma correção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783553522.7757447,
+    "titulo": "Senado aprova R$ 15 bi extras para exportadores afetados por guerra do Irã",
+    "titulo_original": "Senado aprova R$ 15 bi extras para exportadores afetados por guerra do Irã",
+    "fonte": "Folha Mercado",
+    "publicado": "08/07 18:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação de R$ 15 bilhões adicionais para apoiar exportadores em um contexto de tensões geopolíticas demonstra uma ação fiscal para mitigar impactos externos. Se a medida for efetiva em sustentar as exportações, pode ajudar a equilibrar a balança comercial em um cenário de incertezas globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783553527.3419864,
+    "titulo": "Senado aprova repasse de 3% da arrecadação com bets para Polícia Federal",
+    "titulo_original": "Senado aprova repasse de 3% da arrecadação com bets para Polícia Federal",
+    "fonte": "Valor Economico",
+    "publicado": "08/07 18:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Senado de destinar parte da arrecadação de apostas para a Polícia Federal representa uma nova fonte de financiamento para a instituição. Se a arrecadação se mantiver robusta, isso pode fortalecer a capacidade operacional da PF no combate ao crime organizado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783553531.886709,
+    "titulo": "Juros futuros sobem com fim do acordo entre EUA e Irã, mas mercado mantém a aposta de corte na Selic em agosto",
+    "titulo_original": "Juros futuros sobem com fim do acordo entre EUA e Irã, mas mercado mantém aposta de corte na Selic em agosto",
+    "fonte": "Money Times",
+    "publicado": "08/07 18:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A escalada de tensões geopolíticas no Oriente Médio tende a pressionar os juros globais para cima devido ao aumento do risco e à valorização do petróleo. Se a instabilidade persistir, pode haver maior volatilidade nos juros futuros brasileiros, embora o mercado ainda mantenha a expectativa de corte na Selic em agosto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783553536.406018,
+    "titulo": "Ouro fecha em queda forte com apostas de juros elevados após tensão no Oriente Médio",
+    "titulo_original": "Ouro fecha em queda forte com apostas de juros elevados após tensão no Oriente Médio - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "08/07 15:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda acentuada no preço do ouro, em meio a apostas de juros elevados e tensões no Oriente Médio, sugere que o ativo de refúgio está perdendo atratividade em favor de investimentos com maior retorno em um cenário de juros altos. Se as taxas de juros globais continuarem a subir, o ouro pode permanecer sob pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783553562.4134538,
+    "titulo": "Custos de empréstimo do Japão disparam para maior nível em 30 anos",
+    "titulo_original": "Custos de empréstimo do Japão disparam para maior nível em 30 anos",
+    "fonte": "Folha Mercado",
+    "publicado": "08/07 18:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento expressivo nos custos de empréstimo do Japão, atingindo o maior patamar em 30 anos, pode sinalizar um aperto nas condições financeiras globais. Se essa tendência se espalhar para outras economias, pode impactar o custo do crédito e o apetite por investimentos em mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783553562.4153214,
+    "titulo": "Ibovespa fecha em queda e dólar fica perto da estabilidade em meio à disparada do petróleo",
+    "titulo_original": "Ibovespa fecha em queda e dólar fica perto da estabilidade em meio à disparada do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "08/07 18:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O fechamento do Ibovespa em queda e a estabilidade do dólar, em meio à disparada do petróleo e aumento da aversão a risco global, indicam um cenário de cautela nos mercados. Se a tensão no Oriente Médio se intensificar, a volatilidade tende a aumentar, impactando tanto a renda variável quanto o câmbio.",
     "is_stocks": true
   }
 ]
