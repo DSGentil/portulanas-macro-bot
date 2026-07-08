@@ -755,5 +755,115 @@
     "origem": "domestica",
     "leitura_critica": "O julgamento de uma cobrança bilionária no Carf pode ter implicações fiscais significativas para a Petrobras. Se a decisão for desfavorável à empresa, isso pode impactar seus resultados financeiros. Uma decisão favorável, por outro lado, traria alívio financeiro e poderia influenciar o desempenho da ação.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783524000.5537715,
+    "titulo": "Soja brasileira se aproxima de R$140 a saca, melhor cotação do ano",
+    "titulo_original": "Soja brasileira se aproxima de R$140 a saca, melhor cotação do ano - CNN Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "08/07 09:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta na cotação da soja brasileira pode beneficiar exportadores e produtores, refletindo a demanda internacional e condições de mercado. Se essa tendência de alta se mantiver, pode haver um impacto positivo na balança comercial brasileira e nos resultados de empresas do agronegócio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783524004.1115906,
+    "titulo": "Antecipação do 13º e restituição do IR impulsionam consumo, aponta associação de supermercados",
+    "titulo_original": "Antecipação do 13º e restituição do IR impulsionam consumo, aponta associação de supermercados",
+    "fonte": "Valor Economico",
+    "publicado": "08/07 11:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do consumo em maio, sustentado por fatores sazonais e de renda, sugere uma melhora pontual no poder de compra das famílias. Se o cenário de juros elevados e a desaceleração na abertura de vagas de emprego continuarem, o impulso no consumo pode ser temporário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783524007.6222043,
+    "titulo": "PetroRecôncavo tem queda de 10,4% na produção no mês de junho",
+    "titulo_original": "PetroRecôncavo tem queda de 10,4% na produção no mês de junho",
+    "fonte": "Valor Economico",
+    "publicado": "08/07 10:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda na produção da PetroRecôncavo pode ser reflexo de fatores operacionais ou de mercado. Se essa tendência de declínio na produção se mantiver, isso pode impactar os resultados financeiros da empresa e sua capacidade de atender à demanda, especialmente se o preço do petróleo estiver em alta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783524011.2027998,
+    "titulo": "Oscilações no petróleo e El Niño podem afetar abastecimento e preços dos alimentos, diz Abras",
+    "titulo_original": "Oscilações no petróleo e El Niño podem afetar abastecimento e preços dos alimentos, diz Abras",
+    "fonte": "Valor Economico",
+    "publicado": "08/07 11:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de volatilidade no preço do petróleo e os efeitos do El Niño representa um risco para a estabilidade dos preços dos alimentos no Brasil. Se as tensões geopolíticas persistirem elevando o petróleo e o El Niño causar secas ou excesso de chuvas, a inflação de alimentos pode ser pressionada para cima.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783524101.206094,
+    "titulo": "OpenAI libera ao público nova série de modelos de IA nesta quinta-feira",
+    "titulo_original": "OpenAI libera ao público nova série de modelos de IA nesta quinta-feira",
+    "fonte": "Folha Mercado",
+    "publicado": "08/07 11:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A liberação de novos modelos de IA pela OpenAI pode impulsionar a adoção e o desenvolvimento de tecnologias baseadas em inteligência artificial em diversos setores. Se esses modelos demonstrarem capacidades significativamente superiores, isso pode acelerar a automação e a transformação digital em empresas globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783524101.2075317,
+    "titulo": "Brava Energia (BRAV3): BTG vê ponto de entrada atrativo com OPA da Ecopetrol no radar",
+    "titulo_original": "Brava Energia (BRAV3): BTG vê ponto de entrada atrativo com OPA da Ecopetrol no radar",
+    "fonte": "Money Times",
+    "publicado": "08/07 11:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A aproximação da OPA da Ecopetrol sobre a Brava Energia pode gerar volatilidade nas ações da BRAV3. Se a transação for concluída nos termos esperados, isso pode sinalizar consolidação no setor de energia e oportunidades para investidores que anteciparem o movimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783524101.2089014,
+    "titulo": "Natura prevê resultados piores que o previsto. E não há um único ‘culpado’ para a queda",
+    "titulo_original": "Natura prevê resultados piores que o previsto. E não há um único ‘culpado’ para a queda",
+    "fonte": "InvestNews",
+    "publicado": "08/07 11:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A previsão de resultados mais fracos para a Natura indica desafios no ambiente de consumo e operacionais da empresa. Se os problemas de escassez de produtos persistirem, isso pode continuar a pressionar a receita e a lucratividade da companhia no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783524101.2102544,
+    "titulo": "Cury (CURY3): Ações recuam 5% após prévia do 2T26; o que dizem os analistas?",
+    "titulo_original": "Cury (CURY3): Ações recuam 5% após prévia do 2T26; o que dizem os analistas?",
+    "fonte": "Money Times",
+    "publicado": "08/07 11:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas ações da Cury após a divulgação da prévia operacional sugere que o mercado pode ter precificado expectativas mais altas ou que outros fatores macroeconômicos estão influenciando o setor. Se a empresa conseguir reverter a percepção negativa com resultados consolidados fortes, as ações podem se recuperar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783524101.2116284,
+    "titulo": "Minerais críticos chegam à B3: entenda a proposta dos ETFs e o potencial do Brasil no setor",
+    "titulo_original": "Minerais críticos chegam à B3: entenda a proposta dos ETFs e o potencial do Brasil no setor - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "08/07 11:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A introdução de ETFs de minerais críticos na B3 pode atrair mais capital para o setor e aumentar a liquidez desses ativos. Se houver um aumento significativo na demanda por esses minerais e o Brasil conseguir explorar seu potencial, isso pode impulsionar o desenvolvimento de novas cadeias produtivas e investimentos.",
+    "is_stocks": true
   }
 ]
