@@ -865,5 +865,112 @@
     "origem": "domestica",
     "leitura_critica": "A introdução de ETFs de minerais críticos na B3 pode atrair mais capital para o setor e aumentar a liquidez desses ativos. Se houver um aumento significativo na demanda por esses minerais e o Brasil conseguir explorar seu potencial, isso pode impulsionar o desenvolvimento de novas cadeias produtivas e investimentos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783529154.908788,
+    "titulo": "Tesouro IPCA+: juro real recorde impulsiona corrida de investidores e vendas saltam 73% no semestre",
+    "titulo_original": "Tesouro IPCA+: juro real recorde impulsiona corrida de investidores e vendas saltam 73% no semestre",
+    "fonte": "Money Times",
+    "publicado": "08/07 13:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento significativo nas vendas do Tesouro IPCA+ sugere uma forte demanda por títulos atrelados à inflação, indicando que os investidores buscam proteção contra a alta de preços e/ou retornos reais atrativos. Se os juros reais continuarem elevados, isso pode indicar expectativas de inflação persistente ou uma política monetária contracionista.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783529158.5608616,
+    "titulo": "Pix restrito: A medida do BC que pode impactar bancos e fintechs com falhas na segurança",
+    "titulo_original": "Pix restrito: A medida do BC que pode impactar bancos e fintechs com falhas na segurança",
+    "fonte": "Money Times",
+    "publicado": "08/07 12:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação do Banco Central em restringir o acesso ao Pix para instituições com falhas de segurança representa uma medida regulatória com potencial impacto direto no setor financeiro. Se implementada, essa medida pode forçar bancos e fintechs a investirem mais em segurança, o que pode aumentar custos operacionais e afetar a oferta de serviços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783529162.1688933,
+    "titulo": "Ataque cibernético vaza dados de 500 mil pacientes da rede pública",
+    "titulo_original": "Ataque cibernético vaza dados de 500 mil pacientes da rede pública",
+    "fonte": "Valor Economico",
+    "publicado": "08/07 13:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A instauração de um processo sancionador pela ANPD indica uma ação regulatória concreta em resposta a um incidente de segurança. Se o Isac for multado ou sofrer outras sanções, isso pode aumentar a percepção de risco para outras organizações que gerenciam dados sensíveis, incentivando maiores investimentos em segurança cibernética.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783529165.756854,
+    "titulo": "Fim da subvenção à gasolina deve ser adiado com alta do petróleo",
+    "titulo_original": "Fim da subvenção à gasolina deve ser adiado com alta do petróleo - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "08/07 13:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O adiamento do fim da subvenção à gasolina implica em uma decisão fiscal que mantém um gasto público, impactando o orçamento. Se a alta do petróleo persistir, o governo pode enfrentar pressão para manter a subvenção por mais tempo, o que afetaria as contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783529177.1016467,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai 1% com tensões geopolíticas; VALE3 despenca 4%",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai 1% com tensões geopolíticas; VALE3 despenca 4% - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "08/07 12:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa e o desempenho negativo de ações específicas como VALE3 refletem o impacto das tensões geopolíticas no sentimento do mercado. Se as tensões aumentarem, a aversão a risco pode se intensificar, pressionando ainda mais o índice e ações de commodities.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783529177.1032677,
+    "titulo": "Por que o Ibovespa recua nesta quarta, mesmo com forte alta de petroleiras?",
+    "titulo_original": "Por que o Ibovespa recua nesta quarta, mesmo com forte alta de petroleiras? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "08/07 13:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre a alta das petroleiras e a queda do Ibovespa sugere que outros setores ou fatores macroeconômicos estão exercendo maior influência negativa sobre o índice. Se a aversão a risco global se intensificar, isso pode ofuscar os ganhos de setores específicos como o de petróleo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783529177.1047661,
+    "titulo": "Bolsas caem na Europa com novas tensões no Oriente Médio",
+    "titulo_original": "Bolsas caem na Europa com novas tensões no Oriente Médio",
+    "fonte": "Valor Economico",
+    "publicado": "08/07 13:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas europeias reflete o impacto da aversão a risco global causada pelas tensões no Oriente Médio. Se o conflito se intensificar, a tendência de queda nos mercados de ações globais pode persistir, afetando também outros ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783529177.106294,
+    "titulo": "Ibovespa cai com crise entre EUA e Irã e ata do Fed no radar",
+    "titulo_original": "Ibovespa cai com crise entre EUA e Irã e ata do Fed no radar - Exame",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/07 10:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa é atribuída a dois fatores: a crise geopolítica entre EUA e Irã e a expectativa pela ata do Fed. Se a ata do Fed indicar um aperto monetário mais agressivo, isso pode aumentar a aversão a risco global e pressionar ainda mais o índice brasileiro.",
+    "is_stocks": true
   }
 ]
