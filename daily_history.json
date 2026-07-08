@@ -1,249 +1,5 @@
 [
   {
-    "_timestamp": 1783369871.1851957,
-    "titulo": "Dólar recua a R$ 5,13 com expectativa de Fed menos agressivo",
-    "titulo_original": "Dólar recua a R$ 5,13 com expectativa de Fed menos agressivo",
-    "fonte": "Money Times",
-    "publicado": "06/07 17:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar a R$ 5,13, associada à expectativa de um Fed menos agressivo, sugere uma melhora no apetite por risco em mercados emergentes. Se o Fed realmente sinalizar uma postura mais branda, isso pode sustentar a valorização do real e abrir espaço para novas quedas da moeda americana.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783369874.8004053,
-    "titulo": "Taxas de DIs caem em sessão de dólar novamente abaixo dos R$5,15",
-    "titulo_original": "Taxas de DIs caem em sessão de dólar novamente abaixo dos R$5,15 - Notícias Agrícolas",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "06/07 16:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas de DIs, acompanhada pela desvalorização do dólar, indica uma percepção de menor risco e possivelmente expectativas de juros mais baixos no futuro. Se essa tendência de queda nas taxas de juros se confirmar, pode impulsionar o mercado de crédito e a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783369878.2763531,
-    "titulo": "Imposto de exportação sobre petróleo é 'redundante, desnecessário e injustificado', diz IBP",
-    "titulo_original": "Imposto de exportação sobre petróleo é 'redundante, desnecessário e injustificado', diz IBP",
-    "fonte": "Valor Economico",
-    "publicado": "06/07 17:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A posição do IBP contra o imposto de exportação de petróleo sinaliza preocupação com a segurança jurídica e a competitividade do setor. Se o governo mantiver a medida, isso pode desestimular investimentos de longo prazo e afetar a pauta exportadora brasileira, gerando um cenário de maior incerteza para o setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783369881.7283814,
-    "titulo": "Mercado começa ver abertura para uma Selic abaixo de 14%",
-    "titulo_original": "Mercado começa ver abertura para uma Selic abaixo de 14% - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "06/07 13:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de uma Selic abaixo de 14% indica uma mudança na percepção do mercado sobre a trajetória futura da política monetária. Se essa expectativa se concretizar com cortes de juros, isso pode estimular o crédito e o investimento, além de influenciar a precificação de ativos de renda fixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783369946.5481899,
-    "titulo": "Wall Street fecha em alta com ações de tecnologia; Dow Jones renova recordes históricos",
-    "titulo_original": "Wall Street fecha em alta com ações de tecnologia; Dow Jones renova recordes históricos",
-    "fonte": "Money Times",
-    "publicado": "06/07 17:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta de Wall Street, especialmente com o setor de tecnologia liderando e o Dow Jones renovando recordes, sugere um otimismo renovado no mercado americano. Se essa tendência se mantiver, pode indicar um apetite a risco crescente e um fluxo de capital positivo para ativos de maior volatilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783369946.5489507,
-    "titulo": "Calendário econômico e de eventos na Ásia Terça-feira, 7 de julho de 2026 - apenas dados do Japão",
-    "titulo_original": "Economic and event calendar in Asia Tuesday, July 7, 2026 - Japan data only",
-    "fonte": "ForexLive",
-    "publicado": "06/07 17:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A persistência na queda dos gastos das famílias japonesas, mesmo com dados de salários sólidos, sugere uma cautela contínua no consumo. Se os custos de vida permanecerem elevados, a recuperação do consumo doméstico pode ser mais lenta do que o esperado, impactando a atividade econômica geral.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783369946.5496535,
-    "titulo": "Microsoft demitirá 4.800 funcionários em reestruturação da unidade Xbox",
-    "titulo_original": "Microsoft demitirá 4.800 funcionários em reestruturação da unidade Xbox",
-    "fonte": "Folha Mercado",
-    "publicado": "06/07 17:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A reestruturação da Microsoft com demissões em massa pode indicar uma mudança estratégica ou uma resposta a pressões de mercado. Se os cortes forem focados em áreas de menor crescimento, isso pode liberar recursos para investimentos em novas tecnologias; caso contrário, pode sinalizar um cenário de desaceleração para a empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783369946.5505052,
-    "titulo": "Renúncia no conselho da Vale (VALE3): como a notícia impacta nas ações?",
-    "titulo_original": "Renúncia no conselho da Vale (VALE3): como a notícia impacta nas ações? - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "06/07 15:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A renúncia de um membro do conselho da Vale pode gerar volatilidade no curto prazo, especialmente se houver preocupações sobre a governança corporativa ou a continuidade de estratégias. Se a renúncia for motivada por divergências significativas, isso pode indicar instabilidade interna; caso contrário, pode ser um evento isolado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783369946.5512185,
-    "titulo": "Eliminações podem frustrar previsões de venda de cerveja, e Ambev amarga perdas na Bolsa",
-    "titulo_original": "Eliminações podem frustrar previsões de venda de cerveja, e Ambev amarga perdas na Bolsa",
-    "fonte": "Folha Mercado",
-    "publicado": "06/07 16:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "As eliminações precoces de seleções populares na Copa do Mundo podem impactar negativamente as vendas de cerveja, afetando empresas como a Ambev. Se o desempenho da empresa na bolsa refletir essa queda nas expectativas de vendas, isso pode sinalizar um cenário de consumo mais contido do que o projetado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783375306.500529,
-    "titulo": "BC estuda limitar acesso ao Pix a instituições mais vulneráveis a ataques cibernéticos",
-    "titulo_original": "BC estuda limitar acesso ao Pix a instituições mais vulneráveis a ataques cibernéticos",
-    "fonte": "Folha Mercado",
-    "publicado": "06/07 18:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de limitação de acesso ao Pix visa reforçar a segurança do sistema financeiro. Se implementada, pode aumentar os custos de adequação para instituições menores, mas também reduzir o risco sistêmico de fraudes e desvios de recursos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783375309.996123,
-    "titulo": "Exportações de soja do Brasil somam 1,507 milhão de toneladas em julho, aponta Secex - Canal Rural",
-    "titulo_original": "Exportações de soja do Brasil somam 1,507 milhão de toneladas em julho, aponta Secex - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "06/07 17:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O volume de exportação de soja é um indicador da atividade econômica do agronegócio brasileiro. Se este volume for expressivo e consistente, pode contribuir positivamente para o PIB e para a balança comercial do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783375313.413053,
-    "titulo": "Representantes de setores dos EUA e Brasil pedem em audiências exceções à tarifa de 25%",
-    "titulo_original": "Representantes de setores dos EUA e Brasil pedem em audiências exceções à tarifa de 25%",
-    "fonte": "Folha Mercado",
-    "publicado": "06/07 14:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O pedido de exceções à tarifa proposta pelo governo Trump pode sinalizar uma negociação em curso que pode resultar na manutenção ou alteração da medida. Se a tarifa for implementada, pode afetar o fluxo comercial e a competitividade de setores específicos; se for revertida, o impacto será evitado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783375316.8742368,
-    "titulo": "Juros futuros recuam com apoio do real e alívio dos Treasuries",
-    "titulo_original": "Juros futuros recuam com apoio do real e alívio dos Treasuries",
-    "fonte": "Valor Economico",
-    "publicado": "06/07 18:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda dos juros futuros, acompanhando o alívio dos Treasuries e a valorização do real, sugere uma melhora nas expectativas de risco no Brasil. Se essa tendência de queda se mantiver, pode indicar um cenário futuro de juros mais baixos, o que favoreceria o crédito e o investimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783375382.043112,
-    "titulo": "Trump diz que Walmart vai baixar o preço do bife moído. (ps. Cuidado com as inverdades de Trump)",
-    "titulo_original": "Trump says Walmart will lower the price of ground beef. (ps. Be wary of Trump's untruths)",
-    "fonte": "ForexLive",
-    "publicado": "06/07 17:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Se a declaração de Trump sobre a redução de preços do Walmart se concretizar e for amplamente seguida por outros varejistas, isso poderia sinalizar uma pressão descendente sobre a inflação nos EUA. Caso contrário, se a notícia se provar falsa ou isolada, o impacto sobre as expectativas inflacionárias será nulo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783375382.0440125,
-    "titulo": "Walmart (WALM34) vai reduzir preço dos produtos; carne moída deve cair cerca de 15%, diz Trump",
-    "titulo_original": "Walmart (WALM34) vai reduzir preço dos produtos; carne moída deve cair cerca de 15%, diz Trump",
-    "fonte": "Money Times",
-    "publicado": "06/07 18:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre a redução de preços no Walmart, se confirmada, pode indicar uma pressão para baixo na inflação ao consumidor nos EUA. A magnitude do impacto dependerá da adesão de outros varejistas a essa iniciativa e da sustentabilidade dessas reduções de preço.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783375382.045083,
-    "titulo": "Ibovespa cai com maior apetite por ações de tecnologia dos EUA; dólar recua a R$ 5,13 - Bloomberg Línea Brasil",
-    "titulo_original": "Ibovespa cai com maior apetite por ações de tecnologia dos EUA; dólar recua a R$ 5,13 - Bloomberg Línea Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "06/07 18:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa, em contraste com a alta das bolsas americanas focadas em tecnologia, sugere uma rotação de capital. A valorização do real, que levou o dólar a R$ 5,13, pode ser um fator de alívio para a inflação importada, mas o movimento das ações de tecnologia nos EUA é um indicador de apetite a risco global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783375382.0459073,
-    "titulo": "Exportação de carne bovina do Brasil bate recorde e gera quase US$ 10 bi no 1º semestre, diz Abiec",
-    "titulo_original": "Exportação de carne bovina do Brasil bate recorde e gera quase US$ 10 bi no 1º semestre, diz Abiec",
-    "fonte": "Folha Mercado",
-    "publicado": "06/07 17:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O recorde nas exportações de carne bovina demonstra a força do agronegócio brasileiro e contribui positivamente para a balança comercial e o PIB. Esse desempenho pode sustentar a atividade econômica do setor e gerar empregos relacionados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783375382.0468044,
-    "titulo": "Ibovespa fecha em forte baixa enquanto bolsas de NY avançam; dólar se descola do exterior e cai",
-    "titulo_original": "Ibovespa fecha em forte baixa enquanto bolsas de NY avançam; dólar se descola do exterior e cai",
-    "fonte": "Valor Economico",
-    "publicado": "06/07 18:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa, em contramão às bolsas de NY, sugere uma dinâmica interna específica, possivelmente ligada à rotação para ações de tecnologia nos EUA. A queda dos juros futuros no Brasil, acompanhando o alívio dos Treasuries e a valorização do real, pode indicar uma melhora nas expectativas de inflação ou um cenário de menor risco fiscal.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783423999.462337,
     "titulo": "Juíza federal determina retomada da correção de depósitos tributários pela Selic",
     "titulo_original": "Juíza federal determina retomada da correção de depósitos tributários pela Selic - JOTA Info",
@@ -834,6 +590,92 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "A queda do Ibovespa, associada à alta do petróleo e à piora geopolítica, indica uma sensibilidade do mercado brasileiro a choques externos. Se o conflito no Oriente Médio se agravar, o Ibovespa pode continuar sob pressão; caso contrário, a melhora no cenário global pode favorecer uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783510368.6629424,
+    "titulo": "Trump diz que Memorando de Entendimento com o Irã acabou, não quer se envolver com eles",
+    "titulo_original": "Trump says Memorandum of Understanding with Iran is over, don't want to engage with them",
+    "fonte": "ForexLive",
+    "publicado": "08/07 05:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre o fim do acordo com o Irã eleva a tensão geopolítica, o que tende a sustentar os preços do petróleo no curto prazo. Se a escalada militar continuar, o mercado pode precificar um ciclo de alta de juros mais prolongado por parte do Fed.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783510372.1288378,
+    "titulo": "Sessão matinal europeia do investingLive: Preços do petróleo disparam com Trump encerrando acordo com o Irã",
+    "titulo_original": "investingLive European morning session wrap: Oil prices surge as Trump calls off Iran deal",
+    "fonte": "ForexLive",
+    "publicado": "08/07 07:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão de Trump de encerrar o acordo com o Irã intensifica as preocupações geopolíticas, impulsionando o petróleo e afetando negativamente ativos de refúgio como ouro e prata. Se a escalada de tensões persistir, o cenário de inflação pode se agravar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783510375.5219471,
+    "titulo": "Oriente Médio | Presidente dos Estados Unidos, Donald Trump afirmou nesta quarta-feira, 8, que considera encerrado o cessar-fogo com o Irã após a nova troca de ataques entre os dois países.",
+    "titulo_original": "ORIENTE MÉDIO | O presidente dos Estados Unidos, Donald Trump afirmou nesta quarta-feira, 8, que considera encerrado o cessar-fogo com o Irã após a nova troca de ataques entre os dois países. Ao comentar a ofensiva iraniana contra bases militares am - instagram.com",
+    "fonte": "Google News Geopolitica",
+    "publicado": "08/07 07:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre o fim do cessar-fogo com o Irã eleva significativamente as tensões geopolíticas na região. Se a escalada militar se intensificar, isso pode gerar volatilidade nos mercados globais, especialmente no preço do petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783510378.9647005,
+    "titulo": "O humor de risco azeda após Trump desistir do acordo com o Irã, ameaça cortar laços comerciais com a Espanha",
+    "titulo_original": "Risk mood sours after Trump walks on Iran deal, threatens to cut trade ties with Spain",
+    "fonte": "ForexLive",
+    "publicado": "08/07 06:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O fim do acordo com o Irã e as ameaças de Trump a parceiros comerciais aumentam a aversão ao risco global, impulsionando o petróleo e os rendimentos de títulos do tesouro americano. Se essa tendência de instabilidade persistir, pode haver pressão inflacionária e um aperto monetário mais agressivo por parte do Fed.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783510391.4087744,
+    "titulo": "Revés no Irã eleva petróleo, cashback do IR, dólar, Ibovespa e mais pílulas da economia 08.07",
+    "titulo_original": "Revés no Irã eleva petróleo, cashback do IR, dólar, Ibovespa e mais pílulas da economia 08.07 - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/07 08:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A escalada de tensões com o Irã está impactando negativamente o mercado brasileiro, com alta do dólar e do Ibovespa, além da valorização do petróleo. A menção a cashback do IR sugere possíveis medidas fiscais em discussão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783510391.4098547,
+    "titulo": "Agenda de empresas: Oncoclínicas rumo à recuperação extrajudicial; petróleo dispara de novo",
+    "titulo_original": "Agenda de empresas: Oncoclínicas rumo à recuperação extrajudicial; petróleo dispara de novo",
+    "fonte": "Valor Economico",
+    "publicado": "08/07 08:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A notícia destaca a situação delicada da Oncoclínicas, enquanto a alta do petróleo, impulsionada por eventos externos, beneficia empresas do setor. A possível paralisação na BHP pode gerar impactos pontuais na produção de minério de ferro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783510391.4111016,
+    "titulo": "Dólar sobe e fecha a R$ 5,15; Ibovespa recua 0,25%",
+    "titulo_original": "Dólar sobe e fecha a R$ 5,15; Ibovespa recua 0,25% - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/07 05:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar e a queda do Ibovespa indicam um cenário de cautela no mercado financeiro brasileiro. A notícia, por si só, não detalha os motivos específicos para esses movimentos.",
     "is_stocks": true
   }
 ]
