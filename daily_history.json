@@ -677,5 +677,83 @@
     "origem": "domestica",
     "leitura_critica": "A valorização do dólar e a queda do Ibovespa indicam um cenário de cautela no mercado financeiro brasileiro. A notícia, por si só, não detalha os motivos específicos para esses movimentos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783516576.5435014,
+    "titulo": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic",
+    "titulo_original": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/07 08:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência de um ex-diretor do BC em relação ao consenso sobre os cortes da Selic pode indicar diferentes visões sobre o cenário econômico futuro. Se o Banco Central seguir a linha de cortes, isso reforçaria a política monetária expansionista. Caso contrário, a manutenção da taxa de juros pode sinalizar cautela com a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783516581.3296063,
+    "titulo": "Poupança tem saída líquida de R$ 237,5 milhões em junho, informa BC",
+    "titulo_original": "Poupança tem saída líquida de R$ 237,5 milhões em junho, informa BC",
+    "fonte": "Valor Economico",
+    "publicado": "08/07 09:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A saída líquida da poupança em junho, e o acumulado anual, indicam uma menor atratividade deste investimento em comparação com outras alternativas de renda fixa. Se essa tendência de saída persistir, pode sinalizar que os investidores buscam retornos mais elevados em outros produtos. Uma reversão nesse fluxo dependerá das condições de mercado e da atratividade de outras aplicações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783516586.2960246,
+    "titulo": "Em meio à nova alta do petróleo, bolsa cai e dólar sobe",
+    "titulo_original": "Em meio à nova alta do petróleo, bolsa cai e dólar sobe - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/07 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo, ao pressionar a inflação e os custos de produção, tende a gerar aversão ao risco, explicando a queda da bolsa e a valorização do dólar. Se o preço do petróleo continuar em trajetória ascendente, o cenário de inflação e juros mais altos pode se consolidar. Uma eventual queda no preço do petróleo poderia reverter essa dinâmica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783516591.0985024,
+    "titulo": "Petróleo volta a disparar e eleva aversão a risco global",
+    "titulo_original": "Petróleo volta a disparar e eleva aversão a risco global - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "08/07 05:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A nova disparada do petróleo intensifica a aversão ao risco global, o que pode se traduzir em menor liquidez para ativos de maior risco. Se essa tendência de alta nos preços do petróleo persistir, o cenário de inflação global pode se agravar, levando a políticas monetárias mais restritivas. Uma desaceleração nos preços do petróleo poderia aliviar essa pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783516719.7911525,
+    "titulo": "Governo Lula notifica 37 fintechs por movimentar dinheiro de bets ilegais",
+    "titulo_original": "Governo Lula notifica 37 fintechs por movimentar dinheiro de bets ilegais",
+    "fonte": "Folha Mercado",
+    "publicado": "08/07 10:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ação do governo contra fintechs por movimentação de recursos de apostas ilegais sinaliza um aumento na fiscalização e regulamentação do setor. Se essa postura se intensificar, pode gerar maior conformidade regulatória e impactar o fluxo de capitais em plataformas financeiras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783516719.7924364,
+    "titulo": "Carf julga cobrança bilionária da Petrobras",
+    "titulo_original": "Carf julga cobrança bilionária da Petrobras - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "08/07 05:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O julgamento de uma cobrança bilionária no Carf pode ter implicações fiscais significativas para a Petrobras. Se a decisão for desfavorável à empresa, isso pode impactar seus resultados financeiros. Uma decisão favorável, por outro lado, traria alívio financeiro e poderia influenciar o desempenho da ação.",
+    "is_stocks": true
   }
 ]
