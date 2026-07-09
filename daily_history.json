@@ -1,115 +1,5 @@
 [
   {
-    "_timestamp": 1783524000.5537715,
-    "titulo": "Soja brasileira se aproxima de R$140 a saca, melhor cotação do ano",
-    "titulo_original": "Soja brasileira se aproxima de R$140 a saca, melhor cotação do ano - CNN Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "08/07 09:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta na cotação da soja brasileira pode beneficiar exportadores e produtores, refletindo a demanda internacional e condições de mercado. Se essa tendência de alta se mantiver, pode haver um impacto positivo na balança comercial brasileira e nos resultados de empresas do agronegócio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783524004.1115906,
-    "titulo": "Antecipação do 13º e restituição do IR impulsionam consumo, aponta associação de supermercados",
-    "titulo_original": "Antecipação do 13º e restituição do IR impulsionam consumo, aponta associação de supermercados",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 11:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do consumo em maio, sustentado por fatores sazonais e de renda, sugere uma melhora pontual no poder de compra das famílias. Se o cenário de juros elevados e a desaceleração na abertura de vagas de emprego continuarem, o impulso no consumo pode ser temporário.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783524007.6222043,
-    "titulo": "PetroRecôncavo tem queda de 10,4% na produção no mês de junho",
-    "titulo_original": "PetroRecôncavo tem queda de 10,4% na produção no mês de junho",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 10:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda na produção da PetroRecôncavo pode ser reflexo de fatores operacionais ou de mercado. Se essa tendência de declínio na produção se mantiver, isso pode impactar os resultados financeiros da empresa e sua capacidade de atender à demanda, especialmente se o preço do petróleo estiver em alta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783524011.2027998,
-    "titulo": "Oscilações no petróleo e El Niño podem afetar abastecimento e preços dos alimentos, diz Abras",
-    "titulo_original": "Oscilações no petróleo e El Niño podem afetar abastecimento e preços dos alimentos, diz Abras",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 11:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de volatilidade no preço do petróleo e os efeitos do El Niño representa um risco para a estabilidade dos preços dos alimentos no Brasil. Se as tensões geopolíticas persistirem elevando o petróleo e o El Niño causar secas ou excesso de chuvas, a inflação de alimentos pode ser pressionada para cima.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783524101.206094,
-    "titulo": "OpenAI libera ao público nova série de modelos de IA nesta quinta-feira",
-    "titulo_original": "OpenAI libera ao público nova série de modelos de IA nesta quinta-feira",
-    "fonte": "Folha Mercado",
-    "publicado": "08/07 11:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A liberação de novos modelos de IA pela OpenAI pode impulsionar a adoção e o desenvolvimento de tecnologias baseadas em inteligência artificial em diversos setores. Se esses modelos demonstrarem capacidades significativamente superiores, isso pode acelerar a automação e a transformação digital em empresas globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783524101.2075317,
-    "titulo": "Brava Energia (BRAV3): BTG vê ponto de entrada atrativo com OPA da Ecopetrol no radar",
-    "titulo_original": "Brava Energia (BRAV3): BTG vê ponto de entrada atrativo com OPA da Ecopetrol no radar",
-    "fonte": "Money Times",
-    "publicado": "08/07 11:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A aproximação da OPA da Ecopetrol sobre a Brava Energia pode gerar volatilidade nas ações da BRAV3. Se a transação for concluída nos termos esperados, isso pode sinalizar consolidação no setor de energia e oportunidades para investidores que anteciparem o movimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783524101.2089014,
-    "titulo": "Natura prevê resultados piores que o previsto. E não há um único ‘culpado’ para a queda",
-    "titulo_original": "Natura prevê resultados piores que o previsto. E não há um único ‘culpado’ para a queda",
-    "fonte": "InvestNews",
-    "publicado": "08/07 11:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A previsão de resultados mais fracos para a Natura indica desafios no ambiente de consumo e operacionais da empresa. Se os problemas de escassez de produtos persistirem, isso pode continuar a pressionar a receita e a lucratividade da companhia no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783524101.2102544,
-    "titulo": "Cury (CURY3): Ações recuam 5% após prévia do 2T26; o que dizem os analistas?",
-    "titulo_original": "Cury (CURY3): Ações recuam 5% após prévia do 2T26; o que dizem os analistas?",
-    "fonte": "Money Times",
-    "publicado": "08/07 11:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas ações da Cury após a divulgação da prévia operacional sugere que o mercado pode ter precificado expectativas mais altas ou que outros fatores macroeconômicos estão influenciando o setor. Se a empresa conseguir reverter a percepção negativa com resultados consolidados fortes, as ações podem se recuperar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783524101.2116284,
-    "titulo": "Minerais críticos chegam à B3: entenda a proposta dos ETFs e o potencial do Brasil no setor",
-    "titulo_original": "Minerais críticos chegam à B3: entenda a proposta dos ETFs e o potencial do Brasil no setor - Bora Investir",
-    "fonte": "Google News Acoes",
-    "publicado": "08/07 11:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A introdução de ETFs de minerais críticos na B3 pode atrair mais capital para o setor e aumentar a liquidez desses ativos. Se houver um aumento significativo na demanda por esses minerais e o Brasil conseguir explorar seu potencial, isso pode impulsionar o desenvolvimento de novas cadeias produtivas e investimentos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783529154.908788,
     "titulo": "Tesouro IPCA+: juro real recorde impulsiona corrida de investidores e vendas saltam 73% no semestre",
     "titulo_original": "Tesouro IPCA+: juro real recorde impulsiona corrida de investidores e vendas saltam 73% no semestre",
@@ -895,6 +785,89 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A estreia em alta das ações da Azul em Nova York e na B3, após a conclusão da recuperação judicial, sugere uma percepção positiva do mercado sobre a nova fase da companhia. Se a empresa conseguir manter essa trajetória de crescimento e rentabilidade, isso pode atrair mais investidores e fortalecer sua posição no mercado aéreo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783634471.5675566,
+    "titulo": "Taxa Selic rendendo 14% ao ano já tem data prevista em 2026",
+    "titulo_original": "Taxa Selic rendendo 14% ao ano já tem data prevista em 2026 - Investidor10",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/07 16:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aponta para a expectativa do mercado em relação à taxa Selic em 2026, indicando que a taxa de 14% ao ano pode se manter ou ter alterações em datas futuras. Essa informação é relevante para projeções de custo de capital e rentabilidade de investimentos no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783634475.1734776,
+    "titulo": "Juros futuros fecham em queda com alívio no petróleo",
+    "titulo_original": "Juros futuros fecham em queda com alívio no petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "09/07 18:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda nos juros futuros, impulsionada pelo alívio nos preços do petróleo, sugere que o mercado precificou uma menor probabilidade de pressões inflacionárias vindas da energia. Se o petróleo continuar em patamares mais baixos, isso pode dar espaço para o Banco Central considerar uma política monetária menos restritiva no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783634478.7446775,
+    "titulo": "Dólar recua ao menor nível do mês em dia de alívio global",
+    "titulo_original": "Dólar recua ao menor nível do mês em dia de alívio global - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/07 17:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desvalorização do dólar em um contexto de alívio global pode indicar um aumento do apetite por risco, levando investidores a buscar ativos em mercados emergentes. Se essa tendência se consolidar, pode haver entrada de capital no Brasil, mas a notícia não especifica o destino desse fluxo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783634482.337433,
+    "titulo": "A guerra recomeçou; descubra o que mudar em sua carteira",
+    "titulo_original": "A guerra recomeçou; descubra o que mudar em sua carteira",
+    "fonte": "Folha Mercado",
+    "publicado": "09/07 18:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A escalada do conflito no Oriente Médio pode gerar incertezas que impactam a inflação e as expectativas de juros, devido a possíveis interrupções no fornecimento de energia e aumento da aversão ao risco. Se a instabilidade persistir, pode pressionar os bancos centrais a manterem políticas monetárias mais restritivas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783634486.8799348,
+    "titulo": "Petrobras conclui aquisição de bloco exploratório em São Tomé e Príncipe",
+    "titulo_original": "Petrobras conclui aquisição de bloco exploratório em São Tomé e Príncipe",
+    "fonte": "Valor Economico",
+    "publicado": "09/07 18:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A expansão internacional da Petrobras, com a aquisição de um bloco exploratório na África, demonstra uma estratégia de crescimento e diversificação de ativos. Se a exploração for bem-sucedida, pode aumentar a produção futura da companhia, mas o impacto direto nos canais macroeconômicos brasileiros não é explicitado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783634486.8814626,
+    "titulo": "Opções de Copom da B3 apontam para corte de 0,25% na Selic em agosto",
+    "titulo_original": "Opções de Copom da B3 apontam para corte de 0,25% na Selic em agosto - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/07 15:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de um corte de 0,25% na Selic em agosto, indicada pelas opções de Copom na B3, sugere que o mercado precifica uma postura mais branda do Banco Central. Se essa redução se concretizar, pode estimular o crédito e o consumo, mas a magnitude do corte e o cenário econômico futuro determinarão o real impacto.",
     "is_stocks": true
   }
 ]
