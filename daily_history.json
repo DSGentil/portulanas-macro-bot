@@ -1,253 +1,5 @@
 [
   {
-    "_timestamp": 1783449076.1175268,
-    "titulo": "Tesouro diz estar preparado para recomprar títulos públicos, diz agência",
-    "titulo_original": "Tesouro diz estar preparado para recomprar títulos públicos, diz agência",
-    "fonte": "Money Times",
-    "publicado": "07/07 15:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do Tesouro Nacional sobre a possibilidade de recompra de títulos públicos indica uma postura ativa na gestão da dívida e do mercado de renda fixa. Se o Tesouro efetivamente realizar recompras, isso pode influenciar as taxas de juros de títulos públicos, potencialmente reduzindo-as em cenários de volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783449080.6454442,
-    "titulo": "XP projeta Selic a 14% ao fim de 2026, com expectativa de corte em agosto - Estadão",
-    "titulo_original": "XP projeta Selic a 14% ao fim de 2026, com expectativa de corte em agosto - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/07 11:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção da XP para a Selic em 14% ao fim de 2026, com expectativa de corte em agosto, sugere um cenário de política monetária que pode se tornar mais flexível no médio prazo. Se o Banco Central iniciar os cortes em agosto conforme esperado, isso pode sinalizar uma confiança na trajetória da inflação ou uma priorização do crescimento econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783449085.171621,
-    "titulo": "Dólar sobe para R$ 5,14 e curva de juros avança nesta terça-feira - Canal Rural",
-    "titulo_original": "Dólar sobe para R$ 5,14 e curva de juros avança nesta terça-feira - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/07 09:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar para R$ 5,14 e o avanço da curva de juros indicam um cenário de maior custo de financiamento e possível pressão inflacionária. Se a curva de juros avança, isso pode refletir expectativas de manutenção ou aumento da taxa Selic, impactando o custo do crédito e o investimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783449089.6873891,
-    "titulo": "Dólar avança e Bolsa recua, com foco em tensões no Oriente Médio e excesso de investimentos em IA - Folha de S.Paulo",
-    "titulo_original": "Dólar avança e Bolsa recua, com foco em tensões no Oriente Médio e excesso de investimentos em IA - Folha de S.Paulo",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/07 10:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar e o recuo da Bolsa, impulsionados por tensões no Oriente Médio e pelo excesso de investimentos em IA, sugerem um cenário de aversão ao risco. Se as tensões geopolíticas se intensificarem, isso pode levar a uma maior fuga para ativos considerados seguros, como o dólar, e pressionar o mercado de ações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783449094.176635,
-    "titulo": "Tesouro dos EUA vende US$ 69 bilhões em títulos de três meses com alto rendimento de 4,179%",
-    "titulo_original": "US treasury sells $69 billion dollars of three or noted a high yield of 4.179%",
-    "fonte": "ForexLive",
-    "publicado": "07/07 14:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A venda de títulos do Tesouro dos EUA com um rendimento de 4,179% indica um nível de remuneração para a dívida soberana americana. Se a demanda por esses títulos se mantiver alta, isso pode sugerir um fluxo de capital para ativos de renda fixa nos EUA, o que, por sua vez, pode influenciar as taxas de juros globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783456292.4155188,
-    "titulo": "Líder do PT diz que Alcolumbre será eleito inimigo se PEC do fim da escala 6x1 não avançar no Senado",
-    "titulo_original": "Líder do PT diz que Alcolumbre será eleito inimigo se PEC do fim da escala 6x1 não avançar no Senado",
-    "fonte": "Valor Economico",
-    "publicado": "07/07 15:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do líder do PT sobre a PEC do fim da escala 6x1 indica uma pressão política para acelerar a tramitação da matéria no Senado. Se a PEC for aprovada, pode haver um impacto na estrutura de custos de empresas que operam sob essa escala; caso contrário, a negociação política pode se intensificar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783456296.1534464,
-    "titulo": "Por que o dólar saindo do piso é o sinal para travar o câmbio antes do pico eleitoral de Q3",
-    "titulo_original": "Por que o dólar saindo do piso é o sinal para travar o câmbio antes do pico eleitoral de Q3 - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/07 16:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A indicação de que o dólar está saindo de seu piso sugere uma possível reversão de tendência, o que pode ser um sinal para travar o câmbio. Se o cenário eleitoral do terceiro trimestre gerar incertezas, a demanda por dólar pode aumentar, pressionando a moeda brasileira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783456299.819309,
-    "titulo": "Fendt oferece crédito em dólar para compra de máquinas",
-    "titulo_original": "Fendt oferece crédito em dólar para compra de máquinas - Revista Cultivar",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/07 16:09",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A oferta de crédito em dólar pela Fendt pode ser uma estratégia para mitigar o impacto da volatilidade cambial e dos juros para compradores de máquinas. Se o dólar se mantiver estável ou em patamares favoráveis, essa linha de crédito pode impulsionar as vendas de equipamentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783456303.5247462,
-    "titulo": "FMI anuncia Silvana Tenreyro como nova economista-chefe",
-    "titulo_original": "FMI anuncia Silvana Tenreyro como nova economista-chefe",
-    "fonte": "Valor Economico",
-    "publicado": "07/07 16:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A nomeação de Silvana Tenreyro para o FMI, com sua experiência em política monetária, pode influenciar as discussões sobre as perspectivas econômicas globais. Se sua visão se alinhar com uma postura mais cautelosa em relação à inflação, isso pode reforçar a tendência de juros mais altos por mais tempo em algumas economias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783456368.2980816,
-    "titulo": "Quais ações do varejo conseguem crescer apesar dos juros altos? BTG aponta favoritas",
-    "titulo_original": "Quais ações do varejo conseguem crescer apesar dos juros altos? BTG aponta favoritas",
-    "fonte": "Money Times",
-    "publicado": "07/07 16:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise do BTG Pactual sobre o varejo brasileiro em cenário de juros altos sugere que a seleção de empresas com resiliência operacional será crucial. Se a taxa Selic se mantiver elevada por mais tempo, empresas com menor endividamento e maior poder de precificação tendem a apresentar melhor desempenho.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783456368.2993095,
-    "titulo": "Weg (WEGE3) sobe 9% em junho: o que explica a recente valorização da ação?",
-    "titulo_original": "Weg (WEGE3) sobe 9% em junho: o que explica a recente valorização da ação?",
-    "fonte": "Money Times",
-    "publicado": "07/07 16:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte valorização da Weg em junho, impulsionada pela demanda em infraestrutura elétrica para IA, demonstra o potencial de setores alinhados a tendências tecnológicas. Se a adoção de IA continuar a crescer, a demanda por soluções de infraestrutura elétrica pode sustentar o desempenho da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783456368.3004909,
-    "titulo": "Vale (VALE3): A expectativa do Citi para o lucro do 2T26",
-    "titulo_original": "Vale (VALE3): A expectativa do Citi para o lucro do 2T26",
-    "fonte": "Money Times",
-    "publicado": "07/07 16:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Citi para o lucro da Vale no 2T26, apesar de uma queda percentual, indica um crescimento robusto na receita. Se as estimativas de receita se concretizarem, isso pode sinalizar uma demanda forte por commodities, mesmo com margens de lucro sob pressão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783456368.3016129,
-    "titulo": "Data Expert: Monitor semanal de Preço de Paridade de Importação da Petrobras (07/07/2026) - XP Investimentos",
-    "titulo_original": "Data Expert: Monitor semanal de Preço de Paridade de Importação da Petrobras (07/07/2026) - XP Investimentos",
-    "fonte": "Google News Acoes",
-    "publicado": "07/07 15:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O monitoramento semanal do PPI da Petrobras pela XP Investimentos fornece dados importantes para a análise da política de preços da estatal. Se o PPI apresentar volatilidade significativa, isso pode impactar os resultados da empresa e as expectativas do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783456368.3027656,
-    "titulo": "Vale (VALE3) troca comando no conselho e mercado mede risco político",
-    "titulo_original": "Vale (VALE3) troca comando no conselho e mercado mede risco político - suno.com.br",
-    "fonte": "Google News Acoes",
-    "publicado": "07/07 15:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A troca no comando do conselho da Vale levanta questões sobre a influência do risco político na governança da empresa. Se a nova composição do conselho indicar maior interferência política, isso pode gerar incertezas para os investidores e afetar a percepção de risco da ação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783467075.106804,
-    "titulo": "Planalto acusa Flávio Bolsonaro de legitimar investigação injusta dos EUA contra o Brasil",
-    "titulo_original": "Planalto acusa Flávio Bolsonaro de legitimar investigação injusta dos EUA contra o Brasil",
-    "fonte": "Valor Economico",
-    "publicado": "07/07 19:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A crítica do Planalto à participação de Flávio Bolsonaro em audiência nos EUA evidencia divergências internas sobre a política externa e comercial. Se o senador continuar a defender posições que contrariam a diplomacia oficial, isso pode gerar ruído nas relações bilaterais; caso contrário, um alinhamento de discursos pode fortalecer a posição brasileira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783467079.160558,
-    "titulo": "El Niño ameaça produção de soja, milho, café e laranja, diz FGV",
-    "titulo_original": "El Niño ameaça produção de soja, milho, café e laranja, diz FGV - UOL Economia",
-    "fonte": "Google News Commodities",
-    "publicado": "07/07 19:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O alerta da FGV sobre o impacto do El Niño na produção agrícola brasileira indica um risco para a oferta de commodities importantes. Se o fenômeno se manifestar com intensidade, os preços desses produtos podem subir; caso contrário, uma ocorrência mais branda pode limitar os impactos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783467083.1609135,
-    "titulo": "Notícias do mercado americano: petróleo sobe com Trump reimpondo sanções ao Irã",
-    "titulo_original": "investingLive Americas market news wrap: Oil climbs as Trump reimposes sanctions on Iran",
-    "fonte": "ForexLive",
-    "publicado": "07/07 17:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A reimposição de sanções ao Irã e a alta do petróleo indicam um cenário de instabilidade geopolítica com potencial impacto inflacionário. Se as sanções persistirem e a oferta de petróleo for restrita, a inflação pode continuar a subir; caso contrário, a normalização do mercado de energia poderia aliviar as pressões inflacionárias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783467087.2126462,
-    "titulo": "Bitcoin cai com sentimento de risco afetado por ataques dos EUA ao Irã, venda de tecnologia",
-    "titulo_original": "Bitcoin falls as risk sentiment hit by U.S. strikes against Iran, tech sell-off",
-    "fonte": "Investing.com",
-    "publicado": "07/07 19:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Bitcoin, associada a eventos geopolíticos e ao setor de tecnologia, sugere uma correlação com o apetite a risco global. Se a tensão no Oriente Médio se intensificar, o comportamento do Bitcoin pode ser mais volátil; caso contrário, a recuperação do setor de tecnologia pode impulsionar seu valor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783467092.3370557,
-    "titulo": "Ibovespa fecha em queda com alta do petróleo e piora no cenário geopolítico",
-    "titulo_original": "Ibovespa fecha em queda com alta do petróleo e piora no cenário geopolítico - Bloomberg Línea Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "07/07 18:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa, associada à alta do petróleo e à piora geopolítica, indica uma sensibilidade do mercado brasileiro a choques externos. Se o conflito no Oriente Médio se agravar, o Ibovespa pode continuar sob pressão; caso contrário, a melhora no cenário global pode favorecer uma recuperação.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783510368.6629424,
     "titulo": "Trump diz que Memorando de Entendimento com o Irã acabou, não quer se envolver com eles",
     "titulo_original": "Trump says Memorandum of Understanding with Iran is over, don't want to engage with them",
@@ -913,6 +665,98 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "O fechamento do Ibovespa em queda e a estabilidade do dólar, em meio à disparada do petróleo e aumento da aversão a risco global, indicam um cenário de cautela nos mercados. Se a tensão no Oriente Médio se intensificar, a volatilidade tende a aumentar, impactando tanto a renda variável quanto o câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783610401.2357414,
+    "titulo": "IGP-M cai 0,39% e tem menor taxa para 1ª prévia em cinco meses, informa FGV",
+    "titulo_original": "IGP-M cai 0,39% e tem menor taxa para 1ª prévia em cinco meses, informa FGV",
+    "fonte": "Valor Economico",
+    "publicado": "09/07 12:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda na prévia do IGP-M sugere um cenário de desinflação para o índice, o que pode influenciar decisões de reajustes contratuais. Se o índice completo confirmar deflação, isso reforçaria um ambiente de preços mais controlados no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783610405.785883,
+    "titulo": "BC criou anarquia de fintechs operando no Brasil, diz Durigan",
+    "titulo_original": "BC criou anarquia de fintechs operando no Brasil, diz Durigan",
+    "fonte": "Money Times",
+    "publicado": "09/07 11:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Ministro da Fazenda sobre a regulação de fintechs pelo Banco Central sugere uma divergência de visão sobre a política regulatória. Se essa crítica levar a uma revisão das normas para fintechs, pode impactar o setor financeiro e a competição no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783610410.3514986,
+    "titulo": "Dólar ronda a estabilidade no início dos negócios, em linha com o exterior - Valor Econômico",
+    "titulo_original": "Dólar ronda a estabilidade no início dos negócios, em linha com o exterior - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/07 09:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A estabilidade do dólar, em linha com o exterior, sugere um momento de equilíbrio nas moedas globais. Se o cenário externo se mantiver calmo, o dólar pode continuar nesse patamar; uma mudança no apetite a risco global, no entanto, poderia alterar essa dinâmica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783610414.9348862,
+    "titulo": "Dólar hoje recua com Oriente Médio no radar - InfoMoney",
+    "titulo_original": "Dólar hoje recua com Oriente Médio no radar - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/07 09:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar, influenciada pela atenção ao Oriente Médio, sugere uma busca por ativos considerados mais seguros ou uma redução na demanda pela moeda americana em face de incertezas geopolíticas. Se a tensão na região diminuir, o dólar pode se fortalecer novamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783610430.1814418,
+    "titulo": "Tesouro deve rever análise para garantir novo empréstimo aos Correios após críticas do TCU",
+    "titulo_original": "Tesouro deve rever análise para garantir novo empréstimo aos Correios após críticas do TCU",
+    "fonte": "Valor Economico",
+    "publicado": "09/07 11:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica uma revisão de procedimentos fiscais e de garantia soberana pelo Tesouro Nacional, em resposta a críticas do TCU. Se a revisão resultar em regras mais rigorosas para garantias, isso pode afetar a capacidade de endividamento de estatais e a percepção de risco fiscal do governo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783610430.1827157,
+    "titulo": "Pedidos semanais de seguro-desemprego nos EUA têm redução",
+    "titulo_original": "Pedidos semanais de seguro-desemprego nos EUA têm redução",
+    "fonte": "Folha Mercado",
+    "publicado": "09/07 11:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A redução nos pedidos de seguro-desemprego sugere resiliência no mercado de trabalho americano. Se essa tendência se mantiver, pode indicar que o Federal Reserve terá menos espaço para cortes agressivos de juros, mantendo a política monetária mais restritiva por mais tempo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783610430.1839702,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e tenta manter os 171 mil pontos - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e tenta manter os 171 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "09/07 10:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa, influenciada pelo exterior, indica um sentimento positivo nos mercados de renda variável. Se o otimismo internacional persistir, a bolsa brasileira pode continuar a subir; um revés no cenário externo, contudo, poderia reverter essa tendência.",
     "is_stocks": true
   }
 ]
