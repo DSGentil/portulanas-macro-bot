@@ -758,5 +758,125 @@
     "origem": "ambas",
     "leitura_critica": "A alta do Ibovespa, influenciada pelo exterior, indica um sentimento positivo nos mercados de renda variável. Se o otimismo internacional persistir, a bolsa brasileira pode continuar a subir; um revés no cenário externo, contudo, poderia reverter essa tendência.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783615628.9057612,
+    "titulo": "Governo vai adiar retirada do subsídio à gasolina, diz ministro",
+    "titulo_original": "Governo vai adiar retirada do subsídio à gasolina, diz ministro",
+    "fonte": "Folha Mercado",
+    "publicado": "09/07 09:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O adiamento do fim do subsídio à gasolina, justificado por tensões geopolíticas, pode indicar uma preocupação com a inflação e o impacto no custo de vida. Se o preço do petróleo continuar a subir, a manutenção do subsídio pode pressionar as contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783615633.6600187,
+    "titulo": "O futuro do Grupo Mateus, a guerra e discursos do Fed: o que você precisa saber sobre os mercados hoje",
+    "titulo_original": "O futuro do Grupo Mateus, a guerra e discursos do Fed: o que você precisa saber sobre os mercados hoje - Seu Dinheiro",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/07 09:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de fatores como a guerra, discursos do Fed e o futuro de empresas como o Grupo Mateus indica um cenário de mercado complexo. Se os discursos do Fed sinalizarem uma política monetária mais restritiva, isso pode impactar negativamente ações e o fluxo de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783615638.4609957,
+    "titulo": "Cessar-fogo no Irã se desintegrou. O que Trump fará agora?",
+    "titulo_original": "Cessar-fogo no Irã se desintegrou. O que Trump fará agora? - Estadão",
+    "fonte": "Google News Geopolitica",
+    "publicado": "09/07 11:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A desintegração do cessar-fogo no Irã aumenta a tensão geopolítica na região. Se Trump adotar uma postura mais agressiva, isso pode impactar os mercados globais e o preço do petróleo, gerando aversão ao risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783615643.2888126,
+    "titulo": "Petróleo abre em alta, perde força ao longo da manhã e recua",
+    "titulo_original": "Petróleo abre em alta, perde força ao longo da manhã e recua - G1",
+    "fonte": "Google News Commodities",
+    "publicado": "09/07 09:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade no preço do petróleo, com abertura em alta e fechamento em queda, pode refletir incertezas no mercado de energia. Se a tendência de queda se consolidar, isso pode impactar empresas do setor e o fluxo de capital para commodities.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783615675.9139142,
+    "titulo": "Opções de Copom na B3 mostram expectativa de corte de 0,25% na Selic em agosto",
+    "titulo_original": "Opções de Copom na B3 mostram expectativa de corte de 0,25% na Selic em agosto - Monitor Mercantil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/07 12:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de um corte de <b>0,25%</b> na Selic em agosto, refletida nas opções de Copom, sugere que o mercado precifica uma política monetária mais branda. Se o Copom decidir por um corte maior ou menor que o esperado, isso pode gerar volatilidade no mercado de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783615675.9153829,
+    "titulo": "Vale (VALE3): BTG vê desconto de até 30% frente às rivais e reforça recomendação de compra",
+    "titulo_original": "Vale (VALE3): BTG vê desconto de até 30% frente às rivais e reforça recomendação de compra",
+    "fonte": "Money Times",
+    "publicado": "09/07 13:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de compra do BTG para a Vale, baseada em um desconto de até <b>30%</b>, sugere um potencial de valorização para as ações. Se a empresa apresentar resultados sólidos nos próximos trimestres, essa visão pode se concretizar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783615675.9168246,
+    "titulo": "Fim do cessar-fogo: quem perde e quem ganha na B3 com volta da guerra?",
+    "titulo_original": "Fim do cessar-fogo: quem perde e quem ganha na B3 com volta da guerra? - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "09/07 12:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volta da guerra e o fim do cessar-fogo podem gerar incertezas e volatilidade nos mercados. Se o conflito se intensificar, setores ligados à defesa e commodities energéticas podem se beneficiar, enquanto outros podem sofrer com a aversão ao risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783615675.9183967,
+    "titulo": "Bolsas da Europa recuperam perdas da véspera e fecham majoritariamente em alta",
+    "titulo_original": "Bolsas da Europa recuperam perdas da véspera e fecham majoritariamente em alta",
+    "fonte": "Valor Economico",
+    "publicado": "09/07 13:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das bolsas europeias sugere um alívio temporário no apetite por risco, apesar das tensões geopolíticas. Se o setor de tecnologia continuar a liderar os ganhos, isso pode indicar um fluxo de capital direcionado para empresas de crescimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783615675.9197369,
+    "titulo": "Com petróleo em alta, até onde podem ir as ações de Petrobras, PRIO e PetroReconcavo?",
+    "titulo_original": "Com petróleo em alta, até onde podem ir as ações de Petrobras, PRIO e PetroReconcavo? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "09/07 09:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do petróleo pode impulsionar os resultados de empresas como Petrobras, PRIO e PetroReconcavo, sugerindo um potencial de valorização para suas ações. Se o preço do petróleo se mantiver elevado, isso pode atrair fluxo de capital para o setor de energia.",
+    "is_stocks": true
   }
 ]
