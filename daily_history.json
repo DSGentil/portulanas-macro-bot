@@ -1,83 +1,5 @@
 [
   {
-    "_timestamp": 1783516576.5435014,
-    "titulo": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic",
-    "titulo_original": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/07 08:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divergência de um ex-diretor do BC em relação ao consenso sobre os cortes da Selic pode indicar diferentes visões sobre o cenário econômico futuro. Se o Banco Central seguir a linha de cortes, isso reforçaria a política monetária expansionista. Caso contrário, a manutenção da taxa de juros pode sinalizar cautela com a inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783516581.3296063,
-    "titulo": "Poupança tem saída líquida de R$ 237,5 milhões em junho, informa BC",
-    "titulo_original": "Poupança tem saída líquida de R$ 237,5 milhões em junho, informa BC",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 09:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A saída líquida da poupança em junho, e o acumulado anual, indicam uma menor atratividade deste investimento em comparação com outras alternativas de renda fixa. Se essa tendência de saída persistir, pode sinalizar que os investidores buscam retornos mais elevados em outros produtos. Uma reversão nesse fluxo dependerá das condições de mercado e da atratividade de outras aplicações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783516586.2960246,
-    "titulo": "Em meio à nova alta do petróleo, bolsa cai e dólar sobe",
-    "titulo_original": "Em meio à nova alta do petróleo, bolsa cai e dólar sobe - Valor Investe",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/07 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo, ao pressionar a inflação e os custos de produção, tende a gerar aversão ao risco, explicando a queda da bolsa e a valorização do dólar. Se o preço do petróleo continuar em trajetória ascendente, o cenário de inflação e juros mais altos pode se consolidar. Uma eventual queda no preço do petróleo poderia reverter essa dinâmica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783516591.0985024,
-    "titulo": "Petróleo volta a disparar e eleva aversão a risco global",
-    "titulo_original": "Petróleo volta a disparar e eleva aversão a risco global - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "08/07 05:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A nova disparada do petróleo intensifica a aversão ao risco global, o que pode se traduzir em menor liquidez para ativos de maior risco. Se essa tendência de alta nos preços do petróleo persistir, o cenário de inflação global pode se agravar, levando a políticas monetárias mais restritivas. Uma desaceleração nos preços do petróleo poderia aliviar essa pressão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783516719.7911525,
-    "titulo": "Governo Lula notifica 37 fintechs por movimentar dinheiro de bets ilegais",
-    "titulo_original": "Governo Lula notifica 37 fintechs por movimentar dinheiro de bets ilegais",
-    "fonte": "Folha Mercado",
-    "publicado": "08/07 10:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ação do governo contra fintechs por movimentação de recursos de apostas ilegais sinaliza um aumento na fiscalização e regulamentação do setor. Se essa postura se intensificar, pode gerar maior conformidade regulatória e impactar o fluxo de capitais em plataformas financeiras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783516719.7924364,
-    "titulo": "Carf julga cobrança bilionária da Petrobras",
-    "titulo_original": "Carf julga cobrança bilionária da Petrobras - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "08/07 05:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O julgamento de uma cobrança bilionária no Carf pode ter implicações fiscais significativas para a Petrobras. Se a decisão for desfavorável à empresa, isso pode impactar seus resultados financeiros. Uma decisão favorável, por outro lado, traria alívio financeiro e poderia influenciar o desempenho da ação.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783524000.5537715,
     "titulo": "Soja brasileira se aproxima de R$140 a saca, melhor cotação do ano",
     "titulo_original": "Soja brasileira se aproxima de R$140 a saca, melhor cotação do ano - CNN Brasil",
@@ -854,5 +776,125 @@
     "origem": "externa",
     "leitura_critica": "A alta do ouro é diretamente ligada a movimentos em mercados externos, como o dólar e os juros dos Treasuries. Se o dólar se fortalecer ou os juros dos Treasuries subirem novamente, o ouro pode sofrer pressão de baixa.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1783629068.3917084,
+    "titulo": "PF faz operação contra publicitário contratado por Vorcaro que fez devassa contra jornalista",
+    "titulo_original": "PF faz operação contra publicitário contratado por Vorcaro que fez devassa contra jornalista",
+    "fonte": "Folha Mercado",
+    "publicado": "09/07 16:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A operação da PF contra o publicitário ligado ao Banco Master levanta questões sobre a integridade de campanhas de desinformação e intimidação direcionadas a instituições financeiras e jornalistas. Se as investigações confirmarem a coordenação de ataques, isso pode levar a novas regulamentações ou sanções mais rigorosas para agências de publicidade e seus clientes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783629071.9114149,
+    "titulo": "Novos impostos, IBS e CBS agora precisam estar na nota fiscal. O risco é… não ter nota fiscal",
+    "titulo_original": "Novos impostos, IBS e CBS agora precisam estar na nota fiscal. O risco é… não ter nota fiscal",
+    "fonte": "InvestNews",
+    "publicado": "09/07 15:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A obrigatoriedade de inclusão dos campos de IBS e CBS nas notas fiscais a partir de agosto representa uma mudança regulatória com potencial de impactar a operação de diversas empresas. Se a adaptação dos sistemas e processos não for eficiente, pode haver interrupções nas atividades comerciais e dificuldades na arrecadação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783629075.4171147,
+    "titulo": "Brasil tem maior entrada de dólares no 1º semestre desde 2018",
+    "titulo_original": "Brasil tem maior entrada de dólares no 1º semestre desde 2018",
+    "fonte": "Folha Mercado",
+    "publicado": "09/07 13:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte entrada de dólares no primeiro semestre, a maior desde 2018, sugere um aumento do apetite por ativos brasileiros ou um fluxo de capital mais favorável. Se essa tendência se mantiver, pode contribuir para a valorização do real e para a estabilidade econômica; caso contrário, uma reversão abrupta poderia gerar volatilidade cambial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783629078.948391,
+    "titulo": "PF deflagra 10ª fase da Compliance Zero para apurar tentativas de descredibilizar BC e mira publicitário ligado a Vorcaro",
+    "titulo_original": "PF deflagra 10ª fase da Compliance Zero para apurar tentativas de descredibilizar BC e mira publicitário ligado a Vorcaro",
+    "fonte": "Valor Economico",
+    "publicado": "09/07 16:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A deflagração da 10ª fase da Operação Compliance Zero, focada em descredibilizar o Banco Central e intimidar jornalistas, reforça a gravidade das investigações sobre o Banco Master. Se as evidências de atuação coordenada e ilícita forem confirmadas, isso pode resultar em punições severas para os envolvidos e em um endurecimento da regulamentação para evitar manipulação de informações e pressões indevidas sobre instituições financeiras e a imprensa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783629084.6702318,
+    "titulo": "Vorcaro pediu dossiê sobre CEO do Itaú, que estaria ‘causando muito problema’, revela investigação da PF",
+    "titulo_original": "Vorcaro pediu dossiê sobre CEO do Itaú, que estaria ‘causando muito problema’, revela investigação da PF",
+    "fonte": "Valor Economico",
+    "publicado": "09/07 17:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revelação de que Daniel Vorcaro solicitou um dossiê sobre o CEO do Itaú, em meio a investigações sobre ataques ao Banco Central e intimidação de jornalistas, expõe um possível esquema de pressão e monitoramento. Se as investigações confirmarem a extensão e o objetivo dessas ações, isso pode levar a sanções mais severas contra os envolvidos e a um escrutínio maior sobre a conduta de instituições financeiras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783629084.6717548,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe mais de 1% e mira nos 173 mil pontos - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe mais de 1% e mira nos 173 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "09/07 16:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa sugere um sentimento positivo no mercado acionário brasileiro, possivelmente influenciado por fatores externos favoráveis. Se a tendência de alta se mantiver, pode indicar um aumento na confiança dos investidores; caso contrário, a reversão pode sinalizar cautela.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783629084.6731644,
+    "titulo": "Ibovespa pega carona no ‘bom humor’ externo e sobe 1% à espera de IPCA; dólar cai a R$ 5,12",
+    "titulo_original": "Ibovespa pega carona no ‘bom humor’ externo e sobe 1% à espera de IPCA; dólar cai a R$ 5,12",
+    "fonte": "Money Times",
+    "publicado": "09/07 17:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa e a queda do dólar refletem um ambiente de maior aversão ao risco, impulsionado pelo otimismo externo e pela expectativa de dados de inflação. Se o IPCA vier abaixo do esperado, isso pode reforçar a tendência de queda do dólar e a alta da bolsa; caso contrário, um dado inflacionário mais alto pode reverter esse cenário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783629084.674577,
+    "titulo": "Wall Street tem dia positivo e fecha em alta com apoio de ‘tech’ e alívio nos preços do petróleo",
+    "titulo_original": "Wall Street tem dia positivo e fecha em alta com apoio de ‘tech’ e alívio nos preços do petróleo",
+    "fonte": "Money Times",
+    "publicado": "09/07 17:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho positivo de Wall Street, com alta em tecnologia e alívio no petróleo, indica um sentimento de otimismo nos mercados globais. Se o alívio nas tensões geopolíticas se consolidar, o setor de tecnologia pode continuar a se beneficiar; caso contrário, um aumento da volatilidade pode impactar negativamente esses ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783629084.6759884,
+    "titulo": "Azul (AZUL;AZUL3) estreia em alta na Bolsa de Nova York; ações também sobem na B3",
+    "titulo_original": "Azul (AZUL;AZUL3) estreia em alta na Bolsa de Nova York; ações também sobem na B3",
+    "fonte": "Money Times",
+    "publicado": "09/07 16:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estreia em alta das ações da Azul em Nova York e na B3, após a conclusão da recuperação judicial, sugere uma percepção positiva do mercado sobre a nova fase da companhia. Se a empresa conseguir manter essa trajetória de crescimento e rentabilidade, isso pode atrair mais investidores e fortalecer sua posição no mercado aéreo.",
+    "is_stocks": true
   }
 ]
