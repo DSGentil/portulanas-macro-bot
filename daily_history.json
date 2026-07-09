@@ -1,91 +1,5 @@
 [
   {
-    "_timestamp": 1783510368.6629424,
-    "titulo": "Trump diz que Memorando de Entendimento com o Irã acabou, não quer se envolver com eles",
-    "titulo_original": "Trump says Memorandum of Understanding with Iran is over, don't want to engage with them",
-    "fonte": "ForexLive",
-    "publicado": "08/07 05:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre o fim do acordo com o Irã eleva a tensão geopolítica, o que tende a sustentar os preços do petróleo no curto prazo. Se a escalada militar continuar, o mercado pode precificar um ciclo de alta de juros mais prolongado por parte do Fed.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783510372.1288378,
-    "titulo": "Sessão matinal europeia do investingLive: Preços do petróleo disparam com Trump encerrando acordo com o Irã",
-    "titulo_original": "investingLive European morning session wrap: Oil prices surge as Trump calls off Iran deal",
-    "fonte": "ForexLive",
-    "publicado": "08/07 07:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A decisão de Trump de encerrar o acordo com o Irã intensifica as preocupações geopolíticas, impulsionando o petróleo e afetando negativamente ativos de refúgio como ouro e prata. Se a escalada de tensões persistir, o cenário de inflação pode se agravar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783510375.5219471,
-    "titulo": "Oriente Médio | Presidente dos Estados Unidos, Donald Trump afirmou nesta quarta-feira, 8, que considera encerrado o cessar-fogo com o Irã após a nova troca de ataques entre os dois países.",
-    "titulo_original": "ORIENTE MÉDIO | O presidente dos Estados Unidos, Donald Trump afirmou nesta quarta-feira, 8, que considera encerrado o cessar-fogo com o Irã após a nova troca de ataques entre os dois países. Ao comentar a ofensiva iraniana contra bases militares am - instagram.com",
-    "fonte": "Google News Geopolitica",
-    "publicado": "08/07 07:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre o fim do cessar-fogo com o Irã eleva significativamente as tensões geopolíticas na região. Se a escalada militar se intensificar, isso pode gerar volatilidade nos mercados globais, especialmente no preço do petróleo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783510378.9647005,
-    "titulo": "O humor de risco azeda após Trump desistir do acordo com o Irã, ameaça cortar laços comerciais com a Espanha",
-    "titulo_original": "Risk mood sours after Trump walks on Iran deal, threatens to cut trade ties with Spain",
-    "fonte": "ForexLive",
-    "publicado": "08/07 06:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O fim do acordo com o Irã e as ameaças de Trump a parceiros comerciais aumentam a aversão ao risco global, impulsionando o petróleo e os rendimentos de títulos do tesouro americano. Se essa tendência de instabilidade persistir, pode haver pressão inflacionária e um aperto monetário mais agressivo por parte do Fed.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783510391.4087744,
-    "titulo": "Revés no Irã eleva petróleo, cashback do IR, dólar, Ibovespa e mais pílulas da economia 08.07",
-    "titulo_original": "Revés no Irã eleva petróleo, cashback do IR, dólar, Ibovespa e mais pílulas da economia 08.07 - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/07 08:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A escalada de tensões com o Irã está impactando negativamente o mercado brasileiro, com alta do dólar e do Ibovespa, além da valorização do petróleo. A menção a cashback do IR sugere possíveis medidas fiscais em discussão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783510391.4098547,
-    "titulo": "Agenda de empresas: Oncoclínicas rumo à recuperação extrajudicial; petróleo dispara de novo",
-    "titulo_original": "Agenda de empresas: Oncoclínicas rumo à recuperação extrajudicial; petróleo dispara de novo",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 08:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A notícia destaca a situação delicada da Oncoclínicas, enquanto a alta do petróleo, impulsionada por eventos externos, beneficia empresas do setor. A possível paralisação na BHP pode gerar impactos pontuais na produção de minério de ferro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783510391.4111016,
-    "titulo": "Dólar sobe e fecha a R$ 5,15; Ibovespa recua 0,25%",
-    "titulo_original": "Dólar sobe e fecha a R$ 5,15; Ibovespa recua 0,25% - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/07 05:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do dólar e a queda do Ibovespa indicam um cenário de cautela no mercado financeiro brasileiro. A notícia, por si só, não detalha os motivos específicos para esses movimentos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783516576.5435014,
     "titulo": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic",
     "titulo_original": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic - InfoMoney",
@@ -878,5 +792,67 @@
     "origem": "domestica",
     "leitura_critica": "A alta do petróleo pode impulsionar os resultados de empresas como Petrobras, PRIO e PetroReconcavo, sugerindo um potencial de valorização para suas ações. Se o preço do petróleo se mantiver elevado, isso pode atrair fluxo de capital para o setor de energia.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783621866.774442,
+    "titulo": "Gecex-Camex mantém imposto de exportação de petróleo em 12% - Canal Rural",
+    "titulo_original": "Gecex-Camex mantém imposto de exportação de petróleo em 12% - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "09/07 14:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção do imposto de exportação de petróleo em 12% por decisão da Gecex-Camex é um fato fiscal com potencial impacto na competitividade e nos custos de exportação do setor. Se o imposto fosse reduzido, isso poderia estimular as exportações de petróleo; sua manutenção indica a continuidade da política atual.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783621871.3039243,
+    "titulo": "Ouro recupera perdas da véspera em meio ao recuo do petróleo e dos Treasuries",
+    "titulo_original": "Ouro recupera perdas da véspera em meio ao recuo do petróleo e dos Treasuries",
+    "fonte": "Valor Economico",
+    "publicado": "09/07 14:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O movimento do ouro é influenciado por fatores externos como juros de Treasuries e preços de petróleo. Se a postura do Federal Reserve se mostrar mais 'hawkish' do que o esperado, isso pode pressionar o ouro para baixo, revertendo a alta recente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783621875.8081393,
+    "titulo": "FMI discute com Venezuela uso de reservas após terremotos",
+    "titulo_original": "FMI discute com Venezuela uso de reservas após terremotos",
+    "fonte": "Valor Economico",
+    "publicado": "09/07 13:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A discussão sobre o uso de reservas do FMI pela Venezuela para fins humanitários é um evento de natureza financeira e de ajuda internacional. Se a Venezuela utilizar essas reservas, isso pode impactar sua liquidez e capacidade de honrar outras obrigações financeiras no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783621880.3510413,
+    "titulo": "Estatal PDVSA perde espaço na nova era do petróleo na Venezuela",
+    "titulo_original": "Estatal PDVSA perde espaço na nova era do petróleo na Venezuela",
+    "fonte": "InvestNews",
+    "publicado": "09/07 14:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A mudança regulatória na Venezuela para permitir maior atuação privada no setor de petróleo pode sinalizar uma tentativa de reestruturação econômica e atração de capital estrangeiro. Se essa abertura for efetiva, pode impactar a produção e exportação de petróleo do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783621884.853439,
+    "titulo": "Ouro fecha em alta com alívio do dólar e dos juros dos Treasuries - UOL Economia",
+    "titulo_original": "Ouro fecha em alta com alívio do dólar e dos juros dos Treasuries - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/07 14:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do ouro é diretamente ligada a movimentos em mercados externos, como o dólar e os juros dos Treasuries. Se o dólar se fortalecer ou os juros dos Treasuries subirem novamente, o ouro pode sofrer pressão de baixa.",
+    "is_stocks": false
   }
 ]
