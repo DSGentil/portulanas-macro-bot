@@ -936,5 +936,110 @@
     "origem": "externa",
     "leitura_critica": "O desempenho positivo das bolsas europeias, impulsionado pelo petróleo, sugere que o mercado está precificando um cenário de menor risco de escalada no Oriente Médio. Se essa percepção se mantiver, o setor de energia pode continuar a ter bom desempenho, mas a volatilidade pode persistir caso haja novas escaladas de tensão.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783708268.6620495,
+    "titulo": "Inflação abaixo do esperado empolga mercados e dá espaço para Copom cortar juros em agosto, segundo especialistas",
+    "titulo_original": "Inflação abaixo do esperado empolga mercados e dá espaço para Copom cortar juros em agosto, segundo especialistas - InvesTalk",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/07 12:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Um dado de inflação abaixo do esperado é um forte indicativo para a política monetária. Se o Copom de fato cortar os juros em agosto, isso pode estimular a economia, mas a continuidade dessa tendência dependerá da evolução futura da inflação e de outros indicadores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783708272.1446612,
+    "titulo": "Acelen Renováveis assina acordo com Bunge para óleo de soja em projeto de SAF e diesel renovável na Bahia",
+    "titulo_original": "Acelen Renováveis assina acordo com Bunge para óleo de soja em projeto de SAF e diesel renovável na Bahia",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 14:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Este acordo entre Acelen Renováveis e Bunge demonstra um avanço na cadeia produtiva de biocombustíveis no Brasil. O fornecimento de óleo de soja certificado é um passo importante para a produção de SAF e diesel renovável, alinhado com metas de sustentabilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783708275.6527634,
+    "titulo": "Lula diz que China é obcecada em ser a única a ter conhecimento sobre terras raras – e Trump tem 'inveja'",
+    "titulo_original": "Lula diz que China é obcecada em ser a única a ter conhecimento sobre terras raras – e Trump tem 'inveja' - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "10/07 13:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de Lula sobre a China e Trump em relação às terras raras aponta para a importância estratégica desses minerais e a disputa geopolítica por seu controle. A percepção de 'inveja' por parte de Trump pode indicar uma rivalidade em curso sobre o acesso e domínio dessas matérias-primas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783708279.1688752,
+    "titulo": "Trump diz que não vai assinar projeto bipartidário sobre moradia que chamou de ‘grande chatice’",
+    "titulo_original": "Trump diz que não vai assinar projeto bipartidário sobre moradia que chamou de ‘grande chatice’",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 14:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão de Trump de não assinar o projeto de moradia pode indicar uma postura de negociação política em relação à aprovação de outras leis. Se a \"LEI SAVE AMERICA\" for aprovada posteriormente, o projeto de moradia pode ter sua assinatura reconsiderada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783708283.9853451,
+    "titulo": "ANP abre apuração sobre disputa entre Petrobras e PPSA por acesso a gasodutos",
+    "titulo_original": "ANP abre apuração sobre disputa entre Petrobras e PPSA por acesso a gasodutos",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 14:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A atuação da ANP busca resolver um impasse que afeta a comercialização de gás natural pertencente à União. Se a comissão especial conseguir destravar as negociações, isso poderá viabilizar novas receitas para o Estado e maior acesso à infraestrutura para empresas do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783708283.9869812,
+    "titulo": "Tribunal de Contas do Paraná confirma texto oculto em pedido de cautelar e promete investigar",
+    "titulo_original": "Tribunal de Contas do Paraná confirma texto oculto em pedido de cautelar e promete investigar",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 14:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A confirmação de 'prompt injection' em um pedido oficial levanta questões sobre a segurança e integridade de processos administrativos e regulatórios. A investigação do TCE-PR é fundamental para entender a extensão do problema e prevenir futuras ocorrências.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783708283.9885607,
+    "titulo": "Shein obtém a aprovação da China para IPO em Hong Kong",
+    "titulo_original": "Shein obtém a aprovação da China para IPO em Hong Kong",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 10:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A aprovação do IPO da Shein em Hong Kong pela China indica uma flexibilização ou mudança na política regulatória para listagens internacionais de empresas chinesas. Isso pode abrir caminho para outras empresas buscarem listagens em mercados asiáticos após vetos em praças ocidentais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783708283.9901524,
+    "titulo": "Petrobras avalia socorro à Braskem para evitar recuperação judicial",
+    "titulo_original": "Petrobras avalia socorro à Braskem para evitar recuperação judicial - VEJA",
+    "fonte": "Google News Acoes",
+    "publicado": "10/07 11:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A potencial intervenção da Petrobras na Braskem para evitar a recuperação judicial indica a importância estratégica da Braskem para o setor petroquímico e para a própria Petrobras. O desfecho dessa avaliação pode ter implicações na estrutura de capital e na operação da Braskem.",
+    "is_stocks": true
   }
 ]
