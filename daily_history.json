@@ -717,5 +717,97 @@
     "origem": "externa",
     "leitura_critica": "O segundo maior IPO do mundo, realizado pela SK Hynix, demonstra o forte interesse em investimentos no setor de tecnologia e semicondutores. Se o desempenho da empresa após o IPO for positivo, pode atrair mais capital para o setor e impulsionar inovações.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783696581.982522,
+    "titulo": "A nova pesquisa Quaest para presidente após a crise na família Bolsonaro",
+    "titulo_original": "A nova pesquisa Quaest para presidente após a crise na família Bolsonaro",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 11:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Pesquisas eleitorais fornecem um panorama do cenário político, mas não representam decisões fiscais ou regulatórias concretas. Se a pesquisa indicar uma mudança significativa nas intenções de voto, isso pode influenciar o sentimento do mercado em relação à estabilidade política e às futuras políticas econômicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783696586.8318222,
+    "titulo": "Quem é o empresário Thiago Miranda, alvo de operação da PF sobre o Master",
+    "titulo_original": "Quem é o empresário Thiago Miranda, alvo de operação da PF sobre o Master",
+    "fonte": "Money Times",
+    "publicado": "10/07 11:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A operação da Polícia Federal contra Thiago Miranda, ligada a supostos ataques ao Banco Central, pode indicar uma investigação sobre interferência em instituições financeiras. Se a investigação revelar irregularidades ou ações concretas que afetem a autonomia do BC, isso pode ter implicações regulatórias e de confiança no sistema financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783696591.6070807,
+    "titulo": "Bolsa tem forte alta, e dólar cai com inflação abaixo do esperado",
+    "titulo_original": "Bolsa tem forte alta, e dólar cai com inflação abaixo do esperado",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 09:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A inflação abaixo do esperado no Brasil favorece a bolsa e pressiona o dólar, indicando um cenário mais positivo para a economia doméstica. Contudo, as tensões geopolíticas no Oriente Médio podem introduzir volatilidade e afetar o apetite por risco global, impactando indiretamente o mercado brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783696596.4036667,
+    "titulo": "Plano de reestruturação da Volkswagen é bloqueado pela oposição trabalhista, dizem fontes",
+    "titulo_original": "Plano de reestruturação da Volkswagen é bloqueado pela oposição trabalhista, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 11:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O bloqueio do plano de reestruturação pode indicar dificuldades na gestão da Volkswagen em implementar mudanças estratégicas. Se a oposição trabalhista mantiver sua posição, a empresa pode ter dificuldades em otimizar sua estrutura e competir no mercado global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783696632.296455,
+    "titulo": "Nubank recebe autorização para iniciar operação como banco no México",
+    "titulo_original": "Nubank recebe autorização para iniciar operação como banco no México",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 11:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A expansão do Nubank para operar como banco no México representa um movimento significativo de internacionalização e investimento. Se a operação for bem-sucedida, pode fortalecer a posição da empresa no mercado latino-americano e gerar retornos consistentes, embora o impacto macroeconômico direto no Brasil seja limitado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783696632.2978578,
+    "titulo": "Estrangeiros retiram quase R$ 608 milhões na B3 em 8 de julho",
+    "titulo_original": "Estrangeiros retiram quase R$ 608 milhões na B3 em 8 de julho - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "10/07 10:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de capital estrangeiro da B3 pode indicar uma diminuição do apetite por risco no mercado brasileiro ou uma realocação de portfólio. Se essa tendência de saída se mantiver, pode pressionar o mercado de ações local; no entanto, um único dia de retirada não configura uma tendência consolidada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783696632.2991533,
+    "titulo": "O efeito da prorrogação do imposto sobre as petroleiras, segundo analistas",
+    "titulo_original": "O efeito da prorrogação do imposto sobre as petroleiras, segundo analistas",
+    "fonte": "Money Times",
+    "publicado": "10/07 11:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação do imposto sobre exportação de petróleo bruto representa uma decisão fiscal que afeta diretamente as petroleiras. Se essa medida reduzir os lucros das empresas, pode impactar seus investimentos e a geração de caixa, além de potencialmente influenciar os preços dos combustíveis no mercado interno.",
+    "is_stocks": true
   }
 ]
