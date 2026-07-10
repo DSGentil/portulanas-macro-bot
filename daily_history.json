@@ -1,217 +1,5 @@
 [
   {
-    "_timestamp": 1783610401.2357414,
-    "titulo": "IGP-M cai 0,39% e tem menor taxa para 1ª prévia em cinco meses, informa FGV",
-    "titulo_original": "IGP-M cai 0,39% e tem menor taxa para 1ª prévia em cinco meses, informa FGV",
-    "fonte": "Valor Economico",
-    "publicado": "09/07 12:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda na prévia do IGP-M sugere um cenário de desinflação para o índice, o que pode influenciar decisões de reajustes contratuais. Se o índice completo confirmar deflação, isso reforçaria um ambiente de preços mais controlados no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783610405.785883,
-    "titulo": "BC criou anarquia de fintechs operando no Brasil, diz Durigan",
-    "titulo_original": "BC criou anarquia de fintechs operando no Brasil, diz Durigan",
-    "fonte": "Money Times",
-    "publicado": "09/07 11:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do Ministro da Fazenda sobre a regulação de fintechs pelo Banco Central sugere uma divergência de visão sobre a política regulatória. Se essa crítica levar a uma revisão das normas para fintechs, pode impactar o setor financeiro e a competição no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783610410.3514986,
-    "titulo": "Dólar ronda a estabilidade no início dos negócios, em linha com o exterior - Valor Econômico",
-    "titulo_original": "Dólar ronda a estabilidade no início dos negócios, em linha com o exterior - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/07 09:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A estabilidade do dólar, em linha com o exterior, sugere um momento de equilíbrio nas moedas globais. Se o cenário externo se mantiver calmo, o dólar pode continuar nesse patamar; uma mudança no apetite a risco global, no entanto, poderia alterar essa dinâmica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783610414.9348862,
-    "titulo": "Dólar hoje recua com Oriente Médio no radar - InfoMoney",
-    "titulo_original": "Dólar hoje recua com Oriente Médio no radar - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/07 09:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do dólar, influenciada pela atenção ao Oriente Médio, sugere uma busca por ativos considerados mais seguros ou uma redução na demanda pela moeda americana em face de incertezas geopolíticas. Se a tensão na região diminuir, o dólar pode se fortalecer novamente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783610430.1814418,
-    "titulo": "Tesouro deve rever análise para garantir novo empréstimo aos Correios após críticas do TCU",
-    "titulo_original": "Tesouro deve rever análise para garantir novo empréstimo aos Correios após críticas do TCU",
-    "fonte": "Valor Economico",
-    "publicado": "09/07 11:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica uma revisão de procedimentos fiscais e de garantia soberana pelo Tesouro Nacional, em resposta a críticas do TCU. Se a revisão resultar em regras mais rigorosas para garantias, isso pode afetar a capacidade de endividamento de estatais e a percepção de risco fiscal do governo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783610430.1827157,
-    "titulo": "Pedidos semanais de seguro-desemprego nos EUA têm redução",
-    "titulo_original": "Pedidos semanais de seguro-desemprego nos EUA têm redução",
-    "fonte": "Folha Mercado",
-    "publicado": "09/07 11:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A redução nos pedidos de seguro-desemprego sugere resiliência no mercado de trabalho americano. Se essa tendência se mantiver, pode indicar que o Federal Reserve terá menos espaço para cortes agressivos de juros, mantendo a política monetária mais restritiva por mais tempo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783610430.1839702,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e tenta manter os 171 mil pontos - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e tenta manter os 171 mil pontos - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "09/07 10:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa, influenciada pelo exterior, indica um sentimento positivo nos mercados de renda variável. Se o otimismo internacional persistir, a bolsa brasileira pode continuar a subir; um revés no cenário externo, contudo, poderia reverter essa tendência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783615628.9057612,
-    "titulo": "Governo vai adiar retirada do subsídio à gasolina, diz ministro",
-    "titulo_original": "Governo vai adiar retirada do subsídio à gasolina, diz ministro",
-    "fonte": "Folha Mercado",
-    "publicado": "09/07 09:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O adiamento do fim do subsídio à gasolina, justificado por tensões geopolíticas, pode indicar uma preocupação com a inflação e o impacto no custo de vida. Se o preço do petróleo continuar a subir, a manutenção do subsídio pode pressionar as contas públicas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783615633.6600187,
-    "titulo": "O futuro do Grupo Mateus, a guerra e discursos do Fed: o que você precisa saber sobre os mercados hoje",
-    "titulo_original": "O futuro do Grupo Mateus, a guerra e discursos do Fed: o que você precisa saber sobre os mercados hoje - Seu Dinheiro",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/07 09:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de fatores como a guerra, discursos do Fed e o futuro de empresas como o Grupo Mateus indica um cenário de mercado complexo. Se os discursos do Fed sinalizarem uma política monetária mais restritiva, isso pode impactar negativamente ações e o fluxo de capital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783615638.4609957,
-    "titulo": "Cessar-fogo no Irã se desintegrou. O que Trump fará agora?",
-    "titulo_original": "Cessar-fogo no Irã se desintegrou. O que Trump fará agora? - Estadão",
-    "fonte": "Google News Geopolitica",
-    "publicado": "09/07 11:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A desintegração do cessar-fogo no Irã aumenta a tensão geopolítica na região. Se Trump adotar uma postura mais agressiva, isso pode impactar os mercados globais e o preço do petróleo, gerando aversão ao risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783615643.2888126,
-    "titulo": "Petróleo abre em alta, perde força ao longo da manhã e recua",
-    "titulo_original": "Petróleo abre em alta, perde força ao longo da manhã e recua - G1",
-    "fonte": "Google News Commodities",
-    "publicado": "09/07 09:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A volatilidade no preço do petróleo, com abertura em alta e fechamento em queda, pode refletir incertezas no mercado de energia. Se a tendência de queda se consolidar, isso pode impactar empresas do setor e o fluxo de capital para commodities.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783615675.9139142,
-    "titulo": "Opções de Copom na B3 mostram expectativa de corte de 0,25% na Selic em agosto",
-    "titulo_original": "Opções de Copom na B3 mostram expectativa de corte de 0,25% na Selic em agosto - Monitor Mercantil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/07 12:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de um corte de <b>0,25%</b> na Selic em agosto, refletida nas opções de Copom, sugere que o mercado precifica uma política monetária mais branda. Se o Copom decidir por um corte maior ou menor que o esperado, isso pode gerar volatilidade no mercado de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783615675.9153829,
-    "titulo": "Vale (VALE3): BTG vê desconto de até 30% frente às rivais e reforça recomendação de compra",
-    "titulo_original": "Vale (VALE3): BTG vê desconto de até 30% frente às rivais e reforça recomendação de compra",
-    "fonte": "Money Times",
-    "publicado": "09/07 13:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de compra do BTG para a Vale, baseada em um desconto de até <b>30%</b>, sugere um potencial de valorização para as ações. Se a empresa apresentar resultados sólidos nos próximos trimestres, essa visão pode se concretizar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783615675.9168246,
-    "titulo": "Fim do cessar-fogo: quem perde e quem ganha na B3 com volta da guerra?",
-    "titulo_original": "Fim do cessar-fogo: quem perde e quem ganha na B3 com volta da guerra? - InvesTalk",
-    "fonte": "Google News Acoes",
-    "publicado": "09/07 12:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A volta da guerra e o fim do cessar-fogo podem gerar incertezas e volatilidade nos mercados. Se o conflito se intensificar, setores ligados à defesa e commodities energéticas podem se beneficiar, enquanto outros podem sofrer com a aversão ao risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783615675.9183967,
-    "titulo": "Bolsas da Europa recuperam perdas da véspera e fecham majoritariamente em alta",
-    "titulo_original": "Bolsas da Europa recuperam perdas da véspera e fecham majoritariamente em alta",
-    "fonte": "Valor Economico",
-    "publicado": "09/07 13:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A recuperação das bolsas europeias sugere um alívio temporário no apetite por risco, apesar das tensões geopolíticas. Se o setor de tecnologia continuar a liderar os ganhos, isso pode indicar um fluxo de capital direcionado para empresas de crescimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783615675.9197369,
-    "titulo": "Com petróleo em alta, até onde podem ir as ações de Petrobras, PRIO e PetroReconcavo?",
-    "titulo_original": "Com petróleo em alta, até onde podem ir as ações de Petrobras, PRIO e PetroReconcavo? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "09/07 09:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do petróleo pode impulsionar os resultados de empresas como Petrobras, PRIO e PetroReconcavo, sugerindo um potencial de valorização para suas ações. Se o preço do petróleo se mantiver elevado, isso pode atrair fluxo de capital para o setor de energia.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783621866.774442,
     "titulo": "Gecex-Camex mantém imposto de exportação de petróleo em 12% - Canal Rural",
     "titulo_original": "Gecex-Camex mantém imposto de exportação de petróleo em 12% - Canal Rural",
@@ -1118,6 +906,137 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A forte alta nas ações do Magazine Luiza (MGLU3) sugere uma recuperação de ânimo do mercado em relação à empresa, possivelmente ligada a expectativas de melhora em seu desempenho. Se essa tendência de alta se mantiver e for acompanhada por resultados financeiros positivos, pode indicar uma reversão do pessimismo anterior.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783726336.5252047,
+    "titulo": "IPCA mais baixo mostra que barulho contra BC foi exagerado",
+    "titulo_original": "IPCA mais baixo mostra que barulho contra BC foi exagerado",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 18:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O IPCA mais baixo em junho reforça a narrativa de que a inflação está sob controle, o que pode dar ao Banco Central mais espaço para continuar o ciclo de cortes de juros. Se os próximos dados de inflação mantiverem essa trajetória descendente, a pressão por cortes mais agressivos pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783726341.2615566,
+    "titulo": "CMN retira juros da carência de crédito para adimplentes do Fies",
+    "titulo_original": "CMN retira juros da carência de crédito para adimplentes do Fies",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 19:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do CMN de retirar os juros da carência do Fies para adimplentes representa uma mudança regulatória com impacto direto no custo do crédito estudantil. Se essa medida for vista como um incentivo ao endividamento, pode haver um aumento na demanda por crédito, embora o impacto macroeconômico geral seja limitado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783726346.0607464,
+    "titulo": "Entrada forte de dólar faz câmbio voltar a R$ 5,10",
+    "titulo_original": "Entrada forte de dólar faz câmbio voltar a R$ 5,10 - Monitor Mercantil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/07 18:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada forte de dólares, que levou o câmbio a R$ 5,10, sugere um aumento no fluxo de capital estrangeiro para o Brasil. Se essa entrada se mantiver, pode haver pressão adicional para a valorização do real e um ambiente mais favorável para investimentos em renda variável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783726350.8218086,
+    "titulo": "Dólar fecha em queda pela terceira sessão seguida, com apostas de corte da Selic",
+    "titulo_original": "Dólar fecha em queda pela terceira sessão seguida, com apostas de corte da Selic - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/07 17:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda contínua do dólar, associada às apostas de corte da Selic, sugere um cenário de maior entrada de capital estrangeiro no Brasil. Se o Banco Central confirmar o corte de juros, isso pode intensificar o fluxo de capital para a renda variável, pressionando ainda mais o dólar para baixo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783726477.7792141,
+    "titulo": "Dólar cai a R$ 5,10 e Ibovespa firme com IPCA menor e petróleo comportado",
+    "titulo_original": "Dólar cai a R$ 5,10 e Ibovespa firme com IPCA menor e petróleo comportado - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/07 17:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar para R$ 5,10, associada a um IPCA menor, sugere um cenário de maior entrada de capital estrangeiro ou menor demanda por dólar no mercado doméstico. Se essa tendência se mantiver, pode haver pressão adicional para a valorização do real e um ambiente mais favorável para a bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783726477.7808173,
+    "titulo": "Por que o Ibovespa subiu quase 3% e chegou ao maior valor desde 14 de maio nesta 6ª?",
+    "titulo_original": "Por que o Ibovespa subiu quase 3% e chegou ao maior valor desde 14 de maio nesta 6ª? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "10/07 18:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa indica um aumento significativo no fluxo de capital para a bolsa brasileira. Se essa tendência for sustentada por dados macroeconômicos positivos ou por uma melhora no cenário externo, o índice pode continuar sua trajetória de valorização.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783726477.7824993,
+    "titulo": "Ibovespa sobe quase 3% e tem maior variação diária desde março após IPCA abaixo do esperado",
+    "titulo_original": "Ibovespa sobe quase 3% e tem maior variação diária desde março após IPCA abaixo do esperado - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "10/07 17:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa, impulsionada pelo IPCA abaixo do esperado, sugere que o mercado interpretou o dado inflacionário como um sinal positivo para a política monetária. Se a inflação continuar em trajetória descendente, pode haver maior fluxo de capital para a bolsa, sustentando a alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783726477.7840545,
+    "titulo": "Dossiês contra CEOs de bancos são de ‘extrema gravidade’, diz Febraban",
+    "titulo_original": "Dossiês contra CEOs de bancos são de ‘extrema gravidade’, diz Febraban",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 19:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da Febraban sobre a gravidade dos dossiês contra CEOs de bancos reforça a importância da atuação do Banco Central na manutenção da estabilidade do sistema financeiro. Se investigações posteriores revelarem falhas regulatórias ou de governança, isso pode levar a mudanças normativas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783726477.785635,
+    "titulo": "investingLive Americas FX news wrap 10 Jul",
+    "titulo_original": "investingLive Americas FX news wrap 10 Jul",
+    "fonte": "ForexLive",
+    "publicado": "10/07 17:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O relatório de emprego do Canadá superou as expectativas, sugerindo uma resiliência na economia norte-americana. A menção do Fed sobre \"inflação acelerada\" pode indicar uma postura mais cautelosa em relação a cortes de juros. A queda nos preços do ouro e do petróleo pode refletir um apetite a risco moderado no mercado.",
     "is_stocks": true
   }
 ]
