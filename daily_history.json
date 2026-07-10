@@ -1,292 +1,5 @@
 [
   {
-    "_timestamp": 1783535480.7564735,
-    "titulo": "Agro quer renegociação para todo tipo de dívidas e juros menores para perdas climáticas",
-    "titulo_original": "Agro quer renegociação para todo tipo de dívidas e juros menores para perdas climáticas",
-    "fonte": "Folha Mercado",
-    "publicado": "08/07 14:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta do agronegócio busca flexibilizar condições de endividamento, o que pode impactar a política de crédito rural. Se a proposta for aceita, pode haver um alívio financeiro para produtores afetados por eventos climáticos, mas também um potencial impacto nas contas públicas e na política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783535484.4980364,
-    "titulo": "Poupança volta a registrar mais saques do que depósitos em junho, mas volume é o menor em 14 anos",
-    "titulo_original": "Poupança volta a registrar mais saques do que depósitos em junho, mas volume é o menor em 14 anos",
-    "fonte": "Folha Mercado",
-    "publicado": "08/07 10:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A menor saída líquida da poupança em 14 anos pode indicar uma maior confiança dos investidores em outras aplicações financeiras ou uma redução na necessidade de liquidez. Se essa tendência se mantiver, pode sinalizar uma melhora no cenário econômico e um possível aumento no fluxo de capital para outras classes de ativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783535488.3852506,
-    "titulo": "Após ataques a embarcações, quatro navios de petróleo e gás desistem de cruzar Ormuz",
-    "titulo_original": "Após ataques a embarcações, quatro navios de petróleo e gás desistem de cruzar Ormuz - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "08/07 11:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A interrupção do tráfego no Estreito de Ormuz pode gerar volatilidade nos preços do petróleo. Se a situação se agravar, o aumento nos custos de transporte e a escassez de oferta podem pressionar a inflação global e impactar o custo de commodities.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783535492.0878024,
-    "titulo": "\"Vamos atingi-lo com força”: ameaça de Trump faz petróleo subir quase 10%, derruba bolsas e pode chegar ao seu bolso (de novo)",
-    "titulo_original": "\"Vamos atingi-lo com força”: ameaça de Trump faz petróleo subir quase 10%, derruba bolsas e pode chegar ao seu bolso (de novo) - Seu Dinheiro",
-    "fonte": "Google News Commodities",
-    "publicado": "08/07 13:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A retórica de Trump sobre o Irã gerou uma forte reação nos mercados globais, com alta no petróleo e queda nas bolsas. Se a tensão geopolítica escalar, o preço do petróleo pode continuar subindo, impactando a inflação e o poder de compra dos consumidores. A reação do mercado dependerá da concretização ou não das ameaças.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783535521.18111,
-    "titulo": "Carf cancela cobrança de imposto sobre perdas do Itaú",
-    "titulo_original": "Carf cancela cobrança de imposto sobre perdas do Itaú",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 14:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Carf pode abrir precedente para outras instituições financeiras que enfrentam cobranças semelhantes. Se o entendimento for amplamente aplicado, pode haver impacto na arrecadação fiscal em casos futuros de perdas de crédito de longo prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783535521.1826975,
-    "titulo": "Carf analisa tributação bilionária da B3 sobre variação cambial",
-    "titulo_original": "Carf analisa tributação bilionária da B3 sobre variação cambial - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "08/07 12:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Carf sobre a tributação da variação cambial da B3 pode ter um impacto financeiro significativo para a bolsa brasileira. Se a tributação for mantida, pode afetar a rentabilidade da B3 e, consequentemente, o apetite por investimentos em renda variável no Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783535521.1842113,
-    "titulo": "Governo notifica 37 fintechs por movimentar dinheiro de bets ilegais",
-    "titulo_original": "Governo notifica 37 fintechs por movimentar dinheiro de bets ilegais",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 14:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ação do governo contra fintechs que movimentam dinheiro de apostas ilegais visa coibir atividades irregulares e aumentar a arrecadação. Se as fintechs não cumprirem as exigências, podem enfrentar multas e solidariedade nas irregularidades, o que pode impactar o setor de pagamentos e a disponibilidade de serviços financeiros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783535521.1857047,
-    "titulo": "Morgan Stanley muda recomendação para Vale (VALE3) e ação reage: comprar ou vender?",
-    "titulo_original": "Morgan Stanley muda recomendação para Vale (VALE3) e ação reage: comprar ou vender? - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "08/07 14:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A mudança de recomendação do Morgan Stanley para a Vale pode influenciar o comportamento dos investidores no curto prazo. Se a nova recomendação for de compra, pode impulsionar o preço das ações; se for de venda, pode gerar pressão vendedora, dependendo da percepção do mercado sobre os fundamentos da empresa e o cenário para commodities.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783535521.1872025,
-    "titulo": "Nvidia perde US$ 1 trilhão em valor de mercado e volta a patamar anterior à febre da IA",
-    "titulo_original": "Nvidia perde US$ 1 trilhão em valor de mercado e volta a patamar anterior à febre da IA",
-    "fonte": "InvestNews",
-    "publicado": "08/07 14:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A volatilidade nas ações da Nvidia reflete a incerteza sobre a sustentabilidade do atual ciclo de alta impulsionado pela IA. Se a demanda por chips de IA se mantiver forte, a empresa pode recuperar parte das perdas; caso contrário, o setor pode enfrentar uma correção mais acentuada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783542698.612037,
-    "titulo": "Agência aponta conflito dentro do governo sobre leilão de megaterminal em Santos",
-    "titulo_original": "Agência aponta conflito dentro do governo sobre leilão de megaterminal em Santos",
-    "fonte": "Folha Mercado",
-    "publicado": "08/07 14:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O conflito entre agências reguladoras e a Casa Civil pode atrasar ou alterar os termos do leilão. Se a ANTAQ mantiver sua posição, o modelo de concorrência pode ser mais competitivo, o que seria positivo para o setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783542702.148116,
-    "titulo": "Dólar à vista fecha em baixa de 0,11%, a R$5,1484 na venda",
-    "titulo_original": "Dólar à vista fecha em baixa de 0,11%, a R$5,1484 na venda - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/07 17:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar pode ser influenciada por diversos fatores, como fluxo de capital ou expectativas de juros. Se essa tendência de baixa se mantiver, pode impactar as exportações e importações brasileiras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783542705.6601312,
-    "titulo": "Soja: Brasil vende 4 milhões de t na semana com preços perto dos melhores momentos do ano",
-    "titulo_original": "Soja: Brasil vende 4 milhões de t na semana com preços perto dos melhores momentos do ano - Notícias Agrícolas",
-    "fonte": "Google News Commodities",
-    "publicado": "08/07 15:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte venda de soja e os preços favoráveis indicam um bom desempenho do agronegócio brasileiro. Se os preços se mantiverem elevados, isso pode impulsionar a balança comercial do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783542709.207345,
-    "titulo": "Núclea compra empresa de inteligência antifraude Data Rudder",
-    "titulo_original": "Núclea compra empresa de inteligência antifraude Data Rudder",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 17:08",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do Banco Central é um passo crucial para a concretização da aquisição. Se a operação for aprovada, pode indicar um movimento de consolidação no setor de antifraude no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783542839.767938,
-    "titulo": "Origem Energia, produtora de gás do Brasil, avalia venda de fatia, controle ou IPO para levantar recursos",
-    "titulo_original": "Origem Energia, produtora de gás do Brasil, avalia venda de fatia, controle ou IPO para levantar recursos",
-    "fonte": "InvestNews",
-    "publicado": "08/07 15:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação da companhia em US$ 2,5 bilhões e as opções de venda de fatia, controle ou IPO indicam uma potencial movimentação no setor de energia. Se um IPO for realizado, isso pode representar uma nova oportunidade de investimento no mercado de ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783542839.7695413,
-    "titulo": "Ultrapar (UGPA3): BofA eleva recomendação para compra e vê espaço para dividendos maiores",
-    "titulo_original": "Ultrapar (UGPA3): BofA eleva recomendação para compra e vê espaço para dividendos maiores",
-    "fonte": "Money Times",
-    "publicado": "08/07 16:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A elevação da recomendação da Ultrapar pelo BofA sugere uma perspectiva positiva para a empresa. Se a empresa entregar os resultados esperados, isso pode se refletir em valorização das ações e maiores dividendos para os acionistas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783542839.7710717,
-    "titulo": "‘Short squeeze’ explica valorização das ações da Natura",
-    "titulo_original": "‘Short squeeze’ explica valorização das ações da Natura",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 16:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O 'short squeeze' indica uma dinâmica de mercado específica que impulsionou as ações da Natura. Se o movimento for sustentado por fundamentos da empresa, a alta pode continuar; caso contrário, pode haver uma correção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783553522.7757447,
-    "titulo": "Senado aprova R$ 15 bi extras para exportadores afetados por guerra do Irã",
-    "titulo_original": "Senado aprova R$ 15 bi extras para exportadores afetados por guerra do Irã",
-    "fonte": "Folha Mercado",
-    "publicado": "08/07 18:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de R$ 15 bilhões adicionais para apoiar exportadores em um contexto de tensões geopolíticas demonstra uma ação fiscal para mitigar impactos externos. Se a medida for efetiva em sustentar as exportações, pode ajudar a equilibrar a balança comercial em um cenário de incertezas globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783553527.3419864,
-    "titulo": "Senado aprova repasse de 3% da arrecadação com bets para Polícia Federal",
-    "titulo_original": "Senado aprova repasse de 3% da arrecadação com bets para Polícia Federal",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 18:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Senado de destinar parte da arrecadação de apostas para a Polícia Federal representa uma nova fonte de financiamento para a instituição. Se a arrecadação se mantiver robusta, isso pode fortalecer a capacidade operacional da PF no combate ao crime organizado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783553531.886709,
-    "titulo": "Juros futuros sobem com fim do acordo entre EUA e Irã, mas mercado mantém a aposta de corte na Selic em agosto",
-    "titulo_original": "Juros futuros sobem com fim do acordo entre EUA e Irã, mas mercado mantém aposta de corte na Selic em agosto",
-    "fonte": "Money Times",
-    "publicado": "08/07 18:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A escalada de tensões geopolíticas no Oriente Médio tende a pressionar os juros globais para cima devido ao aumento do risco e à valorização do petróleo. Se a instabilidade persistir, pode haver maior volatilidade nos juros futuros brasileiros, embora o mercado ainda mantenha a expectativa de corte na Selic em agosto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783553536.406018,
-    "titulo": "Ouro fecha em queda forte com apostas de juros elevados após tensão no Oriente Médio",
-    "titulo_original": "Ouro fecha em queda forte com apostas de juros elevados após tensão no Oriente Médio - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "08/07 15:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda acentuada no preço do ouro, em meio a apostas de juros elevados e tensões no Oriente Médio, sugere que o ativo de refúgio está perdendo atratividade em favor de investimentos com maior retorno em um cenário de juros altos. Se as taxas de juros globais continuarem a subir, o ouro pode permanecer sob pressão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783553562.4134538,
-    "titulo": "Custos de empréstimo do Japão disparam para maior nível em 30 anos",
-    "titulo_original": "Custos de empréstimo do Japão disparam para maior nível em 30 anos",
-    "fonte": "Folha Mercado",
-    "publicado": "08/07 18:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento expressivo nos custos de empréstimo do Japão, atingindo o maior patamar em 30 anos, pode sinalizar um aperto nas condições financeiras globais. Se essa tendência se espalhar para outras economias, pode impactar o custo do crédito e o apetite por investimentos em mercados emergentes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783553562.4153214,
-    "titulo": "Ibovespa fecha em queda e dólar fica perto da estabilidade em meio à disparada do petróleo",
-    "titulo_original": "Ibovespa fecha em queda e dólar fica perto da estabilidade em meio à disparada do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "08/07 18:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "O fechamento do Ibovespa em queda e a estabilidade do dólar, em meio à disparada do petróleo e aumento da aversão a risco global, indicam um cenário de cautela nos mercados. Se a tensão no Oriente Médio se intensificar, a volatilidade tende a aumentar, impactando tanto a renda variável quanto o câmbio.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783610401.2357414,
     "titulo": "IGP-M cai 0,39% e tem menor taxa para 1ª prévia em cinco meses, informa FGV",
     "titulo_original": "IGP-M cai 0,39% e tem menor taxa para 1ª prévia em cinco meses, informa FGV",
@@ -841,6 +554,88 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O mercado de ações em Nova York mostrou recuperação, com o setor de tecnologia liderando os ganhos, o que pode indicar um otimismo cauteloso em relação ao cenário global. Se as tensões geopolíticas se intensificarem, essa recuperação pode ser revertida rapidamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783683072.0208874,
+    "titulo": "A reforma tributária pode travar sua empresa e o problema não é o imposto",
+    "titulo_original": "A reforma tributária pode travar sua empresa e o problema não é o imposto",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A dificuldade das empresas em integrar seus departamentos Fiscal e de Tecnologia para se adaptar à reforma tributária pode gerar atrasos e ineficiências. Se esse problema não for resolvido, o impacto da reforma pode ser menor do que o esperado em termos de arrecadação e conformidade, afetando a produtividade empresarial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783683076.7673938,
+    "titulo": "Manhã no mercado: Guerra entre EUA e Irã segue no radar em dia de IPCA",
+    "titulo_original": "Manhã no mercado: Guerra entre EUA e Irã segue no radar em dia de IPCA",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 08:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A escalada das tensões entre EUA e Irã pode aumentar a aversão ao risco, levando a um dólar mais forte e a uma postura mais defensiva dos investidores antes do fim de semana. Se o conflito se intensificar, o impacto nos preços do petróleo e, consequentemente, na inflação global, pode ser significativo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783683081.4279869,
+    "titulo": "O que tem pressionado os juros no Brasil é a situação global, diz ministro da Fazenda",
+    "titulo_original": "O que tem pressionado os juros no Brasil é a situação global, diz ministro da Fazenda",
+    "fonte": "Money Times",
+    "publicado": "10/07 08:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do ministro da Fazenda reforça a ideia de que fatores externos têm grande influência na política de juros brasileira. Se as taxas de juros nos EUA continuarem elevadas, isso pode manter a pressão sobre os juros domésticos, limitando o espaço para cortes pelo Banco Central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783683086.0876515,
+    "titulo": "Inflação francesa confirmada em queda em junho, aliviando pressão sobre o BCE",
+    "titulo_original": "French inflation confirmed to fall in June, easing pressure on the ECB",
+    "fonte": "ForexLive",
+    "publicado": "10/07 04:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda na inflação francesa pode reforçar a expectativa de que o Banco Central Europeu (BCE) mantenha uma postura mais branda em relação aos juros. Se os dados de outros países da zona do euro seguirem essa tendência de desinflação, isso pode abrir espaço para discussões sobre cortes de juros mais cedo do que o esperado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783683091.9803245,
+    "titulo": "Dólar cai em meio às tensões entre EUA e Irã; Ibovespa avança 1,22%",
+    "titulo_original": "Dólar cai em meio às tensões entre EUA e Irã; Ibovespa avança 1,22% - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/07 05:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar e a alta do Ibovespa, em meio às tensões EUA-Irã, sugerem uma busca por ativos de maior risco no mercado brasileiro. Se a situação geopolítica se acalmar, podemos ver uma reversão desse movimento, com o dólar se fortalecendo e a bolsa brasileira sofrendo pressão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783683091.9814696,
+    "titulo": "UE diz que Instagram e Facebook devem mudar recursos considerados viciantes ou enfrentar multas",
+    "titulo_original": "UE diz que Instagram e Facebook devem mudar recursos considerados viciantes ou enfrentar multas",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 07:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A União Europeia está pressionando a Meta por mudanças em funcionalidades de suas redes sociais, o que pode levar a multas caso não haja conformidade. Se a Meta não se adaptar, isso pode impactar seus resultados financeiros e a forma como as plataformas operam, além de abrir precedentes para outras regulamentações globais.",
     "is_stocks": true
   }
 ]
