@@ -1041,5 +1041,83 @@
     "origem": "domestica",
     "leitura_critica": "A potencial intervenção da Petrobras na Braskem para evitar a recuperação judicial indica a importância estratégica da Braskem para o setor petroquímico e para a própria Petrobras. O desfecho dessa avaliação pode ter implicações na estrutura de capital e na operação da Braskem.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783715465.6904898,
+    "titulo": "Disparada da bolsa é justificada por ‘valuation’ e baixo posicionamento",
+    "titulo_original": "Disparada da bolsa é justificada por ‘valuation’ e baixo posicionamento",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 15:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação da bolsa local, impulsionada por dados de inflação mais favoráveis e baixo posicionamento técnico, sugere um otimismo cauteloso do mercado. Se os próximos dados de inflação mantiverem a tendência de queda, isso pode sustentar o movimento de alta; caso contrário, o cenário pode se reverter rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783715469.1720595,
+    "titulo": "Como o Master recrutava influenciadores para fazer postagens contra o Banco Central, segundo a PF",
+    "titulo_original": "Como o Master recrutava influenciadores para fazer postagens contra o Banco Central, segundo a PF",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 11:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A investigação da PF sobre o Banco Master e supostas campanhas contra o Banco Central levanta preocupações sobre a manipulação da opinião pública e a interferência no debate de política monetária. Se comprovado, isso pode gerar desconfiança nas instituições e impactar a credibilidade do Banco Central, potencialmente influenciando expectativas de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783715472.6441462,
+    "titulo": "Para conter alta nos preços, governo estende imposto sobre exportação de petróleo - Hora do Povo",
+    "titulo_original": "Para conter alta nos preços, governo estende imposto sobre exportação de petróleo - Hora do Povo",
+    "fonte": "Google News Commodities",
+    "publicado": "10/07 17:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A extensão do imposto sobre exportação de petróleo pelo governo visa controlar a inflação. Se a medida for eficaz em reduzir os preços do petróleo, isso pode ter um impacto positivo na inflação geral; caso contrário, a medida pode ser ineficaz e gerar distorções no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783715477.0718508,
+    "titulo": "OpenAI e Google vendem modelos de IA para grupos chineses incluídos em lista de restrição",
+    "titulo_original": "FT: OpenAI e Google vendem modelos de IA para grupos chineses incluídos em lista de restrição",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 16:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A venda de tecnologia de IA para empresas chinesas sob restrição dos EUA pode gerar tensões geopolíticas e impactar o avanço tecnológico global. Se houver sanções adicionais ou restrições mais severas, isso pode afetar o fluxo de tecnologia e investimento no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783715477.0736346,
+    "titulo": "Nubank recebe autorização para operar como banco no México",
+    "titulo_original": "Nubank recebe autorização para operar como banco no México",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 15:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A autorização para o Nubank operar como banco no México representa uma expansão significativa para a fintech. Se a expansão for bem-sucedida, isso pode fortalecer sua posição no mercado latino-americano e servir de modelo para outras operações internacionais, mas o impacto macroeconômico direto no Brasil é limitado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783715477.0753434,
+    "titulo": "Magazine Luiza (MGLU3): por que ações saltam até 9% nesta sexta-feira (10)?",
+    "titulo_original": "Magazine Luiza (MGLU3): por que ações saltam até 9% nesta sexta-feira (10)?",
+    "fonte": "Money Times",
+    "publicado": "10/07 15:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta nas ações do Magazine Luiza (MGLU3) sugere uma recuperação de ânimo do mercado em relação à empresa, possivelmente ligada a expectativas de melhora em seu desempenho. Se essa tendência de alta se mantiver e for acompanhada por resultados financeiros positivos, pode indicar uma reversão do pessimismo anterior.",
+    "is_stocks": true
   }
 ]
