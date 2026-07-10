@@ -637,5 +637,85 @@
     "origem": "externa",
     "leitura_critica": "A União Europeia está pressionando a Meta por mudanças em funcionalidades de suas redes sociais, o que pode levar a multas caso não haja conformidade. Se a Meta não se adaptar, isso pode impactar seus resultados financeiros e a forma como as plataformas operam, além de abrir precedentes para outras regulamentações globais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783689381.3025467,
+    "titulo": "Inflação surpreende e fica abaixo das projeções com queda de alimentos em junho",
+    "titulo_original": "Inflação surpreende e fica abaixo das projeções com queda de alimentos em junho",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração da inflação em junho, vindo abaixo das projeções, pode reforçar a expectativa de manutenção ou até mesmo de um ritmo mais acelerado de cortes na taxa de juros pelo Copom. Se os próximos dados confirmarem essa tendência de desinflação, o cenário para política monetária se torna mais favorável a estímulos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783689385.440443,
+    "titulo": "Índice Nacional da Construção Civil tem alta de 1,19% em junho, mostra IBGE",
+    "titulo_original": "Índice Nacional da Construção Civil tem alta de 1,19% em junho, mostra IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 09:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da inflação na construção civil em junho, acima do mês anterior, pode indicar pressões de custo que se estendem para além de outros setores. Se essa tendência de aceleração se mantiver nos próximos meses, pode haver um impacto mais amplo nos índices gerais de inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783689389.497677,
+    "titulo": "Como proteger o seu patrimônio da inflação além da renda fixa",
+    "titulo_original": "Como proteger o seu patrimônio da inflação além da renda fixa",
+    "fonte": "Money Times",
+    "publicado": "10/07 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia oferece estratégias de investimento para lidar com a inflação, indicando que o cenário de preços elevados pode persistir. Se a inflação continuar sendo um desafio, a busca por ativos que ofereçam proteção se tornará mais relevante para investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783689393.6456912,
+    "titulo": "O mercado, o Copom e as narrativas - Estadão",
+    "titulo_original": "O mercado, o Copom e as narrativas - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/07 09:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda a dinâmica entre o mercado e o Copom, sugerindo que as narrativas podem influenciar as expectativas sobre a política de juros. Se o mercado estiver precificando um cenário diferente do que o Copom sinaliza, isso pode gerar volatilidade nas taxas de juros de curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783689401.3035724,
+    "titulo": "Aura tem crescimento de 18% na sua produção de ouro durante o 2º trimestre",
+    "titulo_original": "Aura tem crescimento de 18% na sua produção de ouro durante o 2º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 09:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento na produção de ouro da Aura Minerals, uma empresa com BDRs negociados na B3, pode ser um indicador positivo para o setor de mineração. Se essa tendência de aumento de produção e vendas se mantiver, pode refletir uma demanda robusta por metais preciosos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783689401.304867,
+    "titulo": "Fabricante sul-coreana de chips faz o 2º maior IPO do mundo, atrás apenas da SpaceX",
+    "titulo_original": "Fabricante sul-coreana de chips faz o 2º maior IPO do mundo, atrás apenas da SpaceX",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 09:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O segundo maior IPO do mundo, realizado pela SK Hynix, demonstra o forte interesse em investimentos no setor de tecnologia e semicondutores. Se o desempenho da empresa após o IPO for positivo, pode atrair mais capital para o setor e impulsionar inovações.",
+    "is_stocks": true
   }
 ]
