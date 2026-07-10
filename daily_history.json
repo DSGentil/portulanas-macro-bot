@@ -809,5 +809,132 @@
     "origem": "domestica",
     "leitura_critica": "A prorrogação do imposto sobre exportação de petróleo bruto representa uma decisão fiscal que afeta diretamente as petroleiras. Se essa medida reduzir os lucros das empresas, pode impactar seus investimentos e a geração de caixa, além de potencialmente influenciar os preços dos combustíveis no mercado interno.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783701955.8981123,
+    "titulo": "Surpresa na inflação do Brasil reforça argumento para mais cortes de juros",
+    "titulo_original": "Surpresa na inflação do Brasil reforça argumento para mais cortes de juros",
+    "fonte": "Folha Mercado",
+    "publicado": "10/07 13:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A surpresa na desaceleração da inflação brasileira abre espaço para o Banco Central manter o ciclo de cortes de juros. Se os próximos dados de inflação continuarem abaixo do esperado, a pressão por uma política monetária mais frouxa tende a aumentar, o que pode impactar as expectativas de retorno em renda fixa e a atratividade de ativos de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783701960.6548014,
+    "titulo": "IPCA surpreende, abre espaço para mais cortes da Selic e muda aposta na renda fixa, diz Empiricus",
+    "titulo_original": "IPCA surpreende, abre espaço para mais cortes da Selic e muda aposta na renda fixa, diz Empiricus",
+    "fonte": "Money Times",
+    "publicado": "10/07 13:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise da Empiricus reforça a visão de que a desaceleração da inflação abre caminho para mais cortes na Selic, o que pode alterar as estratégias de investimento em renda fixa. Se o Banco Central mantiver o ritmo de cortes, a busca por retornos mais elevados em outras classes de ativos pode aumentar, impactando a alocação de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783701965.5278096,
+    "titulo": "Dólar opera perto da estabilidade ante o real após dados de inflação",
+    "titulo_original": "Dólar opera perto da estabilidade ante o real após dados de inflação - Notícias Agrícolas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/07 09:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar após os dados de inflação sugere que o mercado já precificou parte do impacto desses indicadores. Se a inflação continuar sob controle e os juros em queda, o real pode se manter valorizado, mas a dinâmica do câmbio dependerá também de fatores externos e do fluxo de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783701970.3936703,
+    "titulo": "Fed diz que sistema financeiro dos EUA permaneceu sólido no 1º semestre e reforça duplo-mandato",
+    "titulo_original": "Fed diz que sistema financeiro dos EUA permaneceu sólido no 1º semestre e reforça duplo-mandato - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/07 12:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A solidez do sistema financeiro americano sinalizada pelo Fed pode indicar que o banco central dos EUA se sente mais confortável em manter sua política monetária atual ou em realizar ajustes graduais. Se o Fed continuar a enfatizar a estabilidade, isso pode influenciar as expectativas sobre o ritmo de cortes de juros nos EUA, com potenciais reflexos globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783701977.0534062,
+    "titulo": "Dólar oscila, de olho em inflação no Brasil e tensões no Oriente Médio; Ibovespa sobe",
+    "titulo_original": "Dólar oscila, de olho em inflação no Brasil e tensões no Oriente Médio; Ibovespa sobe - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/07 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A volatilidade do dólar e a alta do Ibovespa indicam que o mercado está precificando tanto os dados de inflação no Brasil quanto os riscos geopolíticos. Se as tensões no Oriente Médio se intensificarem, isso pode pressionar o dólar e afetar o apetite por risco global; caso contrário, o foco pode retornar para os indicadores econômicos domésticos e as decisões de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783701977.0548973,
+    "titulo": "Ibovespa entra no 'modo Bolt' e dispara 3.400 pontos em um minuto após IPCA surpreender. A Selic cai de vez?",
+    "titulo_original": "Ibovespa entra no 'modo Bolt' e dispara 3.400 pontos em um minuto após IPCA surpreender. A Selic cai de vez? - Seu Dinheiro",
+    "fonte": "Google News Acoes",
+    "publicado": "10/07 12:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte reação do Ibovespa ao dado de inflação abaixo do esperado sugere que o mercado estava precificando um cenário de inflação mais alta e, consequentemente, juros mais elevados por mais tempo. Se essa percepção se consolidar, o Ibovespa pode continuar a se beneficiar de um ambiente de juros em queda, mas a sustentabilidade desse movimento dependerá da continuidade da desaceleração inflacionária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783701977.0562782,
+    "titulo": "Abertura | Ibovespa deve abrir em alta após IPCA de junho abaixo do esperado",
+    "titulo_original": "Abertura | Ibovespa deve abrir em alta após IPCA de junho abaixo do esperado - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "10/07 09:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de abertura em alta do Ibovespa, atrelada ao IPCA abaixo do esperado, reforça a ideia de que o mercado está reagindo favoravelmente a sinais de desinflação. Se essa tendência se mantiver, o ambiente para cortes de juros pode se fortalecer, sustentando o desempenho da bolsa no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783701977.0577939,
+    "titulo": "Ações da SK Hynix disparam 14% em estreia nos EUA impulsionadas por euforia em torno da IA",
+    "titulo_original": "Ações da SK Hynix disparam 14% em estreia nos EUA impulsionadas por euforia em torno da IA",
+    "fonte": "Money Times",
+    "publicado": "10/07 13:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte performance das ações da SK Hynix reflete o contínuo interesse do mercado em empresas de tecnologia ligadas à IA. Embora seja um movimento de mercado de ações, a notícia não conecta explicitamente esse desempenho a decisões de juros, inflação ou políticas fiscais, mantendo-se como um evento específico do setor de tecnologia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783701977.0592594,
+    "titulo": "Bolsas da Europa fecham em alta com apoio do petróleo; Frankfurt é exceção",
+    "titulo_original": "Bolsas da Europa fecham em alta com apoio do petróleo; Frankfurt é exceção",
+    "fonte": "Valor Economico",
+    "publicado": "10/07 13:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho positivo das bolsas europeias, impulsionado pelo petróleo, sugere que o mercado está precificando um cenário de menor risco de escalada no Oriente Médio. Se essa percepção se mantiver, o setor de energia pode continuar a ter bom desempenho, mas a volatilidade pode persistir caso haja novas escaladas de tensão.",
+    "is_stocks": true
   }
 ]
