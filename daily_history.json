@@ -502,5 +502,110 @@
     "origem": "externa",
     "leitura_critica": "A declaração de Trump sobre ataques mais duros ao Irã e a menção a uma instalação nuclear elevam o risco de escalada do conflito. Se os ataques se concretizarem, o preço do petróleo pode disparar e a instabilidade global aumentar; uma postura mais contida por parte dos EUA poderia mitigar esses riscos.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1783985468.4295037,
+    "titulo": "Petróleo escala 9% com novo bloqueio no Estreito de Ormuz",
+    "titulo_original": "Petróleo escala 9% com novo bloqueio no Estreito de Ormuz",
+    "fonte": "Valor Economico",
+    "publicado": "13/07 16:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tensões geopolíticas e o bloqueio do Estreito de Ormuz elevam o preço do petróleo, o que pode gerar pressões inflacionárias globais. Se o conflito se intensificar e o bloqueio se mantiver, os preços do petróleo podem continuar subindo, impactando custos de produção e transporte em diversas economias; uma resolução diplomática rápida poderia reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783985472.784447,
+    "titulo": "Waller, do Fed, se mostra aberto a um aumento nos juros e faz críticas a políticas defendidas por Warsh",
+    "titulo_original": "Waller, do Fed, se mostra aberto a um aumento nos juros e faz críticas a políticas defendidas por Warsh | Finanças - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/07 15:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Christopher Waller, diretor do Fed, sobre a abertura a um aumento nos juros reforça a possibilidade de uma política monetária mais restritiva nos EUA. Se os indicadores econômicos continuarem a apontar para pressões inflacionárias, o Fed pode de fato optar por elevar os juros, o que teria implicações para mercados globais; caso contrário, uma desaceleração da inflação poderia levar a uma postura mais branda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783985477.2005117,
+    "titulo": "Consumidores do Reino Unido gastam com calor e futebol, mesmo com riscos crescendo",
+    "titulo_original": "UK consumers spend on heat and football even as risks build",
+    "fonte": "ForexLive",
+    "publicado": "13/07 20:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O consumo no Reino Unido mostra resiliência, mas a desaceleração sugere uma tendência subjacente mais fraca, com os custos de energia sendo um ponto de atenção para o novo governo. Se os preços dos alimentos continuarem a subir devido ao conflito, isso pode pressionar ainda mais os orçamentos das famílias; uma intervenção eficaz nos custos de energia industrial poderia aliviar parte dessa pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783985481.6552541,
+    "titulo": "Confiança empresarial da Nova Zelândia se recupera, mas pressões de custo crescentes obscurecem o caminho do RBNZ",
+    "titulo_original": "NZ QSBO business confidence rebounds but rising cost pressures cloud RBNZ path",
+    "fonte": "ForexLive",
+    "publicado": "13/07 19:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A recuperação da confiança empresarial na Nova Zelândia é ofuscada pelo aumento das pressões de custo, o que pode levar o RBNZ a manter uma postura mais cautelosa em relação à flexibilização monetária. Se as pressões inflacionárias persistirem, o banco central pode adiar cortes de juros; uma melhora significativa na utilização da capacidade produtiva poderia fortalecer o argumento para uma política monetária mais branda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783985487.3589764,
+    "titulo": "Bolsas caem em NY pressionadas por ações de tecnologia e falas de Waller, do Fed",
+    "titulo_original": "Bolsas caem em NY pressionadas por ações de tecnologia e falas de Waller, do Fed",
+    "fonte": "Valor Economico",
+    "publicado": "13/07 17:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As falas de Christopher Waller, diretor do Fed, indicando abertura a um aumento nos juros, podem reforçar a expectativa de uma política monetária mais restritiva nos EUA. Se os próximos dados de inflação vierem acima do esperado, o Fed pode intensificar o tom hawkish, pressionando ainda mais as bolsas globais; caso contrário, um arrefecimento da inflação poderia abrir espaço para uma postura mais moderada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783985487.3600056,
+    "titulo": "Ibovespa hoje fecha em queda, seguindo exterior; dólar sobe para R$ 5,13",
+    "titulo_original": "Ibovespa hoje fecha em queda, seguindo exterior; dólar sobe para R$ 5,13 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "13/07 18:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, influenciada pelo exterior, e a alta do dólar refletem um cenário de aversão ao risco global. Se as tensões internacionais se intensificarem, o dólar pode continuar sua trajetória de alta e o Ibovespa sofrer novas quedas; uma melhora no sentimento global poderia reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783985487.3611019,
+    "titulo": "Por que o Ibovespa perde mais de 2 mil pontos nesta segunda-feira (13)",
+    "titulo_original": "Por que o Ibovespa perde mais de 2 mil pontos nesta segunda-feira (13) - Money Times",
+    "fonte": "Google News Acoes",
+    "publicado": "13/07 14:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A expressiva queda do Ibovespa, ligada ao desempenho externo, indica uma forte aversão ao risco nos mercados. Se os fatores externos que pressionam as bolsas globais persistirem, o Ibovespa pode continuar em trajetória de queda; uma melhora no cenário internacional poderia impulsionar uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783985487.362103,
+    "titulo": "Petrobras e mais petroleiras sobem mais de 3% na B3 seguindo disparada do petróleo",
+    "titulo_original": "Petrobras e mais petroleiras sobem mais de 3% na B3 seguindo disparada do petróleo - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "13/07 17:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta das petroleiras na B3, em linha com a valorização do petróleo, demonstra a influência direta dos preços das commodities no setor. Se os preços do petróleo continuarem em ascensão devido a fatores geopolíticos, as ações dessas empresas podem se beneficiar ainda mais; uma estabilização ou queda nos preços do petróleo poderia moderar essa performance.",
+    "is_stocks": true
   }
 ]
