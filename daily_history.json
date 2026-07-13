@@ -345,5 +345,93 @@
     "origem": "ambas",
     "leitura_critica": "A dinâmica atual do Ibovespa mostra a influência de fatores externos na bolsa brasileira, com a Petrobras atuando como um contraponto às quedas gerais. Se a aversão ao risco global se intensificar, o Ibovespa pode continuar sob pressão, a menos que a Petrobras mantenha sua trajetória de alta. Caso o cenário externo melhore, o índice pode se recuperar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783974694.2157018,
+    "titulo": "Alta do dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora - Estadão",
+    "titulo_original": "Alta do dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/07 17:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de que a alta do dólar representa o principal risco para o segundo semestre sugere que a volatilidade cambial pode afetar a inflação, o custo de importação e a competitividade das exportações brasileiras. Se o dólar continuar sua trajetória ascendente, o Banco Central pode precisar intervir para mitigar seus efeitos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783974698.1971571,
+    "titulo": "Lula diz que não quer as Forças Armadas para pagar aposentadoria, mas para cuidar da soberania",
+    "titulo_original": "Lula diz que não quer as Forças Armadas para pagar aposentadoria, mas para cuidar da soberania",
+    "fonte": "Valor Economico",
+    "publicado": "13/07 16:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente Lula sobre o papel das Forças Armadas reforça a importância da defesa da soberania e do investimento em equipamentos. Se essa visão se traduzir em políticas concretas de investimento na indústria de defesa, pode haver um impacto no setor e na capacidade de proteção do território nacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783974701.8031642,
+    "titulo": "Dólar sobe ante real com investidores de olho em novas tensões no Oriente Médio - InfoMoney",
+    "titulo_original": "Dólar sobe ante real com investidores de olho em novas tensões no Oriente Médio - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/07 12:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A valorização do dólar ante o real em resposta a tensões geopolíticas no Oriente Médio indica uma busca por ativos de refúgio em momentos de incerteza global. Se as tensões se intensificarem, o dólar pode continuar sua trajetória de alta, impactando o câmbio brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783974705.3760972,
+    "titulo": "Déficit orçamentário federal dos EUA em junho de US$ 120 bilhões vs. US$ 138 bilhões esperados",
+    "titulo_original": "US June federal budget deficit $120 billion vs $138 billion expected",
+    "fonte": "ForexLive",
+    "publicado": "13/07 15:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Embora o déficit de junho tenha vindo abaixo do esperado, o aumento acumulado no ano levanta preocupações sobre a trajetória fiscal dos EUA. Se as devoluções de impostos continuarem a afetar a arrecadação, o governo pode precisar considerar cortes de gastos ou aumento de impostos para controlar o déficit.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783974770.088376,
+    "titulo": "Wall Street cai com disparada dos preços do petróleo e à espera de dados de inflação",
+    "titulo_original": "Wall Street cai com disparada dos preços do petróleo e à espera de dados de inflação",
+    "fonte": "Money Times",
+    "publicado": "13/07 17:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A correlação entre tensões geopolíticas no Oriente Médio, alta do petróleo e queda em Wall Street sugere que o mercado está precificando um cenário de maior instabilidade e potencial impacto inflacionário. Se os dados de inflação vierem acima do esperado, a pressão sobre os índices pode aumentar, enquanto uma leitura mais branda poderia aliviar as preocupações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783974770.0891914,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/07 15:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia é um link para acompanhamento em tempo real da cotação do dólar. Sua relevância está na possibilidade de monitorar a volatilidade cambial, que pode ser influenciada por diversos fatores macroeconômicos e geopolíticos. Se o dólar apresentar movimentos bruscos, isso pode indicar reações do mercado a notícias relevantes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783974770.0899322,
+    "titulo": "Empresa quer construir porto nos Emirados Árabes para diminuir dependência de Hormuz",
+    "titulo_original": "Empresa quer construir porto nos Emirados Árabes para diminuir dependência de Hormuz",
+    "fonte": "Folha Mercado",
+    "publicado": "13/07 14:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A iniciativa de construir um novo porto visa mitigar riscos logísticos associados à instabilidade no Estreito de Hormuz, um ponto estratégico para o comércio global. Se o projeto for concluído com sucesso, pode oferecer uma alternativa mais segura para o transporte marítimo na região.",
+    "is_stocks": true
   }
 ]
