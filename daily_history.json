@@ -252,5 +252,98 @@
     "origem": "externa",
     "leitura_critica": "O investimento da Intel na Europa para produção de chips de IA demonstra a crescente demanda por essa tecnologia e a importância da região como polo produtivo. Se a produção europeia de chips se consolidar, pode reduzir a dependência de outras regiões e impulsionar a inovação tecnológica no continente.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783961164.2923005,
+    "titulo": "Selic alta mantém ETFs pós-fixados em evidência; veja como esses fundos capturam os juros",
+    "titulo_original": "Selic alta mantém ETFs pós-fixados em evidência; veja como esses fundos capturam os juros - suno.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/07 09:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistência da taxa Selic em patamares elevados torna os investimentos em renda fixa, como os ETFs pós-fixados, mais atrativos para os investidores. Se a Selic permanecer alta por mais tempo, esses fundos continuarão a apresentar bons retornos; caso haja uma antecipação nos cortes de juros, a atratividade desses ETFs pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783961169.4651203,
+    "titulo": "Millennium contrata ex-J.P. Morgan para liderar expansão no Brasil",
+    "titulo_original": "Millennium contrata ex-J.P. Morgan para liderar expansão no Brasil",
+    "fonte": "Valor Economico",
+    "publicado": "13/07 13:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A contratação de executivos experientes e a expansão de gestoras internacionais no Brasil indicam um interesse crescente no mercado local. Se a Millennium conseguir as licenças necessárias e atrair capital, isso pode impulsionar o fluxo de investimentos estrangeiros no país; caso contrário, a expansão pode ser mais lenta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783961174.0443707,
+    "titulo": "Mercados europeus fecham: petróleo sobe com tensões EUA-Irã em foco",
+    "titulo_original": "investingLive European markets wrap: Oil holds higher as US-Iran tensions stay in focus",
+    "fonte": "ForexLive",
+    "publicado": "13/07 08:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A persistência das tensões geopolíticas e a declaração do Fed sobre inflação criam um cenário de incerteza para os mercados. Se a inflação central continuar acima do limite estabelecido, o Fed poderá intensificar os aumentos de juros, o que tenderia a pressionar ativos de risco e o petróleo. Caso a inflação ceda, a pressão por juros mais altos pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783961178.9412448,
+    "titulo": "Tarifas dos EUA podem atingir 93% da pauta exportadora de São Paulo, segundo SP Negócios",
+    "titulo_original": "Tarifas dos EUA podem atingir 93% da pauta exportadora de São Paulo, segundo SP Negócios",
+    "fonte": "Folha Mercado",
+    "publicado": "13/07 12:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A imposição de tarifas pelos EUA pode ter um impacto considerável nas exportações paulistas, afetando setores chave da economia. Se as tarifas forem implementadas, as empresas exportadoras de São Paulo precisarão buscar novos mercados ou absorver custos adicionais; caso contrário, o fluxo comercial pode se manter estável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783961192.701036,
+    "titulo": "Califórnia e 11 Estados vão à Justiça para bloquear acordo de US$ 110 bi entre Paramount e Warner",
+    "titulo_original": "Califórnia e 11 Estados vão à Justiça para bloquear acordo de US$ 110 bi entre Paramount e Warner",
+    "fonte": "Valor Economico",
+    "publicado": "13/07 13:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A ação judicial representa um obstáculo significativo para a consolidação no setor de mídia, podendo impactar estratégias de mercado e investimentos futuros. Se o bloqueio for mantido, as empresas podem precisar reestruturar seus planos de expansão; caso contrário, a fusão poderá prosseguir, alterando o cenário competitivo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783961192.7016025,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta sustentar os 177 mil pontos",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta sustenar os 177 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "13/07 11:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa indica um movimento de aversão ao risco no mercado brasileiro, que pode estar influenciado por fatores domésticos ou externos. Se o índice não conseguir sustentar os 177 mil pontos, podemos ver uma continuidade da tendência de baixa; se houver uma recuperação, isso pode sinalizar um alívio na pressão vendedora.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783961192.702175,
+    "titulo": "Ibovespa cede com aversão a risco global, mas alta da Petrobras limita perdas",
+    "titulo_original": "Ibovespa cede com aversão a risco global, mas alta da Petrobras limita perdas - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "13/07 10:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A dinâmica atual do Ibovespa mostra a influência de fatores externos na bolsa brasileira, com a Petrobras atuando como um contraponto às quedas gerais. Se a aversão ao risco global se intensificar, o Ibovespa pode continuar sob pressão, a menos que a Petrobras mantenha sua trajetória de alta. Caso o cenário externo melhore, o índice pode se recuperar.",
+    "is_stocks": true
   }
 ]
