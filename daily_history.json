@@ -99,5 +99,80 @@
     "origem": "domestica",
     "leitura_critica": "A análise do BofA sobre a composição do Ibovespa indica potenciais mudanças na carteira do índice. Se essas alterações se confirmarem, podem gerar volatilidade em ações específicas, mas o impacto geral no mercado dependerá da magnitude dessas mudanças e da reação dos investidores.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783942357.6182842,
+    "titulo": "Agenda do dia: Focus e dirigente do Fed são destaque",
+    "titulo_original": "Agenda do dia: Focus e dirigente do Fed são destaque",
+    "fonte": "Valor Economico",
+    "publicado": "13/07 07:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divulgação do Boletim Focus e as falas de um dirigente do Fed são eventos de alta relevância para a precificação de juros e inflação. Se as projeções do Focus vierem significativamente diferentes do esperado, isso pode gerar volatilidade; declarações de Waller podem indicar a direção futura da política monetária americana.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783942362.2765214,
+    "titulo": "Conflito EUA-Irã, falas do Fed, Focus e mais destaques desta segunda-feira",
+    "titulo_original": "Conflito EUA-Irã, falas do Fed, Focus e mais destaques desta segunda-feira - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/07 05:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de fatores geopolíticos e declarações de autoridades monetárias pode gerar volatilidade nos mercados. Acompanhar as falas do Fed será crucial para entender a postura futura da política monetária americana, enquanto o conflito EUA-Irã adiciona um elemento de incerteza global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783942366.8433948,
+    "titulo": "Tensões EUA-Irã continuam a dominar os acontecimentos na nova semana",
+    "titulo_original": "US-Iran tensions continue to dominate proceedings in the new week",
+    "fonte": "ForexLive",
+    "publicado": "13/07 03:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tensões entre EUA e Irã pode aumentar a volatilidade nos mercados globais. Se as negociações diplomáticas forem retomadas com sucesso, a pressão sobre os preços do petróleo pode diminuir; caso contrário, o risco geopolítico tende a se manter elevado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783942371.4550803,
+    "titulo": "Manhã no mercado: Petróleo sobe 3% e se aproxima de US$ 80 o barril com escalada das tensões entre EUA e Irã",
+    "titulo_original": "Manhã no mercado: Petróleo sobe 3% e se aproxima de US$ 80 o barril com escalada das tensões entre EUA e Irã",
+    "fonte": "Valor Economico",
+    "publicado": "13/07 08:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento do prêmio de risco geopolítico nos preços do petróleo é uma consequência direta do conflito. Se a escalada de tensões persistir, o petróleo pode continuar a subir, impactando custos de produção e inflação; uma desescalada, por outro lado, tenderia a estabilizar os preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783942382.2993271,
+    "titulo": "Irã reafirma que não cumprirá sua parte do acordo enquanto os EUA também não o fizerem",
+    "titulo_original": "Iran foreign ministry says mediators are still continuing efforts to remedy the situation",
+    "fonte": "ForexLive",
+    "publicado": "13/07 05:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do Irã indica um impasse nas negociações e um aumento no risco de descumprimento de acordos. Se a comunicação entre os lados continuar falha, a instabilidade na região pode se agravar; a retomada de negociações efetivas poderia mitigar esse risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1783942382.2998056,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "13/07 06:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O preço do petróleo é um indicador sensível a eventos geopolíticos e de oferta/demanda. Se as tensões no Oriente Médio se intensificarem, o petróleo pode continuar a subir, impactando a inflação global; uma normalização da oferta ou desescalada de conflitos tenderia a estabilizar os preços.",
+    "is_stocks": true
   }
 ]
