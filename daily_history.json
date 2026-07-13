@@ -433,5 +433,74 @@
     "origem": "externa",
     "leitura_critica": "A iniciativa de construir um novo porto visa mitigar riscos logísticos associados à instabilidade no Estreito de Hormuz, um ponto estratégico para o comércio global. Se o projeto for concluído com sucesso, pode oferecer uma alternativa mais segura para o transporte marítimo na região.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1783980071.2275972,
+    "titulo": "Boletim Focus indica queda na inflação e estabilidade no PIB e Selic - Canal Rural",
+    "titulo_original": "Boletim Focus indica queda na inflação e estabilidade no PIB e Selic - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/07 16:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A indicação de queda na inflação no Boletim Focus pode sinalizar um alívio nas pressões de preço, o que, se confirmado, poderia abrir espaço para discussões sobre a política monetária. Se a inflação continuar em trajetória descendente, o Banco Central poderá considerar ajustes na Selic; caso contrário, a estabilidade pode ser mantida.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783980074.9779074,
+    "titulo": "Juros altos expõem os riscos do crédito privado; veja os setores preferidos dos gestores",
+    "titulo_original": "Juros altos expõem os riscos do crédito privado; veja os setores preferidos dos gestores",
+    "fonte": "Money Times",
+    "publicado": "13/07 18:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O cenário de juros altos apresenta um dilema para investidores de crédito privado, aumentando retornos mas também riscos. Se as empresas não conseguirem gerenciar o aumento do custo da dívida, o risco de inadimplência pode crescer; a seleção de setores resilientes se torna crucial nesse ambiente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783980078.6317904,
+    "titulo": "Juros futuros acompanham disparada do petróleo e terminam sessão em forte alta",
+    "titulo_original": "Juros futuros acompanham disparada do petróleo e terminam sessão em forte alta",
+    "fonte": "Valor Economico",
+    "publicado": "13/07 18:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta dos juros futuros, impulsionada pela tensão geopolítica e expectativas inflacionárias, reforça a pressão sobre a política monetária. Se o cenário de inflação persistir, o Banco Central pode manter uma postura mais restritiva; uma eventual desaceleração da inflação, contudo, abriria espaço para revisões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783980082.2151515,
+    "titulo": "Vídeo mostra ataque dos EUA a submarino do Irã e à base de manutenção naval - CNN Brasil",
+    "titulo_original": "Vídeo mostra ataque dos EUA a submarino do Irã e à base de manutenção naval - CNN Brasil",
+    "fonte": "Google News Geopolitica",
+    "publicado": "13/07 15:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O ataque dos EUA a alvos iranianos, se confirmado, intensifica as tensões geopolíticas na região. Um agravamento do conflito pode levar a interrupções no fornecimento de petróleo e afetar mercados globais; uma desescalada, por outro lado, traria alívio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1783980085.8584158,
+    "titulo": "Trump diz que EUA voltarão a atacar Irã 'com dureza' e cita instalação nuclear",
+    "titulo_original": "Trump diz que EUA voltarão a atacar Irã 'com dureza' e cita instalação nuclear",
+    "fonte": "Valor Economico",
+    "publicado": "13/07 17:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre ataques mais duros ao Irã e a menção a uma instalação nuclear elevam o risco de escalada do conflito. Se os ataques se concretizarem, o preço do petróleo pode disparar e a instabilidade global aumentar; uma postura mais contida por parte dos EUA poderia mitigar esses riscos.",
+    "is_stocks": false
   }
 ]
