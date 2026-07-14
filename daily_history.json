@@ -607,5 +607,95 @@
     "origem": "ambas",
     "leitura_critica": "A alta das petroleiras na B3, em linha com a valorização do petróleo, demonstra a influência direta dos preços das commodities no setor. Se os preços do petróleo continuarem em ascensão devido a fatores geopolíticos, as ações dessas empresas podem se beneficiar ainda mais; uma estabilização ou queda nos preços do petróleo poderia moderar essa performance.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784028687.2362514,
+    "titulo": "Dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora",
+    "titulo_original": "Dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/07 07:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A percepção do dólar como principal risco no segundo semestre sugere que a volatilidade cambial pode ser um fator determinante para a economia brasileira. Se o dólar continuar sua trajetória de valorização, pode pressionar a inflação e os custos de importação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784028692.0600374,
+    "titulo": "Minidólar (WDOQ26): tensão no Oriente Médio mantém dólar e petróleo no radar",
+    "titulo_original": "Minidólar (WDOQ26): tensão no Oriente Médio mantém dólar e petróleo no radar - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/07 07:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A tensão geopolítica no Oriente Médio tende a sustentar a demanda por dólar como ativo de refúgio, o que pode impactar o comportamento do minidólar. Se a escalada militar se intensificar, o dólar pode continuar sua trajetória de valorização frente ao real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784028696.8647075,
+    "titulo": "Petróleo avança quase 10% com aumento das tensões entre EUA e Irã",
+    "titulo_original": "Petróleo avança quase 10% com aumento das tensões entre EUA e Irã - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "14/07 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O forte avanço do petróleo reflete o impacto direto das tensões geopolíticas no Oriente Médio sobre o mercado de energia. Se o conflito se agravar, os preços do petróleo podem continuar subindo, impactando os custos de produção e transporte globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784028701.6275878,
+    "titulo": "Petróleo sobe mais de 4% após nova onda de ataques no Oriente Médio",
+    "titulo_original": "Petróleo sobe mais de 4% após nova onda de ataques no Oriente Médio - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "14/07 07:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A nova onda de ataques no Oriente Médio impulsiona o preço do petróleo, indicando uma persistência do risco geopolítico na região. Se os ataques continuarem ou escalarem, o petróleo pode manter sua trajetória de alta, afetando a inflação e os custos de energia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784028708.715599,
+    "titulo": "Ibovespa hoje: inflação dos EUA e escalada no Oriente Médio ditam ritmo do mercado",
+    "titulo_original": "Ibovespa hoje: inflação dos EUA e escalada no Oriente Médio ditam ritmo do mercado - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "14/07 04:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A influência da inflação dos EUA e da escalada no Oriente Médio sobre o Ibovespa demonstra a forte conexão do mercado brasileiro com fatores externos. Se a inflação nos EUA vier alta, pode levar a juros mais altos, impactando negativamente o mercado acionário local; tensões no Oriente Médio podem afetar o preço do petróleo e a confiança dos investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784028708.716727,
+    "titulo": "Bank of America tem lucro líquido de US$ 9,1 bilhões no 2º trimestre",
+    "titulo_original": "Bank of America tem lucro líquido de US$ 9,1 bilhões no 2º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "14/07 08:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O lucro robusto do Bank of America no segundo trimestre pode ser interpretado como um sinal de resiliência do setor bancário americano, possivelmente beneficiado por um ambiente de juros mais altos. Se o Federal Reserve mantiver uma postura mais restritiva, bancos como o BofA podem continuar a apresentar bons resultados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784028708.7186024,
+    "titulo": "Veja o calendário dos balanços do 2º trimestre das empresas do Ibovespa",
+    "titulo_original": "Veja o calendário dos balanços do 2º trimestre das empresas do Ibovespa - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "14/07 06:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O calendário de balanços do segundo trimestre é importante para acompanhar o desempenho financeiro das empresas brasileiras. Se os resultados vierem majoritariamente positivos, pode haver um impacto favorável no Ibovespa; resultados fracos podem gerar pressão vendedora.",
+    "is_stocks": true
   }
 ]
