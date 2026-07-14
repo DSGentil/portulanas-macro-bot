@@ -738,5 +738,77 @@
     "origem": "externa",
     "leitura_critica": "O plano de Warren Buffett de doar sua vasta fortuna representa um movimento filantrópico de grande magnitude. A exclusão da Fundação Gates de suas doações, após escrutínio sobre ligações de Bill Gates com Jeffrey Epstein, pode ter implicações para a fundação. A alocação desses recursos para outras instituições pode gerar impactos significativos em suas áreas de atuação.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784066470.2621515,
+    "titulo": "Plenário do Senado aprova MP do frete mínimo, e texto segue para sanção",
+    "titulo_original": "Plenário do Senado aprova MP do frete mínimo, e texto segue para sanção",
+    "fonte": "Valor Economico",
+    "publicado": "14/07 18:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação da MP do frete mínimo pelo Senado representa uma decisão regulatória concreta que afeta o setor de transporte. A retirada do valor mínimo de remuneração para motoristas que ficam fora das bases por mais de 24 horas pode ter implicações nos custos logísticos. Se o presidente sancionar o texto sem alterações significativas, o impacto regulatório estará consolidado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784066473.7593899,
+    "titulo": "IBGE lança mapa logístico e reúne os caminhos do Brasil em plataforma interativa",
+    "titulo_original": "IBGE lança mapa logístico e reúne os caminhos do Brasil em plataforma interativa",
+    "fonte": "Money Times",
+    "publicado": "14/07 18:01",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento de um mapa logístico pelo IBGE é uma iniciativa que pode fornecer dados estratégicos para otimização de rotas e cadeias de suprimentos. Embora possa ter implicações na eficiência logística e, indiretamente, na atividade econômica, a notícia em si não apresenta um dado concreto de PIB ou emprego, nem uma decisão fiscal ou regulatória.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784066477.4472463,
+    "titulo": "Juros futuros têm forte queda após dados de inflação dos EUA",
+    "titulo_original": "Juros futuros têm forte queda após dados de inflação dos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "14/07 18:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A inflação mais baixa nos EUA reduz a probabilidade de novas altas de juros pelo Fed, o que tende a diminuir a atratividade de ativos de renda fixa de maior prazo e impulsionar a busca por maior retorno em outras classes. Se a próxima leitura do CPI americano vier em linha ou abaixo do esperado, a pressão vendedora sobre os juros futuros domésticos pode continuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784066480.9740326,
+    "titulo": "Taxas de DIs recuam forte com deflação nos EUA",
+    "titulo_original": "Taxas de DIs recuam forte com deflação nos EUA",
+    "fonte": "Money Times",
+    "publicado": "14/07 18:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A deflação nos EUA é um fator que pode levar o Federal Reserve a pausar ou até mesmo reverter o ciclo de aperto monetário, o que se reflete na queda das taxas de juros futuras no Brasil. Se os próximos indicadores de inflação nos EUA confirmarem essa tendência, os juros futuros brasileiros podem continuar a ceder.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784066484.585641,
+    "titulo": "Inflação ao consumidor de junho abaixo do esperado não significa 'missão cumprida', diz presidente do Fed - Valor Econômico",
+    "titulo_original": "Inflação ao consumidor de junho abaixo do esperado não significa 'missão cumprida', diz presidente do Fed - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/07 13:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração do presidente do Fed sugere cautela quanto à trajetória futura da inflação, mesmo com um dado positivo. Isso pode indicar que o banco central americano manterá uma postura vigilante, o que pode influenciar as expectativas sobre o ritmo de cortes de juros. Se a inflação voltar a acelerar, a postura mais dura do Fed pode ser reforçada.",
+    "is_stocks": false
   }
 ]
