@@ -1,259 +1,5 @@
 [
   {
-    "_timestamp": 1783940814.7635224,
-    "titulo": "IPCA fica abaixo do esperado e alimenta chance de novo corte na Selic",
-    "titulo_original": "IPCA fica abaixo do esperado e alimenta chance de novo corte na Selic - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/07 16:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação de um IPCA abaixo do esperado reforça a perspectiva de continuidade do ciclo de cortes na taxa Selic. Se o Banco Central confirmar essa expectativa com um novo corte, isso pode estimular o consumo e o investimento, mas também pode pressionar o câmbio se a diferença de juros em relação a outros países aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783940818.9554014,
-    "titulo": "Juíza afasta cumulação de Selic e juros em cédula de crédito bancário",
-    "titulo_original": "Juíza afasta cumulação de Selic e juros em cédula de crédito bancário - Migalhas",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/07 15:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão judicial sobre a cumulação de taxas de juros pode ter implicações para o custo do crédito em operações específicas. Se essa decisão for amplamente aplicada ou gerar jurisprudência, pode influenciar a precificação de determinados instrumentos financeiros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783940823.3044105,
-    "titulo": "O maior risco para o seu patrimônio não vem do mercado",
-    "titulo_original": "O maior risco para o seu patrimônio não vem do mercado",
-    "fonte": "Folha Mercado",
-    "publicado": "12/07 23:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A matéria levanta uma questão sobre a percepção de risco financeiro, contrastando riscos de mercado com outros fatores. Sem detalhar quais são esses outros riscos, a leitura se limita à premissa apresentada, sem aprofundamento em cenários concretos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783940827.555902,
-    "titulo": "Escalada em Ormuz ameaça trégua na inflação e eleva volatilidade no mercado",
-    "titulo_original": "Escalada em Ormuz ameaça trégua na inflação e eleva volatilidade no mercado",
-    "fonte": "InvestNews",
-    "publicado": "12/07 16:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A escalada em Ormuz pode gerar pressões inflacionárias via aumento do petróleo, o que, se confirmado, pode levar o Banco Central a manter uma postura mais restritiva. Se o leilão do Tesouro tiver baixa demanda, isso pode indicar um apetite menor por dívida pública, potencialmente pressionando os juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783940837.0708969,
-    "titulo": "Dólar cai a R$ 5,10 e Ibovespa firme com IPCA menor e petróleo comportado",
-    "titulo_original": "Dólar cai a R$ 5,10 e Ibovespa firme com IPCA menor e petróleo comportado - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "10/07 21:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a firmeza do Ibovespa, associadas a um IPCA menor, reforçam a expectativa de manutenção ou corte da taxa Selic. Se o cenário de inflação controlada persistir, o Banco Central pode ter mais espaço para flexibilizar a política monetária, o que tenderia a manter o dólar em patamares mais baixos e o Ibovespa sustentado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783940837.0712302,
-    "titulo": "Dança das cadeiras: BofA avalia quais ações devem entrar e sair na 1ª prévia do Ibovespa",
-    "titulo_original": "Dança das cadeiras: BofA avalia quais ações devem entrar e sair na 1ª prévia do Ibovespa - Money Times",
-    "fonte": "Google News Acoes",
-    "publicado": "12/07 08:58",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "acoes"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise do BofA sobre a composição do Ibovespa é um indicador de movimentações no mercado de ações. Se as mudanças apontadas se concretizarem, isso pode gerar volatilidade em ações específicas, mas o impacto geral no índice dependerá da magnitude das alterações e da reação do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783940837.0715775,
-    "titulo": "Quem entra e quem sai do Ibovespa? BofA aponta duas possíveis novidades na carteira",
-    "titulo_original": "Quem entra e quem sai do Ibovespa? BofA aponta duas possíveis novidades na carteira - Seu Dinheiro",
-    "fonte": "Google News Acoes",
-    "publicado": "12/07 14:02",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "acoes"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise do BofA sobre a composição do Ibovespa indica potenciais mudanças na carteira do índice. Se essas alterações se confirmarem, podem gerar volatilidade em ações específicas, mas o impacto geral no mercado dependerá da magnitude dessas mudanças e da reação dos investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783942357.6182842,
-    "titulo": "Agenda do dia: Focus e dirigente do Fed são destaque",
-    "titulo_original": "Agenda do dia: Focus e dirigente do Fed são destaque",
-    "fonte": "Valor Economico",
-    "publicado": "13/07 07:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divulgação do Boletim Focus e as falas de um dirigente do Fed são eventos de alta relevância para a precificação de juros e inflação. Se as projeções do Focus vierem significativamente diferentes do esperado, isso pode gerar volatilidade; declarações de Waller podem indicar a direção futura da política monetária americana.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783942362.2765214,
-    "titulo": "Conflito EUA-Irã, falas do Fed, Focus e mais destaques desta segunda-feira",
-    "titulo_original": "Conflito EUA-Irã, falas do Fed, Focus e mais destaques desta segunda-feira - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/07 05:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de fatores geopolíticos e declarações de autoridades monetárias pode gerar volatilidade nos mercados. Acompanhar as falas do Fed será crucial para entender a postura futura da política monetária americana, enquanto o conflito EUA-Irã adiciona um elemento de incerteza global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783942366.8433948,
-    "titulo": "Tensões EUA-Irã continuam a dominar os acontecimentos na nova semana",
-    "titulo_original": "US-Iran tensions continue to dominate proceedings in the new week",
-    "fonte": "ForexLive",
-    "publicado": "13/07 03:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões entre EUA e Irã pode aumentar a volatilidade nos mercados globais. Se as negociações diplomáticas forem retomadas com sucesso, a pressão sobre os preços do petróleo pode diminuir; caso contrário, o risco geopolítico tende a se manter elevado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783942371.4550803,
-    "titulo": "Manhã no mercado: Petróleo sobe 3% e se aproxima de US$ 80 o barril com escalada das tensões entre EUA e Irã",
-    "titulo_original": "Manhã no mercado: Petróleo sobe 3% e se aproxima de US$ 80 o barril com escalada das tensões entre EUA e Irã",
-    "fonte": "Valor Economico",
-    "publicado": "13/07 08:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento do prêmio de risco geopolítico nos preços do petróleo é uma consequência direta do conflito. Se a escalada de tensões persistir, o petróleo pode continuar a subir, impactando custos de produção e inflação; uma desescalada, por outro lado, tenderia a estabilizar os preços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783942382.2993271,
-    "titulo": "Irã reafirma que não cumprirá sua parte do acordo enquanto os EUA também não o fizerem",
-    "titulo_original": "Iran foreign ministry says mediators are still continuing efforts to remedy the situation",
-    "fonte": "ForexLive",
-    "publicado": "13/07 05:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração do Irã indica um impasse nas negociações e um aumento no risco de descumprimento de acordos. Se a comunicação entre os lados continuar falha, a instabilidade na região pode se agravar; a retomada de negociações efetivas poderia mitigar esse risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783942382.2998056,
-    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Commodities",
-    "publicado": "13/07 06:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O preço do petróleo é um indicador sensível a eventos geopolíticos e de oferta/demanda. Se as tensões no Oriente Médio se intensificarem, o petróleo pode continuar a subir, impactando a inflação global; uma normalização da oferta ou desescalada de conflitos tenderia a estabilizar os preços.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783948627.1193163,
-    "titulo": "Economistas voltam a reduzir previsão da inflação neste ano",
-    "titulo_original": "Economistas voltam a reduzir previsão da inflação neste ano",
-    "fonte": "Folha Mercado",
-    "publicado": "13/07 08:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução contínua da previsão de inflação pelos economistas sugere um cenário de desinflação mais acentuado do que o esperado anteriormente. Se a inflação continuar a ceder, isso pode abrir espaço para o Banco Central antecipar cortes na taxa de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783948632.0093973,
-    "titulo": "Rendimentos de títulos de 2 anos dos EUA atingiram o maior nível desde fevereiro de 2025",
-    "titulo_original": "US 2-year yields touched the highest since February 2025",
-    "fonte": "ForexLive",
-    "publicado": "13/07 10:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento dos rendimentos de títulos de 2 anos dos EUA, mesmo com cortes de juros pelo Fed, sugere que o mercado precifica um cenário de inflação persistente ou de necessidade de juros mais altos no futuro. Se o próximo dado de CPI vier acima do esperado, isso pode reforçar a expectativa de alta de juros pelo Fed.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783948636.9828584,
-    "titulo": "Ouro defende marca de US$ 4.000 sob pressão do dólar e escalada do petróleo",
-    "titulo_original": "Ouro defende marca de US$ 4.000 sob pressão do dólar e escalada do petróleo - ADVFN",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/07 08:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A defesa da marca de US$ 4.000 pelo ouro, em meio à pressão do dólar e à alta do petróleo, demonstra a busca por ativos de refúgio em cenários de incerteza. Se as tensões geopolíticas se intensificarem, o ouro pode se valorizar ainda mais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783948641.803809,
-    "titulo": "Trump: Estamos assumindo o Estreito de Hormuz",
-    "titulo_original": "Trump: We're taking over the Strait of Hormuz",
-    "fonte": "ForexLive",
-    "publicado": "13/07 09:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre assumir o controle do Estreito de Hormuz eleva as tensões geopolíticas e pode impactar diretamente o preço do petróleo. Se os EUA efetivamente controlarem o estreito, isso pode gerar instabilidade na região e afetar o fluxo de petróleo global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783948653.5728004,
-    "titulo": "Ações caem e rendimentos de títulos sobem com tensão no Oriente Médio e alta do petróleo",
-    "titulo_original": "Ações caem e rendimentos de títulos sobem com tensão no Oriente Médio e alta do petróleo",
-    "fonte": "Folha Mercado",
-    "publicado": "13/07 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões no Oriente Médio e o fechamento do Estreito de Hormuz geram aversão ao risco, impactando negativamente as bolsas e elevando os rendimentos de títulos. Se o conflito se intensificar, o preço do petróleo pode continuar a subir, pressionando a inflação e, consequentemente, os juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783948653.5732405,
-    "titulo": "Intel investe 5 bilhões de euros na Irlanda para ampliar produção de chips de IA na Europa",
-    "titulo_original": "Intel investe 5 bi de euros na Irlanda para ampliar produção de chips de IA na Europa",
-    "fonte": "Valor Economico",
-    "publicado": "13/07 09:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O investimento da Intel na Europa para produção de chips de IA demonstra a crescente demanda por essa tecnologia e a importância da região como polo produtivo. Se a produção europeia de chips se consolidar, pode reduzir a dependência de outras regiões e impulsionar a inovação tecnológica no continente.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1783961164.2923005,
     "titulo": "Selic alta mantém ETFs pós-fixados em evidência; veja como esses fundos capturam os juros",
     "titulo_original": "Selic alta mantém ETFs pós-fixados em evidência; veja como esses fundos capturam os juros - suno.com.br",
@@ -899,6 +645,98 @@
     ],
     "origem": "externa",
     "leitura_critica": "A queda na inflação dos EUA é um sinal positivo, mas a ressalva de que ela pode voltar a subir indica que o Federal Reserve manterá cautela. Se os dados futuros mostrarem uma aceleração inflacionária, isso pode levar a uma postura mais dura do Fed, impactando as expectativas de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784061074.029638,
+    "titulo": "Aneel abre consulta pública para discutir mudanças na remuneração das distribuidoras",
+    "titulo_original": "Aneel abre consulta pública para discutir mudanças na remuneração das distribuidoras",
+    "fonte": "Valor Economico",
+    "publicado": "14/07 16:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A consulta pública da Aneel sobre o Fator X pode levar a mudanças significativas na forma como as distribuidoras de energia são remuneradas. Se a proposta for aprovada, isso pode impactar as tarifas de energia para os consumidores e a rentabilidade das empresas. A consideração da produtividade individual pode incentivar maior eficiência no setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784061077.5817046,
+    "titulo": "‘CDI é maravilhoso, mas até quando?’: ASA reduz dependência e aposta em ações, ativos reais e dólar",
+    "titulo_original": "‘CDI é maravilhoso, mas até quando?’: ASA reduz dependência e aposta em ações, ativos reais e dólar",
+    "fonte": "Money Times",
+    "publicado": "14/07 16:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação da ASA reflete uma visão de que o cenário de juros altos pode não ser eterno. Se a Selic começar a cair de forma mais acentuada, a atratividade de ações e ativos reais pode aumentar. A aposta em dólar pode ser uma proteção contra volatilidade ou desvalorização cambial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784061081.0995474,
+    "titulo": "Redução da Selic é principal gatilho para ações de transportes - Safra",
+    "titulo_original": "Redução da Selic é principal gatilho para ações de transportes - Safra",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/07 12:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A relação entre a taxa Selic e o setor de transportes sugere que a queda nos juros torna o crédito mais barato, o que pode estimular o consumo e o investimento em logística. Se a Selic continuar em trajetória de queda, o setor de transportes pode se beneficiar. Caso haja reversão nesse ciclo de cortes, o impacto pode ser negativo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784061084.7438219,
+    "titulo": "Dívidas rurais: ‘conseguimos avançar muito na questão dos juros’, diz Pimenta",
+    "titulo_original": "Dívidas rurais: ‘conseguimos avançar muito na questão dos juros’, diz Pimenta",
+    "fonte": "Money Times",
+    "publicado": "14/07 16:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A negociação de juros mais baixos para dívidas rurais, caso concretizada, pode aliviar a carga financeira dos produtores e incentivar o investimento no agronegócio. Se as taxas de 5% e 7% forem estabelecidas, isso representará um benefício direto para o setor. A continuidade dessas políticas de crédito é fundamental para a sustentabilidade do agronegócio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784061089.4907107,
+    "titulo": "Ultrapar: CPPIB vende R$ 1,3 bilhão em ações e zera posição - Brazil Journal",
+    "titulo_original": "Ultrapar: CPPIB vende R$ 1,3 bilhão em ações e zera posição - Brazil Journal",
+    "fonte": "Google News Acoes",
+    "publicado": "14/07 13:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A venda expressiva de ações da Ultrapar pelo CPPIB pode indicar uma reavaliação estratégica do fundo de pensão canadense. Se essa venda for motivada por questões específicas da Ultrapar, isso pode pressionar o preço das ações. Caso seja parte de uma realocação global de portfólio, o impacto pode ser mais difuso.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784061089.4919217,
+    "titulo": "Bolsa em 2026: Usiminas sobe 42% e CSN cai 48% - Safra",
+    "titulo_original": "Bolsa em 2026: Usiminas sobe 42% e CSN cai 48% - Safra",
+    "fonte": "Google News Acoes",
+    "publicado": "14/07 15:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A performance divergente entre Usiminas e CSN em 2026 sugere que fatores específicos de cada empresa ou do setor siderúrgico estão influenciando seus resultados. Se a Usiminas apresentar melhor gestão ou demanda por seus produtos, isso pode justificar a alta. A queda da CSN pode indicar desafios operacionais ou de mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784061089.493206,
+    "titulo": "Como Warren Buffett planeja se desfazer de sua participação de US$ 140 bilhões na Berkshire",
+    "titulo_original": "Como Warren Buffett planeja se desfazer de sua participação de US$ 140 bilhões na Berkshire",
+    "fonte": "Valor Economico",
+    "publicado": "14/07 16:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O plano de Warren Buffett de doar sua vasta fortuna representa um movimento filantrópico de grande magnitude. A exclusão da Fundação Gates de suas doações, após escrutínio sobre ligações de Bill Gates com Jeffrey Epstein, pode ter implicações para a fundação. A alocação desses recursos para outras instituições pode gerar impactos significativos em suas áreas de atuação.",
     "is_stocks": true
   }
 ]
