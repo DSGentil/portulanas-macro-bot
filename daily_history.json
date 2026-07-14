@@ -697,5 +697,81 @@
     "origem": "domestica",
     "leitura_critica": "O calendário de balanços do segundo trimestre é importante para acompanhar o desempenho financeiro das empresas brasileiras. Se os resultados vierem majoritariamente positivos, pode haver um impacto favorável no Ibovespa; resultados fracos podem gerar pressão vendedora.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784042485.5390453,
+    "titulo": "Bolsa caiu 1,2% e dólar subiu para R$ 5,13 nesta segunda",
+    "titulo_original": "Bolsa caiu 1,2% e dólar subiu para R$ 5,13 nesta segunda - Monitor Mercantil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/07 10:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda da bolsa e a valorização do dólar podem refletir um cenário de aversão ao risco no mercado doméstico. Se a pressão sobre o câmbio persistir, pode haver impactos na inflação e nas decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784042490.3253257,
+    "titulo": "Jalles (JALL3) sobe na Bolsa com ajuda do governo; entenda",
+    "titulo_original": "Jalles (JALL3) sobe na Bolsa com ajuda do governo; entenda",
+    "fonte": "Money Times",
+    "publicado": "14/07 12:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do CNPE de aumentar a mistura de etanol na gasolina pode beneficiar empresas do setor sucroalcooleiro como a Jalles. Se essa política for mantida ou expandida, pode haver um impacto positivo contínuo nos resultados dessas companhias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784042495.1713526,
+    "titulo": "Com Desenrola, endividamento e inadimplência estabilizam em junho, diz CNC",
+    "titulo_original": "Com Desenrola, endividamento e inadimplência estabilizam em junho, diz CNC",
+    "fonte": "Valor Economico",
+    "publicado": "14/07 11:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estabilização do endividamento e da inadimplência pode indicar uma melhora gradual na saúde financeira das famílias, possivelmente influenciada por programas de renegociação de dívidas. Se essa tendência se mantiver, pode haver um impacto positivo no consumo e na atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784042499.9585946,
+    "titulo": "Bitcoin sobe para US$ 63,8 mil com dados de CPI mais frios, mas ganhos limitados em meio a temores sobre Irã e taxas",
+    "titulo_original": "Bitcoin climbs to $63.8k on cool CPI data, but gains limited amid Iran, rate fears",
+    "fonte": "Investing.com",
+    "publicado": "14/07 11:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda na inflação ao consumidor nos EUA pode aliviar a pressão sobre o Federal Reserve para manter uma política monetária restritiva. Se os temores geopolíticos se intensificarem, o apetite por ativos de risco como o Bitcoin pode diminuir, mesmo com dados de inflação favoráveis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784042533.9869316,
+    "titulo": "Advent levanta R$ 230 milhões no mercado para seguir avanço na Natura",
+    "titulo_original": "Advent levanta R$ 230 milhões no mercado para seguir avanço na Natura",
+    "fonte": "InvestNews",
+    "publicado": "14/07 12:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A captação de recursos pela Advent para investir na Natura indica um movimento de consolidação ou reestruturação no setor de cosméticos. A operação pode influenciar a governança corporativa e a estratégia futura da Natura.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784042533.9881866,
+    "titulo": "Smartfit e Aliansce Sonae entram para grupo das 12 maiores pagadoras de proventos por ação",
+    "titulo_original": "Smartfit e Aliansce Sonae entram para grupo das 12 maiores pagadoras de proventos por ação",
+    "fonte": "Valor Economico",
+    "publicado": "14/07 11:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na distribuição de proventos por algumas empresas pode indicar solidez financeira e confiança no desempenho futuro. A performance da Vale, em particular, reflete a recuperação do setor de materiais básicos e uma política de retorno ao acionista.",
+    "is_stocks": true
   }
 ]
