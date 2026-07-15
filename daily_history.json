@@ -1,267 +1,5 @@
 [
   {
-    "_timestamp": 1783974694.2157018,
-    "titulo": "Alta do dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora - Estadão",
-    "titulo_original": "Alta do dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/07 17:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A percepção de que a alta do dólar representa o principal risco para o segundo semestre sugere que a volatilidade cambial pode afetar a inflação, o custo de importação e a competitividade das exportações brasileiras. Se o dólar continuar sua trajetória ascendente, o Banco Central pode precisar intervir para mitigar seus efeitos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783974698.1971571,
-    "titulo": "Lula diz que não quer as Forças Armadas para pagar aposentadoria, mas para cuidar da soberania",
-    "titulo_original": "Lula diz que não quer as Forças Armadas para pagar aposentadoria, mas para cuidar da soberania",
-    "fonte": "Valor Economico",
-    "publicado": "13/07 16:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do presidente Lula sobre o papel das Forças Armadas reforça a importância da defesa da soberania e do investimento em equipamentos. Se essa visão se traduzir em políticas concretas de investimento na indústria de defesa, pode haver um impacto no setor e na capacidade de proteção do território nacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783974701.8031642,
-    "titulo": "Dólar sobe ante real com investidores de olho em novas tensões no Oriente Médio - InfoMoney",
-    "titulo_original": "Dólar sobe ante real com investidores de olho em novas tensões no Oriente Médio - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/07 12:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A valorização do dólar ante o real em resposta a tensões geopolíticas no Oriente Médio indica uma busca por ativos de refúgio em momentos de incerteza global. Se as tensões se intensificarem, o dólar pode continuar sua trajetória de alta, impactando o câmbio brasileiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783974705.3760972,
-    "titulo": "Déficit orçamentário federal dos EUA em junho de US$ 120 bilhões vs. US$ 138 bilhões esperados",
-    "titulo_original": "US June federal budget deficit $120 billion vs $138 billion expected",
-    "fonte": "ForexLive",
-    "publicado": "13/07 15:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Embora o déficit de junho tenha vindo abaixo do esperado, o aumento acumulado no ano levanta preocupações sobre a trajetória fiscal dos EUA. Se as devoluções de impostos continuarem a afetar a arrecadação, o governo pode precisar considerar cortes de gastos ou aumento de impostos para controlar o déficit.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783974770.088376,
-    "titulo": "Wall Street cai com disparada dos preços do petróleo e à espera de dados de inflação",
-    "titulo_original": "Wall Street cai com disparada dos preços do petróleo e à espera de dados de inflação",
-    "fonte": "Money Times",
-    "publicado": "13/07 17:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A correlação entre tensões geopolíticas no Oriente Médio, alta do petróleo e queda em Wall Street sugere que o mercado está precificando um cenário de maior instabilidade e potencial impacto inflacionário. Se os dados de inflação vierem acima do esperado, a pressão sobre os índices pode aumentar, enquanto uma leitura mais branda poderia aliviar as preocupações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783974770.0891914,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/07 15:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia é um link para acompanhamento em tempo real da cotação do dólar. Sua relevância está na possibilidade de monitorar a volatilidade cambial, que pode ser influenciada por diversos fatores macroeconômicos e geopolíticos. Se o dólar apresentar movimentos bruscos, isso pode indicar reações do mercado a notícias relevantes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783974770.0899322,
-    "titulo": "Empresa quer construir porto nos Emirados Árabes para diminuir dependência de Hormuz",
-    "titulo_original": "Empresa quer construir porto nos Emirados Árabes para diminuir dependência de Hormuz",
-    "fonte": "Folha Mercado",
-    "publicado": "13/07 14:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A iniciativa de construir um novo porto visa mitigar riscos logísticos associados à instabilidade no Estreito de Hormuz, um ponto estratégico para o comércio global. Se o projeto for concluído com sucesso, pode oferecer uma alternativa mais segura para o transporte marítimo na região.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783980071.2275972,
-    "titulo": "Boletim Focus indica queda na inflação e estabilidade no PIB e Selic - Canal Rural",
-    "titulo_original": "Boletim Focus indica queda na inflação e estabilidade no PIB e Selic - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/07 16:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A indicação de queda na inflação no Boletim Focus pode sinalizar um alívio nas pressões de preço, o que, se confirmado, poderia abrir espaço para discussões sobre a política monetária. Se a inflação continuar em trajetória descendente, o Banco Central poderá considerar ajustes na Selic; caso contrário, a estabilidade pode ser mantida.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783980074.9779074,
-    "titulo": "Juros altos expõem os riscos do crédito privado; veja os setores preferidos dos gestores",
-    "titulo_original": "Juros altos expõem os riscos do crédito privado; veja os setores preferidos dos gestores",
-    "fonte": "Money Times",
-    "publicado": "13/07 18:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cenário de juros altos apresenta um dilema para investidores de crédito privado, aumentando retornos mas também riscos. Se as empresas não conseguirem gerenciar o aumento do custo da dívida, o risco de inadimplência pode crescer; a seleção de setores resilientes se torna crucial nesse ambiente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783980078.6317904,
-    "titulo": "Juros futuros acompanham disparada do petróleo e terminam sessão em forte alta",
-    "titulo_original": "Juros futuros acompanham disparada do petróleo e terminam sessão em forte alta",
-    "fonte": "Valor Economico",
-    "publicado": "13/07 18:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta dos juros futuros, impulsionada pela tensão geopolítica e expectativas inflacionárias, reforça a pressão sobre a política monetária. Se o cenário de inflação persistir, o Banco Central pode manter uma postura mais restritiva; uma eventual desaceleração da inflação, contudo, abriria espaço para revisões.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783980082.2151515,
-    "titulo": "Vídeo mostra ataque dos EUA a submarino do Irã e à base de manutenção naval - CNN Brasil",
-    "titulo_original": "Vídeo mostra ataque dos EUA a submarino do Irã e à base de manutenção naval - CNN Brasil",
-    "fonte": "Google News Geopolitica",
-    "publicado": "13/07 15:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O ataque dos EUA a alvos iranianos, se confirmado, intensifica as tensões geopolíticas na região. Um agravamento do conflito pode levar a interrupções no fornecimento de petróleo e afetar mercados globais; uma desescalada, por outro lado, traria alívio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783980085.8584158,
-    "titulo": "Trump diz que EUA voltarão a atacar Irã 'com dureza' e cita instalação nuclear",
-    "titulo_original": "Trump diz que EUA voltarão a atacar Irã 'com dureza' e cita instalação nuclear",
-    "fonte": "Valor Economico",
-    "publicado": "13/07 17:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre ataques mais duros ao Irã e a menção a uma instalação nuclear elevam o risco de escalada do conflito. Se os ataques se concretizarem, o preço do petróleo pode disparar e a instabilidade global aumentar; uma postura mais contida por parte dos EUA poderia mitigar esses riscos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783985468.4295037,
-    "titulo": "Petróleo escala 9% com novo bloqueio no Estreito de Ormuz",
-    "titulo_original": "Petróleo escala 9% com novo bloqueio no Estreito de Ormuz",
-    "fonte": "Valor Economico",
-    "publicado": "13/07 16:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões geopolíticas e o bloqueio do Estreito de Ormuz elevam o preço do petróleo, o que pode gerar pressões inflacionárias globais. Se o conflito se intensificar e o bloqueio se mantiver, os preços do petróleo podem continuar subindo, impactando custos de produção e transporte em diversas economias; uma resolução diplomática rápida poderia reverter essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783985472.784447,
-    "titulo": "Waller, do Fed, se mostra aberto a um aumento nos juros e faz críticas a políticas defendidas por Warsh",
-    "titulo_original": "Waller, do Fed, se mostra aberto a um aumento nos juros e faz críticas a políticas defendidas por Warsh | Finanças - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/07 15:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Christopher Waller, diretor do Fed, sobre a abertura a um aumento nos juros reforça a possibilidade de uma política monetária mais restritiva nos EUA. Se os indicadores econômicos continuarem a apontar para pressões inflacionárias, o Fed pode de fato optar por elevar os juros, o que teria implicações para mercados globais; caso contrário, uma desaceleração da inflação poderia levar a uma postura mais branda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783985477.2005117,
-    "titulo": "Consumidores do Reino Unido gastam com calor e futebol, mesmo com riscos crescendo",
-    "titulo_original": "UK consumers spend on heat and football even as risks build",
-    "fonte": "ForexLive",
-    "publicado": "13/07 20:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O consumo no Reino Unido mostra resiliência, mas a desaceleração sugere uma tendência subjacente mais fraca, com os custos de energia sendo um ponto de atenção para o novo governo. Se os preços dos alimentos continuarem a subir devido ao conflito, isso pode pressionar ainda mais os orçamentos das famílias; uma intervenção eficaz nos custos de energia industrial poderia aliviar parte dessa pressão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783985481.6552541,
-    "titulo": "Confiança empresarial da Nova Zelândia se recupera, mas pressões de custo crescentes obscurecem o caminho do RBNZ",
-    "titulo_original": "NZ QSBO business confidence rebounds but rising cost pressures cloud RBNZ path",
-    "fonte": "ForexLive",
-    "publicado": "13/07 19:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A recuperação da confiança empresarial na Nova Zelândia é ofuscada pelo aumento das pressões de custo, o que pode levar o RBNZ a manter uma postura mais cautelosa em relação à flexibilização monetária. Se as pressões inflacionárias persistirem, o banco central pode adiar cortes de juros; uma melhora significativa na utilização da capacidade produtiva poderia fortalecer o argumento para uma política monetária mais branda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1783985487.3589764,
-    "titulo": "Bolsas caem em NY pressionadas por ações de tecnologia e falas de Waller, do Fed",
-    "titulo_original": "Bolsas caem em NY pressionadas por ações de tecnologia e falas de Waller, do Fed",
-    "fonte": "Valor Economico",
-    "publicado": "13/07 17:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "As falas de Christopher Waller, diretor do Fed, indicando abertura a um aumento nos juros, podem reforçar a expectativa de uma política monetária mais restritiva nos EUA. Se os próximos dados de inflação vierem acima do esperado, o Fed pode intensificar o tom hawkish, pressionando ainda mais as bolsas globais; caso contrário, um arrefecimento da inflação poderia abrir espaço para uma postura mais moderada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783985487.3600056,
-    "titulo": "Ibovespa hoje fecha em queda, seguindo exterior; dólar sobe para R$ 5,13",
-    "titulo_original": "Ibovespa hoje fecha em queda, seguindo exterior; dólar sobe para R$ 5,13 - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "13/07 18:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa, influenciada pelo exterior, e a alta do dólar refletem um cenário de aversão ao risco global. Se as tensões internacionais se intensificarem, o dólar pode continuar sua trajetória de alta e o Ibovespa sofrer novas quedas; uma melhora no sentimento global poderia reverter essa tendência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783985487.3611019,
-    "titulo": "Por que o Ibovespa perde mais de 2 mil pontos nesta segunda-feira (13)",
-    "titulo_original": "Por que o Ibovespa perde mais de 2 mil pontos nesta segunda-feira (13) - Money Times",
-    "fonte": "Google News Acoes",
-    "publicado": "13/07 14:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A expressiva queda do Ibovespa, ligada ao desempenho externo, indica uma forte aversão ao risco nos mercados. Se os fatores externos que pressionam as bolsas globais persistirem, o Ibovespa pode continuar em trajetória de queda; uma melhora no cenário internacional poderia impulsionar uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1783985487.362103,
-    "titulo": "Petrobras e mais petroleiras sobem mais de 3% na B3 seguindo disparada do petróleo",
-    "titulo_original": "Petrobras e mais petroleiras sobem mais de 3% na B3 seguindo disparada do petróleo - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "13/07 17:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta das petroleiras na B3, em linha com a valorização do petróleo, demonstra a influência direta dos preços das commodities no setor. Se os preços do petróleo continuarem em ascensão devido a fatores geopolíticos, as ações dessas empresas podem se beneficiar ainda mais; uma estabilização ou queda nos preços do petróleo poderia moderar essa performance.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784028687.2362514,
     "titulo": "Dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora",
     "titulo_original": "Dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora - Estadão",
@@ -786,5 +524,93 @@
     "origem": "externa",
     "leitura_critica": "O novo plano de consumo da China visa reequilibrar a economia em direção ao consumo, com ênfase em serviços. Se as reformas de renda e segurança social forem implementadas com sucesso, isso pode impulsionar o consumo interno e ter repercussões globais na demanda por bens e serviços.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1784115201.3649058,
+    "titulo": "Prato feito fica 7,2% mais caro desde o início de 2026 no Brasil; veja preços por região",
+    "titulo_original": "Prato feito fica 7,2% mais caro desde o início de 2026 no Brasil; veja preços por região",
+    "fonte": "Folha Mercado",
+    "publicado": "15/07 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta contínua no preço do prato feito indica que a inflação de alimentos ainda é um desafio no Brasil, o que pode pressionar o Banco Central a manter uma política monetária mais restritiva. Se os próximos dados de inflação mostrarem uma desaceleração consistente, o Copom poderá ter mais espaço para iniciar cortes na taxa Selic.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784115205.3329017,
+    "titulo": "Juros atraem indústria aos fundos constitucionais, afirma CNI",
+    "titulo_original": "Juros atraem indústria aos fundos constitucionais, afirma CNI",
+    "fonte": "Valor Economico",
+    "publicado": "15/07 08:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pesquisa da CNI indica que as taxas de juros elevadas, apesar de serem um obstáculo geral ao crédito, foram um atrativo para a indústria acessar os Fundos Constitucionais. Se as taxas de juros permanecerem altas, a busca por linhas de financiamento específicas pode continuar; caso haja uma queda significativa na Selic, a atratividade desses fundos pode diminuir em comparação com outras fontes de crédito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784115209.2290862,
+    "titulo": "Manhã no mercado: Petróleo, Fed e pesquisas concentram as atenções dos investidores - Valor Econômico",
+    "titulo_original": "Manhã no mercado: Petróleo, Fed e pesquisas concentram as atenções dos investidores - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/07 08:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A atenção voltada para o Fed e o preço do petróleo indica a influência direta de fatores de juros e inflação no mercado. Se o Fed sinalizar uma postura mais dura em relação aos juros, isso pode impactar o fluxo de capital e o câmbio; por outro lado, uma alta significativa no preço do petróleo pode gerar pressões inflacionárias globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784115213.147742,
+    "titulo": "UBS vê quedas do dólar como oportunidade de compra diante de riscos do Fed e do petróleo - Investing.com Brasil",
+    "titulo_original": "UBS vê quedas do dólar como oportunidade de compra diante de riscos do Fed e do petróleo - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/07 05:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A visão do UBS sobre o dólar sugere que as expectativas em relação às decisões de juros do Fed e a volatilidade do preço do petróleo são fatores chave para o câmbio. Se o Fed sinalizar um aperto monetário mais prolongado, isso pode sustentar um dólar mais forte; por outro lado, uma queda nos preços do petróleo pode reduzir a pressão inflacionária e abrir espaço para o Fed flexibilizar sua política, impactando o fluxo de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784115218.0489333,
+    "titulo": "Tarifaço EUA, cashback IR, Fort Atacadista em Porto Alegre, dólar, Ibovespa e mais economia 15.07 - GZH",
+    "titulo_original": "Tarifaço EUA, cashback IR, Fort Atacadista em Porto Alegre, dólar, Ibovespa e mais economia 15.07 - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/07 07:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de tarifas dos EUA e discussões sobre cashback de IR sugere um cenário de políticas fiscais e regulatórias em movimento, com potencial impacto no fluxo de capital. Se as tarifas americanas forem implementadas de forma ampla, podem afetar o comércio internacional e o fluxo de capital para mercados emergentes; o cashback de IR, por sua vez, pode ter um impacto direto na renda disponível e no consumo doméstico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784115218.0500796,
+    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "15/07 07:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento dos movimentos do Ibovespa, dólar e juros é fundamental para entender a dinâmica do mercado financeiro. Se houver uma alta expressiva nos juros, isso pode atrair capital estrangeiro para renda fixa, impactando o câmbio e a bolsa; por outro lado, uma perspectiva de queda de juros pode impulsionar a bolsa e o fluxo de capital para renda variável.",
+    "is_stocks": true
   }
 ]
