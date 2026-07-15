@@ -612,5 +612,101 @@
     "origem": "domestica",
     "leitura_critica": "O acompanhamento dos movimentos do Ibovespa, dólar e juros é fundamental para entender a dinâmica do mercado financeiro. Se houver uma alta expressiva nos juros, isso pode atrair capital estrangeiro para renda fixa, impactando o câmbio e a bolsa; por outro lado, uma perspectiva de queda de juros pode impulsionar a bolsa e o fluxo de capital para renda variável.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784128636.8450513,
+    "titulo": "Análise: Aposta do governo em judicialização de pauta do Congresso é estratégia para Lula IV",
+    "titulo_original": "Análise: Aposta do governo em judicialização de pauta do Congresso é estratégia para Lula IV",
+    "fonte": "Valor Economico",
+    "publicado": "15/07 11:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise sugere que o governo aposta na judicialização para avançar sua agenda fiscal, o que pode gerar incertezas sobre a previsibilidade das políticas públicas. Se o STF continuar a validar as ações do governo, isso pode reforçar a estratégia fiscal; caso contrário, decisões desfavoráveis podem forçar uma reavaliação das abordagens políticas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784128641.4749303,
+    "titulo": "Canadá espera concluir acordo com Mercosul ainda neste ano",
+    "titulo_original": "Canadá espera concluir acordo com Mercosul ainda neste ano",
+    "fonte": "Folha Mercado",
+    "publicado": "15/07 09:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa do Canadá em concluir um acordo comercial com o Mercosul neste ano sinaliza uma busca por diversificação de parcerias econômicas. Se o acordo for firmado, pode impulsionar o comércio bilateral e criar novas oportunidades de investimento; caso contrário, a ausência de um acordo pode manter o status quo nas relações comerciais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784128646.2010403,
+    "titulo": "Bitcoin sobe para US$ 65 mil com queda da inflação no atacado; tensões no Irã limitam ganhos",
+    "titulo_original": "Bitcoin climbs to $65k as PPI wholesale inflation falls; Iran tensions limit gains",
+    "fonte": "Investing.com",
+    "publicado": "15/07 11:16",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda na inflação ao produtor nos EUA pode ser interpretada como um sinal de alívio para o poder de compra, o que, em teoria, poderia impulsionar ativos de risco. No entanto, a persistência de tensões geopolíticas no Oriente Médio adiciona uma camada de incerteza que pode limitar o apetite por risco no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784128651.0360708,
+    "titulo": "Manufatura do Empire dos EUA para julho 15,6 vs 5,70 no mês passado. A estimativa foi de 8,80.",
+    "titulo_original": "US Empire Manufacturing for July 15.6 vs 5.70 last month. The estimate was 8.80.",
+    "fonte": "ForexLive",
+    "publicado": "15/07 09:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte desempenho do índice Empire Manufacturing sugere uma aceleração significativa na atividade industrial dos EUA, o que pode reforçar a narrativa de uma economia resiliente. Se essa tendência se mantiver nos próximos meses, pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros; caso contrário, uma desaceleração subsequente poderia sinalizar riscos de recessão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784128680.461264,
+    "titulo": "Dow Jones hoje: inflação abaixo da projeção impulsiona bolsas e pressiona dólar que cai ante real - Estadão",
+    "titulo_original": "Dow Jones hoje: inflação abaixo da projeção impulsiona bolsas e pressiona dólar que cai ante real - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/07 10:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A inflação nos EUA vindo abaixo do esperado é um fator positivo para os mercados de risco, sugerindo que as pressões inflacionárias podem estar arrefecendo. Se essa tendência se confirmar, pode abrir espaço para o Federal Reserve considerar cortes de juros mais cedo; caso contrário, uma reversão desse quadro pode manter a pressão sobre os ativos de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784128680.462237,
+    "titulo": "Correios negociam novo socorro de R$ 7 bilhões com bancos estrangeiros, diz jornal",
+    "titulo_original": "Correios negociam novo socorro de R$ 7 bilhões com bancos estrangeiros, diz jornal",
+    "fonte": "Money Times",
+    "publicado": "15/07 11:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A negociação de um empréstimo de R$ 7 bilhões pelos Correios com bancos estrangeiros indica a necessidade de capital para a empresa e a confiança desses bancos no mercado brasileiro. Se a operação for concluída, pode sinalizar um fluxo de capital estrangeiro para o setor estatal; caso contrário, a dificuldade em obter o financiamento pode levantar questões sobre a saúde financeira da empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784128680.4631155,
+    "titulo": "Pagar o IR na compra e venda de ações exige atenção. Mas Receita e B3 automatizaram o processo",
+    "titulo_original": "Pagar o IR na compra e venda de ações exige atenção. Mas Receita e B3 automatizaram o processo",
+    "fonte": "InvestNews",
+    "publicado": "15/07 11:03",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A automação do processo de apuração e pagamento do IR sobre operações de bolsa pela Receita e B3 visa simplificar o cumprimento das obrigações fiscais. Se a ferramenta for eficaz, pode reduzir a incidência de erros e atrasos no recolhimento; caso contrário, pode gerar novas complexidades para os investidores.",
+    "is_stocks": true
   }
 ]
