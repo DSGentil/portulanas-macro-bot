@@ -1,81 +1,5 @@
 [
   {
-    "_timestamp": 1784042485.5390453,
-    "titulo": "Bolsa caiu 1,2% e dólar subiu para R$ 5,13 nesta segunda",
-    "titulo_original": "Bolsa caiu 1,2% e dólar subiu para R$ 5,13 nesta segunda - Monitor Mercantil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/07 10:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda da bolsa e a valorização do dólar podem refletir um cenário de aversão ao risco no mercado doméstico. Se a pressão sobre o câmbio persistir, pode haver impactos na inflação e nas decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784042490.3253257,
-    "titulo": "Jalles (JALL3) sobe na Bolsa com ajuda do governo; entenda",
-    "titulo_original": "Jalles (JALL3) sobe na Bolsa com ajuda do governo; entenda",
-    "fonte": "Money Times",
-    "publicado": "14/07 12:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do CNPE de aumentar a mistura de etanol na gasolina pode beneficiar empresas do setor sucroalcooleiro como a Jalles. Se essa política for mantida ou expandida, pode haver um impacto positivo contínuo nos resultados dessas companhias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784042495.1713526,
-    "titulo": "Com Desenrola, endividamento e inadimplência estabilizam em junho, diz CNC",
-    "titulo_original": "Com Desenrola, endividamento e inadimplência estabilizam em junho, diz CNC",
-    "fonte": "Valor Economico",
-    "publicado": "14/07 11:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A estabilização do endividamento e da inadimplência pode indicar uma melhora gradual na saúde financeira das famílias, possivelmente influenciada por programas de renegociação de dívidas. Se essa tendência se mantiver, pode haver um impacto positivo no consumo e na atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784042499.9585946,
-    "titulo": "Bitcoin sobe para US$ 63,8 mil com dados de CPI mais frios, mas ganhos limitados em meio a temores sobre Irã e taxas",
-    "titulo_original": "Bitcoin climbs to $63.8k on cool CPI data, but gains limited amid Iran, rate fears",
-    "fonte": "Investing.com",
-    "publicado": "14/07 11:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda na inflação ao consumidor nos EUA pode aliviar a pressão sobre o Federal Reserve para manter uma política monetária restritiva. Se os temores geopolíticos se intensificarem, o apetite por ativos de risco como o Bitcoin pode diminuir, mesmo com dados de inflação favoráveis.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784042533.9869316,
-    "titulo": "Advent levanta R$ 230 milhões no mercado para seguir avanço na Natura",
-    "titulo_original": "Advent levanta R$ 230 milhões no mercado para seguir avanço na Natura",
-    "fonte": "InvestNews",
-    "publicado": "14/07 12:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A captação de recursos pela Advent para investir na Natura indica um movimento de consolidação ou reestruturação no setor de cosméticos. A operação pode influenciar a governança corporativa e a estratégia futura da Natura.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784042533.9881866,
-    "titulo": "Smartfit e Aliansce Sonae entram para grupo das 12 maiores pagadoras de proventos por ação",
-    "titulo_original": "Smartfit e Aliansce Sonae entram para grupo das 12 maiores pagadoras de proventos por ação",
-    "fonte": "Valor Economico",
-    "publicado": "14/07 11:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento na distribuição de proventos por algumas empresas pode indicar solidez financeira e confiança no desempenho futuro. A performance da Vale, em particular, reflete a recuperação do setor de materiais básicos e uma política de retorno ao acionista.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784047555.9426186,
     "titulo": "Petróleo WTI salta e supera US$ 80 o barril com escalada de tensões entre EUA e Irã",
     "titulo_original": "Petróleo WTI salta e supera US$ 80 o barril com escalada de tensões entre EUA e Irã - InfoMoney",
@@ -955,6 +879,83 @@
     ],
     "origem": "domestica",
     "leitura_critica": "O FGC ainda possui um montante significativo a pagar em garantias do Banco Master, indicando a extensão dos problemas financeiros que levaram à liquidação. Se o FGC conseguir honrar todos os pagamentos restantes sem comprometer sua própria solvência, isso reforçará a confiança no sistema de garantias; caso contrário, pode gerar preocupações sobre a capacidade de cobertura em futuras crises.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784152937.4088824,
+    "titulo": "Ministros do STF afirmam que judicialização das pautas-bomba deve favorecer governo",
+    "titulo_original": "Ministros do STF afirmam que judicialização das pautas-bomba deve favorecer governo",
+    "fonte": "Valor Economico",
+    "publicado": "15/07 18:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Se o STF confirmar essa tendência em casos concretos, o Executivo terá uma ferramenta mais forte para conter o avanço de despesas não planejadas. Caso a judicialização não se mostre eficaz, o Congresso pode ter mais liberdade para aprovar medidas com impacto fiscal elevado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784152942.2123318,
+    "titulo": "Dólar hoje segue estável com pesquisa eleitoral e tarifas comerciais no radar",
+    "titulo_original": "Dólar hoje segue estável com pesquisa eleitoral e tarifas comerciais no radar - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/07 14:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar, influenciada por fatores domésticos como pesquisas eleitorais e a ameaça de tarifas comerciais, sugere um período de cautela no mercado. Se as pesquisas eleitorais indicarem um cenário mais incerto, ou se as tarifas comerciais forem de fato implementadas, o dólar pode apresentar volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784152946.9387102,
+    "titulo": "Exportações de petróleo do Brasil para a China batem recorde no primeiro semestre",
+    "titulo_original": "Exportações de petróleo do Brasil para a China batem recorde no primeiro semestre - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "15/07 17:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O recorde nas exportações de petróleo do Brasil para a China indica uma forte demanda chinesa por commodities energéticas brasileiras. Se essa demanda se mantiver, pode haver um impacto positivo na balança comercial brasileira e nos preços do petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784152951.6941154,
+    "titulo": "Mercado precifica um novo corte na Selic em setembro após dados de inflação nos EUA",
+    "titulo_original": "Mercado precifica um novo corte na Selic em setembro após dados de inflação nos EUA",
+    "fonte": "Money Times",
+    "publicado": "15/07 18:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A leitura de inflação nos EUA abaixo do esperado sugere um alívio nas pressões de preço, o que pode dar mais espaço para o Banco Central do Brasil considerar um novo corte na Selic. Se os próximos dados de inflação doméstica também vierem favoráveis, a expectativa de corte em setembro se fortalece.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784152977.4094343,
+    "titulo": "Ibovespa fecha em queda com cenário eleitoral do Brasil no radar",
+    "titulo_original": "Ibovespa fecha em queda com cenário eleitoral do Brasil no radar",
+    "fonte": "Valor Economico",
+    "publicado": "15/07 17:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, mesmo com dados de inflação americanos favoráveis, demonstra a forte influência do cenário eleitoral doméstico sobre o mercado. Se a incerteza eleitoral persistir, o índice pode continuar sob pressão, especialmente em um ambiente de baixa liquidez.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784152977.411035,
+    "titulo": "Ibovespa recua com Itaú (ITUB4) e expectativa de tarifaço dos EUA; dólar sobe a R$ 5,07",
+    "titulo_original": "Ibovespa recua com Itaú (ITUB4) e expectativa de tarifaço dos EUA; dólar sobe a R$ 5,07",
+    "fonte": "Money Times",
+    "publicado": "15/07 17:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa e a alta do dólar refletem a aversão ao risco gerada pela expectativa de novas tarifas comerciais dos EUA e fatores domésticos. Se as tarifas forem implementadas, isso pode impactar negativamente o comércio internacional e as empresas brasileiras expostas ao mercado externo.",
     "is_stocks": true
   }
 ]
