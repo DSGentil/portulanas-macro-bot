@@ -1,95 +1,5 @@
 [
   {
-    "_timestamp": 1784028687.2362514,
-    "titulo": "Dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora",
-    "titulo_original": "Dólar se impõe como principal risco no 2º semestre, diz economista-chefe da Ágora - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/07 07:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A percepção do dólar como principal risco no segundo semestre sugere que a volatilidade cambial pode ser um fator determinante para a economia brasileira. Se o dólar continuar sua trajetória de valorização, pode pressionar a inflação e os custos de importação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784028692.0600374,
-    "titulo": "Minidólar (WDOQ26): tensão no Oriente Médio mantém dólar e petróleo no radar",
-    "titulo_original": "Minidólar (WDOQ26): tensão no Oriente Médio mantém dólar e petróleo no radar - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/07 07:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A tensão geopolítica no Oriente Médio tende a sustentar a demanda por dólar como ativo de refúgio, o que pode impactar o comportamento do minidólar. Se a escalada militar se intensificar, o dólar pode continuar sua trajetória de valorização frente ao real.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784028696.8647075,
-    "titulo": "Petróleo avança quase 10% com aumento das tensões entre EUA e Irã",
-    "titulo_original": "Petróleo avança quase 10% com aumento das tensões entre EUA e Irã - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "14/07 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O forte avanço do petróleo reflete o impacto direto das tensões geopolíticas no Oriente Médio sobre o mercado de energia. Se o conflito se agravar, os preços do petróleo podem continuar subindo, impactando os custos de produção e transporte globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784028701.6275878,
-    "titulo": "Petróleo sobe mais de 4% após nova onda de ataques no Oriente Médio",
-    "titulo_original": "Petróleo sobe mais de 4% após nova onda de ataques no Oriente Médio - UOL Economia",
-    "fonte": "Google News Commodities",
-    "publicado": "14/07 07:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A nova onda de ataques no Oriente Médio impulsiona o preço do petróleo, indicando uma persistência do risco geopolítico na região. Se os ataques continuarem ou escalarem, o petróleo pode manter sua trajetória de alta, afetando a inflação e os custos de energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784028708.715599,
-    "titulo": "Ibovespa hoje: inflação dos EUA e escalada no Oriente Médio ditam ritmo do mercado",
-    "titulo_original": "Ibovespa hoje: inflação dos EUA e escalada no Oriente Médio ditam ritmo do mercado - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "14/07 04:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A influência da inflação dos EUA e da escalada no Oriente Médio sobre o Ibovespa demonstra a forte conexão do mercado brasileiro com fatores externos. Se a inflação nos EUA vier alta, pode levar a juros mais altos, impactando negativamente o mercado acionário local; tensões no Oriente Médio podem afetar o preço do petróleo e a confiança dos investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784028708.716727,
-    "titulo": "Bank of America tem lucro líquido de US$ 9,1 bilhões no 2º trimestre",
-    "titulo_original": "Bank of America tem lucro líquido de US$ 9,1 bilhões no 2º trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "14/07 08:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O lucro robusto do Bank of America no segundo trimestre pode ser interpretado como um sinal de resiliência do setor bancário americano, possivelmente beneficiado por um ambiente de juros mais altos. Se o Federal Reserve mantiver uma postura mais restritiva, bancos como o BofA podem continuar a apresentar bons resultados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784028708.7186024,
-    "titulo": "Veja o calendário dos balanços do 2º trimestre das empresas do Ibovespa",
-    "titulo_original": "Veja o calendário dos balanços do 2º trimestre das empresas do Ibovespa - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "14/07 06:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O calendário de balanços do segundo trimestre é importante para acompanhar o desempenho financeiro das empresas brasileiras. Se os resultados vierem majoritariamente positivos, pode haver um impacto favorável no Ibovespa; resultados fracos podem gerar pressão vendedora.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784042485.5390453,
     "titulo": "Bolsa caiu 1,2% e dólar subiu para R$ 5,13 nesta segunda",
     "titulo_original": "Bolsa caiu 1,2% e dólar subiu para R$ 5,13 nesta segunda - Monitor Mercantil",
@@ -829,6 +739,99 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "Esta notícia é um acompanhamento de cotação e não fornece informações que permitam uma análise de relevância ou de canais afetados sem contexto adicional.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784140265.4021423,
+    "titulo": "Renan Santos diz que pautas-bomba aprovadas no Senado ‘vão destruir o orçamento’",
+    "titulo_original": "Renan Santos diz que pautas-bomba aprovadas no Senado ‘vão destruir o orçamento’",
+    "fonte": "Valor Economico",
+    "publicado": "15/07 15:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação dessas pautas pelo Senado, se confirmada em sanção, pode gerar um impacto fiscal negativo significativo. Caso o próximo governo enfrente dificuldades orçamentárias decorrentes dessas decisões, isso poderá levar a um aperto fiscal mais severo ou a necessidade de reverter algumas dessas medidas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784140269.0871744,
+    "titulo": "Ministério Fazenda eleva projeção de alta do IPCA de 4,5% para 5,1% em 2026",
+    "titulo_original": "Ministério Fazenda eleva projeção de alta do IPCA de 4,5% para 5,1% em 2026",
+    "fonte": "Valor Economico",
+    "publicado": "15/07 14:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da projeção de inflação para 2026 indica um cenário de preços mais pressionados do que o esperado anteriormente. Se essa tendência se confirmar, o Banco Central poderá ter que manter uma política monetária restritiva por mais tempo, impactando o custo do crédito e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784140272.7575164,
+    "titulo": "Governo editará MP para dívidas do agro com juros menores para quem perdeu três safras",
+    "titulo_original": "Governo editará MP para dívidas do agro com juros menores para quem perdeu três safras",
+    "fonte": "Folha Mercado",
+    "publicado": "15/07 14:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A medida provisória visa aliviar o endividamento no setor do agronegócio, o que pode ter implicações fiscais e de crédito. Se a MP for aprovada, ela poderá reduzir a inadimplência no setor, mas também representa um custo para o governo ou para o sistema financeiro, dependendo da estrutura da renegociação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784140276.4681456,
+    "titulo": "Governo passa a ver inflação acima da meta no fim de 2026",
+    "titulo_original": "Governo passa a ver inflação acima da meta no fim de 2026",
+    "fonte": "Money Times",
+    "publicado": "15/07 14:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão da projeção de inflação para cima, indicando que ela superará o teto da meta em 2026, reforça a preocupação com a trajetória de preços. Se o cenário inflacionário se mantiver elevado, o Banco Central poderá ser pressionado a manter juros altos por mais tempo, afetando o crescimento econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784140406.3074622,
+    "titulo": "BofA eleva recomendação de B3 para compra e eleva preço-alvo a R$ 22; ações disparam",
+    "titulo_original": "BofA eleva recomendação de B3 para compra e eleva preço-alvo a R$ 22; ações disparam - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "15/07 15:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A elevação da recomendação por um banco de investimento pode sinalizar uma perspectiva positiva para a B3 no curto prazo. Se a tendência de alta se mantiver, isso pode atrair mais investidores para a bolsa brasileira, embora o movimento isolado de uma ação não determine o cenário macro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784140406.3088896,
+    "titulo": "ISA Energia lança oferta de 22,2 milhões de ações; precificação será no dia 23",
+    "titulo_original": "ISA Energia lança oferta de 22,2 milhões de ações; precificação será no dia 23",
+    "fonte": "Folha Mercado",
+    "publicado": "15/07 14:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A oferta de ações de uma empresa pode indicar movimento no mercado de capitais. Se a oferta for bem-sucedida e atrair demanda significativa, isso pode ser um sinal de apetite por risco no setor de energia, mas o impacto macroeconômico direto é limitado a menos que a notícia conecte com outros canais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784140406.310225,
+    "titulo": "Petróleo chega a subir mais de 2% nesta quarta com escalada da guerra no Irã",
+    "titulo_original": "Petróleo chega a subir mais de 2% nesta quarta com escalada da guerra no Irã",
+    "fonte": "Folha Mercado",
+    "publicado": "15/07 09:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta no preço do petróleo, motivada por tensões geopolíticas, pode impactar a inflação global e brasileira através dos custos de energia e transporte. Se a escalada no Oriente Médio se intensificar, isso pode levar a novas pressões inflacionárias e afetar a atividade econômica.",
     "is_stocks": true
   }
 ]
