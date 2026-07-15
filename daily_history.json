@@ -1,132 +1,5 @@
 [
   {
-    "_timestamp": 1784047555.9426186,
-    "titulo": "Petróleo WTI salta e supera US$ 80 o barril com escalada de tensões entre EUA e Irã",
-    "titulo_original": "Petróleo WTI salta e supera US$ 80 o barril com escalada de tensões entre EUA e Irã - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "14/07 07:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento do preço do petróleo pode pressionar a inflação global, especialmente em países importadores de energia. Se as tensões no Oriente Médio se intensificarem, isso pode levar a novas altas no preço do petróleo e impactar a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784047559.9177516,
-    "titulo": "Trégua é rompida e conflito entre Estados Unidos e Irã entra em nova fase",
-    "titulo_original": "Trégua é rompida e conflito entre Estados Unidos e Irã entra em nova fase - Senado Federal",
-    "fonte": "Google News Geopolitica",
-    "publicado": "14/07 08:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada do conflito entre EUA e Irã pode gerar instabilidade geopolítica na região do Oriente Médio, com potenciais impactos nos preços do petróleo e nas cadeias de suprimento globais. A evolução dessa situação será crucial para o cenário de risco global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784047564.0124078,
-    "titulo": "Hassett diz que núcleo da inflação dos EUA está em linha com o Fed",
-    "titulo_original": "Hassett diz que núcleo da inflação dos EUA está em linha com o Fed - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/07 12:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Hassett sugere que a inflação subjacente nos EUA está sob controle, o que pode reforçar a expectativa de que o Federal Reserve mantenha sua política monetária atual ou adote um tom mais cauteloso em relação a futuros aumentos de juros. Se o núcleo da inflação se mantiver estável, isso pode favorecer um cenário de juros mais baixos por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784047567.9786427,
-    "titulo": "Muito além do petróleo: guerra no Oriente Médio ameaça cadeias globais de suprimento",
-    "titulo_original": "Muito além do petróleo: guerra no Oriente Médio ameaça cadeias globais de suprimento - Bloomberg Línea Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "14/07 09:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A instabilidade no Oriente Médio pode gerar disrupções significativas nas cadeias de suprimento globais, afetando a produção e o comércio de diversos bens. Se a situação se agravar, isso pode levar a pressões inflacionárias e desaceleração econômica em escala mundial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784047573.2996793,
-    "titulo": "Dólar opera em queda e vai a R$ 5,06, após inflação dos EUA e de olho no petróleo; Ibovespa sobe",
-    "titulo_original": "Dólar opera em queda e vai a R$ 5,06, após inflação dos EUA e de olho no petróleo; Ibovespa sobe - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/07 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do dólar e a alta do Ibovespa sugerem um cenário de maior apetite a risco, possivelmente impulsionado pela inflação dos EUA vindo abaixo do esperado. Se a inflação continuar em trajetória de queda, isso pode abrir espaço para o Banco Central americano reduzir os juros, o que tende a fortalecer moedas emergentes como o real.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784047573.3009186,
-    "titulo": "Bolsas da Europa terminam sessão em leve alta após dados de inflação dos EUA",
-    "titulo_original": "Bolsas da Europa terminam sessão em leve alta após dados de inflação dos EUA",
-    "fonte": "Valor Economico",
-    "publicado": "14/07 13:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A reação positiva das bolsas europeias aos dados de inflação dos EUA sugere que o mercado interpretou o resultado como um sinal de que o Federal Reserve pode não precisar ser tão agressivo no aperto monetário. Se a inflação continuar moderada, isso pode sustentar um cenário de juros mais baixos por mais tempo, beneficiando ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784047573.302535,
-    "titulo": "Estrangeiros aportam R$ 1,5 bi na B3 em dia em que Ibovespa disparou quase 3%",
-    "titulo_original": "Estrangeiros aportam R$ 1,5 bi na B3 em dia em que Ibovespa disparou quase 3% - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "14/07 10:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada de capital estrangeiro na B3, combinada com a forte alta do Ibovespa, indica um aumento do apetite por risco no mercado brasileiro. Se essa tendência de fluxo de capital se mantiver, pode sustentar a valorização dos ativos locais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784047573.3037858,
-    "titulo": "Dólar cai mais de 1% e Ibovespa avança após inflação dos EUA vir abaixo do esperado",
-    "titulo_original": "Dólar cai mais de 1% e Ibovespa avança após inflação dos EUA vir abaixo do esperado - Bloomberg Línea Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/07 11:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A inflação dos EUA abaixo do esperado reforça a expectativa de que o Federal Reserve possa manter os juros estáveis ou até mesmo iniciar um ciclo de cortes. Essa perspectiva tende a favorecer a desvalorização do dólar e a valorização de ativos de risco como a bolsa brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784047573.3050222,
-    "titulo": "Inflação nos EUA tem redução de 0,4% em junho, mas pode voltar a subir",
-    "titulo_original": "Inflação nos EUA tem redução de 0,4% em junho, mas pode voltar a subir",
-    "fonte": "Folha Mercado",
-    "publicado": "14/07 10:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda na inflação dos EUA é um sinal positivo, mas a ressalva de que ela pode voltar a subir indica que o Federal Reserve manterá cautela. Se os dados futuros mostrarem uma aceleração inflacionária, isso pode levar a uma postura mais dura do Fed, impactando as expectativas de juros.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784061074.029638,
     "titulo": "Aneel abre consulta pública para discutir mudanças na remuneração das distribuidoras",
     "titulo_original": "Aneel abre consulta pública para discutir mudanças na remuneração das distribuidoras",
@@ -957,5 +830,34 @@
     "origem": "ambas",
     "leitura_critica": "A queda do Ibovespa e a alta do dólar refletem a aversão ao risco gerada pela expectativa de novas tarifas comerciais dos EUA e fatores domésticos. Se as tarifas forem implementadas, isso pode impactar negativamente o comércio internacional e as empresas brasileiras expostas ao mercado externo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784158263.7797563,
+    "titulo": "Produção é recorde, mas queda de preço reduz receita no agro",
+    "titulo_original": "Produção é recorde, mas queda de preço reduz receita no agro",
+    "fonte": "Folha Mercado",
+    "publicado": "15/07 20:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recorde de produção no agronegócio brasileiro, apesar da queda na receita, indica um cenário de oferta abundante que pressiona os preços. Se essa tendência de queda de preços persistir, pode impactar a inflação de alimentos e o fluxo de capital para o setor; caso contrário, a recuperação dos preços pode impulsionar o Valor Bruto da Produção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784158268.4630072,
+    "titulo": "Juros futuros fecham perto da estabilidade com pesquisa eleitoral e PPI mais fraco",
+    "titulo_original": "Juros futuros fecham perto da estabilidade com pesquisa eleitoral e PPI mais fraco",
+    "fonte": "Valor Economico",
+    "publicado": "15/07 19:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A estabilidade dos juros futuros reflete um equilíbrio entre fatores domésticos (eleições) e externos (inflação nos EUA). Se as pesquisas eleitorais indicarem maior polarização ou incerteza, isso pode pressionar as taxas para cima; caso o PPI americano continue em trajetória de queda, o Fed pode ter mais espaço para manter a política monetária atual, aliviando a pressão sobre os juros domésticos.",
+    "is_stocks": false
   }
 ]
