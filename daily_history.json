@@ -1,127 +1,5 @@
 [
   {
-    "_timestamp": 1784133960.1242416,
-    "titulo": "Durigan diz que ainda não houve confirmação da imposição de tarifas pelos EUA",
-    "titulo_original": "Durigan diz que ainda não houve confirmação da imposição de tarifas pelos EUA",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 13:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Se os EUA confirmarem a imposição das tarifas, o Brasil poderá acionar a lei de reciprocidade, o que pode gerar uma escalada nas tensões comerciais. Caso a confirmação não ocorra ou a lista de exceções seja ampliada significativamente, o cenário de risco para exportações brasileiras pode ser mitigado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784133964.3427365,
-    "titulo": "Dólar abre a R$ 5,08, com balanços, nos EUA, e dados de serviços, no Brasil",
-    "titulo_original": "Dólar abre a R$ 5,08, com balanços, nos EUA, e dados de serviços, no Brasil - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/07 09:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A cotação do dólar reflete tanto o cenário externo (balanços nos EUA) quanto o doméstico (dados de serviços). Se os dados de serviços brasileiros vierem fortes, isso pode dar suporte ao real; se os balanços americanos apresentarem resultados fracos, pode haver pressão sobre o dólar globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784133968.5020828,
-    "titulo": "Shabana Mahmood está prestes a se tornar a próxima Chanceler do Tesouro do Reino Unido",
-    "titulo_original": "Shabana Mahmood is set to become the next UK Chancellor of the Exchequer",
-    "fonte": "ForexLive",
-    "publicado": "15/07 12:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A percepção de que Shabana Mahmood priorizará a contenção fiscal e a estabilidade de políticas pode reduzir o risco de uma mudança para políticas fiscais mais expansionistas. Se sua nomeação for confirmada e suas ações refletirem essa postura, isso tende a ser positivo para os títulos do governo do Reino Unido e para a libra esterlina.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784133972.6046207,
-    "titulo": "Trump transforma autonomia do Brasil em delito comercial, diz jornal britânico sobre tarifas",
-    "titulo_original": "Trump transforma autonomia do Brasil em delito comercial, diz jornal britânico sobre tarifas - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "15/07 09:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A percepção de que as ações de Trump transformam a autonomia brasileira em um problema comercial pode intensificar as tensões diplomáticas e econômicas. Se essa retórica se traduzir em novas tarifas ou barreiras, isso pode impactar negativamente o fluxo de comércio entre os países.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784133981.9056385,
-    "titulo": "Ibovespa cai e dólar ronda estabilidade com inflação fraca nos EUA e eleição no Brasil no radar",
-    "titulo_original": "Ibovespa cai e dólar ronda estabilidade com inflação fraca nos EUA e eleição no Brasil no radar",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 13:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A inflação fraca nos EUA pode levar o Federal Reserve a manter uma postura mais acomodatícia, o que tenderia a fortalecer moedas emergentes. No entanto, a incerteza eleitoral no Brasil pode conter essa tendência, gerando volatilidade no câmbio e na bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784133981.9066966,
-    "titulo": "Curva de juros ainda não precificou todos os riscos, diz Morgan Stanley; banco aposta em DI longo",
-    "titulo_original": "Curva de juros ainda não precificou todos os riscos, diz Morgan Stanley; banco aposta em DI longo",
-    "fonte": "Money Times",
-    "publicado": "15/07 12:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A avaliação do Morgan Stanley sugere que os juros de longo prazo no Brasil podem subir mais para acomodar os riscos mencionados. Se as incertezas eleitorais se resolverem de forma favorável e a inflação ceder, a curva de juros pode se ajustar; caso contrário, a pressão por prêmio de risco tende a persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784133981.9246938,
-    "titulo": "Gestores adotam tom mais cauteloso com bolsa brasileira de olho em tensão no Oriente Médio, diz BofA",
-    "titulo_original": "Gestores adotam tom mais cauteloso com bolsa brasileira de olho em tensão no Oriente Médio, diz BofA",
-    "fonte": "Money Times",
-    "publicado": "15/07 13:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A cautela dos gestores, influenciada por tensões geopolíticas, sugere um cenário de menor apetite a risco para a bolsa brasileira. Se a tensão no Oriente Médio se intensificar, a tendência de aversão ao risco pode se consolidar; caso a situação se normalize, a percepção sobre o mercado brasileiro pode se tornar mais otimista.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784133981.9256165,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai na contramão do exterior e perde os 176 mil pontos",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai na contramão do exterior e perde os 176 mil pontos - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "15/07 10:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda do Ibovespa, em contraste com o exterior, sugere fatores domésticos específicos pressionando o índice. Se os fatores que levam a bolsa brasileira a cair persistirem, a tendência de baixa pode se acentuar; caso haja uma reversão no sentimento externo, o Ibovespa pode se beneficiar de um fluxo de capital mais positivo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784133981.9689066,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/07 10:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Esta notícia é um acompanhamento de cotação e não fornece informações que permitam uma análise de relevância ou de canais afetados sem contexto adicional.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784140265.4021423,
     "titulo": "Renan Santos diz que pautas-bomba aprovadas no Senado ‘vão destruir o orçamento’",
     "titulo_original": "Renan Santos diz que pautas-bomba aprovadas no Senado ‘vão destruir o orçamento’",
@@ -1058,5 +936,58 @@
     "origem": "externa",
     "leitura_critica": "A queda nas bolsas de Nova York, especialmente no setor de tecnologia, pode indicar uma reavaliação do mercado sobre o crescimento futuro e os custos de investimento. Se a pressão sobre ações de tecnologia persistir, isso pode afetar o fluxo de capital para mercados emergentes, incluindo o Brasil.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784244645.1765316,
+    "titulo": "Empresas de energia estimam que jabutis podem adicionar R$ 60 bilhões por ano à conta de luz",
+    "titulo_original": "Empresas de energia estimam que jabutis podem adicionar R$ 60 bilhões por ano à conta de luz",
+    "fonte": "Folha Mercado",
+    "publicado": "16/07 20:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação de 'jabutis' na Comissão de Infraestrutura do Senado pode resultar em um aumento substancial nos custos da energia elétrica para os consumidores. Se os valores estimados pelas empresas de energia se concretizarem, o impacto financeiro ao longo de 30 anos será de R$ 2 trilhões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784244648.8709817,
+    "titulo": "Nova tarifa representa custo adicional potencial de US$ 133 milhões ao ano, diz setor de produtos químicos",
+    "titulo_original": "Nova tarifa representa custo adicional potencial de US$ 133 milhões ao ano, diz setor de produtos químicos",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 19:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A imposição de tarifas pelos EUA sobre produtos químicos brasileiros pode gerar um impacto financeiro significativo, estimado em US$ 133 milhões anuais. Se as tarifas se concretizarem, o Brasil pode perder participação de mercado para a China, e a indústria americana pode enfrentar aumento de custos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784244652.546106,
+    "titulo": "Setores atingidos por novo tarifaço correspondem a 15% das exportações, afirma ministro",
+    "titulo_original": "Setores atingidos por novo tarifaço correspondem a 15% das exportações, afirma ministro",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 17:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do ministro detalha o escopo do impacto das tarifas americanas nas exportações brasileiras, quantificando o volume afetado. A promessa de apoio governamental aos setores prejudicados sugere uma resposta política à medida comercial externa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784244656.4477987,
+    "titulo": "Décadas de alta se tornam baixistas. Cita déficits estruturais, inflação e empréstimos impulsionados por IA em um histórico pivô baixista.",
+    "titulo_original": "Decades long bull turns bearish. Cites structural deficits, inflation, and AI-driven borrowing in historic bearish pivot.",
+    "fonte": "ForexLive",
+    "publicado": "16/07 19:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A mudança de postura de um player relevante no mercado de renda fixa, de uma visão de longo prazo para uma perspectiva baixista, pode sinalizar um ponto de inflexão nas expectativas de juros e inflação. Se a tese de déficits estruturais e demanda por crédito impulsionada por IA se confirmar, os rendimentos de longo prazo podem permanecer elevados.",
+    "is_stocks": false
   }
 ]
