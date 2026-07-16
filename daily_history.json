@@ -916,5 +916,131 @@
     "origem": "ambas",
     "leitura_critica": "A imposição de novas tarifas pelos EUA sobre produtos brasileiros pode gerar um impacto negativo nas exportações e na atividade econômica de empresas brasileiras, especialmente as de pequeno porte. Se essas tarifas se estenderem ou aumentarem, isso pode pressionar a balança comercial e, consequentemente, o câmbio.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784233860.4562476,
+    "titulo": "Instituto pede que inadimplentes do RenovaBio sejam divulgados e a lista, atualizada",
+    "titulo_original": "Instituto pede que inadimplentes do RenovaBio sejam divulgados e a lista, atualizada",
+    "fonte": "Folha Mercado",
+    "publicado": "16/07 14:13",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O pedido do ICL visa aumentar a transparência e a fiscalização do programa RenovaBio. Se a ANP atender à solicitação, a divulgação dos inadimplentes pode pressionar as empresas a cumprirem suas metas, impactando o setor de biocombustíveis. A atualização da lista é fundamental para garantir a efetividade do programa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784233864.9559443,
+    "titulo": "Governo saberá usar a reciprocidade no momento certo e vai apoiar setores afetados, diz Alckmin",
+    "titulo_original": "Governo saberá usar a reciprocidade no momento certo e vai apoiar setores afetados, diz Alckmin",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 17:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do vice-presidente indica uma postura de retaliação futura, caso as negociações não avancem. Se os EUA mantiverem a tarifa sem concessões, o Brasil poderá acionar a Lei de Reciprocidade, o que geraria um novo capítulo na disputa comercial. A capacidade de o governo brasileiro apoiar efetivamente os setores afetados será crucial para mitigar os impactos econômicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784233869.4912038,
+    "titulo": "Renan Santos critica Lula e família Bolsonaro por postura na negociação do tarifaço",
+    "titulo_original": "Renan Santos critica Lula e família Bolsonaro por postura na negociação do tarifaço",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 16:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A crítica de Renan Santos aponta para divergências na estratégia diplomática brasileira diante das tarifas americanas. Se a percepção de que o governo Lula buscou capitalizar politicamente a crise se fortalecer, isso pode gerar questionamentos sobre a eficácia de sua política externa. A postura da família Bolsonaro, por outro lado, pode ser vista como um obstáculo para negociações mais firmes com os EUA.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784233874.0882204,
+    "titulo": "Trump transforma soberania brasileira em prática comercial desleal, diz jornal The Guardian - Folha de S.Paulo",
+    "titulo_original": "Trump transforma soberania brasileira em prática comercial desleal, diz jornal The Guardian - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "16/07 16:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A crítica do The Guardian à política comercial de Trump sugere que as ações americanas são vistas como uma imposição que desconsidera a autonomia brasileira. Se essa percepção se consolidar, pode haver maior pressão internacional sobre os EUA para reverterem as tarifas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784233880.602292,
+    "titulo": "B3 lança três novos índices para títulos públicos atrelados à inflação",
+    "titulo_original": "B3 lança três novos índices para títulos públicos atrelados à inflação",
+    "fonte": "Folha Mercado",
+    "publicado": "16/07 16:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento de novos índices pela B3 focados em títulos atrelados à inflação reflete a importância desse tipo de ativo no cenário econômico atual. Se a inflação se mantiver volátil, esses índices podem ganhar relevância para investidores que buscam proteção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784233880.603805,
+    "titulo": "CSD BR vê fim do monopólio da B3 após decisão do Cade - Capital Aberto",
+    "titulo_original": "CSD BR vê fim do monopólio da B3 após decisão do Cade - Capital Aberto",
+    "fonte": "Google News Acoes",
+    "publicado": "16/07 15:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Cade que pode quebrar o monopólio da B3 abre espaço para maior concorrência no mercado de infraestrutura de custódia. Se novas empresas entrarem no mercado, isso pode levar a uma redução de custos e aumento da eficiência para os participantes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784233880.6056917,
+    "titulo": "Em meio a juros recordes, B3 lança índices que seguem Tesouro IPCA+ - InfoMoney",
+    "titulo_original": "Em meio a juros recordes, B3 lança índices que seguem Tesouro IPCA+ - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "16/07 15:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento de índices atrelados ao Tesouro IPCA+ pela B3 em um contexto de juros altos e inflação relevante destaca a busca por proteção de capital. Se os juros permanecerem elevados, esses índices podem atrair mais investidores que buscam rentabilidade real.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784233880.6071544,
+    "titulo": "investingLive Americas FX news wrap: US retail sales match estimates but tech slumps",
+    "titulo_original": "investingLive Americas FX news wrap: US retail sales match estimates but tech slumps",
+    "fonte": "ForexLive",
+    "publicado": "16/07 17:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A combinação de dados de varejo em linha com as expectativas e a queda no setor de tecnologia sugere um cenário misto para a economia americana. Se os comentários do Fed sobre inflação persistirem em um tom cauteloso, isso pode manter a pressão sobre as taxas de juros. A desaceleração nas vendas de casas pendentes pode indicar um esfriamento no mercado imobiliário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784233880.60859,
+    "titulo": "Wall Street recua com pressão de tecnologia; Nasdaq cai mais de 1%",
+    "titulo_original": "Wall Street recua com pressão de tecnologia; Nasdaq cai mais de 1%",
+    "fonte": "Money Times",
+    "publicado": "16/07 17:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda em Wall Street, especialmente no setor de tecnologia, sugere uma correção após recentes altas impulsionadas pela IA. Se os temores de uma bolha se confirmarem, pode haver uma rotação de capital para outros setores. A performance da Taiwan Semiconductor é um indicador importante para o setor de tecnologia global.",
+    "is_stocks": true
   }
 ]
