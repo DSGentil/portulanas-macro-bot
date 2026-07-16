@@ -708,5 +708,101 @@
     "origem": "externa",
     "leitura_critica": "A combinação de dados de varejo, declarações do Fed e a queda do petróleo cria um cenário misto para as bolsas de Nova York. Se os dados de varejo vierem fracos e o Fed sinalizar cautela, isso pode pressionar as bolsas; se o petróleo continuar em queda, pode beneficiar alguns setores, mas gerar preocupações sobre a demanda global.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784207780.5864754,
+    "titulo": "Governo Lula 'repudia' tarifaço de Trump, diz que irá acionar Lei de Reciprocidade e critica família Bolsonaro - O GLOBO",
+    "titulo_original": "Governo Lula 'repudia' tarifaço de Trump, diz que irá acionar Lei de Reciprocidade e critica família Bolsonaro - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "16/07 09:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A resposta do governo Lula ao 'tarifaço' de Trump, com a ameaça de reciprocidade, eleva a tensão comercial entre os países. Se a Lei de Reciprocidade for de fato acionada, pode gerar retaliações e impactar o fluxo de comércio; caso contrário, pode ser apenas uma declaração política.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784207784.249653,
+    "titulo": "Com tarifaço no radar, dólar sobe e bolsa cai nesta quinta-feira - Valor Investe",
+    "titulo_original": "Com tarifaço no radar, dólar sobe e bolsa cai nesta quinta-feira - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/07 09:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar e a queda da bolsa brasileira em reação ao 'tarifaço' americano demonstram a sensibilidade do mercado a eventos de política externa. Se as tarifas se mantiverem ou escalarem, o dólar pode continuar em alta e a bolsa em queda; caso contrário, a reversão pode ocorrer com a dissipação do evento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784207787.7545636,
+    "titulo": "Irã supostamente diz aos Houthis para fechar rota de petróleo do Mar Vermelho se os EUA decidirem atacar infraestrutura de energia",
+    "titulo_original": "Iran reportedly tells Houthis to close Red Sea oil route if US decides to strike power infrastructure",
+    "fonte": "ForexLive",
+    "publicado": "16/07 09:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A ameaça de fechar o Mar Vermelho representa um risco significativo para o mercado global de energia, podendo impactar o preço do petróleo e as cadeias de suprimentos. Se a ação for concretizada, o preço do petróleo pode sofrer uma alta expressiva; caso contrário, a tensão pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784207791.2157452,
+    "titulo": "Irã ameaça expandir ofensiva no Golfo após ameaças de Trump e nova rodada de ataques - Folha de S.Paulo",
+    "titulo_original": "Irã ameaça expandir ofensiva no Golfo após ameaças de Trump e nova rodada de ataques - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "16/07 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões entre Irã e EUA no Golfo Pérsico representa um risco elevado para a estabilidade regional e global, com potencial impacto nos preços do petróleo. Se a retórica evoluir para ações concretas, o mercado de energia e os fluxos de capital podem ser severamente afetados; caso contrário, a diplomacia pode prevalecer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784207796.289024,
+    "titulo": "Ibovespa cai com novo tarifaço; 5 coisas para saber antes de investir hoje (16)",
+    "titulo_original": "Ibovespa cai com novo tarifaço; 5 coisas para saber antes de investir hoje (16)",
+    "fonte": "Money Times",
+    "publicado": "16/07 10:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O 'tarifaço' americano está impactando negativamente o mercado brasileiro, refletido na queda do Ibovespa. Se novas tarifas forem impostas ou a tensão geopolítica aumentar, o mercado pode continuar sob pressão; caso contrário, a reversão do cenário pode impulsionar uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784207796.290442,
+    "titulo": "B3 (B3SA3) registra alta de 16,8% no volume negociado em junho - InfoMoney",
+    "titulo_original": "B3 (B3SA3) registra alta de 16,8% no volume negociado em junho - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "16/07 08:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento no volume negociado na B3 em junho sugere um maior interesse dos investidores no mercado brasileiro. Se essa tendência de alta se mantiver, pode indicar um cenário de maior liquidez e potencial valorização dos ativos; caso contrário, uma retração pode sinalizar cautela.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784207796.2917573,
+    "titulo": "Sessão europeia de investimento: Dólar estável, ações caem mais à medida que os mercados permanecem cautelosos",
+    "titulo_original": "investingLive European session wrap: Dollar steady, equities dip lower as markets stay cautious",
+    "fonte": "ForexLive",
+    "publicado": "16/07 08:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A cautela nos mercados europeus, com dólar estável e ações em queda, reflete incertezas globais, possivelmente ligadas à tensão EUA-Irã. Se a crise se intensificar, o petróleo pode continuar subindo e afetar a inflação global; caso contrário, a estabilidade pode retornar aos mercados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784207796.2930872,
+    "titulo": "Dólar fecha estável, a R$ 5,07; Ibovespa cai 0,36% - brasilagro.com.br",
+    "titulo_original": "Dólar fecha estável, a R$ 5,07; Ibovespa cai 0,36% - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/07 04:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar e a leve queda do Ibovespa sugerem um mercado em compasso de espera, possivelmente aguardando novos dados ou eventos. Se o 'tarifaço' ou tensões geopolíticas continuarem a pesar, o dólar pode se fortalecer e a bolsa cair; caso contrário, a reversão pode ocorrer.",
+    "is_stocks": true
   }
 ]
