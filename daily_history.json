@@ -1,93 +1,5 @@
 [
   {
-    "_timestamp": 1784115201.3649058,
-    "titulo": "Prato feito fica 7,2% mais caro desde o início de 2026 no Brasil; veja preços por região",
-    "titulo_original": "Prato feito fica 7,2% mais caro desde o início de 2026 no Brasil; veja preços por região",
-    "fonte": "Folha Mercado",
-    "publicado": "15/07 06:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta contínua no preço do prato feito indica que a inflação de alimentos ainda é um desafio no Brasil, o que pode pressionar o Banco Central a manter uma política monetária mais restritiva. Se os próximos dados de inflação mostrarem uma desaceleração consistente, o Copom poderá ter mais espaço para iniciar cortes na taxa Selic.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784115205.3329017,
-    "titulo": "Juros atraem indústria aos fundos constitucionais, afirma CNI",
-    "titulo_original": "Juros atraem indústria aos fundos constitucionais, afirma CNI",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 08:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A pesquisa da CNI indica que as taxas de juros elevadas, apesar de serem um obstáculo geral ao crédito, foram um atrativo para a indústria acessar os Fundos Constitucionais. Se as taxas de juros permanecerem altas, a busca por linhas de financiamento específicas pode continuar; caso haja uma queda significativa na Selic, a atratividade desses fundos pode diminuir em comparação com outras fontes de crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784115209.2290862,
-    "titulo": "Manhã no mercado: Petróleo, Fed e pesquisas concentram as atenções dos investidores - Valor Econômico",
-    "titulo_original": "Manhã no mercado: Petróleo, Fed e pesquisas concentram as atenções dos investidores - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/07 08:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A atenção voltada para o Fed e o preço do petróleo indica a influência direta de fatores de juros e inflação no mercado. Se o Fed sinalizar uma postura mais dura em relação aos juros, isso pode impactar o fluxo de capital e o câmbio; por outro lado, uma alta significativa no preço do petróleo pode gerar pressões inflacionárias globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784115213.147742,
-    "titulo": "UBS vê quedas do dólar como oportunidade de compra diante de riscos do Fed e do petróleo - Investing.com Brasil",
-    "titulo_original": "UBS vê quedas do dólar como oportunidade de compra diante de riscos do Fed e do petróleo - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/07 05:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A visão do UBS sobre o dólar sugere que as expectativas em relação às decisões de juros do Fed e a volatilidade do preço do petróleo são fatores chave para o câmbio. Se o Fed sinalizar um aperto monetário mais prolongado, isso pode sustentar um dólar mais forte; por outro lado, uma queda nos preços do petróleo pode reduzir a pressão inflacionária e abrir espaço para o Fed flexibilizar sua política, impactando o fluxo de capital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784115218.0489333,
-    "titulo": "Tarifaço EUA, cashback IR, Fort Atacadista em Porto Alegre, dólar, Ibovespa e mais economia 15.07 - GZH",
-    "titulo_original": "Tarifaço EUA, cashback IR, Fort Atacadista em Porto Alegre, dólar, Ibovespa e mais economia 15.07 - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/07 07:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria",
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de tarifas dos EUA e discussões sobre cashback de IR sugere um cenário de políticas fiscais e regulatórias em movimento, com potencial impacto no fluxo de capital. Se as tarifas americanas forem implementadas de forma ampla, podem afetar o comércio internacional e o fluxo de capital para mercados emergentes; o cashback de IR, por sua vez, pode ter um impacto direto na renda disponível e no consumo doméstico.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784115218.0500796,
-    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "15/07 07:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento dos movimentos do Ibovespa, dólar e juros é fundamental para entender a dinâmica do mercado financeiro. Se houver uma alta expressiva nos juros, isso pode atrair capital estrangeiro para renda fixa, impactando o câmbio e a bolsa; por outro lado, uma perspectiva de queda de juros pode impulsionar a bolsa e o fluxo de capital para renda variável.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784128636.8450513,
     "titulo": "Análise: Aposta do governo em judicialização de pauta do Congresso é estratégia para Lula IV",
     "titulo_original": "Análise: Aposta do governo em judicialização de pauta do Congresso é estratégia para Lula IV",
@@ -911,6 +823,98 @@
     ],
     "origem": "domestica",
     "leitura_critica": "O crescimento modesto das vendas no varejo brasileiro, impulsionado por itens específicos como álbuns de figurinhas, sugere uma recuperação gradual do consumo. Se essa tendência de alta se mantiver e se expandir para outros setores, pode indicar uma melhora mais consistente na atividade econômica; caso contrário, o desempenho pode permanecer volátil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784226659.8895626,
+    "titulo": "Fim da Moratória da Soja aumentará desmate da Amazônia em 17% na próxima década, diz análise",
+    "titulo_original": "Fim da Moratória da Soja aumentará desmate da amazônia em 17% na próxima década, diz análise",
+    "fonte": "Folha Mercado",
+    "publicado": "16/07 15:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O fim da Moratória da Soja pode ter implicações ambientais e econômicas significativas para o Brasil. Se as projeções de aumento do desmatamento se confirmarem, isso pode gerar pressão internacional e impactar acordos comerciais futuros, especialmente aqueles com foco em sustentabilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784226664.6735163,
+    "titulo": "Dólar acelera ganhos com mercado atento ao tarifaço e guerra do Irã - VEJA",
+    "titulo_original": "Dólar acelera ganhos com mercado atento ao tarifaço e guerra do Irã - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/07 15:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A valorização do dólar, impulsionada por tensões geopolíticas e um 'tarifaço', sugere um movimento de busca por segurança. Se a guerra no Irã se intensificar, isso pode aumentar a demanda por dólar como ativo de refúgio, pressionando outras moedas, incluindo o real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784226669.5169659,
+    "titulo": "Meu foco continua sendo a inflação ao definir o curso apropriado da política monetária, diz Schmid, do Fed - Valor Econômico",
+    "titulo_original": "Meu foco continua sendo a inflação ao definir o curso apropriado da política monetária, diz Schmid, do Fed - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/07 15:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de um membro do Fed reforça a importância da inflação na condução da política monetária americana. Se os dados de inflação continuarem a surpreender para cima, isso pode levar o Fed a manter uma postura mais restritiva em relação aos juros, impactando mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784226674.441171,
+    "titulo": "Ouro fica abaixo de US$ 4 mil com pressão dos Treasuries e do dólar",
+    "titulo_original": "Ouro fica abaixo de US$ 4 mil com pressão dos Treasuries e do dólar",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 15:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A pressão sobre o ouro, apesar de dados de inflação mais fracos, sugere que as expectativas de juros nos EUA ainda são um fator dominante. Se o Federal Reserve sinalizar um corte de juros mais agressivo no futuro, isso poderia reverter a pressão sobre o ouro e impulsionar seu preço.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784226680.3308785,
+    "titulo": "Ibovespa recua mais de 1% com queda forte de bancos em dia negativo para emergentes - Valor Econômico",
+    "titulo_original": "Ibovespa recua mais de 1% com queda forte de bancos em dia negativo para emergentes - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "16/07 10:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, especialmente com o desempenho negativo dos bancos, pode indicar uma aversão ao risco em mercados emergentes. Se o cenário global se deteriorar, a pressão sobre o índice brasileiro pode se intensificar, especialmente se os fluxos de capital para emergentes diminuírem.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784226680.3324819,
+    "titulo": "Tribunal decide que Google pode ser responsabilizado por anúncios de apostas no YouTube",
+    "titulo_original": "Tribunal decide que Google pode ser responsabilizado por anúncios de apostas no YouTube",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 15:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão judicial na União Europeia sobre a responsabilidade do Google por anúncios de apostas no YouTube representa uma mudança regulatória no setor de mídia digital. Se essa decisão for replicada em outras jurisdições ou se o Google for forçado a alterar suas políticas de publicidade, isso pode impactar o modelo de negócios de plataformas digitais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784226680.3342187,
+    "titulo": "Novas tarifas dos Estados Unidos impactam principalmente as empresas de pequeno porte, diz sócio da Voga Investimentos",
+    "titulo_original": "Novas tarifas dos Estados Unidos impactam principalmente as empresas de pequeno porte, diz sócio da Voga Investimentos",
+    "fonte": "Money Times",
+    "publicado": "16/07 14:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A imposição de novas tarifas pelos EUA sobre produtos brasileiros pode gerar um impacto negativo nas exportações e na atividade econômica de empresas brasileiras, especialmente as de pequeno porte. Se essas tarifas se estenderem ou aumentarem, isso pode pressionar a balança comercial e, consequentemente, o câmbio.",
     "is_stocks": true
   }
 ]
