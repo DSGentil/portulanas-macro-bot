@@ -804,5 +804,113 @@
     "origem": "domestica",
     "leitura_critica": "A estabilidade do dólar e a leve queda do Ibovespa sugerem um mercado em compasso de espera, possivelmente aguardando novos dados ou eventos. Se o 'tarifaço' ou tensões geopolíticas continuarem a pesar, o dólar pode se fortalecer e a bolsa cair; caso contrário, a reversão pode ocorrer.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784220375.7060077,
+    "titulo": "Tarifas podem aumentar ou cair conforme resposta do Brasil, sinalizam EUA",
+    "titulo_original": "Tarifas podem aumentar ou cair conforme resposta do Brasil, sinalizam EUA",
+    "fonte": "Folha Mercado",
+    "publicado": "16/07 13:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A sinalização dos EUA sobre a flexibilidade das tarifas cria um cenário de incerteza para os exportadores brasileiros. Se o Brasil adotar uma postura considerada insatisfatória pelos EUA, as tarifas podem ser ampliadas, impactando negativamente o comércio bilateral; caso contrário, pode haver uma redução ou manutenção das tarifas atuais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784220379.7329333,
+    "titulo": "Setores isentos citam alívio, mas temem novas tarifas dos EUA em caso sobre trabalho forçado",
+    "titulo_original": "Setores isentos citam alívio, mas temem novas tarifas dos EUA em caso sobre trabalho forçado",
+    "fonte": "Folha Mercado",
+    "publicado": "16/07 12:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A possibilidade de novas tarifas relacionadas à investigação de trabalho forçado adiciona um elemento de incerteza para setores brasileiros que foram temporariamente poupados. Se os EUA decidirem impor essas novas tarifas, isso pode gerar um novo impacto negativo no comércio bilateral, mesmo para setores que inicialmente foram isentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784220383.6850767,
+    "titulo": "Tarifaço compromete continuidade de negócios nos EUA, diz indústria madeireira brasileira",
+    "titulo_original": "Tarifaço compromete continuidade de negócios nos EUA, diz indústria madeireira brasileira",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 13:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A declaração da Abimci ressalta o impacto negativo direto das novas tarifas americanas sobre a indústria madeireira brasileira. Se a perda de competitividade se concretizar, isso pode levar a uma redução nas exportações e na produção, afetando empregos e investimentos no setor. A resposta do Brasil e possíveis ações na OMC serão cruciais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784220387.7280447,
+    "titulo": "Apoio de importadores americanos foi determinante para isenção do ferro-gusa do tarifaço, diz sindicato",
+    "titulo_original": "Apoio de importadores americanos foi determinante para isenção do ferro-gusa do tarifaço, diz sindicato",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 13:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A isenção do ferro-gusa demonstra que argumentos técnicos e a pressão de setores importadores podem influenciar decisões tarifárias dos EUA. Se o Brasil conseguir apresentar argumentos técnicos sólidos em outros casos, como na investigação sobre trabalho forçado, pode haver esperança de isenções semelhantes; caso contrário, as tarifas podem ser ampliadas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784220393.302205,
+    "titulo": "Bolsas da Europa fecham em queda com pressão de semicondutores; Londres é exceção",
+    "titulo_original": "Bolsas da Europa fecham em queda com pressão de semicondutores; Londres é exceção",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 13:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda no setor de semicondutores pode indicar uma desaceleração na demanda por tecnologia, o que pode afetar outras empresas do setor. Se os resultados de outras empresas de tecnologia seguirem o mesmo padrão, isso pode se refletir em uma pressão maior sobre os índices globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784220393.3032844,
+    "titulo": "Dow Jones hoje: bolsas de NY operam mistas enquanto petróleo reverte ganhos após novas ameaças - Estadão",
+    "titulo_original": "Dow Jones hoje: bolsas de NY operam mistas enquanto petróleo reverte ganhos após novas ameaças - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/07 13:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade nos mercados de Nova York, influenciada pela reversão dos ganhos do petróleo, sugere que as tensões geopolíticas continuam a ser um fator de incerteza. Se as ameaças se intensificarem, o petróleo pode voltar a subir, impactando custos de produção e inflação; caso contrário, a pressão sobre os mercados pode diminuir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784220393.3042517,
+    "titulo": "Startup de IA apoiada pela Nvidia é avaliada em US$ 17,5 bi em rodada de investimentos",
+    "titulo_original": "Startup de IA apoiada pela Nvidia é avaliada em US$ 17,5 bi em rodada de investimentos",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 13:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O expressivo volume de investimento na Fireworks demonstra o forte interesse e potencial percebido no setor de IA. Se a empresa conseguir escalar suas operações e manter seu crescimento de receita, poderá se consolidar como um player importante; no entanto, o setor de IA é altamente competitivo e sujeito a rápidas inovações tecnológicas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784220393.3052692,
+    "titulo": "Vendas no varejo do Brasil sobem 0,1% impulsionadas por álbum de figurinhas, diz IBGE",
+    "titulo_original": "Vendas no varejo do Brasil sobem 0,1% impulsionadas por álbum de figurinhas, diz IBGE",
+    "fonte": "Folha Mercado",
+    "publicado": "16/07 09:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento modesto das vendas no varejo brasileiro, impulsionado por itens específicos como álbuns de figurinhas, sugere uma recuperação gradual do consumo. Se essa tendência de alta se mantiver e se expandir para outros setores, pode indicar uma melhora mais consistente na atividade econômica; caso contrário, o desempenho pode permanecer volátil.",
+    "is_stocks": true
   }
 ]
