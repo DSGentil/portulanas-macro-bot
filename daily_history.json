@@ -1,101 +1,5 @@
 [
   {
-    "_timestamp": 1784128636.8450513,
-    "titulo": "Análise: Aposta do governo em judicialização de pauta do Congresso é estratégia para Lula IV",
-    "titulo_original": "Análise: Aposta do governo em judicialização de pauta do Congresso é estratégia para Lula IV",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 11:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise sugere que o governo aposta na judicialização para avançar sua agenda fiscal, o que pode gerar incertezas sobre a previsibilidade das políticas públicas. Se o STF continuar a validar as ações do governo, isso pode reforçar a estratégia fiscal; caso contrário, decisões desfavoráveis podem forçar uma reavaliação das abordagens políticas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784128641.4749303,
-    "titulo": "Canadá espera concluir acordo com Mercosul ainda neste ano",
-    "titulo_original": "Canadá espera concluir acordo com Mercosul ainda neste ano",
-    "fonte": "Folha Mercado",
-    "publicado": "15/07 09:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A expectativa do Canadá em concluir um acordo comercial com o Mercosul neste ano sinaliza uma busca por diversificação de parcerias econômicas. Se o acordo for firmado, pode impulsionar o comércio bilateral e criar novas oportunidades de investimento; caso contrário, a ausência de um acordo pode manter o status quo nas relações comerciais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784128646.2010403,
-    "titulo": "Bitcoin sobe para US$ 65 mil com queda da inflação no atacado; tensões no Irã limitam ganhos",
-    "titulo_original": "Bitcoin climbs to $65k as PPI wholesale inflation falls; Iran tensions limit gains",
-    "fonte": "Investing.com",
-    "publicado": "15/07 11:16",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda na inflação ao produtor nos EUA pode ser interpretada como um sinal de alívio para o poder de compra, o que, em teoria, poderia impulsionar ativos de risco. No entanto, a persistência de tensões geopolíticas no Oriente Médio adiciona uma camada de incerteza que pode limitar o apetite por risco no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784128651.0360708,
-    "titulo": "Manufatura do Empire dos EUA para julho 15,6 vs 5,70 no mês passado. A estimativa foi de 8,80.",
-    "titulo_original": "US Empire Manufacturing for July 15.6 vs 5.70 last month. The estimate was 8.80.",
-    "fonte": "ForexLive",
-    "publicado": "15/07 09:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O forte desempenho do índice Empire Manufacturing sugere uma aceleração significativa na atividade industrial dos EUA, o que pode reforçar a narrativa de uma economia resiliente. Se essa tendência se mantiver nos próximos meses, pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros; caso contrário, uma desaceleração subsequente poderia sinalizar riscos de recessão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784128680.461264,
-    "titulo": "Dow Jones hoje: inflação abaixo da projeção impulsiona bolsas e pressiona dólar que cai ante real - Estadão",
-    "titulo_original": "Dow Jones hoje: inflação abaixo da projeção impulsiona bolsas e pressiona dólar que cai ante real - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/07 10:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A inflação nos EUA vindo abaixo do esperado é um fator positivo para os mercados de risco, sugerindo que as pressões inflacionárias podem estar arrefecendo. Se essa tendência se confirmar, pode abrir espaço para o Federal Reserve considerar cortes de juros mais cedo; caso contrário, uma reversão desse quadro pode manter a pressão sobre os ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784128680.462237,
-    "titulo": "Correios negociam novo socorro de R$ 7 bilhões com bancos estrangeiros, diz jornal",
-    "titulo_original": "Correios negociam novo socorro de R$ 7 bilhões com bancos estrangeiros, diz jornal",
-    "fonte": "Money Times",
-    "publicado": "15/07 11:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A negociação de um empréstimo de R$ 7 bilhões pelos Correios com bancos estrangeiros indica a necessidade de capital para a empresa e a confiança desses bancos no mercado brasileiro. Se a operação for concluída, pode sinalizar um fluxo de capital estrangeiro para o setor estatal; caso contrário, a dificuldade em obter o financiamento pode levantar questões sobre a saúde financeira da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784128680.4631155,
-    "titulo": "Pagar o IR na compra e venda de ações exige atenção. Mas Receita e B3 automatizaram o processo",
-    "titulo_original": "Pagar o IR na compra e venda de ações exige atenção. Mas Receita e B3 automatizaram o processo",
-    "fonte": "InvestNews",
-    "publicado": "15/07 11:03",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A automação do processo de apuração e pagamento do IR sobre operações de bolsa pela Receita e B3 visa simplificar o cumprimento das obrigações fiscais. Se a ferramenta for eficaz, pode reduzir a incidência de erros e atrasos no recolhimento; caso contrário, pode gerar novas complexidades para os investidores.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784133960.1242416,
     "titulo": "Durigan diz que ainda não houve confirmação da imposição de tarifas pelos EUA",
     "titulo_original": "Durigan diz que ainda não houve confirmação da imposição de tarifas pelos EUA",
@@ -1041,6 +945,118 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A queda em Wall Street, especialmente no setor de tecnologia, sugere uma correção após recentes altas impulsionadas pela IA. Se os temores de uma bolha se confirmarem, pode haver uma rotação de capital para outros setores. A performance da Taiwan Semiconductor é um indicador importante para o setor de tecnologia global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784239270.5866086,
+    "titulo": "Em resposta aos EUA, Fachin diz que STF atuará com independência, sem 'pressão de natureza externa'",
+    "titulo_original": "Em resposta aos EUA, Fachin diz que STF atuará com independência, sem 'pressão de natureza externa'",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 18:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do STF reforça a soberania jurídica brasileira frente a pressões externas, o que pode ser interpretado como um sinal de estabilidade institucional. Se as tensões diplomáticas escalarem, a postura firme do STF pode influenciar a percepção de risco para investimentos no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784239275.263842,
+    "titulo": "Tarifa dos EUA ameaça exportações e pode frear queda recente do dólar",
+    "titulo_original": "Tarifa dos EUA ameaça exportações e pode frear queda recente do dólar - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/07 16:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A ameaça de tarifas americanas às exportações brasileiras pode gerar um impacto negativo na balança comercial e, consequentemente, pressionar o câmbio. Se as tarifas forem efetivamente aplicadas e não houver acordos diplomáticos, o dólar pode encontrar suporte para uma valorização frente ao real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784239279.8880794,
+    "titulo": "Brasil protegerá o Pix, a geologia e a soberania nacional 'sem viralatismo', diz Durigan",
+    "titulo_original": "Brasil protegerá o Pix, a geologia e a soberania nacional 'sem viralatismo', diz Durigan",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 18:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do Ministro da Fazenda reforça a posição do Brasil em defender seus interesses e sistemas, como o Pix, frente a pressões externas. Se as tensões diplomáticas com os EUA se aprofundarem, a defesa enfática da soberania pode sinalizar um endurecimento nas negociações comerciais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784239284.58046,
+    "titulo": "Tarifaço contribui com dia amargo no mercado: Bolsa cai, juros sobem e dólar avança a R$ 5,10",
+    "titulo_original": "Tarifaço contribui com dia amargo no mercado: Bolsa cai, juros sobem e dólar avança a R$ 5,10 - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/07 17:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia correlaciona diretamente o tarifaço americano com a deterioração do cenário de mercado no Brasil, evidenciada pela queda da bolsa, alta dos juros e valorização do dólar. Se a tensão comercial persistir, o Banco Central pode considerar o cenário de inflação e câmbio para suas decisões futuras de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784239351.2114823,
+    "titulo": "Moody’s rebaixa rating da Cosan (CSAN3) para B1 e mantém perspectiva negativa",
+    "titulo_original": "Moody’s rebaixa rating da Cosan (CSAN3) para B1 e mantém perspectiva negativa",
+    "fonte": "Money Times",
+    "publicado": "16/07 18:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O rebaixamento do rating da Cosan pela Moody's indica um aumento percebido no risco de crédito da empresa. Se a perspectiva negativa se mantiver, isso pode dificultar o acesso da empresa a financiamentos e impactar negativamente o valor de suas ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784239351.212803,
+    "titulo": "Alegação dos EUA de que o Pix concorre com cartões de crédito não faz sentido, diz presidente da ABBC",
+    "titulo_original": "Alegação dos EUA de que o Pix concorre com cartões de crédito não faz sentido, diz presidente da ABBC",
+    "fonte": "Money Times",
+    "publicado": "16/07 18:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do presidente da ABBC reforça a visão de que as alegações americanas sobre o Pix carecem de fundamento. Se essa disputa sobre o Pix se intensificar, pode haver um impacto na percepção de risco para o setor financeiro brasileiro e nas relações comerciais bilaterais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784239351.223732,
+    "titulo": "Bitcoin cai em meio a queda nas ações de tecnologia, tensões EUA-Irã e sinais de juros altos",
+    "titulo_original": "Bitcoin dips amid slide in tech stocks, U.S.-Iran tensions, and hawkish rate cues",
+    "fonte": "Investing.com",
+    "publicado": "16/07 18:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Bitcoin, atrelada a fatores de mercado de tecnologia e tensões geopolíticas, pode indicar uma aversão ao risco mais generalizada. Se os sinais de juros altos nos EUA se confirmarem com dados de inflação persistentes, isso pode pressionar ainda mais ativos de risco como criptomoedas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784239351.229518,
+    "titulo": "Bolsa resiliente: Para BTG, volume da B3 (B3SA3) em junho supera projeções e ação fica mais atrativa",
+    "titulo_original": "Bolsa resiliente: Para BTG, volume da B3 (B3SA3) em junho supera projeções e ação fica mais atrativa - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "16/07 15:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho do volume na B3 acima das expectativas pode ser um indicativo de maior liquidez e atividade no mercado acionário. Se essa tendência de maior volume se mantiver, isso pode sustentar uma visão mais positiva sobre o desempenho da B3SA3 no médio prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784239351.2307928,
+    "titulo": "Bolsas em NY caem com peso de fabricantes de chips e semicondutores",
+    "titulo_original": "Bolsas em NY caem com peso de fabricantes de chips e semicondutores",
+    "fonte": "Valor Economico",
+    "publicado": "16/07 17:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas bolsas de Nova York, especialmente no setor de tecnologia, pode indicar uma reavaliação do mercado sobre o crescimento futuro e os custos de investimento. Se a pressão sobre ações de tecnologia persistir, isso pode afetar o fluxo de capital para mercados emergentes, incluindo o Brasil.",
     "is_stocks": true
   }
 ]
