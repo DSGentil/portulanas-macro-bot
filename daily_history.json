@@ -1,87 +1,5 @@
 [
   {
-    "_timestamp": 1784201476.4863868,
-    "titulo": "Minidólar (WDOQ26): análise técnica aponta regiões decisivas para o dólar futuro",
-    "titulo_original": "Minidólar (WDOQ26): análise técnica aponta regiões decisivas para o dólar futuro - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/07 07:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A análise técnica do minidólar sugere que o mercado está em um ponto de decisão, onde a direção futura do dólar pode ser definida. Se os níveis técnicos indicados forem rompidos, isso pode sinalizar uma tendência mais forte para o dólar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784201480.0840528,
-    "titulo": "Regulação amplia influência sobre o óleo de soja",
-    "titulo_original": "Regulação amplia influência sobre o óleo de soja - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "16/07 02:59",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da influência da regulamentação sobre o óleo de soja pode indicar mudanças nas regras de produção, comercialização ou tributação. Se as novas regulações forem mais restritivas, isso pode impactar os custos e a oferta do produto no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784201483.6949196,
-    "titulo": "Manhã no mercado: Dados de varejo no Brasil e nos EUA podem influenciar os ativos locais e globais",
-    "titulo_original": "Manhã no mercado: Dados de varejo no Brasil e nos EUA podem influenciar os ativos locais e globais",
-    "fonte": "Valor Economico",
-    "publicado": "16/07 08:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divulgação de dados de varejo nos EUA e no Brasil pode gerar volatilidade nos ativos locais e globais, dependendo do resultado. Se os dados de varejo dos EUA vierem fracos, isso pode reforçar expectativas de corte de juros, enquanto dados fortes no Brasil podem indicar resiliência da atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784201487.1501615,
-    "titulo": "Após tarifaço, EUA negam querer acabar com o Pix",
-    "titulo_original": "Após tarifaço, EUA negam querer acabar com o Pix",
-    "fonte": "Folha Mercado",
-    "publicado": "16/07 08:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Apesar da negação dos EUA sobre o Pix, a inclusão do sistema em uma investigação comercial levanta preocupações sobre futuras regulamentações ou restrições. Se a investigação avançar para medidas concretas, isso pode impactar o fluxo de pagamentos e a relação comercial entre os países.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784201618.340928,
-    "titulo": "Terminais de GNL viram tema de disputa entre ANP, Petrobras e empresas",
-    "titulo_original": "Terminais de GNL viram tema de disputa entre ANP, Petrobras e empresas - Brazil Journal",
-    "fonte": "Google News Acoes",
-    "publicado": "16/07 06:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A disputa sobre terminais de GNL indica um debate regulatório em andamento que pode definir o futuro da infraestrutura de gás no Brasil. Se a ANP definir regras mais restritivas, isso pode impactar investimentos no setor; se for mais flexível, pode atrair mais capital.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784201618.3421154,
-    "titulo": "Dow Jones hoje: varejo, declarações do Fed e petróleo em queda ditam ritmo das bolsas de Nova York",
-    "titulo_original": "Dow Jones hoje: varejo, declarações do Fed e petróleo em queda ditam ritmo das bolsas de Nova York - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/07 07:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A combinação de dados de varejo, declarações do Fed e a queda do petróleo cria um cenário misto para as bolsas de Nova York. Se os dados de varejo vierem fracos e o Fed sinalizar cautela, isso pode pressionar as bolsas; se o petróleo continuar em queda, pode beneficiar alguns setores, mas gerar preocupações sobre a demanda global.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784207780.5864754,
     "titulo": "Governo Lula 'repudia' tarifaço de Trump, diz que irá acionar Lei de Reciprocidade e critica família Bolsonaro - O GLOBO",
     "titulo_original": "Governo Lula 'repudia' tarifaço de Trump, diz que irá acionar Lei de Reciprocidade e critica família Bolsonaro - O GLOBO",
@@ -1078,6 +996,111 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "A notícia detalha o impacto setorial das tarifas americanas, indicando que algumas empresas e setores serão mais afetados que outros. Se a retaliação brasileira for confirmada, o custo adicional para a indústria química pode aumentar, impactando margens de lucro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784313065.455751,
+    "titulo": "Fazenda vai à Faria Lima para tentar conter preocupações com a dívida pública",
+    "titulo_original": "Fazenda vai à Faria Lima para tentar conter preocupações com a dívida pública",
+    "fonte": "Valor Economico",
+    "publicado": "17/07 15:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa do Ministério da Fazenda em dialogar diretamente com o mercado financeiro sugere uma tentativa de gerenciar expectativas em relação à dívida pública. Se essas conversas resultarem em anúncios concretos de medidas de controle fiscal, o mercado pode reagir positivamente; caso contrário, a desconfiança pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784313070.2105749,
+    "titulo": "Com inflação comportada e balanços do 2T26, especialista vê ‘trigger’ para estrangeiro na bolsa — e eleição pode ajudar ainda mais",
+    "titulo_original": "Com inflação comportada e balanços do 2T26, especialista vê ‘trigger’ para estrangeiro na bolsa — e eleição pode ajudar ainda mais",
+    "fonte": "Money Times",
+    "publicado": "17/07 14:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de atração de capital estrangeiro para a bolsa brasileira, baseada em inflação comportada e balanços positivos, sugere um cenário favorável para o mercado acionário. Se os dados de inflação continuarem estáveis e os resultados das empresas superarem as expectativas, o fluxo de capital pode se concretizar; o cenário eleitoral, por sua vez, adiciona uma camada de incerteza que pode tanto atrair quanto afastar investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784313074.9682689,
+    "titulo": "Irã atingiu um navio que tentava passar por Hormuz - Tasnim",
+    "titulo_original": "Iran targeted a ship trying to pass through Hormuz - Tasnim",
+    "fonte": "ForexLive",
+    "publicado": "17/07 14:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio, com o ataque a um navio no Estreito de Hormuz, tende a pressionar os preços do petróleo para cima. Se a situação se agravar, o risco de interrupção do fornecimento pode levar a novas altas; caso haja uma desescalada rápida, o efeito sobre o preço do petróleo pode ser temporário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784313079.6336715,
+    "titulo": "Inflação persistentemente alta é maior preocupação agora, diz Hammack, do Fed",
+    "titulo_original": "Inflação persistentemente alta é maior preocupação agora, diz Hammack, do Fed",
+    "fonte": "Valor Economico",
+    "publicado": "17/07 14:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Beth Hammack, do Fed, reforça a preocupação com a inflação persistente nos EUA, indicando que o combate a ela continua sendo prioridade. Se a inflação não ceder conforme as expectativas, o Fed pode manter uma postura mais restritiva por mais tempo; caso contrário, uma desaceleração consistente da inflação abriria espaço para discussões sobre flexibilização da política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784313085.700223,
+    "titulo": "B3 lança índices de renda fixa para títulos públicos indexados à inflação",
+    "titulo_original": "B3 lança índices de renda fixa para títulos públicos indexados à inflação - UOL Economia",
+    "fonte": "Google News Acoes",
+    "publicado": "17/07 11:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento de índices de renda fixa para títulos públicos indexados à inflação pela B3 visa aprimorar a oferta de ferramentas para investidores que buscam proteção contra a inflação. Se esses índices ganharem liquidez e representatividade, podem se tornar um benchmark importante para o mercado de renda fixa no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784313085.7037256,
+    "titulo": "Boeing vai voltar a emitir certificados de aeronavegabilidade para aviões 737 MAX e 787, diz FAA",
+    "titulo_original": "Boeing vai voltar a emitir certificados de aeronavegabilidade para aviões 737 MAX e 787, diz FAA",
+    "fonte": "Valor Economico",
+    "publicado": "17/07 14:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A permissão da FAA para que a Boeing emita seus próprios certificados de aeronavegabilidade é um marco importante para a fabricante, indicando uma recuperação da confiança na qualidade de sua produção. Se a Boeing conseguir manter a consistência na produção e segurança, isso pode impulsionar a confiança do mercado e a demanda por suas aeronaves.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784313085.7066836,
+    "titulo": "Moody’s rebaixa rating corporativo da Rumo de ‘Ba2’ para ‘Ba3’ e altera perspectiva para negativa",
+    "titulo_original": "Moody’s rebaixa rating corporativo da Rumo de ‘Ba2’ para ‘Ba3’ e altera perspectiva para negativa",
+    "fonte": "Valor Economico",
+    "publicado": "17/07 14:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O rebaixamento do rating da Rumo pela Moody's, com perspectiva negativa, sinaliza um aumento do risco de crédito associado à empresa. Se a Cosan não melhorar sua cobertura de juros e a Rumo não apresentar resultados consistentes, o rating pode sofrer novas revisões; por outro lado, uma melhora na gestão financeira da holding poderia reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784313085.709925,
+    "titulo": "Vale vê forte demanda por minério de ferro e cobre, mas guerra surge como risco",
+    "titulo_original": "Vale vê forte demanda por minério de ferro e cobre, mas guerra surge como risco - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "17/07 11:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A demanda robusta por minério de ferro e cobre, segundo a Vale, sugere um cenário positivo para as commodities metálicas. No entanto, a menção à guerra como risco indica a fragilidade desse cenário diante de eventos geopolíticos. Se a instabilidade geopolítica se intensificar, pode haver impacto na demanda e nos preços dessas commodities.",
     "is_stocks": true
   }
 ]
