@@ -1,327 +1,5 @@
 [
   {
-    "_timestamp": 1784140265.4021423,
-    "titulo": "Renan Santos diz que pautas-bomba aprovadas no Senado ‘vão destruir o orçamento’",
-    "titulo_original": "Renan Santos diz que pautas-bomba aprovadas no Senado ‘vão destruir o orçamento’",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 15:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação dessas pautas pelo Senado, se confirmada em sanção, pode gerar um impacto fiscal negativo significativo. Caso o próximo governo enfrente dificuldades orçamentárias decorrentes dessas decisões, isso poderá levar a um aperto fiscal mais severo ou a necessidade de reverter algumas dessas medidas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784140269.0871744,
-    "titulo": "Ministério Fazenda eleva projeção de alta do IPCA de 4,5% para 5,1% em 2026",
-    "titulo_original": "Ministério Fazenda eleva projeção de alta do IPCA de 4,5% para 5,1% em 2026",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 14:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da projeção de inflação para 2026 indica um cenário de preços mais pressionados do que o esperado anteriormente. Se essa tendência se confirmar, o Banco Central poderá ter que manter uma política monetária restritiva por mais tempo, impactando o custo do crédito e a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784140272.7575164,
-    "titulo": "Governo editará MP para dívidas do agro com juros menores para quem perdeu três safras",
-    "titulo_original": "Governo editará MP para dívidas do agro com juros menores para quem perdeu três safras",
-    "fonte": "Folha Mercado",
-    "publicado": "15/07 14:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A medida provisória visa aliviar o endividamento no setor do agronegócio, o que pode ter implicações fiscais e de crédito. Se a MP for aprovada, ela poderá reduzir a inadimplência no setor, mas também representa um custo para o governo ou para o sistema financeiro, dependendo da estrutura da renegociação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784140276.4681456,
-    "titulo": "Governo passa a ver inflação acima da meta no fim de 2026",
-    "titulo_original": "Governo passa a ver inflação acima da meta no fim de 2026",
-    "fonte": "Money Times",
-    "publicado": "15/07 14:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão da projeção de inflação para cima, indicando que ela superará o teto da meta em 2026, reforça a preocupação com a trajetória de preços. Se o cenário inflacionário se mantiver elevado, o Banco Central poderá ser pressionado a manter juros altos por mais tempo, afetando o crescimento econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784140406.3074622,
-    "titulo": "BofA eleva recomendação de B3 para compra e eleva preço-alvo a R$ 22; ações disparam",
-    "titulo_original": "BofA eleva recomendação de B3 para compra e eleva preço-alvo a R$ 22; ações disparam - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "15/07 15:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A elevação da recomendação por um banco de investimento pode sinalizar uma perspectiva positiva para a B3 no curto prazo. Se a tendência de alta se mantiver, isso pode atrair mais investidores para a bolsa brasileira, embora o movimento isolado de uma ação não determine o cenário macro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784140406.3088896,
-    "titulo": "ISA Energia lança oferta de 22,2 milhões de ações; precificação será no dia 23",
-    "titulo_original": "ISA Energia lança oferta de 22,2 milhões de ações; precificação será no dia 23",
-    "fonte": "Folha Mercado",
-    "publicado": "15/07 14:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A oferta de ações de uma empresa pode indicar movimento no mercado de capitais. Se a oferta for bem-sucedida e atrair demanda significativa, isso pode ser um sinal de apetite por risco no setor de energia, mas o impacto macroeconômico direto é limitado a menos que a notícia conecte com outros canais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784140406.310225,
-    "titulo": "Petróleo chega a subir mais de 2% nesta quarta com escalada da guerra no Irã",
-    "titulo_original": "Petróleo chega a subir mais de 2% nesta quarta com escalada da guerra no Irã",
-    "fonte": "Folha Mercado",
-    "publicado": "15/07 09:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta no preço do petróleo, motivada por tensões geopolíticas, pode impactar a inflação global e brasileira através dos custos de energia e transporte. Se a escalada no Oriente Médio se intensificar, isso pode levar a novas pressões inflacionárias e afetar a atividade econômica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784147533.2431467,
-    "titulo": "Câmara aprova R$ 330 milhões para subvenção de importação de GLP",
-    "titulo_original": "Câmara aprova R$ 330 milhões para subvenção de importação de GLP",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 16:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação da subvenção para o GLP representa uma intervenção fiscal para mitigar o impacto da inflação no custo de vida. Se a medida for eficaz em estabilizar os preços do gás de cozinha, pode aliviar a pressão inflacionária sobre as famílias de baixa renda; caso contrário, pode indicar a necessidade de outras políticas para lidar com a alta dos custos de energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784147537.4283657,
-    "titulo": "Atividade segue resiliente apesar de limites impostos pelos juros elevados, diz SPE",
-    "titulo_original": "Atividade segue resiliente apesar de limites impostos pelos juros elevados, diz SPE",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 15:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A resiliência da atividade econômica brasileira diante de juros elevados sugere uma capacidade de adaptação, mas a taxa Selic \"bastante restritivo\" ainda impõe limites. Se a economia continuar a crescer apesar do aperto monetário, pode indicar força estrutural; se a desaceleração se acentuar nos próximos trimestres, isso reforçará a pressão por cortes na taxa de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784147541.487677,
-    "titulo": "Volume de serviços no país recua 0,4% em maio com surpresa negativa em transportes",
-    "titulo_original": "Volume de serviços no país recua 0,4% em maio com surpresa negativa em transportes",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 16:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda no volume de serviços em maio, especialmente nos transportes, pode indicar uma desaceleração mais acentuada do que o esperado na atividade econômica. Se essa tendência se confirmar nos próximos meses, pode reforçar a necessidade de estímulos econômicos; caso contrário, se for um movimento pontual, a economia pode manter sua trajetória de desaceleração gradual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784147545.624297,
-    "titulo": "Todos os distritos do Fed relataram avanço dos preços, mostra Livro Bege",
-    "titulo_original": "Todos os distritos do Fed relataram avanço dos preços, mostra Livro Bege",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 16:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A constatação de aumento de preços em todos os distritos do Fed reforça a persistência das pressões inflacionárias nos Estados Unidos. Se esses aumentos continuarem a ser robustos, o Fed pode ser forçado a manter uma postura mais restritiva em relação aos juros; se os fatores mencionados (Oriente Médio e tarifas) se dissiparem, a inflação pode ceder mais rapidamente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784147571.4858673,
-    "titulo": "Bancos de Wall Street voltam a viver dias de glória com trimestre de resultados recordes",
-    "titulo_original": "Bancos de Wall Street voltam a viver dias de glória com trimestre de resultados recordes",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 17:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O forte desempenho dos bancos americanos pode indicar um cenário de maior liquidez e confiança no sistema financeiro. Se essa tendência de resultados recordes se mantiver nos próximos trimestres, isso pode sinalizar um ambiente mais favorável para investimentos globais; caso contrário, uma reversão abrupta pode indicar pressões macroeconômicas subjacentes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784147571.4874353,
-    "titulo": "IPOs recordes impulsionam a maior receita de venda de ações em Wall Street desde 2021",
-    "titulo_original": "IPOs recordes impulsionam a maior receita de venda de ações em Wall Street desde 2021",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 16:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento na receita de IPOs sugere um apetite renovado por investimentos em renda variável, especialmente em setores como IA. Se a tendência de IPOs recordes continuar, isso pode indicar um mercado de capitais aquecido e um fluxo de capital para novas empresas; se o ritmo desacelerar, pode ser um sinal de cautela por parte dos investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784147571.488883,
-    "titulo": "O cenário piorou, e é hora de segurar a carteira, diz BofA; veja uma ação para comprar e duas para evitar",
-    "titulo_original": "O cenário piorou, e é hora de segurar a carteira, diz BofA; veja uma ação para comprar e duas para evitar",
-    "fonte": "Money Times",
-    "publicado": "15/07 15:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva do BofA de juros mais altos no Brasil por um período prolongado sugere um cenário de aperto monetário mais duradouro. Se as projeções do banco se concretizarem, isso pode levar a uma maior seletividade dos investidores e a uma busca por ativos mais defensivos; caso contrário, se os juros começarem a cair antes do esperado, o mercado pode antecipar uma recuperação mais rápida.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784147571.4903228,
-    "titulo": "Dow Jones hoje: inflação abaixo da projeção impulsiona bolsas e pressiona dólar - Estadão",
-    "titulo_original": "Dow Jones hoje: inflação abaixo da projeção impulsiona bolsas e pressiona dólar - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/07 16:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A inflação abaixo do esperado nos EUA pode sinalizar um alívio nas pressões de preços, o que tende a favorecer ativos de risco como ações e pressionar o dólar. Se essa tendência de desaceleração inflacionária se confirmar, o Federal Reserve pode ter mais espaço para considerar cortes na taxa de juros; caso contrário, uma nova aceleração pode reverter esse cenário positivo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784147571.4917736,
-    "titulo": "Dinheiro 'esquecido? FGC ainda tem R$ 1,2 bilhão a pagar em garantias relacionadas ao Banco Master",
-    "titulo_original": "Dinheiro 'esquecido? FGC ainda tem R$ 1,2 bilhão a pagar em garantias relacionadas ao Banco Master",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 15:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O FGC ainda possui um montante significativo a pagar em garantias do Banco Master, indicando a extensão dos problemas financeiros que levaram à liquidação. Se o FGC conseguir honrar todos os pagamentos restantes sem comprometer sua própria solvência, isso reforçará a confiança no sistema de garantias; caso contrário, pode gerar preocupações sobre a capacidade de cobertura em futuras crises.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784152937.4088824,
-    "titulo": "Ministros do STF afirmam que judicialização das pautas-bomba deve favorecer governo",
-    "titulo_original": "Ministros do STF afirmam que judicialização das pautas-bomba deve favorecer governo",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 18:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Se o STF confirmar essa tendência em casos concretos, o Executivo terá uma ferramenta mais forte para conter o avanço de despesas não planejadas. Caso a judicialização não se mostre eficaz, o Congresso pode ter mais liberdade para aprovar medidas com impacto fiscal elevado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784152942.2123318,
-    "titulo": "Dólar hoje segue estável com pesquisa eleitoral e tarifas comerciais no radar",
-    "titulo_original": "Dólar hoje segue estável com pesquisa eleitoral e tarifas comerciais no radar - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/07 14:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade do dólar, influenciada por fatores domésticos como pesquisas eleitorais e a ameaça de tarifas comerciais, sugere um período de cautela no mercado. Se as pesquisas eleitorais indicarem um cenário mais incerto, ou se as tarifas comerciais forem de fato implementadas, o dólar pode apresentar volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784152946.9387102,
-    "titulo": "Exportações de petróleo do Brasil para a China batem recorde no primeiro semestre",
-    "titulo_original": "Exportações de petróleo do Brasil para a China batem recorde no primeiro semestre - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "15/07 17:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "O recorde nas exportações de petróleo do Brasil para a China indica uma forte demanda chinesa por commodities energéticas brasileiras. Se essa demanda se mantiver, pode haver um impacto positivo na balança comercial brasileira e nos preços do petróleo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784152951.6941154,
-    "titulo": "Mercado precifica um novo corte na Selic em setembro após dados de inflação nos EUA",
-    "titulo_original": "Mercado precifica um novo corte na Selic em setembro após dados de inflação nos EUA",
-    "fonte": "Money Times",
-    "publicado": "15/07 18:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A leitura de inflação nos EUA abaixo do esperado sugere um alívio nas pressões de preço, o que pode dar mais espaço para o Banco Central do Brasil considerar um novo corte na Selic. Se os próximos dados de inflação doméstica também vierem favoráveis, a expectativa de corte em setembro se fortalece.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784152977.4094343,
-    "titulo": "Ibovespa fecha em queda com cenário eleitoral do Brasil no radar",
-    "titulo_original": "Ibovespa fecha em queda com cenário eleitoral do Brasil no radar",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 17:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, mesmo com dados de inflação americanos favoráveis, demonstra a forte influência do cenário eleitoral doméstico sobre o mercado. Se a incerteza eleitoral persistir, o índice pode continuar sob pressão, especialmente em um ambiente de baixa liquidez.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784152977.411035,
-    "titulo": "Ibovespa recua com Itaú (ITUB4) e expectativa de tarifaço dos EUA; dólar sobe a R$ 5,07",
-    "titulo_original": "Ibovespa recua com Itaú (ITUB4) e expectativa de tarifaço dos EUA; dólar sobe a R$ 5,07",
-    "fonte": "Money Times",
-    "publicado": "15/07 17:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa e a alta do dólar refletem a aversão ao risco gerada pela expectativa de novas tarifas comerciais dos EUA e fatores domésticos. Se as tarifas forem implementadas, isso pode impactar negativamente o comércio internacional e as empresas brasileiras expostas ao mercado externo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784158263.7797563,
-    "titulo": "Produção é recorde, mas queda de preço reduz receita no agro",
-    "titulo_original": "Produção é recorde, mas queda de preço reduz receita no agro",
-    "fonte": "Folha Mercado",
-    "publicado": "15/07 20:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O recorde de produção no agronegócio brasileiro, apesar da queda na receita, indica um cenário de oferta abundante que pressiona os preços. Se essa tendência de queda de preços persistir, pode impactar a inflação de alimentos e o fluxo de capital para o setor; caso contrário, a recuperação dos preços pode impulsionar o Valor Bruto da Produção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784158268.4630072,
-    "titulo": "Juros futuros fecham perto da estabilidade com pesquisa eleitoral e PPI mais fraco",
-    "titulo_original": "Juros futuros fecham perto da estabilidade com pesquisa eleitoral e PPI mais fraco",
-    "fonte": "Valor Economico",
-    "publicado": "15/07 19:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A estabilidade dos juros futuros reflete um equilíbrio entre fatores domésticos (eleições) e externos (inflação nos EUA). Se as pesquisas eleitorais indicarem maior polarização ou incerteza, isso pode pressionar as taxas para cima; caso o PPI americano continue em trajetória de queda, o Fed pode ter mais espaço para manter a política monetária atual, aliviando a pressão sobre os juros domésticos.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1784201476.4863868,
     "titulo": "Minidólar (WDOQ26): análise técnica aponta regiões decisivas para o dólar futuro",
     "titulo_original": "Minidólar (WDOQ26): análise técnica aponta regiões decisivas para o dólar futuro - InfoMoney",
@@ -989,5 +667,100 @@
     "origem": "externa",
     "leitura_critica": "A mudança de postura de um player relevante no mercado de renda fixa, de uma visão de longo prazo para uma perspectiva baixista, pode sinalizar um ponto de inflexão nas expectativas de juros e inflação. Se a tese de déficits estruturais e demanda por crédito impulsionada por IA se confirmar, os rendimentos de longo prazo podem permanecer elevados.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1784287855.1999521,
+    "titulo": "Minidólar (WDOQ26): veja os níveis que podem definir o dólar futuro hoje",
+    "titulo_original": "Minidólar (WDOQ26): veja os níveis que podem definir o dólar futuro hoje - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/07 07:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise técnica de níveis para o minidólar sugere que o mercado está atento a pontos de suporte e resistência que podem definir o movimento do câmbio. Se o dólar romper níveis importantes, isso pode indicar uma mudança de tendência; caso contrário, o mercado pode permanecer em consolidação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784287860.0729816,
+    "titulo": "Recompra de ações acelera na Bolsa e atinge R$ 11 bi; veja 5 ações para ficar de olho",
+    "titulo_original": "Recompra de ações acelera na Bolsa e atinge R$ 11 bi; veja 5 ações para ficar de olho - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "17/07 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento nas recompras de ações pode ser interpretado como um sinal de confiança das empresas em seu próprio valor, potencialmente impulsionando o mercado acionário. Se as empresas continuarem com essa estratégia, isso pode sustentar a valorização das ações; caso contrário, a desaceleração das recompras pode indicar cautela.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784287864.8579988,
+    "titulo": "Dólar muda o rumo do milho e sustenta preços",
+    "titulo_original": "Dólar muda o rumo do milho e sustenta preços - Agrolink",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/07 07:10",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A relação entre o dólar e os preços do milho sugere que o câmbio tem um papel importante na precificação de commodities agrícolas. Se o dólar se mantiver forte, isso pode continuar a sustentar os preços do milho; caso o dólar se desvalorize, os preços do milho podem ser pressionados para baixo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784287869.6284106,
+    "titulo": "Agenda do dia: IBC-Br e sentimento do consumidor nos EUA são destaque",
+    "titulo_original": "Agenda do dia: IBC-Br e sentimento do consumidor nos EUA são destaque",
+    "fonte": "Valor Economico",
+    "publicado": "17/07 08:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Os indicadores de atividade econômica e sentimento do consumidor nos EUA, juntamente com o IBC-Br no Brasil, fornecerão pistas sobre a saúde das economias. Se os dados americanos vierem fortes, podem reforçar expectativas sobre a política monetária do Fed; se o IBC-Br surpreender positivamente, pode indicar resiliência da economia brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784287897.232134,
+    "titulo": "Dúvidas sobre boom da IA e guerra pesam sobre as bolsas; Ibovespa em dólar recua hoje (17)",
+    "titulo_original": "Dúvidas sobre boom da IA e guerra pesam sobre as bolsas; Ibovespa em dólar recua hoje (17)",
+    "fonte": "Money Times",
+    "publicado": "17/07 07:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de incertezas sobre o boom da IA e o aumento das tensões geopolíticas afeta o apetite por risco nos mercados globais. Se as preocupações com a IA se materializarem em retornos menores, isso pode levar a uma reavaliação de valuations; se as tensões geopolíticas diminuírem, o sentimento de risco pode melhorar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784287897.2333918,
+    "titulo": "Day Trade hoje (17): Ibovespa recua e perde tração; veja a análise técnica",
+    "titulo_original": "Day Trade hoje (17): Ibovespa recua e perde tração; veja a análise técnica - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "17/07 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A perda de tração do Ibovespa sugere um momento de cautela no mercado acionário brasileiro. Se os níveis técnicos de suporte forem rompidos, isso pode indicar uma continuação da tendência de baixa; caso contrário, uma recuperação pode ocorrer se os compradores retomarem o controle.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784287897.234655,
+    "titulo": "Quem pode encher o botijão? A disputa no gás de cozinha que opõe Ultragaz e Copagaz às revendas",
+    "titulo_original": "Quem pode encher o botijão? A disputa no gás de cozinha que opõe Ultragaz e Copagaz às revendas",
+    "fonte": "InvestNews",
+    "publicado": "17/07 06:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão da proposta pela ANP indica que a discussão sobre a regra de enchimento de botijões de gás de cozinha ainda está em andamento. Se a ANP decidir pela mudança, isso pode impactar a dinâmica do setor; caso a decisão seja pela manutenção do status quo, a estrutura atual do mercado será preservada.",
+    "is_stocks": true
   }
 ]
