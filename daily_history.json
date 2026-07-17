@@ -1096,5 +1096,115 @@
     "origem": "externa",
     "leitura_critica": "A notícia descreve o avanço de uma IA chinesa e seu impacto nas ações de empresas de tecnologia ocidentais. Embora mencione a pressão sobre Nvidia, OpenAI e Anthropic, não há conexão explícita com canais macroeconômicos ou fiscais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784325684.2479982,
+    "titulo": "Durigan diz que não cabe falar em retaliação aos EUA por tarifas, mas sim reciprocidade",
+    "titulo_original": "Durigan diz que não cabe falar em retaliação aos EUA por tarifas, mas sim reciprocidade",
+    "fonte": "Folha Mercado",
+    "publicado": "17/07 14:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro Durigan indica uma postura de cautela em relação a retaliações comerciais com os EUA, focando em reciprocidade. Se a política de reciprocidade for detalhada e envolver medidas concretas, poderá haver impacto nas relações comerciais bilaterais; caso contrário, pode permanecer no campo retórico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784325689.1320548,
+    "titulo": "Durigan diz que subsídios aos combustíveis serão retirados após recuo do petróleo",
+    "titulo_original": "Durigan diz que subsídios aos combustíveis serão retirados após recuo do petróleo - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "17/07 14:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro Durigan sugere uma política de descontinuação de subsídios a combustíveis atrelada à queda do petróleo. Se o petróleo de fato recuar significativamente, a retirada dos subsídios poderá gerar impacto nos preços dos combustíveis para o consumidor; caso contrário, a política pode ser adiada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784325694.0303807,
+    "titulo": "Juros futuros disparam com tensão geopolítica e ajuste de posições",
+    "titulo_original": "Juros futuros disparam com tensão geopolítica e ajuste de posições",
+    "fonte": "Valor Economico",
+    "publicado": "17/07 18:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A disparada dos juros futuros, especialmente nos vencimentos intermediários, indica uma precificação de maior risco e inflação futura devido à tensão geopolítica e à alta do petróleo. Se o cenário de tensão se mantiver, os juros podem continuar em trajetória de alta; se houver alívio, pode haver reversão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784325698.9079833,
+    "titulo": "Ataque atribuído a Israel mata palestinos em funeral e em mercado no centro de Gaza",
+    "titulo_original": "Ataque atribuído a Israel mata palestinos em funeral e em mercado no centro de Gaza - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "17/07 17:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O ataque em Gaza, atribuído a Israel, intensifica a tensão na região e pode ter repercussões geopolíticas e humanitárias. Se o conflito se agravar, isso poderá afetar a estabilidade regional e os mercados globais de energia, mas a notícia em si não especifica esses desdobramentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784325705.32478,
+    "titulo": "Bolsas de NY caem com tombo de techs e alta do petróleo; dólar sobe ante o real e Ibovespa termina estável",
+    "titulo_original": "Bolsas de NY caem com tombo de techs e alta do petróleo; dólar sobe ante o real e Ibovespa termina estável",
+    "fonte": "Valor Economico",
+    "publicado": "17/07 18:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda das bolsas de NY, impulsionada por techs e petróleo, reflete um cenário de aversão a risco global. Se as tensões geopolíticas se intensificarem, o dólar pode continuar a se fortalecer e os juros futuros a subir; caso haja uma desescalada, o cenário pode se reverter.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784325705.326649,
+    "titulo": "Dólar sobe 0,25% e Ibovespa cai 0,06% com tarifaço dos EUA",
+    "titulo_original": "Dólar sobe 0,25% e Ibovespa cai 0,06% com tarifaço dos EUA - Poder360",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/07 17:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar e a queda do Ibovespa são reações diretas ao \"tarifaço\" dos EUA, indicando um impacto negativo no mercado brasileiro. Se as tarifas americanas forem mantidas ou ampliadas, o dólar pode continuar em ascensão e o Ibovespa sob pressão; se houver negociações para reverter ou mitigar as tarifas, o cenário pode mudar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784325705.3284564,
+    "titulo": "Bolsas em NY caem pressionadas por 'techs' e tensões EUA-Irã",
+    "titulo_original": "Bolsas em NY caem pressionadas por  'techs' e tensões EUA-Irã",
+    "fonte": "Valor Economico",
+    "publicado": "17/07 17:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas de NY, influenciada por ações de tecnologia e tensões EUA-Irã, indica um cenário de aversão ao risco e incerteza. Se as hostilidades no Oriente Médio se intensificarem, o mercado pode reagir negativamente; se houver sinais de desescalada, pode haver recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784325705.3302472,
+    "titulo": "Ações de empresas de semicondutores dos EUA caminham para pior semana desde 'Dia da Libertação'",
+    "titulo_original": "Ações de empresas de semicondutores dos EUA caminham para pior semana desde 'Dia da Libertação'",
+    "fonte": "Folha Mercado",
+    "publicado": "17/07 13:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte desvalorização das ações de empresas de semicondutores nos EUA indica uma correção no setor de tecnologia e inteligência artificial. Se essa tendência de venda se mantiver, poderá afetar o desempenho geral do mercado de ações americano; se houver sinais de recuperação, o setor pode voltar a atrair investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784325705.3320954,
+    "titulo": "Wall Street tomba 1% na semana com tecnologia e alta do petróleo; Nasdaq lidera perdas",
+    "titulo_original": "Wall Street tomba 1% na semana com tecnologia e alta do petróleo; Nasdaq lidera perdas",
+    "fonte": "Money Times",
+    "publicado": "17/07 17:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda de Wall Street, influenciada por tecnologia e petróleo, reflete um sentimento de aversão ao risco nos mercados globais. Se os fatores que pressionam o mercado (tensões geopolíticas, incertezas em techs) persistirem, as bolsas podem continuar em trajetória de baixa; uma melhora no cenário pode reverter essa tendência.",
+    "is_stocks": true
   }
 ]
