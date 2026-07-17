@@ -762,5 +762,132 @@
     "origem": "domestica",
     "leitura_critica": "A suspensão da proposta pela ANP indica que a discussão sobre a regra de enchimento de botijões de gás de cozinha ainda está em andamento. Se a ANP decidir pela mudança, isso pode impactar a dinâmica do setor; caso a decisão seja pela manutenção do status quo, a estrutura atual do mercado será preservada.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784294178.8104634,
+    "titulo": "Cenário pesa sobre ações cíclicas domésticas, apesar de preço atrativo | Intraday",
+    "titulo_original": "Cenário pesa sobre ações cíclicas domésticas, apesar de preço atrativo | Intraday - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "17/07 06:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pressão sobre ações cíclicas domésticas, apesar de seu atrativo de preço, indica que o sentimento do mercado está mais focado em riscos macroeconômicos do que em valor intrínseco. Se o cenário econômico melhorar, essas ações podem se beneficiar de uma recuperação mais acentuada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784294182.3611772,
+    "titulo": "A aposta do país na exploração de petróleo no RS: “Substituiria as bacias que produzem hoje”",
+    "titulo_original": "A aposta do país na exploração de petróleo no RS: “Substituiria as bacias que produzem hoje” - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "17/07 07:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A aposta na exploração de petróleo no Rio Grande do Sul pode ter implicações significativas para a matriz energética e a economia do país. Se a produção for bem-sucedida e atingir os níveis esperados, isso pode reduzir a dependência de outras bacias e aumentar a autossuficiência em petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784294185.7631598,
+    "titulo": "Com 'prévia do PIB' e guerra no pano de fundo, dólar abre em alta e bolsa em queda",
+    "titulo_original": "Com 'prévia do PIB' e guerra no pano de fundo, dólar abre em alta e bolsa em queda - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/07 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de uma prévia do PIB fraca e o cenário de guerra tende a aumentar a aversão ao risco, favorecendo o dólar e pressionando a bolsa. Se a prévia do PIB confirmar uma desaceleração mais acentuada, isso pode levar a uma maior fuga de capitais, sustentando o dólar em alta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784294189.2758386,
+    "titulo": "Taxas de juros têm viés de alta, com dólar e petróleo",
+    "titulo_original": "Taxas de juros têm viés de alta, com dólar e petróleo - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/07 09:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A perspectiva de alta nas taxas de juros, impulsionada pelo dólar e petróleo, sugere um cenário de pressão inflacionária. Se o petróleo continuar a subir, isso pode pressionar ainda mais a inflação, forçando o Banco Central a manter uma postura mais restritiva em relação aos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784294256.8523061,
+    "titulo": "Bolsas da China despencam mais de 3% puxada por desconfiança sobre empresas de IA",
+    "titulo_original": "Bolsas da China despencam mais de 3% puxada por desconfiança sobre empresas de IA",
+    "fonte": "Folha Mercado",
+    "publicado": "17/07 09:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A forte queda nas bolsas chinesas pode refletir um ajuste de expectativas em relação ao setor de tecnologia e inteligência artificial, com potencial impacto em outras bolsas globais que também tiveram altas expressivas nesse setor. Se a desconfiança se aprofundar, pode haver uma migração de capital para ativos considerados mais seguros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784294256.8537884,
+    "titulo": "Ações chinesas têm queda após IPO da CXMT provocar preocupações com liquidez",
+    "titulo_original": "Ações chinesas têm queda após IPO da CXMT provocar preocupações com liquidez - Notícias Agrícolas",
+    "fonte": "Google News Acoes",
+    "publicado": "17/07 07:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A preocupação com a liquidez no mercado chinês, desencadeada pelo IPO da CXMT, pode sinalizar um aperto nas condições financeiras para empresas de tecnologia. Se essa preocupação se espalhar, pode haver uma revisão das valorizações de outras empresas do setor, impactando o desempenho das bolsas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784294256.8551657,
+    "titulo": "Mercados europeus fecham: petróleo sobe, vendas de tecnologia continuam",
+    "titulo_original": "investingLive European markets wrap: Oil pushes up, tech selling pressures continue",
+    "fonte": "ForexLive",
+    "publicado": "17/07 08:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A persistência da pressão de venda em ações de tecnologia na Europa, apesar da ligeira queda na inflação, sugere que as expectativas de juros podem continuar elevadas. Se o petróleo mantiver a tendência de alta, isso pode contrabalancear o efeito da inflação mais baixa, mantendo o Banco Central Europeu cauteloso.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784294256.8565295,
+    "titulo": "Plano do Brasil para emitir panda bonds testa interesse de Vale, WEG, JBS e Embraer",
+    "titulo_original": "Plano do Brasil para emitir panda bonds testa interesse de Vale, WEG, JBS e Embraer",
+    "fonte": "InvestNews",
+    "publicado": "17/07 09:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A emissão de panda bonds pelo Brasil representa uma tentativa de diversificar as fontes de financiamento e acessar o mercado de capitais chinês. Se a iniciativa for bem-sucedida e atrair empresas de peso como Vale, WEG, JBS e Embraer, isso pode sinalizar um aumento no fluxo de capital entre Brasil e China e reduzir a dependência de outras moedas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784294256.8579223,
+    "titulo": "Nu Asset lança 3 ETFs de renda fixa, referenciados a novos índices da B3",
+    "titulo_original": "Nu Asset lança 3 ETFs de renda fixa, referenciados a novos índices da B3 - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "17/07 10:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento de novos ETFs de renda fixa pela Nu Asset pode aumentar a oferta de produtos de investimento no mercado brasileiro. Se esses ETFs atraírem volume significativo de recursos, isso pode indicar um interesse crescente em estratégias de renda fixa, possivelmente influenciado pelo cenário de juros.",
+    "is_stocks": true
   }
 ]
