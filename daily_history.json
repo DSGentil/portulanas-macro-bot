@@ -889,5 +889,85 @@
     "origem": "domestica",
     "leitura_critica": "O lançamento de novos ETFs de renda fixa pela Nu Asset pode aumentar a oferta de produtos de investimento no mercado brasileiro. Se esses ETFs atraírem volume significativo de recursos, isso pode indicar um interesse crescente em estratégias de renda fixa, possivelmente influenciado pelo cenário de juros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784301382.440865,
+    "titulo": "Governo Lula mantém subsídio ao diesel em R$ 1,12 por litro após escalada em Guerra no Irã",
+    "titulo_original": "Governo Lula mantém subsídio ao diesel em R$ 1,12 por litro após escalada em Guerra no Irã",
+    "fonte": "Folha Mercado",
+    "publicado": "17/07 11:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção do subsídio ao diesel representa um impacto fiscal, pois o governo deixa de arrecadar o valor correspondente. Se a guerra no Irã persistir e os preços do petróleo continuarem altos, a pressão para manter o subsídio pode aumentar, afetando as contas públicas. Caso a situação geopolítica se normalize, a reavaliação do subsídio pode voltar à pauta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784301387.3831656,
+    "titulo": "Economista do Safra vê ‘algo errado’ na política econômica e critica Selic - InfoMoney",
+    "titulo_original": "Economista do Safra vê ‘algo errado’ na política econômica e critica Selic - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/07 07:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A crítica de um economista a uma política econômica e à Selic pode sinalizar divergências de opinião sobre o rumo da política monetária. Se essa visão for compartilhada por outros agentes do mercado, pode aumentar a pressão por mudanças na condução da política econômica; caso contrário, pode ser vista como uma opinião isolada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784301392.1469295,
+    "titulo": "Como o governo calcula (e tenta desarmar) bomba de R$ 30 bilhões da PEC dos agentes de saúde",
+    "titulo_original": "Como o governo calcula (e tenta desarmar) bomba de R$ 30 bilhões da PEC dos agentes de saúde",
+    "fonte": "Money Times",
+    "publicado": "17/07 11:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A PEC dos agentes de saúde representa um impacto fiscal significativo, com um passivo de R$ 30 bilhões. Se o governo não conseguir desarmar essa \"pauta-bomba\", o aumento das despesas públicas pode pressionar o orçamento. A forma como o Congresso e o governo lidarão com essa questão definirá o impacto fiscal futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784301397.0069942,
+    "titulo": "IGP-10 amplia queda em julho, mas nova alta do petróleo e El Niño ameaçam alívio da inflação - O GLOBO",
+    "titulo_original": "IGP-10 amplia queda em julho, mas nova alta do petróleo e El Niño ameaçam alívio da inflação - O GLOBO",
+    "fonte": "Google News Commodities",
+    "publicado": "17/07 09:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do IGP-10 em julho é um sinal positivo para a inflação, mas a alta do petróleo e o El Niño podem reverter essa tendência, elevando os preços de commodities e alimentos. Se esses fatores se concretizarem, o alívio inflacionário pode ser temporário, exigindo atenção do Banco Central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784301423.7923028,
+    "titulo": "Petrobras (PETR4), Prio (PRIO3) e outras petroleiras têm forte alta na B3",
+    "titulo_original": "Petrobras (PETR4), Prio (PRIO3) e outras petroleiras têm forte alta na B3",
+    "fonte": "Money Times",
+    "publicado": "17/07 12:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta das ações de petroleiras reflete diretamente o aumento dos preços do petróleo, que por sua vez é influenciado por tensões geopolíticas. Se a escalada no Oriente Médio se intensificar, o setor de energia pode continuar a performar bem, mas um cenário de desescalada pode levar a uma correção nesses papéis.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784301423.7940211,
+    "titulo": "Apple desbanca Nvidia e se torna a empresa mais valiosa do mundo",
+    "titulo_original": "Apple desbanca Nvidia e se torna a empresa mais valiosa do mundo",
+    "fonte": "Valor Economico",
+    "publicado": "17/07 11:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A mudança no topo do ranking das empresas mais valiosas, com a Apple superando a Nvidia, indica uma diversificação do foco dos investidores em relação à inteligência artificial. Se a Apple conseguir capitalizar sua posição nesse mercado, pode sustentar sua liderança; caso contrário, a Nvidia pode retomar o posto.",
+    "is_stocks": true
   }
 ]
