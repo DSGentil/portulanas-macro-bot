@@ -78,5 +78,99 @@
     "origem": "domestica",
     "leitura_critica": "A proposta de privatização de estatais como Petrobras e Banco do Brasil, se concretizada, teria um impacto significativo na estrutura econômica do país e na arrecadação fiscal. Se essas privatizações avançarem, podem gerar receitas importantes para investimentos em infraestrutura, mas também levantam debates sobre o papel do Estado na economia.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784547095.91108,
+    "titulo": "Mesmo após revisões de bancos, estas 4 ações ainda têm potencial de alta de até 115%",
+    "titulo_original": "Mesmo após revisões de bancos, estas 4 ações ainda têm potencial de alta de até 115%",
+    "fonte": "Money Times",
+    "publicado": "20/07 08:15",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "acoes"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica que, apesar das revisões de bancos e do cenário de juros, algumas ações ainda apresentam potencial de alta. Se as empresas em questão apresentarem resultados sólidos e o cenário macroeconômico se mostrar favorável, o potencial de valorização pode se concretizar; caso contrário, as revisões podem ter sido otimistas demais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784547099.3233492,
+    "titulo": "Podcast: os primeiros impactos e reações ao tarifaço de Trump no comércio e na diplomacia",
+    "titulo_original": "Podcast: os primeiros impactos e reações ao tarifaço de Trump no comércio e na diplomacia",
+    "fonte": "Folha Mercado",
+    "publicado": "20/07 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A imposição de tarifas pelos EUA sobre produtos brasileiros representa uma decisão regulatória com impacto direto no comércio bilateral. Se o Brasil aplicar a Lei da Reciprocidade Econômica de forma efetiva, isso pode gerar retaliações e afetar o fluxo de comércio; caso contrário, as negociações diplomáticas podem buscar uma solução menos conflituosa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784547102.7235487,
+    "titulo": "Manhã no mercado: Petróleo segue como principal guia para os ativos globais",
+    "titulo_original": "Manhã no mercado: Petróleo segue como principal guia para os ativos globais",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 08:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A notícia destaca o petróleo como principal condutor dos mercados globais em meio a tensões geopolíticas. Se o conflito entre EUA e Irã se intensificar, os preços do petróleo podem disparar, afetando a inflação e o crescimento global; caso contrário, a estabilização dos preços pode trazer mais previsibilidade aos mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784547106.1643755,
+    "titulo": "EUA atacam usina nuclear do Irã em construção e Teerã pede que ONU condene ação - G1",
+    "titulo_original": "EUA atacam usina nuclear do Irã em construção e Teerã pede que ONU condene ação - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "20/07 06:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O ataque dos EUA a uma usina nuclear iraniana em construção representa uma escalada significativa nas tensões geopolíticas. Se a ONU condenar a ação e houver uma resposta mais forte do Irã, isso pode levar a um aumento da volatilidade nos mercados globais, especialmente no petróleo; caso contrário, a situação pode se estabilizar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784547110.978023,
+    "titulo": "Ibovespa hoje: Focus, tarifas dos EUA e tensão no Oriente Médio movimentam o mercado - Estadão",
+    "titulo_original": "Ibovespa hoje: Focus, tarifas dos EUA e tensão no Oriente Médio movimentam o mercado - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "20/07 06:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "acoes"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia aponta para múltiplos fatores influenciando o Ibovespa: o relatório Focus (expectativas econômicas), as tarifas dos EUA (impacto comercial) e a tensão no Oriente Médio (risco geopolítico). Se os dados do Focus vierem piores que o esperado, as tarifas se concretizarem e a tensão no Oriente Médio aumentar, o Ibovespa pode sofrer quedas mais expressivas; caso contrário, a recuperação pode ser impulsionada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784547110.9784594,
+    "titulo": "Índice Small Caps ganha liquidez em relação ao Ibovespa. Mas o filme é bem diferente da foto - NeoFeed",
+    "titulo_original": "Índice Small Caps ganha liquidez em relação ao Ibovespa. Mas o filme é bem diferente da foto - NeoFeed",
+    "fonte": "Google News Acoes",
+    "publicado": "20/07 07:55",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "acoes"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento de liquidez no Índice Small Caps pode indicar maior interesse em empresas de menor capitalização. Se essa tendência se mantiver e for acompanhada por bons resultados corporativos, pode haver valorização nesses ativos; caso contrário, a liquidez pode ser um reflexo de menor volume negociado em outras partes do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784547110.979001,
+    "titulo": "Dividendos: Fundos imobiliários pagam até R$ 15 por cota nesta semana; IFIX amplia ganhos em julho",
+    "titulo_original": "Dividendos: Fundos imobiliários pagam até R$ 15 por cota nesta semana; IFIX amplia ganhos em julho",
+    "fonte": "Money Times",
+    "publicado": "20/07 08:04",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "acoes"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa sobre o pagamento de dividendos por fundos imobiliários e a valorização do IFIX. Se a distribuição de rendimentos continuar robusta e o cenário para o mercado imobiliário se mantiver favorável, os fundos imobiliários podem continuar a atrair investidores; caso contrário, a performance do IFIX pode ser afetada por outros fatores macroeconômicos.",
+    "is_stocks": true
   }
 ]
