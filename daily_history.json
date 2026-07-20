@@ -688,5 +688,59 @@
     "origem": "domestica",
     "leitura_critica": "A aquisição demonstra a adaptação do Nubank a exigências regulatórias específicas, como a Resolução Conjunta nº 17, que pode impactar outras instituições com nomes similares. A estratégia visa garantir a conformidade e a manutenção da identidade da marca no mercado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784590268.3894098,
+    "titulo": "TCU propõe reajuste de até 40% na gratificação paga a servidores do órgão",
+    "titulo_original": "TCU propõe reajuste de até 40% na gratificação paga a servidores do órgão",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 19:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta do TCU de reajustar gratificações em até 40% para seus servidores, se aprovada, representa um aumento de despesa pública. Caso o Congresso Nacional aprove a medida, isso pode influenciar discussões sobre a remuneração em outros órgãos públicos, especialmente se a justificativa de \"convergência com modelos adotados\" for amplamente aceita.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784590271.775422,
+    "titulo": "Nova Zelândia Q2 CPI 4.1% a/a (esperado 4.0%) e 1.5% a/q (esperado 1.4%)",
+    "titulo_original": "New Zealand Q2 CPI 4.1% y/y (expected 4.0%) and 1.5% q/q (expected 1.4%)",
+    "fonte": "ForexLive",
+    "publicado": "20/07 19:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de inflação da Nova Zelândia acima do esperado pode indicar pressões inflacionárias persistentes na economia. Se o Banco Central da Nova Zelândia interpretar esse resultado como um sinal de aquecimento excessivo, isso pode levar a uma postura mais cautelosa em relação a cortes de juros futuros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784590276.083292,
+    "titulo": "Exclusivo: Após consulta de investidor, CVM abre processo sobre apoio da Previ a candidato ao conselho da Vale",
+    "titulo_original": "Exclusivo: Após consulta de investidor, CVM abre processo sobre apoio da Previ a candidato ao conselho da Vale",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 19:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A abertura de processo pela CVM sobre o apoio da Previ a um candidato ao conselho da Vale pode gerar incerteza na governança da mineradora. Se a investigação apontar irregularidades, isso pode levar a mudanças na composição do conselho ou a sanções para a Previ.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784590276.0846188,
+    "titulo": "Comissão do Parlamento francês aprova proibição de redes sociais para menores de 15 anos",
+    "titulo_original": "Comissão do Parlamento francês aprova proibição de redes sociais para menores de 15 anos",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 17:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A aprovação de um projeto de lei na França para proibir redes sociais a menores de 15 anos pode influenciar discussões regulatórias em outros países. Se a proibição for implementada, empresas de tecnologia podem precisar adaptar suas políticas de acesso e verificação de idade, impactando o uso de suas plataformas.",
+    "is_stocks": true
   }
 ]
