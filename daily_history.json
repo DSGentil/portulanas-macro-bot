@@ -172,5 +172,86 @@
     "origem": "domestica",
     "leitura_critica": "A notícia informa sobre o pagamento de dividendos por fundos imobiliários e a valorização do IFIX. Se a distribuição de rendimentos continuar robusta e o cenário para o mercado imobiliário se mantiver favorável, os fundos imobiliários podem continuar a atrair investidores; caso contrário, a performance do IFIX pode ser afetada por outros fatores macroeconômicos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784553354.7030914,
+    "titulo": "Economistas diminuem previsão da inflação pela terceira semana seguida",
+    "titulo_original": "Economistas diminuem previsão da inflação pela terceira semana seguida",
+    "fonte": "Folha Mercado",
+    "publicado": "20/07 08:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na previsão da inflação, mesmo que em ritmo menor, é um sinal positivo para a economia. Se essa tendência de desaceleração se confirmar, pode abrir espaço para o Banco Central considerar uma política monetária mais branda no futuro; caso contrário, a persistência de pressões inflacionárias pode manter os juros em patamares elevados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784553359.4169335,
+    "titulo": "Juros futuros sobem com pressão externa e de olho em expectativas de inflação",
+    "titulo_original": "Juros futuros sobem com pressão externa e de olho em expectativas de inflação",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 09:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta dos juros futuros, impulsionada por fatores externos (Treasuries) e domésticos (expectativas de inflação), indica um cenário de maior cautela no mercado. Se as expectativas de inflação continuarem a subir, o Banco Central pode ser pressionado a manter uma política monetária restritiva; se houver uma reversão nesse cenário, os juros futuros podem ceder.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784553364.1255028,
+    "titulo": "Acompanhe a cotação do dólar nesta segunda-feira (20)",
+    "titulo_original": "Acompanhe a cotação do dólar nesta segunda-feira (20)",
+    "fonte": "Folha Mercado",
+    "publicado": "20/07 09:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A cotação do dólar está sendo influenciada por fatores domésticos, como a resposta a tarifas americanas, e externos, como o conflito no Oriente Médio. Se o Brasil adotar uma postura mais protecionista em resposta às tarifas, o dólar pode se desvalorizar; a escalada do conflito, por outro lado, tende a fortalecer o dólar como ativo de refúgio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784553368.8794174,
+    "titulo": "Dólar tem leve queda e real se alinha a pares, de olho em quadro geopolítico",
+    "titulo_original": "Dólar têm leve queda e real se alinha a pares, de olho em quadro geopolítico",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 09:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A leve desvalorização do dólar e a valorização do real sugerem um alívio temporário nas tensões globais, mas a atenção se volta para o cenário geopolítico. Se a volatilidade do petróleo aumentar devido ao conflito, o dólar pode se fortalecer como ativo de refúgio; caso contrário, o real pode manter a tendência de valorização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784553374.6239522,
+    "titulo": "Mercados europeus fecham: petróleo recua, ações sobem com Irã tocando propostas de mediação",
+    "titulo_original": "investingLive European markets wrap: Oil retreats, equities bounce as Iran touches on mediation proposals",
+    "fonte": "ForexLive",
+    "publicado": "20/07 09:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A menção de propostas de mediação pelo Irã sugere uma possível diminuição das tensões geopolíticas, o que tende a aliviar a pressão sobre os preços do petróleo. Se a diplomacia prevalecer, o cenário de inflação global pode se tornar mais favorável, impactando as decisões de política monetária de bancos centrais como o BCE.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784553374.6245196,
+    "titulo": "Estrangeiros registram aportes de mais de R$ 58 milhões na B3 em 16 de julho",
+    "titulo_original": "Estrangeiros registram aportes de mais de R$ 58 milhões na B3 em 16 de julho",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 09:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada líquida de capital estrangeiro na B3, mesmo em um dia de queda do Ibovespa, sugere confiança em ativos brasileiros. Se essa tendência de aportes se mantiver, pode sustentar o mercado acionário local; caso contrário, uma reversão pode indicar cautela dos investidores internacionais.",
+    "is_stocks": true
   }
 ]
