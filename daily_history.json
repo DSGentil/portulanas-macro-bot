@@ -449,5 +449,74 @@
     "origem": "ambas",
     "leitura_critica": "A notícia indica que as preocupações com juros domésticos superam o otimismo gerado por um possível diálogo EUA-Irã para o Ibovespa. Se os dados de inflação e as decisões futuras do Copom indicarem um cenário de juros mais altos por mais tempo, isso pode continuar a pressionar a bolsa; uma melhora no cenário de juros pode impulsionar o índice.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784572253.8811216,
+    "titulo": "Ouro fecha estável enquanto investidores avaliam desdobramentos de tensão no Golfo Pérsico",
+    "titulo_original": "Ouro fecha estável enquanto investidores avaliam desdobramentos de tensão no Golfo Pérsico",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 14:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A estabilidade do ouro reflete a cautela dos investidores diante de tensões geopolíticas que podem gerar pressões inflacionárias. Se o Federal Reserve sinalizar uma postura mais dura em relação aos juros, isso pode sustentar o ouro como ativo de refúgio; caso contrário, a ausência de novos dados econômicos pode limitar os movimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784572257.5606146,
+    "titulo": "Real lidera ranking de ‘carry trade’ entre moedas emergentes",
+    "titulo_original": "Real lidera ranking de ‘carry trade’ entre moedas emergentes",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 14:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O Real liderar o ranking de carry trade indica um cenário de maior apetite por risco em mercados emergentes, impulsionado por taxas de juros elevadas. Se as tensões geopolíticas se intensificarem, a proteção oferecida pelas commodities pode mitigar parte do risco, mas uma reversão abrupta no apetite por risco global pode reverter rapidamente esse cenário para o Real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784572261.0515668,
+    "titulo": "Trump: Irã pagará muitas vezes mais pela morte de soldados americanos",
+    "titulo_original": "Trump: Iran will pay for killing American soldiers many times over",
+    "fonte": "ForexLive",
+    "publicado": "20/07 14:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre o Irã intensifica as tensões geopolíticas, o que pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas. Se essa retórica levar a um conflito mais amplo, o impacto no WDO pode ser significativo através do canal de aversão ao risco; caso contrário, pode se dissipar como um ruído político.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784572264.586831,
+    "titulo": "Ouro fecha perto da estabilidade com juros dos Treasuries e dólar",
+    "titulo_original": "Ouro fecha perto da estabilidade com juros dos Treasuries e dólar",
+    "fonte": "Money Times",
+    "publicado": "20/07 15:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A leve baixa do ouro, influenciada pelos juros dos Treasuries e pelo dólar, sugere um cenário de menor atratividade para ativos de refúgio. Se os juros nos EUA permanecerem elevados, isso pode continuar pressionando o ouro; uma eventual queda nos juros americanos, no entanto, tenderia a impulsionar o metal precioso.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784572268.937711,
+    "titulo": "Exportadoras de commodities serão destaques nos balanços do 2º trimestre, projeta Santander",
+    "titulo_original": "Exportadoras de commodities serão destaques nos balanços do 2º trimestre, projeta Santander",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 14:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A projeção do Santander indica um cenário de resultados corporativos divergentes, com commodities beneficiadas por tensões geopolíticas e empresas domésticas sofrendo com juros altos e riscos fiscais. Se as tensões no Oriente Médio persistirem, o setor de commodities pode continuar a apresentar bons resultados; caso contrário, a desaceleração doméstica pode se acentuar com a manutenção de juros elevados.",
+    "is_stocks": true
   }
 ]
