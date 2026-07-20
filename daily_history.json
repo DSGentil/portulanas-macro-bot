@@ -370,5 +370,84 @@
     "origem": "externa",
     "leitura_critica": "O avanço da GE Aerospace em voo híbrido-elétrico representa um passo significativo para a sustentabilidade na aviação. Se essa tecnologia se provar viável em larga escala, pode impactar o futuro da indústria aeroespacial e reduzir a dependência de combustíveis fósseis.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784565955.2323744,
+    "titulo": "Boletim Focus: mercado mantém projeção para Selic e reduz marginalmente a inflação para 2026 - ADVFN",
+    "titulo_original": "Boletim Focus: mercado mantém projeção para Selic e reduz marginalmente a inflação para 2026 - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/07 08:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da projeção para a Selic sugere que o mercado precifica um cenário de juros mais estáveis no curto prazo, enquanto a leve redução na projeção de inflação para 2026 pode ser interpretada como um sinal positivo. Se os próximos dados de inflação vierem abaixo do esperado, isso pode abrir espaço para discussões sobre cortes de juros mais adiante no ano.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784565959.1905272,
+    "titulo": "Economia cresce em maio, mas dá sinais de arrefecimento, diz Claudio Considera, da FGV",
+    "titulo_original": "Economia cresce em maio, mas dá sinais de arrefecimento, diz Claudio Considera, da FGV",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 12:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento da economia em maio, embora positivo, é acompanhado por sinais de desaceleração, o que pode indicar uma moderação no ritmo de expansão. Se os sinais de arrefecimento se confirmarem nos próximos meses, isso pode levar o Banco Central a reconsiderar o ritmo de cortes de juros, dependendo da trajetória da inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784565963.308071,
+    "titulo": "Focus mantém dólar a R$ 5,20 no fim de 2026 pela quinta semana - Canal Rural",
+    "titulo_original": "Focus mantém dólar a R$ 5,20 no fim de 2026 pela quinta semana - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/07 08:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade na projeção do dólar para o fim de 2026, mantida por cinco semanas, sugere que o mercado precifica um cenário de relativa estabilidade cambial. Se houver mudanças significativas no cenário econômico doméstico ou externo, essa projeção pode ser revista.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784565967.2142994,
+    "titulo": "Estreito de Ormuz tem tráfego quase paralisado em meio à escalada entre EUA e Irã - Bloomberg Línea Brasil",
+    "titulo_original": "Estreito de Ormuz tem tráfego quase paralisado em meio à escalada entre EUA e Irã - Bloomberg Línea Brasil",
+    "fonte": "Google News Geopolitica",
+    "publicado": "20/07 08:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A paralisação do tráfego no Estreito de Ormuz é um ponto crítico para o fornecimento global de petróleo. Se a situação se agravar, isso pode levar a um aumento significativo nos preços do petróleo e impactar a inflação global; uma desescalada pode trazer alívio aos mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784565972.2538304,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta sustentar os 174 mil pontos - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta sustentar os 174 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "20/07 10:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A dificuldade do Ibovespa em sustentar os 174 mil pontos sugere que o mercado está aguardando novos catalisadores ou digerindo informações recentes. Se o cenário externo se estabilizar e as preocupações com juros domésticos diminuírem, a bolsa pode encontrar força para avançar; caso contrário, a volatilidade deve persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784565972.2546556,
+    "titulo": "Sinal de diálogo EUA-Irã é incapaz de animar Ibovespa, com cautela e focando juros - InfoMoney",
+    "titulo_original": "Sinal de diálogo EUA-Irã é incapaz de animar Ibovespa, com cautela e focando juros - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "20/07 12:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia indica que as preocupações com juros domésticos superam o otimismo gerado por um possível diálogo EUA-Irã para o Ibovespa. Se os dados de inflação e as decisões futuras do Copom indicarem um cenário de juros mais altos por mais tempo, isso pode continuar a pressionar a bolsa; uma melhora no cenário de juros pode impulsionar o índice.",
+    "is_stocks": true
   }
 ]
