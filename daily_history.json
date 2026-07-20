@@ -518,5 +518,74 @@
     "origem": "ambas",
     "leitura_critica": "A projeção do Santander indica um cenário de resultados corporativos divergentes, com commodities beneficiadas por tensões geopolíticas e empresas domésticas sofrendo com juros altos e riscos fiscais. Se as tensões no Oriente Médio persistirem, o setor de commodities pode continuar a apresentar bons resultados; caso contrário, a desaceleração doméstica pode se acentuar com a manutenção de juros elevados.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784579571.8240867,
+    "titulo": "Risco tributário de fornecedores deve entrar no radar das médias",
+    "titulo_original": "Risco tributário de fornecedores deve entrar no radar das médias",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 16:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A obrigatoriedade de destacar a CBS e o IBS nas notas fiscais representa uma mudança regulatória concreta com impacto direto nas operações das empresas. Se as plataformas das Secretarias de Fazenda não estiverem prontas para o novo formato, pode haver um gargalo na emissão de notas, afetando o fluxo de caixa das empresas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784579575.2617853,
+    "titulo": "Dólar recua a R$ 5,08 e dribla aversão a risco com otimismo doméstico",
+    "titulo_original": "Dólar recua a R$ 5,08 e dribla aversão a risco com otimismo doméstico",
+    "fonte": "Money Times",
+    "publicado": "20/07 17:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A valorização do real frente ao dólar, apesar da aversão a risco global, sugere que fatores domésticos estão influenciando o câmbio. Se o otimismo doméstico se mantiver e os conflitos externos se acalmarem, o dólar pode continuar sua trajetória de queda; caso contrário, a aversão a risco pode retornar e pressionar a moeda brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784579578.751022,
+    "titulo": "Líder do Iêmen apoiado por sauditas diz que retomará exportações de petróleo",
+    "titulo_original": "Líder do Iêmen apoiado por sauditas diz que retomará exportações de petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 17:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A retomada das exportações de petróleo do Iêmen pode aliviar a pressão sobre os preços globais da commodity. Se os Houthis mantiverem o bloqueio, a instabilidade na região pode persistir, impactando o fluxo de petróleo e a volatilidade nos mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784579582.2125373,
+    "titulo": "Petróleo termina o dia em alta após pregão volátil com tensões no Oriente Médio",
+    "titulo_original": "Petróleo termina o dia em alta após pregão volátil com tensões no Oriente Médio",
+    "fonte": "Valor Economico",
+    "publicado": "20/07 16:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tensões no Oriente Médio e o anúncio de bloqueio marítimo pelos Houthis elevam o risco geopolítico e impactam diretamente o preço do petróleo. Se a retórica entre EUA e Irã se intensificar, o petróleo pode continuar sua trajetória de alta, afetando custos de produção e transporte globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784579585.6286159,
+    "titulo": "Reino Unido troca de premiê pela 7ª vez desde o Brexit e mercado reage com queda da libra e alta dos juros",
+    "titulo_original": "Reino Unido troca de premiê pela 7ª vez desde o Brexit e mercado reage com queda da libra e alta dos juros",
+    "fonte": "Money Times",
+    "publicado": "20/07 16:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A troca de primeiro-ministro no Reino Unido aumenta a incerteza fiscal e impacta diretamente os juros e a moeda local. Se a nova gestão não apresentar um plano fiscal claro e crível, a pressão sobre a libra e os juros pode persistir, afetando a confiança dos investidores no mercado britânico.",
+    "is_stocks": false
   }
 ]
