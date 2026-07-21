@@ -1,86 +1,5 @@
 [
   {
-    "_timestamp": 1784553354.7030914,
-    "titulo": "Economistas diminuem previsão da inflação pela terceira semana seguida",
-    "titulo_original": "Economistas diminuem previsão da inflação pela terceira semana seguida",
-    "fonte": "Folha Mercado",
-    "publicado": "20/07 08:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução na previsão da inflação, mesmo que em ritmo menor, é um sinal positivo para a economia. Se essa tendência de desaceleração se confirmar, pode abrir espaço para o Banco Central considerar uma política monetária mais branda no futuro; caso contrário, a persistência de pressões inflacionárias pode manter os juros em patamares elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784553359.4169335,
-    "titulo": "Juros futuros sobem com pressão externa e de olho em expectativas de inflação",
-    "titulo_original": "Juros futuros sobem com pressão externa e de olho em expectativas de inflação",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 09:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta dos juros futuros, impulsionada por fatores externos (Treasuries) e domésticos (expectativas de inflação), indica um cenário de maior cautela no mercado. Se as expectativas de inflação continuarem a subir, o Banco Central pode ser pressionado a manter uma política monetária restritiva; se houver uma reversão nesse cenário, os juros futuros podem ceder.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784553364.1255028,
-    "titulo": "Acompanhe a cotação do dólar nesta segunda-feira (20)",
-    "titulo_original": "Acompanhe a cotação do dólar nesta segunda-feira (20)",
-    "fonte": "Folha Mercado",
-    "publicado": "20/07 09:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A cotação do dólar está sendo influenciada por fatores domésticos, como a resposta a tarifas americanas, e externos, como o conflito no Oriente Médio. Se o Brasil adotar uma postura mais protecionista em resposta às tarifas, o dólar pode se desvalorizar; a escalada do conflito, por outro lado, tende a fortalecer o dólar como ativo de refúgio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784553368.8794174,
-    "titulo": "Dólar tem leve queda e real se alinha a pares, de olho em quadro geopolítico",
-    "titulo_original": "Dólar têm leve queda e real se alinha a pares, de olho em quadro geopolítico",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 09:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A leve desvalorização do dólar e a valorização do real sugerem um alívio temporário nas tensões globais, mas a atenção se volta para o cenário geopolítico. Se a volatilidade do petróleo aumentar devido ao conflito, o dólar pode se fortalecer como ativo de refúgio; caso contrário, o real pode manter a tendência de valorização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784553374.6239522,
-    "titulo": "Mercados europeus fecham: petróleo recua, ações sobem com Irã tocando propostas de mediação",
-    "titulo_original": "investingLive European markets wrap: Oil retreats, equities bounce as Iran touches on mediation proposals",
-    "fonte": "ForexLive",
-    "publicado": "20/07 09:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A menção de propostas de mediação pelo Irã sugere uma possível diminuição das tensões geopolíticas, o que tende a aliviar a pressão sobre os preços do petróleo. Se a diplomacia prevalecer, o cenário de inflação global pode se tornar mais favorável, impactando as decisões de política monetária de bancos centrais como o BCE.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784553374.6245196,
-    "titulo": "Estrangeiros registram aportes de mais de R$ 58 milhões na B3 em 16 de julho",
-    "titulo_original": "Estrangeiros registram aportes de mais de R$ 58 milhões na B3 em 16 de julho",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 09:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada líquida de capital estrangeiro na B3, mesmo em um dia de queda do Ibovespa, sugere confiança em ativos brasileiros. Se essa tendência de aportes se mantiver, pode sustentar o mercado acionário local; caso contrário, uma reversão pode indicar cautela dos investidores internacionais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784560550.6499813,
     "titulo": "Os vilões do prato feito: inflação do feijão e do óleo diesel encarecem o almoço do brasileiro",
     "titulo_original": "Os vilões do prato feito: inflação do feijão e do óleo diesel encarecem o almoço do brasileiro",
@@ -1086,6 +1005,100 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A distribuição de dividendos por empresas brasileiras pode ser uma fonte de atratividade para investidores em busca de renda passiva. Se a rentabilidade dessas distribuições superar outras opções de investimento, isso pode impulsionar o interesse em ações de empresas com histórico de bons pagamentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784665847.6101995,
+    "titulo": "Imposto sobre exportação de petróleo gerou R$ 9,6 bilhões adicionais em royalties no primeiro semestre, diz IBP",
+    "titulo_original": "Imposto sobre exportação de petróleo gerou R$ 9,6 bilhões adicionais em royalties no primeiro semestre, diz IBP - Agência eixos",
+    "fonte": "Google News Commodities",
+    "publicado": "21/07 16:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na arrecadação de royalties devido ao imposto sobre exportação de petróleo pode ter um impacto positivo nas contas públicas. Se essa tendência se mantiver, pode aliviar a pressão sobre o orçamento ou permitir maiores investimentos em áreas específicas, dependendo da destinação desses recursos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784665851.0563455,
+    "titulo": "Governo se reúne com setores afetados por tarifaço, que pedem reforço a medidas",
+    "titulo_original": "Governo se reúne com setores afetados por tarifaço, que pedem reforço a medidas",
+    "fonte": "Folha Mercado",
+    "publicado": "21/07 16:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A reunião indica que as tarifas impostas pelos EUA estão gerando preocupações significativas no setor produtivo brasileiro, que busca mitigar os impactos. Se o governo brasileiro não oferecer contrapartidas ou medidas de apoio eficazes, a competitividade das indústrias afetadas pode ser comprometida, impactando a balança comercial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784665854.5094392,
+    "titulo": "Canada Carney: Latest tariff threat are a violation of USMCA",
+    "titulo_original": "Canada Carney: Latest tariff threat are a violation of USMCA",
+    "fonte": "ForexLive",
+    "publicado": "21/07 12:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A disputa comercial entre Canadá e EUA, com ameaças de tarifas, pode gerar volatilidade nos mercados globais e afetar cadeias de suprimentos. A intensificação das negociações comerciais é um passo positivo, mas a incerteza sobre a aplicação das tarifas pode persistir, impactando o sentimento do investidor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784665857.9387336,
+    "titulo": "Premiê do Canadá diz que intensificará negociações comerciais com Trump",
+    "titulo_original": "Premiê do Canadá diz que intensificará negociações comerciais com Trump",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 15:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão de intensificar as negociações comerciais entre Canadá e EUA, apesar das ameaças de tarifas, sugere um esforço para evitar um conflito comercial mais amplo. Se as negociações forem bem-sucedidas, isso pode trazer mais estabilidade ao cenário internacional; caso contrário, a aplicação das tarifas pode gerar volatilidade e impactar o sentimento do investidor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784665862.8491225,
+    "titulo": "Dividendos crescem na B3 e somam US$ 6,3 bilhões, com destaque para uma empresa; recompras de ações recuam",
+    "titulo_original": "Dividendos crescem na B3 e somam US$ 6,3 bilhões, com destaque para uma empresa; recompras de ações recuam",
+    "fonte": "Money Times",
+    "publicado": "21/07 16:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento nos dividendos distribuídos pelas empresas da B3 indica uma melhora na rentabilidade corporativa e uma política de remuneração aos acionistas mais generosa. Se a tendência de recompra de ações em queda persistir, pode sugerir que as empresas preferem distribuir lucros em vez de investir na própria estrutura ou em aquisições.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784665862.850825,
+    "titulo": "Zema propõe tirar controle da Petrobras do governo e transformar a estatal em 'corporation' - G1",
+    "titulo_original": "Zema propõe tirar controle da Petrobras do governo e transformar a estatal em 'corporation' - G1",
+    "fonte": "Google News Acoes",
+    "publicado": "21/07 13:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de transformar a Petrobras em uma 'corporation' pode alterar a dinâmica de governança e a relação com o acionista controlador. Se a proposta avançar, pode haver maior autonomia para a gestão da empresa, com potenciais impactos na estratégia de investimentos e na política de preços, mas a concretização depende de aprovações e debates políticos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784665862.8525517,
+    "titulo": "BB faz ofensiva para recuperar confiança do mercado e ações sobem 3%",
+    "titulo_original": "BB faz ofensiva para recuperar confiança do mercado e ações sobem 3%",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 16:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta de quase 3% nas ações do Banco do Brasil reflete uma melhora na percepção do mercado sobre a saúde financeira da instituição. Se a estratégia de comunicação e as medidas para reverter a deterioração da carteira de crédito forem bem-sucedidas, isso pode consolidar a recuperação da confiança e sustentar o desempenho positivo das ações.",
     "is_stocks": true
   }
 ]
