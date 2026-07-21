@@ -1039,5 +1039,117 @@
     "origem": "domestica",
     "leitura_critica": "A análise da Moody's sobre a Petrobras sugere que, apesar do cenário favorável de alta do petróleo, intervenções governamentais podem limitar os resultados da empresa. Se essas medidas governamentais forem de caráter fiscal ou regulatório, podem impactar a previsibilidade de investimentos no setor e a arrecadação fiscal.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784652351.6880543,
+    "titulo": "Soja brasileira atinge maior cotação do ano: R$ 142,65 a saca",
+    "titulo_original": "Soja brasileira atinge maior cotação do ano: R$ 142,65 a saca - CNN Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "21/07 08:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da cotação da soja brasileira pode ser impulsionado por fatores de oferta e demanda globais. Se essa tendência se mantiver, pode beneficiar o agronegócio brasileiro e a balança comercial do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784652356.2976668,
+    "titulo": "Abertura | Tarifaço e Vale ficam no radar do mercado em meio a dúvidas sobre conflito EUA-Irã",
+    "titulo_original": "Abertura | Tarifaço e Vale ficam no radar do mercado em meio a dúvidas sobre conflito EUA-Irã - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "21/07 09:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A notícia aponta para a influência de fatores domésticos (tarifaço, Vale) e externos (conflito EUA-Irã) no radar do mercado. A resolução das tensões no Oriente Médio pode trazer maior clareza para o cenário de risco global, impactando o desempenho de ativos como a Vale.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784652360.797952,
+    "titulo": "China avalia endurecer controle de exportação de IA e chips",
+    "titulo_original": "China avalia endurecer controle de exportação de IA e chips",
+    "fonte": "Folha Mercado",
+    "publicado": "21/07 13:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia aponta para uma possível mudança na política de exportação da China em tecnologias sensíveis. Se implementada, essa medida pode afetar o fluxo de tecnologia e a cadeia de suprimentos global, especialmente em setores de alta tecnologia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784652365.3609788,
+    "titulo": "Tráfego em Ormuz cai ao menor nível em 3 semanas",
+    "titulo_original": "Tráfego em Ormuz cai ao menor nível em 3 semanas",
+    "fonte": "Money Times",
+    "publicado": "21/07 12:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A redução do tráfego no Estreito de Ormuz pode indicar uma diminuição na atividade comercial na região, possivelmente influenciada por tensões geopolíticas. Isso pode ter implicações no transporte marítimo e no custo de fretes, mas a notícia não detalha o impacto direto em canais específicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784652371.325375,
+    "titulo": "Petróleo sobe mais de 2% e atinge maior valor desde 11 de junho",
+    "titulo_original": "Petróleo sobe mais de 2% e atinge maior valor desde 11 de junho",
+    "fonte": "Folha Mercado",
+    "publicado": "21/07 11:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento significativo no preço do petróleo pode ser atribuído a tensões geopolíticas na região do Oriente Médio. Se os bloqueios no Estreito de Ormuz persistirem, o preço do petróleo pode superar US$ 120, impactando a inflação global e os custos de produção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784652371.3268063,
+    "titulo": "Petróleo pode superar US$ 120 se bloqueios no Estreito de Ormuz persistirem, diz Goldman Sachs",
+    "titulo_original": "Petróleo pode superar US$ 120 se bloqueios no Estreito de Ormuz persistirem, diz Goldman Sachs - O GLOBO",
+    "fonte": "Google News Commodities",
+    "publicado": "21/07 08:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A projeção do Goldman Sachs para o preço do petróleo destaca o risco de escalada devido aos bloqueios no Estreito de Ormuz. Se essa previsão se concretizar, o impacto inflacionário global e nos custos de energia será considerável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784652371.328894,
+    "titulo": "Bolsas sobem na Europa com apoio de 'techs' e apesar de tensões no Oriente Médio",
+    "titulo_original": "Bolsas sobem na Europa com apoio de 'techs' e apesar de tensões no Oriente Médio",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 13:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O desempenho positivo das bolsas europeias, especialmente no setor de tecnologia, sugere resiliência do mercado apesar de fatores de risco geopolítico. A taxa de desemprego no Reino Unido em 4,9% contribui para o quadro macroeconômico europeu, mas não é um fator de alta isolado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784652371.3306496,
+    "titulo": "Ibovespa recua na contramão de NY, à espera de resultados do 2º tri; dólar cai",
+    "titulo_original": "Ibovespa recua na contramão de NY, à espera de resultados do 2º tri; dólar cai - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/07 13:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre o Ibovespa e as bolsas de Nova York, juntamente com a queda do dólar, sugere que o mercado brasileiro está precificando fatores domésticos, como a espera por resultados corporativos. Se os resultados do 2º tri vierem fracos, o Ibovespa pode continuar sob pressão; se forem positivos, pode haver recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784652371.3322356,
+    "titulo": "Sem site e app, Lojas Cem desacelera e ganha dinheiro com juros",
+    "titulo_original": "Sem site e app, Lojas Cem desacelera e ganha dinheiro com juros",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 13:01",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia foca no desempenho financeiro de uma empresa específica, mencionando que ela se beneficia de juros. Isso indica que o cenário de juros altos pode ser vantajoso para algumas empresas em suas operações financeiras, mas não reflete uma decisão macroeconômica.",
+    "is_stocks": true
   }
 ]
