@@ -1,179 +1,5 @@
 [
   {
-    "_timestamp": 1784545315.2558165,
-    "titulo": "A queda da Selic não significa crédito barato — e esse é um erro que ainda custa caro",
-    "titulo_original": "A queda da Selic não significa crédito barato — e esse é um erro que ainda custa caro - Monitor Mercantil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/07 15:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise aponta para uma complexidade na relação entre a taxa básica de juros e o custo efetivo do crédito para o consumidor e empresas. Se a percepção de crédito barato persistir apesar da queda da Selic, isso pode levar a um endividamento excessivo e a dificuldades financeiras futuras para alguns agentes econômicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784545318.7689123,
-    "titulo": "Fim da Moratória da Soja pode aumentar em 17% desmatamento na Amazônia",
-    "titulo_original": "Fim da Moratória da Soja pode aumentar em 17% desmatamento na Amazônia - ClimaInfo",
-    "fonte": "Google News Commodities",
-    "publicado": "19/07 21:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para um grave risco ambiental e social associado ao fim da Moratória da Soja. Se a moratória for encerrada, o aumento previsto no desmatamento pode ter consequências negativas para o clima, a biodiversidade e as comunidades locais. Isso pode gerar pressão por novas regulamentações ou políticas de conservação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784545322.23103,
-    "titulo": "Tendências 20/07/2026 | das principais ações da Bolsa - XP Investimentos",
-    "titulo_original": "Tendências 20/07/2026 | das principais ações da Bolsa - XP Investimentos",
-    "fonte": "Google News Acoes",
-    "publicado": "19/07 21:08",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia oferece uma perspectiva de mercado sobre ações específicas, sem detalhar os fatores macroeconômicos que influenciam essas tendências. Se as tendências apontadas se confirmarem, isso pode indicar setores com maior potencial de crescimento ou risco no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784545325.71963,
-    "titulo": "Congresso vê nova operação do governo Lula para comandar Vale e fala em CPI",
-    "titulo_original": "Congresso vê nova operação do governo Lula para comandar Vale e fala em CPI - CNN Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "18/07 19:37",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia sugere uma possível intervenção governamental na gestão da Vale, o que pode gerar incertezas para investidores e para o setor de mineração. Se uma CPI for instaurada, as investigações podem expor questões relevantes sobre a governança da empresa e a relação com o governo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784545330.5647364,
-    "titulo": "Redução do balanço do Fed seria baixista para o dólar, diz Deutsche Bank",
-    "titulo_original": "Redução do balanço do Fed seria baixista para o dólar, diz Deutsche Bank - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/07 16:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A perspectiva de que a redução do balanço do Fed enfraqueça o dólar sugere uma mudança no cenário monetário americano. Se o Fed de fato iniciar a redução de seu balanço, isso pode levar a uma desvalorização do dólar frente a outras moedas, impactando o comércio internacional e os investimentos globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784545330.5650792,
-    "titulo": "Zema promete privatizar Petrobras e Banco do Brasil e usar recursos em obras de infraestrutura",
-    "titulo_original": "Zema promete privatizar Petrobras e Banco do Brasil e usar recursos em obras de infraestrutura - G1",
-    "fonte": "Google News Acoes",
-    "publicado": "18/07 15:33",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de privatização de estatais como Petrobras e Banco do Brasil, se concretizada, teria um impacto significativo na estrutura econômica do país e na arrecadação fiscal. Se essas privatizações avançarem, podem gerar receitas importantes para investimentos em infraestrutura, mas também levantam debates sobre o papel do Estado na economia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784547095.91108,
-    "titulo": "Mesmo após revisões de bancos, estas 4 ações ainda têm potencial de alta de até 115%",
-    "titulo_original": "Mesmo após revisões de bancos, estas 4 ações ainda têm potencial de alta de até 115%",
-    "fonte": "Money Times",
-    "publicado": "20/07 08:15",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "acoes"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica que, apesar das revisões de bancos e do cenário de juros, algumas ações ainda apresentam potencial de alta. Se as empresas em questão apresentarem resultados sólidos e o cenário macroeconômico se mostrar favorável, o potencial de valorização pode se concretizar; caso contrário, as revisões podem ter sido otimistas demais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784547099.3233492,
-    "titulo": "Podcast: os primeiros impactos e reações ao tarifaço de Trump no comércio e na diplomacia",
-    "titulo_original": "Podcast: os primeiros impactos e reações ao tarifaço de Trump no comércio e na diplomacia",
-    "fonte": "Folha Mercado",
-    "publicado": "20/07 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A imposição de tarifas pelos EUA sobre produtos brasileiros representa uma decisão regulatória com impacto direto no comércio bilateral. Se o Brasil aplicar a Lei da Reciprocidade Econômica de forma efetiva, isso pode gerar retaliações e afetar o fluxo de comércio; caso contrário, as negociações diplomáticas podem buscar uma solução menos conflituosa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784547102.7235487,
-    "titulo": "Manhã no mercado: Petróleo segue como principal guia para os ativos globais",
-    "titulo_original": "Manhã no mercado: Petróleo segue como principal guia para os ativos globais",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 08:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A notícia destaca o petróleo como principal condutor dos mercados globais em meio a tensões geopolíticas. Se o conflito entre EUA e Irã se intensificar, os preços do petróleo podem disparar, afetando a inflação e o crescimento global; caso contrário, a estabilização dos preços pode trazer mais previsibilidade aos mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784547106.1643755,
-    "titulo": "EUA atacam usina nuclear do Irã em construção e Teerã pede que ONU condene ação - G1",
-    "titulo_original": "EUA atacam usina nuclear do Irã em construção e Teerã pede que ONU condene ação - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "20/07 06:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O ataque dos EUA a uma usina nuclear iraniana em construção representa uma escalada significativa nas tensões geopolíticas. Se a ONU condenar a ação e houver uma resposta mais forte do Irã, isso pode levar a um aumento da volatilidade nos mercados globais, especialmente no petróleo; caso contrário, a situação pode se estabilizar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784547110.978023,
-    "titulo": "Ibovespa hoje: Focus, tarifas dos EUA e tensão no Oriente Médio movimentam o mercado - Estadão",
-    "titulo_original": "Ibovespa hoje: Focus, tarifas dos EUA e tensão no Oriente Médio movimentam o mercado - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "20/07 06:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "acoes"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A notícia aponta para múltiplos fatores influenciando o Ibovespa: o relatório Focus (expectativas econômicas), as tarifas dos EUA (impacto comercial) e a tensão no Oriente Médio (risco geopolítico). Se os dados do Focus vierem piores que o esperado, as tarifas se concretizarem e a tensão no Oriente Médio aumentar, o Ibovespa pode sofrer quedas mais expressivas; caso contrário, a recuperação pode ser impulsionada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784547110.9784594,
-    "titulo": "Índice Small Caps ganha liquidez em relação ao Ibovespa. Mas o filme é bem diferente da foto - NeoFeed",
-    "titulo_original": "Índice Small Caps ganha liquidez em relação ao Ibovespa. Mas o filme é bem diferente da foto - NeoFeed",
-    "fonte": "Google News Acoes",
-    "publicado": "20/07 07:55",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "acoes"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento de liquidez no Índice Small Caps pode indicar maior interesse em empresas de menor capitalização. Se essa tendência se mantiver e for acompanhada por bons resultados corporativos, pode haver valorização nesses ativos; caso contrário, a liquidez pode ser um reflexo de menor volume negociado em outras partes do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784547110.979001,
-    "titulo": "Dividendos: Fundos imobiliários pagam até R$ 15 por cota nesta semana; IFIX amplia ganhos em julho",
-    "titulo_original": "Dividendos: Fundos imobiliários pagam até R$ 15 por cota nesta semana; IFIX amplia ganhos em julho",
-    "fonte": "Money Times",
-    "publicado": "20/07 08:04",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "acoes"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre o pagamento de dividendos por fundos imobiliários e a valorização do IFIX. Se a distribuição de rendimentos continuar robusta e o cenário para o mercado imobiliário se mantiver favorável, os fundos imobiliários podem continuar a atrair investidores; caso contrário, a performance do IFIX pode ser afetada por outros fatores macroeconômicos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784553354.7030914,
     "titulo": "Economistas diminuem previsão da inflação pela terceira semana seguida",
     "titulo_original": "Economistas diminuem previsão da inflação pela terceira semana seguida",
@@ -1150,6 +976,116 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A notícia foca no desempenho financeiro de uma empresa específica, mencionando que ela se beneficia de juros. Isso indica que o cenário de juros altos pode ser vantajoso para algumas empresas em suas operações financeiras, mas não reflete uma decisão macroeconômica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784658646.5755997,
+    "titulo": "Dólar opera em queda com suporte do petróleo, mas movimento é limitado - UOL Economia",
+    "titulo_original": "Dólar opera em queda com suporte do petróleo, mas movimento é limitado - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/07 11:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda limitada do dólar, apesar do suporte do petróleo, sugere que outros fatores estão atuando para conter sua desvalorização. Se o preço do petróleo continuar a subir, isso pode dar mais fôlego à queda do dólar; caso contrário, outros drivers podem prevalecer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784658650.3010492,
+    "titulo": "Custo da soja sobe para R$ 4,3 mil por hectare no Mato Grosso - Agrolink",
+    "titulo_original": "Custo da soja sobe para R$ 4,3 mil por hectare no Mato Grosso - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "21/07 13:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do custo da soja no Mato Grosso pode impactar a rentabilidade dos produtores. Se os preços de venda da soja não acompanharem essa alta de custos, a margem de lucro dos agricultores pode ser reduzida, afetando o setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784658654.0149758,
+    "titulo": "Ouro tem forte avanço, mas segue negociado em faixa restrita com Fed no radar",
+    "titulo_original": "Ouro tem forte avanço, mas segue negociado em faixa restrita com Fed no radar",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 15:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O avanço do ouro, mesmo com a alta dos rendimentos dos Treasuries, sugere que os riscos geopolíticos estão pesando mais no momento. Se o Fed sinalizar uma postura mais dovish em suas próximas comunicações, o ouro pode encontrar espaço para ganhos mais expressivos; caso contrário, a pressão de juros pode limitar sua alta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784658657.7505934,
+    "titulo": "Tensão no Oriente Médio se intensifica",
+    "titulo_original": "Tension in the middle east intensifies",
+    "fonte": "ForexLive",
+    "publicado": "21/07 15:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio aumenta a incerteza geopolítica e pode impactar o preço do petróleo e o fluxo de capital global. Se os confrontos se intensificarem, o risco de interrupções no fornecimento de energia pode crescer, afetando a economia mundial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784658662.8487244,
+    "titulo": "TSMC deve elevar ainda mais custos da IA: o que isso significa para a Intel?",
+    "titulo_original": "TSMC deve elevar ainda mais custos da IA: o que isso significa para a Intel?",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 13:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento de preços da TSMC pode pressionar os custos de produção para empresas de tecnologia que dependem de seus chips, como a Intel. Se a Intel não conseguir repassar esses custos ou encontrar alternativas, sua margem de lucro pode ser afetada, impactando seu desempenho no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784658662.8504102,
+    "titulo": "Google atualiza modelos Gemini leves, mas carro-chefe de IA continua atrasado",
+    "titulo_original": "Google atualiza modelos Gemini leves, mas carro-chefe de IA continua atrasado",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 13:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O adiamento do Gemini 3.5 Pro levanta questões sobre o ritmo de desenvolvimento do Google em IA avançada. Se a concorrência, como Anthropic e OpenAI, continuar a lançar modelos de ponta, o Google pode perder espaço no mercado de IA corporativa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784658662.8521624,
+    "titulo": "Londres criará outra Bolsa para funcionar à noite e permitir negociações 24 horas por dia",
+    "titulo_original": "Londres criará outra Bolsa para funcionar à noite e permitir negociações 24 horas por dia",
+    "fonte": "Folha Mercado",
+    "publicado": "21/07 11:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A criação de uma bolsa com operação 24 horas pela LSE visa aumentar a liquidez e a acessibilidade para investidores globais. Se a iniciativa for bem-sucedida, pode atrair mais volume de negociação e influenciar a dinâmica de outros mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784658662.8538227,
+    "titulo": "Bons resultados de companhias de IA podem “roubar” fluxo da Bolsa brasileira, diz analista; veja os destaques do Giro desta terça (21)",
+    "titulo_original": "Bons resultados de companhias de IA podem “roubar” fluxo da Bolsa brasileira, diz analista; veja os destaques do Giro desta terça (21)",
+    "fonte": "Money Times",
+    "publicado": "21/07 14:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A observação de que o desempenho de empresas de IA pode impactar o fluxo para a Bolsa brasileira é relevante em um contexto de busca por rentabilidade. Se os resultados de IA continuarem fortes, isso pode intensificar a competição por capital de investidores globais e domésticos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784658662.8554554,
+    "titulo": "Nem só de Selic vive o investidor: empresas brasileiras distribuem US$ 6,3 bilhões em dividendos — quem é a vaca leiteira que puxa essa fila?",
+    "titulo_original": "Nem só de Selic vive o investidor: empresas brasileiras distribuem US$ 6,3 bilhões em dividendos — quem é a vaca leiteira que puxa essa fila? - Seu Dinheiro",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/07 11:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A distribuição de dividendos por empresas brasileiras pode ser uma fonte de atratividade para investidores em busca de renda passiva. Se a rentabilidade dessas distribuições superar outras opções de investimento, isso pode impulsionar o interesse em ações de empresas com histórico de bons pagamentos.",
     "is_stocks": true
   }
 ]
