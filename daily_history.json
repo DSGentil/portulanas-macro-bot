@@ -940,5 +940,104 @@
     "origem": "domestica",
     "leitura_critica": "O acordo entre a Abra e a Embraer para a compra de jatos E195-E2 é um sinal positivo para o setor aéreo e para a fabricante brasileira. Se a demanda por esses modelos se mantiver, pode haver um impacto favorável nos resultados da Embraer. A notícia, contudo, não afeta diretamente os canais macroeconômicos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784647265.054323,
+    "titulo": "Empresários industriais continuam insatisfeitos no 2º trimestre, aponta CNI",
+    "titulo_original": "Empresários industriais continuam insatisfeitos no 2º trimestre, aponta CNI",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 11:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistente insatisfação dos empresários industriais, atribuída a juros elevados e custos de insumos, sugere um cenário de atividade econômica ainda restrita. Se os juros permanecerem altos, a recuperação do setor industrial pode ser mais lenta, impactando a geração de empregos e o crescimento do PIB.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784647269.6086347,
+    "titulo": "Burnham reduz imposto sobre energia para aliviar custo de vida no Reino Unido",
+    "titulo_original": "Burnham reduz imposto sobre energia para aliviar custo de vida no Reino Unido",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 10:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A redução do IVA sobre a eletricidade no Reino Unido representa uma medida fiscal de alívio ao consumidor, o que pode ter implicações na inflação e no déficit público. Se o financiamento dessa medida não for claro, pode gerar preocupações no mercado de títulos sobre a sustentabilidade fiscal do governo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784647274.2008111,
+    "titulo": "Trump deve anunciar novas tarifas nesta semana para substituir taxas que vencerão",
+    "titulo_original": "Trump deve anunciar novas tarifas nesta semana para substituir taxas que vencerão",
+    "fonte": "Folha Mercado",
+    "publicado": "21/07 10:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O anúncio de novas tarifas por Donald Trump pode gerar volatilidade nos mercados globais, impactando cadeias de suprimentos e custos de produção. Se as tarifas forem amplas, podem afetar o comércio internacional e a confiança dos investidores; a proximidade das eleições de meio de mandato adiciona um elemento de incerteza política.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784647278.802189,
+    "titulo": "Por que Trump está de olho no Pix, o sistema de pagamentos favorito dos brasileiros",
+    "titulo_original": "Por que Trump está de olho no Pix, o sistema de pagamentos favorito dos brasileiros",
+    "fonte": "InvestNews",
+    "publicado": "21/07 10:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A imposição de tarifas de 25% sobre produtos brasileiros pelo governo Trump, com menção ao Pix, indica uma escalada nas tensões comerciais e pode afetar o fluxo de exportações brasileiras. Se essa disputa se intensificar, pode impactar negativamente a balança comercial e a atividade econômica do Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784647322.8029,
+    "titulo": "Estrangeiros acumulam quatro sessões seguidas de entradas e aportes chegam a R$ 2,4 bi em 17 de julho",
+    "titulo_original": "Estrangeiros acumulam quatro sessões seguidas de entradas e aportes chegam a R$ 2,4 bi em 17 de julho",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 10:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade das entradas de capital estrangeiro na bolsa brasileira, com um saldo anual positivo significativo, pode indicar um aumento do apetite por risco em relação ao mercado local. Se essa tendência se mantiver, pode haver pressão de alta sobre o Ibovespa; contudo, a saída de investidores institucionais na mesma data sugere cautela em outros segmentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784647322.8044212,
+    "titulo": "USTR Greer: Canadá está oferecendo melhores acordos comerciais a outros países",
+    "titulo_original": "USTR Greer: Canada is giving other countries better trade deals",
+    "fonte": "ForexLive",
+    "publicado": "21/07 10:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As declarações do USTR Greer indicam tensões comerciais contínuas entre EUA e Canadá, com alegações de acordos comerciais mais favoráveis a terceiros países. Se essas disputas escalarem, podem impactar fluxos comerciais e investimentos, especialmente se novas tarifas forem impostas, como sugerido pela menção a ações de Trump.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784647322.8059611,
+    "titulo": "Alta do petróleo impulsiona Petrobras, mas medidas do governo reduzem ganhos, diz Moody’s - VEJA",
+    "titulo_original": "Alta do petróleo impulsiona Petrobras, mas medidas do governo reduzem ganhos, diz Moody’s - VEJA",
+    "fonte": "Google News Commodities",
+    "publicado": "21/07 11:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise da Moody's sobre a Petrobras sugere que, apesar do cenário favorável de alta do petróleo, intervenções governamentais podem limitar os resultados da empresa. Se essas medidas governamentais forem de caráter fiscal ou regulatório, podem impactar a previsibilidade de investimentos no setor e a arrecadação fiscal.",
+    "is_stocks": true
   }
 ]
