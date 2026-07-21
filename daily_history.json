@@ -1,122 +1,5 @@
 [
   {
-    "_timestamp": 1784560550.6499813,
-    "titulo": "Os vilões do prato feito: inflação do feijão e do óleo diesel encarecem o almoço do brasileiro",
-    "titulo_original": "Os vilões do prato feito: inflação do feijão e do óleo diesel encarecem o almoço do brasileiro",
-    "fonte": "Money Times",
-    "publicado": "20/07 12:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento de 7,2% na inflação do prato feito, impulsionado por itens básicos como feijão e diesel, reflete a pressão sobre o custo de vida do brasileiro. Se essa tendência inflacionária persistir, pode afetar o poder de compra e a demanda por outros bens e serviços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784560554.6540189,
-    "titulo": "Índice principal dos EUA para junho -0,2% contra estimativa de -0,1%",
-    "titulo_original": "US leading index for June -0.2% versus -0.1% estimate",
-    "fonte": "ForexLive",
-    "publicado": "20/07 11:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda no índice principal sugere uma desaceleração da atividade econômica nos EUA, embora o Conference Board tenha elevado a projeção de PIB para 2026. Se os indicadores coincidentes e defasados continuarem a mostrar resiliência, isso pode indicar uma recuperação gradual; caso contrário, a perspectiva de recessão pode se intensificar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784560558.720985,
-    "titulo": "China: estatais compram quase US$ 9 bilhões em ações para sustentar o mercado",
-    "titulo_original": "China: estatais compram quase US$ 9 bilhões em ações para sustentar o mercado - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "20/07 10:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A intervenção de estatais chinesas com compras expressivas de ações indica uma tentativa de estabilizar o mercado acionário local. Se essa medida for eficaz, pode gerar um efeito positivo de confiança para outros mercados emergentes; caso contrário, pode sinalizar dificuldades mais profundas na economia chinesa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784560562.8052194,
-    "titulo": "Tesouro Direto: taxas sobem com petróleo próximo de US$ 90",
-    "titulo_original": "Tesouro Direto: taxas sobem com petróleo próximo de US$ 90 - Valor Investe",
-    "fonte": "Google News Commodities",
-    "publicado": "20/07 10:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento das taxas do Tesouro Direto, correlacionado à alta do petróleo, sugere que o mercado precifica um risco inflacionário maior. Se o petróleo continuar a subir e pressionar a inflação, o Banco Central pode ser levado a manter uma postura mais restritiva em relação aos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784560569.952128,
-    "titulo": "Dona da Gol negocia compra de 20 aviões E2 da Embraer, diz agência",
-    "titulo_original": "Dona da Gol negocia compra de 20 aviões E2 da Embraer, diz agência",
-    "fonte": "Folha Mercado",
-    "publicado": "20/07 11:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Um pedido significativo de aeronaves pela controladora da Gol pode sinalizar confiança na recuperação do setor aéreo brasileiro. Se o negócio for concretizado, isso pode impulsionar as ações da Embraer e indicar uma perspectiva positiva para a demanda futura de voos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784560569.9528742,
-    "titulo": "Embraer (EMBJ3): Potencial pedido da controladora da Gol, Eve no Cabo Verde e mais; o que mexe com as ações hoje?",
-    "titulo_original": "Embraer (EMBJ3): Potencial pedido de controladora da Gol, Eve no Cabo Verde e mais; o que mexe com as ações hoje?",
-    "fonte": "Money Times",
-    "publicado": "20/07 12:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho das ações da Embraer é influenciado por notícias corporativas e desenvolvimentos de suas subsidiárias. Se o potencial pedido da Gol se concretizar e os projetos da Eve avançarem, isso pode sustentar a valorização dos papéis no curto e médio prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784560569.9535358,
-    "titulo": "Agência americana prevê certificar modelos 737 Max 7 e Max 10 da Boeing em breve",
-    "titulo_original": "Agência americana prevê certificar modelos 737 Max 7 e Max 10 da Boeing em breve",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 11:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A certificação dos modelos 737 Max pela FAA é um passo importante para a Boeing, podendo impulsionar suas vendas e a confiança do mercado. Se a certificação ocorrer conforme o esperado, isso pode ter um impacto positivo na cadeia produtiva da aviação e nas ações da Boeing.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784560569.9541848,
-    "titulo": "Microsoft implantará chips de IA de próxima geração da AMD na plataforma de nuvem Azure",
-    "titulo_original": "Microsoft implantará chips de IA de próxima geração da AMD na plataforma de nuvem Azure",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 11:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A ampliação da parceria entre Microsoft e AMD para chips de IA no Azure indica um avanço na tecnologia de computação em nuvem. Se essa implementação for bem-sucedida, pode impulsionar o desenvolvimento de novas aplicações de IA e beneficiar ambas as empresas no mercado de tecnologia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784560569.9548888,
-    "titulo": "GE Aerospace revela avanço inédito em voo híbrido-elétrico em Farnborough",
-    "titulo_original": "GE Aerospace revela avanço inédito em voo híbrido-elétrico em Farnborough",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 11:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O avanço da GE Aerospace em voo híbrido-elétrico representa um passo significativo para a sustentabilidade na aviação. Se essa tecnologia se provar viável em larga escala, pode impactar o futuro da indústria aeroespacial e reduzir a dependência de combustíveis fósseis.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784565955.2323744,
     "titulo": "Boletim Focus: mercado mantém projeção para Selic e reduz marginalmente a inflação para 2026 - ADVFN",
     "titulo_original": "Boletim Focus: mercado mantém projeção para Selic e reduz marginalmente a inflação para 2026 - ADVFN",
@@ -1099,6 +982,96 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A alta de quase 3% nas ações do Banco do Brasil reflete uma melhora na percepção do mercado sobre a saúde financeira da instituição. Se a estratégia de comunicação e as medidas para reverter a deterioração da carteira de crédito forem bem-sucedidas, isso pode consolidar a recuperação da confiança e sustentar o desempenho positivo das ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784671254.4906244,
+    "titulo": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo",
+    "titulo_original": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 17:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de Renan Santos de 'guerra ao crime' e ajuste fiscal, se implementada, pode ter impactos significativos na segurança pública e nas contas públicas. Se as reformas fiscais forem eficazes em reduzir o déficit, isso pode melhorar a confiança na economia; caso contrário, a abordagem de segurança pode gerar debates sobre direitos civis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784671259.3429637,
+    "titulo": "Você sabe quanto paga pela segurança nos investimentos?",
+    "titulo_original": "Você sabe quanto paga pela segurança nos investimentos?",
+    "fonte": "Folha Mercado",
+    "publicado": "21/07 18:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A busca por segurança em investimentos, especialmente contra a inflação, é uma constante para muitos investidores. Se a inflação continuar em patamares elevados, a demanda por títulos como o Tesouro IPCA pode se manter forte; caso contrário, outros tipos de investimento com maior potencial de retorno podem ganhar atratividade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784671264.1012886,
+    "titulo": "Juros futuros têm leve alta com avanço dos Treasuries e do petróleo",
+    "titulo_original": "Juros futuros têm leve alta com avanço dos Treasuries e do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 18:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta nos juros futuros reflete a influência de fatores externos, como os rendimentos dos Treasuries e o preço do petróleo. Se as tensões no Oriente Médio se intensificarem, o petróleo pode continuar a pressionar as taxas de juros para cima; caso contrário, uma resolução pacífica poderia levar a uma reversão desse movimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784671268.7560954,
+    "titulo": "Itamaraty emite alerta e desaconselha viagens para Israel, Catar, Emirados Árabes e outros países",
+    "titulo_original": "Itamaraty emite alerta e desaconselha viagens para Israel, Catar, Emirados Árabes e outros países - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "21/07 16:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O alerta do Itamaraty sugere um aumento das tensões geopolíticas em regiões específicas. Se a instabilidade persistir ou se expandir, isso pode afetar o fluxo de capital e o sentimento de risco global; caso contrário, se a situação se normalizar rapidamente, o impacto pode ser limitado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784671274.5525205,
+    "titulo": "Ibovespa fecha estável e dólar comercial cai a R$ 5,0737",
+    "titulo_original": "Ibovespa fecha estável e dólar comercial cai a R$ 5,0737 - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/07 18:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do Ibovespa e a queda do dólar podem ser interpretadas de diferentes formas dependendo de outros fatores de mercado não mencionados. Se essa tendência de queda do dólar se mantiver, pode indicar um aumento da confiança na economia brasileira; se o Ibovespa permanecer volátil, pode refletir incertezas sobre o cenário político ou econômico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784671274.5542595,
+    "titulo": "Ibovespa hoje fecha em leve baixa com pesquisa eleitoral e alta do petróleo; dólar cai a R$ 5,07",
+    "titulo_original": "Ibovespa hoje fecha em leve baixa com pesquisa eleitoral e alta do petróleo; dólar cai a R$ 5,07 - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/07 17:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de fatores como pesquisas eleitorais e o preço do petróleo mostra a complexidade do mercado brasileiro. Se as pesquisas eleitorais indicarem maior instabilidade política, isso pode pressionar o Ibovespa; se o petróleo continuar em alta, pode ter um efeito misto, beneficiando exportadoras mas pressionando a inflação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784671274.5559695,
+    "titulo": "Ibovespa: petróleo minimiza perdas do índice, mas não evita 5ª queda seguida",
+    "titulo_original": "Ibovespa: petróleo minimiza perdas do índice, mas não evita 5ª queda seguida - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "21/07 18:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A sequência de quedas do Ibovespa, mesmo com o suporte do petróleo, indica uma pressão vendedora mais ampla no mercado. Se os fatores que causam essa pressão persistirem, como incertezas econômicas ou políticas, a tendência de baixa pode continuar; caso contrário, uma melhora no sentimento do mercado pode levar a uma recuperação.",
     "is_stocks": true
   }
 ]
