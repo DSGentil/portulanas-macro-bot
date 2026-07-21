@@ -1,84 +1,5 @@
 [
   {
-    "_timestamp": 1784565955.2323744,
-    "titulo": "Boletim Focus: mercado mantém projeção para Selic e reduz marginalmente a inflação para 2026 - ADVFN",
-    "titulo_original": "Boletim Focus: mercado mantém projeção para Selic e reduz marginalmente a inflação para 2026 - ADVFN",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/07 08:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da projeção para a Selic sugere que o mercado precifica um cenário de juros mais estáveis no curto prazo, enquanto a leve redução na projeção de inflação para 2026 pode ser interpretada como um sinal positivo. Se os próximos dados de inflação vierem abaixo do esperado, isso pode abrir espaço para discussões sobre cortes de juros mais adiante no ano.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784565959.1905272,
-    "titulo": "Economia cresce em maio, mas dá sinais de arrefecimento, diz Claudio Considera, da FGV",
-    "titulo_original": "Economia cresce em maio, mas dá sinais de arrefecimento, diz Claudio Considera, da FGV",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 12:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento da economia em maio, embora positivo, é acompanhado por sinais de desaceleração, o que pode indicar uma moderação no ritmo de expansão. Se os sinais de arrefecimento se confirmarem nos próximos meses, isso pode levar o Banco Central a reconsiderar o ritmo de cortes de juros, dependendo da trajetória da inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784565963.308071,
-    "titulo": "Focus mantém dólar a R$ 5,20 no fim de 2026 pela quinta semana - Canal Rural",
-    "titulo_original": "Focus mantém dólar a R$ 5,20 no fim de 2026 pela quinta semana - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/07 08:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade na projeção do dólar para o fim de 2026, mantida por cinco semanas, sugere que o mercado precifica um cenário de relativa estabilidade cambial. Se houver mudanças significativas no cenário econômico doméstico ou externo, essa projeção pode ser revista.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784565967.2142994,
-    "titulo": "Estreito de Ormuz tem tráfego quase paralisado em meio à escalada entre EUA e Irã - Bloomberg Línea Brasil",
-    "titulo_original": "Estreito de Ormuz tem tráfego quase paralisado em meio à escalada entre EUA e Irã - Bloomberg Línea Brasil",
-    "fonte": "Google News Geopolitica",
-    "publicado": "20/07 08:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A paralisação do tráfego no Estreito de Ormuz é um ponto crítico para o fornecimento global de petróleo. Se a situação se agravar, isso pode levar a um aumento significativo nos preços do petróleo e impactar a inflação global; uma desescalada pode trazer alívio aos mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784565972.2538304,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta sustentar os 174 mil pontos - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta sustentar os 174 mil pontos - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "20/07 10:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A dificuldade do Ibovespa em sustentar os 174 mil pontos sugere que o mercado está aguardando novos catalisadores ou digerindo informações recentes. Se o cenário externo se estabilizar e as preocupações com juros domésticos diminuírem, a bolsa pode encontrar força para avançar; caso contrário, a volatilidade deve persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784565972.2546556,
-    "titulo": "Sinal de diálogo EUA-Irã é incapaz de animar Ibovespa, com cautela e focando juros - InfoMoney",
-    "titulo_original": "Sinal de diálogo EUA-Irã é incapaz de animar Ibovespa, com cautela e focando juros - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "20/07 12:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A notícia indica que as preocupações com juros domésticos superam o otimismo gerado por um possível diálogo EUA-Irã para o Ibovespa. Se os dados de inflação e as decisões futuras do Copom indicarem um cenário de juros mais altos por mais tempo, isso pode continuar a pressionar a bolsa; uma melhora no cenário de juros pode impulsionar o índice.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784572253.8811216,
     "titulo": "Ouro fecha estável enquanto investidores avaliam desdobramentos de tensão no Golfo Pérsico",
     "titulo_original": "Ouro fecha estável enquanto investidores avaliam desdobramentos de tensão no Golfo Pérsico",
@@ -1072,6 +993,114 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "A sequência de quedas do Ibovespa, mesmo com o suporte do petróleo, indica uma pressão vendedora mais ampla no mercado. Se os fatores que causam essa pressão persistirem, como incertezas econômicas ou políticas, a tendência de baixa pode continuar; caso contrário, uma melhora no sentimento do mercado pode levar a uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784676645.7330658,
+    "titulo": "No 2º trimestre, receitas da Claro Brasil crescem 5,1%",
+    "titulo_original": "No 2º trimestre, receitas da Claro Brasil crescem 5,1%",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 19:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento nas receitas da Claro Brasil indica uma performance positiva no setor de telecomunicações. Se a expansão da rede 5G continuar a atrair clientes, a empresa pode consolidar ainda mais sua posição de mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784676649.6777518,
+    "titulo": "Fazenda de SP diz que tarifa dos EUA deve ter efeito limitado sobre empresas do Estado",
+    "titulo_original": "Fazenda de SP diz que tarifa dos EUA deve ter efeito limitado sobre empresas do Estado",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 19:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração da Fazenda de SP sugere que o impacto das tarifas americanas pode ser mais localizado do que o inicialmente previsto. Se a avaliação se confirmar, o setor produtivo paulista pode ter uma resiliência maior a choques externos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784676653.5797844,
+    "titulo": "Petróleo volta a fechar acima de US$ 90 e mercado se preocupa com suprimento de diesel",
+    "titulo_original": "Petróleo volta a fechar acima de US$ 90 e mercado se preocupa com suprimento de diesel",
+    "fonte": "Folha Mercado",
+    "publicado": "21/07 19:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo acima de US$ 90 pode gerar pressões inflacionárias globais, especialmente no custo de combustíveis. Se as tensões no Oriente Médio se intensificarem, o preço do barril pode continuar a subir, afetando a economia mundial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784676657.5136368,
+    "titulo": "Petróleo sobe 2% e fecha acima de US$ 90 o barril com tensões no Oriente Médio - Valor Econômico",
+    "titulo_original": "Petróleo sobe 2% e fecha acima de US$ 90 o barril com tensões no Oriente Médio - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "21/07 16:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tensões no Oriente Médio e o consequente aumento do preço do petróleo podem impactar a inflação global e o custo de produção para diversas indústrias. Se a situação geopolítica não se estabilizar, o preço do barril pode continuar a subir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784676683.473258,
+    "titulo": "Vale tem melhor produção de minério de ferro para 2º tri desde 2018",
+    "titulo_original": "Vale tem melhor produção de minério de ferro para 2º tri desde 2018",
+    "fonte": "Valor Economico",
+    "publicado": "21/07 19:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na produção de minério de ferro da Vale sugere uma demanda robusta por commodities. Se os preços do minério de ferro se mantiverem elevados, isso pode impactar positivamente os resultados da empresa e a balança comercial brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784676683.475082,
+    "titulo": "Neoenergia (NEOE3) lucra R$ 900 milhões no 2º trimestre, queda de 45% com efeito não recorrente",
+    "titulo_original": "Neoenergia (NEOE3) lucra R$ 900 milhões no 2º trimestre, queda de 45% com efeito não recorrente",
+    "fonte": "Money Times",
+    "publicado": "21/07 19:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda no lucro da Neoenergia pode ser atribuída a fatores pontuais, mas é importante monitorar a sustentabilidade da receita em trimestres futuros. Se os efeitos não recorrentes se dissiparem, a empresa pode apresentar uma recuperação em seus resultados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784676683.4768238,
+    "titulo": "Argentina ganha novo upgrade da Moody’s e reduz distância para nota do Brasil",
+    "titulo_original": "Argentina ganha novo upgrade da Moody’s e reduz distância para nota do Brasil",
+    "fonte": "Money Times",
+    "publicado": "21/07 19:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O upgrade da nota da Argentina pela Moody's sinaliza uma melhora na percepção de risco do país. Se a Argentina conseguir manter a trajetória de estabilização macroeconômica, isso pode atrair mais investimentos e reduzir o prêmio de risco na região.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784676683.4785454,
+    "titulo": "Vale bate recorde de minério, mas é o cobre que engorda a conta - InvestNews",
+    "titulo_original": "Vale bate recorde de minério, mas é o cobre que engorda a conta - InvestNews",
+    "fonte": "Google News Commodities",
+    "publicado": "21/07 19:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A diversificação na produção de commodities pela Vale, com destaque para o cobre, pode trazer maior estabilidade aos seus resultados. Se a demanda por cobre se mantiver forte, a empresa pode se beneficiar da transição energética global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784676683.4802969,
+    "titulo": "Vale registra aumento de 3% em vendas de minério no 2º trimestre, a 79 milhões de toneladas - O GLOBO",
+    "titulo_original": "Vale registra aumento de 3% em vendas de minério no 2º trimestre, a 79 milhões de toneladas - O GLOBO",
+    "fonte": "Google News Commodities",
+    "publicado": "21/07 19:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento nas vendas de minério de ferro da Vale indica uma demanda consistente por commodities siderúrgicas. Se a produção global de aço se mantiver em patamares elevados, a Vale pode continuar a reportar bons resultados em suas vendas de minério.",
     "is_stocks": true
   }
 ]
