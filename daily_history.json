@@ -1113,5 +1113,114 @@
     "origem": "domestica",
     "leitura_critica": "A notícia menciona uma relação entre o desempenho da ação da Multiplan e os juros reais. Se a empresa utiliza os juros a seu favor de forma significativa, isso pode indicar uma estratégia que a torna sensível a mudanças na política monetária.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784738744.5119169,
+    "titulo": "Mercado de trabalho aquecido explica metade do desvio da inflação de serviços, diz estudo do BC",
+    "titulo_original": "Mercado de trabalho aquecido explica metade do desvio da inflação de serviços, diz estudo do BC",
+    "fonte": "Valor Economico",
+    "publicado": "22/07 13:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aquecimento do mercado de trabalho, ao pressionar a inflação de serviços, pode influenciar as decisões futuras do Banco Central sobre a taxa de juros. Se o mercado de trabalho continuar aquecido, o BC pode manter uma postura mais cautelosa em relação a cortes de juros para controlar a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784738748.1117902,
+    "titulo": "Abertura | Balanços, Vale e tarifas dão tom ao mercado em meio à disparada do petróleo",
+    "titulo_original": "Abertura | Balanços, Vale e tarifas dão tom ao mercado em meio à disparada do petróleo - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "22/07 09:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de balanços corporativos, notícias sobre tarifas e a alta do petróleo cria um ambiente de volatilidade para o mercado. A performance da Vale e o desenrolar das questões tarifárias serão pontos chave para a direção do mercado no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784738751.727071,
+    "titulo": "Relação comercial entre Brasil e EUA só vai melhorar após acordo, diz ministro da Indústria",
+    "titulo_original": "Relação comercial entre Brasil e EUA só vai melhorar após acordo, diz ministro da Indústria",
+    "fonte": "Folha Mercado",
+    "publicado": "22/07 10:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do ministro sugere que as atuais tarifas e tensões comerciais entre Brasil e EUA são um obstáculo para a melhoria da relação bilateral. A busca por um acordo comercial se torna fundamental para restabelecer um fluxo mais estável e previsível de comércio entre os dois países.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784738755.4016445,
+    "titulo": "Trump prepara novas tarifas para substituir alíquotas temporárias de 10% nos EUA",
+    "titulo_original": "Trump prepara novas tarifas para substituir alíquotas temporárias de 10% nos EUA",
+    "fonte": "Money Times",
+    "publicado": "22/07 13:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A implementação de novas tarifas pelos EUA pode gerar represálias comerciais e impactar cadeias de suprimentos globais. Se essas tarifas forem direcionadas a produtos brasileiros, o fluxo de exportações e a competitividade de setores específicos podem ser prejudicados, exigindo adaptação das empresas e possíveis respostas do governo brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784738781.6425426,
+    "titulo": "Notícias de Trump: Irã pagará um preço alto",
+    "titulo_original": "Trump News: Iran will pay a big price",
+    "fonte": "ForexLive",
+    "publicado": "22/07 11:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As declarações de Trump sobre o Irã aumentam a tensão geopolítica, o que pode levar a uma aversão ao risco e impactar os rendimentos dos títulos. Se a retórica se traduzir em ações concretas, o petróleo pode continuar em alta, pressionando a inflação e, consequentemente, as decisões de juros futuras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784738781.644548,
+    "titulo": "Mercados europeus fecham: Preços do petróleo disparam com expansão do conflito no Oriente Médio para o Mar Vermelho",
+    "titulo_original": "investingLive European markets wrap: Oil prices ramp higher as Middle East conflict expands to the Red Sea",
+    "fonte": "ForexLive",
+    "publicado": "22/07 09:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada do conflito no Oriente Médio e as interrupções no Mar Vermelho elevam o risco de desabastecimento e sustentam os preços do petróleo. Essa situação pode gerar pressões inflacionárias globais e afetar o comércio internacional, impactando negativamente o crescimento econômico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784738781.6464965,
+    "titulo": "Volatilidade trazida por tarifas não é nova, temos usado presença global para mitigar, diz diretor da WEG",
+    "titulo_original": "Volatilidade trazida por tarifas não é nova, temos usado presença global para mitigar, diz diretor da WEG",
+    "fonte": "Valor Economico",
+    "publicado": "22/07 13:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A capacidade da WEG de mitigar os efeitos das tarifas através de sua presença global sugere que o impacto direto nas margens pode ser limitado. Se as tarifas se tornarem permanentes e mais abrangentes, a estratégia de diversificação geográfica da empresa será testada em sua eficácia a longo prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784738781.648285,
+    "titulo": "Relatório da Vale anima mercado e eleva projeções para o balanço; ação sobe forte",
+    "titulo_original": "Relatório da Vale anima mercado e eleva projeções para o balanço; ação sobe forte",
+    "fonte": "Money Times",
+    "publicado": "22/07 11:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O otimismo do mercado com o relatório da Vale e a eleição da presidência do conselho impulsionaram a alta das ações da empresa. O desempenho operacional consistente e a gestão da companhia serão fatores chave para sustentar essa valorização no médio prazo.",
+    "is_stocks": true
   }
 ]
