@@ -1,298 +1,5 @@
 [
   {
-    "_timestamp": 1784572253.8811216,
-    "titulo": "Ouro fecha estável enquanto investidores avaliam desdobramentos de tensão no Golfo Pérsico",
-    "titulo_original": "Ouro fecha estável enquanto investidores avaliam desdobramentos de tensão no Golfo Pérsico",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 14:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A estabilidade do ouro reflete a cautela dos investidores diante de tensões geopolíticas que podem gerar pressões inflacionárias. Se o Federal Reserve sinalizar uma postura mais dura em relação aos juros, isso pode sustentar o ouro como ativo de refúgio; caso contrário, a ausência de novos dados econômicos pode limitar os movimentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784572257.5606146,
-    "titulo": "Real lidera ranking de ‘carry trade’ entre moedas emergentes",
-    "titulo_original": "Real lidera ranking de ‘carry trade’ entre moedas emergentes",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 14:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O Real liderar o ranking de carry trade indica um cenário de maior apetite por risco em mercados emergentes, impulsionado por taxas de juros elevadas. Se as tensões geopolíticas se intensificarem, a proteção oferecida pelas commodities pode mitigar parte do risco, mas uma reversão abrupta no apetite por risco global pode reverter rapidamente esse cenário para o Real.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784572261.0515668,
-    "titulo": "Trump: Irã pagará muitas vezes mais pela morte de soldados americanos",
-    "titulo_original": "Trump: Iran will pay for killing American soldiers many times over",
-    "fonte": "ForexLive",
-    "publicado": "20/07 14:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre o Irã intensifica as tensões geopolíticas, o que pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas. Se essa retórica levar a um conflito mais amplo, o impacto no WDO pode ser significativo através do canal de aversão ao risco; caso contrário, pode se dissipar como um ruído político.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784572264.586831,
-    "titulo": "Ouro fecha perto da estabilidade com juros dos Treasuries e dólar",
-    "titulo_original": "Ouro fecha perto da estabilidade com juros dos Treasuries e dólar",
-    "fonte": "Money Times",
-    "publicado": "20/07 15:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A leve baixa do ouro, influenciada pelos juros dos Treasuries e pelo dólar, sugere um cenário de menor atratividade para ativos de refúgio. Se os juros nos EUA permanecerem elevados, isso pode continuar pressionando o ouro; uma eventual queda nos juros americanos, no entanto, tenderia a impulsionar o metal precioso.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784572268.937711,
-    "titulo": "Exportadoras de commodities serão destaques nos balanços do 2º trimestre, projeta Santander",
-    "titulo_original": "Exportadoras de commodities serão destaques nos balanços do 2º trimestre, projeta Santander",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 14:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A projeção do Santander indica um cenário de resultados corporativos divergentes, com commodities beneficiadas por tensões geopolíticas e empresas domésticas sofrendo com juros altos e riscos fiscais. Se as tensões no Oriente Médio persistirem, o setor de commodities pode continuar a apresentar bons resultados; caso contrário, a desaceleração doméstica pode se acentuar com a manutenção de juros elevados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784579571.8240867,
-    "titulo": "Risco tributário de fornecedores deve entrar no radar das médias",
-    "titulo_original": "Risco tributário de fornecedores deve entrar no radar das médias",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 16:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A obrigatoriedade de destacar a CBS e o IBS nas notas fiscais representa uma mudança regulatória concreta com impacto direto nas operações das empresas. Se as plataformas das Secretarias de Fazenda não estiverem prontas para o novo formato, pode haver um gargalo na emissão de notas, afetando o fluxo de caixa das empresas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784579575.2617853,
-    "titulo": "Dólar recua a R$ 5,08 e dribla aversão a risco com otimismo doméstico",
-    "titulo_original": "Dólar recua a R$ 5,08 e dribla aversão a risco com otimismo doméstico",
-    "fonte": "Money Times",
-    "publicado": "20/07 17:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A valorização do real frente ao dólar, apesar da aversão a risco global, sugere que fatores domésticos estão influenciando o câmbio. Se o otimismo doméstico se mantiver e os conflitos externos se acalmarem, o dólar pode continuar sua trajetória de queda; caso contrário, a aversão a risco pode retornar e pressionar a moeda brasileira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784579578.751022,
-    "titulo": "Líder do Iêmen apoiado por sauditas diz que retomará exportações de petróleo",
-    "titulo_original": "Líder do Iêmen apoiado por sauditas diz que retomará exportações de petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 17:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A retomada das exportações de petróleo do Iêmen pode aliviar a pressão sobre os preços globais da commodity. Se os Houthis mantiverem o bloqueio, a instabilidade na região pode persistir, impactando o fluxo de petróleo e a volatilidade nos mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784579582.2125373,
-    "titulo": "Petróleo termina o dia em alta após pregão volátil com tensões no Oriente Médio",
-    "titulo_original": "Petróleo termina o dia em alta após pregão volátil com tensões no Oriente Médio",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 16:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões no Oriente Médio e o anúncio de bloqueio marítimo pelos Houthis elevam o risco geopolítico e impactam diretamente o preço do petróleo. Se a retórica entre EUA e Irã se intensificar, o petróleo pode continuar sua trajetória de alta, afetando custos de produção e transporte globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784579585.6286159,
-    "titulo": "Reino Unido troca de premiê pela 7ª vez desde o Brexit e mercado reage com queda da libra e alta dos juros",
-    "titulo_original": "Reino Unido troca de premiê pela 7ª vez desde o Brexit e mercado reage com queda da libra e alta dos juros",
-    "fonte": "Money Times",
-    "publicado": "20/07 16:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A troca de primeiro-ministro no Reino Unido aumenta a incerteza fiscal e impacta diretamente os juros e a moeda local. Se a nova gestão não apresentar um plano fiscal claro e crível, a pressão sobre a libra e os juros pode persistir, afetando a confiança dos investidores no mercado britânico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784584880.7752435,
-    "titulo": "Juros encerram mistos; curva ganha inclinação com exterior e expectativas de inflação",
-    "titulo_original": "Juros encerram mistos; curva ganha inclinação com exterior e expectativas de inflação",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 18:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A inclinação da curva de juros, com taxas de longo prazo subindo mais que as de curto, sugere expectativas de inflação mais persistente ou um cenário de juros mais altos por mais tempo. A influência do cenário externo, especialmente a alta do petróleo, reforça a pressão inflacionária e a necessidade de vigilância do Banco Central.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784584884.5364783,
-    "titulo": "Com dólar a R$ 5,09 e petróleo perto de US$ 90, Bolsa opera sem viés firme - UOL Economia",
-    "titulo_original": "Com dólar a R$ 5,09 e petróleo perto de US$ 90, Bolsa opera sem viés firme - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/07 13:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de um dólar em patamar elevado e o preço do petróleo próximo a US$ 90 sugere um ambiente de pressão inflacionária e aversão ao risco. A ausência de um viés firme na Bolsa indica que os investidores estão cautelosos, aguardando novos direcionadores para tomar posições.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784584888.2811115,
-    "titulo": "Israel começa a retirar militares de zonas ocupadas no sul do Líbano - G1",
-    "titulo_original": "Israel começa a retirar militares de zonas ocupadas no sul do Líbano - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "20/07 16:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A retirada de tropas israelenses do sul do Líbano pode sinalizar uma desescalada de tensões na região, o que seria positivo para a estabilidade geopolítica e, consequentemente, para os mercados financeiros globais. Acompanhar os desdobramentos dessa movimentação é crucial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784584953.265527,
-    "titulo": "Resumo de notícias de FX das Américas da investingLive em 20 de julho",
-    "titulo_original": "investingLive Americas FX news wrap 20 Jul:",
-    "fonte": "ForexLive",
-    "publicado": "20/07 18:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A escalada das tensões no Oriente Médio impacta diretamente os mercados globais, pressionando os preços do petróleo e gerando aversão ao risco, o que pode levar a uma fuga para ativos mais seguros. A retórica de retaliação de Trump adiciona incerteza ao cenário geopolítico.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784584953.2666996,
-    "titulo": "Ibovespa e dólar recuam com incerteza em torno da guerra no Irã - Bloomberg Línea Brasil",
-    "titulo_original": "Ibovespa e dólar recuam com incerteza em torno da guerra no Irã - Bloomberg Línea Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/07 17:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A instabilidade geopolítica no Oriente Médio tende a aumentar a aversão ao risco global, impactando negativamente os ativos de risco como a bolsa brasileira e fortalecendo o dólar como porto seguro. A duração e a intensidade do conflito serão determinantes para a magnitude desses movimentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784584953.2677686,
-    "titulo": "Ibovespa hoje fecha em queda e dólar cede, com Boletim Focus e alta do petróleo no radar - Estadão",
-    "titulo_original": "Ibovespa hoje fecha em queda e dólar cede, com Boletim Focus e alta do petróleo no radar - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/07 16:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa e a valorização do dólar refletem a aversão ao risco global, impulsionada pela alta do petróleo e pelas incertezas macroeconômicas apontadas no Boletim Focus. A dinâmica entre esses ativos sugere um ambiente de cautela para os investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784584953.2688694,
-    "titulo": "Justiça dos EUA aprova acordo de US$ 1,5 bi da Anthropic em processo de direitos autorais",
-    "titulo_original": "Justiça dos EUA aprova acordo de US$ 1,5 bi da Anthropic em processo de direitos autorais",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 18:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Este acordo estabelece um precedente para casos semelhantes envolvendo o uso de material protegido por direitos autorais no treinamento de modelos de IA. Se outros casos seguirem essa linha, pode haver um aumento nos custos para empresas de tecnologia que dependem de grandes volumes de dados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784584953.2699447,
-    "titulo": "Para manter nome, Nubank (ROXO34) compra banco carioca com 3 décadas de estrada",
-    "titulo_original": "Para manter nome, Nubank (ROXO34) compra banco carioca com 3 décadas de estrada",
-    "fonte": "Money Times",
-    "publicado": "20/07 18:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aquisição demonstra a adaptação do Nubank a exigências regulatórias específicas, como a Resolução Conjunta nº 17, que pode impactar outras instituições com nomes similares. A estratégia visa garantir a conformidade e a manutenção da identidade da marca no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784590268.3894098,
-    "titulo": "TCU propõe reajuste de até 40% na gratificação paga a servidores do órgão",
-    "titulo_original": "TCU propõe reajuste de até 40% na gratificação paga a servidores do órgão",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 19:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta do TCU de reajustar gratificações em até 40% para seus servidores, se aprovada, representa um aumento de despesa pública. Caso o Congresso Nacional aprove a medida, isso pode influenciar discussões sobre a remuneração em outros órgãos públicos, especialmente se a justificativa de \"convergência com modelos adotados\" for amplamente aceita.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784590271.775422,
-    "titulo": "Nova Zelândia Q2 CPI 4.1% a/a (esperado 4.0%) e 1.5% a/q (esperado 1.4%)",
-    "titulo_original": "New Zealand Q2 CPI 4.1% y/y (expected 4.0%) and 1.5% q/q (expected 1.4%)",
-    "fonte": "ForexLive",
-    "publicado": "20/07 19:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de inflação da Nova Zelândia acima do esperado pode indicar pressões inflacionárias persistentes na economia. Se o Banco Central da Nova Zelândia interpretar esse resultado como um sinal de aquecimento excessivo, isso pode levar a uma postura mais cautelosa em relação a cortes de juros futuros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784590276.083292,
-    "titulo": "Exclusivo: Após consulta de investidor, CVM abre processo sobre apoio da Previ a candidato ao conselho da Vale",
-    "titulo_original": "Exclusivo: Após consulta de investidor, CVM abre processo sobre apoio da Previ a candidato ao conselho da Vale",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 19:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A abertura de processo pela CVM sobre o apoio da Previ a um candidato ao conselho da Vale pode gerar incerteza na governança da mineradora. Se a investigação apontar irregularidades, isso pode levar a mudanças na composição do conselho ou a sanções para a Previ.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784590276.0846188,
-    "titulo": "Comissão do Parlamento francês aprova proibição de redes sociais para menores de 15 anos",
-    "titulo_original": "Comissão do Parlamento francês aprova proibição de redes sociais para menores de 15 anos",
-    "fonte": "Valor Economico",
-    "publicado": "20/07 17:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A aprovação de um projeto de lei na França para proibir redes sociais a menores de 15 anos pode influenciar discussões regulatórias em outros países. Se a proibição for implementada, empresas de tecnologia podem precisar adaptar suas políticas de acesso e verificação de idade, impactando o uso de suas plataformas.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784633466.0234888,
     "titulo": "Ações globais avançam com recuperação de fabricantes de chips; Brent cai",
     "titulo_original": "Ações globais avançam com recuperação de fabricantes de chips; Brent cai - Bloomberg Línea Brasil",
@@ -1101,6 +808,124 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O aumento nas vendas de minério de ferro da Vale indica uma demanda consistente por commodities siderúrgicas. Se a produção global de aço se mantiver em patamares elevados, a Vale pode continuar a reportar bons resultados em suas vendas de minério.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784719888.8386836,
+    "titulo": "De Seara a iFood: como marmitas se tornaram prioridade de gigantes de alimentos no Brasil",
+    "titulo_original": "De Seara a iFood: como marmitas se tornaram  prioridade de gigantes de alimentos no Brasil",
+    "fonte": "InvestNews",
+    "publicado": "22/07 06:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O foco em marmitas por grandes empresas de alimentos reflete uma adaptação às mudanças de hábitos de consumo e à pressão inflacionária. Se a inflação persistir, a demanda por opções de refeição mais acessíveis e práticas pode continuar crescendo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784719893.6147277,
+    "titulo": "Minidólar (WDOQ26): petróleo e cenário externo podem mexer com o dólar",
+    "titulo_original": "Minidólar (WDOQ26): petróleo e cenário externo podem mexer com o dólar - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/07 07:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A correlação entre o preço do petróleo, o cenário externo e a cotação do dólar sugere que eventos geopolíticos e de commodities terão impacto direto no mercado de câmbio. Se a tensão no Oriente Médio aumentar, o dólar pode se fortalecer como ativo de refúgio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784719898.3765986,
+    "titulo": "IA impulsiona exportações mexicanas para os EUA e dificulta cruzada comercial de Trump",
+    "titulo_original": "IA impulsiona exportações mexicanas para os EUA e dificulta cruzada comercial de Trump",
+    "fonte": "Folha Mercado",
+    "publicado": "22/07 06:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O crescimento das exportações mexicanas impulsionado pela IA pode fortalecer a posição do México no comércio regional. Se as políticas comerciais de Trump se tornarem mais restritivas, o impacto nas cadeias de suprimentos de tecnologia pode ser significativo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784719903.08038,
+    "titulo": "Disrupção no transporte marítimo no Mar Vermelho agora em foco, com navios forçados a mudar de rota",
+    "titulo_original": "Red Sea shipping disruption now in focus as vessels are forced to change course",
+    "fonte": "ForexLive",
+    "publicado": "22/07 08:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A interrupção do tráfego no Mar Vermelho e a ameaça de bloqueio de rotas de petróleo podem levar a um aumento nos custos de frete e, consequentemente, impactar os preços de energia e outras commodities. Se a situação se agravar, o risco de choque de oferta de energia aumentará.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784719909.4572399,
+    "titulo": "Petróleo avança até US$ 95 com tensão crescente no Oriente Médio",
+    "titulo_original": "Petróleo avança até US$ 95 com tensão crescente no Oriente Médio",
+    "fonte": "Valor Economico",
+    "publicado": "22/07 08:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A escalada da tensão no Oriente Médio e o consequente aumento no preço do petróleo podem gerar pressões inflacionárias globais. Se os conflitos se intensificarem, o petróleo pode testar patamares ainda mais elevados, impactando custos de produção e transporte.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784719909.4584336,
+    "titulo": "Ações globais caem com investidores de olho no balanço da Alphabet e no retorno da IA",
+    "titulo_original": "Ações globais caem com investidores de olho no balanço da Alphabet e no retorno da IA - Bloomberg Línea Brasil",
+    "fonte": "Google News Acoes",
+    "publicado": "22/07 06:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A cautela dos investidores globais diante dos balanços corporativos e do desenvolvimento da IA pode indicar um período de ajuste nos mercados. Se os resultados da Alphabet vierem abaixo do esperado, a pressão sobre o setor de tecnologia pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784719909.459524,
+    "titulo": "Julho pode ter um dos menores volumes da B3 desde a pandemia: o que isso sinaliza?",
+    "titulo_original": "Julho pode ter um dos menores volumes da B3 desde a pandemia: o que isso sinaliza? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "22/07 07:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Um baixo volume na B3 pode indicar menor liquidez e possivelmente menor interesse dos investidores no mercado acionário brasileiro. Se essa tendência se mantiver, pode sinalizar um período de consolidação ou cautela generalizada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784719909.460616,
+    "titulo": "Agenda de empresas: Produção da Vale cresce no 2° trimestre; WEG divulga resultados",
+    "titulo_original": "Agenda de empresas: Produção da Vale cresce no 2° trimestre; WEG divulga resultados",
+    "fonte": "Valor Economico",
+    "publicado": "22/07 08:13",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na produção da Vale indica uma performance positiva da empresa no setor de mineração. Se a demanda global por commodities se mantiver forte, a Vale pode continuar a apresentar bons resultados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784719909.4617264,
+    "titulo": "Fundo imobiliário ajusta operação que prevê retorno de IPCA +13,6% ao ano; IFIX cai",
+    "titulo_original": "Fundo imobiliário ajusta operação que prevê retorno de IPCA +13,6% ao ano; IFIX cai",
+    "fonte": "Money Times",
+    "publicado": "22/07 08:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O ajuste em uma operação de fundo imobiliário com retorno atrelado ao IPCA pode indicar uma reavaliação das condições de mercado. Se a inflação continuar alta, fundos com essa indexação podem se tornar mais atrativos, mas a queda do IFIX sugere cautela no setor.",
     "is_stocks": true
   }
 ]
