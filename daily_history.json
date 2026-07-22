@@ -1,117 +1,5 @@
 [
   {
-    "_timestamp": 1784652351.6880543,
-    "titulo": "Soja brasileira atinge maior cotação do ano: R$ 142,65 a saca",
-    "titulo_original": "Soja brasileira atinge maior cotação do ano: R$ 142,65 a saca - CNN Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "21/07 08:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da cotação da soja brasileira pode ser impulsionado por fatores de oferta e demanda globais. Se essa tendência se mantiver, pode beneficiar o agronegócio brasileiro e a balança comercial do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784652356.2976668,
-    "titulo": "Abertura | Tarifaço e Vale ficam no radar do mercado em meio a dúvidas sobre conflito EUA-Irã",
-    "titulo_original": "Abertura | Tarifaço e Vale ficam no radar do mercado em meio a dúvidas sobre conflito EUA-Irã - InvesTalk",
-    "fonte": "Google News Acoes",
-    "publicado": "21/07 09:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A notícia aponta para a influência de fatores domésticos (tarifaço, Vale) e externos (conflito EUA-Irã) no radar do mercado. A resolução das tensões no Oriente Médio pode trazer maior clareza para o cenário de risco global, impactando o desempenho de ativos como a Vale.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784652360.797952,
-    "titulo": "China avalia endurecer controle de exportação de IA e chips",
-    "titulo_original": "China avalia endurecer controle de exportação de IA e chips",
-    "fonte": "Folha Mercado",
-    "publicado": "21/07 13:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia aponta para uma possível mudança na política de exportação da China em tecnologias sensíveis. Se implementada, essa medida pode afetar o fluxo de tecnologia e a cadeia de suprimentos global, especialmente em setores de alta tecnologia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784652365.3609788,
-    "titulo": "Tráfego em Ormuz cai ao menor nível em 3 semanas",
-    "titulo_original": "Tráfego em Ormuz cai ao menor nível em 3 semanas",
-    "fonte": "Money Times",
-    "publicado": "21/07 12:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A redução do tráfego no Estreito de Ormuz pode indicar uma diminuição na atividade comercial na região, possivelmente influenciada por tensões geopolíticas. Isso pode ter implicações no transporte marítimo e no custo de fretes, mas a notícia não detalha o impacto direto em canais específicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784652371.325375,
-    "titulo": "Petróleo sobe mais de 2% e atinge maior valor desde 11 de junho",
-    "titulo_original": "Petróleo sobe mais de 2% e atinge maior valor desde 11 de junho",
-    "fonte": "Folha Mercado",
-    "publicado": "21/07 11:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento significativo no preço do petróleo pode ser atribuído a tensões geopolíticas na região do Oriente Médio. Se os bloqueios no Estreito de Ormuz persistirem, o preço do petróleo pode superar US$ 120, impactando a inflação global e os custos de produção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784652371.3268063,
-    "titulo": "Petróleo pode superar US$ 120 se bloqueios no Estreito de Ormuz persistirem, diz Goldman Sachs",
-    "titulo_original": "Petróleo pode superar US$ 120 se bloqueios no Estreito de Ormuz persistirem, diz Goldman Sachs - O GLOBO",
-    "fonte": "Google News Commodities",
-    "publicado": "21/07 08:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A projeção do Goldman Sachs para o preço do petróleo destaca o risco de escalada devido aos bloqueios no Estreito de Ormuz. Se essa previsão se concretizar, o impacto inflacionário global e nos custos de energia será considerável.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784652371.328894,
-    "titulo": "Bolsas sobem na Europa com apoio de 'techs' e apesar de tensões no Oriente Médio",
-    "titulo_original": "Bolsas sobem na Europa com apoio de 'techs' e apesar de tensões no Oriente Médio",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 13:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O desempenho positivo das bolsas europeias, especialmente no setor de tecnologia, sugere resiliência do mercado apesar de fatores de risco geopolítico. A taxa de desemprego no Reino Unido em 4,9% contribui para o quadro macroeconômico europeu, mas não é um fator de alta isolado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784652371.3306496,
-    "titulo": "Ibovespa recua na contramão de NY, à espera de resultados do 2º tri; dólar cai",
-    "titulo_original": "Ibovespa recua na contramão de NY, à espera de resultados do 2º tri; dólar cai - Valor Investe",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/07 13:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A divergência entre o Ibovespa e as bolsas de Nova York, juntamente com a queda do dólar, sugere que o mercado brasileiro está precificando fatores domésticos, como a espera por resultados corporativos. Se os resultados do 2º tri vierem fracos, o Ibovespa pode continuar sob pressão; se forem positivos, pode haver recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784652371.3322356,
-    "titulo": "Sem site e app, Lojas Cem desacelera e ganha dinheiro com juros",
-    "titulo_original": "Sem site e app, Lojas Cem desacelera e ganha dinheiro com juros",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 13:01",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia foca no desempenho financeiro de uma empresa específica, mencionando que ela se beneficia de juros. Isso indica que o cenário de juros altos pode ser vantajoso para algumas empresas em suas operações financeiras, mas não reflete uma decisão macroeconômica.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784658646.5755997,
     "titulo": "Dólar opera em queda com suporte do petróleo, mas movimento é limitado - UOL Economia",
     "titulo_original": "Dólar opera em queda com suporte do petróleo, mas movimento é limitado - UOL Economia",
@@ -1211,6 +1099,70 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A queda no lucro e a primeira queima de caixa da Tesla em dois anos indicam desafios operacionais e de precificação. Se a estratégia de descontos não resultar em aumento sustentável de vendas e receita, a empresa pode enfrentar dificuldades; caso contrário, a recuperação pode ser impulsionada pela demanda por veículos elétricos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784763049.3028932,
+    "titulo": "EUA informaram Israel sobre intenção de usar bombardeiros no ataque ao Irã",
+    "titulo_original": "US has informed Israel of its intention to use bombers in bombing Iran",
+    "fonte": "ForexLive",
+    "publicado": "22/07 14:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia de uma possível ação militar conjunta entre EUA e Israel contra o Irã eleva o risco geopolítico na região. Se confirmada, essa escalada pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas e em ativos de refúgio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784763054.2392287,
+    "titulo": "Sem plano B: tarifaço de 25% de Trump ameaça produção e empregos no setor madeireiro",
+    "titulo_original": "Sem plano B: tarifaço de 25% de Trump ameaça produção e empregos no setor madeireiro",
+    "fonte": "Folha Mercado",
+    "publicado": "22/07 20:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A imposição de tarifas por parte dos EUA sobre produtos brasileiros pode afetar diretamente a atividade econômica e o emprego no setor madeireiro. Se essa medida se estender a outros setores, pode gerar um cenário de desaceleração para as exportações brasileiras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784763059.2160933,
+    "titulo": "Irmãos Batista compram fatia em petroleira da Venezuela, diz agência",
+    "titulo_original": "Irmãos Batista compram fatia em petroleira da Venezuela, diz agência",
+    "fonte": "Folha Mercado",
+    "publicado": "22/07 19:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia sobre a compra de participação em uma petroleira venezuelana pelos irmãos Batista indica um movimento de investimento em um país sob influência de políticas americanas. O impacto direto para o mercado brasileiro dependerá da escala do investimento e de possíveis desdobramentos das relações comerciais com a Venezuela.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784763065.1148975,
+    "titulo": "Goldman Sachs desembarca da Oncoclínicas após 11 anos",
+    "titulo_original": "Goldman Sachs desembarca da Oncoclínicas após 11 anos",
+    "fonte": "Valor Economico",
+    "publicado": "22/07 19:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída do Goldman Sachs da Oncoclínicas indica uma redução de exposição de um investidor estrangeiro em uma empresa brasileira. Se essa venda se intensificar, pode sinalizar uma mudança no fluxo de capital para o setor de saúde no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784763065.1167653,
+    "titulo": "Alphabet, dona do Google, lucra US$ 112 bilhões no segundo trimestre",
+    "titulo_original": "Alphabet, dona do Google, lucra US$ 112 bilhões no segundo trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "22/07 17:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O resultado financeiro expressivo da Alphabet, embora seja de uma empresa estrangeira, pode influenciar o sentimento de investidores globais em relação a empresas de tecnologia. Se o mercado interpretar esse desempenho como um indicador de força do setor, pode haver um reflexo indireto no apetite por risco global.",
     "is_stocks": true
   }
 ]
