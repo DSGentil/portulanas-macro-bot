@@ -1,104 +1,5 @@
 [
   {
-    "_timestamp": 1784647265.054323,
-    "titulo": "Empresários industriais continuam insatisfeitos no 2º trimestre, aponta CNI",
-    "titulo_original": "Empresários industriais continuam insatisfeitos no 2º trimestre, aponta CNI",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 11:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistente insatisfação dos empresários industriais, atribuída a juros elevados e custos de insumos, sugere um cenário de atividade econômica ainda restrita. Se os juros permanecerem altos, a recuperação do setor industrial pode ser mais lenta, impactando a geração de empregos e o crescimento do PIB.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784647269.6086347,
-    "titulo": "Burnham reduz imposto sobre energia para aliviar custo de vida no Reino Unido",
-    "titulo_original": "Burnham reduz imposto sobre energia para aliviar custo de vida no Reino Unido",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 10:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A redução do IVA sobre a eletricidade no Reino Unido representa uma medida fiscal de alívio ao consumidor, o que pode ter implicações na inflação e no déficit público. Se o financiamento dessa medida não for claro, pode gerar preocupações no mercado de títulos sobre a sustentabilidade fiscal do governo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784647274.2008111,
-    "titulo": "Trump deve anunciar novas tarifas nesta semana para substituir taxas que vencerão",
-    "titulo_original": "Trump deve anunciar novas tarifas nesta semana para substituir taxas que vencerão",
-    "fonte": "Folha Mercado",
-    "publicado": "21/07 10:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O anúncio de novas tarifas por Donald Trump pode gerar volatilidade nos mercados globais, impactando cadeias de suprimentos e custos de produção. Se as tarifas forem amplas, podem afetar o comércio internacional e a confiança dos investidores; a proximidade das eleições de meio de mandato adiciona um elemento de incerteza política.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784647278.802189,
-    "titulo": "Por que Trump está de olho no Pix, o sistema de pagamentos favorito dos brasileiros",
-    "titulo_original": "Por que Trump está de olho no Pix, o sistema de pagamentos favorito dos brasileiros",
-    "fonte": "InvestNews",
-    "publicado": "21/07 10:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A imposição de tarifas de 25% sobre produtos brasileiros pelo governo Trump, com menção ao Pix, indica uma escalada nas tensões comerciais e pode afetar o fluxo de exportações brasileiras. Se essa disputa se intensificar, pode impactar negativamente a balança comercial e a atividade econômica do Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784647322.8029,
-    "titulo": "Estrangeiros acumulam quatro sessões seguidas de entradas e aportes chegam a R$ 2,4 bi em 17 de julho",
-    "titulo_original": "Estrangeiros acumulam quatro sessões seguidas de entradas e aportes chegam a R$ 2,4 bi em 17 de julho",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 10:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade das entradas de capital estrangeiro na bolsa brasileira, com um saldo anual positivo significativo, pode indicar um aumento do apetite por risco em relação ao mercado local. Se essa tendência se mantiver, pode haver pressão de alta sobre o Ibovespa; contudo, a saída de investidores institucionais na mesma data sugere cautela em outros segmentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784647322.8044212,
-    "titulo": "USTR Greer: Canadá está oferecendo melhores acordos comerciais a outros países",
-    "titulo_original": "USTR Greer: Canada is giving other countries better trade deals",
-    "fonte": "ForexLive",
-    "publicado": "21/07 10:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "As declarações do USTR Greer indicam tensões comerciais contínuas entre EUA e Canadá, com alegações de acordos comerciais mais favoráveis a terceiros países. Se essas disputas escalarem, podem impactar fluxos comerciais e investimentos, especialmente se novas tarifas forem impostas, como sugerido pela menção a ações de Trump.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784647322.8059611,
-    "titulo": "Alta do petróleo impulsiona Petrobras, mas medidas do governo reduzem ganhos, diz Moody’s - VEJA",
-    "titulo_original": "Alta do petróleo impulsiona Petrobras, mas medidas do governo reduzem ganhos, diz Moody’s - VEJA",
-    "fonte": "Google News Commodities",
-    "publicado": "21/07 11:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise da Moody's sobre a Petrobras sugere que, apesar do cenário favorável de alta do petróleo, intervenções governamentais podem limitar os resultados da empresa. Se essas medidas governamentais forem de caráter fiscal ou regulatório, podem impactar a previsibilidade de investimentos no setor e a arrecadação fiscal.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784652351.6880543,
     "titulo": "Soja brasileira atinge maior cotação do ano: R$ 142,65 a saca",
     "titulo_original": "Soja brasileira atinge maior cotação do ano: R$ 142,65 a saca - CNN Brasil",
@@ -1219,6 +1120,97 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A queda das bolsas em Nova York, influenciada por tensões geopolíticas e balanços corporativos, pode gerar um sentimento de aversão ao risco global. Se a cautela persistir, isso tenderia a pressionar ativos de maior risco no Brasil; caso os balanços venham positivos e aliviem as preocupações, o cenário pode se reverter.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784757650.383578,
+    "titulo": "Brasil não deixará mesa de negociação com os EUA sobre tarifaço, diz Lula",
+    "titulo_original": "Brasil não deixará mesa de negociação com os EUA sobre tarifaço, diz Lula",
+    "fonte": "Valor Economico",
+    "publicado": "22/07 18:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente indica uma postura de negociação e busca por alternativas, mas o impacto concreto das tarifas e do crédito anunciado ainda está em desenvolvimento. Se as negociações não avançarem, a pressão sobre os setores afetados pode se intensificar; caso contrário, a busca por saídas pode mitigar os efeitos negativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784757653.9730077,
+    "titulo": "Fazenda queria alíquota menor e divergiu de imposto de 12% sobre petróleo - CNN Brasil",
+    "titulo_original": "Fazenda queria alíquota menor e divergiu de imposto de 12% sobre petróleo - CNN Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "22/07 14:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre o Ministério da Fazenda e a proposta de imposto sobre petróleo indica um debate interno sobre a política fiscal. Se a Fazenda conseguir impor sua visão de alíquota menor, a arrecadação pode ser afetada; caso a alíquota de 12% seja mantida, o impacto sobre o setor de petróleo será maior.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784757657.5275102,
+    "titulo": "STJ suspende decisão que impedia diretores da ANP de atuar em processos da Refit",
+    "titulo_original": "STJ suspende decisão que impedia diretores da ANP de atuar em processos da Refit",
+    "fonte": "Valor Economico",
+    "publicado": "22/07 18:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STJ reverte uma liminar que suspendia a atuação de diretores da ANP em processos da Refit, o que pode agilizar investigações sobre o setor de combustíveis. Se a decisão do STJ for mantida, a ANP poderá prosseguir com suas fiscalizações; caso haja novas contestações, o processo pode ser novamente paralisado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784757661.1214988,
+    "titulo": "Juros futuros sobem em dia de pressão externa com alta do petróleo",
+    "titulo_original": "Juros futuros sobem em dia de pressão externa com alta do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "22/07 18:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta dos juros futuros, atrelada ao aumento do petróleo e tensões geopolíticas, reflete um cenário de maior inflação esperada e, consequentemente, um Banco Central possivelmente mais cauteloso. Se as tensões no Oriente Médio se intensificarem, a pressão inflacionária pode persistir, mantendo os juros em patamares elevados; se a situação se acalmar, pode haver espaço para uma reversão dessa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784757666.658167,
+    "titulo": "A disparada da WEG: entenda por que a ação sobe 10% mesmo com queda no lucro",
+    "titulo_original": "A disparada da WEG: entenda por que a ação sobe 10% mesmo com queda no lucro",
+    "fonte": "InvestNews",
+    "publicado": "22/07 16:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho da WEG, apesar da queda no lucro, sugere que fatores específicos, como o desempenho na América do Norte, estão superando preocupações macroeconômicas como o tarifaço. Se o cenário externo continuar favorável, a ação pode manter a tendência de alta; caso contrário, a queda no lucro pode se tornar um fator mais relevante.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784757666.6601307,
+    "titulo": "Notícias de câmbio da América Latina da InvestingLive em 22 de julho. Tensões no Oriente Médio mantêm mercados em alerta. Petróleo em alta.",
+    "titulo_original": "investingLive Americas FX news wrap 22 Jul.  Middle east tensions keep markets on edge. Oil higher.",
+    "fonte": "ForexLive",
+    "publicado": "22/07 17:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia consolida um cenário de aversão ao risco global, com tensões geopolíticas elevando o petróleo e pressionando bolsas. A expectativa de manutenção das taxas pelo BCE sugere cautela monetária externa. Se as tensões no Oriente Médio escalarem, a volatilidade nos mercados deve aumentar; caso contrário, o foco pode retornar a dados econômicos e decisões de política monetária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784757666.66197,
+    "titulo": "Tesla sofre queda de lucro e registra primeira queima de caixa em dois anos no 2º tri",
+    "titulo_original": "Tesla sofre queda de lucro e registra primeira queima de caixa em dois anos no 2º tri",
+    "fonte": "Folha Mercado",
+    "publicado": "22/07 18:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda no lucro e a primeira queima de caixa da Tesla em dois anos indicam desafios operacionais e de precificação. Se a estratégia de descontos não resultar em aumento sustentável de vendas e receita, a empresa pode enfrentar dificuldades; caso contrário, a recuperação pode ser impulsionada pela demanda por veículos elétricos.",
     "is_stocks": true
   }
 ]
