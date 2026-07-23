@@ -948,5 +948,113 @@
     "origem": "externa",
     "leitura_critica": "A opinião de consultores sobre o balanço do Fed pode oferecer insights sobre as futuras decisões de política monetária dos EUA. Se as avaliações indicarem uma postura mais dovish ou hawkish do Fed, isso pode influenciar as expectativas do mercado em relação às taxas de juros e, consequentemente, os fluxos de capital globais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784819769.9920235,
+    "titulo": "Renda Fixa Hoje: veja taxas de CDBs, LCIs e LCAs na XP com dólar em alta",
+    "titulo_original": "Renda Fixa Hoje: veja taxas de CDBs, LCIs e LCAs na XP com dólar em alta - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/07 11:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar pode influenciar as taxas de renda fixa, especialmente em produtos atrelados à moeda estrangeira ou que competem por capital. Se a tendência de alta do dólar se mantiver, pode haver pressão por taxas mais elevadas na renda fixa para atrair investidores; a relação entre a taxa de câmbio e os rendimentos de renda fixa será um ponto de atenção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784819773.741608,
+    "titulo": "Intenção de consumo das famílias sobe 0,1% em julho, diz CNC",
+    "titulo_original": "Intenção de consumo das famílias sobe 0,1% em julho, diz CNC",
+    "fonte": "Valor Economico",
+    "publicado": "23/07 11:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O leve aumento na intenção de consumo das famílias, impulsionado pela inflação controlada e pelo mercado de trabalho aquecido, sugere uma melhora gradual no poder de compra. Se a inflação continuar em patamares baixos e o emprego se mantiver forte, o consumo pode apresentar uma trajetória ascendente; no entanto, a queda em renda atual e perspectiva profissional merece atenção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784819777.2479472,
+    "titulo": "Patrimônio parado? Como brasileiros estão usando bens já quitados para ganhar liquidez",
+    "titulo_original": "Patrimônio parado? Como brasileiros estão usando bens já quitados para ganhar liquidez",
+    "fonte": "Money Times",
+    "publicado": "23/07 12:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A oferta de crédito com juros mais baixos pode estimular o consumo e a busca por liquidez em um cenário de incertezas econômicas. Se a demanda por esse tipo de crédito aumentar, pode haver um impacto na dinâmica de endividamento das famílias; a comparação das taxas com outras opções de crédito será determinante para sua atratividade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784819780.7880952,
+    "titulo": "Primeiro-ministro do Canadá: Não hesitará em defender seus interesses em guerra comercial com os EUA",
+    "titulo_original": "Canada PM Carney: Will not hesitate to defend its interest in trade war with the US",
+    "fonte": "ForexLive",
+    "publicado": "23/07 11:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tarifas pelos EUA e a resposta firme do Canadá indicam um aprofundamento do conflito comercial. Se um acordo não for alcançado antes de 19 de agosto, as tarifas podem gerar impactos significativos no fluxo de comércio bilateral; a persistência da disputa pode levar a retaliações adicionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784819852.8041117,
+    "titulo": "Taxa de desemprego nos EUA cai a 4,2%, menor nível em um ano; pedidos de auxílio-desemprego têm forte queda",
+    "titulo_original": "Taxa de desemprego nos EUA cai a 4,2%, menor nível em um ano; pedidos de auxílio-desemprego têm forte queda",
+    "fonte": "Folha Mercado",
+    "publicado": "23/07 10:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda inesperada na taxa de desemprego dos EUA, mesmo que parcialmente explicada pela redução da força de trabalho, pode reforçar a percepção de uma economia resiliente. Se essa tendência se mantiver, o Federal Reserve pode ter mais espaço para manter uma política monetária restritiva; a análise do comportamento da força de trabalho será crucial para entender a sustentabilidade dessa melhora.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784819852.805803,
+    "titulo": "Alphabet: por que as ações da dona do Google desabam após empresa triplicar o lucro?",
+    "titulo_original": "Alphabet: por que as ações da dona do Google desabam após empresa triplicar o lucro? - VEJA",
+    "fonte": "Google News Acoes",
+    "publicado": "23/07 11:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A desvalorização das ações da Alphabet, mesmo com o triplo lucro, sugere que o mercado pode ter expectativas ainda maiores ou que outros fatores estão pesando. Se os motivos por trás da queda estiverem relacionados a projeções futuras de gastos ou receita, isso pode indicar um cenário de cautela para o setor de tecnologia; a análise detalhada dos resultados e do guidance da empresa será fundamental.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784819852.807613,
+    "titulo": "Mercados europeus fecham: Preços do petróleo continuam a subir, dólar acompanha rendimentos de títulos",
+    "titulo_original": "investingLive European markets wrap: Oil prices continue to surge higher, dollar climbs alongside bond yields",
+    "fonte": "ForexLive",
+    "publicado": "23/07 08:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A combinação de tensões geopolíticas, alta do petróleo e apostas em juros mais altos nos EUA e Europa cria um cenário de volatilidade. Se o BCE seguir a expectativa de pausa hoje e um último aumento em setembro, isso pode sinalizar um pico nos juros europeus; a persistência da inflação pode forçar o BCE a manter uma postura mais restritiva por mais tempo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784819852.8092477,
+    "titulo": "Fluxo de caixa livre negativo do Google alimenta temores sobre gastos com IA",
+    "titulo_original": "Fluxo de caixa livre negativo do Google alimenta temores sobre gastos com IA",
+    "fonte": "Valor Economico",
+    "publicado": "23/07 11:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O fluxo de caixa livre negativo do Google, especialmente em um contexto de altos investimentos em IA, pode gerar preocupações sobre a sustentabilidade do modelo de negócios a longo prazo. Se os investimentos em IA não se traduzirem em retornos futuros, isso pode pressionar ainda mais as ações; a capacidade da empresa de monetizar suas inovações em IA será um fator chave.",
+    "is_stocks": true
   }
 ]
