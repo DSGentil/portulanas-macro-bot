@@ -1,123 +1,5 @@
 [
   {
-    "_timestamp": 1784719888.8386836,
-    "titulo": "De Seara a iFood: como marmitas se tornaram prioridade de gigantes de alimentos no Brasil",
-    "titulo_original": "De Seara a iFood: como marmitas se tornaram  prioridade de gigantes de alimentos no Brasil",
-    "fonte": "InvestNews",
-    "publicado": "22/07 06:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O foco em marmitas por grandes empresas de alimentos reflete uma adaptação às mudanças de hábitos de consumo e à pressão inflacionária. Se a inflação persistir, a demanda por opções de refeição mais acessíveis e práticas pode continuar crescendo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784719893.6147277,
-    "titulo": "Minidólar (WDOQ26): petróleo e cenário externo podem mexer com o dólar",
-    "titulo_original": "Minidólar (WDOQ26): petróleo e cenário externo podem mexer com o dólar - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/07 07:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A correlação entre o preço do petróleo, o cenário externo e a cotação do dólar sugere que eventos geopolíticos e de commodities terão impacto direto no mercado de câmbio. Se a tensão no Oriente Médio aumentar, o dólar pode se fortalecer como ativo de refúgio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784719898.3765986,
-    "titulo": "IA impulsiona exportações mexicanas para os EUA e dificulta cruzada comercial de Trump",
-    "titulo_original": "IA impulsiona exportações mexicanas para os EUA e dificulta cruzada comercial de Trump",
-    "fonte": "Folha Mercado",
-    "publicado": "22/07 06:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "O crescimento das exportações mexicanas impulsionado pela IA pode fortalecer a posição do México no comércio regional. Se as políticas comerciais de Trump se tornarem mais restritivas, o impacto nas cadeias de suprimentos de tecnologia pode ser significativo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784719903.08038,
-    "titulo": "Disrupção no transporte marítimo no Mar Vermelho agora em foco, com navios forçados a mudar de rota",
-    "titulo_original": "Red Sea shipping disruption now in focus as vessels are forced to change course",
-    "fonte": "ForexLive",
-    "publicado": "22/07 08:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A interrupção do tráfego no Mar Vermelho e a ameaça de bloqueio de rotas de petróleo podem levar a um aumento nos custos de frete e, consequentemente, impactar os preços de energia e outras commodities. Se a situação se agravar, o risco de choque de oferta de energia aumentará.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784719909.4572399,
-    "titulo": "Petróleo avança até US$ 95 com tensão crescente no Oriente Médio",
-    "titulo_original": "Petróleo avança até US$ 95 com tensão crescente no Oriente Médio",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 08:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A escalada da tensão no Oriente Médio e o consequente aumento no preço do petróleo podem gerar pressões inflacionárias globais. Se os conflitos se intensificarem, o petróleo pode testar patamares ainda mais elevados, impactando custos de produção e transporte.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784719909.4584336,
-    "titulo": "Ações globais caem com investidores de olho no balanço da Alphabet e no retorno da IA",
-    "titulo_original": "Ações globais caem com investidores de olho no balanço da Alphabet e no retorno da IA - Bloomberg Línea Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "22/07 06:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A cautela dos investidores globais diante dos balanços corporativos e do desenvolvimento da IA pode indicar um período de ajuste nos mercados. Se os resultados da Alphabet vierem abaixo do esperado, a pressão sobre o setor de tecnologia pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784719909.459524,
-    "titulo": "Julho pode ter um dos menores volumes da B3 desde a pandemia: o que isso sinaliza?",
-    "titulo_original": "Julho pode ter um dos menores volumes da B3 desde a pandemia: o que isso sinaliza? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "22/07 07:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Um baixo volume na B3 pode indicar menor liquidez e possivelmente menor interesse dos investidores no mercado acionário brasileiro. Se essa tendência se mantiver, pode sinalizar um período de consolidação ou cautela generalizada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784719909.460616,
-    "titulo": "Agenda de empresas: Produção da Vale cresce no 2° trimestre; WEG divulga resultados",
-    "titulo_original": "Agenda de empresas: Produção da Vale cresce no 2° trimestre; WEG divulga resultados",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 08:13",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento na produção da Vale indica uma performance positiva da empresa no setor de mineração. Se a demanda global por commodities se mantiver forte, a Vale pode continuar a apresentar bons resultados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784719909.4617264,
-    "titulo": "Fundo imobiliário ajusta operação que prevê retorno de IPCA +13,6% ao ano; IFIX cai",
-    "titulo_original": "Fundo imobiliário ajusta operação que prevê retorno de IPCA +13,6% ao ano; IFIX cai",
-    "fonte": "Money Times",
-    "publicado": "22/07 08:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O ajuste em uma operação de fundo imobiliário com retorno atrelado ao IPCA pode indicar uma reavaliação das condições de mercado. Se a inflação continuar alta, fundos com essa indexação podem se tornar mais atrativos, mas a queda do IFIX sugere cautela no setor.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784726144.279697,
     "titulo": "CNI projeta déficit de R$ 55,3 bilhões em 2026 e reduz expectativa de queda da Selic - Canal Rural",
     "titulo_original": "CNI projeta déficit de R$ 55,3 bilhões em 2026 e reduz expectativa de queda da Selic - Canal Rural",
@@ -1176,5 +1058,67 @@
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa, apesar da alta de Petrobras e Vale, indica que outros setores da bolsa estão sendo mais afetados pela aversão a risco global. Se o cenário externo não melhorar, a tendência de baixa pode persistir, mesmo com a força das commodities.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784831458.7094615,
+    "titulo": "Instituto do Senado vê deterioração financeira das estatais federais desde 2018",
+    "titulo_original": "Instituto do Senado vê deterioração financeira das estatais federais desde 2018",
+    "fonte": "Folha Mercado",
+    "publicado": "23/07 14:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A constatação da IFI sobre a deterioração financeira das estatais federais desde 2018 aponta para possíveis ineficiências na gestão pública e pode demandar ações corretivas. Se o governo implementar medidas para reverter essa tendência, a saúde fiscal do país pode ser beneficiada. Caso contrário, o endividamento e a necessidade de aportes públicos podem aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784831463.1929104,
+    "titulo": "Reino Unido diz que está preparado para se defender após alerta do Irã",
+    "titulo_original": "Reino Unido diz que está preparado para se defender após alerta do Irã",
+    "fonte": "Valor Economico",
+    "publicado": "23/07 15:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do Reino Unido sinaliza uma postura de prontidão militar em meio a tensões regionais. Se a situação escalar, o Reino Unido pode se ver envolvido em conflitos diretos, o que poderia ter repercussões na estabilidade global. Caso as tensões diminuam, o foco pode retornar para questões econômicas e políticas internas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784831467.8217373,
+    "titulo": "Senado dos EUA bloqueia resolução que limita poderes de guerra de Trump contra o Irã. Tensões permanecem altas.",
+    "titulo_original": "US Senate blocks resolution curbing Trump's Iran War Powers. Tensions remain high.",
+    "fonte": "ForexLive",
+    "publicado": "23/07 13:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O bloqueio da resolução no Senado dos EUA indica que o Congresso não pretende restringir a ação militar do presidente Trump contra o Irã, o que pode encorajar uma postura mais assertiva. Se a escalada regional se concretizar, o impacto nos preços do petróleo e na confiança dos investidores globais pode ser significativo. Caso as tensões se dissipem, o foco pode retornar para a política interna dos EUA e as eleições.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784831472.3647678,
+    "titulo": "Petróleo brent salta e ultrapassa US$ 100 após ataque a petroleiros da Arábia Saudita - InfoMoney",
+    "titulo_original": "Petróleo brent salta e ultrapassa US$ 100 após ataque a petroleiros da Arábia Saudita - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "23/07 10:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O salto do petróleo Brent para acima de US$ 100, impulsionado por um ataque a petroleiros sauditas, eleva o risco de inflação e impacta custos em diversas economias. Se a tensão na região persistir, os preços do petróleo podem se manter elevados, pressionando a atividade econômica global. Caso a situação se normalize rapidamente, o preço do barril pode recuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784831476.9439228,
+    "titulo": "Trump ameaça intensificar ataques contra o Irã após repatriação de corpos de soldados americanos - G1",
+    "titulo_original": "Trump ameaça intensificar ataques contra o Irã após repatriação de corpos de soldados americanos - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "23/07 12:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As ameaças de Trump de intensificar ataques contra o Irã, em resposta à repatriação de corpos de soldados americanos, indicam uma escalada retórica e potencial militar. Se essas ameaças se materializarem em ações concretas, o conflito pode se agravar, com possíveis repercussões nos mercados globais de energia e segurança. Caso a diplomacia prevaleça, a tensão pode diminuir.",
+    "is_stocks": false
   }
 ]
