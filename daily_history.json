@@ -1,407 +1,5 @@
 [
   {
-    "_timestamp": 1784658646.5755997,
-    "titulo": "Dólar opera em queda com suporte do petróleo, mas movimento é limitado - UOL Economia",
-    "titulo_original": "Dólar opera em queda com suporte do petróleo, mas movimento é limitado - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/07 11:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda limitada do dólar, apesar do suporte do petróleo, sugere que outros fatores estão atuando para conter sua desvalorização. Se o preço do petróleo continuar a subir, isso pode dar mais fôlego à queda do dólar; caso contrário, outros drivers podem prevalecer.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784658650.3010492,
-    "titulo": "Custo da soja sobe para R$ 4,3 mil por hectare no Mato Grosso - Agrolink",
-    "titulo_original": "Custo da soja sobe para R$ 4,3 mil por hectare no Mato Grosso - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "21/07 13:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do custo da soja no Mato Grosso pode impactar a rentabilidade dos produtores. Se os preços de venda da soja não acompanharem essa alta de custos, a margem de lucro dos agricultores pode ser reduzida, afetando o setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784658654.0149758,
-    "titulo": "Ouro tem forte avanço, mas segue negociado em faixa restrita com Fed no radar",
-    "titulo_original": "Ouro tem forte avanço, mas segue negociado em faixa restrita com Fed no radar",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 15:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O avanço do ouro, mesmo com a alta dos rendimentos dos Treasuries, sugere que os riscos geopolíticos estão pesando mais no momento. Se o Fed sinalizar uma postura mais dovish em suas próximas comunicações, o ouro pode encontrar espaço para ganhos mais expressivos; caso contrário, a pressão de juros pode limitar sua alta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784658657.7505934,
-    "titulo": "Tensão no Oriente Médio se intensifica",
-    "titulo_original": "Tension in the middle east intensifies",
-    "fonte": "ForexLive",
-    "publicado": "21/07 15:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões no Oriente Médio aumenta a incerteza geopolítica e pode impactar o preço do petróleo e o fluxo de capital global. Se os confrontos se intensificarem, o risco de interrupções no fornecimento de energia pode crescer, afetando a economia mundial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784658662.8487244,
-    "titulo": "TSMC deve elevar ainda mais custos da IA: o que isso significa para a Intel?",
-    "titulo_original": "TSMC deve elevar ainda mais custos da IA: o que isso significa para a Intel?",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 13:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento de preços da TSMC pode pressionar os custos de produção para empresas de tecnologia que dependem de seus chips, como a Intel. Se a Intel não conseguir repassar esses custos ou encontrar alternativas, sua margem de lucro pode ser afetada, impactando seu desempenho no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784658662.8504102,
-    "titulo": "Google atualiza modelos Gemini leves, mas carro-chefe de IA continua atrasado",
-    "titulo_original": "Google atualiza modelos Gemini leves, mas carro-chefe de IA continua atrasado",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 13:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O adiamento do Gemini 3.5 Pro levanta questões sobre o ritmo de desenvolvimento do Google em IA avançada. Se a concorrência, como Anthropic e OpenAI, continuar a lançar modelos de ponta, o Google pode perder espaço no mercado de IA corporativa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784658662.8521624,
-    "titulo": "Londres criará outra Bolsa para funcionar à noite e permitir negociações 24 horas por dia",
-    "titulo_original": "Londres criará outra Bolsa para funcionar à noite e permitir negociações 24 horas por dia",
-    "fonte": "Folha Mercado",
-    "publicado": "21/07 11:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A criação de uma bolsa com operação 24 horas pela LSE visa aumentar a liquidez e a acessibilidade para investidores globais. Se a iniciativa for bem-sucedida, pode atrair mais volume de negociação e influenciar a dinâmica de outros mercados globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784658662.8538227,
-    "titulo": "Bons resultados de companhias de IA podem “roubar” fluxo da Bolsa brasileira, diz analista; veja os destaques do Giro desta terça (21)",
-    "titulo_original": "Bons resultados de companhias de IA podem “roubar” fluxo da Bolsa brasileira, diz analista; veja os destaques do Giro desta terça (21)",
-    "fonte": "Money Times",
-    "publicado": "21/07 14:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A observação de que o desempenho de empresas de IA pode impactar o fluxo para a Bolsa brasileira é relevante em um contexto de busca por rentabilidade. Se os resultados de IA continuarem fortes, isso pode intensificar a competição por capital de investidores globais e domésticos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784658662.8554554,
-    "titulo": "Nem só de Selic vive o investidor: empresas brasileiras distribuem US$ 6,3 bilhões em dividendos — quem é a vaca leiteira que puxa essa fila?",
-    "titulo_original": "Nem só de Selic vive o investidor: empresas brasileiras distribuem US$ 6,3 bilhões em dividendos — quem é a vaca leiteira que puxa essa fila? - Seu Dinheiro",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/07 11:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A distribuição de dividendos por empresas brasileiras pode ser uma fonte de atratividade para investidores em busca de renda passiva. Se a rentabilidade dessas distribuições superar outras opções de investimento, isso pode impulsionar o interesse em ações de empresas com histórico de bons pagamentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784665847.6101995,
-    "titulo": "Imposto sobre exportação de petróleo gerou R$ 9,6 bilhões adicionais em royalties no primeiro semestre, diz IBP",
-    "titulo_original": "Imposto sobre exportação de petróleo gerou R$ 9,6 bilhões adicionais em royalties no primeiro semestre, diz IBP - Agência eixos",
-    "fonte": "Google News Commodities",
-    "publicado": "21/07 16:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento na arrecadação de royalties devido ao imposto sobre exportação de petróleo pode ter um impacto positivo nas contas públicas. Se essa tendência se mantiver, pode aliviar a pressão sobre o orçamento ou permitir maiores investimentos em áreas específicas, dependendo da destinação desses recursos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784665851.0563455,
-    "titulo": "Governo se reúne com setores afetados por tarifaço, que pedem reforço a medidas",
-    "titulo_original": "Governo se reúne com setores afetados por tarifaço, que pedem reforço a medidas",
-    "fonte": "Folha Mercado",
-    "publicado": "21/07 16:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A reunião indica que as tarifas impostas pelos EUA estão gerando preocupações significativas no setor produtivo brasileiro, que busca mitigar os impactos. Se o governo brasileiro não oferecer contrapartidas ou medidas de apoio eficazes, a competitividade das indústrias afetadas pode ser comprometida, impactando a balança comercial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784665854.5094392,
-    "titulo": "Canada Carney: Latest tariff threat are a violation of USMCA",
-    "titulo_original": "Canada Carney: Latest tariff threat are a violation of USMCA",
-    "fonte": "ForexLive",
-    "publicado": "21/07 12:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A disputa comercial entre Canadá e EUA, com ameaças de tarifas, pode gerar volatilidade nos mercados globais e afetar cadeias de suprimentos. A intensificação das negociações comerciais é um passo positivo, mas a incerteza sobre a aplicação das tarifas pode persistir, impactando o sentimento do investidor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784665857.9387336,
-    "titulo": "Premiê do Canadá diz que intensificará negociações comerciais com Trump",
-    "titulo_original": "Premiê do Canadá diz que intensificará negociações comerciais com Trump",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 15:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão de intensificar as negociações comerciais entre Canadá e EUA, apesar das ameaças de tarifas, sugere um esforço para evitar um conflito comercial mais amplo. Se as negociações forem bem-sucedidas, isso pode trazer mais estabilidade ao cenário internacional; caso contrário, a aplicação das tarifas pode gerar volatilidade e impactar o sentimento do investidor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784665862.8491225,
-    "titulo": "Dividendos crescem na B3 e somam US$ 6,3 bilhões, com destaque para uma empresa; recompras de ações recuam",
-    "titulo_original": "Dividendos crescem na B3 e somam US$ 6,3 bilhões, com destaque para uma empresa; recompras de ações recuam",
-    "fonte": "Money Times",
-    "publicado": "21/07 16:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento nos dividendos distribuídos pelas empresas da B3 indica uma melhora na rentabilidade corporativa e uma política de remuneração aos acionistas mais generosa. Se a tendência de recompra de ações em queda persistir, pode sugerir que as empresas preferem distribuir lucros em vez de investir na própria estrutura ou em aquisições.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784665862.850825,
-    "titulo": "Zema propõe tirar controle da Petrobras do governo e transformar a estatal em 'corporation' - G1",
-    "titulo_original": "Zema propõe tirar controle da Petrobras do governo e transformar a estatal em 'corporation' - G1",
-    "fonte": "Google News Acoes",
-    "publicado": "21/07 13:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de transformar a Petrobras em uma 'corporation' pode alterar a dinâmica de governança e a relação com o acionista controlador. Se a proposta avançar, pode haver maior autonomia para a gestão da empresa, com potenciais impactos na estratégia de investimentos e na política de preços, mas a concretização depende de aprovações e debates políticos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784665862.8525517,
-    "titulo": "BB faz ofensiva para recuperar confiança do mercado e ações sobem 3%",
-    "titulo_original": "BB faz ofensiva para recuperar confiança do mercado e ações sobem 3%",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 16:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta de quase 3% nas ações do Banco do Brasil reflete uma melhora na percepção do mercado sobre a saúde financeira da instituição. Se a estratégia de comunicação e as medidas para reverter a deterioração da carteira de crédito forem bem-sucedidas, isso pode consolidar a recuperação da confiança e sustentar o desempenho positivo das ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784671254.4906244,
-    "titulo": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo",
-    "titulo_original": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 17:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de Renan Santos de 'guerra ao crime' e ajuste fiscal, se implementada, pode ter impactos significativos na segurança pública e nas contas públicas. Se as reformas fiscais forem eficazes em reduzir o déficit, isso pode melhorar a confiança na economia; caso contrário, a abordagem de segurança pode gerar debates sobre direitos civis.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784671259.3429637,
-    "titulo": "Você sabe quanto paga pela segurança nos investimentos?",
-    "titulo_original": "Você sabe quanto paga pela segurança nos investimentos?",
-    "fonte": "Folha Mercado",
-    "publicado": "21/07 18:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A busca por segurança em investimentos, especialmente contra a inflação, é uma constante para muitos investidores. Se a inflação continuar em patamares elevados, a demanda por títulos como o Tesouro IPCA pode se manter forte; caso contrário, outros tipos de investimento com maior potencial de retorno podem ganhar atratividade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784671264.1012886,
-    "titulo": "Juros futuros têm leve alta com avanço dos Treasuries e do petróleo",
-    "titulo_original": "Juros futuros têm leve alta com avanço dos Treasuries e do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 18:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta nos juros futuros reflete a influência de fatores externos, como os rendimentos dos Treasuries e o preço do petróleo. Se as tensões no Oriente Médio se intensificarem, o petróleo pode continuar a pressionar as taxas de juros para cima; caso contrário, uma resolução pacífica poderia levar a uma reversão desse movimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784671268.7560954,
-    "titulo": "Itamaraty emite alerta e desaconselha viagens para Israel, Catar, Emirados Árabes e outros países",
-    "titulo_original": "Itamaraty emite alerta e desaconselha viagens para Israel, Catar, Emirados Árabes e outros países - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "21/07 16:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O alerta do Itamaraty sugere um aumento das tensões geopolíticas em regiões específicas. Se a instabilidade persistir ou se expandir, isso pode afetar o fluxo de capital e o sentimento de risco global; caso contrário, se a situação se normalizar rapidamente, o impacto pode ser limitado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784671274.5525205,
-    "titulo": "Ibovespa fecha estável e dólar comercial cai a R$ 5,0737",
-    "titulo_original": "Ibovespa fecha estável e dólar comercial cai a R$ 5,0737 - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/07 18:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade do Ibovespa e a queda do dólar podem ser interpretadas de diferentes formas dependendo de outros fatores de mercado não mencionados. Se essa tendência de queda do dólar se mantiver, pode indicar um aumento da confiança na economia brasileira; se o Ibovespa permanecer volátil, pode refletir incertezas sobre o cenário político ou econômico.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784671274.5542595,
-    "titulo": "Ibovespa hoje fecha em leve baixa com pesquisa eleitoral e alta do petróleo; dólar cai a R$ 5,07",
-    "titulo_original": "Ibovespa hoje fecha em leve baixa com pesquisa eleitoral e alta do petróleo; dólar cai a R$ 5,07 - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/07 17:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de fatores como pesquisas eleitorais e o preço do petróleo mostra a complexidade do mercado brasileiro. Se as pesquisas eleitorais indicarem maior instabilidade política, isso pode pressionar o Ibovespa; se o petróleo continuar em alta, pode ter um efeito misto, beneficiando exportadoras mas pressionando a inflação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784671274.5559695,
-    "titulo": "Ibovespa: petróleo minimiza perdas do índice, mas não evita 5ª queda seguida",
-    "titulo_original": "Ibovespa: petróleo minimiza perdas do índice, mas não evita 5ª queda seguida - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "21/07 18:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A sequência de quedas do Ibovespa, mesmo com o suporte do petróleo, indica uma pressão vendedora mais ampla no mercado. Se os fatores que causam essa pressão persistirem, como incertezas econômicas ou políticas, a tendência de baixa pode continuar; caso contrário, uma melhora no sentimento do mercado pode levar a uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784676645.7330658,
-    "titulo": "No 2º trimestre, receitas da Claro Brasil crescem 5,1%",
-    "titulo_original": "No 2º trimestre, receitas da Claro Brasil crescem 5,1%",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 19:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento nas receitas da Claro Brasil indica uma performance positiva no setor de telecomunicações. Se a expansão da rede 5G continuar a atrair clientes, a empresa pode consolidar ainda mais sua posição de mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784676649.6777518,
-    "titulo": "Fazenda de SP diz que tarifa dos EUA deve ter efeito limitado sobre empresas do Estado",
-    "titulo_original": "Fazenda de SP diz que tarifa dos EUA deve ter efeito limitado sobre empresas do Estado",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 19:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração da Fazenda de SP sugere que o impacto das tarifas americanas pode ser mais localizado do que o inicialmente previsto. Se a avaliação se confirmar, o setor produtivo paulista pode ter uma resiliência maior a choques externos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784676653.5797844,
-    "titulo": "Petróleo volta a fechar acima de US$ 90 e mercado se preocupa com suprimento de diesel",
-    "titulo_original": "Petróleo volta a fechar acima de US$ 90 e mercado se preocupa com suprimento de diesel",
-    "fonte": "Folha Mercado",
-    "publicado": "21/07 19:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo acima de US$ 90 pode gerar pressões inflacionárias globais, especialmente no custo de combustíveis. Se as tensões no Oriente Médio se intensificarem, o preço do barril pode continuar a subir, afetando a economia mundial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784676657.5136368,
-    "titulo": "Petróleo sobe 2% e fecha acima de US$ 90 o barril com tensões no Oriente Médio - Valor Econômico",
-    "titulo_original": "Petróleo sobe 2% e fecha acima de US$ 90 o barril com tensões no Oriente Médio - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "21/07 16:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões no Oriente Médio e o consequente aumento do preço do petróleo podem impactar a inflação global e o custo de produção para diversas indústrias. Se a situação geopolítica não se estabilizar, o preço do barril pode continuar a subir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784676683.473258,
-    "titulo": "Vale tem melhor produção de minério de ferro para 2º tri desde 2018",
-    "titulo_original": "Vale tem melhor produção de minério de ferro para 2º tri desde 2018",
-    "fonte": "Valor Economico",
-    "publicado": "21/07 19:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento na produção de minério de ferro da Vale sugere uma demanda robusta por commodities. Se os preços do minério de ferro se mantiverem elevados, isso pode impactar positivamente os resultados da empresa e a balança comercial brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784676683.475082,
-    "titulo": "Neoenergia (NEOE3) lucra R$ 900 milhões no 2º trimestre, queda de 45% com efeito não recorrente",
-    "titulo_original": "Neoenergia (NEOE3) lucra R$ 900 milhões no 2º trimestre, queda de 45% com efeito não recorrente",
-    "fonte": "Money Times",
-    "publicado": "21/07 19:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda no lucro da Neoenergia pode ser atribuída a fatores pontuais, mas é importante monitorar a sustentabilidade da receita em trimestres futuros. Se os efeitos não recorrentes se dissiparem, a empresa pode apresentar uma recuperação em seus resultados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784676683.4768238,
-    "titulo": "Argentina ganha novo upgrade da Moody’s e reduz distância para nota do Brasil",
-    "titulo_original": "Argentina ganha novo upgrade da Moody’s e reduz distância para nota do Brasil",
-    "fonte": "Money Times",
-    "publicado": "21/07 19:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O upgrade da nota da Argentina pela Moody's sinaliza uma melhora na percepção de risco do país. Se a Argentina conseguir manter a trajetória de estabilização macroeconômica, isso pode atrair mais investimentos e reduzir o prêmio de risco na região.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784676683.4785454,
-    "titulo": "Vale bate recorde de minério, mas é o cobre que engorda a conta - InvestNews",
-    "titulo_original": "Vale bate recorde de minério, mas é o cobre que engorda a conta - InvestNews",
-    "fonte": "Google News Commodities",
-    "publicado": "21/07 19:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A diversificação na produção de commodities pela Vale, com destaque para o cobre, pode trazer maior estabilidade aos seus resultados. Se a demanda por cobre se mantiver forte, a empresa pode se beneficiar da transição energética global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784676683.4802969,
-    "titulo": "Vale registra aumento de 3% em vendas de minério no 2º trimestre, a 79 milhões de toneladas - O GLOBO",
-    "titulo_original": "Vale registra aumento de 3% em vendas de minério no 2º trimestre, a 79 milhões de toneladas - O GLOBO",
-    "fonte": "Google News Commodities",
-    "publicado": "21/07 19:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento nas vendas de minério de ferro da Vale indica uma demanda consistente por commodities siderúrgicas. Se a produção global de aço se mantiver em patamares elevados, a Vale pode continuar a reportar bons resultados em suas vendas de minério.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784719888.8386836,
     "titulo": "De Seara a iFood: como marmitas se tornaram prioridade de gigantes de alimentos no Brasil",
     "titulo_original": "De Seara a iFood: como marmitas se tornaram  prioridade de gigantes de alimentos no Brasil",
@@ -1163,6 +761,76 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O resultado financeiro expressivo da Alphabet, embora seja de uma empresa estrangeira, pode influenciar o sentimento de investidores globais em relação a empresas de tecnologia. Se o mercado interpretar esse desempenho como um indicador de força do setor, pode haver um reflexo indireto no apetite por risco global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784806254.8338988,
+    "titulo": "Dívida pública muda de perfil. Tesouro amplia dependência da Selic e enfrenta menor demanda por títulos de longo prazo",
+    "titulo_original": "Dívida pública muda de perfil. Tesouro amplia dependência da Selic e enfrenta menor demanda por títulos de longo prazo - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/07 06:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A maior dependência da dívida pública em relação à Selic e a menor demanda por títulos de longo prazo indicam um cenário de maior custo de rolagem da dívida e potencial dificuldade em financiar o déficit fiscal. Se a taxa Selic permanecer elevada, o custo da dívida pública aumentará, pressionando o orçamento. A menor demanda por títulos de longo prazo pode forçar o Tesouro a oferecer taxas mais altas, elevando ainda mais o custo de financiamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784806258.3393683,
+    "titulo": "Minidólar (WDOQ26): veja os níveis que podem definir o rumo do dólar futuro",
+    "titulo_original": "Minidólar (WDOQ26): veja os níveis que podem definir o rumo do dólar futuro - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/07 07:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise de níveis técnicos é fundamental para operações de curto prazo no mercado futuro. Se os níveis de suporte e resistência forem rompidos, isso pode indicar uma mudança na tendência do dólar futuro. Acompanhar esses pontos pode ajudar a antecipar movimentos de preço, mas a volatilidade do mercado pode levar a falsos sinais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784806261.8861666,
+    "titulo": "CGU pode mirar patrimônio de Vorcaro para responsabilizar Master por corrupção de servidores",
+    "titulo_original": "CGU pode mirar patrimônio de Vorcaro para responsabilizar Master por corrupção de servidores",
+    "fonte": "Folha Mercado",
+    "publicado": "23/07 04:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ação da CGU visa responsabilizar o Banco Master e seus sócios por suposta corrupção de servidores do Banco Central. Se a investigação comprovar a participação da instituição, isso pode gerar multas e outras sanções, impactando a reputação e a saúde financeira do banco. A investigação também pode levar a mudanças nas regulamentações de compliance e integridade no setor financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784806265.5022104,
+    "titulo": "Agenda do dia: Decisão de juros pelo BCE é destaque",
+    "titulo_original": "Agenda do dia: Decisão de juros pelo BCE é destaque",
+    "fonte": "Valor Economico",
+    "publicado": "23/07 08:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A decisão de juros do BCE é crucial para as expectativas de política monetária na Europa e pode influenciar outras economias. Se o BCE sinalizar um aperto monetário mais forte, isso pode impactar o crescimento europeu e os mercados globais. No Brasil, o leilão de títulos prefixados e os dados da indústria da construção fornecerão insights sobre as condições de financiamento e a atividade econômica doméstica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784806269.7693148,
+    "titulo": "Carf cancela parte de autuação de R$ 5,5 bilhões da Petrobras sobre PIS/Cofins",
+    "titulo_original": "Carf cancela parte de autuação de R$ 5,5 bilhões da Petrobras sobre PIS/Cofins - JOTA Info",
+    "fonte": "Google News Acoes",
+    "publicado": "23/07 06:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Carf representa um alívio fiscal para a Petrobras, reduzindo o montante de impostos a serem pagos. Se a Petrobras conseguir reverter judicialmente o restante da autuação, isso pode melhorar seus resultados financeiros. No entanto, a decisão do Carf pode criar um precedente para outras empresas em situações semelhantes, impactando a arrecadação fiscal do governo.",
     "is_stocks": true
   }
 ]
