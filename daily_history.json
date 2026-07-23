@@ -1,88 +1,5 @@
 [
   {
-    "_timestamp": 1784733343.6797698,
-    "titulo": "Couto diz que é possível aumentar superávit no RJ de R$ 5 bi para R$ 7 bi sem comprometer máquina",
-    "titulo_original": "Couto diz que é possível aumentar superávit no RJ de R$ 5 bi para R$ 7 bi sem comprometer máquina",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 11:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia trata de uma meta fiscal estadual e de medidas para alcançá-la, como aumento da fiscalização e redução de secretarias. Se essas medidas forem implementadas e tiverem sucesso, podem indicar uma gestão fiscal mais rigorosa no estado, o que pode ser um indicativo para outras esferas fiscais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784733347.423448,
-    "titulo": "Tesouro Direto: choque do petróleo deixa dúvidas de sobra sobre futuro dos juros e taxas sobem - Valor Investe",
-    "titulo_original": "Tesouro Direto: choque do petróleo deixa dúvidas de sobra sobre futuro dos juros e taxas sobem - Valor Investe",
-    "fonte": "Google News Commodities",
-    "publicado": "22/07 10:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A notícia conecta diretamente o choque do petróleo com o futuro dos juros e a alta das taxas. Se o petróleo impulsionar a inflação, o Banco Central pode ser pressionado a manter ou aumentar os juros. A alta das taxas do Tesouro Direto reflete essa expectativa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784733351.1596313,
-    "titulo": "Escalada da guerra no Irã pode reduzir crescimento global a 1,3%, diz economista-chefe do Banco Mundial",
-    "titulo_original": "Escalada da guerra no Irã pode reduzir crescimento global a 1,3%, diz economista-chefe do Banco Mundial",
-    "fonte": "Folha Mercado",
-    "publicado": "22/07 10:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Um cenário de escalada de conflito no Oriente Médio, com potencial impacto inflacionário e de juros, pode levar a uma desaceleração global. Se a instabilidade persistir, a pressão por juros mais altos pode se intensificar, afetando o crescimento em diversas economias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784733354.9057846,
-    "titulo": "USTR Greer testemunha no Senado: Estamos avançando com toda a velocidade nas negociações do USMCA",
-    "titulo_original": "USTR Greer testifies in the Senate: We are moving with all due speed on USMCA negotiations",
-    "fonte": "ForexLive",
-    "publicado": "22/07 11:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "As negociações do USMCA e as políticas comerciais dos EUA podem influenciar o fluxo de comércio e, indiretamente, a atividade econômica global. Se as regras de origem se tornarem mais restritivas, isso pode impactar a produção em outros países.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784733360.1967885,
-    "titulo": "Bolsas de NY operam sem sinal único com avanço do petróleo e à espera de balanços",
-    "titulo_original": "Bolsas de NY operam sem sinal único com avanço do petróleo e à espera de balanços",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 10:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia descreve o comportamento das bolsas de Nova York, mencionando o impacto do petróleo e tensões geopolíticas. Embora esses fatores possam influenciar a atividade econômica global, a notícia foca no desempenho dos índices acionários e nos balanços corporativos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784733360.1982577,
-    "titulo": "Multiplan: lucro recorde, mas ação em queda. Entenda por quê",
-    "titulo_original": "Multiplan: lucro recorde, mas ação em queda. Entenda por quê",
-    "fonte": "InvestNews",
-    "publicado": "22/07 08:06",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia menciona uma relação entre o desempenho da ação da Multiplan e os juros reais. Se a empresa utiliza os juros a seu favor de forma significativa, isso pode indicar uma estratégia que a torna sensível a mudanças na política monetária.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784738744.5119169,
     "titulo": "Mercado de trabalho aquecido explica metade do desvio da inflação de serviços, diz estudo do BC",
     "titulo_original": "Mercado de trabalho aquecido explica metade do desvio da inflação de serviços, diz estudo do BC",
@@ -1092,6 +1009,123 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "As quedas expressivas de Alphabet e Tesla após a divulgação de seus resultados trimestrais indicam uma reação negativa do mercado às suas performances. Se esses resultados refletirem tendências mais amplas no setor de tecnologia, isso pode impactar outros players do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784844051.3568177,
+    "titulo": "‘Tem que dobrar de preço para ficar barata’: grandes gestores de ações seguem otimistas com a Bolsa",
+    "titulo_original": "‘Tem que dobrar de preço para ficar barata’: grandes gestores de ações seguem otimistas com a Bolsa - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "23/07 15:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O otimismo de grandes gestores com a bolsa brasileira, mesmo em um cenário de incertezas, pode indicar uma visão de que os fundamentos de algumas empresas estão sólidos. Se essa percepção se traduzir em maior fluxo de capital para a renda variável, isso pode impulsionar o mercado acionário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784844055.357861,
+    "titulo": "Juros futuros sobem ao maior nível em um mês com petróleo a US$ 100",
+    "titulo_original": "Juros futuros sobem ao maior nível em um mês com petróleo a US$ 100",
+    "fonte": "Valor Economico",
+    "publicado": "23/07 18:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta dos juros futuros, impulsionada pelo petróleo a US$ 100, sinaliza que o mercado precifica um risco inflacionário maior e, consequentemente, a possibilidade de o Banco Central manter uma postura mais restritiva. Se o preço do petróleo se mantiver elevado, isso pode pressionar a inflação e adiar cortes de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784844059.2965012,
+    "titulo": "Especialistas veem ‘guerra política’ com EUA e não creem em grande ajuste fiscal devido a ‘populismo de direita e de esquerda’",
+    "titulo_original": "Especialistas veem ‘guerra política’ com EUA e não creem em grande ajuste fiscal devido a ‘populismo de direita e de esquerda’",
+    "fonte": "Money Times",
+    "publicado": "23/07 17:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A percepção de uma 'guerra política' com os EUA e a dificuldade em realizar um ajuste fiscal devido ao populismo indicam um cenário de incerteza para a política econômica brasileira. Se as tensões comerciais se intensificarem, isso pode afetar o fluxo de capitais e a confiança dos investidores no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784844063.2592263,
+    "titulo": "Países temem usar dólar por risco de sanções, diz ex-Fed",
+    "titulo_original": "Países temem usar dólar por risco de sanções, diz ex-Fed - Poder360",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/07 18:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O receio de países em usar o dólar por risco de sanções pode indicar uma busca por alternativas e uma potencial fragmentação do sistema financeiro global. Se essa tendência se intensificar, pode haver pressões sobre a demanda por dólar e, consequentemente, sobre o seu valor em relação a outras moedas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784844068.7941835,
+    "titulo": "investingLive Americas FX news wrap 23 Jul: Risk off sentiment as geopolitical tensions rise.",
+    "titulo_original": "investingLive Americas FX news wrap 23 Jul: Risk off sentiment as geopolitical tensions rise.",
+    "fonte": "ForexLive",
+    "publicado": "23/07 18:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento das tensões geopolíticas e a alta do petróleo sugerem um cenário de aversão ao risco global, o que tende a pressionar ativos de maior risco como ações. Se a escalada geopolítica persistir, o dólar pode se fortalecer como ativo de refúgio, impactando o fluxo de capitais para mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784844068.7960303,
+    "titulo": "Ibovespa recua com aversão ao risco global, apesar da alta do petróleo",
+    "titulo_original": "Ibovespa recua com aversão ao risco global, apesar da alta do petróleo - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "23/07 18:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A aversão ao risco global impactando negativamente o Ibovespa sugere que fatores externos estão prevalecendo sobre o desempenho de commodities como o petróleo. Se o cenário de aversão ao risco se mantiver, isso pode continuar a pressionar o mercado acionário brasileiro e atrair capital para ativos mais seguros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784844068.7978024,
+    "titulo": "Ibovespa B3 recua 0,46%, com expansão da guerra no Oriente Médio; dólar vai a R$ 5,08",
+    "titulo_original": "Ibovespa B3 recua 0,46%, com expansão da guerra no Oriente Médio; dólar vai a R$ 5,08 - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "23/07 17:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia demonstra a correlação entre a expansão de conflitos no Oriente Médio e a performance negativa do Ibovespa, juntamente com a valorização do dólar. Se a situação no Oriente Médio se agravar, a aversão ao risco global tende a se intensificar, pressionando ainda mais o mercado acionário e o câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784844068.7995422,
+    "titulo": "B3 terá ‘stablecoin' de real e prepara tokenização de ativos",
+    "titulo_original": "B3 terá ‘stablecoin' de real e prepara tokenização de ativos",
+    "fonte": "Valor Economico",
+    "publicado": "23/07 18:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa da B3 em lançar uma stablecoin e focar em tokenização de ativos pode otimizar a liquidez e a eficiência de transações no mercado financeiro brasileiro. Se a adoção for ampla, isso pode reduzir custos operacionais e abrir espaço para novos produtos de investimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784844068.8013473,
+    "titulo": "EPR arremata trecho da Régis Bittencourt que liga Curitiba a São Paulo",
+    "titulo_original": "EPR arremata trecho da Régis Bittencourt que liga Curitiba a São Paulo",
+    "fonte": "Folha Mercado",
+    "publicado": "23/07 14:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A concessão de infraestrutura rodoviária é uma decisão regulatória com impacto na economia e no setor de transportes. Se a EPR conseguir otimizar a operação e o fluxo de veículos, isso pode gerar eficiências logísticas. A notícia em si não detalha o impacto fiscal direto, mas é uma decisão regulatória concreta.",
     "is_stocks": true
   }
 ]
