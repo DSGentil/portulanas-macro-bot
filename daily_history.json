@@ -1,356 +1,5 @@
 [
   {
-    "_timestamp": 1784745052.491525,
-    "titulo": "Dólar PTAX hoje (22/07): cotação fecha em R$ 5,0638, com queda de 0,28%",
-    "titulo_original": "Dólar PTAX hoje (22/07): cotação fecha em R$ 5,0638, com queda de 0,28% - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/07 14:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda de 0,28% no Dólar PTAX para R$ 5,0638 indica uma valorização do real frente à moeda americana. Se essa tendência de queda do dólar se mantiver, pode sinalizar um fluxo de capital mais favorável ao Brasil ou uma menor percepção de risco, o que pode influenciar decisões de investimento e importação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784745057.276541,
-    "titulo": "Previsão da Anec de exportação de soja em julho é revisada para baixo",
-    "titulo_original": "Previsão da Anec de exportação de soja em julho é revisada para baixo - UOL Notícias",
-    "fonte": "Google News Commodities",
-    "publicado": "22/07 14:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A revisão para baixo na previsão de exportação de soja pela Anec em julho pode indicar uma menor entrada de divisas no país ou uma desaceleração na demanda externa. Se essa tendência se confirmar, pode ter um impacto na balança comercial brasileira e, indiretamente, no fluxo de capital e na taxa de câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784745062.076476,
-    "titulo": "Ouro tem forte avanço em meio ao desconto nos preços e riscos geopolíticos",
-    "titulo_original": "Ouro tem forte avanço em meio ao desconto nos preços e riscos geopolíticos",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 14:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento do ouro, tradicional ativo de refúgio, em meio a tensões geopolíticas e temores inflacionários, pode indicar uma maior aversão ao risco no cenário global. Se as tensões geopolíticas se intensificarem, o ouro tende a continuar sua trajetória de alta; caso contrário, a pressão inflacionária e as decisões do Fed sobre juros se tornarão os principais drivers para o ativo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784745066.9701123,
-    "titulo": "US treasury auctions off $13 billion of 20 year bonds at a high yield of 5.163%",
-    "titulo_original": "US treasury auctions off $13 billion of 20 year bonds at a high yield of 5.163%",
-    "fonte": "ForexLive",
-    "publicado": "22/07 14:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O rendimento de 5,163% no leilão de títulos de 20 anos dos EUA, ligeiramente acima do esperado e com demanda doméstica mais fraca, pode sinalizar uma menor atratividade desses papéis no momento. Se essa tendência de menor demanda se confirmar em leilões futuros, isso pode pressionar os rendimentos para cima, impactando o custo de capital globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784745073.8263075,
-    "titulo": "Por que Ibovespa sobe mais de 1% e dólar cai em dia em que tarifaço passou a valer?",
-    "titulo_original": "Por que Ibovespa sobe mais de 1% e dólar cai em dia em que tarifaço passou a valer? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/07 11:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa e a queda do dólar no dia em que um pacote de tarifas entrou em vigor sugerem uma reação positiva do mercado a essa medida, possivelmente por expectativas de impacto fiscal ou de estímulo a setores específicos. Se o pacote de tarifas gerar efeitos positivos na arrecadação ou na atividade econômica, isso pode sustentar o desempenho da bolsa e a valorização do real.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784745073.8282337,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e volta aos 176 mil pontos com VALE3 e WEGE3",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e volta aos 176 mil pontos com VALE3 e WEGE3 - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "22/07 11:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte alta do Ibovespa, impulsionada por ações específicas como VALE3 e WEGE3, indica um sentimento positivo no mercado acionário brasileiro. Se o desempenho dessas empresas refletir melhorias em setores produtivos ou expectativas de crescimento econômico, isso pode ser um indicativo de melhora na atividade econômica geral.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784745073.8300836,
-    "titulo": "Treasury targets Wall Street tax loopholes as IRS ramps up enforcement",
-    "titulo_original": "Treasury targets Wall Street tax loopholes as IRS ramps up enforcement",
-    "fonte": "ForexLive",
-    "publicado": "22/07 13:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A intensificação da fiscalização sobre brechas fiscais em Wall Street pode levar a uma maior conformidade e potencialmente a uma arrecadação tributária mais elevada para o governo dos EUA. Se essas ações resultarem em mudanças regulatórias concretas ou em multas significativas, isso pode afetar a rentabilidade de certos produtos financeiros e a forma como os investidores estruturam suas operações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784745073.8319087,
-    "titulo": "AMD investirá US$ 5 bi na Anthropic e venderá bilhões de dólares em servidores",
-    "titulo_original": "AMD investirá US$ 5 bi na Anthropic e venderá bilhões de dólares em servidores",
-    "fonte": "Folha Mercado",
-    "publicado": "22/07 15:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O investimento da AMD na Anthropic e a venda de servidores de IA são movimentos estratégicos corporativos no setor de tecnologia. Embora o mercado de IA seja relevante, a notícia em si não conecta diretamente essas ações a canais macroeconômicos como juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784745073.8337715,
-    "titulo": "Petrobras: BB Investimentos aposta em petróleo mais caro e eleva ações para compra",
-    "titulo_original": "Petrobras: BB Investimentos aposta em petróleo mais caro e eleva ações para compra - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "22/07 12:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de compra das ações da Petrobras pelo BB Investimentos, baseada na expectativa de alta do preço do petróleo, é uma análise de mercado focada em uma empresa específica. Embora o preço do petróleo tenha implicações macroeconômicas, a notícia em si não conecta essa recomendação a canais como juros, inflação, atividade/emprego ou decisão fiscal/regulatória.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784752251.5550275,
-    "titulo": "TCU alerta que custo de R$ 4,6 bi da universalização pressiona Correios e amplia risco fiscal da União",
-    "titulo_original": "TCU alerta que custo de R$ 4,6 bi da universalização pressiona Correios e amplia risco fiscal da União",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 16:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O alerta do TCU sobre o risco fiscal dos Correios indica uma potencial pressão sobre as contas públicas. Se o governo não encontrar um mecanismo de compensação adequado, o custo da universalização poderá se tornar um passivo maior para a União; caso medidas sejam tomadas para mitigar esse risco, o impacto fiscal pode ser controlado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784752256.3696916,
-    "titulo": "Os sinais de uma crise de dívida que a eleição prefere ignorar",
-    "titulo_original": "Os sinais de uma crise de dívida que a eleição prefere ignorar",
-    "fonte": "Folha Mercado",
-    "publicado": "22/07 16:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para uma trajetória preocupante do endividamento público brasileiro. Se o governo não conseguir gerar superávits primários consistentes, a dívida pública pode continuar a crescer, elevando o risco fiscal; caso medidas de controle de gastos ou aumento de receitas sejam implementadas com sucesso, a trajetória da dívida pode ser revertida.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784752261.200164,
-    "titulo": "Após mais de uma década, gestora Vinci Compass vende o Banco Ribeirão Preto (BRP)",
-    "titulo_original": "Após mais de uma década, gestora Vinci Compass vende o Banco Ribeirão Preto (BRP)",
-    "fonte": "InvestNews",
-    "publicado": "22/07 14:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A venda do Banco Ribeirão Preto pela Vinci Compass depende de aprovação regulatória. Se o Cade e o Banco Central aprovarem a transação, isso sinaliza um movimento de consolidação ou reestruturação no setor bancário; caso haja objeções, pode indicar desafios para a conclusão de negócios similares no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784752266.0014162,
-    "titulo": "Petróleo sobe 3% com escalada de tensões entre Estados Unidos e Irã",
-    "titulo_original": "Petróleo sobe 3% com escalada de tensões entre Estados Unidos e Irã",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 16:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta expressiva do petróleo, impulsionada por tensões geopolíticas no Oriente Médio, pode impactar a inflação global e, consequentemente, as decisões de política monetária de diversos países. Se a escalada de conflitos se intensificar, o preço do barril pode continuar a subir, pressionando custos de energia e transporte em diversas economias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784752271.8185835,
-    "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro",
-    "titulo_original": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 15:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A prorrogação do prazo para a emissão de CNPJ por pessoas físicas para fins fiscais, ligada à reforma tributária, adia a implementação de uma nova regra de tributação. Se a data de 1º de janeiro de 2027 for mantida, as empresas terão mais tempo para se adaptar às novas obrigações fiscais; caso haja novas alterações, isso pode gerar incertezas sobre o cronograma da reforma.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784752271.8206046,
-    "titulo": "Bolsas em NY caem com peso de tensões no Oriente Médio e cautela antes de balanços",
-    "titulo_original": "Bolsas em NY caem com peso de tensões no Oriente Médio e cautela antes de balanços",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 17:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda das bolsas em Nova York, influenciada por tensões geopolíticas e balanços corporativos, pode gerar um sentimento de aversão ao risco global. Se a cautela persistir, isso tenderia a pressionar ativos de maior risco no Brasil; caso os balanços venham positivos e aliviem as preocupações, o cenário pode se reverter.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784757650.383578,
-    "titulo": "Brasil não deixará mesa de negociação com os EUA sobre tarifaço, diz Lula",
-    "titulo_original": "Brasil não deixará mesa de negociação com os EUA sobre tarifaço, diz Lula",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 18:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do presidente indica uma postura de negociação e busca por alternativas, mas o impacto concreto das tarifas e do crédito anunciado ainda está em desenvolvimento. Se as negociações não avançarem, a pressão sobre os setores afetados pode se intensificar; caso contrário, a busca por saídas pode mitigar os efeitos negativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784757653.9730077,
-    "titulo": "Fazenda queria alíquota menor e divergiu de imposto de 12% sobre petróleo - CNN Brasil",
-    "titulo_original": "Fazenda queria alíquota menor e divergiu de imposto de 12% sobre petróleo - CNN Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "22/07 14:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divergência entre o Ministério da Fazenda e a proposta de imposto sobre petróleo indica um debate interno sobre a política fiscal. Se a Fazenda conseguir impor sua visão de alíquota menor, a arrecadação pode ser afetada; caso a alíquota de 12% seja mantida, o impacto sobre o setor de petróleo será maior.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784757657.5275102,
-    "titulo": "STJ suspende decisão que impedia diretores da ANP de atuar em processos da Refit",
-    "titulo_original": "STJ suspende decisão que impedia diretores da ANP de atuar em processos da Refit",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 18:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do STJ reverte uma liminar que suspendia a atuação de diretores da ANP em processos da Refit, o que pode agilizar investigações sobre o setor de combustíveis. Se a decisão do STJ for mantida, a ANP poderá prosseguir com suas fiscalizações; caso haja novas contestações, o processo pode ser novamente paralisado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784757661.1214988,
-    "titulo": "Juros futuros sobem em dia de pressão externa com alta do petróleo",
-    "titulo_original": "Juros futuros sobem em dia de pressão externa com alta do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 18:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta dos juros futuros, atrelada ao aumento do petróleo e tensões geopolíticas, reflete um cenário de maior inflação esperada e, consequentemente, um Banco Central possivelmente mais cauteloso. Se as tensões no Oriente Médio se intensificarem, a pressão inflacionária pode persistir, mantendo os juros em patamares elevados; se a situação se acalmar, pode haver espaço para uma reversão dessa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784757666.658167,
-    "titulo": "A disparada da WEG: entenda por que a ação sobe 10% mesmo com queda no lucro",
-    "titulo_original": "A disparada da WEG: entenda por que a ação sobe 10% mesmo com queda no lucro",
-    "fonte": "InvestNews",
-    "publicado": "22/07 16:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho da WEG, apesar da queda no lucro, sugere que fatores específicos, como o desempenho na América do Norte, estão superando preocupações macroeconômicas como o tarifaço. Se o cenário externo continuar favorável, a ação pode manter a tendência de alta; caso contrário, a queda no lucro pode se tornar um fator mais relevante.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784757666.6601307,
-    "titulo": "Notícias de câmbio da América Latina da InvestingLive em 22 de julho. Tensões no Oriente Médio mantêm mercados em alerta. Petróleo em alta.",
-    "titulo_original": "investingLive Americas FX news wrap 22 Jul.  Middle east tensions keep markets on edge. Oil higher.",
-    "fonte": "ForexLive",
-    "publicado": "22/07 17:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia consolida um cenário de aversão ao risco global, com tensões geopolíticas elevando o petróleo e pressionando bolsas. A expectativa de manutenção das taxas pelo BCE sugere cautela monetária externa. Se as tensões no Oriente Médio escalarem, a volatilidade nos mercados deve aumentar; caso contrário, o foco pode retornar a dados econômicos e decisões de política monetária.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784757666.66197,
-    "titulo": "Tesla sofre queda de lucro e registra primeira queima de caixa em dois anos no 2º tri",
-    "titulo_original": "Tesla sofre queda de lucro e registra primeira queima de caixa em dois anos no 2º tri",
-    "fonte": "Folha Mercado",
-    "publicado": "22/07 18:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda no lucro e a primeira queima de caixa da Tesla em dois anos indicam desafios operacionais e de precificação. Se a estratégia de descontos não resultar em aumento sustentável de vendas e receita, a empresa pode enfrentar dificuldades; caso contrário, a recuperação pode ser impulsionada pela demanda por veículos elétricos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784763049.3028932,
-    "titulo": "EUA informaram Israel sobre intenção de usar bombardeiros no ataque ao Irã",
-    "titulo_original": "US has informed Israel of its intention to use bombers in bombing Iran",
-    "fonte": "ForexLive",
-    "publicado": "22/07 14:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia de uma possível ação militar conjunta entre EUA e Israel contra o Irã eleva o risco geopolítico na região. Se confirmada, essa escalada pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas e em ativos de refúgio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784763054.2392287,
-    "titulo": "Sem plano B: tarifaço de 25% de Trump ameaça produção e empregos no setor madeireiro",
-    "titulo_original": "Sem plano B: tarifaço de 25% de Trump ameaça produção e empregos no setor madeireiro",
-    "fonte": "Folha Mercado",
-    "publicado": "22/07 20:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A imposição de tarifas por parte dos EUA sobre produtos brasileiros pode afetar diretamente a atividade econômica e o emprego no setor madeireiro. Se essa medida se estender a outros setores, pode gerar um cenário de desaceleração para as exportações brasileiras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784763059.2160933,
-    "titulo": "Irmãos Batista compram fatia em petroleira da Venezuela, diz agência",
-    "titulo_original": "Irmãos Batista compram fatia em petroleira da Venezuela, diz agência",
-    "fonte": "Folha Mercado",
-    "publicado": "22/07 19:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia sobre a compra de participação em uma petroleira venezuelana pelos irmãos Batista indica um movimento de investimento em um país sob influência de políticas americanas. O impacto direto para o mercado brasileiro dependerá da escala do investimento e de possíveis desdobramentos das relações comerciais com a Venezuela.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784763065.1148975,
-    "titulo": "Goldman Sachs desembarca da Oncoclínicas após 11 anos",
-    "titulo_original": "Goldman Sachs desembarca da Oncoclínicas após 11 anos",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 19:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A saída do Goldman Sachs da Oncoclínicas indica uma redução de exposição de um investidor estrangeiro em uma empresa brasileira. Se essa venda se intensificar, pode sinalizar uma mudança no fluxo de capital para o setor de saúde no Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784763065.1167653,
-    "titulo": "Alphabet, dona do Google, lucra US$ 112 bilhões no segundo trimestre",
-    "titulo_original": "Alphabet, dona do Google, lucra US$ 112 bilhões no segundo trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "22/07 17:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O resultado financeiro expressivo da Alphabet, embora seja de uma empresa estrangeira, pode influenciar o sentimento de investidores globais em relação a empresas de tecnologia. Se o mercado interpretar esse desempenho como um indicador de força do setor, pode haver um reflexo indireto no apetite por risco global.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784806254.8338988,
     "titulo": "Dívida pública muda de perfil. Tesouro amplia dependência da Selic e enfrenta menor demanda por títulos de longo prazo",
     "titulo_original": "Dívida pública muda de perfil. Tesouro amplia dependência da Selic e enfrenta menor demanda por títulos de longo prazo - ADVFN",
@@ -1079,6 +728,72 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A previsão otimista da Intel e o consequente aumento de suas ações indicam uma forte demanda por seus produtos. Se a empresa conseguir cumprir suas projeções, isso pode sinalizar um bom momento para o setor de semicondutores, com potencial de impacto em outras empresas do ramo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784892663.8210678,
+    "titulo": "Muito além da Selic — por que uma única palavra do Copom pode movimentar milhões no mercado",
+    "titulo_original": "Muito além da Selic — por que uma única palavra do Copom pode movimentar milhões no mercado - Seu Dinheiro",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/07 07:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A comunicação do Copom é crucial para a formação de expectativas do mercado sobre a trajetória futura da taxa Selic. Se o Banco Central adotar uma linguagem mais cautelosa em sua próxima comunicação, isso pode sinalizar uma manutenção da taxa de juros por mais tempo; se a linguagem for mais branda, pode abrir espaço para discussões sobre cortes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784892668.6137877,
+    "titulo": "Taxas de debêntures, CRIs e CRAs voltam a se aproximar do maior nível do ano, mas cuidado",
+    "titulo_original": "Taxas de debêntures, CRIs e CRAs voltam a se aproximar do maior nível do ano, mas cuidado",
+    "fonte": "InvestNews",
+    "publicado": "24/07 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aproximação das taxas de juros de títulos privados aos maiores níveis do ano pode ser um reflexo das expectativas de juros mais altos por mais tempo no Brasil. Se o Banco Central mantiver a política monetária restritiva, essas taxas podem continuar a subir, impactando o custo de captação para empresas e o retorno para investidores de renda fixa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784892673.302581,
+    "titulo": "Petróleo recua e opera abaixo de US$ 100, apesar de novos ataques entre EUA e Irã",
+    "titulo_original": "Petróleo recua e opera abaixo de US$ 100, apesar de novos ataques entre EUA e Irã",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 08:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "Apesar da queda pontual, a persistência das tensões entre EUA e Irã sugere que o petróleo pode voltar a subir se os ataques continuarem ou se houver interrupções no fornecimento. Se a situação geopolítica se estabilizar, o preço do petróleo pode ceder mais em função de uma correção natural após a alta recente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784892678.032827,
+    "titulo": "Empresas mudam planos e apelam a políticos nos EUA para contornar tarifaço",
+    "titulo_original": "Empresas mudam planos e apelam a políticos nos EUA para contornar tarifaço",
+    "fonte": "Folha Mercado",
+    "publicado": "24/07 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "As tarifas impostas pelos EUA criam um ambiente de incerteza para empresas brasileiras que dependem do mercado americano. Se as tarifas forem mantidas ou ampliadas, isso pode forçar uma reestruturação das cadeias de suprimentos e estratégias de negócios; se houver flexibilização, as empresas podem retomar planos de expansão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784892683.5830984,
+    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "24/07 07:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O Ibovespa, o dólar e os juros são indicadores sensíveis a diversos fatores macroeconômicos e de política monetária. Se houver divulgação de dados de inflação acima do esperado, isso pode pressionar os juros para cima e afetar negativamente a bolsa; se os dados forem positivos, pode ocorrer o movimento inverso.",
     "is_stocks": true
   }
 ]
