@@ -795,5 +795,79 @@
     "origem": "domestica",
     "leitura_critica": "O Ibovespa, o dólar e os juros são indicadores sensíveis a diversos fatores macroeconômicos e de política monetária. Se houver divulgação de dados de inflação acima do esperado, isso pode pressionar os juros para cima e afetar negativamente a bolsa; se os dados forem positivos, pode ocorrer o movimento inverso.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784898948.5792468,
+    "titulo": "Explosões Relatadas na Arábia Saudita",
+    "titulo_original": "Explosions Reported in Saudi Arabia",
+    "fonte": "ForexLive",
+    "publicado": "24/07 09:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Caso confirmadas, as explosões representam uma escalada na tensão regional, com potencial impacto na segurança do Oriente Médio e nos preços do petróleo. A resposta dos EUA e a possibilidade de retaliação serão fatores cruciais a serem observados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784898952.5255718,
+    "titulo": "Inflação global volta a preocupar com petróleo acima de US$ 100 o barril e tarifas",
+    "titulo_original": "Inflação global volta a preocupar com petróleo acima de US$ 100 o barril e tarifas - Bloomberg Línea Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "24/07 09:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento do preço do petróleo e as novas tarifas representam pressões inflacionárias globais. Se essas tendências se mantiverem, podem levar a uma postura mais cautelosa dos bancos centrais em relação à política monetária, impactando o crescimento econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784898956.5051436,
+    "titulo": "Governo Trump reacende a guerra comercial com nova leva de tarifas",
+    "titulo_original": "Governo Trump reacende a guerra comercial com nova leva de tarifas - CartaCapital",
+    "fonte": "Google News Geopolitica",
+    "publicado": "24/07 06:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A imposição de novas tarifas pelo governo Trump sinaliza um aumento nas tensões comerciais globais. Isso pode gerar incertezas para o comércio internacional e afetar cadeias de suprimentos, com potenciais repercussões em outros países.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784898960.4653513,
+    "titulo": "Países reagem a novas tarifas de Trump e classificam medida como ‘injustificada’",
+    "titulo_original": "Países reagem a novas tarifas de Trump e classificam medida como ‘injustificada’",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 09:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A reação internacional às novas tarifas de Trump indica um potencial aumento nas barreiras comerciais e pode levar a retaliações. Se a disputa comercial se intensificar, isso pode impactar negativamente o comércio global e a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784898969.086574,
+    "titulo": "Por que a Ucrânia tem atacado a 'Amazon russa'",
+    "titulo_original": "Por que a Ucrânia tem atacado a 'Amazon russa'",
+    "fonte": "Folha Mercado",
+    "publicado": "24/07 09:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Os ataques ucranianos à Wildberries demonstram uma estratégia de desestabilização econômica russa, visando setores de varejo e logística. A continuidade desses ataques pode afetar o fluxo de mercadorias e a confiança de investidores no setor de e-commerce russo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784898969.0881145,
+    "titulo": "Mini índice desvaloriza e pode alcançar 175 mil pontos, aponta BTG; mini dólar interrompe sequência de quedas",
+    "titulo_original": "Mini índice desvaloriza e pode alcançar 175 mil pontos, aponta BTG; mini dólar interrompe sequência de quedas",
+    "fonte": "Money Times",
+    "publicado": "24/07 10:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise técnica sugere um viés de baixa para o mini índice, com um ponto de atenção nos 175 mil pontos. A interrupção da queda do mini dólar pode indicar uma pausa na tendência de desvalorização ou uma consolidação no curto prazo.",
+    "is_stocks": true
   }
 ]
