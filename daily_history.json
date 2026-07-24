@@ -1,125 +1,5 @@
 [
   {
-    "_timestamp": 1784825144.3792925,
-    "titulo": "Leilão da Régis Bittencourt será disputado por Arteris, Motiva e EPR",
-    "titulo_original": "Leilão da Régis Bittencourt será disputado por Arteris, Motiva e EPR",
-    "fonte": "Valor Economico",
-    "publicado": "23/07 13:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A disputa pelo leilão da Régis Bittencourt pode indicar o apetite de grandes grupos por concessões de infraestrutura. Se a EPR ou Motiva vencerem, a Arteris receberá uma indenização significativa, o que pode ser reinvestida em outros ativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784825148.4048727,
-    "titulo": "TJGO afasta cobrança cumulativa de Selic e juros de mora em execução fiscal de ISS",
-    "titulo_original": "TJGO afasta cobrança cumulativa de Selic e juros de mora em execução fiscal de ISS - Rota Jurídica",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/07 11:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do TJGO sobre a cobrança cumulativa de Selic e juros de mora em execuções fiscais de ISS pode gerar um precedente para outros casos semelhantes. Se a decisão for mantida, municípios podem ter que recalcular valores de débitos tributários, afetando suas receitas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784825152.4886172,
-    "titulo": "Taxas de hipotecas de 30 anos atingem o nível mais alto desde agosto de 2025",
-    "titulo_original": "The story gets worse: 30 year mortgage rates reach the highest level since August 2025",
-    "fonte": "ForexLive",
-    "publicado": "23/07 13:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento nas taxas de hipotecas de 30 anos nos EUA pode indicar uma persistência na política monetária restritiva, com o objetivo de controlar a inflação. Se as taxas continuarem a subir, a demanda por imóveis pode diminuir, afetando o setor de construção e o consumo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784825156.6022074,
-    "titulo": "Soja atinge maior preço de 2026; analista explica os fatores que sustentam a alta da commodity",
-    "titulo_original": "Soja atinge maior preço de 2026; analista explica os fatores que sustentam a alta da commodity - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "23/07 12:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta no preço da soja pode impactar os custos de produção de alimentos e rações, afetando a inflação em diversos países. Se a demanda global por soja se mantiver forte e a oferta for limitada, os preços podem continuar a subir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784825162.985656,
-    "titulo": "União pode abrir mão de receber R$ 190,7 bilhões dos Estados que aderiram ao Propag, diz IFI",
-    "titulo_original": "União pode abrir mão de receber R$ 190,7 bilhões dos Estados que aderiram ao Propag, diz IFI",
-    "fonte": "Valor Economico",
-    "publicado": "23/07 13:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A possibilidade de a União abrir mão de receber valores expressivos dos Estados via Propag impacta diretamente a trajetória da dívida pública federal. Se os Estados fizerem uso das amortizações extraordinárias, o custo para a União será maior do que o previsto inicialmente, pressionando o cenário fiscal.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784825162.9872808,
-    "titulo": "BCE mantém taxa de juros em 2,25%, mas sinaliza aumento em setembro",
-    "titulo_original": "BCE mantém taxa de juros em 2,25%, mas sinaliza aumento em setembro",
-    "fonte": "Folha Mercado",
-    "publicado": "23/07 10:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do BCE de manter os juros, mas sinalizar um possível aumento em setembro, reflete a preocupação com a inflação persistente na zona do euro. Se a inflação continuar elevada, o BCE pode ser forçado a apertar ainda mais a política monetária, impactando o crescimento econômico.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784825162.9888635,
-    "titulo": "Ações de petrolíferas brasileiras sobem com petróleo acima de US$ 100",
-    "titulo_original": "Ações de petrolíferas brasileiras sobem com petróleo acima de US$ 100",
-    "fonte": "Folha Mercado",
-    "publicado": "23/07 12:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta das ações de petrolíferas brasileiras está diretamente ligada à valorização do petróleo no mercado internacional. Se o preço do barril se mantiver elevado, as empresas do setor podem apresentar resultados financeiros mais fortes, beneficiando seus acionistas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784825162.9903312,
-    "titulo": "O que está por trás da forte alta das petroleiras na B3",
-    "titulo_original": "O que está por trás da forte alta das petroleiras na B3",
-    "fonte": "Money Times",
-    "publicado": "23/07 12:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta das petroleiras na B3 reflete um cenário de incertezas globais que favorece o preço do petróleo. Se a aversão a risco persistir, o setor de energia pode continuar a ser um porto seguro para investidores, sustentando a valorização dessas ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784825162.9918199,
-    "titulo": "Ibovespa hoje cai apesar da alta de Petrobras (PETR3;PETR4) e Vale (VALE3); petróleo bate os US$ 100",
-    "titulo_original": "Ibovespa hoje cai apesar da alta de Petrobras (PETR3;PETR4) e Vale (VALE3); petróleo bate os US$ 100 - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "23/07 12:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, apesar da alta de Petrobras e Vale, indica que outros setores da bolsa estão sendo mais afetados pela aversão a risco global. Se o cenário externo não melhorar, a tendência de baixa pode persistir, mesmo com a força das commodities.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784831458.7094615,
     "titulo": "Instituto do Senado vê deterioração financeira das estatais federais desde 2018",
     "titulo_original": "Instituto do Senado vê deterioração financeira das estatais federais desde 2018",
@@ -1038,6 +918,99 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A persistência da geopolítica como foco dos traders sugere que eventos como as tensões no Irã continuarão a influenciar os mercados. Se a pressão militar dos EUA sobre o Irã aumentar, o preço do petróleo pode subir, impactando a inflação global; se houver um avanço nas negociações, o cenário de risco pode diminuir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784935842.8398783,
+    "titulo": "Juros altos, inflação pressionada e dólar resiliente: o novo cenário para quem busca investir nos próximos meses, segundo gestores",
+    "titulo_original": "Juros altos, inflação pressionada e dólar resiliente: o novo cenário para quem busca investir nos próximos meses, segundo gestores - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/07 18:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A descrição de um cenário com juros altos e inflação pressionada sugere que o Banco Central pode manter uma postura mais restritiva. Se a inflação começar a ceder de forma consistente, o BC pode sinalizar cortes nos juros; caso contrário, o cenário de juros elevados tende a persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784935847.6294897,
+    "titulo": "Mesmo com petróleo perto de US$ 100, governo não prevê retomada de subsídio do diesel de R$ 0,35",
+    "titulo_original": "Mesmo com petróleo perto de US$ 100, governo não prevê retomada de subsídio do diesel de R$ 0,35 - O GLOBO",
+    "fonte": "Google News Commodities",
+    "publicado": "24/07 16:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de não retomar o subsídio do diesel, apesar da alta do petróleo, indica uma prioridade fiscal do governo. Se os preços do petróleo continuarem elevados, a ausência do subsídio pode pressionar a inflação de transportes; se o governo mantiver essa postura, isso pode contribuir para o controle das contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784935852.3713355,
+    "titulo": "23% das exportações aos EUA serão sobretaxadas; 16,5% terão alíquota de 37,5%, diz ministério",
+    "titulo_original": "23% das exportações aos EUA serão sobretaxadas; 16,5% terão alíquota de 37,5%, diz ministério",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 17:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia detalha o impacto de sobretaxas impostas pelos EUA às exportações brasileiras. Se as tarifas forem efetivamente aplicadas e impactarem setores chave, isso pode reduzir o volume de exportações e afetar a balança comercial brasileira; a magnitude do impacto dependerá da capacidade das empresas brasileiras de absorver ou repassar esses custos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784935857.1835358,
+    "titulo": "Petróleo fecha abaixo de US$ 100 após forte alta com tensão no Oriente Médio",
+    "titulo_original": "Petróleo fecha abaixo de US$ 100 após forte alta com tensão no Oriente Médio",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 16:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda no preço do petróleo sugere um alívio temporário nas tensões geopolíticas, com o mercado voltando a focar em fundamentos. Se a oferta e demanda globais se normalizarem, os preços podem se estabilizar; no entanto, qualquer nova escalada no Oriente Médio pode rapidamente reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784935863.3613575,
+    "titulo": "Estoque de títulos bancários cresce 13% no primeiro semestre, diz B3",
+    "titulo_original": "Estoque de títulos bancários cresce 13% no primeiro semestre, diz B3",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 17:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento no estoque de títulos bancários pode indicar uma busca por rentabilidade em um cenário de juros elevados. Se a taxa Selic se mantiver alta, essa tendência de crescimento em renda fixa tende a se consolidar; uma queda abrupta nos juros poderia reverter esse movimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784935863.363012,
+    "titulo": "Receita espera arrecadar R$ 15 bi de IR sobre dividendos no segundo semestre, afirma Malaquias",
+    "titulo_original": "Receita espera arrecadar R$ 15 bi de IR sobre dividendos no segundo semestre, afirma Malaquias",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 17:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da meta de arrecadação com dividendos, mesmo com um desempenho fraco no primeiro semestre, levanta questionamentos sobre a projeção. Se a arrecadação efetiva no segundo semestre ficar abaixo do esperado, isso pode pressionar o cumprimento das metas fiscais do governo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784935863.3645556,
+    "titulo": "Bolsas de NY fecham em direções opostas com alívio no petróleo e queda em ‘techs’",
+    "titulo_original": "Bolsas de NY fecham em direções opostas com alívio no petróleo e queda em ‘techs’",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 17:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A divergência nos índices de Nova York sugere um mercado com visões distintas sobre os riscos atuais. Se a tensão no Oriente Médio diminuir ainda mais, o setor de tecnologia pode se recuperar; caso contrário, o receio inflacionário pode persistir.",
     "is_stocks": true
   }
 ]
