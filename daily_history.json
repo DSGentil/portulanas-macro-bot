@@ -939,5 +939,124 @@
     "origem": "domestica",
     "leitura_critica": "A sanção da lei que proíbe a produção e venda de foie gras no Brasil representa uma decisão regulatória com impacto no setor alimentício. Se a fiscalização for efetiva, a proibição será cumprida; a dificuldade em rastrear a origem de produtos importados pode gerar desafios na aplicação da lei.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1784911549.1849473,
+    "titulo": "Dólar abre a R$ 5,08, com petróleo abaixo de US$ 100 e balanços no radar",
+    "titulo_original": "Dólar abre a R$ 5,08, com petróleo abaixo de US$ 100 e balanços no radar - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/07 09:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A abertura do dólar a R$ 5,08, influenciada pelo petróleo abaixo de US$ 100 e pela divulgação de balanços, indica um cenário de cautela. Se os balanços corporativos apresentarem resultados fracos, isso pode pressionar o dólar; por outro lado, um petróleo estável pode oferecer algum suporte à moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784911552.7342129,
+    "titulo": "EUA e Reino Unido planejam reunião sobre proteção de navios no Estreito de Ormuz",
+    "titulo_original": "US and the UK planning on having a meeting on protecting shipping in the Strait of Hormuz",
+    "fonte": "ForexLive",
+    "publicado": "24/07 13:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A formação de uma coalizão internacional para proteger o Estreito de Ormuz pode mitigar riscos geopolíticos que afetam o fornecimento de energia. Se a coalizão for bem-sucedida em garantir a segurança da navegação, isso tenderia a estabilizar os preços do petróleo e, consequentemente, reduzir a volatilidade nos mercados financeiros globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784911556.3175218,
+    "titulo": "Dólar hoje ronda estabilidade com tarifas e Oriente Médio no radar",
+    "titulo_original": "Dólar hoje ronda estabilidade com tarifas e Oriente Médio no radar - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/07 09:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A estabilidade do dólar, influenciada por tarifas dos EUA e tensões no Oriente Médio, indica um mercado cauteloso. Se as tensões geopolíticas se intensificarem, isso pode levar a uma valorização do dólar como ativo de refúgio; caso contrário, a atenção se voltará para outros fatores econômicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784911560.0039537,
+    "titulo": "Petróleo brent cai após superar US$ 100, mas caminha para semana de fortes ganhos",
+    "titulo_original": "Petróleo brent cai após superar US$ 100, mas caminha para semana de fortes ganhos - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "24/07 10:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade no preço do petróleo Brent, com uma queda após superar US$ 100, mas com potencial para fortes ganhos semanais, indica um mercado sensível a tensões geopolíticas. Se os preços do petróleo se mantiverem elevados, isso pode pressionar a inflação e afetar o fluxo de capital para economias dependentes de importação de energia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784911566.472261,
+    "titulo": "Dólar e juros acentuam queda com alívio em petróleo e Ibovespa recua sem apoio de blue chips",
+    "titulo_original": "Dólar e juros acentuam queda com alívio em petróleo e Ibovespa recua sem apoio de blue chips",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 13:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia sobre a mediação do Paquistão entre EUA e Irã gerou um alívio nas tensões geopolíticas, impactando positivamente o dólar e os juros futuros. Se as negociações avançarem, a percepção de risco global pode diminuir, favorecendo ativos de maior risco e potencialmente impulsionando o Ibovespa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784911566.4739864,
+    "titulo": "Paquistão está explorando um caminho para a retomada das conversas EUA-Irã. Petróleo cai",
+    "titulo_original": "Pakistan is exploring a path toward a resumption of US – Iran talks.  Oil moves lower",
+    "fonte": "ForexLive",
+    "publicado": "24/07 12:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia sobre os esforços do Paquistão para retomar as conversas EUA-Irã sugere uma potencial diminuição das tensões geopolíticas. Se as negociações forem bem-sucedidas, isso pode levar a uma maior estabilidade nos mercados de energia e a um aumento do apetite por risco, impactando positivamente o fluxo de capital para ativos globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784911566.475687,
+    "titulo": "Atividade empresarial dos EUA acelera em julho impulsionada pela Copa, mostra PMI",
+    "titulo_original": "Atividade empresarial dos EUA acelera em julho impulsionada pela Copa, mostra PMI",
+    "fonte": "Folha Mercado",
+    "publicado": "24/07 13:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O PMI de serviços dos EUA indicando aceleração sugere uma demanda robusta no setor. Se essa tendência se mantiver, pode sinalizar um crescimento econômico mais resiliente nos EUA, o que, por sua vez, pode influenciar as decisões de política monetária do Federal Reserve.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784911566.4773598,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/07 09:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento diário da cotação do dólar é fundamental para entender o comportamento do câmbio. Flutuações significativas podem indicar mudanças no fluxo de capital ou no apetite por risco, mas a notícia em si não fornece detalhes sobre os fatores que influenciam a cotação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784911566.4789906,
+    "titulo": "Ibovespa recua com petróleo, tarifas dos EUA e expectativa por fala de Galípolo",
+    "titulo_original": "Ibovespa recua com petróleo, tarifas dos EUA e expectativa por fala de Galípolo - Canal Rural",
+    "fonte": "Google News Acoes",
+    "publicado": "24/07 11:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa reflete a influência de fatores externos como o preço do petróleo e tarifas dos EUA, além de incertezas internas com a expectativa pela fala de Galípolo. Se a fala de Galípolo trouxer clareza sobre a política econômica, isso pode impactar a direção do índice.",
+    "is_stocks": true
   }
 ]
