@@ -1,121 +1,5 @@
 [
   {
-    "_timestamp": 1784812549.5303993,
-    "titulo": "Tendências 23/07/2026 | das principais ações da Bolsa - XP Investimentos",
-    "titulo_original": "Tendências 23/07/2026 | das principais ações da Bolsa - XP Investimentos",
-    "fonte": "Google News Acoes",
-    "publicado": "23/07 09:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise de tendências de ações pode oferecer insights sobre o comportamento do mercado acionário. Se as tendências apontarem para setores específicos em alta, isso pode sugerir um fluxo de capital direcionado para essas áreas, refletindo expectativas de crescimento ou recuperação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784812554.2821445,
-    "titulo": "Trump condiciona acordo nuclear com a Arábia Saudita a reconhecimento de Israel",
-    "titulo_original": "Trump condiciona acordo nuclear com a Arábia Saudita a reconhecimento de Israel",
-    "fonte": "Valor Economico",
-    "publicado": "23/07 10:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A exigência de reconhecimento de Israel como condição para o acordo nuclear pode criar um novo ponto de atrito diplomático na região. Se a Arábia Saudita não ceder, o acordo nuclear pode não avançar, impactando as relações bilaterais e a cooperação em energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784812559.1247106,
-    "titulo": "Petróleo dispara mais de 6% e fica perto de voltar a US$ 100 com ataques de houthis a navios sauditas",
-    "titulo_original": "Petróleo dispara mais de 6% e fica perto de voltar a US$ 100 com ataques de houthis a navios sauditas",
-    "fonte": "Folha Mercado",
-    "publicado": "23/07 10:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento expressivo no preço do petróleo, impulsionado por tensões geopolíticas no Oriente Médio, pode gerar pressões inflacionárias globais. Se os ataques continuarem e a oferta for afetada, o barril pode ultrapassar os US$ 100, o que tenderia a elevar os custos de energia e transporte em diversas economias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784812563.9096735,
-    "titulo": "Pré-mercado: Petróleo Supera Us$ 98 com Novos Ataques no Oriente Médio - Forbes Brasil",
-    "titulo_original": "Pré-mercado: Petróleo Supera Us$ 98 com Novos Ataques no Oriente Médio - Forbes Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "23/07 08:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A superação dos US$ 98 pelo petróleo no pré-mercado, devido a tensões no Oriente Médio, reforça a expectativa de alta nos preços da commodity. Se essa tendência se mantiver, o custo de energia pode impactar a inflação global e os custos operacionais de diversas indústrias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784812591.7958372,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/07 09:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento em tempo real da cotação do dólar é essencial para quem opera no mercado financeiro. Se houver volatilidade significativa, isso pode indicar mudanças no sentimento do mercado ou reações a eventos econômicos e políticos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784812591.7973104,
-    "titulo": "Trump: Responsabilize o Irã pelos ataques dos Houthis.",
-    "titulo_original": "Trump: Hold Iran responsible for Houthis attacks.",
-    "fonte": "ForexLive",
-    "publicado": "23/07 09:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A responsabilização direta do Irã pelos ataques dos Houthis, vinda do presidente Trump, intensifica as tensões geopolíticas na região. Se essa postura se mantiver, pode haver um impacto negativo nos mercados de energia e ações, como já sugerido pela queda no pré-mercado do NASDAQ.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784812591.7987015,
-    "titulo": "Banco do Brasil (BBAS3): MP de dívidas rurais é ‘ponte’ para recuperação, mas 2T26 ainda deve ser desafiador, avalia BTG",
-    "titulo_original": "Banco do Brasil (BBAS3): MP de dívidas rurais é ‘ponte’ para recuperação, mas 2T26 ainda deve ser desafiador, avalia BTG",
-    "fonte": "Money Times",
-    "publicado": "23/07 10:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A Medida Provisória sobre dívidas rurais, vista como uma 'ponte para recuperação' pelo BTG, pode trazer alívio para o Banco do Brasil, mas o segundo trimestre de 2026 ainda é apontado como desafiador. Se os efeitos da MP demorarem a se materializar nos resultados, a instituição pode enfrentar dificuldades em apresentar um desempenho robusto no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784812591.8001292,
-    "titulo": "Mercado ignora impacto do tarifaço e ações da WEG sobem 10% na B3 - Valor Econômico",
-    "titulo_original": "Mercado ignora impacto do tarifaço e ações da WEG sobem 10% na B3 - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "23/07 05:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta de 10% nas ações da WEG, mesmo com um 'tarifaço' sendo ignorado pelo mercado, sugere uma forte confiança dos investidores na empresa ou no setor em que ela atua. Se essa tendência se mantiver, pode indicar um fluxo de capital positivo para a WEG e possivelmente para outras empresas do mesmo segmento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1784812591.801573,
-    "titulo": "O que pensam os consultores de Warsh sobre o balanço do Fed | Finanças - Valor Econômico",
-    "titulo_original": "O que pensam os consultores de Warsh sobre o balanço do Fed | Finanças - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/07 05:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A opinião de consultores sobre o balanço do Fed pode oferecer insights sobre as futuras decisões de política monetária dos EUA. Se as avaliações indicarem uma postura mais dovish ou hawkish do Fed, isso pode influenciar as expectativas do mercado em relação às taxas de juros e, consequentemente, os fluxos de capital globais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784819769.9920235,
     "titulo": "Renda Fixa Hoje: veja taxas de CDBs, LCIs e LCAs na XP com dólar em alta",
     "titulo_original": "Renda Fixa Hoje: veja taxas de CDBs, LCIs e LCAs na XP com dólar em alta - InfoMoney",
@@ -1057,6 +941,120 @@
     ],
     "origem": "externa",
     "leitura_critica": "A ameaça de tarifas por parte de Trump em resposta às multas da UE pode escalar tensões comerciais e impactar fluxos de capital. Se as tarifas forem de fato impostas, isso pode gerar um efeito cascata em cadeias de suprimentos globais e pressionar o câmbio de países exportadores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784925049.4692798,
+    "titulo": "Fazenda prevê alta de arrecadação de R$ 12,7 bilhões com IR em 2026",
+    "titulo_original": "Fazenda prevê alta de arrecadação de R$ 12,7 bilhões com IR em 2026",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 16:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento previsto na arrecadação de IR pode indicar uma melhora nas projeções fiscais do governo. Se a economia brasileira apresentar um desempenho mais forte do que o esperado, essa arrecadação pode ser ainda maior; caso contrário, a meta pode ser desafiadora de ser atingida.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784925054.3252108,
+    "titulo": "Israel anuncia operação militar na Cisjordânia após confronto que deixou seis mortos",
+    "titulo_original": "Israel anuncia operação militar na Cisjordânia após confronto que deixou seis mortos - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "24/07 16:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada da tensão militar na Cisjordânia pode gerar instabilidade na região e afetar o fluxo de petróleo. Se o conflito se intensificar, pode haver um impacto nos preços das commodities e na confiança dos investidores globais. Se as negociações diplomáticas forem bem-sucedidas, a tensão pode diminuir rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784925059.0531137,
+    "titulo": "População do Irã tem a vida suspensa pela guerra e luta para sobreviver ao colapso econômico",
+    "titulo_original": "População do Irã tem a vida suspensa pela guerra e luta para sobreviver ao colapso econômico - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "24/07 12:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A crise humanitária e econômica no Irã, exacerbada pela guerra, pode ter implicações geopolíticas e de segurança regional. Se a situação se agravar, pode haver um aumento da instabilidade no Oriente Médio e um impacto nos mercados de energia. Se houver intervenção diplomática eficaz, a crise pode ser mitigada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784925063.8608155,
+    "titulo": "Tarifa dupla de 37,5% atingirá quase 4.000 produtos e R$ 55 bilhões em exportações, diz CNI",
+    "titulo_original": "Tarifa dupla de 37,5% atingirá quase 4.000 produtos e R$ 55 bilhões em exportações, diz CNI",
+    "fonte": "Folha Mercado",
+    "publicado": "24/07 15:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A imposição de tarifas duplas pelos EUA sobre produtos brasileiros pode impactar significativamente as exportações e a balança comercial. Se o Brasil retaliar com tarifas próprias, isso pode gerar uma guerra comercial; se houver negociações para reverter as tarifas, o fluxo comercial pode se normalizar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784925070.1416698,
+    "titulo": "Desvalorização de SpaceX e Tesla geram perdas bilionárias a Elon Musk",
+    "titulo_original": "Desvalorização de SpaceX e Tesla geram perdas bilionárias a Elon Musk",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 16:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte desvalorização das ações de empresas de tecnologia de Elon Musk pode indicar uma mudança no sentimento do mercado em relação a essas companhias específicas. Se essa tendência se mantiver, pode haver um impacto no apetite por investimentos em empresas de alto crescimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784925070.1433074,
+    "titulo": "Calendário de resultados da próxima semana se intensifica",
+    "titulo_original": "Next week's earnings calendar heats up",
+    "fonte": "ForexLive",
+    "publicado": "24/07 16:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A divulgação de resultados de grandes empresas pode gerar volatilidade nos mercados globais. Se os comentários da gestão indicarem um cenário de desaceleração econômica, isso pode pressionar os índices de ações; por outro lado, resultados positivos e projeções otimistas podem impulsionar o mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784925070.144881,
+    "titulo": "Wall Street fecha sem direção única com venda de chips; Nasdaq despenca 2% na semana",
+    "titulo_original": "Wall Street fecha sem direção única com venda de chips; Nasdaq despenca 2% na semana",
+    "fonte": "Money Times",
+    "publicado": "24/07 17:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A fraqueza no setor de chips pode indicar preocupações com a demanda futura ou com a cadeia de suprimentos. Se essa tendência se estender a outras empresas de tecnologia, pode haver um impacto mais amplo nos índices de ações globais. Se a Intel apresentar um plano de recuperação robusto, isso pode reverter o sentimento negativo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784925070.1464393,
+    "titulo": "Musk está perdendo sua magia. E a Tesla está pagando o preço",
+    "titulo_original": "Musk está perdendo sua magia. E a Tesla está pagando o preço",
+    "fonte": "InvestNews",
+    "publicado": "24/07 15:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda no lucro operacional da Tesla e o questionamento dos investidores sobre a narrativa de crescimento podem indicar um momento de transição para a empresa. Se a Tesla apresentar novas estratégias de inovação ou diversificação, isso pode restaurar a confiança do mercado; caso contrário, a pressão sobre as ações pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784925070.1480315,
+    "titulo": "‘Arcabouço é a regra menos bem-sucedida da história’, diz economista-chefe da ARX Investimentos",
+    "titulo_original": "‘Arcabouço é a regra menos bem-sucedida da história’, diz economista-chefe da ARX Investimentos",
+    "fonte": "Money Times",
+    "publicado": "24/07 16:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A crítica ao arcabouço fiscal por um economista-chefe sugere que a regra pode não estar atingindo seus objetivos. Se o governo decidir alterar o arcabouço, isso pode gerar incertezas sobre a trajetória fiscal futura; se a regra for mantida, a pressão por resultados pode aumentar.",
     "is_stocks": true
   }
 ]
