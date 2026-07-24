@@ -1,75 +1,5 @@
 [
   {
-    "_timestamp": 1784806254.8338988,
-    "titulo": "Dívida pública muda de perfil. Tesouro amplia dependência da Selic e enfrenta menor demanda por títulos de longo prazo",
-    "titulo_original": "Dívida pública muda de perfil. Tesouro amplia dependência da Selic e enfrenta menor demanda por títulos de longo prazo - ADVFN",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/07 06:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A maior dependência da dívida pública em relação à Selic e a menor demanda por títulos de longo prazo indicam um cenário de maior custo de rolagem da dívida e potencial dificuldade em financiar o déficit fiscal. Se a taxa Selic permanecer elevada, o custo da dívida pública aumentará, pressionando o orçamento. A menor demanda por títulos de longo prazo pode forçar o Tesouro a oferecer taxas mais altas, elevando ainda mais o custo de financiamento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784806258.3393683,
-    "titulo": "Minidólar (WDOQ26): veja os níveis que podem definir o rumo do dólar futuro",
-    "titulo_original": "Minidólar (WDOQ26): veja os níveis que podem definir o rumo do dólar futuro - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/07 07:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A análise de níveis técnicos é fundamental para operações de curto prazo no mercado futuro. Se os níveis de suporte e resistência forem rompidos, isso pode indicar uma mudança na tendência do dólar futuro. Acompanhar esses pontos pode ajudar a antecipar movimentos de preço, mas a volatilidade do mercado pode levar a falsos sinais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784806261.8861666,
-    "titulo": "CGU pode mirar patrimônio de Vorcaro para responsabilizar Master por corrupção de servidores",
-    "titulo_original": "CGU pode mirar patrimônio de Vorcaro para responsabilizar Master por corrupção de servidores",
-    "fonte": "Folha Mercado",
-    "publicado": "23/07 04:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ação da CGU visa responsabilizar o Banco Master e seus sócios por suposta corrupção de servidores do Banco Central. Se a investigação comprovar a participação da instituição, isso pode gerar multas e outras sanções, impactando a reputação e a saúde financeira do banco. A investigação também pode levar a mudanças nas regulamentações de compliance e integridade no setor financeiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784806265.5022104,
-    "titulo": "Agenda do dia: Decisão de juros pelo BCE é destaque",
-    "titulo_original": "Agenda do dia: Decisão de juros pelo BCE é destaque",
-    "fonte": "Valor Economico",
-    "publicado": "23/07 08:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A decisão de juros do BCE é crucial para as expectativas de política monetária na Europa e pode influenciar outras economias. Se o BCE sinalizar um aperto monetário mais forte, isso pode impactar o crescimento europeu e os mercados globais. No Brasil, o leilão de títulos prefixados e os dados da indústria da construção fornecerão insights sobre as condições de financiamento e a atividade econômica doméstica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1784806269.7693148,
-    "titulo": "Carf cancela parte de autuação de R$ 5,5 bilhões da Petrobras sobre PIS/Cofins",
-    "titulo_original": "Carf cancela parte de autuação de R$ 5,5 bilhões da Petrobras sobre PIS/Cofins - JOTA Info",
-    "fonte": "Google News Acoes",
-    "publicado": "23/07 06:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Carf representa um alívio fiscal para a Petrobras, reduzindo o montante de impostos a serem pagos. Se a Petrobras conseguir reverter judicialmente o restante da autuação, isso pode melhorar seus resultados financeiros. No entanto, a decisão do Carf pode criar um precedente para outras empresas em situações semelhantes, impactando a arrecadação fiscal do governo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1784812549.5303993,
     "titulo": "Tendências 23/07/2026 | das principais ações da Bolsa - XP Investimentos",
     "titulo_original": "Tendências 23/07/2026 | das principais ações da Bolsa - XP Investimentos",
@@ -1057,6 +987,76 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "A queda do Ibovespa reflete a influência de fatores externos como o preço do petróleo e tarifas dos EUA, além de incertezas internas com a expectativa pela fala de Galípolo. Se a fala de Galípolo trouxer clareza sobre a política econômica, isso pode impactar a direção do índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1784917845.89391,
+    "titulo": "Planejamento reduz previsão para primário em 2026 com abatimentos da meta para déficit de R$ 52 bi",
+    "titulo_original": "Planejamento reduz previsão para primário em 2026 com abatimentos da meta para déficit de R$ 52 bi",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 15:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão na meta primária, embora apresente um superávit nominal, aprofunda o déficit efetivo, o que pode gerar preocupações sobre a trajetória da dívida pública. Se os gastos obrigatórios continuarem a crescer acima do esperado, o espaço para despesas discricionárias pode ser ainda mais limitado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784917849.5446315,
+    "titulo": "Governo desbloqueará R$ 5,7 bi no Orçamento após projeção menor de gastos com Previdência",
+    "titulo_original": "Governo desbloqueará R$ 5,7 bi no Orçamento após projeção menor de gastos com Previdência",
+    "fonte": "Folha Mercado",
+    "publicado": "24/07 15:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O desbloqueio de recursos alivia a pressão sobre o orçamento, mas a redução na projeção de gastos com previdência e BPC merece atenção para entender a sustentabilidade dessa economia. Se a tendência de gastos menores se mantiver, pode haver mais margens para investimentos em outras áreas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784917853.1023505,
+    "titulo": "Governo altera regras para redução de royalties em projetos de petróleo com conteúdo local",
+    "titulo_original": "Governo altera regras para redução de royalties em projetos de petróleo com conteúdo local - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "24/07 11:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alteração nas regras de royalties para projetos de petróleo com conteúdo local pode incentivar investimentos no setor e impactar a arrecadação fiscal. Se a medida atrair mais investimentos, pode haver um aumento na produção e, consequentemente, na receita de royalties.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784917856.658774,
+    "titulo": "Planejamento desbloqueia R$ 5,7 bilhões do Orçamento",
+    "titulo_original": "Planejamento desbloqueia R$ 5,7 bilhões do Orçamento",
+    "fonte": "Valor Economico",
+    "publicado": "24/07 15:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução do bloqueio orçamentário, impulsionada pela menor projeção de despesas obrigatórias, pode indicar uma gestão mais flexível do orçamento. Se essa tendência de contenção de gastos obrigatórios se mantiver, pode haver um aumento na capacidade de investimento público em outras áreas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1784917860.988775,
+    "titulo": "Multas da UE hoje, tarifas 301 de Trump amanhã?",
+    "titulo_original": "EU fines today, Trump 301 tariffs tomorrow?",
+    "fonte": "ForexLive",
+    "publicado": "24/07 15:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A ameaça de tarifas por parte de Trump em resposta às multas da UE pode escalar tensões comerciais e impactar fluxos de capital. Se as tarifas forem de fato impostas, isso pode gerar um efeito cascata em cadeias de suprimentos globais e pressionar o câmbio de países exportadores.",
     "is_stocks": true
   }
 ]
