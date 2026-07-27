@@ -640,5 +640,45 @@
     "origem": "externa",
     "leitura_critica": "A divergência nos movimentos dos mercados de ações, títulos e dólar, apesar da queda acentuada do petróleo, sugere que outros fatores estão influenciando o comportamento dos investidores. A venda de títulos do Tesouro dos EUA com um rendimento específico pode ser um indicativo da percepção do mercado sobre a política monetária e o risco, mas a falta de acompanhamento total da queda do petróleo pelos outros ativos indica uma complexidade no cenário.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785195041.06628,
+    "titulo": "Deflação de alimentos acentua, e SP tem a maior queda de preços no ano",
+    "titulo_original": "Deflação de alimentos acentua, e SP tem a maior queda de preços no ano",
+    "fonte": "Folha Mercado",
+    "publicado": "27/07 20:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A deflação acentuada nos alimentos em São Paulo pode aliviar a pressão sobre o índice geral de inflação, o que, se persistir, pode influenciar as decisões futuras do Banco Central sobre a taxa de juros. Se outros setores da economia também apresentarem desaceleração de preços, o cenário para cortes de juros pode se fortalecer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785195045.3550026,
+    "titulo": "Bolsas de NY encerram sem sinal único com alívio no petróleo e queda em ações de chips",
+    "titulo_original": "Bolsas de NY encerram sem sinal único com alívio no petróleo e queda em ações de chips",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 17:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A divergência nos índices de Nova York sugere um mercado cauteloso, com setores específicos reagindo a notícias distintas. A pressão sobre ações de chips, ligada ao desenvolvimento de equipamentos na China, pode indicar um cenário de maior competição global neste segmento. Se os avanços diplomáticos com o Irã se confirmarem, o petróleo pode ter novas quedas, impactando outros setores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785195045.3562176,
+    "titulo": "BC anuncia leilões para rolagem de swaps com vencimento em setembro",
+    "titulo_original": "BC anuncia leilões para rolagem de swaps com vencimento em setembro",
+    "fonte": "Folha Mercado",
+    "publicado": "27/07 19:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A rolagem de swaps cambiais pelo Banco Central indica uma gestão ativa da liquidez e do câmbio. Se a demanda por esses contratos for alta, pode sinalizar uma busca por proteção cambial por parte do mercado. A decisão de rolar os contratos sugere que o BC busca manter a estabilidade cambial no curto e médio prazo.",
+    "is_stocks": true
   }
 ]
