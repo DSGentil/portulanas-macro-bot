@@ -366,5 +366,68 @@
     "origem": "domestica",
     "leitura_critica": "A queda contínua na confiança do consumidor pode indicar uma desaceleração no consumo privado, impactando a atividade econômica futura. Se a percepção sobre o futuro também começar a piorar nas próximas leituras, isso reforçaria um cenário de menor dinamismo econômico. A melhora na percepção sobre o presente seria um fator crucial para reverter essa tendência.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785177080.5505788,
+    "titulo": "Um debate mais sério sobre as propostas de campanha",
+    "titulo_original": "Um debate mais sério sobre as propostas de campanha",
+    "fonte": "Folha Mercado",
+    "publicado": "27/07 15:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As propostas de controle de capitais e aumento do salário mínimo apresentadas pelo PT podem ter implicações na inflação e na dinâmica do mercado de trabalho. Se o controle de capitais for implementado, pode haver impacto na volatilidade cambial; um aumento significativo do salário mínimo pode pressionar o consumo e a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785177084.81424,
+    "titulo": "Inteligência Paquistanesa: EUA Podem Estar Considerando Operação Terrestre Limitada no Irã",
+    "titulo_original": "Pakistani Intelligence: U.S. May Be Considering Limited Ground Operation in Iran",
+    "fonte": "ForexLive",
+    "publicado": "27/07 13:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de uma operação terrestre dos EUA no Irã, se confirmada, representaria um aumento significativo das tensões geopolíticas na região. Um conflito direto poderia impactar o preço do petróleo e a estabilidade global, afetando mercados de forma ampla.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785177089.0095544,
+    "titulo": "Keiko Fujimori escolhe economista pró-mercado como ministro de Finanças",
+    "titulo_original": "Keiko Fujimori escolhe economista pró-mercado como ministro de Finanças",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 15:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A nomeação de um economista pró-mercado sugere uma política econômica voltada para a estabilidade e o crescimento. Se a agenda econômica implementada for consistente com as expectativas do mercado, isso pode atrair investimentos estrangeiros para o Peru; caso contrário, a confiança pode ser abalada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785177093.4086955,
+    "titulo": "Vendas da LVMH avançam com demanda dos EUA compensando impacto da guerra no Irã",
+    "titulo_original": "Vendas da LVMH avançam com demanda dos EUA compensando impacto da guerra no Irã",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 13:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A demanda robusta nos EUA para bens de luxo da LVMH demonstra resiliência do consumidor americano, enquanto a guerra no Irã afeta outras regiões. Se a demanda nos EUA continuar forte, pode sustentar o setor de luxo globalmente; caso contrário, a desaceleração em outras regiões pode se intensificar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785177098.2456427,
+    "titulo": "Ouro sobe com alívio no Oriente Médio",
+    "titulo_original": "Ouro sobe com alívio no Oriente Médio",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 15:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A pausa nos ataques entre EUA e Irã trouxe alívio temporário ao mercado, impulsionando o ouro. Se as negociações diplomáticas avançarem, o ouro pode perder atratividade como porto seguro; se as tensões escalarem novamente, o metal precioso tende a se valorizar.",
+    "is_stocks": true
   }
 ]
