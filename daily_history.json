@@ -266,5 +266,105 @@
     "origem": "domestica",
     "leitura_critica": "A retirada de capital estrangeiro em um dia específico, embora significativa, é compensada por um saldo mensal positivo. Se a tendência de entrada de capital se mantiver, isso pode indicar um apetite contínuo dos investidores estrangeiros pelo mercado brasileiro; uma reversão dessa tendência exigiria atenção.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785170759.3558903,
+    "titulo": "Mercado reduz para 5,12% expectativa de inflação em 2026 - Brasil de Fato",
+    "titulo_original": "Mercado reduz para 5,12% expectativa de inflação em 2026 - Brasil de Fato",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/07 12:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na expectativa de inflação para 2026 pode sinalizar uma percepção de maior controle inflacionário no médio prazo. Se essa tendência de queda nas expectativas se mantiver, isso pode abrir espaço para uma política monetária mais flexível no futuro. Uma inflação persistentemente abaixo da meta poderia levar a revisões nas projeções de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785170763.0261652,
+    "titulo": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentido",
+    "titulo_original": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentido - suno.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/07 07:50",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A explicação sobre ETFs de Tesouro Selic e IPCA+ visa educar investidores sobre opções de renda fixa. Se as taxas de juros ou a inflação apresentarem volatilidade, esses ETFs podem se tornar mais ou menos atrativos. A compreensão das características de cada título é fundamental para a tomada de decisão de investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785170766.5116234,
+    "titulo": "Tesouro IPCA+ ainda é a melhor aposta da renda fixa? Especialista explica porque título continua pagando tão bem",
+    "titulo_original": "Tesouro IPCA+ ainda é a melhor aposta da renda fixa? Especialista explica porque título continua pagando tão bem",
+    "fonte": "Money Times",
+    "publicado": "27/07 12:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia sugere que o Tesouro IPCA+ pode estar se tornando uma opção atrativa na renda fixa devido à volatilidade externa e à perspectiva de juros mais altos. Se a inflação global e as taxas de juros internacionais continuarem em alta, o Tesouro IPCA+ pode oferecer retornos mais expressivos. A estabilidade geopolítica no Oriente Médio seria um fator chave para a reversão dessa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785170769.988656,
+    "titulo": "US treasury sells $69 billion of 2 year note at a high yield of",
+    "titulo_original": "US treasury sells $69 billion of 2 year note at a high yield of",
+    "fonte": "ForexLive",
+    "publicado": "27/07 13:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A venda de títulos do Tesouro dos EUA com um rendimento ligeiramente abaixo do esperado (tail negativo) pode ser interpretada como uma demanda sólida. Se essa demanda se mantiver em leilões futuros, pode sinalizar uma estabilização nas expectativas de juros de curto prazo nos EUA. No entanto, um \"tail\" muito mais negativo em leilões subsequentes poderia indicar uma diminuição do apetite por esses títulos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785170774.605598,
+    "titulo": "Bolsas europeias encerram em alta com alívio nos preços do petróleo",
+    "titulo_original": "Bolsas europeias encerram em alta com alívio nos preços do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 13:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nas bolsas europeias reflete um otimismo temporário com a desescalada das tensões no Oriente Médio e a consequente queda no preço do petróleo. Se a trégua se mantiver, o cenário de menor inflação e maior confiança pode persistir. No entanto, qualquer sinal de recrudescimento do conflito pode reverter rapidamente esse movimento positivo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785170774.60633,
+    "titulo": "Trump: I am not to give much time to negotiations – either it will move quickly or won't happen at all.",
+    "titulo_original": "Trump: I am not to give much time to negotiations – either it will move quickly or won't happen at all.",
+    "fonte": "ForexLive",
+    "publicado": "27/07 12:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre a urgência nas negociações com o Irã pode aumentar a pressão por um acordo rápido, mas também eleva o risco de um colapso diplomático. Se as negociações falharem, a ameaça de \"poderosa ação militar\" pode levar a uma nova alta nos preços do petróleo. A correlação entre a pausa nos ataques e a queda do petróleo sugere que a geopolítica continua sendo um fator dominante para os preços da commodity.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785170774.6071532,
+    "titulo": "Confiança do consumidor no Brasil cai em julho com piora da percepção sobre o presente, diz FGV",
+    "titulo_original": "Confiança do consumidor no Brasil cai em julho com piora da percepção sobre o presente, diz FGV",
+    "fonte": "Folha Mercado",
+    "publicado": "27/07 11:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda contínua na confiança do consumidor pode indicar uma desaceleração no consumo privado, impactando a atividade econômica futura. Se a percepção sobre o futuro também começar a piorar nas próximas leituras, isso reforçaria um cenário de menor dinamismo econômico. A melhora na percepção sobre o presente seria um fator crucial para reverter essa tendência.",
+    "is_stocks": true
   }
 ]
