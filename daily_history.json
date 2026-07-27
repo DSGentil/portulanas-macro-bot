@@ -238,5 +238,33 @@
     "origem": "ambas",
     "leitura_critica": "Um mapa técnico para a semana pode oferecer insights sobre os níveis de suporte e resistência de ativos importantes. Se os indicadores técnicos apontarem para tendências claras, isso pode orientar as decisões de curto prazo dos investidores; no entanto, é crucial lembrar que fatores fundamentais podem sobrepor análises técnicas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785165346.4062333,
+    "titulo": "Lula veta integralmente PL que incluía zootecnista entre categorias beneficiadas por piso salarial",
+    "titulo_original": "Lula veta integralmente PL que incluía zootecnista entre categorias beneficiadas por piso salarial",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 11:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O veto presidencial a um projeto de lei que poderia gerar despesas adicionais reforça a postura de cautela fiscal do governo. Se o Congresso mantiver o veto, a decisão sinaliza que a prioridade é o controle de gastos; caso derrube o veto, pode haver pressão sobre o orçamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785165351.2138965,
+    "titulo": "Estrangeiros retiram quase R$ 980 milhões na B3 em 23 de julho, mas saldo mensal está positivo em mais de R$ 3,6 bilhões - Valor Econômico",
+    "titulo_original": "Estrangeiros retiram quase R$ 980 milhões na B3 em 23 de julho, mas saldo mensal está positivo em mais de R$ 3,6 bilhões - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "27/07 11:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de capital estrangeiro em um dia específico, embora significativa, é compensada por um saldo mensal positivo. Se a tendência de entrada de capital se mantiver, isso pode indicar um apetite contínuo dos investidores estrangeiros pelo mercado brasileiro; uma reversão dessa tendência exigiria atenção.",
+    "is_stocks": true
   }
 ]
