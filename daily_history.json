@@ -148,5 +148,95 @@
     "origem": "externa",
     "leitura_critica": "A recuperação da Nasdaq e a pressão sobre os preços de energia indicam um movimento de aversão ao risco diminuindo. Se a Nasdaq conseguir manter a alta acima da resistência mencionada, isso pode sustentar um sentimento mais positivo nos mercados acionários globais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785158153.4856415,
+    "titulo": "Durigan defende que governo apresente detalhes das medidas de ajuste fiscal antes de 2027",
+    "titulo_original": "Durigan defende que governo apresente detalhes das medidas de ajuste fiscal antes de 2027",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 09:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro Durigan sinaliza uma intenção de avançar com medidas de ajuste fiscal, o que pode trazer mais clareza sobre o cenário das contas públicas. Se o governo conseguir detalhar e implementar essas medidas, isso pode reduzir a incerteza fiscal; caso contrário, a falta de clareza pode persistir e gerar volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785158158.2355058,
+    "titulo": "Economistas reduzem previsão para a inflação neste ano, mas sobem para 2027 e 2028",
+    "titulo_original": "Economistas reduzem previsão para a inflação neste ano, mas sobem para 2027 e 2028",
+    "fonte": "Folha Mercado",
+    "publicado": "27/07 09:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução da previsão de inflação para este ano é um sinal positivo, mas o aumento das expectativas para os anos seguintes pode indicar preocupações com a trajetória de longo prazo. Se a inflação corrente se mantiver controlada, isso pode dar margem para o Banco Central discutir cortes de juros; no entanto, as projeções futuras podem exigir cautela.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785158162.9902608,
+    "titulo": "El Niño aumenta pressão sobre os preços da soja",
+    "titulo_original": "El Niño aumenta pressão sobre os preços da soja - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "27/07 09:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O impacto do El Niño nos preços da soja pode afetar a rentabilidade do agronegócio brasileiro e, consequentemente, a balança comercial. Se as condições climáticas adversas persistirem, isso pode levar a uma alta nos preços da commodity, impactando custos de produção e o poder de compra de países importadores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785158167.8442063,
+    "titulo": "Abertura | Esperança por cessar-fogo no Oriente Médio reanima mercados e derruba petróleo",
+    "titulo_original": "Abertura | Esperança por cessar-fogo no Oriente Médio reanima mercados e derruba petróleo - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "27/07 09:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O otimismo em relação a um cessar-fogo no Oriente Médio pode reduzir a aversão ao risco global, beneficiando ativos mais voláteis. Se essa tendência de desescalada se confirmar, o petróleo pode continuar em trajetória de queda, o que, por sua vez, pode ter efeitos positivos na inflação global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785158174.0336094,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/07 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento da cotação do dólar é fundamental para entender a dinâmica do mercado de câmbio. Se o dólar apresentar movimentos bruscos, isso pode indicar mudanças no apetite a risco global ou pressões internas na economia brasileira, impactando importações e exportações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785158174.0341153,
+    "titulo": "Sessão europeia: petróleo cai à medida que mercados se apegam a esperanças de desescalada EUA-Irã",
+    "titulo_original": "investingLive European session wrap: Oil stumbles as markets cling on to US-Iran de-escalation hopes",
+    "fonte": "ForexLive",
+    "publicado": "27/07 08:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do petróleo, impulsionada pela esperança de desescalada no Oriente Médio, pode aliviar pressões inflacionárias globais. Se a tensão geopolítica diminuir de fato, isso pode permitir que bancos centrais como o BCE se concentrem mais em dados de inflação e atividade ao definir suas políticas de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785158174.034751,
+    "titulo": "Ibovespa, dólar, Nasdaq e Bitcoin: o mapa técnico para a semana",
+    "titulo_original": "Ibovespa, dólar, Nasdaq e Bitcoin: o mapa técnico para a semana - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/07 08:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "Um mapa técnico para a semana pode oferecer insights sobre os níveis de suporte e resistência de ativos importantes. Se os indicadores técnicos apontarem para tendências claras, isso pode orientar as decisões de curto prazo dos investidores; no entanto, é crucial lembrar que fatores fundamentais podem sobrepor análises técnicas.",
+    "is_stocks": true
   }
 ]
