@@ -429,5 +429,120 @@
     "origem": "externa",
     "leitura_critica": "A pausa nos ataques entre EUA e Irã trouxe alívio temporário ao mercado, impulsionando o ouro. Se as negociações diplomáticas avançarem, o ouro pode perder atratividade como porto seguro; se as tensões escalarem novamente, o metal precioso tende a se valorizar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785184245.7656677,
+    "titulo": "Para Benchimol, país 'não tem outro caminho’ além do ajuste fiscal",
+    "titulo_original": "Para Benchimol, país 'não tem outro caminho’ além do ajuste fiscal",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 17:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Benchimol reforça a visão de que a sustentabilidade econômica do país está atrelada à disciplina fiscal. Se o governo conseguir implementar um ajuste fiscal efetivo, o cenário para atração de investimentos e redução de juros se torna mais favorável; caso contrário, a dependência de ativos de baixo risco e alta rentabilidade de curto prazo pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785184249.5445068,
+    "titulo": "TCU vai analisar mudança contábil que recolocou R$ 5,2 bilhões no piso constitucional da saúde",
+    "titulo_original": "TCU vai analisar mudança contábil que recolocou R$ 5,2 bilhões no piso constitucional da saúde",
+    "fonte": "Folha Mercado",
+    "publicado": "27/07 16:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise do TCU sobre a mudança contábil pode ter implicações significativas para a alocação de recursos na saúde. Se a reclassificação for considerada irregular, pode haver a necessidade de realocação de fundos ou revisão de gastos; caso seja validada, reforça a flexibilidade na gestão orçamentária, mas levanta questionamentos sobre a transparência fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785184253.4147334,
+    "titulo": "Dólar à vista avança e vai a R$ 5,11 na ausência de suporte do petróleo",
+    "titulo_original": "Dólar à vista avança e vai a R$ 5,11 na ausência de suporte do petróleo - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/07 17:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar, neste cenário, pode ser interpretada como uma reação à ausência de um fator externo que historicamente oferece suporte à moeda. Se o preço do petróleo continuar em trajetória de queda, o dólar pode manter essa tendência de alta; contudo, qualquer reversão abrupta nos preços das commodities pode alterar essa dinâmica rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785184257.2444577,
+    "titulo": "Dólar à vista fecha em alta de 0,62%, a R$5,1130 na venda",
+    "titulo_original": "Dólar à vista fecha em alta de 0,62%, a R$5,1130 na venda - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/07 17:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O fechamento do dólar em alta indica uma pressão de compra sobre a moeda no mercado doméstico. Se essa tendência de valorização se mantiver nos próximos dias, pode haver um impacto no custo de importações e na inflação; caso contrário, uma reversão pode sinalizar maior fluxo de capital para o país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785184262.8019829,
+    "titulo": "Ações da Embraer sobem mais de 5% após aumento de pedidos no 2º trimestre",
+    "titulo_original": "Ações da Embraer sobem mais de 5% após aumento de pedidos no 2º trimestre",
+    "fonte": "Folha Mercado",
+    "publicado": "27/07 17:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho positivo das ações da Embraer reflete a confiança do mercado na capacidade da empresa de expandir sua base de pedidos. Se a tendência de crescimento se mantiver nos próximos trimestres, a valorização das ações pode continuar; no entanto, a volatilidade do setor aeroespacial exige acompanhamento constante.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785184262.802966,
+    "titulo": "Renda fixa: Estoque de produtos de captação bancária na B3 cresce 13% no primeiro semestre",
+    "titulo_original": "Renda fixa: Estoque de produtos de captação bancária na B3 cresce 13% no primeiro semestre - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "27/07 14:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento no estoque de produtos de captação bancária pode indicar um maior interesse dos investidores em renda fixa, possivelmente em resposta a taxas de juros elevadas. Se as taxas de juros permanecerem altas, esse crescimento pode se sustentar; uma eventual queda nas taxas, no entanto, poderia diminuir o atrativo desses produtos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785184262.803841,
+    "titulo": "B3 faz mudança em 101 BDRs e reduz preço de entrada para investidores",
+    "titulo_original": "B3 faz mudança em 101 BDRs e reduz preço de entrada para investidores",
+    "fonte": "Money Times",
+    "publicado": "27/07 17:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa da B3 de tornar os BDRs mais acessíveis pode estimular o investimento em ativos internacionais por parte de um público mais amplo. Se essa medida gerar um aumento significativo no volume de negociação desses recibos, pode indicar uma maior integração do mercado brasileiro com o global; o sucesso dependerá da atratividade dos ativos subjacentes e da percepção de risco dos investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785184262.8048098,
+    "titulo": "Ibovespa retoma 175 mil pontos com maior apetite por risco e apesar de Petrobras",
+    "titulo_original": "Ibovespa retoma 175 mil pontos com maior apetite por risco e apesar de Petrobras - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "27/07 17:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação do Ibovespa sugere um cenário de maior confiança dos investidores, apesar de possíveis pressões negativas de ações específicas como as da Petrobras. Se o apetite por risco se mantiver, o índice pode continuar sua trajetória de alta; a influência da Petrobras, no entanto, pode ser um fator de volatilidade a ser observado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785184262.805709,
+    "titulo": "Citi corta preço-alvo de Grupo Mateus (GMAT3) e Assaí (ASAI3); ‘Pouco motivo para otimismo’, dizem analistas",
+    "titulo_original": "Citi corta preço-alvo de Grupo Mateus (GMAT3) e Assaí (ASAI3); ‘Pouco motivo para otimismo’, dizem analistas",
+    "fonte": "Money Times",
+    "publicado": "27/07 16:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A redução dos preços-alvo por parte do Citi sugere uma perspectiva cautelosa para as varejistas Grupo Mateus e Assaí. Se as condições de mercado não melhorarem significativamente, as ações podem continuar sob pressão; uma eventual recuperação do setor de varejo, no entanto, poderia reverter essa tendência, mas a notícia indica que isso não é esperado no curto prazo.",
+    "is_stocks": true
   }
 ]
