@@ -544,5 +544,101 @@
     "origem": "domestica",
     "leitura_critica": "A redução dos preços-alvo por parte do Citi sugere uma perspectiva cautelosa para as varejistas Grupo Mateus e Assaí. Se as condições de mercado não melhorarem significativamente, as ações podem continuar sob pressão; uma eventual recuperação do setor de varejo, no entanto, poderia reverter essa tendência, mas a notícia indica que isso não é esperado no curto prazo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785189652.568325,
+    "titulo": "Mercado financeiro reduz projeção de inflação e mantém Selic em 14% - Canal Rural",
+    "titulo_original": "Mercado financeiro reduz projeção de inflação e mantém Selic em 14% - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/07 17:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na projeção de inflação pelo mercado financeiro, aliada à manutenção da expectativa da Selic em 14%, sugere um cenário de maior controle inflacionário percebido pelos agentes econômicos. Se a inflação de fato desacelerar, o Banco Central poderá ter mais margem para discutir a redução da taxa de juros em reuniões futuras; caso contrário, a manutenção da Selic em patamares elevados pode ser prolongada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785189656.5714285,
+    "titulo": "Juros futuros acompanham petróleo e anotam forte queda",
+    "titulo_original": "Juros futuros acompanham petróleo e anotam forte queda",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 18:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A forte queda nos juros futuros, impulsionada pela redução do preço do petróleo e pela perspectiva de alívio inflacionário devido ao cessar-fogo no Oriente Médio, sugere uma mudança no humor do mercado em relação ao risco. Se a desescalada geopolítica se confirmar, os juros podem continuar em trajetória de queda; caso contrário, a volta das tensões pode reverter essa tendência rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785189660.6366482,
+    "titulo": "A guerra comercial de Trump: o que está por trás da taxação de 25% contra o Brasil - Brasil de Fato",
+    "titulo_original": "A guerra comercial de Trump: o que está por trás da taxação de 25% contra o Brasil - Brasil de Fato",
+    "fonte": "Google News Geopolitica",
+    "publicado": "27/07 17:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A taxação de 25% imposta pelo governo Trump ao Brasil, no contexto de uma guerra comercial, pode gerar impactos negativos nas exportações brasileiras e nas relações comerciais entre os dois países. Se essa política se mantiver, pode levar a retaliações por parte do Brasil ou a busca por novos mercados; caso contrário, uma negociação diplomática pode reverter a situação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785189664.6530797,
+    "titulo": "Trump diz que Fed deveria reduzir taxa de juros - Notícias Agrícolas",
+    "titulo_original": "Trump diz que Fed deveria reduzir taxa de juros - Notícias Agrícolas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/07 13:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Donald Trump sobre a necessidade de o Fed reduzir a taxa de juros pode influenciar as expectativas do mercado em relação à política monetária americana. Se o Fed considerar essa pressão, uma redução nos juros poderia estimular a economia, mas também gerar preocupações inflacionárias; caso contrário, a manutenção da política atual pode indicar cautela com a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785189669.755553,
+    "titulo": "BBSE3 e CCXE3 chegam a despencar 7% com revisão de analistas para ações e dividendos; hora de se preocupar?",
+    "titulo_original": "BBSE3 e CCXE3 chegam a despencar 7% com revisão de analistas para ações e dividendos; hora de se preocupar?",
+    "fonte": "Money Times",
+    "publicado": "27/07 18:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte desvalorização das ações de BBSE3 e CCXE3 sugere que o mercado está precificando um cenário menos favorável para o setor de seguros, possivelmente devido a mudanças nas expectativas de dividendos ou na performance futura das empresas. Se as revisões de analistas forem baseadas em fundamentos sólidos, isso pode indicar uma tendência de queda para o setor, mas se for apenas volatilidade de curto prazo, as ações podem se recuperar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785189669.7567158,
+    "titulo": "Bradesco reformula área de renda fixa e volta a liderar ranking da Anbima após quase 10 anos",
+    "titulo_original": "Bradesco reformula área de renda fixa e volta a liderar ranking da Anbima após quase 10 anos",
+    "fonte": "Valor Economico",
+    "publicado": "27/07 18:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A volta do Bradesco à liderança no mercado de renda fixa, após quase uma década, sugere uma recuperação ou fortalecimento de sua atuação nesse segmento. Se essa performance se mantiver, pode indicar um aumento na captação de recursos via renda fixa pelo banco, atraindo investidores em busca de segurança e rentabilidade. A disputa acirrada com outros grandes bancos no ranking aponta para um mercado competitivo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785189669.7580106,
+    "titulo": "investingLive Americas FX news wrap 27 Jul: Oil was down sharply but the stocks, bonds, USD did not fully follow.",
+    "titulo_original": "investingLive Americas FX news wrap 27 Jul: Oil was down sharply but the stocks, bonds, USD did not fully follow.",
+    "fonte": "ForexLive",
+    "publicado": "27/07 17:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A divergência nos movimentos dos mercados de ações, títulos e dólar, apesar da queda acentuada do petróleo, sugere que outros fatores estão influenciando o comportamento dos investidores. A venda de títulos do Tesouro dos EUA com um rendimento específico pode ser um indicativo da percepção do mercado sobre a política monetária e o risco, mas a falta de acompanhamento total da queda do petróleo pelos outros ativos indica uma complexidade no cenário.",
+    "is_stocks": true
   }
 ]
