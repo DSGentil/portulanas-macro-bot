@@ -84,5 +84,69 @@
     "origem": "externa",
     "leitura_critica": "A notícia destaca a influência de eventos geopolíticos nos mercados. A menção a tarifas e à situação no Irã reforça a volatilidade em ativos de risco e commodities. Se as tensões aumentarem, o petróleo pode sofrer novas altas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785151859.5887442,
+    "titulo": "Economia em foco: juros futuros recuam e mercado revisa cenário para a Selic",
+    "titulo_original": "Economia em foco: juros futuros recuam e mercado revisa cenário para a Selic - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/07 05:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos juros futuros sugere uma expectativa de afrouxamento monetário ou menor aperto futuro por parte do Banco Central. Se essa tendência se confirmar com dados de inflação mais benignos, o cenário para a Selic pode se tornar mais favorável a cortes antecipados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785151864.369861,
+    "titulo": "Pequenas e médias empresas enfrentam dificuldades para aproveitar acordo Mercosul-UE",
+    "titulo_original": "Pequena e médias empresas enfrentam dificuldades para aproveitar acordo Mercosul-UE",
+    "fonte": "Folha Mercado",
+    "publicado": "27/07 08:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A dificuldade das PMEs em se adaptar ao acordo Mercosul-UE pode limitar o alcance dos benefícios comerciais para um segmento importante da economia brasileira. Se as barreiras de informação e procedimento não forem superadas, o impacto positivo do acordo pode se concentrar em poucas empresas de grande porte.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785151869.1101809,
+    "titulo": "Brasil atinge 80% da cota de carne para a China e está prestes a ser taxado em 55%",
+    "titulo_original": "Brasil atinge 80% da cota de carne para a China e está prestes a ser taxado em 55%",
+    "fonte": "Folha Mercado",
+    "publicado": "27/07 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O atingimento de 80% da cota de carne bovina para a China e a iminência de uma taxação de 55% representam um impacto significativo nas exportações brasileiras para o país asiático. Se a taxação for aplicada, isso pode reduzir a competitividade da carne brasileira no mercado chinês e forçar uma readequação das estratégias de exportação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785151873.837193,
+    "titulo": "Vance e chefe militar dos EUA expressam preocupações sobre escalada no Irã",
+    "titulo_original": "Vance e chefe militar dos EUA expressam preocupações sobre escalada no Irã - CNN Brasil",
+    "fonte": "Google News Geopolitica",
+    "publicado": "27/07 08:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As preocupações expressas por autoridades americanas sobre a escalada no Irã podem aumentar a percepção de risco geopolítico na região. Se as tensões aumentarem, isso pode levar a uma volatilidade nos mercados de energia e impactar o fluxo de capital global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785151879.3401291,
+    "titulo": "Atualização do mercado hoje e o que pode ser interessante para negociar",
+    "titulo_original": "Market update today and what may be interesting to trade",
+    "fonte": "ForexLive",
+    "publicado": "27/07 07:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação da Nasdaq e a pressão sobre os preços de energia indicam um movimento de aversão ao risco diminuindo. Se a Nasdaq conseguir manter a alta acima da resistência mencionada, isso pode sustentar um sentimento mais positivo nos mercados acionários globais.",
+    "is_stocks": true
   }
 ]
