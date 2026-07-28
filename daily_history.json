@@ -1,155 +1,5 @@
 [
   {
-    "_timestamp": 1785150130.0762517,
-    "titulo": "Reflexões sobre três décadas de política monetária: o papel do Copom em um cenário de transformação - Estadão",
-    "titulo_original": "Reflexões sobre três décadas de política monetária: o papel do Copom em um cenário de transformação - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/07 17:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre o papel do Copom ao longo do tempo pode fornecer contexto para as decisões futuras de juros. Se a análise apontar para uma necessidade de maior flexibilidade ou rigidez, isso pode influenciar as expectativas do mercado sobre a trajetória da Selic.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785150134.75197,
-    "titulo": "Alta dos aluguéis faz brilhar paixão nacional por tijolo",
-    "titulo_original": "Alta dos aluguéis faz brilhar paixão nacional por tijolo",
-    "fonte": "Folha Mercado",
-    "publicado": "26/07 23:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aborda o impacto dos juros no mercado imobiliário e no sonho da casa própria. Se os juros permanecerem altos, a dificuldade de acesso à compra de imóveis pode persistir, mantendo a demanda por aluguéis elevada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785150139.5804234,
-    "titulo": "Por que uma boa carteira pode parecer errada",
-    "titulo_original": "Por que uma boa carteira pode parecer errada",
-    "fonte": "Folha Mercado",
-    "publicado": "26/07 23:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aborda a gestão de investimentos em títulos públicos indexados à inflação. A decisão de manter ou vender tais títulos pode depender de cenários futuros de inflação e juros, mas a notícia em si foca na estratégia individual do investidor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785150144.2909114,
-    "titulo": "Calendário econômico da semana: Fed, inflação e PIB dominam a última semana de julho - Estadão",
-    "titulo_original": "Calendário econômico da semana: Fed, inflação e PIB dominam a última semana de julho - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/07 17:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A divulgação de dados de inflação e PIB, juntamente com a decisão do Fed sobre juros, são eventos cruciais que podem influenciar os mercados globais. Se os dados de inflação vierem acima do esperado, o Fed pode sinalizar uma postura mais restritiva, impactando as taxas de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785150149.6664822,
-    "titulo": "Semana para traders: FOMC, BoE, BoJ, PCE dos EUA e PIB criam risco em diversos ativos",
-    "titulo_original": "Week ahead for traders: FOMC, BoE, BoJ, US PCE and GDP create major cross-asset risk",
-    "fonte": "ForexLive",
-    "publicado": "26/07 18:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A concentração de eventos macroeconômicos importantes, como decisões de juros e dados de inflação e PIB, pode gerar volatilidade significativa nos mercados. Se os dados de inflação vierem acima do esperado, o Fed pode adotar uma postura mais hawkish, impactando as expectativas de corte de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785150149.6667917,
-    "titulo": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
-    "titulo_original": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
-    "fonte": "ForexLive",
-    "publicado": "24/07 18:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia destaca a influência de eventos geopolíticos nos mercados. A menção a tarifas e à situação no Irã reforça a volatilidade em ativos de risco e commodities. Se as tensões aumentarem, o petróleo pode sofrer novas altas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785151859.5887442,
-    "titulo": "Economia em foco: juros futuros recuam e mercado revisa cenário para a Selic",
-    "titulo_original": "Economia em foco: juros futuros recuam e mercado revisa cenário para a Selic - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/07 05:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nos juros futuros sugere uma expectativa de afrouxamento monetário ou menor aperto futuro por parte do Banco Central. Se essa tendência se confirmar com dados de inflação mais benignos, o cenário para a Selic pode se tornar mais favorável a cortes antecipados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785151864.369861,
-    "titulo": "Pequenas e médias empresas enfrentam dificuldades para aproveitar acordo Mercosul-UE",
-    "titulo_original": "Pequena e médias empresas enfrentam dificuldades para aproveitar acordo Mercosul-UE",
-    "fonte": "Folha Mercado",
-    "publicado": "27/07 08:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A dificuldade das PMEs em se adaptar ao acordo Mercosul-UE pode limitar o alcance dos benefícios comerciais para um segmento importante da economia brasileira. Se as barreiras de informação e procedimento não forem superadas, o impacto positivo do acordo pode se concentrar em poucas empresas de grande porte.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785151869.1101809,
-    "titulo": "Brasil atinge 80% da cota de carne para a China e está prestes a ser taxado em 55%",
-    "titulo_original": "Brasil atinge 80% da cota de carne para a China e está prestes a ser taxado em 55%",
-    "fonte": "Folha Mercado",
-    "publicado": "27/07 06:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O atingimento de 80% da cota de carne bovina para a China e a iminência de uma taxação de 55% representam um impacto significativo nas exportações brasileiras para o país asiático. Se a taxação for aplicada, isso pode reduzir a competitividade da carne brasileira no mercado chinês e forçar uma readequação das estratégias de exportação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785151873.837193,
-    "titulo": "Vance e chefe militar dos EUA expressam preocupações sobre escalada no Irã",
-    "titulo_original": "Vance e chefe militar dos EUA expressam preocupações sobre escalada no Irã - CNN Brasil",
-    "fonte": "Google News Geopolitica",
-    "publicado": "27/07 08:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "As preocupações expressas por autoridades americanas sobre a escalada no Irã podem aumentar a percepção de risco geopolítico na região. Se as tensões aumentarem, isso pode levar a uma volatilidade nos mercados de energia e impactar o fluxo de capital global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785151879.3401291,
-    "titulo": "Atualização do mercado hoje e o que pode ser interessante para negociar",
-    "titulo_original": "Market update today and what may be interesting to trade",
-    "fonte": "ForexLive",
-    "publicado": "27/07 07:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recuperação da Nasdaq e a pressão sobre os preços de energia indicam um movimento de aversão ao risco diminuindo. Se a Nasdaq conseguir manter a alta acima da resistência mencionada, isso pode sustentar um sentimento mais positivo nos mercados acionários globais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785158153.4856415,
     "titulo": "Durigan defende que governo apresente detalhes das medidas de ajuste fiscal antes de 2027",
     "titulo_original": "Durigan defende que governo apresente detalhes das medidas de ajuste fiscal antes de 2027",
@@ -989,6 +839,121 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A disputa pela liderança em valor de mercado entre gigantes da tecnologia como Apple e Nvidia reflete a dinâmica do setor e a percepção de valor dos investidores. Se a Apple mantiver sua trajetória de crescimento e inovação, poderá consolidar sua posição; caso contrário, a Nvidia pode retomar a liderança.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785263465.0616527,
+    "titulo": "Setor mineral fatura R$ 150,7 bilhões no 1º semestre, alta de 8,2%, diz Ibram",
+    "titulo_original": "Setor mineral fatura R$ 150,7 bilhões no 1º semestre, alta de 8,2%, diz Ibram",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 15:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho do setor mineral, especialmente do minério de ferro, pode influenciar a balança comercial brasileira. Se a demanda por minério de ferro se mantiver estável ou em alta, o faturamento do setor tende a continuar positivo; caso contrário, uma desaceleração global poderia impactar negativamente os resultados futuros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785263469.4681075,
+    "titulo": "Brasil vê avanço na exportação de frango em 2026 apesar de União Europeia e guerra",
+    "titulo_original": "Brasil vê avanço na exportação de frango em 2026 apesar de União Europeia e guerra",
+    "fonte": "Money Times",
+    "publicado": "28/07 14:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O potencial recorde nas exportações de frango pode ter um impacto positivo na balança comercial brasileira. Se as incertezas geopolíticas e comerciais se dissiparem, o setor pode superar as projeções; caso contrário, a demanda internacional pode ser afetada, impactando os volumes exportados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785263473.976911,
+    "titulo": "Brasil pode liderar padrões ambientais para soja e carne. Mas há desafios, segundo WRI",
+    "titulo_original": "Brasil pode liderar padrões ambientais para soja e carne. Mas há desafios, segundo WRI - Bloomberg Línea Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "28/07 10:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A liderança do Brasil em padrões ambientais pode agregar valor às suas exportações agrícolas. Se os desafios forem superados, o país pode se destacar no mercado internacional; caso contrário, a dificuldade em implementar práticas sustentáveis pode limitar seu potencial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785263478.4503987,
+    "titulo": "US treasury sells $44B of 7-year notes at a high yield of 4.473%",
+    "titulo_original": "US treasury sells $44B of 7-year notes at a high yield of 4.473%",
+    "fonte": "ForexLive",
+    "publicado": "28/07 14:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O rendimento dos títulos do Tesouro dos EUA é um indicador importante para as taxas de juros globais. Se o rendimento continuar a subir, isso pode pressionar as taxas de juros em outros países; caso contrário, um rendimento estável ou em queda pode sinalizar um ambiente de juros mais acomodatício.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785263484.9373662,
+    "titulo": "Ibovespa sobe e dólar oscila com prévia da inflação e à espera do Fed",
+    "titulo_original": "Ibovespa sobe e dólar oscila com prévia da inflação e à espera do Fed - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/07 10:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A prévia da inflação e a decisão do Fed são fatores cruciais para o comportamento dos mercados. Se a inflação vier abaixo do esperado, o Fed pode sinalizar um tom mais dovish, impulsionando o Ibovespa; se a inflação surpreender para cima, o Fed pode manter uma postura mais hawkish, pressionando o dólar e o índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785263484.9388065,
+    "titulo": "Ibovespa avança após prévia da inflação mais fraca que o esperado",
+    "titulo_original": "Ibovespa avança após prévia da inflação mais fraca que o esperado - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "28/07 13:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prévia da inflação mais fraca que o esperado pode sinalizar um cenário mais favorável para a política monetária. Se a inflação continuar em trajetória de queda, o Banco Central pode ter espaço para reduzir os juros, impulsionando o Ibovespa; caso contrário, uma reversão nessa tendência pode pressionar o índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785263484.940125,
+    "titulo": "FIIs de lajes corporativas: aluguel bate recorde em SP e vacância pode cair a 8% em 2027",
+    "titulo_original": "FIIs de lajes corporativas: aluguel bate recorde em SP e vacância pode cair a 8% em 2027",
+    "fonte": "InvestNews",
+    "publicado": "28/07 15:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da ocupação em FIIs de lajes corporativas pode indicar uma recuperação do mercado imobiliário comercial. Se a tendência de queda na vacância se mantiver, isso pode atrair mais investimentos para o setor; caso contrário, uma reversão nesse cenário poderia sinalizar desafios persistentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785263484.9414084,
+    "titulo": "TIM e Vivo: por que as ações são destaque de queda do Ibovespa após o balanço do 2T?",
+    "titulo_original": "TIM e Vivo: por que as ações são destaque de queda do Ibovespa após o balanço do 2T? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "28/07 11:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho das ações de TIM e Vivo pode refletir o cenário do setor de telecomunicações. Se os resultados apresentados indicarem desafios operacionais ou de mercado, isso pode se estender a outras empresas do setor; caso contrário, uma recuperação pode sinalizar um ambiente mais favorável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785263484.9426956,
+    "titulo": "Data Expert: Monitor semanal de Preço de Paridade de Importação da Petrobras (28/07/2026)",
+    "titulo_original": "Data Expert: Monitor semanal de Preço de Paridade de Importação da Petrobras (28/07/2026) - XP Investimentos",
+    "fonte": "Google News Acoes",
+    "publicado": "28/07 14:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O monitoramento do PPI da Petrobras é importante para entender a política de preços da empresa. Se o PPI apresentar variações significativas, isso pode impactar os resultados da Petrobras e a inflação de combustíveis; caso contrário, uma estabilidade no PPI pode indicar um cenário mais previsível.",
     "is_stocks": true
   }
 ]
