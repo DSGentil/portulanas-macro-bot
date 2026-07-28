@@ -912,5 +912,83 @@
     "origem": "domestica",
     "leitura_critica": "A retirada de capital estrangeiro da B3, embora com saldo anual positivo, pode ser um sinal de cautela do investidor internacional. Se essa tendência de retirada se acentuar, pode pressionar a bolsa brasileira e o câmbio.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785257146.1717074,
+    "titulo": "Crédito imobiliário surpreende e cresce 23% no semestre, mesmo com juros altos",
+    "titulo_original": "Crédito imobiliário surpreende e cresce 23% no semestre, mesmo com juros altos",
+    "fonte": "Folha Mercado",
+    "publicado": "28/07 13:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho robusto do crédito imobiliário, apesar da taxa de juros elevada, sugere uma demanda resiliente no setor. Se as taxas de juros começarem a cair, o crescimento do crédito imobiliário pode se acelerar ainda mais, impulsionando o setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785257149.7625778,
+    "titulo": "Dólar à vista inicia dia em alta, apesar de IPCA-15 de julho abaixo do esperado - UOL Economia",
+    "titulo_original": "Dólar à vista inicia dia em alta, apesar de IPCA-15 de julho abaixo do esperado - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/07 09:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar, mesmo com um dado de inflação mais baixo que o esperado, sugere que outros fatores macroeconômicos ou de percepção de risco estão influenciando o câmbio. Se a alta do dólar persistir, isso pode pressionar a inflação futura e impactar as decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785257153.319459,
+    "titulo": "Conselho Curador do FGTS aprova distribuição de R$ 13 bilhões do lucro de 2025",
+    "titulo_original": "Conselho Curador do FGTS aprova distribuição de R$ 13 bilhões do lucro de 2025",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 12:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A distribuição de lucros do FGTS representa um ganho adicional para os trabalhadores, o que pode ter um impacto positivo no consumo. Se a rentabilidade do FGTS continuar a superar a inflação, isso pode ser um incentivo para a poupança e investimento de longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785257157.1506329,
+    "titulo": "Abiove eleva projeção de processamento de soja para recorde de 63,3 milhões de toneladas em 2026 - Canal Rural",
+    "titulo_original": "Abiove eleva projeção de processamento de soja para recorde de 63,3 milhões de toneladas em 2026 - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "28/07 11:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da projeção de processamento de soja indica uma expectativa de forte demanda e produção no agronegócio brasileiro. Se a safra confirmar essa expectativa, isso pode ter um impacto positivo na balança comercial e na economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785257226.8313105,
+    "titulo": "Bolsas na Europa sobem com apoio de balanços e recuo nos preços do petróleo",
+    "titulo_original": "Bolsas na Europa sobem com apoio de balanços e recuo nos preços do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 13:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das bolsas europeias, ancorada em balanços corporativos e na diminuição do risco geopolítico no Oriente Médio, indica um apetite por risco que pode se estender a outros mercados. Se os resultados corporativos continuarem positivos e as tensões diminuírem, o cenário para a renda variável europeia pode se manter favorável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785257226.8328807,
+    "titulo": "Apple (AAPL) ultrapassa Nvidia (NVDA) e recupera liderança em valor de mercado",
+    "titulo_original": "Apple (AAPL) ultrapassa Nvidia (NVDA) e recupera liderança em valor de mercado",
+    "fonte": "Money Times",
+    "publicado": "28/07 13:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A disputa pela liderança em valor de mercado entre gigantes da tecnologia como Apple e Nvidia reflete a dinâmica do setor e a percepção de valor dos investidores. Se a Apple mantiver sua trajetória de crescimento e inovação, poderá consolidar sua posição; caso contrário, a Nvidia pode retomar a liderança.",
+    "is_stocks": true
   }
 ]
