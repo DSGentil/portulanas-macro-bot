@@ -680,5 +680,88 @@
     "origem": "domestica",
     "leitura_critica": "A rolagem de swaps cambiais pelo Banco Central indica uma gestão ativa da liquidez e do câmbio. Se a demanda por esses contratos for alta, pode sinalizar uma busca por proteção cambial por parte do mercado. A decisão de rolar os contratos sugere que o BC busca manter a estabilidade cambial no curto e médio prazo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785238274.3013852,
+    "titulo": "Governo decide distribuição do lucro do FGTS nesta terça (28); veja quem recebe e quando o valor será pago",
+    "titulo_original": "Governo decide distribuição do lucro do FGTS nesta terça (28); veja quem recebe e quando o valor será pago",
+    "fonte": "Folha Mercado",
+    "publicado": "28/07 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão sobre a distribuição do lucro do FGTS representa uma alocação de recursos públicos que pode ter impacto no consumo e na liquidez da economia. Se o valor a ser distribuído for significativo, pode estimular a demanda agregada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785238277.703639,
+    "titulo": "A decisão do Fed e a briga dos bancões brasileiros: o que afeta os mercados hoje",
+    "titulo_original": "A decisão do Fed e a briga dos bancões brasileiros: o que afeta os mercados hoje - Seu Dinheiro",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/07 08:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A decisão do Fed sobre juros é um fator crucial para os mercados globais e domésticos. Se o Fed sinalizar uma postura mais restritiva, isso pode levar a um aumento da volatilidade e impactar o fluxo de capital para economias emergentes como o Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785238281.2069373,
+    "titulo": "Dólar sobe ao maior nível em um mês no exterior com apostas em alta de juros pelo Fed",
+    "titulo_original": "Dólar sobe ao maior nível em um mês no exterior com apostas em alta de juros pelo Fed",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 08:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A valorização do dólar e o aumento das apostas em alta de juros pelo Fed indicam um cenário de aperto monetário nos EUA. Isso pode pressionar moedas de países emergentes e aumentar o custo de financiamento global, impactando o fluxo de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785238284.6164212,
+    "titulo": "Mercado espera mais dissenso do Fed após retomada de ataques",
+    "titulo_original": "Mercado espera mais dissenso do Fed após retomada de ataques - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/07 05:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A expectativa de maior dissenso no Fed sugere incertezas sobre a futura trajetória da política monetária americana. Se a instabilidade geopolítica persistir, pode influenciar as decisões do Fed em relação aos juros, com potenciais reflexos nos mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785238289.5054946,
+    "titulo": "Manhã no mercado: ‘Sell-off’ nas techs em Seul limita bom humor nos ativos de risco",
+    "titulo_original": "Manhã no mercado: ‘Sell-off’ nas techs em Seul limita bom humor nos ativos de risco",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 08:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte queda em Seul, especialmente em empresas de semicondutores, pode indicar um receio generalizado em relação ao setor de tecnologia e à cadeia de suprimentos global. Se essa tendência se mantiver, pode haver um impacto mais amplo em outros mercados de renda variável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785238289.5067582,
+    "titulo": "IPCA-15, produção da Petrobras, confiança do consumidor e mais destaques desta terça",
+    "titulo_original": "IPCA-15, produção da Petrobras, confiança do consumidor e mais destaques desta terça - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "28/07 06:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O IPCA-15 é um indicador importante da inflação, e a produção da Petrobras reflete a atividade econômica. A divulgação desses dados pode fornecer pistas sobre a trajetória da inflação e o desempenho da economia brasileira, influenciando as expectativas sobre juros.",
+    "is_stocks": true
   }
 ]
