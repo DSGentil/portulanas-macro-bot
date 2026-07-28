@@ -1,95 +1,5 @@
 [
   {
-    "_timestamp": 1785158153.4856415,
-    "titulo": "Durigan defende que governo apresente detalhes das medidas de ajuste fiscal antes de 2027",
-    "titulo_original": "Durigan defende que governo apresente detalhes das medidas de ajuste fiscal antes de 2027",
-    "fonte": "Valor Economico",
-    "publicado": "27/07 09:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro Durigan sinaliza uma intenção de avançar com medidas de ajuste fiscal, o que pode trazer mais clareza sobre o cenário das contas públicas. Se o governo conseguir detalhar e implementar essas medidas, isso pode reduzir a incerteza fiscal; caso contrário, a falta de clareza pode persistir e gerar volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785158158.2355058,
-    "titulo": "Economistas reduzem previsão para a inflação neste ano, mas sobem para 2027 e 2028",
-    "titulo_original": "Economistas reduzem previsão para a inflação neste ano, mas sobem para 2027 e 2028",
-    "fonte": "Folha Mercado",
-    "publicado": "27/07 09:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução da previsão de inflação para este ano é um sinal positivo, mas o aumento das expectativas para os anos seguintes pode indicar preocupações com a trajetória de longo prazo. Se a inflação corrente se mantiver controlada, isso pode dar margem para o Banco Central discutir cortes de juros; no entanto, as projeções futuras podem exigir cautela.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785158162.9902608,
-    "titulo": "El Niño aumenta pressão sobre os preços da soja",
-    "titulo_original": "El Niño aumenta pressão sobre os preços da soja - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "27/07 09:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O impacto do El Niño nos preços da soja pode afetar a rentabilidade do agronegócio brasileiro e, consequentemente, a balança comercial. Se as condições climáticas adversas persistirem, isso pode levar a uma alta nos preços da commodity, impactando custos de produção e o poder de compra de países importadores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785158167.8442063,
-    "titulo": "Abertura | Esperança por cessar-fogo no Oriente Médio reanima mercados e derruba petróleo",
-    "titulo_original": "Abertura | Esperança por cessar-fogo no Oriente Médio reanima mercados e derruba petróleo - InvesTalk",
-    "fonte": "Google News Acoes",
-    "publicado": "27/07 09:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O otimismo em relação a um cessar-fogo no Oriente Médio pode reduzir a aversão ao risco global, beneficiando ativos mais voláteis. Se essa tendência de desescalada se confirmar, o petróleo pode continuar em trajetória de queda, o que, por sua vez, pode ter efeitos positivos na inflação global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785158174.0336094,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/07 09:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento da cotação do dólar é fundamental para entender a dinâmica do mercado de câmbio. Se o dólar apresentar movimentos bruscos, isso pode indicar mudanças no apetite a risco global ou pressões internas na economia brasileira, impactando importações e exportações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785158174.0341153,
-    "titulo": "Sessão europeia: petróleo cai à medida que mercados se apegam a esperanças de desescalada EUA-Irã",
-    "titulo_original": "investingLive European session wrap: Oil stumbles as markets cling on to US-Iran de-escalation hopes",
-    "fonte": "ForexLive",
-    "publicado": "27/07 08:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda do petróleo, impulsionada pela esperança de desescalada no Oriente Médio, pode aliviar pressões inflacionárias globais. Se a tensão geopolítica diminuir de fato, isso pode permitir que bancos centrais como o BCE se concentrem mais em dados de inflação e atividade ao definir suas políticas de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785158174.034751,
-    "titulo": "Ibovespa, dólar, Nasdaq e Bitcoin: o mapa técnico para a semana",
-    "titulo_original": "Ibovespa, dólar, Nasdaq e Bitcoin: o mapa técnico para a semana - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/07 08:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "Um mapa técnico para a semana pode oferecer insights sobre os níveis de suporte e resistência de ativos importantes. Se os indicadores técnicos apontarem para tendências claras, isso pode orientar as decisões de curto prazo dos investidores; no entanto, é crucial lembrar que fatores fundamentais podem sobrepor análises técnicas.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785165346.4062333,
     "titulo": "Lula veta integralmente PL que incluía zootecnista entre categorias beneficiadas por piso salarial",
     "titulo_original": "Lula veta integralmente PL que incluía zootecnista entre categorias beneficiadas por piso salarial",
@@ -954,6 +864,106 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O monitoramento do PPI da Petrobras é importante para entender a política de preços da empresa. Se o PPI apresentar variações significativas, isso pode impactar os resultados da Petrobras e a inflação de combustíveis; caso contrário, uma estabilidade no PPI pode indicar um cenário mais previsível.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785270661.2197561,
+    "titulo": "Governo publica decreto que promulga Acordo Mercosul-Singapura",
+    "titulo_original": "Governo publica decreto que promulga Acordo Mercosul-Singapura",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 17:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A promulgação deste acordo comercial pode impulsionar o fluxo de exportações brasileiras para um mercado asiático relevante. Se a demanda por produtos brasileiros em Singapura se mantiver forte, isso pode gerar um impacto positivo na balança comercial do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785270666.0082867,
+    "titulo": "Gastos de brasileiros com viagens ao exterior batem recorde no 1º semestre",
+    "titulo_original": "Gastos de brasileiros com viagens ao exterior batem recorde no 1º semestre",
+    "fonte": "Folha Mercado",
+    "publicado": "28/07 17:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde nos gastos de brasileiros com viagens ao exterior indica uma forte saída de divisas do país. Se essa tendência se mantiver, pode haver uma pressão adicional sobre o câmbio e uma redução na demanda interna por bens e serviços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785270670.7803717,
+    "titulo": "Soja supera R$ 120 em MT com demanda aquecida - Revista Cultivar",
+    "titulo_original": "Soja supera R$ 120 em MT com demanda aquecida - Revista Cultivar",
+    "fonte": "Google News Commodities",
+    "publicado": "28/07 15:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento no preço da soja em Mato Grosso indica uma forte demanda pelo grão, o que pode beneficiar os produtores brasileiros. Se a demanda global continuar alta, os preços podem se manter elevados, impactando o setor de commodities agrícolas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785270675.5283122,
+    "titulo": "Netanyahu confirmou a Trump que ataques adicionais a instalações nucleares iranianas reabilitadas são inevitáveis",
+    "titulo_original": "Netanyahu: Confirmed to Trump that additional strikes on rehabilitated Iranian nuclear facilities are unavoidable",
+    "fonte": "ForexLive",
+    "publicado": "28/07 15:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Netanyahu sobre a inevitabilidade de novos ataques a instalações nucleares iranianas eleva o nível de tensão geopolítica na região. Se esses ataques se concretizarem, o preço do petróleo pode reagir com volatilidade, impactando mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785270681.547522,
+    "titulo": "Petróleo cai com alívio de tensões entre EUA e Irã; WTI fecha abaixo de US$ 80",
+    "titulo_original": "Petróleo cai com alívio de tensões entre EUA e Irã; WTI fecha abaixo de US$ 80",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 16:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nos preços do petróleo, impulsionada pelo alívio nas tensões entre EUA e Irã, sugere uma diminuição do risco de interrupção do fornecimento. Se a situação geopolítica se estabilizar, os preços do petróleo podem continuar em trajetória de queda, impactando a inflação global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785270681.549095,
+    "titulo": "Em tempos de Selic elevada, FIIs de crédito oferecem maior rentabilidade, diz Mekbekian, da Manatí - InvesTalk",
+    "titulo_original": "Em tempos de Selic elevada, FIIs de crédito oferecem maior rentabilidade, diz Mekbekian, da Manatí - InvesTalk",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/07 15:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A afirmação de que FIIs de crédito oferecem maior rentabilidade em tempos de Selic elevada sugere que esses ativos podem se tornar mais atrativos para investidores em busca de retornos. Se a taxa de juros permanecer alta, a demanda por esses fundos pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785270681.5506358,
+    "titulo": "Visa deve demitir mais de 2.000 funcionários e busca maior eficiência",
+    "titulo_original": "Visa deve demitir mais de 2.000 funcionários e busca maior eficiência",
+    "fonte": "Folha Mercado",
+    "publicado": "28/07 15:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão da Visa de demitir funcionários indica uma busca por otimização de custos e maior eficiência operacional. Se essa tendência de cortes se espalhar por outras empresas do setor de pagamentos, pode sinalizar um cenário de desaceleração ou reestruturação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785270681.5521533,
+    "titulo": "Altman sugere desacelerar desenvolvimento de IA após ataques a modelos da OpenAI",
+    "titulo_original": "Altman sugere desacelerar desenvolvimento de IA após ataques a modelos da OpenAI",
+    "fonte": "Folha Mercado",
+    "publicado": "28/07 15:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A sugestão de Sam Altman para desacelerar o desenvolvimento da IA reflete preocupações sobre o ritmo acelerado da tecnologia e seus impactos sociais. Se essa desaceleração for adotada em larga escala, pode influenciar o ritmo de inovações e regulamentações futuras no setor.",
     "is_stocks": true
   }
 ]
