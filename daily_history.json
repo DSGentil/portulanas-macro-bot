@@ -842,5 +842,75 @@
     "origem": "domestica",
     "leitura_critica": "A deterioração da perspectiva de crédito da Natura indica dificuldades operacionais e de demanda que podem afetar sua posição de mercado. Se a companhia conseguir reverter os gargalos logísticos e a queda na receita, a perspectiva pode ser revisada para estável; caso contrário, um rebaixamento de rating se torna mais provável.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785252084.9016461,
+    "titulo": "Tesouro Direto tem emissão líquida recorde de R$ 10,1 bilhões em junho",
+    "titulo_original": "Tesouro Direto tem emissão líquida recorde de R$ 10,1 bilhões em junho",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 11:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recorde na emissão líquida do Tesouro Direto sugere um apetite significativo por títulos públicos, possivelmente indicando uma busca por segurança ou rendimentos atrativos em relação a outras aplicações. Se essa tendência se mantiver, pode sinalizar um fluxo de capital para a renda fixa doméstica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785252088.8686163,
+    "titulo": "Inflação perde força em julho e anima mercado; economistas veem cenário mais favorável para a Selic",
+    "titulo_original": "Inflação perde força em julho e anima mercado; economistas veem cenário mais favorável para a Selic",
+    "fonte": "Money Times",
+    "publicado": "28/07 11:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração da inflação em julho, com o IPCA-15 vindo abaixo das projeções, reforça a expectativa de um ciclo de cortes na Selic. Se os próximos dados de inflação confirmarem essa tendência, o Banco Central pode ter margem para acelerar o ritmo de redução dos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785252092.888341,
+    "titulo": "Conference Board Consumer Confidence para julho 90.8 versus estimativa de 92.3",
+    "titulo_original": "Conference Board Consumer Confidence for July 90.8 versus 92.3 estimate",
+    "fonte": "ForexLive",
+    "publicado": "28/07 11:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A moderação na confiança do consumidor americano pode indicar uma desaceleração no consumo futuro, o que, se persistir, pode levar o Federal Reserve a reavaliar sua política monetária. Se os próximos dados de emprego e inflação também vierem fracos, isso reforçaria a possibilidade de um tom mais dovish por parte do Fed.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785252096.8769493,
+    "titulo": "Netanyahu chega à Casa Branca para encontro com Trump",
+    "titulo_original": "Netanyahu chega à Casa Branca para encontro com Trump - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "28/07 12:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O encontro entre Netanyahu e Trump pode ter implicações geopolíticas e econômicas, especialmente em relação ao Oriente Médio. Se as discussões resultarem em novas políticas ou acordos, isso pode afetar a estabilidade regional e os mercados de energia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785252131.339182,
+    "titulo": "Estrangeiros retiram mais de R$ 1 bilhão na B3 em 24 de julho",
+    "titulo_original": "Estrangeiros retiram mais de R$ 1 bilhão na B3 em 24 de julho",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 11:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de capital estrangeiro da B3, embora com saldo anual positivo, pode ser um sinal de cautela do investidor internacional. Se essa tendência de retirada se acentuar, pode pressionar a bolsa brasileira e o câmbio.",
+    "is_stocks": true
   }
 ]
