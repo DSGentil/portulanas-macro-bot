@@ -1,33 +1,5 @@
 [
   {
-    "_timestamp": 1785165346.4062333,
-    "titulo": "Lula veta integralmente PL que incluía zootecnista entre categorias beneficiadas por piso salarial",
-    "titulo_original": "Lula veta integralmente PL que incluía zootecnista entre categorias beneficiadas por piso salarial",
-    "fonte": "Valor Economico",
-    "publicado": "27/07 11:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O veto presidencial a um projeto de lei que poderia gerar despesas adicionais reforça a postura de cautela fiscal do governo. Se o Congresso mantiver o veto, a decisão sinaliza que a prioridade é o controle de gastos; caso derrube o veto, pode haver pressão sobre o orçamento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785165351.2138965,
-    "titulo": "Estrangeiros retiram quase R$ 980 milhões na B3 em 23 de julho, mas saldo mensal está positivo em mais de R$ 3,6 bilhões - Valor Econômico",
-    "titulo_original": "Estrangeiros retiram quase R$ 980 milhões na B3 em 23 de julho, mas saldo mensal está positivo em mais de R$ 3,6 bilhões - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "27/07 11:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A retirada de capital estrangeiro em um dia específico, embora significativa, é compensada por um saldo mensal positivo. Se a tendência de entrada de capital se mantiver, isso pode indicar um apetite contínuo dos investidores estrangeiros pelo mercado brasileiro; uma reversão dessa tendência exigiria atenção.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785170759.3558903,
     "titulo": "Mercado reduz para 5,12% expectativa de inflação em 2026 - Brasil de Fato",
     "titulo_original": "Mercado reduz para 5,12% expectativa de inflação em 2026 - Brasil de Fato",
@@ -964,6 +936,87 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A sugestão de Sam Altman para desacelerar o desenvolvimento da IA reflete preocupações sobre o ritmo acelerado da tecnologia e seus impactos sociais. Se essa desaceleração for adotada em larga escala, pode influenciar o ritmo de inovações e regulamentações futuras no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785276056.1725383,
+    "titulo": "Preços de alimentos têm maior queda para julho desde 2010, após sequência em alta no IPCA-15",
+    "titulo_original": "Preços de alimentos têm maior queda para julho desde 2010, após sequência em alta no IPCA-15",
+    "fonte": "Folha Mercado",
+    "publicado": "28/07 17:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada nos preços de alimentos em julho, a maior para o mês em mais de uma década, reforça a perspectiva de desaceleração inflacionária. Se essa tendência se mantiver, pode aumentar a confiança do Banco Central para aprofundar o ciclo de cortes na taxa Selic.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785276060.936886,
+    "titulo": "Usinas de cana têm dificuldade para acessar programa de socorro, diz Copersucar ao governo",
+    "titulo_original": "Usinas de cana têm dificuldade para acessar programa de socorro, diz Copersucar ao governo",
+    "fonte": "Folha Mercado",
+    "publicado": "28/07 17:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A dificuldade de acesso ao programa Brasil Soberano por parte das usinas de cana sugere que a implementação das medidas de socorro pode não estar sendo tão eficaz quanto o esperado. Se o governo não agilizar o acesso a essas linhas de crédito, o impacto econômico sobre o setor pode ser maior do que o previsto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785276065.7243419,
+    "titulo": "Dólar sobe a R$ 5,12, e Bolsa se valoriza com desaceleração dos preços - UOL Economia",
+    "titulo_original": "Dólar sobe a R$ 5,12, e Bolsa se valoriza com desaceleração dos preços - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/07 17:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A correlação entre a desaceleração dos preços e a valorização da Bolsa, com o dólar em alta, sugere um cenário complexo para o mercado brasileiro. Se a inflação continuar a ceder, isso pode sustentar a alta da bolsa e, potencialmente, levar a uma valorização do real no médio prazo, dependendo de outros fatores macroeconômicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785276070.5647564,
+    "titulo": "Dólar PTAX hoje (28/07): cotação fecha em alta pelo segundo dia consecutivo - trademap.com.br",
+    "titulo_original": "Dólar PTAX hoje (28/07): cotação fecha em alta pelo segundo dia consecutivo - trademap.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/07 13:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta consecutiva do dólar PTAX por dois dias indica uma pressão de valorização da moeda americana no mercado doméstico. Se essa tendência se mantiver, pode haver um impacto nos custos de importação e na inflação, além de influenciar a decisão do Banco Central sobre a política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785276076.461911,
+    "titulo": "É um ótimo dia na Austrália e Nova Zelândia, o que está por vir no calendário econômico",
+    "titulo_original": "It's a great day already in Australia and New Zealand, what's coming up on the economic calendar",
+    "fonte": "ForexLive",
+    "publicado": "28/07 17:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O relatório de inflação da Austrália é um fator decisivo para a próxima reunião do RBA, com o consenso apontando para estabilidade. Se o CPI vier significativamente acima do esperado, isso pode levar o RBA a manter uma postura mais cautelosa em relação aos juros; um resultado abaixo do consenso, por outro lado, abriria espaço para discussões sobre flexibilização.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785276076.4635856,
+    "titulo": "Bolsas de NY fecham em direções opostas com recuo do petróleo e ‘techs’",
+    "titulo_original": "Bolsas de NY fecham em direções opostas com recuo do petróleo e ‘techs’",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 17:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A divergência nos fechamentos das bolsas de Nova York reflete a influência de fatores distintos, como resultados corporativos positivos e a queda do petróleo, contrastando com a pressão no setor de tecnologia. Se a tensão geopolítica na região do Golfo Pérsico diminuir significativamente, isso pode beneficiar setores mais cíclicos e reduzir a volatilidade em ações de tecnologia.",
     "is_stocks": true
   }
 ]
