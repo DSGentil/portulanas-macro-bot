@@ -763,5 +763,84 @@
     "origem": "domestica",
     "leitura_critica": "O IPCA-15 é um indicador importante da inflação, e a produção da Petrobras reflete a atividade econômica. A divulgação desses dados pode fornecer pistas sobre a trajetória da inflação e o desempenho da economia brasileira, influenciando as expectativas sobre juros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785244558.2313561,
+    "titulo": "Investimento direto no Brasil é 33% maior no primeiro semestre, diz BC",
+    "titulo_original": "Investimento direto no Brasil é 33% maior no primeiro semestre, diz BC",
+    "fonte": "Folha Mercado",
+    "publicado": "28/07 08:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento significativo do investimento estrangeiro direto no Brasil sugere um ambiente de maior confiança para capital externo. Se essa tendência se mantiver, pode impulsionar o crescimento econômico; uma reversão nesse fluxo poderia indicar um cenário de maior aversão ao risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785244562.7025065,
+    "titulo": "NTN-B reflete receio do local com fiscal e chance maior de reeleição de Lula, diz Tenax",
+    "titulo_original": "NTN-B reflete receio do local com fiscal e chance maior de reeleição de Lula, diz Tenax",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 09:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de maior risco fiscal e a probabilidade de reeleição de Lula, refletidas no juro da NTN-B, indicam uma cautela do mercado em relação às políticas futuras. Se as eleições confirmarem a reeleição e as políticas fiscais se mostrarem mais rigorosas, os juros podem se estabilizar; se houver incertezas fiscais maiores, os juros podem subir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785244567.2831147,
+    "titulo": "Com dólar mais baixo, gastos de brasileiros no exterior batem recorde no 1º semestre - G1",
+    "titulo_original": "Com dólar mais baixo, gastos de brasileiros no exterior batem recorde no 1º semestre - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/07 08:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde nos gastos de brasileiros no exterior, associado a um dólar mais baixo, sugere um aumento no poder de compra internacional para uma parcela da população. Se a tendência de valorização do real se mantiver, esses gastos podem continuar a crescer, impactando a balança de serviços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785244571.7981377,
+    "titulo": "Apenas um em cada três norte-americanos apoia guerra contra o Irã, mostra pesquisa - G1",
+    "titulo_original": "Apenas um em cada três norte-americanos apoia guerra contra o Irã, mostra pesquisa - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "28/07 06:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A baixa aprovação pública nos EUA para uma guerra contra o Irã pode influenciar a tomada de decisão política em Washington. Se essa opinião pública se mantiver ou se fortalecer, pode haver maior resistência a um envolvimento militar direto; o oposto seria verdadeiro se a percepção de ameaça aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785244578.0714128,
+    "titulo": "Ibovespa Futuro sobe 1% com prévia da inflação abaixo do previsto e balanços no radar - InfoMoney",
+    "titulo_original": "Ibovespa Futuro sobe 1% com prévia da inflação abaixo do previsto e balanços no radar - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "28/07 09:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa Futuro, influenciada por uma prévia de inflação mais baixa, pode indicar um cenário favorável para ativos de risco no curto prazo. Se os balanços corporativos confirmarem resultados positivos, a tendência de alta pode ser sustentada; caso contrário, a pressão inflacionária pode retornar ao foco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785244578.0722468,
+    "titulo": "S&P corta perspectiva de notas de crédito da Natura para negativa em meio a gargalos operacionais e queda na receita",
+    "titulo_original": "S&P corta perspectiva de notas de crédito da Natura para negativa em meio a gargalos operacionais e queda na receita",
+    "fonte": "Valor Economico",
+    "publicado": "28/07 10:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A deterioração da perspectiva de crédito da Natura indica dificuldades operacionais e de demanda que podem afetar sua posição de mercado. Se a companhia conseguir reverter os gargalos logísticos e a queda na receita, a perspectiva pode ser revisada para estável; caso contrário, um rebaixamento de rating se torna mais provável.",
+    "is_stocks": true
   }
 ]
