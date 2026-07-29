@@ -717,5 +717,73 @@
     "origem": "domestica",
     "leitura_critica": "A redução significativa nas importações de diesel pela Petrobras, com o aumento da produção nacional, pode indicar uma melhora na autossuficiência energética do Brasil e reduzir a exposição a flutuações de preços internacionais. Se essa tendência se mantiver, isso pode impactar positivamente a balança comercial e a rentabilidade da empresa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785330973.3117306,
+    "titulo": "Ao contrário do mercado, Citi não vê corte de juros pelo Copom na próxima reunião; entenda os motivos",
+    "titulo_original": "Ao contrário do mercado, Citi não vê corte de juros pelo Copom na próxima reunião; entenda os motivos",
+    "fonte": "Money Times",
+    "publicado": "29/07 10:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência de opinião do Citi sobre a decisão de juros do Copom é relevante, pois pode influenciar a percepção do mercado sobre a postura futura do Banco Central. Se o Copom de fato mantiver a Selic, isso pode sinalizar maior cautela com a inflação ou com a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785330978.0907445,
+    "titulo": "Índice de Confiança da Indústria cai para 97,2 pontos em julho, diz FGV",
+    "titulo_original": "Índice de Confiança da Indústria cai para 97,2 pontos em julho, diz FGV",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 08:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda na confiança da indústria é um indicador de desaceleração da atividade econômica. A menção a tarifas de importação norte-americanas e incertezas eleitorais sugere que fatores externos e políticos estão afetando as expectativas dos empresários. Se essa tendência se mantiver, pode impactar negativamente a produção e o emprego.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785330983.019854,
+    "titulo": "Dólar abre a R$ 5,12, com decisão de juros nos EUA e balanços no radar",
+    "titulo_original": "Dólar abre a R$ 5,12, com decisão de juros nos EUA e balanços no radar - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/07 09:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A cotação do dólar é influenciada diretamente pela política monetária dos EUA, especialmente a decisão de juros. Se a decisão for por manutenção ou aumento, tende a fortalecer o dólar globalmente. A divulgação de balanços pode gerar volatilidade adicional no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785330987.9131567,
+    "titulo": "Mercados europeus fecham: petróleo sobe novamente com Irã rejeitando proposta de Omã sobre o Estreito de Ormuz, reunião do FOMC em vista",
+    "titulo_original": "investingLive European markets wrap: Oil climbs again as Iran rejects Oman proposal on Strait of Hormuz, FOMC meeting eyed next",
+    "fonte": "ForexLive",
+    "publicado": "29/07 08:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio e a possibilidade de interrupção no fornecimento de petróleo tendem a pressionar os preços da commodity, o que pode gerar efeitos inflacionários globais. A expectativa pela decisão de juros do FOMC adiciona um elemento de cautela aos mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785330992.7372665,
+    "titulo": "Senado dos EUA aprova avanço de projeto de sanções à Rússia durante visita de Zelensky",
+    "titulo_original": "Senado dos EUA aprova avanço de projeto de sanções à Rússia durante visita de Zelensky",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 08:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A aprovação do avanço de um projeto de sanções contra a Rússia pelo Senado dos EUA, especialmente durante a visita de Zelensky, pode ter implicações geopolíticas e impactar o setor de energia russo. A notícia não detalha um impacto direto nos canais de juros, inflação, atividade econômica ou fluxo de capital.",
+    "is_stocks": false
   }
 ]
