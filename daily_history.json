@@ -785,5 +785,72 @@
     "origem": "externa",
     "leitura_critica": "A aprovação do avanço de um projeto de sanções contra a Rússia pelo Senado dos EUA, especialmente durante a visita de Zelensky, pode ter implicações geopolíticas e impactar o setor de energia russo. A notícia não detalha um impacto direto nos canais de juros, inflação, atividade econômica ou fluxo de capital.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1785338146.7040067,
+    "titulo": "Presidente Lula faz reunião ministerial para debater impacto do El Niño",
+    "titulo_original": "Presidente Lula faz reunião ministerial para debater impacto do El Niño",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 11:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A intensificação do El Niño representa um risco macroeconômico com potencial para impactar a inflação e a trajetória dos juros. Se o fenômeno se confirmar forte, pode haver pressão inflacionária adicional, exigindo uma postura mais cautelosa do Banco Central e, consequentemente, desacelerando o ciclo de cortes da Selic.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785338150.1981583,
+    "titulo": "Governo vai implementar medidas preventivas e respostas a ocorrências do El Niño, diz Miriam Belchior",
+    "titulo_original": "Governo vai implementar medidas preventivas e respostas a ocorrências do El Niño, diz Miriam Belchior",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 11:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A preparação do governo para o El Niño visa mitigar potenciais impactos na inflação. Se as medidas preventivas forem eficazes, o choque inflacionário pode ser menor; caso contrário, o fenômeno pode pressionar os preços e dificultar o ciclo de corte de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785338153.7568126,
+    "titulo": "Tesouro Direto: Taxas voltam a subir após alívio com IPCA-15; confira os títulos nesta quarta-feira (29)",
+    "titulo_original": "Tesouro Direto: Taxas voltam a subir após alívio com IPCA-15; confira os títulos nesta quarta-feira (29)",
+    "fonte": "Money Times",
+    "publicado": "29/07 11:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta nas taxas do Tesouro Direto indica uma reversão do alívio anterior, possivelmente ligada a expectativas de inflação. Se o IPCA-15 futuro confirmar a tendência de desaceleração, as taxas podem voltar a cair; caso contrário, a pressão sobre os rendimentos pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785338157.2875342,
+    "titulo": "Petróleo dispara mais de 7%, e barril volta aos US$ 90 após novos confrontos no Oriente Médio",
+    "titulo_original": "Petróleo dispara mais de 7%, e barril volta aos US$ 90 após novos confrontos no Oriente Médio - O GLOBO",
+    "fonte": "Google News Commodities",
+    "publicado": "29/07 12:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio e o consequente aumento no preço do petróleo podem gerar pressões inflacionárias globais. Se os conflitos se intensificarem, o barril de petróleo pode ultrapassar os US$ 90, afetando o custo de energia e transporte em todo o mundo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785338160.9419284,
+    "titulo": "Ormuz pressiona fertilizantes: enxofre sobe 322% em um ano, fosfatados perdem demanda e ureia volta a avançar",
+    "titulo_original": "Ormuz pressiona fertilizantes: enxofre sobe 322% em um ano, fosfatados perdem demanda e ureia volta a avançar",
+    "fonte": "Money Times",
+    "publicado": "29/07 10:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As tensões no Estreito de Ormuz afetam diretamente o mercado de fertilizantes, elevando custos e impactando a oferta. Se a situação geopolítica na região se agravar, os preços dos fertilizantes podem continuar subindo, afetando a produção agrícola global.",
+    "is_stocks": false
   }
 ]
