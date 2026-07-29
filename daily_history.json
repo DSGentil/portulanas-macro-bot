@@ -1,88 +1,5 @@
 [
   {
-    "_timestamp": 1785238274.3013852,
-    "titulo": "Governo decide distribuição do lucro do FGTS nesta terça (28); veja quem recebe e quando o valor será pago",
-    "titulo_original": "Governo decide distribuição do lucro do FGTS nesta terça (28); veja quem recebe e quando o valor será pago",
-    "fonte": "Folha Mercado",
-    "publicado": "28/07 04:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão sobre a distribuição do lucro do FGTS representa uma alocação de recursos públicos que pode ter impacto no consumo e na liquidez da economia. Se o valor a ser distribuído for significativo, pode estimular a demanda agregada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785238277.703639,
-    "titulo": "A decisão do Fed e a briga dos bancões brasileiros: o que afeta os mercados hoje",
-    "titulo_original": "A decisão do Fed e a briga dos bancões brasileiros: o que afeta os mercados hoje - Seu Dinheiro",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "28/07 08:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A decisão do Fed sobre juros é um fator crucial para os mercados globais e domésticos. Se o Fed sinalizar uma postura mais restritiva, isso pode levar a um aumento da volatilidade e impactar o fluxo de capital para economias emergentes como o Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785238281.2069373,
-    "titulo": "Dólar sobe ao maior nível em um mês no exterior com apostas em alta de juros pelo Fed",
-    "titulo_original": "Dólar sobe ao maior nível em um mês no exterior com apostas em alta de juros pelo Fed",
-    "fonte": "Valor Economico",
-    "publicado": "28/07 08:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A valorização do dólar e o aumento das apostas em alta de juros pelo Fed indicam um cenário de aperto monetário nos EUA. Isso pode pressionar moedas de países emergentes e aumentar o custo de financiamento global, impactando o fluxo de capital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785238284.6164212,
-    "titulo": "Mercado espera mais dissenso do Fed após retomada de ataques",
-    "titulo_original": "Mercado espera mais dissenso do Fed após retomada de ataques - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "28/07 05:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A expectativa de maior dissenso no Fed sugere incertezas sobre a futura trajetória da política monetária americana. Se a instabilidade geopolítica persistir, pode influenciar as decisões do Fed em relação aos juros, com potenciais reflexos nos mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785238289.5054946,
-    "titulo": "Manhã no mercado: ‘Sell-off’ nas techs em Seul limita bom humor nos ativos de risco",
-    "titulo_original": "Manhã no mercado: ‘Sell-off’ nas techs em Seul limita bom humor nos ativos de risco",
-    "fonte": "Valor Economico",
-    "publicado": "28/07 08:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte queda em Seul, especialmente em empresas de semicondutores, pode indicar um receio generalizado em relação ao setor de tecnologia e à cadeia de suprimentos global. Se essa tendência se mantiver, pode haver um impacto mais amplo em outros mercados de renda variável.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785238289.5067582,
-    "titulo": "IPCA-15, produção da Petrobras, confiança do consumidor e mais destaques desta terça",
-    "titulo_original": "IPCA-15, produção da Petrobras, confiança do consumidor e mais destaques desta terça - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "28/07 06:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O IPCA-15 é um indicador importante da inflação, e a produção da Petrobras reflete a atividade econômica. A divulgação desses dados pode fornecer pistas sobre a trajetória da inflação e o desempenho da economia brasileira, influenciando as expectativas sobre juros.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785244558.2313561,
     "titulo": "Investimento direto no Brasil é 33% maior no primeiro semestre, diz BC",
     "titulo_original": "Investimento direto no Brasil é 33% maior no primeiro semestre, diz BC",
@@ -963,6 +880,112 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A aprovação de um novo medicamento pela Anvisa para o mercado de emagrecedores sinaliza um aumento na concorrência e potencial guerra de preços. A rentabilidade das empresas neste segmento pode ser afetada pela dinâmica competitiva.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785349849.014814,
+    "titulo": "Fluxo cambial registra saída de US$ 1,065 bi na semana de 20 a 24 de julho",
+    "titulo_original": "Fluxo cambial registra saída de US$ 1,065 bi na semana de 20 a 24 de julho",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 14:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída líquida de capital estrangeiro na semana indica uma menor entrada de dólares na economia brasileira. Se essa tendência de saída se mantiver, pode pressionar a taxa de câmbio para cima e afetar a liquidez do mercado. Caso o fluxo se reverta nas próximas semanas, com maior entrada de capital, isso pode trazer alívio para o câmbio e para a liquidez.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785349852.8710487,
+    "titulo": "Dívida Pública Federal total alcança R$ 9,268 trilhões em junho, alta de 2,61% em relação a maio",
+    "titulo_original": "Dívida Pública Federal total alcança R$ R$ 9,268  trilhões em junho, alta de 2,61%  em relação a maio",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 14:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da Dívida Pública Federal em 2,61% em junho indica uma expansão do endividamento do governo. Se essa trajetória de crescimento da dívida se mantiver, pode gerar preocupações sobre a sustentabilidade fiscal do país no longo prazo. Caso o governo consiga reverter essa tendência com medidas de controle de gastos e aumento de receitas, isso pode trazer mais confiança aos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785349856.6203058,
+    "titulo": "Fazenda deixa fusão de BC e reguladores em segundo plano e fará estudo sobre supervisão",
+    "titulo_original": "Fazenda deixa fusão de BC e reguladores em segundo plano e fará estudo sobre supervisão",
+    "fonte": "Folha Mercado",
+    "publicado": "29/07 15:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de priorizar um estudo sobre a supervisão regulatória em vez de uma fusão imediata de órgãos reguladores sugere uma abordagem mais cautelosa por parte do Ministério da Fazenda. Se o estudo apontar para a necessidade de mudanças estruturais mais profundas, isso pode gerar incertezas sobre o futuro do arcabouço regulatório do sistema financeiro. Caso contrário, a manutenção do status quo pode trazer mais estabilidade para o setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785349860.4214563,
+    "titulo": "Durigan diz que subsídio da gasolina pode acabar se petróleo cair - UOL Economia",
+    "titulo_original": "Durigan diz que subsídio da gasolina pode acabar se petróleo cair - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "29/07 12:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Durigan sobre a possibilidade de fim do subsídio da gasolina, condicionada à queda do preço do petróleo, indica uma flexibilização futura na política de preços. Se o petróleo de fato cair, a decisão de encerrar o subsídio pode levar a um aumento nos preços da gasolina para o consumidor. Caso contrário, a manutenção do subsídio pode continuar a pressionar as contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785349865.6321259,
+    "titulo": "Relatório: EUA se preparam para uma resposta maior ao Irã",
+    "titulo_original": "Report: U.S. preparing for a larger response to Iran",
+    "fonte": "ForexLive",
+    "publicado": "29/07 14:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A escalada de tensões geopolíticas no Oriente Médio, com a preparação dos EUA para uma resposta ao Irã, tende a aumentar a aversão ao risco global. Se a resposta militar for mais intensa do que o esperado, isso pode levar a uma fuga para ativos de segurança, impactando negativamente o fluxo de capital para mercados emergentes. Por outro lado, se a resposta for contida e diplomática, o apetite por risco pode se recuperar rapidamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785349865.6337008,
+    "titulo": "Trump: Vamos atingir o Irã com força. Ataques em reação a ataques contra os EUA na Jordânia",
+    "titulo_original": "Trump: We'll be hitting Iran hard.  Strikes in reaction to attacks on US in Jordan",
+    "fonte": "ForexLive",
+    "publicado": "29/07 10:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de Trump sobre uma resposta militar contundente ao Irã aumenta o risco de um conflito mais amplo na região, o que tende a elevar os preços do petróleo e a gerar aversão ao risco nos mercados globais. Se a ação militar for de fato significativa, pode haver uma fuga de capitais de mercados emergentes para ativos de refúgio. Caso a resposta seja mais contida do que o anunciado, o impacto pode ser temporário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785349865.6357658,
+    "titulo": "Ações da Petrobras (PETR3, PETR4) sobem mais de 2% após resultado operacional forte - Valor Econômico",
+    "titulo_original": "Ações da Petrobras (PETR3, PETR4) sobem mais de 2% após resultado operacional forte - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "29/07 11:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta nas ações da Petrobras, impulsionada por um resultado operacional positivo, indica que o mercado reagiu bem aos números divulgados. Se a empresa conseguir manter essa performance operacional e os preços do petróleo permanecerem favoráveis, as ações podem continuar a subir. Caso contrário, a volatilidade do setor de petróleo e possíveis mudanças regulatórias podem afetar o desempenho.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785349865.6371489,
+    "titulo": "Petrobras consegue vitória tributária de R$ 400 milhões e abre precedente para petroleiras do pré-sal - InvestNews",
+    "titulo_original": "Petrobras consegue vitória tributária de R$ 400 milhões e abre precedente para petroleiras do pré-sal - InvestNews",
+    "fonte": "Google News Acoes",
+    "publicado": "29/07 14:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A vitória tributária da Petrobras de R$ 400 milhões, com potencial de abrir precedente para outras empresas do setor, representa um ganho financeiro significativo e uma mudança regulatória favorável. Se essa decisão for consolidada e replicada para outras petroleiras, pode impactar positivamente os resultados e a atratividade do setor de pré-sal. Caso haja contestações ou interpretações divergentes, o precedente pode não se concretizar.",
     "is_stocks": true
   }
 ]
