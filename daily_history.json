@@ -1,75 +1,5 @@
 [
   {
-    "_timestamp": 1785252084.9016461,
-    "titulo": "Tesouro Direto tem emissão líquida recorde de R$ 10,1 bilhões em junho",
-    "titulo_original": "Tesouro Direto tem emissão líquida recorde de R$ 10,1 bilhões em junho",
-    "fonte": "Valor Economico",
-    "publicado": "28/07 11:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O recorde na emissão líquida do Tesouro Direto sugere um apetite significativo por títulos públicos, possivelmente indicando uma busca por segurança ou rendimentos atrativos em relação a outras aplicações. Se essa tendência se mantiver, pode sinalizar um fluxo de capital para a renda fixa doméstica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785252088.8686163,
-    "titulo": "Inflação perde força em julho e anima mercado; economistas veem cenário mais favorável para a Selic",
-    "titulo_original": "Inflação perde força em julho e anima mercado; economistas veem cenário mais favorável para a Selic",
-    "fonte": "Money Times",
-    "publicado": "28/07 11:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração da inflação em julho, com o IPCA-15 vindo abaixo das projeções, reforça a expectativa de um ciclo de cortes na Selic. Se os próximos dados de inflação confirmarem essa tendência, o Banco Central pode ter margem para acelerar o ritmo de redução dos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785252092.888341,
-    "titulo": "Conference Board Consumer Confidence para julho 90.8 versus estimativa de 92.3",
-    "titulo_original": "Conference Board Consumer Confidence for July 90.8 versus 92.3 estimate",
-    "fonte": "ForexLive",
-    "publicado": "28/07 11:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A moderação na confiança do consumidor americano pode indicar uma desaceleração no consumo futuro, o que, se persistir, pode levar o Federal Reserve a reavaliar sua política monetária. Se os próximos dados de emprego e inflação também vierem fracos, isso reforçaria a possibilidade de um tom mais dovish por parte do Fed.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785252096.8769493,
-    "titulo": "Netanyahu chega à Casa Branca para encontro com Trump",
-    "titulo_original": "Netanyahu chega à Casa Branca para encontro com Trump - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "28/07 12:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O encontro entre Netanyahu e Trump pode ter implicações geopolíticas e econômicas, especialmente em relação ao Oriente Médio. Se as discussões resultarem em novas políticas ou acordos, isso pode afetar a estabilidade regional e os mercados de energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785252131.339182,
-    "titulo": "Estrangeiros retiram mais de R$ 1 bilhão na B3 em 24 de julho",
-    "titulo_original": "Estrangeiros retiram mais de R$ 1 bilhão na B3 em 24 de julho",
-    "fonte": "Valor Economico",
-    "publicado": "28/07 11:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A retirada de capital estrangeiro da B3, embora com saldo anual positivo, pode ser um sinal de cautela do investidor internacional. Se essa tendência de retirada se acentuar, pode pressionar a bolsa brasileira e o câmbio.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785257146.1717074,
     "titulo": "Crédito imobiliário surpreende e cresce 23% no semestre, mesmo com juros altos",
     "titulo_original": "Crédito imobiliário surpreende e cresce 23% no semestre, mesmo com juros altos",
@@ -985,6 +915,128 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A possibilidade da Braskem entrar em recuperação judicial após o fracasso de negociações sinaliza dificuldades financeiras significativas para a empresa. Se a recuperação judicial for decretada, isso pode afetar a oferta de produtos petroquímicos e impactar outras empresas da cadeia produtiva; caso as negociações sejam retomadas com sucesso, a empresa pode evitar esse cenário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785362454.268456,
+    "titulo": "Brasil abre 145 mil novas vagas em junho, pior resultado para o mês desde 2020",
+    "titulo_original": "Brasil abre 145 mil novas vagas em junho, pior resultado para o mês desde 2020",
+    "fonte": "Folha Mercado",
+    "publicado": "29/07 14:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O dado de geração de vagas formais em junho é um indicador de desaceleração da atividade econômica. Se essa tendência se mantiver, pode haver um impacto negativo no consumo e na confiança dos agentes econômicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785362459.0200973,
+    "titulo": "Divisão Inédita no Fed Muda Leitura do Mercado sobre o Rumo dos Juros nos EUA - Forbes Brasil",
+    "titulo_original": "Divisão Inédita no Fed Muda Leitura do Mercado sobre o Rumo dos Juros nos EUA - Forbes Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/07 16:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A dissidência dentro do Fed pode indicar uma incerteza maior sobre o futuro da política monetária, o que pode levar a uma maior volatilidade nos mercados. Se essa divisão se aprofundar, pode haver dificuldades em comunicar uma direção clara para as taxas de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785362463.9258587,
+    "titulo": "Fed mantém juros entre 3,5% e 3,75% nos EUA; três dirigentes defendem alta",
+    "titulo_original": "Fed mantém juros entre 3,5% e 3,75% nos EUA; três dirigentes defendem alta",
+    "fonte": "Folha Mercado",
+    "publicado": "29/07 15:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A manutenção dos juros pelo Fed era esperada, mas a defesa de alta por três dirigentes sinaliza uma divisão interna e pode indicar uma postura mais cautelosa em relação à inflação. Se essa dissidência se traduzir em futuras altas, o custo do crédito nos EUA pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785362468.7764056,
+    "titulo": "Análise: Por que o Irã retomou o confronto com os EUA com ataque surpresa? - CNN Brasil",
+    "titulo_original": "Análise: Por que o Irã retomou o confronto com os EUA com ataque surpresa? - CNN Brasil",
+    "fonte": "Google News Geopolitica",
+    "publicado": "29/07 16:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões entre Irã e EUA pode gerar instabilidade geopolítica na região, com potenciais reflexos nos mercados globais de energia. Se a situação se agravar, o preço do petróleo pode sofrer novas altas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785362475.25844,
+    "titulo": "investingLive Americas FX news wrap 29 Jul: Fed Stands Pat, Markets Lose Ground",
+    "titulo_original": "investingLive Americas FX news wrap 29 Jul: Fed Stands Pat, Markets Lose Ground  Subtitle:",
+    "fonte": "ForexLive",
+    "publicado": "29/07 18:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do Fed de abandonar a orientação futura sobre juros pode gerar volatilidade nos mercados, pois os investidores terão menos clareza sobre os próximos passos da política monetária. Se a incerteza persistir, os rendimentos dos títulos podem continuar a subir, pressionando as avaliações de ativos de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785362475.2601364,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa recua junto com exterior, aguardando coletiva do Fed - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa recua junto com exterior, aguardando coletiva do Fed - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "29/07 15:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa reflete a cautela global diante da decisão do Fed, indicando que o mercado brasileiro está sensível aos movimentos da política monetária americana. Se a coletiva do Fed sinalizar um tom mais duro, a bolsa brasileira pode estender suas perdas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785362475.2617664,
+    "titulo": "Ibovespa cai e bolsas de Wall Street desabam com dúvidas sobre atuação de Warsh no Fed",
+    "titulo_original": "Ibovespa cai e bolsas de Wall Street desabam com dúvidas sobre atuação de Warsh no Fed",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 18:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A incerteza sobre a política monetária do Fed e a tensão geopolítica no Oriente Médio estão impactando negativamente os mercados globais. Se o Fed sinalizar uma postura mais dura em futuras reuniões, as bolsas podem continuar sob pressão, enquanto a tensão no Oriente Médio pode sustentar a alta do petróleo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785362475.2633984,
+    "titulo": "Petróleo Dispara com Tensão no Oriente Médio; Fed Derruba Ibovespa e Dólar Recua - Forbes Brasil",
+    "titulo_original": "Petróleo Dispara com Tensão no Oriente Médio; Fed Derruba Ibovespa e Dólar Recua - Forbes Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/07 18:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de tensão geopolítica no Oriente Médio e a decisão do Fed está gerando volatilidade nos mercados. Se a tensão no Oriente Médio persistir, o petróleo pode continuar em alta, enquanto a decisão do Fed pode manter a pressão sobre as bolsas globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785362475.2649958,
+    "titulo": "Wall Street tomba após decisão do Fed com maior dissidência em uma década; Dow Jones tem pior pregão desde abril de 2025",
+    "titulo_original": "Wall Street tomba após decisão do Fed com maior dissidência em uma década; Dow Jones tem pior pregão desde abril de 2025",
+    "fonte": "Money Times",
+    "publicado": "29/07 17:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A forte queda em Wall Street, impulsionada pela dissidência no Fed, sugere que o mercado está preocupado com a capacidade do banco central em controlar a inflação sem prejudicar o crescimento. Se a incerteza sobre a política monetária persistir, a volatilidade nos mercados acionários pode continuar.",
     "is_stocks": true
   }
 ]
