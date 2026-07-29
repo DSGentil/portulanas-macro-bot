@@ -1,84 +1,5 @@
 [
   {
-    "_timestamp": 1785244558.2313561,
-    "titulo": "Investimento direto no Brasil é 33% maior no primeiro semestre, diz BC",
-    "titulo_original": "Investimento direto no Brasil é 33% maior no primeiro semestre, diz BC",
-    "fonte": "Folha Mercado",
-    "publicado": "28/07 08:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento significativo do investimento estrangeiro direto no Brasil sugere um ambiente de maior confiança para capital externo. Se essa tendência se mantiver, pode impulsionar o crescimento econômico; uma reversão nesse fluxo poderia indicar um cenário de maior aversão ao risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785244562.7025065,
-    "titulo": "NTN-B reflete receio do local com fiscal e chance maior de reeleição de Lula, diz Tenax",
-    "titulo_original": "NTN-B reflete receio do local com fiscal e chance maior de reeleição de Lula, diz Tenax",
-    "fonte": "Valor Economico",
-    "publicado": "28/07 09:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A percepção de maior risco fiscal e a probabilidade de reeleição de Lula, refletidas no juro da NTN-B, indicam uma cautela do mercado em relação às políticas futuras. Se as eleições confirmarem a reeleição e as políticas fiscais se mostrarem mais rigorosas, os juros podem se estabilizar; se houver incertezas fiscais maiores, os juros podem subir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785244567.2831147,
-    "titulo": "Com dólar mais baixo, gastos de brasileiros no exterior batem recorde no 1º semestre - G1",
-    "titulo_original": "Com dólar mais baixo, gastos de brasileiros no exterior batem recorde no 1º semestre - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "28/07 08:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O recorde nos gastos de brasileiros no exterior, associado a um dólar mais baixo, sugere um aumento no poder de compra internacional para uma parcela da população. Se a tendência de valorização do real se mantiver, esses gastos podem continuar a crescer, impactando a balança de serviços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785244571.7981377,
-    "titulo": "Apenas um em cada três norte-americanos apoia guerra contra o Irã, mostra pesquisa - G1",
-    "titulo_original": "Apenas um em cada três norte-americanos apoia guerra contra o Irã, mostra pesquisa - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "28/07 06:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A baixa aprovação pública nos EUA para uma guerra contra o Irã pode influenciar a tomada de decisão política em Washington. Se essa opinião pública se mantiver ou se fortalecer, pode haver maior resistência a um envolvimento militar direto; o oposto seria verdadeiro se a percepção de ameaça aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785244578.0714128,
-    "titulo": "Ibovespa Futuro sobe 1% com prévia da inflação abaixo do previsto e balanços no radar - InfoMoney",
-    "titulo_original": "Ibovespa Futuro sobe 1% com prévia da inflação abaixo do previsto e balanços no radar - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "28/07 09:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa Futuro, influenciada por uma prévia de inflação mais baixa, pode indicar um cenário favorável para ativos de risco no curto prazo. Se os balanços corporativos confirmarem resultados positivos, a tendência de alta pode ser sustentada; caso contrário, a pressão inflacionária pode retornar ao foco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785244578.0722468,
-    "titulo": "S&P corta perspectiva de notas de crédito da Natura para negativa em meio a gargalos operacionais e queda na receita",
-    "titulo_original": "S&P corta perspectiva de notas de crédito da Natura para negativa em meio a gargalos operacionais e queda na receita",
-    "fonte": "Valor Economico",
-    "publicado": "28/07 10:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A deterioração da perspectiva de crédito da Natura indica dificuldades operacionais e de demanda que podem afetar sua posição de mercado. Se a companhia conseguir reverter os gargalos logísticos e a queda na receita, a perspectiva pode ser revisada para estável; caso contrário, um rebaixamento de rating se torna mais provável.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785252084.9016461,
     "titulo": "Tesouro Direto tem emissão líquida recorde de R$ 10,1 bilhões em junho",
     "titulo_original": "Tesouro Direto tem emissão líquida recorde de R$ 10,1 bilhões em junho",
@@ -986,6 +907,84 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A vitória tributária da Petrobras de R$ 400 milhões, com potencial de abrir precedente para outras empresas do setor, representa um ganho financeiro significativo e uma mudança regulatória favorável. Se essa decisão for consolidada e replicada para outras petroleiras, pode impactar positivamente os resultados e a atratividade do setor de pré-sal. Caso haja contestações ou interpretações divergentes, o precedente pode não se concretizar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785357047.5945761,
+    "titulo": "Tesouro amplia títulos atrelados à Selic e consolida processo de piora na qualidade da dívida pública - O GLOBO",
+    "titulo_original": "Tesouro amplia títulos atrelados à Selic e consolida processo de piora na qualidade da dívida pública - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/07 16:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ampliação de títulos atrelados à Selic indica uma estratégia do Tesouro para se adaptar ao cenário de juros elevados, mas também aponta para uma piora na qualidade da dívida pública. Se a taxa Selic se mantiver alta por mais tempo, o custo da dívida pública tende a aumentar; se houver uma queda antecipada nos juros, essa estratégia pode se tornar menos vantajosa no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785357051.2482185,
+    "titulo": "Tesouro diz que mudança no limite de emissões externas não afeta estreia de ‘Panda Bonds’",
+    "titulo_original": "Tesouro diz que mudança no limite de emissões externas não afeta estreia de ‘Panda Bonds’",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 16:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Tesouro Nacional sobre a flexibilidade para emissões externas, mesmo com a mudança no limite, visa dar mais agilidade para captar recursos. Se o Tesouro conseguir emitir os 'Panda Bonds' com sucesso, isso pode diversificar as fontes de financiamento da dívida pública brasileira; caso contrário, a estratégia pode precisar de ajustes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785357054.8111472,
+    "titulo": "Tesouro vai revisar plano de financiamento da dívida para ampliar fatia de pós-fixados",
+    "titulo_original": "Tesouro vai revisar plano de financiamento da dívida para ampliar fatia de pós-fixados",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 15:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão do plano de financiamento da dívida para ampliar a fatia de pós-fixados sugere uma estratégia do Tesouro para se adaptar às expectativas de juros. Se a taxa Selic se mantiver elevada, a maior participação de pós-fixados pode ser vantajosa; se houver uma queda antecipada nos juros, essa estratégia pode se tornar menos atrativa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785357058.4913323,
+    "titulo": "Piora na percepção de risco global e alta do petróleo pressionam mercados locais - valor.globo.com",
+    "titulo_original": "Piora na percepção de risco global e alta do petróleo pressionam mercados locais - valor.globo.com",
+    "fonte": "Google News Commodities",
+    "publicado": "29/07 12:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de piora no risco global e alta do petróleo cria um cenário adverso para os mercados locais, aumentando a volatilidade. Se a percepção de risco global continuar a deteriorar, isso pode levar a uma fuga de capitais dos mercados emergentes; se os preços do petróleo recuarem, isso pode aliviar a pressão sobre os mercados locais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785357063.2363646,
+    "titulo": "UBS divulga lucro trimestral acima das expectativas e anuncia nova recompra de ações de US$ 3 bilhões",
+    "titulo_original": "UBS divulga lucro trimestral acima das expectativas e anuncia nova recompra de ações de US$ 3 bilhões",
+    "fonte": "Folha Mercado",
+    "publicado": "29/07 15:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O lucro trimestral do UBS acima das expectativas e o anúncio de recompra de ações indicam uma performance financeira positiva para o banco. Se a recompra de ações for bem-sucedida, isso pode impulsionar o valor das ações do UBS no mercado; se o cenário macroeconômico global se deteriorar, o desempenho futuro do banco pode ser afetado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785357063.2380795,
+    "titulo": "Após novo fracasso em negociações, Braskem fica mais perto de recuperação judicial, dizem fontes",
+    "titulo_original": "Após novo fracasso em negociações, Braskem fica mais perto de recuperação judicial, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 16:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A possibilidade da Braskem entrar em recuperação judicial após o fracasso de negociações sinaliza dificuldades financeiras significativas para a empresa. Se a recuperação judicial for decretada, isso pode afetar a oferta de produtos petroquímicos e impactar outras empresas da cadeia produtiva; caso as negociações sejam retomadas com sucesso, a empresa pode evitar esse cenário.",
     "is_stocks": true
   }
 ]
