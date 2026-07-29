@@ -1,83 +1,5 @@
 [
   {
-    "_timestamp": 1785257146.1717074,
-    "titulo": "Crédito imobiliário surpreende e cresce 23% no semestre, mesmo com juros altos",
-    "titulo_original": "Crédito imobiliário surpreende e cresce 23% no semestre, mesmo com juros altos",
-    "fonte": "Folha Mercado",
-    "publicado": "28/07 13:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho robusto do crédito imobiliário, apesar da taxa de juros elevada, sugere uma demanda resiliente no setor. Se as taxas de juros começarem a cair, o crescimento do crédito imobiliário pode se acelerar ainda mais, impulsionando o setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785257149.7625778,
-    "titulo": "Dólar à vista inicia dia em alta, apesar de IPCA-15 de julho abaixo do esperado - UOL Economia",
-    "titulo_original": "Dólar à vista inicia dia em alta, apesar de IPCA-15 de julho abaixo do esperado - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "28/07 09:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do dólar, mesmo com um dado de inflação mais baixo que o esperado, sugere que outros fatores macroeconômicos ou de percepção de risco estão influenciando o câmbio. Se a alta do dólar persistir, isso pode pressionar a inflação futura e impactar as decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785257153.319459,
-    "titulo": "Conselho Curador do FGTS aprova distribuição de R$ 13 bilhões do lucro de 2025",
-    "titulo_original": "Conselho Curador do FGTS aprova distribuição de R$ 13 bilhões do lucro de 2025",
-    "fonte": "Valor Economico",
-    "publicado": "28/07 12:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A distribuição de lucros do FGTS representa um ganho adicional para os trabalhadores, o que pode ter um impacto positivo no consumo. Se a rentabilidade do FGTS continuar a superar a inflação, isso pode ser um incentivo para a poupança e investimento de longo prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785257157.1506329,
-    "titulo": "Abiove eleva projeção de processamento de soja para recorde de 63,3 milhões de toneladas em 2026 - Canal Rural",
-    "titulo_original": "Abiove eleva projeção de processamento de soja para recorde de 63,3 milhões de toneladas em 2026 - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "28/07 11:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da projeção de processamento de soja indica uma expectativa de forte demanda e produção no agronegócio brasileiro. Se a safra confirmar essa expectativa, isso pode ter um impacto positivo na balança comercial e na economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785257226.8313105,
-    "titulo": "Bolsas na Europa sobem com apoio de balanços e recuo nos preços do petróleo",
-    "titulo_original": "Bolsas na Europa sobem com apoio de balanços e recuo nos preços do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "28/07 13:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recuperação das bolsas europeias, ancorada em balanços corporativos e na diminuição do risco geopolítico no Oriente Médio, indica um apetite por risco que pode se estender a outros mercados. Se os resultados corporativos continuarem positivos e as tensões diminuírem, o cenário para a renda variável europeia pode se manter favorável.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785257226.8328807,
-    "titulo": "Apple (AAPL) ultrapassa Nvidia (NVDA) e recupera liderança em valor de mercado",
-    "titulo_original": "Apple (AAPL) ultrapassa Nvidia (NVDA) e recupera liderança em valor de mercado",
-    "fonte": "Money Times",
-    "publicado": "28/07 13:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A disputa pela liderança em valor de mercado entre gigantes da tecnologia como Apple e Nvidia reflete a dinâmica do setor e a percepção de valor dos investidores. Se a Apple mantiver sua trajetória de crescimento e inovação, poderá consolidar sua posição; caso contrário, a Nvidia pode retomar a liderança.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785263465.0616527,
     "titulo": "Setor mineral fatura R$ 150,7 bilhões no 1º semestre, alta de 8,2%, diz Ibram",
     "titulo_original": "Setor mineral fatura R$ 150,7 bilhões no 1º semestre, alta de 8,2%, diz Ibram",
@@ -1037,6 +959,54 @@
     ],
     "origem": "externa",
     "leitura_critica": "A forte queda em Wall Street, impulsionada pela dissidência no Fed, sugere que o mercado está preocupado com a capacidade do banco central em controlar a inflação sem prejudicar o crescimento. Se a incerteza sobre a política monetária persistir, a volatilidade nos mercados acionários pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785367833.2977605,
+    "titulo": "Lucro líquido da Motiva sobe 57,5% no 2º tri, para R$ 1,4 bi",
+    "titulo_original": "Lucro líquido da Motiva sobe 57,5% no 2º tri, para R$ 1,4 bi",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 18:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte desempenho da Motiva no segundo trimestre, com aumento de lucro e receita, sugere uma recuperação ou consolidação de suas operações. Se os reajustes tarifários continuarem a ser implementados de forma favorável, isso pode sustentar a rentabilidade da empresa no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785367836.889854,
+    "titulo": "VÍDEO: Israel bombardeia mesquita em Gaza",
+    "titulo_original": "VÍDEO: Israel bombardeia mesquita em Gaza - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "29/07 17:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O bombardeio de uma mesquita em Gaza representa uma escalada na tensão do conflito. Se a situação se agravar, isso pode gerar instabilidade regional e impactar os mercados globais de energia e commodities.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785367841.6811523,
+    "titulo": "Fabricante brasileira de sucos The Natural One avalia venda total ou de participação, segundo fontes",
+    "titulo_original": "Brasileira The Natural One avalia venda total ou de participação, segundo fontes",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 19:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A busca por um parceiro estratégico pode indicar a necessidade de capital para impulsionar o crescimento da empresa. Se a venda for concretizada, isso pode representar uma oportunidade para investidores que buscam exposição ao setor de alimentos e bebidas com potencial de expansão internacional.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785367841.6827826,
+    "titulo": "Controlador do Habib’s vai à Justiça para tentar liberar recebíveis, e MP questiona proteção de sócios",
+    "titulo_original": "Controlador do Habib’s vai à Justiça para tentar liberar recebíveis, e MP questiona proteção de sócios",
+    "fonte": "Valor Economico",
+    "publicado": "29/07 19:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A disputa judicial em torno dos recebíveis pode impactar a liquidez e a capacidade de pagamento do Grupo Gennius. Se a decisão for desfavorável aos sócios, isso pode gerar maior pressão sobre a estrutura financeira das empresas.",
     "is_stocks": true
   }
 ]
