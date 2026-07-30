@@ -1,72 +1,5 @@
 [
   {
-    "_timestamp": 1785338146.7040067,
-    "titulo": "Presidente Lula faz reunião ministerial para debater impacto do El Niño",
-    "titulo_original": "Presidente Lula faz reunião ministerial para debater impacto do El Niño",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 11:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intensificação do El Niño representa um risco macroeconômico com potencial para impactar a inflação e a trajetória dos juros. Se o fenômeno se confirmar forte, pode haver pressão inflacionária adicional, exigindo uma postura mais cautelosa do Banco Central e, consequentemente, desacelerando o ciclo de cortes da Selic.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785338150.1981583,
-    "titulo": "Governo vai implementar medidas preventivas e respostas a ocorrências do El Niño, diz Miriam Belchior",
-    "titulo_original": "Governo vai implementar medidas preventivas e respostas a ocorrências do El Niño, diz Miriam Belchior",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 11:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A preparação do governo para o El Niño visa mitigar potenciais impactos na inflação. Se as medidas preventivas forem eficazes, o choque inflacionário pode ser menor; caso contrário, o fenômeno pode pressionar os preços e dificultar o ciclo de corte de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785338153.7568126,
-    "titulo": "Tesouro Direto: Taxas voltam a subir após alívio com IPCA-15; confira os títulos nesta quarta-feira (29)",
-    "titulo_original": "Tesouro Direto: Taxas voltam a subir após alívio com IPCA-15; confira os títulos nesta quarta-feira (29)",
-    "fonte": "Money Times",
-    "publicado": "29/07 11:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta nas taxas do Tesouro Direto indica uma reversão do alívio anterior, possivelmente ligada a expectativas de inflação. Se o IPCA-15 futuro confirmar a tendência de desaceleração, as taxas podem voltar a cair; caso contrário, a pressão sobre os rendimentos pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785338157.2875342,
-    "titulo": "Petróleo dispara mais de 7%, e barril volta aos US$ 90 após novos confrontos no Oriente Médio",
-    "titulo_original": "Petróleo dispara mais de 7%, e barril volta aos US$ 90 após novos confrontos no Oriente Médio - O GLOBO",
-    "fonte": "Google News Commodities",
-    "publicado": "29/07 12:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões no Oriente Médio e o consequente aumento no preço do petróleo podem gerar pressões inflacionárias globais. Se os conflitos se intensificarem, o barril de petróleo pode ultrapassar os US$ 90, afetando o custo de energia e transporte em todo o mundo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785338160.9419284,
-    "titulo": "Ormuz pressiona fertilizantes: enxofre sobe 322% em um ano, fosfatados perdem demanda e ureia volta a avançar",
-    "titulo_original": "Ormuz pressiona fertilizantes: enxofre sobe 322% em um ano, fosfatados perdem demanda e ureia volta a avançar",
-    "fonte": "Money Times",
-    "publicado": "29/07 10:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "As tensões no Estreito de Ormuz afetam diretamente o mercado de fertilizantes, elevando custos e impactando a oferta. Se a situação geopolítica na região se agravar, os preços dos fertilizantes podem continuar subindo, afetando a produção agrícola global.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1785343548.6251652,
     "titulo": "Pré-mercado: Investidores À Espera do Resultado da Reunião do Fed",
     "titulo_original": "Pré-mercado: Investidores À Espera do Resultado da Reunião do Fed - Forbes Brasil",
@@ -1053,6 +986,124 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A queda expressiva nas ações da Usiminas, mesmo com resultados positivos, indica que as expectativas futuras do mercado estão pesando mais. Se as incertezas mencionadas se concretizarem, a performance da empresa pode ser ainda mais afetada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785449260.0805953,
+    "titulo": "Entrada recorde de dólar no Brasil pode aliviar pressão sobre o câmbio? Entenda o que pode acontecer",
+    "titulo_original": "Entrada recorde de dólar no Brasil pode aliviar pressão sobre o câmbio? Entenda o que pode acontecer - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/07 14:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Uma entrada recorde de dólares no Brasil tem o potencial de reduzir a pressão de alta sobre o câmbio, mas a magnitude desse alívio dependerá da sustentabilidade desse fluxo. Se o fluxo de capital estrangeiro se mantiver robusto, isso pode levar a uma valorização do real frente ao dólar, impactando as exportações e importações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785449264.847178,
+    "titulo": "Pix e educação devem ser áreas mais beneficiadas por desbloqueio do Orçamento",
+    "titulo_original": "Pix e educação devem ser áreas mais beneficiadas por desbloqueio do Orçamento",
+    "fonte": "Folha Mercado",
+    "publicado": "30/07 18:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O direcionamento do desbloqueio orçamentário para áreas como o Pix, a pedido do Banco Central, pode sinalizar uma priorização de iniciativas que visam a modernização e eficiência do sistema financeiro. Se o foco em educação se traduzir em investimentos concretos, isso pode ter um impacto positivo de longo prazo na produtividade e no desenvolvimento do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785449269.500922,
+    "titulo": "Energia cara: quem vai pagar essa conta?",
+    "titulo_original": "Energia cara: quem vai pagar essa conta?",
+    "fonte": "Folha Mercado",
+    "publicado": "30/07 18:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O paradoxo de produzir energia a baixo custo e cobrar tarifas elevadas no Brasil levanta questões sobre a estrutura de custos e a distribuição de encargos no setor elétrico. Se não houver uma reestruturação tarifária ou uma maior eficiência na gestão do setor, os consumidores continuarão arcando com os custos elevados da energia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785449274.247248,
+    "titulo": "Juros futuros recuam em dia de retomada do apetite por risco",
+    "titulo_original": "Juros futuros recuam em dia de retomada do apetite por risco",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 18:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda dos juros futuros reflete um maior apetite por risco nos mercados, impulsionado pela comunicação do Fed e pela oferta de títulos do Tesouro Nacional. Se essa tendência de queda nos juros futuros se mantiver, isso pode sinalizar uma expectativa de manutenção ou até mesmo de cortes nas taxas de juros no futuro próximo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785449280.682446,
+    "titulo": "Resumo de notícias de FX das Américas 30 de julho USDJPY cai acentuadamente com especulação de intervenção.",
+    "titulo_original": "investingLive Americas FX news wrap 30 Jul USDJPY moves sharply lower on speculation of intervention.",
+    "fonte": "ForexLive",
+    "publicado": "30/07 18:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do USDJPY com especulação de intervenção sugere uma preocupação com a volatilidade cambial, o que pode levar a ações mais assertivas por parte das autoridades monetárias. Dados de inflação e atividade econômica nos EUA apresentam um quadro misto, com o PIB abaixo do esperado, mas com inflação controlada e mercado de trabalho resiliente, o que pode influenciar as decisões futuras do Fed sobre juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785449280.6841626,
+    "titulo": "Amazon queima caixa com IA, mas excede expectativas de receita em nuvem",
+    "titulo_original": "Amazon queima caixa com IA, mas excede expectativas de receita em nuvem",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 18:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O alto investimento em IA por parte da Amazon, assim como de outras gigantes de tecnologia, pode indicar uma corrida por desenvolvimento que, se não acompanhada de monetização eficaz, pode pressionar o caixa das empresas. Se a demanda por serviços de nuvem continuar a crescer acima das projeções, isso pode mitigar o impacto negativo do fluxo de caixa livre.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785449280.685877,
+    "titulo": "Vale (VALE3) tem lucro 43% menor no 2T26 e revisa guidance de custos do minério",
+    "titulo_original": "Vale (VALE3) tem lucro 43% menor no 2T26 e revisa guidance de custos do minério",
+    "fonte": "Money Times",
+    "publicado": "30/07 19:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda no lucro da Vale e a revisão do guidance de custos podem indicar pressões operacionais ou de mercado que afetam a rentabilidade da empresa. Se a revisão do guidance de custos for significativa, isso pode impactar as projeções de margem da companhia para os próximos trimestres.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785449280.6875513,
+    "titulo": "Adeus, Santander (SANB11) Brasil? Matriz espanhola propõe troca de ações por BDRs; prêmio é de 15%",
+    "titulo_original": "Adeus, Santander (SANB11) Brasil? Matriz espanhola propõe troca de ações por BDRs; prêmio é de 15%",
+    "fonte": "Money Times",
+    "publicado": "30/07 19:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de troca de ações do Santander Brasil por BDRs da matriz espanhola pode indicar uma reestruturação estratégica do banco no país. Se a operação for concluída, isso pode alterar a dinâmica de negociação das ações do Santander no mercado brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785449280.6892328,
+    "titulo": "Lucro da Multiplan no segundo trimestre cresce 61,7%",
+    "titulo_original": "Lucro da Multiplan no segundo trimestre cresce 61,7%",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 18:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento expressivo no lucro da Multiplan, impulsionado pela receita líquida e vendas em mesmas lojas, demonstra uma recuperação robusta no setor de shoppings centers. Se a tendência de crescimento nas vendas de serviços e artigos diversos se mantiver, a companhia pode continuar a apresentar resultados positivos.",
     "is_stocks": true
   }
 ]
