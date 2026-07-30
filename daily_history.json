@@ -973,5 +973,85 @@
     "origem": "externa",
     "leitura_critica": "O aumento na demanda por armamentos pode indicar um cenário de maior instabilidade geopolítica global. Se essa tendência se mantiver, pode haver um aumento nos gastos militares de diversos países, com potenciais impactos na economia global e em conflitos existentes.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1785429946.1764474,
+    "titulo": "Juro médio cobrado das famílias sobe a 64% em junho, maior patamar em quase 10 anos",
+    "titulo_original": "Juro médio cobrado das famílias sobe a 64% em junho, maior patamar em quase 10 anos",
+    "fonte": "Folha Mercado",
+    "publicado": "30/07 12:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo na taxa média de juros cobrada das famílias indica um encarecimento significativo do crédito no Brasil. Se essa tendência de alta se mantiver, pode restringir o consumo e o investimento das famílias; se o Banco Central conseguir sinalizar ou implementar uma redução futura, o alívio pode vir gradualmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785429949.7381508,
+    "titulo": "Títulos do Tesouro IPCA+ de longo prazo renovam máximas históricas com pressão dos EUA",
+    "titulo_original": "Títulos do Tesouro IPCA+ de longo prazo renovam máximas históricas com pressão dos EUA",
+    "fonte": "Money Times",
+    "publicado": "30/07 13:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta na rentabilidade dos títulos de longo prazo do Tesouro Direto, impulsionada por fatores externos, sugere um ambiente de juros mais elevados e maior percepção de risco. Se a pressão externa persistir, o custo de captação do governo pode aumentar; se os juros globais se estabilizarem, a rentabilidade desses títulos pode encontrar um teto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785429953.4654534,
+    "titulo": "Dallas Fed Trimmed Mean +1.4% vs +2.7% em Maio",
+    "titulo_original": "Dallas Fed Trimmed Mean +1.4% vs +2.7% in May",
+    "fonte": "ForexLive",
+    "publicado": "30/07 13:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Este dado, que filtra movimentos de preços extremos, sugere uma tendência de inflação subjacente mais moderada nos EUA. Se essa tendência se confirmar nos próximos relatórios, pode reforçar argumentos para uma política monetária menos restritiva por parte do Fed; caso contrário, a volatilidade de preços pode retornar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785429957.006738,
+    "titulo": "Rússia estende veto à exportação de diesel, afetando o Brasil",
+    "titulo_original": "Rússia estende veto à exportação de diesel, afetando o Brasil",
+    "fonte": "Folha Mercado",
+    "publicado": "30/07 13:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A extensão do veto russo à exportação de diesel pode gerar pressões de preço e oferta no mercado internacional, impactando países importadores como o Brasil. Se a demanda global por diesel permanecer alta e a oferta russa restrita, os preços tendem a se manter elevados; uma reversão inesperada dessa política poderia aliviar as cotações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785429961.5759084,
+    "titulo": "Principal terminal de petróleo do Cazaquistão é fechado após ataques da Ucrânia no Mar Negro",
+    "titulo_original": "Principal terminal de petróleo do Cazaquistão é fechado após ataques da Ucrânia no Mar Negro",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 13:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As repetidas interrupções na infraestrutura do CPC evidenciam a crescente ameaça da guerra na Ucrânia aos interesses econômicos do Cazaquistão e de grandes investidoras estrangeiras. Se os ataques persistirem, o impacto na oferta global de petróleo pode se intensificar, afetando preços.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785429961.5775988,
+    "titulo": "Dona de 'Fortnite' acusa Apple de fazer lobby para que governo Trump prejudique o Brasil",
+    "titulo_original": "Dona de 'Fortnite' acusa Apple de fazer lobby para que governo Trump prejudique o Brasil",
+    "fonte": "Folha Mercado",
+    "publicado": "30/07 13:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A acusação de lobby pela Apple contra o Brasil, após uma decisão regulatória do Cade, levanta questões sobre a influência de grandes empresas nas relações comerciais internacionais. Se a pressão da Apple for bem-sucedida, pode haver consequências para futuras negociações comerciais; se o Brasil mantiver sua posição, pode reforçar sua soberania regulatória.",
+    "is_stocks": true
   }
 ]
