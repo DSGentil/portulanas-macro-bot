@@ -907,5 +907,71 @@
     "origem": "domestica",
     "leitura_critica": "A percepção de que o Ibovespa está subprecificado devido a um rali eleitoral sugere que o mercado pode estar subestimando o impacto das eleições no desempenho da bolsa. Se o cenário eleitoral se desenrolar de forma favorável aos ativos brasileiros, o potencial de valorização pode se concretizar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785424585.5031579,
+    "titulo": "Empresas estrangeiras investiram R$ 3,5 bi em telecomunicações em junho, segundo levantamento do Ministério",
+    "titulo_original": "Empresas estrangeiras investiram R$ 3,5 bi em telecomuicações em junho, segundo levantamento do Ministério",
+    "fonte": "Folha Mercado",
+    "publicado": "30/07 12:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O forte investimento estrangeiro no setor de telecomunicações pode indicar confiança no mercado brasileiro e impulsionar o desenvolvimento tecnológico. Se essa tendência se mantiver, pode haver um aumento na competitividade do setor e na oferta de serviços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785424590.4175003,
+    "titulo": "Arrecadação federal total soma R$ 264,437 bi em junho, alta real de 7,72%",
+    "titulo_original": "Arrecadação federal total soma R$ 264,437 bi em junho, alta real de 7,72%",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 11:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O forte aumento na arrecadação federal sugere uma melhora na atividade econômica ou na eficiência da cobrança de impostos. Se essa tendência se mantiver, pode haver um impacto positivo nas contas públicas, permitindo maior margem para investimentos ou redução do déficit fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785424595.2243917,
+    "titulo": "Houthis do Iêmen têm atacado a Arábia Saudita a partir do Iraque, dizem fontes",
+    "titulo_original": "Houthis do Iêmen têm atacado a Arábia Saudita a partir do Iraque, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 11:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio pode gerar instabilidade regional e impactar o fluxo de petróleo, o que, por sua vez, pode afetar os preços globais de energia e a inflação. Se o conflito se expandir, o risco para a navegação em rotas comerciais importantes aumentará.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785424600.0245712,
+    "titulo": "Assessor da Casa Branca: Inflação continua a diminuir",
+    "titulo_original": "WH Advisor Hassett: Inflation is continuing to ease",
+    "fonte": "ForexLive",
+    "publicado": "30/07 10:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A perspectiva de inflação em queda pode sinalizar uma postura mais branda do Banco Central em relação aos juros. Se os dados de inflação futuros confirmarem essa tendência, o mercado pode precificar cortes mais rápidos nas taxas de juros, o que tende a reduzir os custos de empréstimos em toda a economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785424604.7842412,
+    "titulo": "Nova corrida dos mísseis impulsiona setor global de defesa",
+    "titulo_original": "Nova corrida dos mísseis impulsiona setor global de defesa",
+    "fonte": "Money Times",
+    "publicado": "30/07 12:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento na demanda por armamentos pode indicar um cenário de maior instabilidade geopolítica global. Se essa tendência se mantiver, pode haver um aumento nos gastos militares de diversos países, com potenciais impactos na economia global e em conflitos existentes.",
+    "is_stocks": false
   }
 ]
