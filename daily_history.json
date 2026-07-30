@@ -1,117 +1,5 @@
 [
   {
-    "_timestamp": 1785343548.6251652,
-    "titulo": "Pré-mercado: Investidores À Espera do Resultado da Reunião do Fed",
-    "titulo_original": "Pré-mercado: Investidores À Espera do Resultado da Reunião do Fed - Forbes Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/07 08:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A expectativa em torno da decisão do Fed sobre as taxas de juros é o principal fator de influência nos mercados globais. Se o Fed sinalizar uma postura mais hawkish, isso pode levar a um aperto monetário mais prolongado, impactando o apetite por risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785343552.1501412,
-    "titulo": "Alta ou manutenção? Warsh deixa mercado sem saber qual será o próximo passo do Fed",
-    "titulo_original": "Alta ou manutenção? Warsh deixa mercado sem saber qual será o próximo passo do Fed",
-    "fonte": "InvestNews",
-    "publicado": "29/07 08:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A incerteza sobre a próxima decisão do Fed em relação aos juros, especialmente com a possibilidade de uma nova alta devido a temores inflacionários, gera volatilidade nos mercados. Se o Fed optar por uma alta, isso pode sinalizar uma luta mais intensa contra a inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785343556.7892485,
-    "titulo": "Fed está descumprindo mandato de inflação e deveria elevar os juros, diz ex-presidente do Fed de NY",
-    "titulo_original": "Fed está descumprindo mandato de inflação e deveria elevar os juros, diz ex-presidente do Fed de NY - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/07 12:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de um ex-presidente do Fed de Nova York, sugerindo que o Fed deveria elevar os juros para cumprir seu mandato de inflação, adiciona pressão a um debate já existente sobre a política monetária. Se essa visão ganhar mais força dentro do Fed, pode sinalizar um aperto monetário mais agressivo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785343563.097525,
-    "titulo": "Wall Street recua antes da decisão do Fed; ações de chips oscilam",
-    "titulo_original": "Wall Street recua antes da decisão do Fed; ações de chips oscilam - Notícias Agrícolas",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/07 11:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A antecipação da decisão do Fed sobre juros está gerando cautela em Wall Street, levando a um recuo geral do mercado. A oscilação das ações de chips pode refletir expectativas divergentes sobre o impacto da política monetária no setor de tecnologia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785343563.0992033,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa abre em baixa e perde os 176 mil; mercados aguardam Fed",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa abre em baixa e perde os 176 mil; mercados aguardam Fed - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "29/07 10:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, que cedeu os 176 mil pontos, reflete a aversão ao risco global em antecipação à decisão do Fed. Se o Fed adotar uma postura mais restritiva, isso pode intensificar a pressão sobre a bolsa brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785343563.1007009,
-    "titulo": "Apple diz que regras propostas para App Store no Reino Unido equivalem a controle de preços",
-    "titulo_original": "Apple diz que regras propostas para App Store no Reino Unido equivalem a controle de preços",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 13:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A Apple considera as propostas regulatórias do Reino Unido como um controle de preços, indicando uma potencial batalha legal e regulatória. Se as regras forem implementadas como propostas, isso pode forçar mudanças significativas no modelo de negócios da empresa no país.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785343563.102209,
-    "titulo": "CVM adia assembleia da EMAE (EMAE4) sobre incorporação pela Sabesp (SBSP3) e pede informações adicionais; ação recua 2%",
-    "titulo_original": "CVM adia assembleia da EMAE (EMAE4) sobre incorporação pela Sabesp (SBSP3) e pede informações adicionais; ação recua 2%",
-    "fonte": "Money Times",
-    "publicado": "29/07 12:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O adiamento da assembleia da EMAE pela CVM indica que há pendências e questionamentos sobre a incorporação pela Sabesp que precisam ser esclarecidos. Se as informações adicionais solicitadas não forem satisfatórias, a operação pode enfrentar mais obstáculos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785343563.103713,
-    "titulo": "Hypera aumenta a disputa pelas canetas emagracedoras no Brasil – a guerra de preços apenas começou",
-    "titulo_original": "Hypera aumenta a disputa pelas canetas emagracedoras no Brasil – a guerra de preços apenas começou",
-    "fonte": "InvestNews",
-    "publicado": "29/07 12:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de um novo medicamento pela Anvisa para o mercado de emagrecedores sinaliza um aumento na concorrência e potencial guerra de preços. A rentabilidade das empresas neste segmento pode ser afetada pela dinâmica competitiva.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785349849.014814,
     "titulo": "Fluxo cambial registra saída de US$ 1,065 bi na semana de 20 a 24 de julho",
     "titulo_original": "Fluxo cambial registra saída de US$ 1,065 bi na semana de 20 a 24 de julho",
@@ -1104,6 +992,80 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O crescimento expressivo no lucro da Multiplan, impulsionado pela receita líquida e vendas em mesmas lojas, demonstra uma recuperação robusta no setor de shoppings centers. Se a tendência de crescimento nas vendas de serviços e artigos diversos se mantiver, a companhia pode continuar a apresentar resultados positivos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785454244.5708547,
+    "titulo": "Justiça homologa recuperação extrajudicial da Raízen e viabiliza reestruturação de R$ 61,4 bi",
+    "titulo_original": "Justiça homologa recuperação extrajudicial da Raízen e viabiliza reestruturação de R$ 61,4 bi",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 17:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A homologação do plano de recuperação extrajudicial da Raízen é um passo importante para a reestruturação financeira da empresa, indicando uma solução consensual para o endividamento. Se a empresa conseguir cumprir os termos do plano, isso pode fortalecer sua posição no mercado; contudo, a execução bem-sucedida dependerá da gestão e das condições econômicas futuras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785454248.2865427,
+    "titulo": "Taxas caem com quadro favorável para corte na Selic e apoio do ambiente externo",
+    "titulo_original": "Taxas caem com quadro favorável para corte na Selic e apoio do ambiente externo - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/07 18:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda nas taxas de juros no Brasil, influenciada tanto por fatores domésticos quanto externos, sugere um cenário propício para a política monetária. Se o ambiente externo continuar favorável e os indicadores domésticos permitirem, o Banco Central pode prosseguir com cortes na Selic; no entanto, qualquer mudança abrupta no cenário externo ou dados de inflação domésticos mais altos podem alterar essa trajetória.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785454252.0235996,
+    "titulo": "Trump assina medida que limita exportações para preservar minerais críticos",
+    "titulo_original": "Trump assina medida que limita exportações para preservar minerais críticos - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "30/07 19:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão de Trump de limitar exportações para preservar minerais críticos pode ter implicações para cadeias de suprimentos globais e para a competitividade de certos setores. Se essa medida for implementada de forma ampla, pode gerar escassez ou aumento de preços de minerais críticos; o impacto dependerá da extensão das restrições e das alternativas de fornecimento disponíveis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785454256.5674796,
+    "titulo": "FT: Microsoft ganha valor de mercado recorde de US$ 450 bi",
+    "titulo_original": "FT: Microsoft ganha valor de mercado recorde de US$ 450 bi",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 19:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O forte desempenho da Microsoft, impulsionado por resultados financeiros positivos, sugere uma recuperação de confiança no setor de tecnologia, especialmente em empresas ligadas à inteligência artificial. Se essa tendência se mantiver, podemos observar um movimento de recuperação em outras empresas do setor; no entanto, a volatilidade recente indica que o mercado ainda pode reagir a notícias pontuais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785454256.5692759,
+    "titulo": "Bolsas de NY disparam com impulso de ‘techs’ após o ‘sell-off’ da véspera",
+    "titulo_original": "Bolsas de NY disparam com impulso de ‘techs’ após o ‘sell-off’ da véspera",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 17:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das bolsas de Nova York, especialmente do setor de tecnologia, sugere um otimismo renovado após a divulgação de resultados corporativos fortes. Se os resultados positivos continuarem a ser divulgados, o mercado pode manter a tendência de alta; porém, a volatilidade recente indica que eventos macroeconômicos ou novas notícias corporativas podem reverter esse cenário rapidamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785454256.5710495,
+    "titulo": "Apple (AAPL) tem resultado acima do esperado impulsionada por iPhones e Macs",
+    "titulo_original": "Apple (AAPL) tem resultado acima do esperado impulsionada por iPhones e Macs",
+    "fonte": "Money Times",
+    "publicado": "30/07 18:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho da Apple acima do esperado, especialmente em receita, reforça a força de seus produtos principais e pode sinalizar uma resiliência do consumidor em segmentos de maior valor. Se a demanda por iPhones e Macs continuar forte, isso pode sustentar o preço das ações da empresa; contudo, a dependência de poucos produtos pode ser um risco se o mercado mudar.",
     "is_stocks": true
   }
 ]
