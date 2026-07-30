@@ -1,73 +1,5 @@
 [
   {
-    "_timestamp": 1785330973.3117306,
-    "titulo": "Ao contrário do mercado, Citi não vê corte de juros pelo Copom na próxima reunião; entenda os motivos",
-    "titulo_original": "Ao contrário do mercado, Citi não vê corte de juros pelo Copom na próxima reunião; entenda os motivos",
-    "fonte": "Money Times",
-    "publicado": "29/07 10:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divergência de opinião do Citi sobre a decisão de juros do Copom é relevante, pois pode influenciar a percepção do mercado sobre a postura futura do Banco Central. Se o Copom de fato mantiver a Selic, isso pode sinalizar maior cautela com a inflação ou com a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785330978.0907445,
-    "titulo": "Índice de Confiança da Indústria cai para 97,2 pontos em julho, diz FGV",
-    "titulo_original": "Índice de Confiança da Indústria cai para 97,2 pontos em julho, diz FGV",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 08:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda na confiança da indústria é um indicador de desaceleração da atividade econômica. A menção a tarifas de importação norte-americanas e incertezas eleitorais sugere que fatores externos e políticos estão afetando as expectativas dos empresários. Se essa tendência se mantiver, pode impactar negativamente a produção e o emprego.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785330983.019854,
-    "titulo": "Dólar abre a R$ 5,12, com decisão de juros nos EUA e balanços no radar",
-    "titulo_original": "Dólar abre a R$ 5,12, com decisão de juros nos EUA e balanços no radar - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/07 09:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A cotação do dólar é influenciada diretamente pela política monetária dos EUA, especialmente a decisão de juros. Se a decisão for por manutenção ou aumento, tende a fortalecer o dólar globalmente. A divulgação de balanços pode gerar volatilidade adicional no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785330987.9131567,
-    "titulo": "Mercados europeus fecham: petróleo sobe novamente com Irã rejeitando proposta de Omã sobre o Estreito de Ormuz, reunião do FOMC em vista",
-    "titulo_original": "investingLive European markets wrap: Oil climbs again as Iran rejects Oman proposal on Strait of Hormuz, FOMC meeting eyed next",
-    "fonte": "ForexLive",
-    "publicado": "29/07 08:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões no Oriente Médio e a possibilidade de interrupção no fornecimento de petróleo tendem a pressionar os preços da commodity, o que pode gerar efeitos inflacionários globais. A expectativa pela decisão de juros do FOMC adiciona um elemento de cautela aos mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785330992.7372665,
-    "titulo": "Senado dos EUA aprova avanço de projeto de sanções à Rússia durante visita de Zelensky",
-    "titulo_original": "Senado dos EUA aprova avanço de projeto de sanções à Rússia durante visita de Zelensky",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 08:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A aprovação do avanço de um projeto de sanções contra a Rússia pelo Senado dos EUA, especialmente durante a visita de Zelensky, pode ter implicações geopolíticas e impactar o setor de energia russo. A notícia não detalha um impacto direto nos canais de juros, inflação, atividade econômica ou fluxo de capital.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1785338146.7040067,
     "titulo": "Presidente Lula faz reunião ministerial para debater impacto do El Niño",
     "titulo_original": "Presidente Lula faz reunião ministerial para debater impacto do El Niño",
@@ -1057,6 +989,70 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A queda das ações da Ambev, mesmo com o lucro em alta, sugere que o mercado esperava resultados ainda melhores ou que há preocupações com o futuro. Se os volumes de vendas da Ambev continuarem a decepcionar, como indicado em outra notícia, a pressão sobre as ações pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785443472.4282694,
+    "titulo": "Financiamento às aéreas é política inédita de apoio ao transporte aéreo, diz ministro",
+    "titulo_original": "Financiamento às aéreas é política inédita de apoio ao transporte aéreo, diz ministro",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 16:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O anúncio de uma linha de crédito inédita para o setor aéreo pode impulsionar a atividade econômica e a demanda por serviços. Se as empresas aéreas utilizarem efetivamente esses recursos para expansão, isso pode gerar um efeito multiplicador na economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785443475.9455729,
+    "titulo": "BNDES anuncia crédito de R$ 13,5 bi a empresas aéreas pelo Fundo Nacional de Aviação Civil",
+    "titulo_original": "BNDES anuncia crédito de R$ 13,5 bi a empresas aéreas pelo Fundo Nacional de Aviação Civil",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 16:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A injeção de R$ 13,5 bilhões no setor aéreo brasileiro, com foco em capital de giro e aquisição de aeronaves, pode melhorar a saúde financeira das empresas e estimular investimentos. Se a medida for bem executada, pode levar a uma maior competitividade e expansão do setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785443479.4879549,
+    "titulo": "Arrecadação federal cresce 7,7% e fecha 1º semestre com recorde histórico, diz Receita",
+    "titulo_original": "Arrecadação federal cresce 7,7% e fecha 1º semestre com recorde histórico, diz Receita",
+    "fonte": "Folha Mercado",
+    "publicado": "30/07 12:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recorde histórico na arrecadação federal, impulsionado pelo desempenho de junho, indica uma melhora nas contas públicas. Se essa tendência de alta se mantiver, pode haver maior margem para o governo cumprir metas fiscais ou investir em políticas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785443483.0988696,
+    "titulo": "Empresas estrangeiras investiram R$ 3,5 bi em telecomunicações em junho, segundo levantamento do Ministério",
+    "titulo_original": "Empresas estrangeiras investiram R$ 3,5 bi em telecomunicações em junho, segundo levantamento do Ministério",
+    "fonte": "Folha Mercado",
+    "publicado": "30/07 12:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O expressivo investimento estrangeiro no setor de telecomunicações, atingindo um recorde histórico para o mês, demonstra um fluxo de capital significativo para o Brasil. Se essa tendência de atração de capital se mantiver, pode impulsionar o desenvolvimento tecnológico e a infraestrutura do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785443487.3520713,
+    "titulo": "Com números do 2º tri positivos, mas futuro incerto, ações da Usiminas (USIM5) derretem",
+    "titulo_original": "Com números do 2º tri positivos, mas futuro incerto, ações da Usiminas (USIM5) derretem - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "30/07 15:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda expressiva nas ações da Usiminas, mesmo com resultados positivos, indica que as expectativas futuras do mercado estão pesando mais. Se as incertezas mencionadas se concretizarem, a performance da empresa pode ser ainda mais afetada.",
     "is_stocks": true
   }
 ]
