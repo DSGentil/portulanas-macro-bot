@@ -785,5 +785,127 @@
     "origem": "externa",
     "leitura_critica": "A decisão do Fed de manter os juros e a consequente queda nos rendimentos de Treasuries de curto prazo criam um ambiente favorável para o ouro como ativo de refúgio. Se o Fed sinalizar uma postura mais dovish nas próximas comunicações, o ouro pode continuar a se valorizar, impactando o apetite a risco global.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1785417354.6718605,
+    "titulo": "Dólar abre a R$ 5,10, influenciado por IGP-M, taxa de desemprego e balanços - UOL Economia",
+    "titulo_original": "Dólar abre a R$ 5,10, influenciado por IGP-M, taxa de desemprego e balanços - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/07 09:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A cotação do dólar reflete a influência de indicadores econômicos domésticos, como o IGP-M e a taxa de desemprego. Se os próximos dados de inflação e emprego vierem desfavoráveis, o real pode sofrer pressão, elevando a cotação da moeda americana.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785417359.5383358,
+    "titulo": "Oncoclínicas veda uso de créditos sujeitos à recuperação extrajudicial para exercício de bônus de subscrição",
+    "titulo_original": "Oncoclínicas veda uso de créditos sujeitos à recuperação extrajudicial para exercício de bônus de subscrição",
+    "fonte": "Valor Economico",
+    "publicado": "30/07 09:38",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão impacta diretamente a liquidez e a capacidade de exercício dos bônus de subscrição, podendo afetar a percepção de risco para investidores que possuíam esses créditos. Se o plano de recuperação extrajudicial for homologado sem alterações significativas, essa restrição tende a se manter, limitando as opções de integralização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785417364.35392,
+    "titulo": "Preferência da China pela soja brasileira pressiona cotações em Chicago - Agrimidia",
+    "titulo_original": "Preferência da China pela soja brasileira pressiona cotações em Chicago - Agrimidia",
+    "fonte": "Google News Commodities",
+    "publicado": "30/07 08:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A demanda chinesa por soja brasileira tem um impacto direto nos preços globais, como evidenciado pela pressão sobre as cotações em Chicago. Se essa preferência se mantiver ou aumentar, os preços da soja brasileira podem continuar a apresentar força no mercado internacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785417369.2464316,
+    "titulo": "US initial jobless claims 197K versus 200K expected",
+    "titulo_original": "US initial jobless claims 197K versus 200K expected",
+    "fonte": "ForexLive",
+    "publicado": "30/07 09:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado reforça a visão de um mercado de trabalho americano robusto, o que pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Se os próximos indicadores de emprego continuarem surpreendendo positivamente, a pressão por uma política monetária mais frouxa pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785417375.762879,
+    "titulo": "Ibovespa sobe com melhora do humor externo e à espera de Vale (VALE3); 5 coisas para saber antes de investir hoje (30)",
+    "titulo_original": "Ibovespa sobe com melhora do humor externo e à espera de Vale (VALE3); 5 coisas para saber antes de investir hoje (30)",
+    "fonte": "Money Times",
+    "publicado": "30/07 10:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa reflete um otimismo externo que pode ser temporário, dada a persistência de tensões geopolíticas. A reação do mercado dependerá da divulgação dos dados de inflação e emprego, bem como do tom do Federal Reserve, que podem tanto sustentar o rali quanto gerar volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785417375.7643836,
+    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "30/07 07:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Acompanhar os fatores que movimentam a Bolsa, o Dólar e os Juros é crucial para entender a dinâmica do mercado financeiro. Se as decisões de política monetária, como a taxa de juros, forem alteradas, isso pode gerar impactos significativos em todos esses ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785417375.765811,
+    "titulo": "PIB da Alemanha, França e Itália cresce 0,2% no 2º tri; Espanha tem alta de 0,7%",
+    "titulo_original": "PIB da Alemanha, França e Itália cresce 0,2% no 2º tri; Espanha tem alta de 0,7%",
+    "fonte": "Folha Mercado",
+    "publicado": "30/07 09:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O crescimento modesto do PIB na Europa demonstra resiliência em meio a desafios geopolíticos e de energia. Se a guerra no Oriente Médio se intensificar, o impacto nos preços de energia pode frear ainda mais a atividade econômica europeia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785417375.7672443,
+    "titulo": "Ibovespa Futuro sobe com balanços e agenda econômica carregada no radar - InfoMoney",
+    "titulo_original": "Ibovespa Futuro sobe com balanços e agenda econômica carregada no radar - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "30/07 09:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa Futuro sugere um otimismo com os resultados corporativos e a agenda econômica. Se os dados econômicos divulgados confirmarem as expectativas positivas, o índice pode sustentar sua trajetória de alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785417375.7686698,
+    "titulo": "Com possível rali eleitoral no radar, Ibovespa segue ‘subprecificado’: chances são de ‘upsides ordinários’ de até 50%, dizem analistas",
+    "titulo_original": "Com possível rali eleitoral no radar, Ibovespa segue ‘subprecificado’: chances são de ‘upsides ordinários’ de até 50%, dizem analistas",
+    "fonte": "Money Times",
+    "publicado": "30/07 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de que o Ibovespa está subprecificado devido a um rali eleitoral sugere que o mercado pode estar subestimando o impacto das eleições no desempenho da bolsa. Se o cenário eleitoral se desenrolar de forma favorável aos ativos brasileiros, o potencial de valorização pode se concretizar.",
+    "is_stocks": true
   }
 ]
