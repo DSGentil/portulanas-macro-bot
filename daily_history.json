@@ -1,359 +1,5 @@
 [
   {
-    "_timestamp": 1785349849.014814,
-    "titulo": "Fluxo cambial registra saída de US$ 1,065 bi na semana de 20 a 24 de julho",
-    "titulo_original": "Fluxo cambial registra saída de US$ 1,065 bi na semana de 20 a 24 de julho",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 14:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A saída líquida de capital estrangeiro na semana indica uma menor entrada de dólares na economia brasileira. Se essa tendência de saída se mantiver, pode pressionar a taxa de câmbio para cima e afetar a liquidez do mercado. Caso o fluxo se reverta nas próximas semanas, com maior entrada de capital, isso pode trazer alívio para o câmbio e para a liquidez.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785349852.8710487,
-    "titulo": "Dívida Pública Federal total alcança R$ 9,268 trilhões em junho, alta de 2,61% em relação a maio",
-    "titulo_original": "Dívida Pública Federal total alcança R$ R$ 9,268  trilhões em junho, alta de 2,61%  em relação a maio",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 14:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da Dívida Pública Federal em 2,61% em junho indica uma expansão do endividamento do governo. Se essa trajetória de crescimento da dívida se mantiver, pode gerar preocupações sobre a sustentabilidade fiscal do país no longo prazo. Caso o governo consiga reverter essa tendência com medidas de controle de gastos e aumento de receitas, isso pode trazer mais confiança aos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785349856.6203058,
-    "titulo": "Fazenda deixa fusão de BC e reguladores em segundo plano e fará estudo sobre supervisão",
-    "titulo_original": "Fazenda deixa fusão de BC e reguladores em segundo plano e fará estudo sobre supervisão",
-    "fonte": "Folha Mercado",
-    "publicado": "29/07 15:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A decisão de priorizar um estudo sobre a supervisão regulatória em vez de uma fusão imediata de órgãos reguladores sugere uma abordagem mais cautelosa por parte do Ministério da Fazenda. Se o estudo apontar para a necessidade de mudanças estruturais mais profundas, isso pode gerar incertezas sobre o futuro do arcabouço regulatório do sistema financeiro. Caso contrário, a manutenção do status quo pode trazer mais estabilidade para o setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785349860.4214563,
-    "titulo": "Durigan diz que subsídio da gasolina pode acabar se petróleo cair - UOL Economia",
-    "titulo_original": "Durigan diz que subsídio da gasolina pode acabar se petróleo cair - UOL Economia",
-    "fonte": "Google News Commodities",
-    "publicado": "29/07 12:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Durigan sobre a possibilidade de fim do subsídio da gasolina, condicionada à queda do preço do petróleo, indica uma flexibilização futura na política de preços. Se o petróleo de fato cair, a decisão de encerrar o subsídio pode levar a um aumento nos preços da gasolina para o consumidor. Caso contrário, a manutenção do subsídio pode continuar a pressionar as contas públicas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785349865.6321259,
-    "titulo": "Relatório: EUA se preparam para uma resposta maior ao Irã",
-    "titulo_original": "Report: U.S. preparing for a larger response to Iran",
-    "fonte": "ForexLive",
-    "publicado": "29/07 14:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A escalada de tensões geopolíticas no Oriente Médio, com a preparação dos EUA para uma resposta ao Irã, tende a aumentar a aversão ao risco global. Se a resposta militar for mais intensa do que o esperado, isso pode levar a uma fuga para ativos de segurança, impactando negativamente o fluxo de capital para mercados emergentes. Por outro lado, se a resposta for contida e diplomática, o apetite por risco pode se recuperar rapidamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785349865.6337008,
-    "titulo": "Trump: Vamos atingir o Irã com força. Ataques em reação a ataques contra os EUA na Jordânia",
-    "titulo_original": "Trump: We'll be hitting Iran hard.  Strikes in reaction to attacks on US in Jordan",
-    "fonte": "ForexLive",
-    "publicado": "29/07 10:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A declaração de Trump sobre uma resposta militar contundente ao Irã aumenta o risco de um conflito mais amplo na região, o que tende a elevar os preços do petróleo e a gerar aversão ao risco nos mercados globais. Se a ação militar for de fato significativa, pode haver uma fuga de capitais de mercados emergentes para ativos de refúgio. Caso a resposta seja mais contida do que o anunciado, o impacto pode ser temporário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785349865.6357658,
-    "titulo": "Ações da Petrobras (PETR3, PETR4) sobem mais de 2% após resultado operacional forte - Valor Econômico",
-    "titulo_original": "Ações da Petrobras (PETR3, PETR4) sobem mais de 2% após resultado operacional forte - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "29/07 11:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte alta nas ações da Petrobras, impulsionada por um resultado operacional positivo, indica que o mercado reagiu bem aos números divulgados. Se a empresa conseguir manter essa performance operacional e os preços do petróleo permanecerem favoráveis, as ações podem continuar a subir. Caso contrário, a volatilidade do setor de petróleo e possíveis mudanças regulatórias podem afetar o desempenho.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785349865.6371489,
-    "titulo": "Petrobras consegue vitória tributária de R$ 400 milhões e abre precedente para petroleiras do pré-sal - InvestNews",
-    "titulo_original": "Petrobras consegue vitória tributária de R$ 400 milhões e abre precedente para petroleiras do pré-sal - InvestNews",
-    "fonte": "Google News Acoes",
-    "publicado": "29/07 14:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A vitória tributária da Petrobras de R$ 400 milhões, com potencial de abrir precedente para outras empresas do setor, representa um ganho financeiro significativo e uma mudança regulatória favorável. Se essa decisão for consolidada e replicada para outras petroleiras, pode impactar positivamente os resultados e a atratividade do setor de pré-sal. Caso haja contestações ou interpretações divergentes, o precedente pode não se concretizar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785357047.5945761,
-    "titulo": "Tesouro amplia títulos atrelados à Selic e consolida processo de piora na qualidade da dívida pública - O GLOBO",
-    "titulo_original": "Tesouro amplia títulos atrelados à Selic e consolida processo de piora na qualidade da dívida pública - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/07 16:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ampliação de títulos atrelados à Selic indica uma estratégia do Tesouro para se adaptar ao cenário de juros elevados, mas também aponta para uma piora na qualidade da dívida pública. Se a taxa Selic se mantiver alta por mais tempo, o custo da dívida pública tende a aumentar; se houver uma queda antecipada nos juros, essa estratégia pode se tornar menos vantajosa no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785357051.2482185,
-    "titulo": "Tesouro diz que mudança no limite de emissões externas não afeta estreia de ‘Panda Bonds’",
-    "titulo_original": "Tesouro diz que mudança no limite de emissões externas não afeta estreia de ‘Panda Bonds’",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 16:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do Tesouro Nacional sobre a flexibilidade para emissões externas, mesmo com a mudança no limite, visa dar mais agilidade para captar recursos. Se o Tesouro conseguir emitir os 'Panda Bonds' com sucesso, isso pode diversificar as fontes de financiamento da dívida pública brasileira; caso contrário, a estratégia pode precisar de ajustes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785357054.8111472,
-    "titulo": "Tesouro vai revisar plano de financiamento da dívida para ampliar fatia de pós-fixados",
-    "titulo_original": "Tesouro vai revisar plano de financiamento da dívida para ampliar fatia de pós-fixados",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 15:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão do plano de financiamento da dívida para ampliar a fatia de pós-fixados sugere uma estratégia do Tesouro para se adaptar às expectativas de juros. Se a taxa Selic se mantiver elevada, a maior participação de pós-fixados pode ser vantajosa; se houver uma queda antecipada nos juros, essa estratégia pode se tornar menos atrativa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785357058.4913323,
-    "titulo": "Piora na percepção de risco global e alta do petróleo pressionam mercados locais - valor.globo.com",
-    "titulo_original": "Piora na percepção de risco global e alta do petróleo pressionam mercados locais - valor.globo.com",
-    "fonte": "Google News Commodities",
-    "publicado": "29/07 12:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de piora no risco global e alta do petróleo cria um cenário adverso para os mercados locais, aumentando a volatilidade. Se a percepção de risco global continuar a deteriorar, isso pode levar a uma fuga de capitais dos mercados emergentes; se os preços do petróleo recuarem, isso pode aliviar a pressão sobre os mercados locais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785357063.2363646,
-    "titulo": "UBS divulga lucro trimestral acima das expectativas e anuncia nova recompra de ações de US$ 3 bilhões",
-    "titulo_original": "UBS divulga lucro trimestral acima das expectativas e anuncia nova recompra de ações de US$ 3 bilhões",
-    "fonte": "Folha Mercado",
-    "publicado": "29/07 15:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O lucro trimestral do UBS acima das expectativas e o anúncio de recompra de ações indicam uma performance financeira positiva para o banco. Se a recompra de ações for bem-sucedida, isso pode impulsionar o valor das ações do UBS no mercado; se o cenário macroeconômico global se deteriorar, o desempenho futuro do banco pode ser afetado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785357063.2380795,
-    "titulo": "Após novo fracasso em negociações, Braskem fica mais perto de recuperação judicial, dizem fontes",
-    "titulo_original": "Após novo fracasso em negociações, Braskem fica mais perto de recuperação judicial, dizem fontes",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 16:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A possibilidade da Braskem entrar em recuperação judicial após o fracasso de negociações sinaliza dificuldades financeiras significativas para a empresa. Se a recuperação judicial for decretada, isso pode afetar a oferta de produtos petroquímicos e impactar outras empresas da cadeia produtiva; caso as negociações sejam retomadas com sucesso, a empresa pode evitar esse cenário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785362454.268456,
-    "titulo": "Brasil abre 145 mil novas vagas em junho, pior resultado para o mês desde 2020",
-    "titulo_original": "Brasil abre 145 mil novas vagas em junho, pior resultado para o mês desde 2020",
-    "fonte": "Folha Mercado",
-    "publicado": "29/07 14:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O dado de geração de vagas formais em junho é um indicador de desaceleração da atividade econômica. Se essa tendência se mantiver, pode haver um impacto negativo no consumo e na confiança dos agentes econômicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785362459.0200973,
-    "titulo": "Divisão Inédita no Fed Muda Leitura do Mercado sobre o Rumo dos Juros nos EUA - Forbes Brasil",
-    "titulo_original": "Divisão Inédita no Fed Muda Leitura do Mercado sobre o Rumo dos Juros nos EUA - Forbes Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/07 16:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A dissidência dentro do Fed pode indicar uma incerteza maior sobre o futuro da política monetária, o que pode levar a uma maior volatilidade nos mercados. Se essa divisão se aprofundar, pode haver dificuldades em comunicar uma direção clara para as taxas de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785362463.9258587,
-    "titulo": "Fed mantém juros entre 3,5% e 3,75% nos EUA; três dirigentes defendem alta",
-    "titulo_original": "Fed mantém juros entre 3,5% e 3,75% nos EUA; três dirigentes defendem alta",
-    "fonte": "Folha Mercado",
-    "publicado": "29/07 15:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A manutenção dos juros pelo Fed era esperada, mas a defesa de alta por três dirigentes sinaliza uma divisão interna e pode indicar uma postura mais cautelosa em relação à inflação. Se essa dissidência se traduzir em futuras altas, o custo do crédito nos EUA pode aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785362468.7764056,
-    "titulo": "Análise: Por que o Irã retomou o confronto com os EUA com ataque surpresa? - CNN Brasil",
-    "titulo_original": "Análise: Por que o Irã retomou o confronto com os EUA com ataque surpresa? - CNN Brasil",
-    "fonte": "Google News Geopolitica",
-    "publicado": "29/07 16:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões entre Irã e EUA pode gerar instabilidade geopolítica na região, com potenciais reflexos nos mercados globais de energia. Se a situação se agravar, o preço do petróleo pode sofrer novas altas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785362475.25844,
-    "titulo": "investingLive Americas FX news wrap 29 Jul: Fed Stands Pat, Markets Lose Ground",
-    "titulo_original": "investingLive Americas FX news wrap 29 Jul: Fed Stands Pat, Markets Lose Ground  Subtitle:",
-    "fonte": "ForexLive",
-    "publicado": "29/07 18:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do Fed de abandonar a orientação futura sobre juros pode gerar volatilidade nos mercados, pois os investidores terão menos clareza sobre os próximos passos da política monetária. Se a incerteza persistir, os rendimentos dos títulos podem continuar a subir, pressionando as avaliações de ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785362475.2601364,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa recua junto com exterior, aguardando coletiva do Fed - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa recua junto com exterior, aguardando coletiva do Fed - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "29/07 15:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa reflete a cautela global diante da decisão do Fed, indicando que o mercado brasileiro está sensível aos movimentos da política monetária americana. Se a coletiva do Fed sinalizar um tom mais duro, a bolsa brasileira pode estender suas perdas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785362475.2617664,
-    "titulo": "Ibovespa cai e bolsas de Wall Street desabam com dúvidas sobre atuação de Warsh no Fed",
-    "titulo_original": "Ibovespa cai e bolsas de Wall Street desabam com dúvidas sobre atuação de Warsh no Fed",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 18:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A incerteza sobre a política monetária do Fed e a tensão geopolítica no Oriente Médio estão impactando negativamente os mercados globais. Se o Fed sinalizar uma postura mais dura em futuras reuniões, as bolsas podem continuar sob pressão, enquanto a tensão no Oriente Médio pode sustentar a alta do petróleo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785362475.2633984,
-    "titulo": "Petróleo Dispara com Tensão no Oriente Médio; Fed Derruba Ibovespa e Dólar Recua - Forbes Brasil",
-    "titulo_original": "Petróleo Dispara com Tensão no Oriente Médio; Fed Derruba Ibovespa e Dólar Recua - Forbes Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/07 18:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de tensão geopolítica no Oriente Médio e a decisão do Fed está gerando volatilidade nos mercados. Se a tensão no Oriente Médio persistir, o petróleo pode continuar em alta, enquanto a decisão do Fed pode manter a pressão sobre as bolsas globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785362475.2649958,
-    "titulo": "Wall Street tomba após decisão do Fed com maior dissidência em uma década; Dow Jones tem pior pregão desde abril de 2025",
-    "titulo_original": "Wall Street tomba após decisão do Fed com maior dissidência em uma década; Dow Jones tem pior pregão desde abril de 2025",
-    "fonte": "Money Times",
-    "publicado": "29/07 17:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A forte queda em Wall Street, impulsionada pela dissidência no Fed, sugere que o mercado está preocupado com a capacidade do banco central em controlar a inflação sem prejudicar o crescimento. Se a incerteza sobre a política monetária persistir, a volatilidade nos mercados acionários pode continuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785367833.2977605,
-    "titulo": "Lucro líquido da Motiva sobe 57,5% no 2º tri, para R$ 1,4 bi",
-    "titulo_original": "Lucro líquido da Motiva sobe 57,5% no 2º tri, para R$ 1,4 bi",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 18:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O forte desempenho da Motiva no segundo trimestre, com aumento de lucro e receita, sugere uma recuperação ou consolidação de suas operações. Se os reajustes tarifários continuarem a ser implementados de forma favorável, isso pode sustentar a rentabilidade da empresa no médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785367836.889854,
-    "titulo": "VÍDEO: Israel bombardeia mesquita em Gaza",
-    "titulo_original": "VÍDEO: Israel bombardeia mesquita em Gaza - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "29/07 17:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O bombardeio de uma mesquita em Gaza representa uma escalada na tensão do conflito. Se a situação se agravar, isso pode gerar instabilidade regional e impactar os mercados globais de energia e commodities.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785367841.6811523,
-    "titulo": "Fabricante brasileira de sucos The Natural One avalia venda total ou de participação, segundo fontes",
-    "titulo_original": "Brasileira The Natural One avalia venda total ou de participação, segundo fontes",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 19:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A busca por um parceiro estratégico pode indicar a necessidade de capital para impulsionar o crescimento da empresa. Se a venda for concretizada, isso pode representar uma oportunidade para investidores que buscam exposição ao setor de alimentos e bebidas com potencial de expansão internacional.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785367841.6827826,
-    "titulo": "Controlador do Habib’s vai à Justiça para tentar liberar recebíveis, e MP questiona proteção de sócios",
-    "titulo_original": "Controlador do Habib’s vai à Justiça para tentar liberar recebíveis, e MP questiona proteção de sócios",
-    "fonte": "Valor Economico",
-    "publicado": "29/07 19:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A disputa judicial em torno dos recebíveis pode impactar a liquidez e a capacidade de pagamento do Grupo Gennius. Se a decisão for desfavorável aos sócios, isso pode gerar maior pressão sobre a estrutura financeira das empresas.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785411060.6783354,
     "titulo": "Índice de Confiança de Serviços recua 3 pontos em julho, para 87,8 pontos, diz FGV Ibre",
     "titulo_original": "Índice de Confiança de Serviços recua 3 pontos em julho, para 87,8 pontos, diz FGV Ibre",
@@ -1066,6 +712,87 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O desempenho da Apple acima do esperado, especialmente em receita, reforça a força de seus produtos principais e pode sinalizar uma resiliência do consumidor em segmentos de maior valor. Se a demanda por iPhones e Macs continuar forte, isso pode sustentar o preço das ações da empresa; contudo, a dependência de poucos produtos pode ser um risco se o mercado mudar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785497455.103229,
+    "titulo": "Agenda do dia: Expectativas de inflação nos EUA são destaque",
+    "titulo_original": "Agenda do dia: Expectativas de inflação nos EUA são destaque",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 08:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "As expectativas de inflação nos EUA são um indicador crucial para a política monetária do Federal Reserve. Se as expectativas vierem acima do esperado, isso pode reforçar a pressão por juros mais altos por mais tempo, impactando os mercados globais. No Brasil, os dados do setor público consolidado podem trazer luz sobre a trajetória fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785497459.821326,
+    "titulo": "Dólar deve reagir a juros, dados e tensão externa - Agrolink",
+    "titulo_original": "Dólar deve reagir a juros, dados e tensão externa - Agrolink",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/07 07:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa de que o dólar reagirá a juros, dados e tensões externas indica que esses fatores continuarão a ser determinantes para a moeda. Se os juros nos EUA permanecerem altos ou subirem, isso tende a sustentar um dólar mais forte, enquanto tensões geopolíticas podem aumentar a volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785497464.5180905,
+    "titulo": "Mercados europeus fecham: inflação da zona do euro sobe; intervenção no USD/JPY novamente?",
+    "titulo_original": "investingLive European markets wrap: Eurozone inflation ticks up in July; USD/JPY intervention again?",
+    "fonte": "ForexLive",
+    "publicado": "31/07 08:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A inflação da zona do euro, ao subir em julho, reforça a pressão sobre o BCE para manter uma postura mais restritiva em relação aos juros. Se o BoJ continuar a sinalizar aumentos de juros, isso pode levar a uma valorização do iene e, consequentemente, a potenciais intervenções para conter a volatilidade cambial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785497469.1724296,
+    "titulo": "Suspeita de intervenção no iene derruba dólar - Valor Econômico",
+    "titulo_original": "Suspeita de intervenção no iene derruba dólar - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/07 05:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A suspeita de intervenção no iene, que resultou na queda do dólar, indica uma ação do Banco do Japão para conter a desvalorização da sua moeda. Se essa intervenção for confirmada ou se repetir, pode haver um impacto na dinâmica cambial global e nas decisões de política monetária de outros bancos centrais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785497475.2573378,
+    "titulo": "Ibovespa salta quase 2% em dia de maior busca por risco - Valor Econômico",
+    "titulo_original": "Ibovespa salta quase 2% em dia de maior busca por risco - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "31/07 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, associada a uma maior busca por risco, sugere um sentimento positivo nos mercados no dia. Se essa busca por risco se mantiver, pode haver continuidade na valorização de ativos de renda variável, mas a sustentabilidade dependerá de fatores macroeconômicos e de notícias que reforcem esse otimismo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785497475.2586837,
+    "titulo": "Mercados terminam mês com forte alta do petróleo e dúvidas sobre atuação do Fed",
+    "titulo_original": "Mercados terminam mês com forte alta do petróleo e dúvidas sobre atuação do Fed",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 08:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo e as dúvidas sobre a atuação do Fed criam um cenário misto para os mercados. Se o Fed sinalizar manutenção de juros altos, isso pode pressionar ações de tecnologia, enquanto a alta do petróleo pode gerar pressões inflacionárias. A manutenção dos juros pelo Banco do Japão contrasta com a tendência de alta em outras economias.",
     "is_stocks": true
   }
 ]
