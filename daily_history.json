@@ -1,127 +1,5 @@
 [
   {
-    "_timestamp": 1785417354.6718605,
-    "titulo": "Dólar abre a R$ 5,10, influenciado por IGP-M, taxa de desemprego e balanços - UOL Economia",
-    "titulo_original": "Dólar abre a R$ 5,10, influenciado por IGP-M, taxa de desemprego e balanços - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/07 09:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A cotação do dólar reflete a influência de indicadores econômicos domésticos, como o IGP-M e a taxa de desemprego. Se os próximos dados de inflação e emprego vierem desfavoráveis, o real pode sofrer pressão, elevando a cotação da moeda americana.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785417359.5383358,
-    "titulo": "Oncoclínicas veda uso de créditos sujeitos à recuperação extrajudicial para exercício de bônus de subscrição",
-    "titulo_original": "Oncoclínicas veda uso de créditos sujeitos à recuperação extrajudicial para exercício de bônus de subscrição",
-    "fonte": "Valor Economico",
-    "publicado": "30/07 09:38",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão impacta diretamente a liquidez e a capacidade de exercício dos bônus de subscrição, podendo afetar a percepção de risco para investidores que possuíam esses créditos. Se o plano de recuperação extrajudicial for homologado sem alterações significativas, essa restrição tende a se manter, limitando as opções de integralização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785417364.35392,
-    "titulo": "Preferência da China pela soja brasileira pressiona cotações em Chicago - Agrimidia",
-    "titulo_original": "Preferência da China pela soja brasileira pressiona cotações em Chicago - Agrimidia",
-    "fonte": "Google News Commodities",
-    "publicado": "30/07 08:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A demanda chinesa por soja brasileira tem um impacto direto nos preços globais, como evidenciado pela pressão sobre as cotações em Chicago. Se essa preferência se mantiver ou aumentar, os preços da soja brasileira podem continuar a apresentar força no mercado internacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785417369.2464316,
-    "titulo": "US initial jobless claims 197K versus 200K expected",
-    "titulo_original": "US initial jobless claims 197K versus 200K expected",
-    "fonte": "ForexLive",
-    "publicado": "30/07 09:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado reforça a visão de um mercado de trabalho americano robusto, o que pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Se os próximos indicadores de emprego continuarem surpreendendo positivamente, a pressão por uma política monetária mais frouxa pode diminuir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785417375.762879,
-    "titulo": "Ibovespa sobe com melhora do humor externo e à espera de Vale (VALE3); 5 coisas para saber antes de investir hoje (30)",
-    "titulo_original": "Ibovespa sobe com melhora do humor externo e à espera de Vale (VALE3); 5 coisas para saber antes de investir hoje (30)",
-    "fonte": "Money Times",
-    "publicado": "30/07 10:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa reflete um otimismo externo que pode ser temporário, dada a persistência de tensões geopolíticas. A reação do mercado dependerá da divulgação dos dados de inflação e emprego, bem como do tom do Federal Reserve, que podem tanto sustentar o rali quanto gerar volatilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785417375.7643836,
-    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "30/07 07:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Acompanhar os fatores que movimentam a Bolsa, o Dólar e os Juros é crucial para entender a dinâmica do mercado financeiro. Se as decisões de política monetária, como a taxa de juros, forem alteradas, isso pode gerar impactos significativos em todos esses ativos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785417375.765811,
-    "titulo": "PIB da Alemanha, França e Itália cresce 0,2% no 2º tri; Espanha tem alta de 0,7%",
-    "titulo_original": "PIB da Alemanha, França e Itália cresce 0,2% no 2º tri; Espanha tem alta de 0,7%",
-    "fonte": "Folha Mercado",
-    "publicado": "30/07 09:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O crescimento modesto do PIB na Europa demonstra resiliência em meio a desafios geopolíticos e de energia. Se a guerra no Oriente Médio se intensificar, o impacto nos preços de energia pode frear ainda mais a atividade econômica europeia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785417375.7672443,
-    "titulo": "Ibovespa Futuro sobe com balanços e agenda econômica carregada no radar - InfoMoney",
-    "titulo_original": "Ibovespa Futuro sobe com balanços e agenda econômica carregada no radar - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "30/07 09:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa Futuro sugere um otimismo com os resultados corporativos e a agenda econômica. Se os dados econômicos divulgados confirmarem as expectativas positivas, o índice pode sustentar sua trajetória de alta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785417375.7686698,
-    "titulo": "Com possível rali eleitoral no radar, Ibovespa segue ‘subprecificado’: chances são de ‘upsides ordinários’ de até 50%, dizem analistas",
-    "titulo_original": "Com possível rali eleitoral no radar, Ibovespa segue ‘subprecificado’: chances são de ‘upsides ordinários’ de até 50%, dizem analistas",
-    "fonte": "Money Times",
-    "publicado": "30/07 10:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A percepção de que o Ibovespa está subprecificado devido a um rali eleitoral sugere que o mercado pode estar subestimando o impacto das eleições no desempenho da bolsa. Se o cenário eleitoral se desenrolar de forma favorável aos ativos brasileiros, o potencial de valorização pode se concretizar.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785424585.5031579,
     "titulo": "Empresas estrangeiras investiram R$ 3,5 bi em telecomunicações em junho, segundo levantamento do Ministério",
     "titulo_original": "Empresas estrangeiras investiram R$ 3,5 bi em telecomuicações em junho, segundo levantamento do Ministério",
@@ -1156,6 +1034,118 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A forte alta das ações do Santander reflete a precificação da oferta de fechamento de capital. Se a OPA for concluída conforme o esperado, as ações deixarão de ser negociadas em bolsa, e o prêmio oferecido pode ser considerado um evento pontual para os acionistas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785529848.261495,
+    "titulo": "Expectativa para a próxima reunião do Copom",
+    "titulo_original": "Expectativa para a próxima reunião do Copom - Monitor Mercantil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/07 15:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa em torno da próxima reunião do Copom é crucial para o mercado de juros. Se a reunião resultar em uma decisão de manutenção da taxa Selic, o cenário atual pode se prolongar; se houver alteração, isso poderá gerar volatilidade nos ativos de renda fixa e variável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785529853.0474775,
+    "titulo": "Governo trabalha para enviar Imposto Seletivo ao Congresso com Ploa 2027",
+    "titulo_original": "Governo trabalha para enviar Imposto Seletivo ao Congresso com Ploa 2027",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 15:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O envio da proposta do Imposto Seletivo ao Congresso com o Ploa de 2027 indica um avanço na agenda fiscal do governo. Se aprovado, o imposto pode impactar o consumo de determinados bens e serviços; caso contrário, a arrecadação fiscal pode ser afetada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785529858.0580306,
+    "titulo": "Polônia convoca embaixador da Rússia após incidente com míssil",
+    "titulo_original": "Polônia convoca embaixador da Rússia após incidente com míssil",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 16:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O incidente do míssil russo em território polonês representa uma escalada de tensões na região. Se a Rússia reconhecer o erro e tomar medidas para evitar novas ocorrências, a crise pode ser contida; caso contrário, o risco de envolvimento direto da OTAN pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785529862.9335077,
+    "titulo": "Setor de grãos da Rússia diz que ataques de Kiev ameaçam segurança alimentar global",
+    "titulo_original": "Setor de grãos da Rússia diz que ataques de Kiev ameaçam segurança alimentar global",
+    "fonte": "Money Times",
+    "publicado": "31/07 15:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Os ataques ucranianos aos portos russos representam um risco à segurança alimentar global, especialmente para a África e o Oriente Médio. Se as exportações de grãos forem de fato interrompidas, os preços podem disparar, agravando a crise alimentar; se um acordo for alcançado, o impacto pode ser mitigado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785529869.4471848,
+    "titulo": "IA derruba ações de software, mas abre oportunidade na Totvs (TOTS3); saiba o motivo",
+    "titulo_original": "IA derruba ações de software, mas abre oportunidade na Totvs (TOTS3); saiba o motivo",
+    "fonte": "Money Times",
+    "publicado": "31/07 16:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sugere que a inteligência artificial está impactando negativamente o setor de software, mas que empresas como a Totvs podem se destacar. Se os fundamentos da Totvs se confirmarem, a ação pode apresentar valorização; caso contrário, pode sofrer com a tendência geral do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785529869.4489603,
+    "titulo": "Vale (VALE3) Eleva Projeção de Custo do Minério de Ferro em 2026 e Reduz a de Cobre e Níquel",
+    "titulo_original": "Vale (VALE3) Eleva Projeção de Custo do Minério de Ferro em 2026 e Reduz a de Cobre e Níquel - Forbes Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "31/07 11:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alteração nas projeções de custos da Vale pode impactar seus resultados futuros. Se os custos do minério de ferro subirem mais que o esperado, isso pode pressionar a margem da empresa; se os custos de cobre e níquel caírem, pode haver um alívio parcial.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785529869.4506996,
+    "titulo": "IPO da Westinghouse pode ser a maior oferta do setor nuclear dos Estados Unidos",
+    "titulo_original": "IPO da Westinghouse pode ser a maior oferta do setor nuclear dos Estados Unidos",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 16:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O IPO da Westinghouse representa um movimento significativo no setor de energia nuclear. Se a oferta for bem-sucedida, pode atrair capital para o setor e influenciar o desempenho de outras empresas do ramo; caso contrário, pode gerar ceticismo sobre o potencial de crescimento do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785529869.4524145,
+    "titulo": "No Vale do Silício, alguns dizem que uma bolha de IA seria bem-vinda",
+    "titulo_original": "No Vale do Silício, alguns dizem que uma bolha de IA seria bem-vinda",
+    "fonte": "Folha Mercado",
+    "publicado": "31/07 14:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O alerta sobre uma bolha de IA indica preocupação com a valorização excessiva de empresas do setor. Se uma correção ocorrer, pode haver desvalorização de ativos ligados à IA; se o crescimento continuar sustentado, os alertas podem se mostrar exagerados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785529869.454178,
+    "titulo": "Braskem (BRKM5): Melhora nos spreads deve favorecer resultado, diz BB Investimentos",
+    "titulo_original": "Braskem (BRKM5): Melhora nos spreads deve favorecer resultado, diz BB Investimentos",
+    "fonte": "Money Times",
+    "publicado": "31/07 15:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A melhora nos spreads petroquímicos pode beneficiar a Braskem, mas os desafios estruturais ainda são um ponto de atenção. Se a recuperação dos spreads for sustentada, a empresa pode apresentar resultados positivos; caso contrário, os desafios estruturais podem limitar o crescimento.",
     "is_stocks": true
   }
 ]
