@@ -999,5 +999,123 @@
     "origem": "domestica",
     "leitura_critica": "A declaração do CEO da Vale sobre excelência operacional e gestão disciplinada, juntamente com o avanço do projeto de cobre, sugere uma visão positiva sobre o futuro da empresa. Se a Vale conseguir manter essa performance, pode haver um impacto positivo em suas ações e resultados futuros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785516433.840995,
+    "titulo": "R$ 258 bilhões em Tesouro IPCA+2026 vencem em agosto; entenda o impacto na sua vida",
+    "titulo_original": "R$ 258 bilhões em Tesouro IPCA+2026 vencem em agosto; entenda o impacto na sua vida",
+    "fonte": "InvestNews",
+    "publicado": "31/07 12:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O vencimento de um volume expressivo de títulos indexados à inflação pode gerar um fluxo de recursos no mercado de renda fixa. Se esse capital for reinvestido em títulos IPCA+ de outros prazos, pode haver uma pressão de demanda que, embora considerada breve, pode impactar as taxas de juros de longo prazo atreladas à inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785516438.5567024,
+    "titulo": "Dólar inicia sessão em leve alta em dia de formação de Ptax - Valor Econômico",
+    "titulo_original": "Dólar inicia sessão em leve alta em dia de formação de Ptax - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/07 10:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A leve alta do dólar em um dia de formação de Ptax pode indicar uma busca por liquidez ou ajustes de posições antes da divulgação da taxa. Se a Ptax final vier acima do esperado, isso pode reforçar a tendência de alta do dólar no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785516443.1339357,
+    "titulo": "Ala ‘linha-dura’ do Fed reforça pressão sobre os juros longos nos EUA",
+    "titulo_original": "Ala ‘linha-dura’ do Fed reforça pressão sobre os juros longos nos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 13:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A persistência de discursos mais duros por parte de membros do Fed sobre a inflação sugere que as taxas de juros nos EUA podem permanecer elevadas por mais tempo. Se a inflação continuar a mostrar sinais de resistência, o Fed pode ser forçado a adiar cortes de juros, o que impactaria globalmente os custos de financiamento e o apetite por risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785516447.7447836,
+    "titulo": "Kashkari, do Fed, defende alta de juros diante de inflação elevada e novas pressões sobre preços - Valor Econômico",
+    "titulo_original": "Kashkari, do Fed, defende alta de juros diante de inflação elevada e novas pressões sobre preços - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/07 10:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A defesa da alta de juros por um membro do Fed, como Kashkari, reforça a possibilidade de que o banco central americano mantenha uma postura mais restritiva para combater a inflação. Se essa visão prevalecer nas próximas decisões, as taxas de juros nos EUA podem permanecer elevadas por mais tempo, impactando o custo do capital globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785516453.917055,
+    "titulo": "Ibovespa tem alta em sintonia com Wall Street em pregão mais curto; dólar avança",
+    "titulo_original": "Ibovespa tem alta em sintonia com Wall Street em pregão mais curto; dólar avança",
+    "fonte": "Money Times",
+    "publicado": "31/07 12:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, em sintonia com mercados internacionais, sugere um otimismo pontual. No entanto, o atraso na abertura da B3 devido a falhas técnicas pode ter gerado volatilidade e incerteza no fluxo de negociações, impactando a percepção de estabilidade operacional do mercado brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785516453.9190142,
+    "titulo": "Mercado agora | Bolsas de NY operam em alta moderada, enquanto B3 deve abrir futuros às 12h30",
+    "titulo_original": "Mercado agora | Bolsas de NY operam em alta moderada, enquanto B3 deve abrir futuros às 12h30 - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "31/07 12:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta moderada em Nova York sugere um sentimento positivo nos mercados globais. A abertura dos futuros na B3 pode refletir essa tendência, mas a performance dependerá de fatores domésticos e da resolução de problemas técnicos que afetaram a bolsa brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785516453.9210958,
+    "titulo": "Apple pode perder quase US$ 500 bi em valor de mercado após previsão pessimista",
+    "titulo_original": "Apple pode perder quase US$ 500 bi em valor de mercado após previsão pessimista",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 13:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda expressiva nas ações da Apple, motivada por problemas na cadeia de suprimentos e pela concorrência no setor de IA, pode sinalizar um reajuste nas expectativas de crescimento para empresas de tecnologia. Se essa tendência se espalhar para outras gigantes do setor, pode haver um impacto mais amplo nos mercados globais de ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785516453.9226623,
+    "titulo": "Petrobras e governo travam embate sobre abertura do mercado de gás natural",
+    "titulo_original": "Petrobras e governo travam embate sobre abertura do mercado de gás natural",
+    "fonte": "Folha Mercado",
+    "publicado": "31/07 13:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O embate entre o governo e a Petrobras sobre a abertura do mercado de gás natural indica uma disputa regulatória em andamento. Se o governo conseguir avançar com a regulamentação, isso pode aumentar a concorrência e potencialmente reduzir os preços do gás; caso contrário, a Petrobras pode manter seu domínio sobre a infraestrutura.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785516453.9242067,
+    "titulo": "Ibovespa sobe após atraso no início das negociações; dólar avança - Valor Investe",
+    "titulo_original": "Ibovespa sobe após atraso no início das negociações; dólar avança - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/07 13:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação do Ibovespa após o atraso na abertura da B3 sugere que o mercado brasileiro está buscando se alinhar com o otimismo externo. No entanto, a recorrência de falhas técnicas pode minar a confiança dos investidores na infraestrutura do mercado local, impactando a percepção de risco.",
+    "is_stocks": true
   }
 ]
