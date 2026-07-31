@@ -1,71 +1,5 @@
 [
   {
-    "_timestamp": 1785424585.5031579,
-    "titulo": "Empresas estrangeiras investiram R$ 3,5 bi em telecomunicações em junho, segundo levantamento do Ministério",
-    "titulo_original": "Empresas estrangeiras investiram R$ 3,5 bi em telecomuicações em junho, segundo levantamento do Ministério",
-    "fonte": "Folha Mercado",
-    "publicado": "30/07 12:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O forte investimento estrangeiro no setor de telecomunicações pode indicar confiança no mercado brasileiro e impulsionar o desenvolvimento tecnológico. Se essa tendência se mantiver, pode haver um aumento na competitividade do setor e na oferta de serviços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785424590.4175003,
-    "titulo": "Arrecadação federal total soma R$ 264,437 bi em junho, alta real de 7,72%",
-    "titulo_original": "Arrecadação federal total soma R$ 264,437 bi em junho, alta real de 7,72%",
-    "fonte": "Valor Economico",
-    "publicado": "30/07 11:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O forte aumento na arrecadação federal sugere uma melhora na atividade econômica ou na eficiência da cobrança de impostos. Se essa tendência se mantiver, pode haver um impacto positivo nas contas públicas, permitindo maior margem para investimentos ou redução do déficit fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785424595.2243917,
-    "titulo": "Houthis do Iêmen têm atacado a Arábia Saudita a partir do Iraque, dizem fontes",
-    "titulo_original": "Houthis do Iêmen têm atacado a Arábia Saudita a partir do Iraque, dizem fontes",
-    "fonte": "Valor Economico",
-    "publicado": "30/07 11:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões no Oriente Médio pode gerar instabilidade regional e impactar o fluxo de petróleo, o que, por sua vez, pode afetar os preços globais de energia e a inflação. Se o conflito se expandir, o risco para a navegação em rotas comerciais importantes aumentará.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785424600.0245712,
-    "titulo": "Assessor da Casa Branca: Inflação continua a diminuir",
-    "titulo_original": "WH Advisor Hassett: Inflation is continuing to ease",
-    "fonte": "ForexLive",
-    "publicado": "30/07 10:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A perspectiva de inflação em queda pode sinalizar uma postura mais branda do Banco Central em relação aos juros. Se os dados de inflação futuros confirmarem essa tendência, o mercado pode precificar cortes mais rápidos nas taxas de juros, o que tende a reduzir os custos de empréstimos em toda a economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785424604.7842412,
-    "titulo": "Nova corrida dos mísseis impulsiona setor global de defesa",
-    "titulo_original": "Nova corrida dos mísseis impulsiona setor global de defesa",
-    "fonte": "Money Times",
-    "publicado": "30/07 12:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento na demanda por armamentos pode indicar um cenário de maior instabilidade geopolítica global. Se essa tendência se mantiver, pode haver um aumento nos gastos militares de diversos países, com potenciais impactos na economia global e em conflitos existentes.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1785429946.1764474,
     "titulo": "Juro médio cobrado das famílias sobe a 64% em junho, maior patamar em quase 10 anos",
     "titulo_original": "Juro médio cobrado das famílias sobe a 64% em junho, maior patamar em quase 10 anos",
@@ -1146,6 +1080,121 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A melhora nos spreads petroquímicos pode beneficiar a Braskem, mas os desafios estruturais ainda são um ponto de atenção. Se a recuperação dos spreads for sustentada, a empresa pode apresentar resultados positivos; caso contrário, os desafios estruturais podem limitar o crescimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785535252.3090603,
+    "titulo": "Dólar sobe para R$ 5,07 e Bolsa se valoriza com expectativas de juros nos EUA",
+    "titulo_original": "Dólar sobe a R$ 5,07 e Bolsa se valoriza com expectativas de juros nos EUA - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/07 17:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A valorização da bolsa e a alta do dólar em resposta às expectativas sobre os juros nos EUA sugerem que o mercado precifica um cenário de juros mais altos por mais tempo nos EUA. Se o Fed sinalizar uma política monetária mais restritiva, o dólar pode continuar forte e pressionar a bolsa brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785535256.112419,
+    "titulo": "EUA e Israel planejam grande ataque contra a infraestrutura energética do Irã, diz TV americana",
+    "titulo_original": "EUA e Israel planejam grande ataque contra a infraestrutura energética do Irã, diz TV americana - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "31/07 18:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia sobre um potencial ataque à infraestrutura energética do Irã por EUA e Israel é um fator de risco geopolítico elevado. Se confirmado, isso pode levar a uma escalada de tensões no Oriente Médio, impactando os preços do petróleo e a confiança dos investidores globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785535259.9775481,
+    "titulo": "Preço do petróleo salta 20% em julho, maior avanço mensal desde março, início da guerra no Oriente Médio",
+    "titulo_original": "Preço do petróleo salta 20% em julho, maior avanço mensal desde março, início da guerra no Oriente Médio - Valor Investe",
+    "fonte": "Google News Commodities",
+    "publicado": "31/07 16:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte alta do petróleo em julho, ligada a tensões no Oriente Médio, é um fator inflacionário global. Se os conflitos se intensificarem, o preço do petróleo pode continuar subindo, pressionando a inflação e exigindo respostas mais duras dos bancos centrais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785535263.8029134,
+    "titulo": "Petróleo dispara 23% em julho com retomada na troca de ataques entre EUA e Irã",
+    "titulo_original": "Petróleo dispara 23% em julho com retomada na troca de ataques entre EUA e Irã",
+    "fonte": "Money Times",
+    "publicado": "31/07 16:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de ataques entre EUA e Irã, refletida na forte alta do petróleo, aumenta o risco de instabilidade no Oriente Médio e pode ter repercussões globais. Se a situação geopolítica se agravar, o preço do petróleo pode continuar sua trajetória ascendente, impactando a inflação e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785535269.2453084,
+    "titulo": "Warsh considera reduzir número de reuniões de política monetária do Fed, diz jornal",
+    "titulo_original": "Warsh considera reduzir número de reuniões de política monetária do Fed, diz jornal",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 18:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de redução no número de reuniões de política monetária do Fed, levantada por Kevin Warsh, pode indicar uma mudança na forma como o banco central americano conduz suas decisões. Se implementada, essa mudança pode gerar maior volatilidade entre as reuniões, pois as sinalizações sobre juros podem se tornar menos frequentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785535269.2471676,
+    "titulo": "Resumo de notícias de FX das Américas da investingLive em 31 de julho; É um resumo para o mês de julho",
+    "titulo_original": "investingLive Americas FX news wrap 31 Jul; It's a wrap for the month of July",
+    "fonte": "ForexLive",
+    "publicado": "31/07 18:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de Barkin sobre a decisão de juros ser um 'empate' e a de Logan favorecendo um aumento de juros indicam que o Fed ainda está dividido sobre os próximos passos, o que pode gerar volatilidade. Se os próximos dados de inflação vierem mais altos, a pressão por um aumento de juros se intensificará; se vierem mais baixos, o debate sobre a manutenção ou corte pode se reabrir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785535269.24893,
+    "titulo": "Ibovespa sobe 0,5%, a 177.999 pontos, em sessão encurtada por problema técnico da B3",
+    "titulo_original": "Ibovespa sobe 0,5%, a 177.999 pontos, em sessão encurtada por problema técnico da B3 - infomoney.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "31/07 17:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa em uma sessão encurtada por falha técnica na B3 sugere que o movimento positivo pode ter sido influenciado por fatores externos ou pela recuperação de outros mercados. A limitação de volume e tempo de negociação pode ter distorcido a percepção da força do movimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785535269.250709,
+    "titulo": "Ibovespa termina julho com alta de 3,5% e dólar recua 1,8%; petróleo salta 20% e bate US$ 88",
+    "titulo_original": "Ibovespa termina julho com alta de 3,5% e dólar recua 1,8%; petróleo salta 20% e bate US$ 88",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 18:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O desempenho positivo do Ibovespa e a queda do dólar em julho, contrastando com a forte alta do petróleo, indicam um cenário de melhora na percepção de risco global e/ou fatores específicos de commodities. Se a tendência de alta do petróleo se mantiver, pode haver pressão inflacionária, mas o fluxo de capital para mercados emergentes pode continuar positivo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785535269.2525,
+    "titulo": "Wall Street fecha em alta com tecnologia, mas Nasdaq derrete 3% e tem 2º mês de perdas",
+    "titulo_original": "Wall Street fecha em alta com tecnologia, mas Nasdaq derrete 3% e tem 2º mês de perdas",
+    "fonte": "Money Times",
+    "publicado": "31/07 17:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A divergência entre o fechamento geral de Wall Street e o desempenho do Nasdaq, que acumula perdas, sugere um mercado seletivo. Se as grandes empresas de tecnologia continuarem sob pressão, isso pode indicar uma rotação de capital para outros setores ou uma cautela maior com ativos de crescimento.",
     "is_stocks": true
   }
 ]
