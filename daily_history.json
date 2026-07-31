@@ -794,5 +794,96 @@
     "origem": "externa",
     "leitura_critica": "A alta do petróleo e as dúvidas sobre a atuação do Fed criam um cenário misto para os mercados. Se o Fed sinalizar manutenção de juros altos, isso pode pressionar ações de tecnologia, enquanto a alta do petróleo pode gerar pressões inflacionárias. A manutenção dos juros pelo Banco do Japão contrasta com a tendência de alta em outras economias.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785503762.942202,
+    "titulo": "Irã diz ter atacado com drones alvos americanos no Kuwait",
+    "titulo_original": "Irã diz ter atacado com drones alvos americanos no Kuwait",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 09:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A escalada de tensões no Oriente Médio pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas. Se os ataques se intensificarem, o preço do petróleo pode sofrer pressão de alta, impactando a inflação global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785503766.4778702,
+    "titulo": "Após anos de alta, indústria náutica passa por retração com tarifaço de Trump e juros",
+    "titulo_original": "Após anos de alta, indústria náutica passa por retração com tarifaço de Trump e juros",
+    "fonte": "Folha Mercado",
+    "publicado": "31/07 06:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A retração na indústria náutica, atribuída a tarifas de Trump e juros, demonstra o impacto de políticas externas e custos de financiamento no setor. Se as tarifas forem mantidas e os juros permanecerem altos, o setor pode continuar enfrentando dificuldades; caso contrário, uma flexibilização dessas condições pode impulsionar a recuperação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785503771.157709,
+    "titulo": "Inflação na zona do euro acelera em julho e reforça argumentos para alta de juros",
+    "titulo_original": "Inflação na zona do euro acelera em julho e reforça argumentos para alta de juros",
+    "fonte": "Folha Mercado",
+    "publicado": "31/07 09:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A aceleração da inflação na zona do euro aumenta a probabilidade de o BCE manter uma postura mais restritiva em relação aos juros. Se os dados de inflação continuarem acima do esperado, o BCE pode sinalizar mais aumentos de juros, impactando o crescimento econômico da região.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785503771.1591477,
+    "titulo": "Abertura | B3 adia abertura do índice futuro, dólar e juros; bolsas globais avançam - InvesTalk",
+    "titulo_original": "Abertura | B3 adia abertura do índice futuro, dólar e juros; bolsas globais avançam - InvesTalk",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/07 09:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O adiamento da abertura de negociações na B3 por problemas técnicos pode gerar incertezas no mercado doméstico. Se os problemas técnicos persistirem, isso pode afetar a liquidez e a formação de preços dos ativos brasileiros; no entanto, o avanço das bolsas globais pode oferecer um suporte inicial ao mercado local quando as negociações forem retomadas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785503771.1605074,
+    "titulo": "B3 atrasa abertura de ativos após problemas na Câmara; contratos futuros em leilão - InfoMoney",
+    "titulo_original": "B3 atrasa abertura de ativos após problemas na Câmara; contratos futuros em leilão - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "31/07 09:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Problemas técnicos na B3, relacionados a questões na Câmara, causaram o atraso na abertura de negociações e colocaram contratos futuros em leilão. Se a resolução dos problemas for rápida, o impacto no mercado pode ser limitado; contudo, se a instabilidade persistir, isso pode gerar volatilidade e afetar a confiança dos investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785503771.1618614,
+    "titulo": "B3 posterga abertura de negócios por problemas técnicos na clearing",
+    "titulo_original": "B3 posterga abertura de negócios por problemas técnicos na clearing",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 09:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O adiamento da abertura de negociações de Mini Índice e Mini Dólar na B3 por problemas técnicos na clearing pode gerar volatilidade no mercado de derivativos. Se a resolução dos problemas for rápida, o impacto será pontual; no entanto, se a falha se prolongar, isso pode afetar a liquidez e a confiança dos participantes do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785503771.1632366,
+    "titulo": "Negociações na B3 vão começar mais tarde hoje: entenda os motivos - Exame",
+    "titulo_original": "Negociações na B3 vão começar mais tarde hoje: entenda os motivos - Exame",
+    "fonte": "Google News Acoes",
+    "publicado": "31/07 09:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O atraso no início das negociações na B3 por problemas técnicos pode gerar um início de pregão volátil. Se a causa dos problemas for rapidamente identificada e corrigida, o impacto no mercado será limitado; contudo, se a instabilidade persistir, isso pode afetar a liquidez e a confiança dos investidores no sistema.",
+    "is_stocks": true
   }
 ]
