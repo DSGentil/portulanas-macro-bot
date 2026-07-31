@@ -1,78 +1,5 @@
 [
   {
-    "_timestamp": 1785411060.6783354,
-    "titulo": "Índice de Confiança de Serviços recua 3 pontos em julho, para 87,8 pontos, diz FGV Ibre",
-    "titulo_original": "Índice de Confiança de Serviços recua 3 pontos em julho, para 87,8 pontos, diz FGV Ibre",
-    "fonte": "Valor Economico",
-    "publicado": "30/07 08:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda na confiança de serviços pode indicar uma desaceleração na atividade econômica do setor, com percepções negativas sobre a demanda futura. Se essa tendência se mantiver nos próximos meses, pode pressionar o Banco Central a reavaliar o ritmo de flexibilização monetária, caso a inflação não ceda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785411065.4488783,
-    "titulo": "Mercado de trabalho deve ditar a política monetária no médio prazo, avalia economista-chefe do Daycoval",
-    "titulo_original": "Mercado de trabalho deve ditar a política monetária no médio prazo, avalia economista-chefe do Daycoval",
-    "fonte": "Money Times",
-    "publicado": "30/07 08:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação de que o mercado de trabalho será o principal direcionador da política monetária sugere que o Banco Central continuará monitorando de perto os dados de emprego. Se o mercado de trabalho permanecer aquecido, isso pode justificar a manutenção da Selic em patamares mais elevados por mais tempo, mesmo com dados de inflação benignos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785411070.2679021,
-    "titulo": "Petróleo sobe mais de 7%, Fed mantém juros e mercado volta atenções ao PCE dos EUA - Canal Rural",
-    "titulo_original": "Petróleo sobe mais de 7%, Fed mantém juros e mercado volta atenções ao PCE dos EUA - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/07 05:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do Fed de manter os juros é um fator crucial para a política monetária global e pode influenciar o apetite a risco. A alta do petróleo, por sua vez, tem implicações inflacionárias. A divulgação do PCE nos EUA será fundamental para as próximas decisões do Fed e pode gerar volatilidade nos mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785411075.0837393,
-    "titulo": "Mercado questiona credibilidade de Warsh após decisão dividida no Fed - Valor Econômico",
-    "titulo_original": "Mercado questiona credibilidade de Warsh após decisão dividida no Fed - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/07 05:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A credibilidade de decisões do Fed é fundamental para a estabilidade dos mercados. Uma decisão dividida pode gerar incertezas sobre a direção futura da política monetária americana. Se essa dúvida persistir, pode levar a maior volatilidade nos juros e no câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785411079.888271,
-    "titulo": "Ouro sobe após Fed manter juros e queda de taxa de Treasuries curtos favorecer metal",
-    "titulo_original": "Ouro sobe após Fed manter juros e queda de taxa de Treasuries curtos favorecer metal",
-    "fonte": "Valor Economico",
-    "publicado": "30/07 08:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do Fed de manter os juros e a consequente queda nos rendimentos de Treasuries de curto prazo criam um ambiente favorável para o ouro como ativo de refúgio. Se o Fed sinalizar uma postura mais dovish nas próximas comunicações, o ouro pode continuar a se valorizar, impactando o apetite a risco global.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1785417354.6718605,
     "titulo": "Dólar abre a R$ 5,10, influenciado por IGP-M, taxa de desemprego e balanços - UOL Economia",
     "titulo_original": "Dólar abre a R$ 5,10, influenciado por IGP-M, taxa de desemprego e balanços - UOL Economia",
@@ -1116,6 +1043,119 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A recuperação do Ibovespa após o atraso na abertura da B3 sugere que o mercado brasileiro está buscando se alinhar com o otimismo externo. No entanto, a recorrência de falhas técnicas pode minar a confiança dos investidores na infraestrutura do mercado local, impactando a percepção de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785522991.2215557,
+    "titulo": "Qual deve ser o valor do salário mínimo em 2027?",
+    "titulo_original": "Qual deve ser o valor do salário mínimo em 2027?",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 15:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Se o PLDO for aprovado sem alterações significativas, o reajuste proposto para o salário mínimo em 2027 se concretizará. Caso o INPC divulgado em novembro venha substancialmente acima ou abaixo do projetado, o valor final poderá ser ajustado, impactando programas sociais e o poder de compra.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785522995.7611246,
+    "titulo": "O que está por trás do pico do Treasury de 30 anos, que opera no maior nível em 19 anos nesta sexta-feira (31)",
+    "titulo_original": "O que está por trás do pico do Treasury de 30 anos, que opera no maior nível em 19 anos nesta sexta-feira (31)",
+    "fonte": "Money Times",
+    "publicado": "31/07 15:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nos rendimentos dos Treasuries de longo prazo pode indicar expectativas de juros mais altos por um período prolongado nos EUA. Se essa tendência se mantiver, pode pressionar outros mercados globais e aumentar o custo de captação para empresas e governos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785523000.3357804,
+    "titulo": "Trump diz 'não ter certeza' se permitirá que Ucrânia produza sistema antiaéreo - Folha de S.Paulo",
+    "titulo_original": "Trump diz 'não ter certeza' se permitirá que Ucrânia produza sistema antiaéreo - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "31/07 15:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre a produção de sistemas antiaéreos pela Ucrânia pode influenciar o desenrolar do conflito e a dinâmica de alianças internacionais. Se essa postura se confirmar, pode afetar o fornecimento de armamentos e a capacidade de defesa ucraniana.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785523004.936905,
+    "titulo": "Trump diz que campanha contra tribunal é para defender Netanyahu, não a si próprio",
+    "titulo_original": "Trump diz que campanha contra tribunal é para defender Netanyahu, não a si próprio",
+    "fonte": "Valor Economico",
+    "publicado": "31/07 15:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre a motivação da campanha contra o Tribunal Penal Internacional adiciona uma camada de complexidade às relações diplomáticas e à percepção da política externa dos EUA. Se essa justificativa for vista como um indicativo de alinhamento com Israel, pode ter implicações nas negociações regionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785523010.5906446,
+    "titulo": "B3 adia abertura do mercado após atraso no processamento de operações - O GLOBO",
+    "titulo_original": "B3 adia abertura do mercado após atraso no processamento de operações - O GLOBO",
+    "fonte": "Google News Acoes",
+    "publicado": "31/07 10:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A falha operacional na B3 expôs uma fragilidade no sistema de negociação, gerando incerteza e possíveis impactos na liquidez do mercado. Se incidentes semelhantes ocorrerem com frequência, a confiança dos investidores na infraestrutura da bolsa pode ser abalada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785523010.592485,
+    "titulo": "B3 fica horas fora do ar, expondo fragilidade - Brazil Journal",
+    "titulo_original": "B3 fica horas fora do ar, expondo fragilidade - Brazil Journal",
+    "fonte": "Google News Acoes",
+    "publicado": "31/07 13:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A interrupção prolongada dos serviços da B3 levanta preocupações sobre a robustez de sua infraestrutura tecnológica. Se a bolsa não implementar melhorias significativas, a repetição de tais falhas pode afetar a percepção de segurança e eficiência do mercado brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785523010.5942369,
+    "titulo": "O que está por trás da abertura tardia da B3?",
+    "titulo_original": "O que está por trás da abertura tardia da B3?",
+    "fonte": "Money Times",
+    "publicado": "31/07 14:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A falha operacional que atrasou a abertura da B3 por mais de duas horas levanta sérias questões sobre a resiliência de seus sistemas. Se a bolsa não conseguir garantir a estabilidade de suas operações, isso pode minar a confiança dos participantes do mercado e gerar custos adicionais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785523010.596004,
+    "titulo": "O que aconteceu com a bolsa? B3 atrasa abertura de negócios nesta sexta - G1",
+    "titulo_original": "O que aconteceu com a bolsa? B3 atrasa abertura de negócios nesta sexta - G1",
+    "fonte": "Google News Acoes",
+    "publicado": "31/07 11:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O atraso na abertura da B3 devido a falhas técnicas é um evento que afeta diretamente a liquidez e a eficiência do mercado. Se a bolsa não resolver rapidamente as causas dessas falhas, a credibilidade de sua infraestrutura pode ser comprometida, impactando a percepção dos investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785523010.5978277,
+    "titulo": "Santander (SANB11) dispara 13% e ‘queima’ parte de prêmio com OPA",
+    "titulo_original": "Santander (SANB11) dispara 13% e ‘queima’ parte de prêmio com OPA",
+    "fonte": "Money Times",
+    "publicado": "31/07 14:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta das ações do Santander reflete a precificação da oferta de fechamento de capital. Se a OPA for concluída conforme o esperado, as ações deixarão de ser negociadas em bolsa, e o prêmio oferecido pode ser considerado um evento pontual para os acionistas.",
     "is_stocks": true
   }
 ]
