@@ -486,5 +486,91 @@
     "origem": "domestica",
     "leitura_critica": "A revisão do BofA sugere um cenário mais favorável para cortes de juros, com projeções de inflação mais baixas. Se o Copom seguir essa linha, pode haver um estímulo à economia; caso contrário, a manutenção de juros altos pode persistir.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785794449.4637227,
+    "titulo": "Superquarta: Como posicionar seus investimentos antes da decisão do Copom - CNN Brasil",
+    "titulo_original": "Superquarta: Como posicionar seus investimentos antes da decisão do Copom - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/08 16:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa em torno da decisão do Copom é um fator chave para o mercado financeiro. A forma como os investidores se posicionarem antes do anúncio pode indicar as apostas sobre a direção futura da taxa Selic.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785794454.3083255,
+    "titulo": "Produção de petróleo e gás cresce 19,2% e atinge recorde histórico no Brasil - oglobo.globo.com",
+    "titulo_original": "Produção de petróleo e gás cresce 19,2% e atinge recorde histórico no Brasil - oglobo.globo.com",
+    "fonte": "Google News Commodities",
+    "publicado": "03/08 17:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento expressivo na produção de petróleo e gás indica um forte desempenho do setor energético brasileiro. Se essa tendência se mantiver, pode ter implicações positivas na balança comercial e na arrecadação fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785794458.9854848,
+    "titulo": "Subvenção ao diesel após guerra no Irã já custa R$ 7 bilhões, diz ANP",
+    "titulo_original": "Subvenção ao diesel após guerra no Irã já custa R$ 7 bilhões, diz ANP",
+    "fonte": "Folha Mercado",
+    "publicado": "03/08 18:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O alto custo da subvenção ao diesel representa um impacto fiscal significativo. Se a guerra no Irã persistir e os preços do petróleo continuarem elevados, o governo poderá ter que arcar com custos ainda maiores, pressionando o orçamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785794463.689562,
+    "titulo": "Dólar sobe a R$ 5,08, e Bolsa fica estável com provável queda de juros - UOL Economia",
+    "titulo_original": "Dólar sobe a R$ 5,08, e Bolsa fica estável com provável queda de juros - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/08 17:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar e a estabilidade da Bolsa, em um contexto de expectativa de queda de juros, podem indicar uma busca por ativos mais seguros ou uma precificação de cenário de juros mais baixos que ainda não se concretizou. Se a queda de juros for confirmada, pode haver um fluxo de capital para a renda variável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785794469.3305204,
+    "titulo": "Dólar fecha em alta e Ibovespa termina estável apesar de euforia em NY e forte recuo do petróleo",
+    "titulo_original": "Dólar fecha em alta e Ibovespa termina estável apesar de euforia em NY e forte recuo do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "03/08 18:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar e a estabilidade do Ibovespa, em um dia de euforia em NY e queda do petróleo, indicam um movimento de ajuste global da moeda americana e a precificação de riscos. A queda dos juros futuros sugere que o mercado pode estar antecipando um cenário de juros mais baixos ou menor prêmio de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785794469.331525,
+    "titulo": "investingLive Americas FX news wrap 3 Aug: Risk-On Returns to Wall Street",
+    "titulo_original": "investingLive Americas FX news wrap 3 Aug: Risk-On Returns to Wall Street",
+    "fonte": "ForexLive",
+    "publicado": "03/08 18:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O retorno do apetite por risco em Wall Street e a melhora na projeção do PIB americano podem indicar um cenário econômico mais robusto nos EUA. Se os dados de ISM Manufacturing PMI confirmarem essa tendência, o otimismo no mercado pode se sustentar.",
+    "is_stocks": true
   }
 ]
