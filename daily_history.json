@@ -193,5 +193,99 @@
     "origem": "domestica",
     "leitura_critica": "A valorização do dólar no fechamento de julho pode indicar um movimento de aversão ao risco ou fluxo de capital para fora do país. O avanço do Ibovespa, por outro lado, sugere um otimismo pontual no mercado acionário brasileiro, mas a divergência entre os movimentos merece atenção.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785770371.1050675,
+    "titulo": "Troca de ônibus a diesel por movidos a biometano pode atrair R$ 69 bi em investimentos, estima Abren",
+    "titulo_original": "Troca de ônibus a diesel por movidos a biometano pode atrair R$ 69 bi em investimentos, estima Abren",
+    "fonte": "Valor Economico",
+    "publicado": "03/08 11:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O potencial de investimento de R$ 69 bilhões na transição para ônibus a biometano demonstra um movimento significativo em direção à descarbonização do transporte público. Se os desafios de infraestrutura de distribuição e abastecimento forem superados, essa transição pode gerar oportunidades de negócios e reduzir a dependência de combustíveis fósseis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785770375.140015,
+    "titulo": "Focus mantém dólar de 2026 em R$ 5,20 e ajusta 2027 para R$ 5,28",
+    "titulo_original": "Focus mantém dólar de 2026 em R$ 5,20 e ajusta 2027 para R$ 5,28 - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/08 09:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da projeção do dólar para 2026 e o ajuste para 2027 na pesquisa Focus podem refletir as expectativas do mercado em relação à política monetária e ao cenário econômico brasileiro. Se as taxas de juros permanecerem elevadas, isso pode sustentar o câmbio em patamares mais altos no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785770379.116037,
+    "titulo": "Williams, do Fed, espera que inflação diminua e afirma que tomará medidas caso isso não ocorra",
+    "titulo_original": "Williams, do Fed, espera que inflação diminua e afirma que tomará medidas caso isso não ocorra - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/08 09:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de John Williams, do Fed, indica que o banco central está atento à inflação e preparado para agir se as expectativas não se concretizarem. Se a inflação persistir em níveis elevados, o Fed pode ser forçado a manter uma postura mais restritiva em relação aos juros; caso contrário, uma desaceleração inflacionária pode abrir espaço para cortes nas taxas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785770383.270754,
+    "titulo": "Juros dos Treasuries têm forte recuo com o alívio nos preços do petróleo",
+    "titulo_original": "Juros dos Treasuries têm forte recuo com o alívio nos preços do petróleo - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "03/08 08:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nos juros dos Treasuries, impulsionada pela redução nos preços do petróleo, sugere que o mercado precifica um menor risco inflacionário. Se o petróleo continuar em trajetória de queda e a inflação ceder, isso pode abrir espaço para o Federal Reserve considerar cortes nas taxas de juros no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785770388.7613084,
+    "titulo": "Amazon entra para grupo de elite de ações que ultrapassaram US$ 3 trilhões em valor de mercado",
+    "titulo_original": "Amazon entra para grupo de elite de ações que ultrapassaram US$ 3 trilhões em valor de mercado - O GLOBO",
+    "fonte": "Google News Acoes",
+    "publicado": "03/08 11:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Atingir um valor de mercado de US$ 3 trilhões é um feito notável para a Amazon, refletindo forte desempenho e confiança do mercado. Se a empresa conseguir manter essa trajetória de crescimento e inovação, isso pode continuar a impulsionar o setor de tecnologia e influenciar o desempenho de outros grandes players do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785770388.7619567,
+    "titulo": "Aéreas e fabricantes de aviões adotam medidas preventivas por escassez de componentes",
+    "titulo_original": "Aéreas e fabricantes de aviões adotam medidas preventivas por escassez de componentes",
+    "fonte": "Valor Economico",
+    "publicado": "03/08 11:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escassez de componentes para aeronaves e as medidas preventivas adotadas pelo setor podem levar a atrasos na produção e na manutenção de aviões. Se a oferta desses componentes não for normalizada rapidamente, isso pode impactar a capacidade operacional das companhias aéreas e os prazos de entrega de novas aeronaves.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785770388.7624824,
+    "titulo": "Galapagos Capital coloca em oferta ETFs atrelados a NTN-Bs com prazos constantes",
+    "titulo_original": "Galapagos Capital coloca em oferta ETFs atrelados a NTN-Bs com prazos constantes",
+    "fonte": "Valor Economico",
+    "publicado": "03/08 12:07",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A oferta de ETFs atrelados a NTN-Bs com prazos constantes pode indicar uma busca por produtos de renda fixa com previsibilidade de retorno. Se a demanda por esses produtos se mantiver alta, pode sinalizar um interesse crescente em estratégias de investimento de longo prazo no mercado de juros brasileiro.",
+    "is_stocks": true
   }
 ]
