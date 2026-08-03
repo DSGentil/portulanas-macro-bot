@@ -393,5 +393,98 @@
     "origem": "ambas",
     "leitura_critica": "A desvalorização do petróleo, um fator externo, afeta diretamente empresas brasileiras como Petrobras e Vale, impactando o Ibovespa e o real. A notícia também menciona que as taxas futuras de juros recuam, alinhadas com a dinâmica externa, indicando uma possível influência no cenário de juros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785781851.1938481,
+    "titulo": "Quase 40% da indústria prevê aumento do endividamento bancário nos próximos três meses",
+    "titulo_original": "Quase 40% da indústria prevê aumento do endividamento bancário nos próximos três meses",
+    "fonte": "Valor Economico",
+    "publicado": "03/08 14:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pesquisa da CNI indica que a taxa de juros elevada continua a pressionar o setor industrial, levando a um aumento projetado no endividamento. Se os juros permanecerem altos, o endividamento pode se tornar um obstáculo para o crescimento da indústria.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785781855.6925287,
+    "titulo": "Flávio Bolsonaro defende ‘gatilho fiscal’ atrelado à dívida pública para cortar despesas",
+    "titulo_original": "Flávio Bolsonaro defende ‘gatilho fiscal’ atrelado à dívida pública para cortar despesas",
+    "fonte": "Money Times",
+    "publicado": "03/08 14:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de Flávio Bolsonaro de um 'gatilho fiscal' visa controlar o endividamento público através de cortes automáticos de despesas. Se essa regra for implementada, pode haver uma maior disciplina fiscal, mas também o risco de cortes que afetem serviços públicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785781860.1421947,
+    "titulo": "Daniella Marques evita falar sobre definição para vice de Flávio e propõe corte de 1,5% do PIB",
+    "titulo_original": "Daniella Marques evita falar sobre definição para vice de Flávio e propõe corte de 1,5% do PIB",
+    "fonte": "Valor Economico",
+    "publicado": "03/08 14:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Daniella Marques sobre a proposta de corte de 1,5% do PIB indica uma prioridade em ajuste fiscal para um eventual governo. Se essa proposta for implementada, pode haver um impacto significativo nas contas públicas, mas a definição da vice na chapa permanece incerta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785781864.6440206,
+    "titulo": "Trump: Conversas estão acontecendo agora. Esta é a última chance (de novo).",
+    "titulo_original": "Trump: Talks are going on now. This is the last chance (again).",
+    "fonte": "ForexLive",
+    "publicado": "03/08 15:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As declarações de Trump sobre o Irã e o petróleo indicam uma postura de negociação intensa, com potencial para volatilidade nos mercados de energia. Se as conversas resultarem em um acordo para abrir o Estreito, isso poderia aliviar as tensões geopolíticas na região.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785781930.4601593,
+    "titulo": "Embraer (EMBJ3): Ações sobem com financiamento do BNDES, voo da Eve e novo pedido no radar; veja",
+    "titulo_original": "Embraer (EMBJ3): Ações sobem com financiamento do BNDES, voo da Eve e novo pedido no radar; veja",
+    "fonte": "Money Times",
+    "publicado": "03/08 15:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A performance positiva das ações da Embraer reflete um conjunto de notícias favoráveis para a empresa, incluindo apoio financeiro e avanços tecnológicos. Se a subsidiária Eve concretizar novos pedidos, isso pode impulsionar ainda mais o valor das ações da Embraer.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785781930.4608366,
+    "titulo": "Brava, PRIO, PetroRecôncavo e Petrobras caem forte com derrocada do petróleo - InfoMoney",
+    "titulo_original": "Brava, PRIO, PetroRecôncavo e Petrobras caem forte com derrocada do petróleo - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "03/08 10:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada no preço do petróleo impactou negativamente as ações de empresas do setor de energia. Se o petróleo continuar em trajetória de baixa, isso pode afetar os resultados financeiros dessas companhias e o desempenho do setor na bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785781930.4616163,
+    "titulo": "BofA vê mais espaço para cortes da Selic e reduz projeção da inflação; veja as novas estimativas",
+    "titulo_original": "BofA vê mais espaço para cortes da Selic e reduz projeção da inflação; veja as novas estimativas",
+    "fonte": "Money Times",
+    "publicado": "03/08 14:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão do BofA sugere um cenário mais favorável para cortes de juros, com projeções de inflação mais baixas. Se o Copom seguir essa linha, pode haver um estímulo à economia; caso contrário, a manutenção de juros altos pode persistir.",
+    "is_stocks": true
   }
 ]
