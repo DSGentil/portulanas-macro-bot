@@ -1,200 +1,5 @@
 [
   {
-    "_timestamp": 1785754845.0048392,
-    "titulo": "Dívida pública em alta vai exigir negociação de medidas logo após as eleições",
-    "titulo_original": "Dívida pública em alta vai exigir negociação de medidas logo após as eleições",
-    "fonte": "Folha Mercado",
-    "publicado": "02/08 23:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da dívida pública brasileira impõe a necessidade de ajustes fiscais. Se o próximo governo não apresentar um plano de medidas eficazes logo após as eleições, a trajetória da dívida pode se tornar insustentável, pressionando os juros e a confiança dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785754848.4568033,
-    "titulo": "Calendário econômico da semana: Copom e payroll ditam o humor do mercado",
-    "titulo_original": "Calendário econômico da semana: Copom e payroll ditam o humor do mercado - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/08 17:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As decisões do Copom e os dados de payroll são indicadores cruciais para o mercado. Se o Copom sinalizar um aperto monetário mais agressivo, isso pode pressionar os juros; se o payroll vier abaixo do esperado, pode indicar desaceleração da economia americana, com possíveis reflexos globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785754851.8991718,
-    "titulo": "Opinião - De Grão em Grão: A Selic sozinha não faz verão - Folha de S.Paulo",
-    "titulo_original": "Opinião - De Grão em Grão: A Selic sozinha não faz verão - Folha de S.Paulo",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/08 18:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A opinião de que a Selic isoladamente não garante o aquecimento econômico sugere que outros fatores, como a inflação e a atividade econômica, precisam ser considerados. Se as políticas monetárias não forem acompanhadas por medidas que estimulem a demanda e a produção, a eficácia da taxa de juros pode ser limitada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785754855.3072767,
-    "titulo": "Petróleo despenca e futuros dos EUA avançam com negociações entre EUA e Irã",
-    "titulo_original": "Petróleo despenca e futuros dos EUA avançam com negociações entre EUA e Irã - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "02/08 19:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda no preço do petróleo, impulsionada pelas negociações entre EUA e Irã, sugere um alívio nas tensões geopolíticas. Se essa tendência se mantiver, pode beneficiar países importadores de petróleo e reduzir pressões inflacionárias globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785754860.246996,
-    "titulo": "PMI de manufatura da China da RatingDog cai para 50,9, oitavo mês de crescimento",
-    "titulo_original": "China's RatingDog manufacturing PMI eases to 50.9, eighth month of growth",
-    "fonte": "ForexLive",
-    "publicado": "02/08 22:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração do PMI de manufatura da China, embora ainda em território de expansão, pode sinalizar uma demanda global mais moderada por bens industriais. Se a acumulação de estoques de insumos continuar a limitar a atividade de compra, isso pode impactar a demanda por commodities industriais nos próximos meses.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785754860.2473106,
-    "titulo": "Ciclo de crescimento chama atenção e Embraer pode mudar de patamar, avalia The Economist",
-    "titulo_original": "Ciclo de crescimento chama atenção e Embraer pode mudar de patamar, avalia The Economist",
-    "fonte": "InvestNews",
-    "publicado": "02/08 17:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva positiva para a Embraer, impulsionada por um ciclo de crescimento, sugere um desempenho favorável para a empresa. Se a empresa conseguir manter essa trajetória, o setor aeroespacial pode se beneficiar, mas a sustentabilidade desse crescimento dependerá de fatores macroeconômicos e da demanda global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785756652.0725677,
-    "titulo": "Independentemente da eleição, 2027 será um ano de cortes de juros, diz Bahia Asset",
-    "titulo_original": "Independentemente da eleição, 2027 será um ano de cortes de juros, diz Bahia Asset",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 05:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção da Bahia Asset sobre cortes de juros em 2027, independentemente do resultado eleitoral, sugere uma visão de convergência para uma política monetária mais expansionista. Se as condições econômicas permitirem essa queda, pode haver um estímulo à atividade e ao investimento no médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785756656.195645,
-    "titulo": "PIB da cadeia da soja e biodiesel deve crescer 6,87% em 2026",
-    "titulo_original": "PIB da cadeia da soja e biodiesel deve crescer 6,87% em 2026 - brasilagro.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "03/08 05:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento projetado para a cadeia da soja e biodiesel é um indicador positivo para o agronegócio brasileiro. Se as condições climáticas e de mercado se mantiverem favoráveis, essa projeção pode ser atingida, impulsionando a atividade econômica do setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785756660.3667839,
-    "titulo": "Vale comprar ações no Brasil com juro real acima de 8%? XP diz que sim e os motivos",
-    "titulo_original": "Vale comprar ações no Brasil com juro real acima de 8%? XP diz que sim e os motivos - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "03/08 05:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação da XP sobre a compra de ações em um cenário de juros reais elevados sugere que a análise do banco considera o potencial de retorno das empresas superior ao custo de oportunidade da renda fixa. Se as projeções de lucros das empresas se concretizarem, essa estratégia pode ser vantajosa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785756664.5749922,
-    "titulo": "Ministério das Relações Exteriores do Irã diz que não há plano para delegação em conversas com os EUA nos próximos dias",
-    "titulo_original": "Iran foreign ministry spokesperson says no plan for a delegation on talks with the US in the coming days",
-    "fonte": "ForexLive",
-    "publicado": "03/08 05:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração do Irã sobre a ausência de conversas diretas com os EUA pode manter a tensão geopolítica elevada. Se as negociações com Omã para a rota marítima avançarem, isso pode aliviar parte da pressão sobre o estreito de Hormuz, mas a ausência de diálogo com os EUA sugere que o cenário de risco permanece.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785756670.168305,
-    "titulo": "Bolsas da Ásia recuam com baixa nas ações relacionadas à inteligência artificial",
-    "titulo_original": "Bolsas da Ásia recuam com baixa nas ações relacionadas à inteligência artificial",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 07:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda nas ações de tecnologia na Ásia reflete um movimento global, indicando uma reavaliação de valuations no setor de IA. Se essa tendência de correção se estender para outros mercados, pode sinalizar um ajuste no apetite por risco em ações de tecnologia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785756670.168777,
-    "titulo": "BDRs: 12 ações internacionais para lucrar em agosto, segundo a Empiricus",
-    "titulo_original": "BDRs: 12 ações internacionais para lucrar em agosto, segundo a Empiricus",
-    "fonte": "Money Times",
-    "publicado": "03/08 08:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recomendação de BDRs pela Empiricus reflete a visão de analistas sobre o desempenho de ações internacionais. A inclusão de empresas de tecnologia e financeiras sugere uma aposta em setores com potencial de crescimento, mas a performance dependerá dos resultados corporativos e do cenário macro global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785756670.169215,
-    "titulo": "Queda forte do petróleo, dólar Ibovespa, mais agenda e pílulas da economia 03.07",
-    "titulo_original": "Queda forte do petróleo, dólar Ibovespa, mais agenda e pílulas da economia 03.07 - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/08 07:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do petróleo pode ter implicações para a inflação e para países exportadores de commodities. A relação dólar/Ibovespa é um indicador de fluxo de capital e sentimento do mercado. A agenda econômica detalhará os próximos eventos a serem acompanhados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785756670.169742,
-    "titulo": "Dividendos de até 12,3%: BB Investimentos indica 10 ações para agosto; confira",
-    "titulo_original": "Dividendos de até 12,3%: BB Investimentos indica 10 ações para agosto; confira",
-    "fonte": "Money Times",
-    "publicado": "03/08 08:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A carteira recomendada de dividendos pelo BB Investimentos reflete a análise do banco sobre ações com potencial de retorno. A seleção de empresas de setores variados indica uma estratégia diversificada para investidores que buscam renda passiva, mas a performance dependerá dos resultados corporativos e do cenário de mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785756670.1701512,
-    "titulo": "Dólar sobe no último pregão de julho; Ibovespa avança",
-    "titulo_original": "Dólar sobe no último pregão de julho; Ibovespa avança - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/08 03:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do dólar no fechamento de julho pode indicar um movimento de aversão ao risco ou fluxo de capital para fora do país. O avanço do Ibovespa, por outro lado, sugere um otimismo pontual no mercado acionário brasileiro, mas a divergência entre os movimentos merece atenção.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785770371.1050675,
     "titulo": "Troca de ônibus a diesel por movidos a biometano pode atrair R$ 69 bi em investimentos, estima Abren",
     "titulo_original": "Troca de ônibus a diesel por movidos a biometano pode atrair R$ 69 bi em investimentos, estima Abren",
@@ -1032,6 +837,93 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A renovação de recordes nas bolsas europeias sugere um otimismo generalizado no mercado acionário global, impulsionado por fatores corporativos e geopolíticos. Se os balanços continuarem fortes e a tensão no Oriente Médio diminuir, o cenário positivo pode se sustentar; caso contrário, a volatilidade pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785868325.5137713,
+    "titulo": "Dólar PTAX (04/08): cotação fecha em alta",
+    "titulo_original": "Dólar PTAX (04/08): cotação fecha em alta - trademap.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 13:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O fechamento do dólar PTAX em alta indica uma valorização da moeda americana frente ao real. Se essa tendência se mantiver, pode pressionar a inflação de importados e sinalizar um cenário de maior aversão ao risco no mercado doméstico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785868329.396158,
+    "titulo": "Múcio defende mais recursos para Forças Armadas e diz que se EUA invadirem Brasil o melhor é ‘abrir o portão’",
+    "titulo_original": "Múcio defende mais recursos para Forças Armadas e diz que se EUA invadirem Brasil o melhor é ‘abrir o portão’",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 14:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro da Defesa sobre a capacidade das Forças Armadas reflete uma preocupação com o orçamento de defesa. Se o governo não aumentar o investimento, a capacidade de resposta a potenciais ameaças pode ser comprometida, embora o cenário de invasão seja hipotético e de baixa probabilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785868333.166834,
+    "titulo": "Dirigente do Fed alerta sobre inflação e diz ser \"mente aberta\" sobre juros",
+    "titulo_original": "Dirigente do Fed alerta sobre inflação e diz ser \"mente aberta\" sobre juros - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 13:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O alerta sobre inflação e a postura de \"mente aberta\" do Fed sugerem que o banco central americano pode manter uma postura cautelosa em relação a cortes de juros. Se os dados de inflação continuarem elevados, o Fed pode adiar ou moderar qualquer ciclo de afrouxamento monetário, impactando mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785868336.929505,
+    "titulo": "Departamento de Estado dos EUA: últimas negociações Líbano-Israel começaram hoje e continuarão até 6 de agosto",
+    "titulo_original": "US State Dept: Latest Lebanon-Israel talks began today and will continue through Aug 6",
+    "fonte": "ForexLive",
+    "publicado": "04/08 14:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O avanço nas negociações entre Líbano e Israel pode aliviar tensões geopolíticas na região. Se um acordo for alcançado, isso poderia ter um impacto positivo no sentimento de risco global, potencialmente influenciando fluxos de capital para mercados emergentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785868401.6262715,
+    "titulo": "Índice de Bolsa da UE atinge maior patamar da sua história",
+    "titulo_original": "Índice de Bolsa da UE atinge maior patamar da sua história",
+    "fonte": "Folha Mercado",
+    "publicado": "04/08 14:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O recorde histórico do STOXX 600 sugere um otimismo generalizado no mercado europeu, impulsionado por fatores específicos de tecnologia e resultados corporativos. Se essa tendência se mantiver, pode indicar um apetite a risco global que, em teoria, poderia beneficiar outros mercados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785868401.6278327,
+    "titulo": "Ouro sobe mais de 1% e volta ao nível de US$ 4,1 mil; Goldman Sachs vê ponto de entrada atraente",
+    "titulo_original": "Ouro sobe mais de 1% e volta ao nível de US$ 4,1 mil; Goldman Sachs vê ponto de entrada atraente",
+    "fonte": "Money Times",
+    "publicado": "04/08 15:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do ouro, associada à queda do petróleo e dos rendimentos dos Treasuries, sugere um movimento de busca por segurança. Se as tensões geopolíticas persistirem ou se houver novas incertezas fiscais nos EUA, o ouro pode continuar a se valorizar, atraindo capital para ativos de refúgio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785868401.6293037,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa perde fôlego e passa a oscilar",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa perde fôlego e passa a oscilar - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "04/08 13:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A perda de fôlego do Ibovespa sugere que o otimismo inicial pode estar se dissipando, com investidores aguardando novos catalisadores. Se o cenário externo se deteriorar ou se surgirem incertezas fiscais domésticas, a bolsa pode reverter a tendência de alta.",
     "is_stocks": true
   }
 ]
