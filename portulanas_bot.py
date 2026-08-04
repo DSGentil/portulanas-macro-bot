@@ -1409,7 +1409,6 @@ def format_alert(group, representative_item, analysis):
     header = (
         f"{emoji} <b><a href=\"{link_principal}\">{titulo_exibido}</a></b>\n"
         f"<i>{representative_item['source']} · {pub}</i>\n\n"
-        f"{analysis['resumo']}\n\n"
     )
 
     # Canal e Origem juntos numa unica linha (antes eram 2 linhas
@@ -1701,7 +1700,7 @@ def main():
 
         # Quantidade maxima de itens de RV agregados no bloco
         # consolidado (resumo unico cobrindo varias noticias).
-        MAX_STOCKS_IN_BLOCK = 5
+        MAX_STOCKS_IN_BLOCK = 7
 
         selected_general = []
         selected_stocks = []
