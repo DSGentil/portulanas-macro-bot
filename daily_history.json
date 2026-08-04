@@ -672,5 +672,89 @@
     "origem": "domestica",
     "leitura_critica": "A expectativa de lucro do Itaú em um cenário de juros elevados sugere que o setor bancário brasileiro tem conseguido se adaptar. Se o lucro efetivo vier dentro ou acima das projeções, isso pode indicar resiliência do setor financeiro doméstico, mas a menção a 'notícias não tão boas' requer acompanhamento do balanço completo para uma análise mais aprofundada.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785843061.8409462,
+    "titulo": "Copom inicia reunião para definir juros; mercado projeta novos cortes na Selic até o fim de 2026 - OpiniãoCE",
+    "titulo_original": "Copom inicia reunião para definir juros; mercado projeta novos cortes na Selic até o fim de 2026 - OpiniãoCE",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 07:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de novos cortes na Selic pelo Copom pode sinalizar uma política monetária expansionista. Se a inflação se mantiver sob controle, os cortes podem ocorrer conforme projetado; caso contrário, o Copom pode pausar ou reverter a tendência de queda dos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785843066.2923954,
+    "titulo": "Inflação deve ajudar Copom a cortar Selic a 14%; será o último corte do ano?",
+    "titulo_original": "Inflação deve ajudar Copom a cortar Selic a 14%; será o último corte do ano? - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de um corte na Selic para 14% devido à inflação controlada sugere um cenário de política monetária mais flexível. Se a inflação continuar a ceder, o Copom pode realizar mais cortes; se houver pressões inflacionárias inesperadas, o ciclo de cortes pode ser interrompido.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785843070.818173,
+    "titulo": "IPCA+ 8,4%: BB seleciona 5 títulos de crédito privado para agosto; confira",
+    "titulo_original": "IPCA+ 8,4%: BB seleciona 5 títulos de crédito privado para agosto; confira",
+    "fonte": "Money Times",
+    "publicado": "04/08 08:17",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A seleção de títulos de crédito privado indexados ao IPCA sugere uma expectativa de inflação persistente. Se o IPCA continuar a apresentar volatilidade, esses títulos podem oferecer proteção; caso a inflação ceda mais rapidamente do que o esperado, outros tipos de investimento podem se tornar mais atrativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785843075.3162775,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "04/08 03:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Os dados econômicos de hoje, embora de baixo impacto na Europa, podem fornecer pistas sobre a saúde do mercado de trabalho nos EUA, influenciando as expectativas sobre o Fed. Se o relatório de Job Openings vier abaixo do esperado, pode reforçar a visão de que o mercado de trabalho americano está esfriando; se vier acima, pode gerar cautela quanto a futuras decisões de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785843141.6163123,
+    "titulo": "Na véspera de decisão de Copom, mercado acompanha produção industrial e emprego nos EUA",
+    "titulo_original": "Na véspera de decisão de Copom, mercado acompanha produção industrial e emprego nos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 08:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Acompanhar os dados de produção industrial e emprego nos EUA na véspera da decisão do Copom é crucial, pois esses indicadores podem influenciar a percepção de risco global e a política monetária brasileira. Se os dados americanos vierem fracos, isso pode reforçar a expectativa de cortes na Selic; se vierem fortes, pode gerar cautela no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785843141.6173184,
+    "titulo": "Manhã no mercado: Investidores monitoram Oriente Médio e aguardam dados no Brasil e nos EUA",
+    "titulo_original": "Manhã no mercado: Investidores monitoram Oriente Médio e aguardam dados no Brasil e nos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 08:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A volatilidade nos preços do petróleo, influenciada por declarações conflitantes sobre negociações no Oriente Médio, pode gerar incerteza no mercado de commodities. Se as tensões geopolíticas escalarem, o petróleo pode continuar sua trajetória de alta; caso contrário, uma resolução diplomática pode levar a uma correção nos preços.",
+    "is_stocks": true
   }
 ]
