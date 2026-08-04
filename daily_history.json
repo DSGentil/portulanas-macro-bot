@@ -1,99 +1,5 @@
 [
   {
-    "_timestamp": 1785770371.1050675,
-    "titulo": "Troca de ônibus a diesel por movidos a biometano pode atrair R$ 69 bi em investimentos, estima Abren",
-    "titulo_original": "Troca de ônibus a diesel por movidos a biometano pode atrair R$ 69 bi em investimentos, estima Abren",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 11:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O potencial de investimento de R$ 69 bilhões na transição para ônibus a biometano demonstra um movimento significativo em direção à descarbonização do transporte público. Se os desafios de infraestrutura de distribuição e abastecimento forem superados, essa transição pode gerar oportunidades de negócios e reduzir a dependência de combustíveis fósseis.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785770375.140015,
-    "titulo": "Focus mantém dólar de 2026 em R$ 5,20 e ajusta 2027 para R$ 5,28",
-    "titulo_original": "Focus mantém dólar de 2026 em R$ 5,20 e ajusta 2027 para R$ 5,28 - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/08 09:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da projeção do dólar para 2026 e o ajuste para 2027 na pesquisa Focus podem refletir as expectativas do mercado em relação à política monetária e ao cenário econômico brasileiro. Se as taxas de juros permanecerem elevadas, isso pode sustentar o câmbio em patamares mais altos no médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785770379.116037,
-    "titulo": "Williams, do Fed, espera que inflação diminua e afirma que tomará medidas caso isso não ocorra",
-    "titulo_original": "Williams, do Fed, espera que inflação diminua e afirma que tomará medidas caso isso não ocorra - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/08 09:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de John Williams, do Fed, indica que o banco central está atento à inflação e preparado para agir se as expectativas não se concretizarem. Se a inflação persistir em níveis elevados, o Fed pode ser forçado a manter uma postura mais restritiva em relação aos juros; caso contrário, uma desaceleração inflacionária pode abrir espaço para cortes nas taxas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785770383.270754,
-    "titulo": "Juros dos Treasuries têm forte recuo com o alívio nos preços do petróleo",
-    "titulo_original": "Juros dos Treasuries têm forte recuo com o alívio nos preços do petróleo - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "03/08 08:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nos juros dos Treasuries, impulsionada pela redução nos preços do petróleo, sugere que o mercado precifica um menor risco inflacionário. Se o petróleo continuar em trajetória de queda e a inflação ceder, isso pode abrir espaço para o Federal Reserve considerar cortes nas taxas de juros no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785770388.7613084,
-    "titulo": "Amazon entra para grupo de elite de ações que ultrapassaram US$ 3 trilhões em valor de mercado",
-    "titulo_original": "Amazon entra para grupo de elite de ações que ultrapassaram US$ 3 trilhões em valor de mercado - O GLOBO",
-    "fonte": "Google News Acoes",
-    "publicado": "03/08 11:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Atingir um valor de mercado de US$ 3 trilhões é um feito notável para a Amazon, refletindo forte desempenho e confiança do mercado. Se a empresa conseguir manter essa trajetória de crescimento e inovação, isso pode continuar a impulsionar o setor de tecnologia e influenciar o desempenho de outros grandes players do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785770388.7619567,
-    "titulo": "Aéreas e fabricantes de aviões adotam medidas preventivas por escassez de componentes",
-    "titulo_original": "Aéreas e fabricantes de aviões adotam medidas preventivas por escassez de componentes",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 11:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escassez de componentes para aeronaves e as medidas preventivas adotadas pelo setor podem levar a atrasos na produção e na manutenção de aviões. Se a oferta desses componentes não for normalizada rapidamente, isso pode impactar a capacidade operacional das companhias aéreas e os prazos de entrega de novas aeronaves.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785770388.7624824,
-    "titulo": "Galapagos Capital coloca em oferta ETFs atrelados a NTN-Bs com prazos constantes",
-    "titulo_original": "Galapagos Capital coloca em oferta ETFs atrelados a NTN-Bs com prazos constantes",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 12:07",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A oferta de ETFs atrelados a NTN-Bs com prazos constantes pode indicar uma busca por produtos de renda fixa com previsibilidade de retorno. Se a demanda por esses produtos se mantiver alta, pode sinalizar um interesse crescente em estratégias de investimento de longo prazo no mercado de juros brasileiro.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785775682.0701504,
     "titulo": "Esquenta do Copom: Sem surpresas ou sinais - XP Investimentos",
     "titulo_original": "Esquenta do Copom: Sem surpresas ou sinais - XP Investimentos",
@@ -1036,6 +942,144 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O compromisso de US$ 1,09 trilhão em aluguéis futuros por gigantes da tecnologia para data centers de IA demonstra a escala do investimento e da demanda por infraestrutura de computação. Se a demanda por IA continuar a crescer exponencialmente, isso pode sustentar o setor de tecnologia e impulsionar a inovação, mas também representa um risco caso a demanda não se materialize conforme o esperado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785880851.7946916,
+    "titulo": "Análise: O risco de um jogo de espelhos entre o Copom e o Focus - Valor Econômico",
+    "titulo_original": "Análise: O risco de um jogo de espelhos entre o Copom e o Focus - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 13:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise aponta para uma potencial desconexão entre as expectativas do mercado (Focus) e as decisões futuras do Copom, o que pode gerar volatilidade. Se o Copom surpreender o mercado com uma postura diferente da esperada, isso pode levar a ajustes significativos nas projeções de juros e impactar o comportamento de outros ativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785880856.4997406,
+    "titulo": "Mercado prevê novo corte da Selic, mas diverge sobre espaço para reduções até o fim do ano - Jornal do Comércio",
+    "titulo_original": "Mercado prevê novo corte da Selic, mas diverge sobre espaço para reduções até o fim do ano - Jornal do Comércio",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 15:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência no mercado sobre o ritmo de cortes da Selic sugere que a trajetória futura dos juros ainda é incerta e dependerá da evolução da inflação e da atividade econômica. Se o Banco Central sinalizar cautela em futuras reuniões, isso pode limitar o espaço para novas reduções e manter os juros em patamares mais elevados por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785880861.2138417,
+    "titulo": "Calendário econômico e de eventos na Ásia 05 de agosto de 2026 - Relatório de empregos da Nova Zelândia",
+    "titulo_original": "Economic and event calendar in Asia 05 August 2026 - New Zealand jobs report",
+    "fonte": "ForexLive",
+    "publicado": "04/08 18:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um aumento significativo no desemprego na Nova Zelândia, se confirmado, pode indicar uma desaceleração econômica mais ampla na região. Se os dados de PMI da China também vierem fracos, isso reforçaria um cenário de menor demanda global, o que poderia impactar exportações de commodities de outros países.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785880865.9936328,
+    "titulo": "Netanyahu nega ter aceitado plano de Trump para Gaza e condiciona retirada militar ao desarmamento total do Hamas - O GLOBO",
+    "titulo_original": "Netanyahu nega ter aceitado plano de Trump para Gaza e condiciona retirada militar ao desarmamento total do Hamas - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "04/08 16:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Netanyahu indica que as negociações para um acordo em Gaza permanecem complexas e dependem de condições específicas. Se o Hamas não se desarmar, a retirada militar pode ser adiada, mantendo a instabilidade na região e impactando a confiança dos investidores globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785880872.2182927,
+    "titulo": "Prio (PRIO3) vê lucro disparar 169% no 2T26, com Ebitda recorde e avanço da produção em Wahoo",
+    "titulo_original": "Prio (PRIO3) vê lucro disparar 169% no 2T26, com Ebitda recorde e avanço da produção em Wahoo",
+    "fonte": "Money Times",
+    "publicado": "04/08 18:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte desempenho financeiro da Prio, com lucro e Ebitda recordes, sugere uma operação eficiente e um cenário favorável para a produção de petróleo. Se a tendência de aumento de produção e controle de custos se mantiver, a empresa pode continuar a apresentar resultados robustos, beneficiando seus acionistas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785880872.220006,
+    "titulo": "Após maior IPO da história, SpaceX supera expectativas em seu primeiro balanço – mas ações caem",
+    "titulo_original": "Após maior IPO da história, SpaceX supera expectativas em seu primeiro balanço – mas ações caem",
+    "fonte": "InvestNews",
+    "publicado": "04/08 17:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas ações da SpaceX, mesmo com resultados acima do esperado, indica que o mercado pode estar precificando um cenário futuro mais desafiador ou que as expectativas iniciais eram excessivamente otimistas. Se a volatilidade persistir, isso pode afetar o apetite por investimentos em empresas de tecnologia de alto crescimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785880872.221763,
+    "titulo": "Gerdau anuncia pagamento de dividendos e cancelamento de ações",
+    "titulo_original": "Gerdau anuncia pagamento de dividendos e cancelamento de ações",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 18:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O anúncio de pagamento de dividendos e cancelamento de ações pela Gerdau sugere uma política de retorno de capital aos acionistas e otimização da estrutura de capital. Se a empresa continuar a gerar caixa de forma consistente, esses movimentos podem ser positivos para o valor das ações no longo prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785880872.2234273,
+    "titulo": "Lucro do Itaú sobe para R$ 12,4 bilhões no 2º tri",
+    "titulo_original": "Lucro do Itaú sobe para R$ 12,4 bilhões no 2º tri",
+    "fonte": "Folha Mercado",
+    "publicado": "04/08 18:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O lucro do Itaú, embora expressivo, ter vindo ligeiramente abaixo do esperado pode gerar alguma cautela no mercado. Se os próximos resultados de outros bancos apresentarem desempenho semelhante, isso pode indicar um cenário de menor crescimento para o setor financeiro no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785880872.2251234,
+    "titulo": "Vale aprova R$ 8,64 bilhões em dividendos a acionistas e recompra de ações - UOL Economia",
+    "titulo_original": "Vale aprova R$ 8,64 bilhões em dividendos a acionistas e recompra de ações - UOL Economia",
+    "fonte": "Google News Acoes",
+    "publicado": "04/08 14:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação de dividendos e recompra de ações pela Vale demonstra confiança da gestão nos resultados futuros e busca por valorização para os acionistas. Se a empresa mantiver a disciplina de custos e a produção em patamares elevados, esses movimentos podem sustentar o preço das ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785880872.226829,
+    "titulo": "Gerdau registra lucro líquido de R$ 1,5 bi no segundo trimestre, alta de quase 70%",
+    "titulo_original": "Gerdau registra lucro líquido de R$ 1,5 bi no segundo trimestre, alta de quase 70%",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 18:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte crescimento do lucro e Ebitda da Gerdau, aliado ao aumento da receita líquida e produção de aço, indica um desempenho operacional robusto. Se a empresa conseguir manter essa performance, especialmente em um cenário de demanda aquecida por aço, isso pode se refletir positivamente no valor das suas ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785880872.2285233,
+    "titulo": "Receita da SpaceX dispara e prejuízo fica abaixo do esperado em primeiro relatório de resultados",
+    "titulo_original": "Receita da SpaceX dispara e prejuízo fica abaixo do esperado em primeiro relatório de resultados",
+    "fonte": "Folha Mercado",
+    "publicado": "04/08 17:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O forte crescimento da receita e o prejuízo menor que o esperado da SpaceX indicam uma capacidade de monetização de suas operações e um controle de custos mais eficaz. Se a empresa continuar a expandir suas atividades e a gerar receita de forma consistente, isso pode sustentar o interesse dos investidores em seu potencial de crescimento.",
     "is_stocks": true
   }
 ]
