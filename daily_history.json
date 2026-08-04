@@ -925,5 +925,117 @@
     "origem": "domestica",
     "leitura_critica": "A perda de fôlego do Ibovespa sugere que o otimismo inicial pode estar se dissipando, com investidores aguardando novos catalisadores. Se o cenário externo se deteriorar ou se surgirem incertezas fiscais domésticas, a bolsa pode reverter a tendência de alta.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785875454.2702048,
+    "titulo": "Indústria tem o pior junho desde 2014",
+    "titulo_original": "Indústria tem o pior junho desde 2014",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 15:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O pior desempenho da indústria em junho desde 2014, associado a juros e endividamento altos, reforça a percepção de desaceleração da atividade econômica no Brasil. Se essa tendência se mantiver, pode haver pressão por medidas de estímulo econômico ou uma revisão das projeções de crescimento do PIB. A redução das tensões no Oriente Médio, mencionada como fator, sugere um impacto indireto via custos de produção ou demanda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785875458.6060596,
+    "titulo": "Notícias de FX das Américas: Todos de volta ao barco da IA",
+    "titulo_original": "investingLive Americas FX news wrap: Everyone back in the AI boat",
+    "fonte": "ForexLive",
+    "publicado": "04/08 17:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda nos pedidos de fábrica e o número de vagas de emprego nos EUA podem indicar uma desaceleração na atividade industrial, o que pode influenciar as decisões futuras do Fed sobre juros. O forte PMI canadense sugere resiliência na economia do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785875462.8358514,
+    "titulo": "Petróleo cai mais de 5% e brent vai abaixo de US$ 80 com possível reabertura de Ormuz",
+    "titulo_original": "Petróleo cai mais de 5% e brent vai abaixo de US$ 80 com possível reabertura de Ormuz - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "04/08 16:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda acentuada no preço do petróleo, influenciada pela expectativa de reabertura do Estreito de Ormuz, pode ter implicações na inflação global e nos custos de produção de diversos setores. Se a reabertura se concretizar, a pressão inflacionária ligada a energia tende a diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785875467.30414,
+    "titulo": "Fechamento de Ormuz é o maior choque de oferta de petróleo, diz Aramco",
+    "titulo_original": "Fechamento de Ormuz é o maior choque de oferta de petróleo, diz Aramco - Poder360",
+    "fonte": "Google News Commodities",
+    "publicado": "04/08 15:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração da Aramco reforça a gravidade de um potencial fechamento do Estreito de Ormuz para a oferta global de petróleo. Se o estreito for fechado, o impacto nos preços do petróleo e, consequentemente, na inflação global e nos custos de produção, seria significativo. A expectativa de reabertura, no entanto, tem mitigado essa preocupação no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785875473.170254,
+    "titulo": "Wall Street salta com expectativa de acordo de Ormuz; S&P 500 e Dow Jones batem recordes",
+    "titulo_original": "Wall Street salta com expectativa de acordo de Ormuz; S&P 500 e Dow Jones batem recordes",
+    "fonte": "Money Times",
+    "publicado": "04/08 17:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta em Wall Street, com recordes nos principais índices, sugere um aumento do apetite a risco no mercado financeiro, possivelmente influenciado pela percepção de menor risco geopolítico com a expectativa de reabertura do Estreito de Ormuz. Se a tensão na região diminuir significativamente, o fluxo de capital para ativos de risco pode se intensificar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785875473.1718798,
+    "titulo": "OpenAI faz acordo para encerrar investigação sobre contratação de trabalhadores estrangeiros",
+    "titulo_original": "OpenAI faz acordo para encerrar investigação sobre contratação de trabalhadores estrangeiros",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 16:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A resolução desta investigação pode sinalizar um endurecimento na fiscalização de práticas de contratação por empresas de tecnologia nos EUA. Se tais práticas forem consideradas recorrentes, pode haver um aumento na pressão regulatória sobre o setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785875473.1749244,
+    "titulo": "Como o Google usou Wall Street para bancar US$ 200 bi em chips de IA para a Anthropic",
+    "titulo_original": "Como o Google usou Wall Street para bancar US$ 200 bi em chips de IA para a Anthropic",
+    "fonte": "Folha Mercado",
+    "publicado": "04/08 15:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O massivo investimento em chips de IA para a Anthropic, intermediado pelo Google e financiado por Wall Street, demonstra o crescimento acelerado do setor de inteligência artificial e a mobilização de capital para essa área. Se essa tendência se mantiver, pode haver um impacto significativo na demanda por semicondutores e na evolução tecnológica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785875473.177496,
+    "titulo": "PF apreende máquina de contar dinheiro no escritório de Willer Tomaz",
+    "titulo_original": "PF apreende máquina de contar dinheiro no escritório de Willer Tomaz",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 16:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A apreensão de uma máquina de contar dinheiro e a investigação de lavagem de dinheiro e ocultação de patrimônio no Brasil indicam a continuidade de ações de combate à corrupção. Se as investigações avançarem e resultarem em condenações, isso pode reforçar a percepção de segurança jurídica e institucional do país, embora o impacto direto nos canais macroeconômicos seja limitado a eventos pontuais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785875473.1790373,
+    "titulo": "Corrida da IA gera conta de US$ 1 trilhão em aluguéis para gigantes da tecnologia",
+    "titulo_original": "Corrida da IA gera conta de US$ 1 trilhão em aluguéis para gigantes da tecnologia",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 16:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O compromisso de US$ 1,09 trilhão em aluguéis futuros por gigantes da tecnologia para data centers de IA demonstra a escala do investimento e da demanda por infraestrutura de computação. Se a demanda por IA continuar a crescer exponencialmente, isso pode sustentar o setor de tecnologia e impulsionar a inovação, mas também representa um risco caso a demanda não se materialize conforme o esperado.",
+    "is_stocks": true
   }
 ]
