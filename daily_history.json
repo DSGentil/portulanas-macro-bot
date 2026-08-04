@@ -756,5 +756,79 @@
     "origem": "ambas",
     "leitura_critica": "A volatilidade nos preços do petróleo, influenciada por declarações conflitantes sobre negociações no Oriente Médio, pode gerar incerteza no mercado de commodities. Se as tensões geopolíticas escalarem, o petróleo pode continuar sua trajetória de alta; caso contrário, uma resolução diplomática pode levar a uma correção nos preços.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785849441.1645086,
+    "titulo": "IBP e Mdic devem se reunir nesta semana para tratar de imposto de exportação de petróleo",
+    "titulo_original": "IBP e Mdic devem se reunir nesta semana para tratar de imposto de exportação de petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 10:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reunião entre IBP e Mdic sobre o imposto de exportação de petróleo pode resultar em uma revisão da política fiscal para o setor. Se o imposto for mantido ou ampliado, isso pode impactar a rentabilidade das empresas e a competitividade do Brasil no mercado internacional de petróleo. Uma decisão favorável ao IBP poderia sinalizar uma política mais voltada para a atração de investimentos no setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785849445.829414,
+    "titulo": "Notícias de FX Europeu: Mercados celebram e preços do petróleo caem com esperanças de acordo EUA-Irã",
+    "titulo_original": "investingLive European FX news wrap: Markets cheer and oil prices slide on US-Iran deal hopes",
+    "fonte": "ForexLive",
+    "publicado": "04/08 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa de um acordo EUA-Irã para reabrir o Estreito de Ormuz está impulsionando o otimismo nos mercados e derrubando os preços do petróleo. Se o acordo se concretizar, a redução da tensão geopolítica pode estabilizar os preços da energia e beneficiar o comércio global. A força do EUR/USD, influenciada pela intervenção no iene, sugere um cenário de volatilidade cambial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785849450.2558224,
+    "titulo": "Ucrânia ataca três centros de distribuição na Rússia; cinco pessoas morreram",
+    "titulo_original": "Ucrânia ataca três centros de distribuição na Rússia; cinco pessoas morreram",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 10:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de ataques ucranianos em território russo pode aumentar a percepção de risco geopolítico global. Se a Rússia responder com medidas mais drásticas, isso pode impactar a estabilidade de mercados de commodities e a confiança dos investidores. A continuidade desses ataques pode levar a uma maior volatilidade nos mercados internacionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785849454.68151,
+    "titulo": "Após mais ameaças de Trump, presidente do Irã diz que não quer ampliar guerra - Folha de S.Paulo",
+    "titulo_original": "Após mais ameaças de Trump, presidente do Irã diz que não quer ampliar guerra - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "04/08 08:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do presidente do Irã, em resposta a ameaças de Trump, pode indicar uma tentativa de evitar uma escalada maior no conflito. Se as tensões realmente diminuírem, isso pode levar a uma queda nos preços do petróleo e a uma maior estabilidade nos mercados globais. A ausência de novas ameaças de Trump pode ser um fator a ser observado nos próximos dias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785849461.875889,
+    "titulo": "Ibovespa sobe 1% com expectativa de acordo sobre Estreito de Ormuz; 5 coisas para saber antes de investir hoje (4)",
+    "titulo_original": "Ibovespa sobe 1% com expectativa de acordo sobre Estreito de Ormuz; 5 coisas para saber antes de investir hoje (4)",
+    "fonte": "Money Times",
+    "publicado": "04/08 10:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa de um acordo no Estreito de Ormuz pode trazer alívio temporário aos mercados, reduzindo a percepção de risco geopolítico. Se as negociações falharem, o petróleo pode voltar a subir, impactando negativamente o índice. A relação entre o otimismo com o acordo e a queda do petróleo sugere um cenário de precificação volátil para a commodity.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785849461.8773134,
+    "titulo": "Petróleo sobe e bolsas da Ásia fecham mistas após rali de Wall Street - Valor Econômico",
+    "titulo_original": "Petróleo sobe e bolsas da Ásia fecham mistas após rali de Wall Street - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "04/08 05:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo e o fechamento misto das bolsas asiáticas indicam uma reação cautelosa após o rali em Wall Street. Se o petróleo continuar a subir, isso pode pressionar a inflação global e afetar o poder de compra. A divergência nos mercados asiáticos sugere que os investidores estão avaliando diferentes fatores de risco e oportunidade.",
+    "is_stocks": true
   }
 ]
