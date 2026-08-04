@@ -964,5 +964,74 @@
     "origem": "domestica",
     "leitura_critica": "A queda nas ações da Brava Energia é influenciada tanto pela desvalorização do petróleo quanto pela proximidade do leilão de OPA, o que pode gerar volatilidade. Se o leilão de OPA resultar em uma oferta atrativa, isso pode impulsionar o preço das ações no curto prazo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785861948.0891302,
+    "titulo": "Copom inicia reunião com expectativa de novo corte da Selic - VEJA",
+    "titulo_original": "Copom inicia reunião com expectativa de novo corte da Selic - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 08:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de um novo corte na Selic pelo Copom pode influenciar diretamente as decisões de investimento em renda fixa e variável. Se o corte for confirmado e vier em linha com o esperado, o mercado pode reagir de forma moderada; se houver surpresa no tamanho do corte ou na comunicação do BC, a volatilidade pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785861951.6493852,
+    "titulo": "Corte ou manutenção: o que esperar da decisão do Copom desta quarta-feira? - InvesTalk",
+    "titulo_original": "Corte ou manutenção: o que esperar da decisão do Copom desta quarta-feira? - InvesTalk",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 12:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A incerteza em torno da decisão do Copom sobre a Selic pode gerar volatilidade no mercado. Se o Copom optar por um corte, isso pode sinalizar confiança na trajetória da inflação; se mantiver a taxa, pode indicar preocupações com pressões inflacionárias ou riscos fiscais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785861955.2611136,
+    "titulo": "ASA prevê Selic em 14% ao ano após Copom e condiciona novos cortes ao ajuste fiscal - Estadão",
+    "titulo_original": "ASA prevê Selic em 14% ao ano após Copom e condiciona novos cortes ao ajuste fiscal - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 13:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A previsão de manutenção da Selic em 14% e a vinculação de novos cortes ao ajuste fiscal indicam que o Banco Central pode priorizar a prudência fiscal. Se o governo apresentar um plano de ajuste fiscal crível, isso pode abrir espaço para cortes futuros; caso contrário, a taxa de juros pode permanecer elevada por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785861959.1504579,
+    "titulo": "À espera do Copom, analistas indicam as melhores small caps para agosto; Veja quais - InfoMoney",
+    "titulo_original": "À espera do Copom, analistas indicam as melhores small caps para agosto; Veja quais - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/08 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A seleção de small caps por analistas sugere que há oportunidades de investimento em empresas de menor capitalização, possivelmente beneficiadas por um cenário de juros em queda. Se o Copom confirmar um corte na Selic, essas recomendações podem ganhar força; caso contrário, o desempenho dessas ações pode ser impactado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785861963.7274642,
+    "titulo": "Bolsas da Europa renovam recordes com alívio no petróleo e balanços fortes",
+    "titulo_original": "Bolsas da Europa renovam recordes com alívio no petróleo e balanços fortes",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 13:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A renovação de recordes nas bolsas europeias sugere um otimismo generalizado no mercado acionário global, impulsionado por fatores corporativos e geopolíticos. Se os balanços continuarem fortes e a tensão no Oriente Médio diminuir, o cenário positivo pode se sustentar; caso contrário, a volatilidade pode aumentar.",
+    "is_stocks": true
   }
 ]
