@@ -1,111 +1,5 @@
 [
   {
-    "_timestamp": 1785775682.0701504,
-    "titulo": "Esquenta do Copom: Sem surpresas ou sinais - XP Investimentos",
-    "titulo_original": "Esquenta do Copom: Sem surpresas ou sinais - XP Investimentos",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/08 11:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Esta notícia aborda as expectativas em torno das decisões do Copom, o que a torna relevante para o canal de juros. A ausência de surpresas ou sinais claros pode indicar que o mercado já precificou o cenário atual, mas a falta de direcionamento pode gerar volatilidade dependendo de futuras comunicações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785775685.9081233,
-    "titulo": "Estatais Chinesas Compram 1 Milhão de Toneladas de Soja dos EUA Antes de Reunião Presidencial - Forbes Brasil",
-    "titulo_original": "Estatais Chinesas Compram 1 Milhão de Toneladas de Soja dos EUA Antes de Reunião Presidencial - Forbes Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "03/08 12:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A compra de soja pelos EUA pela China pode indicar um movimento de fluxo de capital e um possível alívio nas tensões comerciais, o que pode ter repercussões em commodities e, indiretamente, em outros mercados. A relevância é média por envolver um grande volume de transação entre duas potências econômicas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785775690.0172195,
-    "titulo": "Mercados hoje: otimismo com acordo entre EUA e Irã anima investidores; no Brasil, mercado espera Copom - Bora Investir",
-    "titulo_original": "Mercados hoje: otimismo com acordo entre EUA e Irã anima investidores; no Brasil, mercado espera Copom - Bora Investir",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/08 09:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A notícia conecta o otimismo geopolítico com o ânimo dos investidores e, no contexto brasileiro, aponta para a expectativa em relação ao Copom. Isso sugere que a resolução de tensões internacionais pode influenciar o apetite a risco e, consequentemente, as decisões futuras de juros no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785775693.9280713,
-    "titulo": "Irã executa dois cidadãos por espionagem para Israel, diz mídia iraniana - CNN Brasil",
-    "titulo_original": "Irã executa dois cidadãos por espionagem para Israel, diz mídia iraniana - CNN Brasil",
-    "fonte": "Google News Geopolitica",
-    "publicado": "03/08 08:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Esta notícia sobre execuções no Irã, embora relacionada a tensões geopolíticas, não especifica um impacto direto nos canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital. A relevância é média por adicionar mais um elemento ao cenário de instabilidade na região, mas sem detalhar consequências econômicas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785775759.4048982,
-    "titulo": "Dólar inicia agosto com leve queda, Ibovespa oscila e juros futuros recuam com forte baixa do petróleo",
-    "titulo_original": "Dólar inicia agosto com leve queda, Ibovespa oscila e juros futuros recuam com forte baixa do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 13:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do petróleo, influenciada por fatores geopolíticos externos, impactou negativamente as ações de Petrobras e Vale no Brasil, pressionando o Ibovespa. A redução nos juros futuros sugere uma precificação de menor risco global, o que pode ser um indicativo de alívio nas tensões internacionais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785775759.405498,
-    "titulo": "EUA finalizam testes voluntários de segurança em IA, diz autoridade da Casa Branca",
-    "titulo_original": "EUA finalizam testes voluntários de segurança em IA, diz autoridade da Casa Branca",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 13:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia trata de testes voluntários de segurança em IA nos EUA, o que pode ter implicações futuras para o setor de tecnologia e inovação. No entanto, por não ter conexão explícita com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital, sua relevância é considerada média.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785775759.4065049,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de VALE3 e PETR4 - infomoney.com.br",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de VALE3 e PETR4 - infomoney.com.br",
-    "fonte": "Google News Acoes",
-    "publicado": "03/08 12:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre a performance do Ibovespa e a pressão exercida por ações de empresas específicas (Vale e Petrobras). Embora seja uma notícia de mercado, não estabelece uma conexão explícita com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital, sendo, portanto, de relevância média.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785775759.4074557,
-    "titulo": "Desvalorização do petróleo tira suporte do Ibovespa e do real",
-    "titulo_original": "Desvalorização do petróleo tira suporte do Ibovespa e do real",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 12:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A desvalorização do petróleo, um fator externo, afeta diretamente empresas brasileiras como Petrobras e Vale, impactando o Ibovespa e o real. A notícia também menciona que as taxas futuras de juros recuam, alinhadas com a dinâmica externa, indicando uma possível influência no cenário de juros.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785781851.1938481,
     "titulo": "Quase 40% da indústria prevê aumento do endividamento bancário nos próximos três meses",
     "titulo_original": "Quase 40% da indústria prevê aumento do endividamento bancário nos próximos três meses",
@@ -1081,5 +975,75 @@
     "origem": "externa",
     "leitura_critica": "O forte crescimento da receita e o prejuízo menor que o esperado da SpaceX indicam uma capacidade de monetização de suas operações e um controle de custos mais eficaz. Se a empresa continuar a expandir suas atividades e a gerar receita de forma consistente, isso pode sustentar o interesse dos investidores em seu potencial de crescimento.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785886247.581394,
+    "titulo": "Ajuste fiscal “minimamente aceitável” pode abrir espaço para queda dos juros, diz Bittencourt",
+    "titulo_original": "Ajuste fiscal “minimamente aceitável”pode abrir espaço para queda dos juros, diz Bittencourt",
+    "fonte": "Money Times",
+    "publicado": "04/08 19:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de que um ajuste fiscal considerado \"minimamente aceitável\" possa viabilizar a queda dos juros sugere uma forte correlação entre as contas públicas e a política monetária. Se o governo conseguir implementar medidas fiscais críveis, o Banco Central pode ter mais margens para cortar a taxa Selic; caso contrário, a manutenção de juros elevados pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785886252.1464977,
+    "titulo": "STF inicia análise de leis sobre soja, terras indígenas e licenciamento - Canal Rural",
+    "titulo_original": "STF inicia análise de leis sobre soja, terras indígenas e licenciamento - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "04/08 17:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O início da análise pelo STF de leis sobre soja, terras indígenas e licenciamento pode gerar decisões com impacto significativo no agronegócio e no meio ambiente. Se as decisões forem favoráveis à expansão do agronegócio com respeito às terras indígenas e licenciamento, isso pode impulsionar o setor; caso contrário, pode haver restrições que afetem a produção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785886256.5673177,
+    "titulo": "Juros futuros têm leve alta com quadro político local",
+    "titulo_original": "Juros futuros têm leve alta com quadro político local",
+    "fonte": "Valor Economico",
+    "publicado": "04/08 18:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A volatilidade nos juros futuros, influenciada pelo cenário político local, demonstra a sensibilidade do mercado a fatores de risco domésticos. Se a incerteza política persistir, o Banco Central pode ter seu espaço para cortes de juros limitado; caso haja uma resolução ou clareza política, a tendência de queda dos juros pode se fortalecer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785886260.978009,
+    "titulo": "Lula conversa com Putin e discute fornecimento de diesel e fertilizantes",
+    "titulo_original": "Lula conversa com Putin e discute fornecimento de diesel e fertilizantes",
+    "fonte": "Folha Mercado",
+    "publicado": "04/08 15:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A conversa entre Lula e Putin sobre o fornecimento de diesel e fertilizantes pode ter implicações na balança comercial e na segurança energética do Brasil. Se os acordos forem concretizados, isso pode estabilizar os preços desses insumos; caso contrário, o Brasil pode enfrentar volatilidade no abastecimento e nos custos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785886265.4064038,
+    "titulo": "PMI de serviços da Austrália atinge máxima de seis meses com retorno de novos pedidos",
+    "titulo_original": "Australia services PMI hits six-month high of 53.6 as new orders return",
+    "fonte": "ForexLive",
+    "publicado": "04/08 20:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O fortalecimento do setor de serviços na Austrália, com o retorno de novos pedidos e melhora na confiança empresarial, pode indicar uma recuperação econômica mais robusta. Se a inflação de preços de produção continuar a subir, isso pode levar o Banco Central da Austrália a manter uma postura mais cautelosa em relação a cortes de juros; se a inflação de custos de insumos cair mais, pode haver espaço para flexibilização.",
+    "is_stocks": false
   }
 ]
