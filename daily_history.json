@@ -1,74 +1,5 @@
 [
   {
-    "_timestamp": 1785861948.0891302,
-    "titulo": "Copom inicia reunião com expectativa de novo corte da Selic - VEJA",
-    "titulo_original": "Copom inicia reunião com expectativa de novo corte da Selic - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 08:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de um novo corte na Selic pelo Copom pode influenciar diretamente as decisões de investimento em renda fixa e variável. Se o corte for confirmado e vier em linha com o esperado, o mercado pode reagir de forma moderada; se houver surpresa no tamanho do corte ou na comunicação do BC, a volatilidade pode aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785861951.6493852,
-    "titulo": "Corte ou manutenção: o que esperar da decisão do Copom desta quarta-feira? - InvesTalk",
-    "titulo_original": "Corte ou manutenção: o que esperar da decisão do Copom desta quarta-feira? - InvesTalk",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 12:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A incerteza em torno da decisão do Copom sobre a Selic pode gerar volatilidade no mercado. Se o Copom optar por um corte, isso pode sinalizar confiança na trajetória da inflação; se mantiver a taxa, pode indicar preocupações com pressões inflacionárias ou riscos fiscais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785861955.2611136,
-    "titulo": "ASA prevê Selic em 14% ao ano após Copom e condiciona novos cortes ao ajuste fiscal - Estadão",
-    "titulo_original": "ASA prevê Selic em 14% ao ano após Copom e condiciona novos cortes ao ajuste fiscal - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 13:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A previsão de manutenção da Selic em 14% e a vinculação de novos cortes ao ajuste fiscal indicam que o Banco Central pode priorizar a prudência fiscal. Se o governo apresentar um plano de ajuste fiscal crível, isso pode abrir espaço para cortes futuros; caso contrário, a taxa de juros pode permanecer elevada por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785861959.1504579,
-    "titulo": "À espera do Copom, analistas indicam as melhores small caps para agosto; Veja quais - InfoMoney",
-    "titulo_original": "À espera do Copom, analistas indicam as melhores small caps para agosto; Veja quais - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 10:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A seleção de small caps por analistas sugere que há oportunidades de investimento em empresas de menor capitalização, possivelmente beneficiadas por um cenário de juros em queda. Se o Copom confirmar um corte na Selic, essas recomendações podem ganhar força; caso contrário, o desempenho dessas ações pode ser impactado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785861963.7274642,
-    "titulo": "Bolsas da Europa renovam recordes com alívio no petróleo e balanços fortes",
-    "titulo_original": "Bolsas da Europa renovam recordes com alívio no petróleo e balanços fortes",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 13:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A renovação de recordes nas bolsas europeias sugere um otimismo generalizado no mercado acionário global, impulsionado por fatores corporativos e geopolíticos. Se os balanços continuarem fortes e a tensão no Oriente Médio diminuir, o cenário positivo pode se sustentar; caso contrário, a volatilidade pode aumentar.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785868325.5137713,
     "titulo": "Dólar PTAX (04/08): cotação fecha em alta",
     "titulo_original": "Dólar PTAX (04/08): cotação fecha em alta - trademap.com.br",
@@ -1135,5 +1066,33 @@
     "origem": "externa",
     "leitura_critica": "Dados de atividade econômica nos EUA vieram mistos, com o ISM de serviços abaixo do esperado e o ADP de emprego também. Se os dados de emprego continuarem a surpreender negativamente, isso pode aumentar a pressão por cortes de juros pelo Fed; se o PMI de serviços indicar resiliência, pode sustentar a visão de uma economia mais robusta.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785972644.9661057,
+    "titulo": "Lula sanciona novas regras para o piso mínimo do frete rodoviário",
+    "titulo_original": "Lula sanciona novas regras para o piso mínimo do frete rodoviário",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 18:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A sanção da nova lei do piso mínimo do frete rodoviário representa uma decisão regulatória concreta com potencial impacto nos custos logísticos do país. Se a fiscalização for efetiva e as punições aplicadas, isso pode gerar maior previsibilidade para o setor de transporte, mas também pode aumentar os custos para embarcadores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785972649.6737635,
+    "titulo": "BC reduz taxa básica de juros para 14% ao ano sem sinalizar novos cortes - UOL Economia",
+    "titulo_original": "BC reduz taxa básica de juros para 14% ao ano sem sinalizar novos cortes - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 18:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução da taxa básica de juros para 14% ao ano é um movimento concreto do Banco Central, mas a ausência de sinalização de novos cortes sugere que o BC mantém preocupações com a inflação ou outros riscos. Se os próximos indicadores de inflação vierem acima do esperado, o BC pode manter os juros nesse patamar por mais tempo; caso contrário, a porta para novos cortes pode se abrir.",
+    "is_stocks": false
   }
 ]
