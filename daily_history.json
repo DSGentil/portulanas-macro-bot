@@ -1,139 +1,5 @@
 [
   {
-    "_timestamp": 1785859248.1941156,
-    "titulo": "Previdência privada fecha semestre com queda na captação líquida",
-    "titulo_original": "Previdência privada fecha semestre com queda na captação líquida",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 12:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda na captação líquida pode indicar uma menor entrada de recursos no setor, o que, se persistir, pode afetar o fluxo de capital para investimentos de longo prazo. Se a tendência se reverter nos próximos trimestres com a adaptação à tributação do IOF, o setor pode recuperar o fôlego.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785859251.7399962,
-    "titulo": "Soja mais cara em Mato Grosso reduz margem da indústria de esmagamento, aponta Imea",
-    "titulo_original": "Soja mais cara em Mato Grosso reduz margem da indústria de esmagamento, aponta Imea - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "04/08 10:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O encarecimento da soja impacta diretamente a rentabilidade da indústria de esmagamento, o que pode levar a repasses de custos para os produtos derivados. Se os preços internacionais da soja continuarem em alta, a margem das indústrias brasileiras pode ser ainda mais comprimida.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785859255.2793562,
-    "titulo": "Derivados de petróleo e biocombustíveis e químicos puxam queda da indústria em junho, diz IBGE",
-    "titulo_original": "Derivados de petróleo e biocombustíveis e químicos puxam queda da indústria em junho, diz IBGE",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 12:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda na produção industrial, puxada por setores importantes como o de derivados de petróleo, sinaliza um arrefecimento da atividade econômica. Se a produção de petróleo e biocombustíveis continuar a recuar, isso pode impactar negativamente o PIB e a arrecadação fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785859258.932991,
-    "titulo": "Flávio diz que escândalo do INSS 'entrou no gabinete de Lula'",
-    "titulo_original": "Flávio diz que escândalo do INSS 'entrou no gabinete de Lula'",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 11:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O escândalo do INSS e as acusações da oposição podem gerar instabilidade política e afetar a percepção pública sobre o governo. Se as investigações avançarem e trouxerem novas evidências, isso pode ter implicações significativas para a campanha eleitoral e a governabilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785859287.2725592,
-    "titulo": "BB Seguridade (BBSE3): Lucro fica acima do esperado, mas sentimento de cautela permanece; o que fazer com a ação?",
-    "titulo_original": "BB Seguridade (BBSE3): Lucro fica acima do esperado, mas sentimento de cautela permanece; o que fazer com a ação?",
-    "fonte": "Money Times",
-    "publicado": "04/08 12:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Embora o lucro do BB Seguridade tenha superado as expectativas, a queda em relação ao ano anterior e o sentimento de cautela do mercado sugerem que os investidores estão atentos a fatores de risco. Se a sinistralidade continuar a crescer, isso pode pressionar os resultados futuros da companhia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785859287.2740238,
-    "titulo": "R$ 2,03 por ação e recompra: Vale (VALE3) confirma proventos e lança novo programa de ações",
-    "titulo_original": "R$ 2,03 por ação e recompra: Vale (VALE3) confirma proventos e lança novo programa de ações - ISTOÉ DINHEIRO",
-    "fonte": "Google News Acoes",
-    "publicado": "04/08 11:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A distribuição de proventos e o programa de recompra de ações pela Vale podem ser interpretados como sinais de confiança da empresa em sua geração de caixa e perspectivas futuras. Se o preço das commodities se mantiver favorável, a empresa pode continuar a remunerar seus acionistas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785859287.275465,
-    "titulo": "Lucro aumenta, mas ações da Bradsaúde caem mais de 9% com alta da sinistralidade",
-    "titulo_original": "Lucro aumenta, mas ações da Bradsaúde caem mais de 9% com alta da sinistralidade",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 12:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas ações da Bradsaúde, apesar do aumento do lucro, reflete a preocupação do mercado com o aumento da sinistralidade, que pode corroer a rentabilidade futura. Se a tendência de alta na sinistralidade persistir, a empresa pode precisar ajustar seus preços ou controlar custos para manter a lucratividade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785859287.2768722,
-    "titulo": "Ação da Marcopolo (POMO4) despenca quase 10% após balanço do 2T26: o que desagradou o mercado?",
-    "titulo_original": "Ação da Marcopolo (POMO4) despenca quase 10% após balanço do 2T26: o que desagradou o mercado?",
-    "fonte": "Money Times",
-    "publicado": "04/08 12:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda nas ações da Marcopolo após a divulgação do balanço indica que os resultados não atenderam às expectativas do mercado, possivelmente devido a questões de rentabilidade ou perspectivas futuras. Se a empresa não apresentar melhorias em seus indicadores nos próximos trimestres, a pressão sobre as ações pode continuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785859287.278309,
-    "titulo": "É hora de comprar Weg (WEGE3)? Safra aponta empresa como uma das suas favoritas e vê potencial de alta de 22,8%",
-    "titulo_original": "É hora de comprar Weg (WEGE3)? Safra aponta empresa como uma das suas favoritas e vê potencial de alta de 22,8%",
-    "fonte": "Money Times",
-    "publicado": "04/08 12:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de compra para a Weg pelo Safra, com um potencial de alta expressivo, sugere otimismo quanto aos resultados futuros da empresa. Se a companhia continuar a apresentar bons resultados e a se beneficiar de tendências de mercado, as ações podem atingir o preço-alvo projetado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785859287.2797596,
-    "titulo": "Petrobras tem emergência de repor reservas, diz diretora de exploração e produção",
-    "titulo_original": "Petrobras tem emergência de repor reservas, diz diretora de exploração e produção",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 11:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da diretora da Petrobras reforça a importância estratégica da reposição de reservas para a companhia e para o país, e aponta para a necessidade de um ambiente regulatório mais ágil. Se o licenciamento ambiental for agilizado, a Petrobras pode acelerar a exploração de novas áreas e aumentar sua produção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785859287.2812283,
-    "titulo": "O que está por trás da queda de 6% da Brava (BRAV3), um dia antes do leilão da OPA?",
-    "titulo_original": "O que está por trás da queda de 6% da Brava (BRAV3), um dia antes do leilão da OPA?",
-    "fonte": "Money Times",
-    "publicado": "04/08 11:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas ações da Brava Energia é influenciada tanto pela desvalorização do petróleo quanto pela proximidade do leilão de OPA, o que pode gerar volatilidade. Se o leilão de OPA resultar em uma oferta atrativa, isso pode impulsionar o preço das ações no curto prazo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785861948.0891302,
     "titulo": "Copom inicia reunião com expectativa de novo corte da Selic - VEJA",
     "titulo_original": "Copom inicia reunião com expectativa de novo corte da Selic - VEJA",
@@ -1168,6 +1034,106 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A aprovação do Cade para a aquisição de participação na Copasa pela Gerais Saneamento é uma decisão regulatória que afeta o setor de saneamento. Se a transação resultar em mudanças na gestão ou operação da Copasa, isso pode impactar a oferta de serviços.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785967252.711934,
+    "titulo": "BC faz quarto corte seguido na Selic e taxa vai a 14% ao ano",
+    "titulo_original": "BC faz quarto corte seguido na Selic e taxa vai a 14% ao ano",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 18:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade do ciclo de cortes na Selic reforça a política monetária expansionista do Banco Central. Se a inflação continuar a ceder de forma consistente, o mercado poderá precificar cortes mais agressivos nas próximas reuniões; caso contrário, o BC pode sinalizar uma pausa no ciclo para avaliar os efeitos da política atual.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785967256.896084,
+    "titulo": "Copom decide rumo da Selic nesta quarta-feira; mercado espera que juro caia a 14% - Valor Econômico",
+    "titulo_original": "Copom decide rumo da Selic nesta quarta-feira; mercado espera que juro caia a 14% - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 17:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Esta notícia antecipa a decisão do Copom sobre a taxa Selic, um dos principais indicadores de política monetária. A expectativa de mercado para um corte específico indica a direção que os agentes financeiros esperam para a taxa de juros, influenciando expectativas futuras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785967261.114059,
+    "titulo": "Selic em 14% mantém renda fixa pós-fixada atrativa; veja como ficam os investimentos",
+    "titulo_original": "Selic em 14% mantém renda fixa pós-fixada atrativa; veja como ficam os investimentos",
+    "fonte": "Folha Mercado",
+    "publicado": "05/08 18:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da atratividade da renda fixa pós-fixada e indexada à inflação é uma consequência direta da decisão sobre a taxa de juros. Se a inflação continuar sob controle, a renda fixa pode seguir como uma opção interessante; se houver pressões inflacionárias, a atratividade pode diminuir, dependendo da percepção de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785967266.5230386,
+    "titulo": "Banco Central corta a taxa Selic pela quarta vez consecutiva, para 14% - VEJA",
+    "titulo_original": "Banco Central corta a taxa Selic pela quarta vez consecutiva, para 14% - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 18:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A confirmação do quarto corte consecutivo na taxa Selic reforça a tendência de flexibilização monetária. Se a economia continuar a apresentar sinais de desaceleração controlada, o Banco Central pode manter essa trajetória; em caso de sinais de aquecimento excessivo ou pressões inflacionárias, o ritmo de cortes pode ser revisto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785967292.984091,
+    "titulo": "AO VIVO: Acompanhe live sobre a decisão da taxa Selic pelo Copom - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "titulo_original": "AO VIVO: Acompanhe live sobre a decisão da taxa Selic pelo Copom - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 17:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Esta notícia indica a cobertura em tempo real da decisão do Copom sobre a taxa Selic. Acompanhar a decisão em si é crucial para entender a política monetária; se a decisão for diferente do esperado pelo mercado, isso pode gerar volatilidade. A cobertura ao vivo sugere que a informação é de alta relevância no momento da divulgação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785967292.9859955,
+    "titulo": "Governo assina contratos com empresas vencedoras no leilão do pré-sal",
+    "titulo_original": "Governo assina contratos com empresas vencedoras no leilão do pré-sal",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 18:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A assinatura dos contratos do leilão do pré-sal representa a concretização de uma decisão regulatória do governo na exploração de petróleo. Se os blocos arrematados forem de grande potencial, isso pode impactar a produção futura de energia e a arrecadação fiscal; se os resultados do leilão forem inferiores ao esperado, pode sinalizar desafios no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785967292.9878142,
+    "titulo": "Resumo das notícias do mercado americano: Ouro dispara",
+    "titulo_original": "investingLive Americas market news wrap: Gold storms higher",
+    "fonte": "ForexLive",
+    "publicado": "05/08 18:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Dados de atividade econômica nos EUA vieram mistos, com o ISM de serviços abaixo do esperado e o ADP de emprego também. Se os dados de emprego continuarem a surpreender negativamente, isso pode aumentar a pressão por cortes de juros pelo Fed; se o PMI de serviços indicar resiliência, pode sustentar a visão de uma economia mais robusta.",
     "is_stocks": true
   }
 ]
