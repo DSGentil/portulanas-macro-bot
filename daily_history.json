@@ -1,89 +1,5 @@
 [
   {
-    "_timestamp": 1785843061.8409462,
-    "titulo": "Copom inicia reunião para definir juros; mercado projeta novos cortes na Selic até o fim de 2026 - OpiniãoCE",
-    "titulo_original": "Copom inicia reunião para definir juros; mercado projeta novos cortes na Selic até o fim de 2026 - OpiniãoCE",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 07:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de novos cortes na Selic pelo Copom pode sinalizar uma política monetária expansionista. Se a inflação se mantiver sob controle, os cortes podem ocorrer conforme projetado; caso contrário, o Copom pode pausar ou reverter a tendência de queda dos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785843066.2923954,
-    "titulo": "Inflação deve ajudar Copom a cortar Selic a 14%; será o último corte do ano?",
-    "titulo_original": "Inflação deve ajudar Copom a cortar Selic a 14%; será o último corte do ano? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de um corte na Selic para 14% devido à inflação controlada sugere um cenário de política monetária mais flexível. Se a inflação continuar a ceder, o Copom pode realizar mais cortes; se houver pressões inflacionárias inesperadas, o ciclo de cortes pode ser interrompido.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785843070.818173,
-    "titulo": "IPCA+ 8,4%: BB seleciona 5 títulos de crédito privado para agosto; confira",
-    "titulo_original": "IPCA+ 8,4%: BB seleciona 5 títulos de crédito privado para agosto; confira",
-    "fonte": "Money Times",
-    "publicado": "04/08 08:17",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A seleção de títulos de crédito privado indexados ao IPCA sugere uma expectativa de inflação persistente. Se o IPCA continuar a apresentar volatilidade, esses títulos podem oferecer proteção; caso a inflação ceda mais rapidamente do que o esperado, outros tipos de investimento podem se tornar mais atrativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785843075.3162775,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "04/08 03:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os dados econômicos de hoje, embora de baixo impacto na Europa, podem fornecer pistas sobre a saúde do mercado de trabalho nos EUA, influenciando as expectativas sobre o Fed. Se o relatório de Job Openings vier abaixo do esperado, pode reforçar a visão de que o mercado de trabalho americano está esfriando; se vier acima, pode gerar cautela quanto a futuras decisões de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785843141.6163123,
-    "titulo": "Na véspera de decisão de Copom, mercado acompanha produção industrial e emprego nos EUA",
-    "titulo_original": "Na véspera de decisão de Copom, mercado acompanha produção industrial e emprego nos EUA",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 08:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Acompanhar os dados de produção industrial e emprego nos EUA na véspera da decisão do Copom é crucial, pois esses indicadores podem influenciar a percepção de risco global e a política monetária brasileira. Se os dados americanos vierem fracos, isso pode reforçar a expectativa de cortes na Selic; se vierem fortes, pode gerar cautela no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785843141.6173184,
-    "titulo": "Manhã no mercado: Investidores monitoram Oriente Médio e aguardam dados no Brasil e nos EUA",
-    "titulo_original": "Manhã no mercado: Investidores monitoram Oriente Médio e aguardam dados no Brasil e nos EUA",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 08:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A volatilidade nos preços do petróleo, influenciada por declarações conflitantes sobre negociações no Oriente Médio, pode gerar incerteza no mercado de commodities. Se as tensões geopolíticas escalarem, o petróleo pode continuar sua trajetória de alta; caso contrário, uma resolução diplomática pode levar a uma correção nos preços.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785849441.1645086,
     "titulo": "IBP e Mdic devem se reunir nesta semana para tratar de imposto de exportação de petróleo",
     "titulo_original": "IBP e Mdic devem se reunir nesta semana para tratar de imposto de exportação de petróleo",
@@ -1161,5 +1077,71 @@
     "origem": "domestica",
     "leitura_critica": "A forte geração de caixa da Prio no 2T26 pode indicar uma saúde financeira robusta e potencial para distribuição de dividendos. Se a empresa mantiver esse desempenho e as condições de mercado forem favoráveis, os acionistas podem se beneficiar; caso contrário, a volatilidade do setor de petróleo pode impactar os resultados futuros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785954644.9187517,
+    "titulo": "Fluxo cambial registra entrada líquida de US$ 1,94 bi em julho",
+    "titulo_original": "Fluxo cambial registra entrada líquida de US$ 1,94 bi em julho",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 14:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada líquida de fluxo cambial em julho, a maior desde 2018 no acumulado do ano, sugere um interesse renovado em ativos brasileiros. Se essa tendência de ingresso de capital se mantiver, isso pode fortalecer o real e reduzir a pressão sobre as taxas de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785954648.4394116,
+    "titulo": "Dólar PTAX (05/08): cotação fecha em alta",
+    "titulo_original": "Dólar PTAX (05/08): cotação fecha em alta - trademap.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 13:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O fechamento em alta do Dólar PTAX indica uma valorização da moeda americana frente ao real. Se essa tendência se mantiver, pode haver um impacto na inflação de produtos importados e na competitividade das exportações brasileiras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785954652.008151,
+    "titulo": "Dólar hoje quase zera queda após escolha de vice de Flávio Bolsonaro e volta a cair",
+    "titulo_original": "Dólar hoje quase zera queda após escolha de vice de Flávio Bolsonaro e volta a cair - infomoney.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 12:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A volatilidade do dólar em resposta a notícias políticas indica a sensibilidade do mercado a eventos domésticos. Se a escolha do vice de Flávio Bolsonaro gerar incertezas políticas, isso pode levar a uma maior volatilidade cambial no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785954655.483916,
+    "titulo": "Índice de Commodities do BC cai 0,57% em julho",
+    "titulo_original": "Índice de Commodities do BC cai 0,57% em julho",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 14:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recuo do Índice de Commodities em julho, especialmente nas metálicas, pode indicar uma desaceleração na pressão inflacionária de matérias-primas. Se essa tendência de queda se mantiver, isso pode aliviar as pressões sobre a inflação ao consumidor e as decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785954659.0271769,
+    "titulo": "Riza quer levantar R$ 1 bi para fundo de florestas e mira demanda de estrangeiros por ativos ESG",
+    "titulo_original": "Riza quer levantar R$ 1 bi para fundo de florestas e mira demanda de estrangeiros por ativos ESG",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 14:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa da Riza em criar um fundo focado em florestas e ESG, com mira em investidores estrangeiros, reflete o crescente interesse global por ativos sustentáveis. Se a captação for bem-sucedida, isso pode atrair capital externo para o setor florestal brasileiro e impulsionar práticas de manejo sustentável.",
+    "is_stocks": false
   }
 ]
