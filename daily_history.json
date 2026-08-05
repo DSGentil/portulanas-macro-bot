@@ -1,284 +1,5 @@
 [
   {
-    "_timestamp": 1785781851.1938481,
-    "titulo": "Quase 40% da indústria prevê aumento do endividamento bancário nos próximos três meses",
-    "titulo_original": "Quase 40% da indústria prevê aumento do endividamento bancário nos próximos três meses",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 14:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A pesquisa da CNI indica que a taxa de juros elevada continua a pressionar o setor industrial, levando a um aumento projetado no endividamento. Se os juros permanecerem altos, o endividamento pode se tornar um obstáculo para o crescimento da indústria.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785781855.6925287,
-    "titulo": "Flávio Bolsonaro defende ‘gatilho fiscal’ atrelado à dívida pública para cortar despesas",
-    "titulo_original": "Flávio Bolsonaro defende ‘gatilho fiscal’ atrelado à dívida pública para cortar despesas",
-    "fonte": "Money Times",
-    "publicado": "03/08 14:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de Flávio Bolsonaro de um 'gatilho fiscal' visa controlar o endividamento público através de cortes automáticos de despesas. Se essa regra for implementada, pode haver uma maior disciplina fiscal, mas também o risco de cortes que afetem serviços públicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785781860.1421947,
-    "titulo": "Daniella Marques evita falar sobre definição para vice de Flávio e propõe corte de 1,5% do PIB",
-    "titulo_original": "Daniella Marques evita falar sobre definição para vice de Flávio e propõe corte de 1,5% do PIB",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 14:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Daniella Marques sobre a proposta de corte de 1,5% do PIB indica uma prioridade em ajuste fiscal para um eventual governo. Se essa proposta for implementada, pode haver um impacto significativo nas contas públicas, mas a definição da vice na chapa permanece incerta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785781864.6440206,
-    "titulo": "Trump: Conversas estão acontecendo agora. Esta é a última chance (de novo).",
-    "titulo_original": "Trump: Talks are going on now. This is the last chance (again).",
-    "fonte": "ForexLive",
-    "publicado": "03/08 15:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "As declarações de Trump sobre o Irã e o petróleo indicam uma postura de negociação intensa, com potencial para volatilidade nos mercados de energia. Se as conversas resultarem em um acordo para abrir o Estreito, isso poderia aliviar as tensões geopolíticas na região.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785781930.4601593,
-    "titulo": "Embraer (EMBJ3): Ações sobem com financiamento do BNDES, voo da Eve e novo pedido no radar; veja",
-    "titulo_original": "Embraer (EMBJ3): Ações sobem com financiamento do BNDES, voo da Eve e novo pedido no radar; veja",
-    "fonte": "Money Times",
-    "publicado": "03/08 15:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A performance positiva das ações da Embraer reflete um conjunto de notícias favoráveis para a empresa, incluindo apoio financeiro e avanços tecnológicos. Se a subsidiária Eve concretizar novos pedidos, isso pode impulsionar ainda mais o valor das ações da Embraer.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785781930.4608366,
-    "titulo": "Brava, PRIO, PetroRecôncavo e Petrobras caem forte com derrocada do petróleo - InfoMoney",
-    "titulo_original": "Brava, PRIO, PetroRecôncavo e Petrobras caem forte com derrocada do petróleo - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "03/08 10:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda acentuada no preço do petróleo impactou negativamente as ações de empresas do setor de energia. Se o petróleo continuar em trajetória de baixa, isso pode afetar os resultados financeiros dessas companhias e o desempenho do setor na bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785781930.4616163,
-    "titulo": "BofA vê mais espaço para cortes da Selic e reduz projeção da inflação; veja as novas estimativas",
-    "titulo_original": "BofA vê mais espaço para cortes da Selic e reduz projeção da inflação; veja as novas estimativas",
-    "fonte": "Money Times",
-    "publicado": "03/08 14:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão do BofA sugere um cenário mais favorável para cortes de juros, com projeções de inflação mais baixas. Se o Copom seguir essa linha, pode haver um estímulo à economia; caso contrário, a manutenção de juros altos pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785794449.4637227,
-    "titulo": "Superquarta: Como posicionar seus investimentos antes da decisão do Copom - CNN Brasil",
-    "titulo_original": "Superquarta: Como posicionar seus investimentos antes da decisão do Copom - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/08 16:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa em torno da decisão do Copom é um fator chave para o mercado financeiro. A forma como os investidores se posicionarem antes do anúncio pode indicar as apostas sobre a direção futura da taxa Selic.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785794454.3083255,
-    "titulo": "Produção de petróleo e gás cresce 19,2% e atinge recorde histórico no Brasil - oglobo.globo.com",
-    "titulo_original": "Produção de petróleo e gás cresce 19,2% e atinge recorde histórico no Brasil - oglobo.globo.com",
-    "fonte": "Google News Commodities",
-    "publicado": "03/08 17:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento expressivo na produção de petróleo e gás indica um forte desempenho do setor energético brasileiro. Se essa tendência se mantiver, pode ter implicações positivas na balança comercial e na arrecadação fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785794458.9854848,
-    "titulo": "Subvenção ao diesel após guerra no Irã já custa R$ 7 bilhões, diz ANP",
-    "titulo_original": "Subvenção ao diesel após guerra no Irã já custa R$ 7 bilhões, diz ANP",
-    "fonte": "Folha Mercado",
-    "publicado": "03/08 18:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O alto custo da subvenção ao diesel representa um impacto fiscal significativo. Se a guerra no Irã persistir e os preços do petróleo continuarem elevados, o governo poderá ter que arcar com custos ainda maiores, pressionando o orçamento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785794463.689562,
-    "titulo": "Dólar sobe a R$ 5,08, e Bolsa fica estável com provável queda de juros - UOL Economia",
-    "titulo_original": "Dólar sobe a R$ 5,08, e Bolsa fica estável com provável queda de juros - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/08 17:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar e a estabilidade da Bolsa, em um contexto de expectativa de queda de juros, podem indicar uma busca por ativos mais seguros ou uma precificação de cenário de juros mais baixos que ainda não se concretizou. Se a queda de juros for confirmada, pode haver um fluxo de capital para a renda variável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785794469.3305204,
-    "titulo": "Dólar fecha em alta e Ibovespa termina estável apesar de euforia em NY e forte recuo do petróleo",
-    "titulo_original": "Dólar fecha em alta e Ibovespa termina estável apesar de euforia em NY e forte recuo do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 18:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar e a estabilidade do Ibovespa, em um dia de euforia em NY e queda do petróleo, indicam um movimento de ajuste global da moeda americana e a precificação de riscos. A queda dos juros futuros sugere que o mercado pode estar antecipando um cenário de juros mais baixos ou menor prêmio de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785794469.331525,
-    "titulo": "investingLive Americas FX news wrap 3 Aug: Risk-On Returns to Wall Street",
-    "titulo_original": "investingLive Americas FX news wrap 3 Aug: Risk-On Returns to Wall Street",
-    "fonte": "ForexLive",
-    "publicado": "03/08 18:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O retorno do apetite por risco em Wall Street e a melhora na projeção do PIB americano podem indicar um cenário econômico mais robusto nos EUA. Se os dados de ISM Manufacturing PMI confirmarem essa tendência, o otimismo no mercado pode se sustentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785799857.3745556,
-    "titulo": "Eleitores preferem democratas aos republicanos na economia pela 1ª vez em uma década, diz pesquisa",
-    "titulo_original": "Eleitores preferem democratas aos republicanos na economia pela 1ª vez em uma década, diz pesquisa",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 17:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A mudança na percepção dos eleitores americanos sobre qual partido é mais capaz de gerir a economia pode influenciar o cenário político e, consequentemente, as decisões de política econômica futuras. Se essa tendência se confirmar e impactar resultados eleitorais, pode haver repercussões em mercados globais, mas a notícia em si é uma pesquisa de opinião.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785799862.10813,
-    "titulo": "South Korea core CPI (July) shows biggest annual rise since December 2023",
-    "titulo_original": "South Korea core CPI (July) shows biggest annual rise since December 2023",
-    "fonte": "ForexLive",
-    "publicado": "03/08 20:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de inflação da Coreia do Sul, embora tenha vindo abaixo do esperado na leitura geral, apresentou uma aceleração no núcleo (Core CPI). Se essa tendência de aceleração inflacionária se mostrar persistente em economias importantes, pode reforçar a postura de bancos centrais globais em manter juros elevados, o que teria implicações para o fluxo de capital internacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785799867.0062013,
-    "titulo": "China acelera demanda por soja dos EUA, mas muda pouco dinâmica do mercado",
-    "titulo_original": "China acelera demanda por soja dos EUA, mas muda pouco dinâmica do mercado - Globo Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "03/08 18:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia indica um aumento na demanda chinesa por soja dos EUA, mas ressalta que isso não altera significativamente a dinâmica do mercado. Se essa demanda fosse um fator de pressão inflacionária ou de mudança substancial nos fluxos comerciais, poderia ter implicações, mas a notícia minimiza o impacto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785799871.7851694,
-    "titulo": "Estatais chinesas fecham grandes compras de soja dos EUA",
-    "titulo_original": "Estatais chinesas fecham grandes compras de soja dos EUA - Money Times",
-    "fonte": "Google News Commodities",
-    "publicado": "03/08 17:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Grandes compras de soja dos EUA por estatais chinesas podem indicar um movimento de recomposição de estoques ou uma demanda robusta por commodities agrícolas. Se esse tipo de transação se intensificar e impactar os preços das commodities de forma mais ampla, pode haver reflexos em fluxos de capital e em indicadores de inflação global, mas a notícia não detalha o impacto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785799938.072907,
-    "titulo": "BB Seguridade tem queda de 6,5% no lucro gerencial do 2° trimestre",
-    "titulo_original": "BB Seguridade tem queda de 6,5% no lucro gerencial do 2° trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 19:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda no lucro gerencial da BB Seguridade, embora significativa, é um resultado corporativo específico. Se a rentabilidade do setor de seguros e previdência apresentar uma tendência de queda mais ampla, isso poderia indicar um cenário de menor demanda por produtos financeiros de longo prazo, mas a notícia isolada não permite essa conclusão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785799938.0740604,
-    "titulo": "Lucro da Palantir soma US$ 1,06 bilhão, alta de 224,5% na base anual",
-    "titulo_original": "Lucro da Palantir soma US$ 1,06 bilhão, alta de 224,5% na base anual",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 19:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O forte desempenho financeiro da Palantir, com lucro e receita superando as expectativas, demonstra um cenário positivo para a empresa no setor de software e inteligência artificial. Se esse otimismo se estender a outras empresas de tecnologia com modelos de negócio similares, pode haver um reflexo no apetite por risco global, mas a notícia foca no resultado específico da Palantir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785799938.0752125,
-    "titulo": "Em NY, Dow Jones renova recorde com suporte de ‘big techs’ e alívio no petróleo",
-    "titulo_original": "Em NY, Dow Jones renova recorde com suporte de ‘big techs’ e alívio no petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "03/08 17:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta das bolsas americanas, renovando recordes, indica um sentimento de otimismo no mercado financeiro internacional, influenciado pelo desempenho de grandes empresas de tecnologia e pela queda nos preços do petróleo. Se esse otimismo se mantiver, pode haver um fluxo de capital para mercados de risco, mas a notícia não especifica um impacto direto no Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785799938.0762553,
-    "titulo": "Itaú (ITUB4): Trimestre deve repetir fórmula de sucesso, mas há algumas notícias não tão boas",
-    "titulo_original": "Itaú (ITUB4): Trimestre deve repetir fórmula de sucesso, mas há algumas notícias não tão boas",
-    "fonte": "Money Times",
-    "publicado": "03/08 19:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de lucro do Itaú em um cenário de juros elevados sugere que o setor bancário brasileiro tem conseguido se adaptar. Se o lucro efetivo vier dentro ou acima das projeções, isso pode indicar resiliência do setor financeiro doméstico, mas a menção a 'notícias não tão boas' requer acompanhamento do balanço completo para uma análise mais aprofundada.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785843061.8409462,
     "titulo": "Copom inicia reunião para definir juros; mercado projeta novos cortes na Selic até o fim de 2026 - OpiniãoCE",
     "titulo_original": "Copom inicia reunião para definir juros; mercado projeta novos cortes na Selic até o fim de 2026 - OpiniãoCE",
@@ -1045,5 +766,98 @@
     "origem": "externa",
     "leitura_critica": "O fortalecimento do setor de serviços na Austrália, com o retorno de novos pedidos e melhora na confiança empresarial, pode indicar uma recuperação econômica mais robusta. Se a inflação de preços de produção continuar a subir, isso pode levar o Banco Central da Austrália a manter uma postura mais cautelosa em relação a cortes de juros; se a inflação de custos de insumos cair mais, pode haver espaço para flexibilização.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1785929451.9205353,
+    "titulo": "Por que não é uma boa ideia elevar a meta de inflação após o ajuste fiscal?",
+    "titulo_original": "Por que não é uma boa ideia elevar a meta de inflação após o ajuste fiscal?",
+    "fonte": "Folha Mercado",
+    "publicado": "05/08 07:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre elevar a meta de inflação após um ajuste fiscal levanta um debate sobre a estratégia de política monetária e fiscal. Se a meta de inflação for elevada, isso pode sinalizar uma tolerância maior à inflação no médio prazo, potencialmente impactando as expectativas de juros; se o ajuste fiscal não for considerado robusto o suficiente, a credibilidade da política pode ser questionada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785929455.6814933,
+    "titulo": "Copom: mercado prevê corte de 0,25 ponto. Veja o que esperar dos investimentos que seguem a Selic",
+    "titulo_original": "Copom: mercado prevê corte de 0,25 ponto. Veja o que esperar dos investimentos que seguem a Selic - InvestNews",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de um corte de 0,25 ponto na Selic pelo Copom indica a continuidade do ciclo de flexibilização monetária. Se o corte ocorrer conforme o esperado, o mercado pode reagir com cautela, aguardando sinais sobre o ritmo futuro; se o corte for maior ou menor que o previsto, isso pode gerar volatilidade nos ativos atrelados à taxa básica de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785929459.3578541,
+    "titulo": "Copom: Com resultado \"dado\", mercado deve esmiuçar comunicado do BC",
+    "titulo_original": "Copom: Com resultado \"dado\", mercado deve esmiuçar comunicado do BC - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de que o mercado analisará detalhadamente o comunicado do Banco Central após a decisão do Copom indica a importância dos sinais futuros sobre a política monetária. Se o comunicado sinalizar uma postura mais cautelosa ou um ritmo diferente de cortes, isso pode influenciar as expectativas de juros e o comportamento do câmbio; se o comunicado for neutro, a atenção se voltará para os próximos indicadores econômicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785929463.037102,
+    "titulo": "Selic deve cair, mas até onde o Copom pode ir? 17 casas fazem suas apostas; veja projeções",
+    "titulo_original": "Selic deve cair, mas até onde o Copom pode ir? 17 casas fazem suas apostas; veja projeções",
+    "fonte": "Money Times",
+    "publicado": "05/08 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa generalizada de um corte de 0,25 ponto na Selic pelo Copom reforça a tendência de flexibilização monetária. Se o corte ocorrer conforme o esperado, o mercado pode buscar por sinais sobre a velocidade e o limite desse ciclo de cortes; se houver surpresas na magnitude do corte ou na comunicação do BC, isso pode gerar volatilidade nos ativos de renda fixa e no câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785929487.8866174,
+    "titulo": "Agenda de empresas: Lucro da Gerdau cresce 70%; ganho do Itaú Unibanco soma R$ 12,4 bilhões",
+    "titulo_original": "Agenda de empresas: Lucro da Gerdau cresce 70%; ganho do Itaú Unibanco soma R$ 12,4 bilhões",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 08:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados corporativos de empresas como Gerdau e Itaú Unibanco oferecem um panorama do desempenho setorial. Se os lucros continuarem a crescer de forma generalizada, isso pode indicar uma melhora na atividade econômica; caso contrário, pode sinalizar pressões sobre o consumo e a demanda.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785929487.88809,
+    "titulo": "Lucro da Klabin (KLBN11) encolhe 34% no 2T26, a R$ 387 milhões ; veja os números",
+    "titulo_original": "Lucro da Klabin (KLBN11) encolhe 34% no 2T26, a R$ 387 milhões ; veja os números",
+    "fonte": "Money Times",
+    "publicado": "05/08 08:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda no lucro da Klabin reflete um cenário específico da empresa e do setor de papel e celulose. Se outras empresas do setor apresentarem resultados semelhantes, isso pode indicar uma desaceleração na demanda ou aumento de custos; se os resultados forem isolados, pode ser um evento específico da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785929487.8895924,
+    "titulo": "Ternium tem alta de 60% no lucro por melhores condições de mercado no Brasil e México",
+    "titulo_original": "Ternium tem alta de 60% no lucro por melhores condições de mercado no Brasil e México",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O aumento do lucro da Ternium, atribuído a condições de mercado favoráveis no Brasil e México e medidas antidumping, indica um cenário positivo para a siderurgia nesses mercados. Se as condições de mercado no Brasil se mantiverem favoráveis para o setor, isso pode refletir em maior atividade industrial; a menção a medidas antidumping sugere um ambiente regulatório específico que pode impactar o comércio.",
+    "is_stocks": true
   }
 ]
