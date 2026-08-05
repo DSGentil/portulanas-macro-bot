@@ -913,5 +913,127 @@
     "origem": "domestica",
     "leitura_critica": "Acompanhar a cotação do dólar é fundamental para entender o fluxo de capital e as expectativas do mercado. Se o dólar apresentar movimentos bruscos e persistentes, isso pode indicar mudanças no apetite a risco ou em fluxos de capital para o país.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785942975.8587322,
+    "titulo": "Subir, cair ou ficar de lado? Como o mercado enxerga a trajetória do dólar até o fim de 2026 - Bora Investir",
+    "titulo_original": "Subir, cair ou ficar de lado? Como o mercado enxerga a trajetória do dólar até o fim de 2026 - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 11:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa do mercado sobre a trajetória futura do dólar é um indicador importante para a precificação de ativos e decisões de investimento. Se os fatores que influenciam a moeda, como a política monetária e o cenário econômico global, se alterarem, a projeção do mercado pode mudar rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785942979.316235,
+    "titulo": "Mundo vai encarar nova alta nos preços dos alimentos, alerta FAO",
+    "titulo_original": "Mundo vai encarar nova alta nos preços dos alimentos, alerta FAO",
+    "fonte": "Folha Mercado",
+    "publicado": "05/08 11:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A combinação de conflitos geopolíticos e fenômenos climáticos pode gerar pressões inflacionárias significativas nos preços dos alimentos globalmente. Se as condições climáticas se agravarem ou os conflitos se intensificarem, o impacto nos custos de produção e, consequentemente, nos preços ao consumidor, pode ser ainda maior.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785942982.762281,
+    "titulo": "Acredito que chegou o momento de começarmos a elevar os juros gradualmente, diz Kashkari, do Fed",
+    "titulo_original": "Acredito que chegou o momento de começarmos a elevar os juros gradualmente, diz Kashkari, do Fed",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 11:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Kashkari, um membro com direito a voto no FOMC, sugere que a discussão sobre elevação de juros nos EUA pode ganhar força. Se a inflação persistir elevada, a pressão por um aperto monetário mais consistente pode aumentar, impactando as decisões futuras do Fed.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785942986.287259,
+    "titulo": "Trump diz que negociações com o Irã podem ter resposta nos próximos dias - cnnbrasil.com.br",
+    "titulo_original": "Trump diz que negociações com o Irã podem ter resposta nos próximos dias - cnnbrasil.com.br",
+    "fonte": "Google News Geopolitica",
+    "publicado": "05/08 06:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A expectativa de uma resposta nas negociações com o Irã pode gerar volatilidade nos mercados globais, especialmente no setor de energia. Se as negociações resultarem em um acordo, isso pode aliviar tensões geopolíticas; caso contrário, o cenário pode se tornar mais incerto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785942991.6423383,
+    "titulo": "US S&P Global services final PMI 54.6 vs 53.6 prelim",
+    "titulo_original": "US S&P Global services final PMI 54.6 vs 53.6 prelim",
+    "fonte": "ForexLive",
+    "publicado": "05/08 10:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um PMI de serviços mais forte que o esperado sugere que a economia dos EUA pode estar crescendo a uma taxa anualizada de 2,3%, o que pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Se o relatório ISM de serviços, a ser divulgado em breve, também vier acima das expectativas, isso pode sustentar o dólar e pressionar as ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785942991.6440527,
+    "titulo": "Cade nega pedido de sindicato e mantém aprovação da privatização da Copasa",
+    "titulo_original": "Cade nega pedido de sindicato e mantém aprovação da privatização da Copasa",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 11:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Cade de manter a aprovação da aquisição da Copasa pela Equatorial, mesmo com o recurso do sindicato, sinaliza que a operação segue o rito regulatório. Se não houver novas contestações significativas, a transação deve se concretizar, impactando a estrutura de propriedade da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785942991.6456957,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e testa os 179 mil pontos - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e testa os 179 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "05/08 11:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa, influenciada pelo exterior, sugere um otimismo momentâneo nos mercados globais. Se o cenário externo se mantiver favorável, a bolsa brasileira pode continuar a buscar novos patamares; no entanto, qualquer reversão no humor internacional pode impactar negativamente o índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785942991.647302,
+    "titulo": "Estrangeiro teve 1 motivo em especial para voltar para B3 em julho: movimento durará? - InfoMoney",
+    "titulo_original": "Estrangeiro teve 1 motivo em especial para voltar para B3 em julho: movimento durará? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "05/08 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O retorno de capital estrangeiro à bolsa brasileira em julho, especialmente se motivado por fatores específicos, pode indicar uma mudança no apetite por risco em relação ao Brasil. Se o motivo que atraiu os investidores se mantiver, o fluxo pode continuar; caso contrário, pode haver uma reversão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1785942991.6489534,
+    "titulo": "Estrangeiros encerram julho com saldo positivo de R$ 2,5 bilhões na Bolsa",
+    "titulo_original": "Estrangeiros encerram julho com saldo positivo de R$ 2,5 bilhões na Bolsa",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 11:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O retorno de capital estrangeiro à bolsa brasileira em julho, com um saldo positivo significativo, pode indicar uma melhora na percepção de risco do país. Se os fatores que impulsionaram esse fluxo se mantiverem, a entrada de capital pode continuar, beneficiando o mercado acionário.",
+    "is_stocks": true
   }
 ]
