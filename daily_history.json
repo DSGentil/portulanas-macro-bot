@@ -859,5 +859,59 @@
     "origem": "ambas",
     "leitura_critica": "O aumento do lucro da Ternium, atribuído a condições de mercado favoráveis no Brasil e México e medidas antidumping, indica um cenário positivo para a siderurgia nesses mercados. Se as condições de mercado no Brasil se mantiverem favoráveis para o setor, isso pode refletir em maior atividade industrial; a menção a medidas antidumping sugere um ambiente regulatório específico que pode impactar o comércio.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1785935755.2399817,
+    "titulo": "Dólar acompanha exterior e opera em queda com cenário eleitoral e dados dos EUA",
+    "titulo_original": "Dólar acompanha exterior e opera em queda com cenário eleitoral e dados dos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 09:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar, influenciada por dados de emprego dos EUA e pelo cenário eleitoral doméstico, sugere uma melhora na percepção de risco. Se os dados de emprego dos EUA continuarem fracos, o dólar pode seguir pressionado; caso contrário, uma reversão pode ocorrer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785935759.6750772,
+    "titulo": "Emprego nacional em julho da ADP dos EUA +44K vs 70K esperado",
+    "titulo_original": "US July ADP national employment +44K vs +70K expected",
+    "fonte": "ForexLive",
+    "publicado": "05/08 09:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de emprego abaixo do esperado nos EUA pode indicar uma desaceleração na atividade econômica, o que, se confirmado, poderia levar o Federal Reserve a adotar uma postura mais cautelosa em relação a futuros aumentos de juros. Se os próximos indicadores de emprego vierem mais fortes, o mercado pode reavaliar essa percepção de desaceleração.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785935764.1415782,
+    "titulo": "EUA criam 44 mil vagas em julho no setor privado, diz ADP",
+    "titulo_original": "EUA criam 44 mil vagas em julho no setor privado, diz ADP",
+    "fonte": "Valor Economico",
+    "publicado": "05/08 09:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de emprego abaixo do esperado nos EUA pode indicar uma desaceleração na atividade econômica, o que, se confirmado, poderia levar o Federal Reserve a adotar uma postura mais cautelosa em relação a futuros aumentos de juros. Se os próximos indicadores de emprego vierem mais fortes, o mercado pode reavaliar essa percepção de desaceleração.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1785935789.9175167,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/08 09:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Acompanhar a cotação do dólar é fundamental para entender o fluxo de capital e as expectativas do mercado. Se o dólar apresentar movimentos bruscos e persistentes, isso pode indicar mudanças no apetite a risco ou em fluxos de capital para o país.",
+    "is_stocks": true
   }
 ]
