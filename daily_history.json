@@ -865,5 +865,47 @@
     "origem": "domestica",
     "leitura_critica": "O desempenho consistente do Bradesco reflete a saúde do setor bancário em um cenário de juros elevados. Se o cenário de juros se mantiver favorável para a margem financeira dos bancos, resultados como este podem continuar a ser observados; caso contrário, uma queda nos juros poderia impactar essa rentabilidade.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786029344.1132684,
+    "titulo": "Lula calibra plano econômico sem reestatização e tarifa zero em meio a pressão fiscal",
+    "titulo_original": "Lula calibra plano econômico sem reestatização e tarifa zero em meio a pressão fiscal",
+    "fonte": "Folha Mercado",
+    "publicado": "06/08 12:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A exclusão de propostas como reestatização e tarifa zero em um plano de governo, em meio a um contexto de pressão fiscal, sugere uma priorização da estabilidade econômica. Se essa linha de raciocínio for mantida, a tendência é de um ambiente mais previsível para investidores; caso contrário, a reversão dessas decisões poderia gerar volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786029347.922671,
+    "titulo": "Não vejo ‘má vontade’ do mercado em expectativas futuras de taxas de juros, diz Durigan",
+    "titulo_original": "Não vejo ‘má vontade’ do mercado em expectativas futuras de taxas de juros, diz Durigan",
+    "fonte": "Valor Economico",
+    "publicado": "06/08 11:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro Durigan sobre a percepção do mercado em relação às taxas de juros, aliada à reafirmação do equilíbrio fiscal, pode sinalizar uma tentativa de ancorar expectativas. Se o mercado interpretar essas falas como um compromisso firme com a estabilidade, isso pode reduzir a volatilidade nas expectativas de juros; caso contrário, a persistência de incertezas globais pode continuar a influenciar as projeções.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786029352.4190645,
+    "titulo": "ANM cobra R$ 17,7 bi em royalties da Vale; mineradora diz que valores não procedem",
+    "titulo_original": "ANM cobra R$ 17,7 bi em royalties da Vale; mineradora diz que valores não procedem",
+    "fonte": "Folha Mercado",
+    "publicado": "06/08 09:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A cobrança de R$ 17,7 bilhões em royalties pela ANM à Vale representa um potencial impacto fiscal significativo para a mineradora. Se a Vale for obrigada a pagar o valor integral, isso afetará seus resultados financeiros; caso a contestação da empresa seja bem-sucedida, o impacto será mitigado.",
+    "is_stocks": true
   }
 ]
