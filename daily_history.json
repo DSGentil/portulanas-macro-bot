@@ -1,412 +1,5 @@
 [
   {
-    "_timestamp": 1785868325.5137713,
-    "titulo": "Dólar PTAX (04/08): cotação fecha em alta",
-    "titulo_original": "Dólar PTAX (04/08): cotação fecha em alta - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 13:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O fechamento do dólar PTAX em alta indica uma valorização da moeda americana frente ao real. Se essa tendência se mantiver, pode pressionar a inflação de importados e sinalizar um cenário de maior aversão ao risco no mercado doméstico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785868329.396158,
-    "titulo": "Múcio defende mais recursos para Forças Armadas e diz que se EUA invadirem Brasil o melhor é ‘abrir o portão’",
-    "titulo_original": "Múcio defende mais recursos para Forças Armadas e diz que se EUA invadirem Brasil o melhor é ‘abrir o portão’",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 14:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro da Defesa sobre a capacidade das Forças Armadas reflete uma preocupação com o orçamento de defesa. Se o governo não aumentar o investimento, a capacidade de resposta a potenciais ameaças pode ser comprometida, embora o cenário de invasão seja hipotético e de baixa probabilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785868333.166834,
-    "titulo": "Dirigente do Fed alerta sobre inflação e diz ser \"mente aberta\" sobre juros",
-    "titulo_original": "Dirigente do Fed alerta sobre inflação e diz ser \"mente aberta\" sobre juros - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 13:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O alerta sobre inflação e a postura de \"mente aberta\" do Fed sugerem que o banco central americano pode manter uma postura cautelosa em relação a cortes de juros. Se os dados de inflação continuarem elevados, o Fed pode adiar ou moderar qualquer ciclo de afrouxamento monetário, impactando mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785868336.929505,
-    "titulo": "Departamento de Estado dos EUA: últimas negociações Líbano-Israel começaram hoje e continuarão até 6 de agosto",
-    "titulo_original": "US State Dept: Latest Lebanon-Israel talks began today and will continue through Aug 6",
-    "fonte": "ForexLive",
-    "publicado": "04/08 14:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O avanço nas negociações entre Líbano e Israel pode aliviar tensões geopolíticas na região. Se um acordo for alcançado, isso poderia ter um impacto positivo no sentimento de risco global, potencialmente influenciando fluxos de capital para mercados emergentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785868401.6262715,
-    "titulo": "Índice de Bolsa da UE atinge maior patamar da sua história",
-    "titulo_original": "Índice de Bolsa da UE atinge maior patamar da sua história",
-    "fonte": "Folha Mercado",
-    "publicado": "04/08 14:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O recorde histórico do STOXX 600 sugere um otimismo generalizado no mercado europeu, impulsionado por fatores específicos de tecnologia e resultados corporativos. Se essa tendência se mantiver, pode indicar um apetite a risco global que, em teoria, poderia beneficiar outros mercados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785868401.6278327,
-    "titulo": "Ouro sobe mais de 1% e volta ao nível de US$ 4,1 mil; Goldman Sachs vê ponto de entrada atraente",
-    "titulo_original": "Ouro sobe mais de 1% e volta ao nível de US$ 4,1 mil; Goldman Sachs vê ponto de entrada atraente",
-    "fonte": "Money Times",
-    "publicado": "04/08 15:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do ouro, associada à queda do petróleo e dos rendimentos dos Treasuries, sugere um movimento de busca por segurança. Se as tensões geopolíticas persistirem ou se houver novas incertezas fiscais nos EUA, o ouro pode continuar a se valorizar, atraindo capital para ativos de refúgio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785868401.6293037,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa perde fôlego e passa a oscilar",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa perde fôlego e passa a oscilar - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "04/08 13:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A perda de fôlego do Ibovespa sugere que o otimismo inicial pode estar se dissipando, com investidores aguardando novos catalisadores. Se o cenário externo se deteriorar ou se surgirem incertezas fiscais domésticas, a bolsa pode reverter a tendência de alta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785875454.2702048,
-    "titulo": "Indústria tem o pior junho desde 2014",
-    "titulo_original": "Indústria tem o pior junho desde 2014",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 15:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O pior desempenho da indústria em junho desde 2014, associado a juros e endividamento altos, reforça a percepção de desaceleração da atividade econômica no Brasil. Se essa tendência se mantiver, pode haver pressão por medidas de estímulo econômico ou uma revisão das projeções de crescimento do PIB. A redução das tensões no Oriente Médio, mencionada como fator, sugere um impacto indireto via custos de produção ou demanda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785875458.6060596,
-    "titulo": "Notícias de FX das Américas: Todos de volta ao barco da IA",
-    "titulo_original": "investingLive Americas FX news wrap: Everyone back in the AI boat",
-    "fonte": "ForexLive",
-    "publicado": "04/08 17:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda nos pedidos de fábrica e o número de vagas de emprego nos EUA podem indicar uma desaceleração na atividade industrial, o que pode influenciar as decisões futuras do Fed sobre juros. O forte PMI canadense sugere resiliência na economia do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785875462.8358514,
-    "titulo": "Petróleo cai mais de 5% e brent vai abaixo de US$ 80 com possível reabertura de Ormuz",
-    "titulo_original": "Petróleo cai mais de 5% e brent vai abaixo de US$ 80 com possível reabertura de Ormuz - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "04/08 16:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda acentuada no preço do petróleo, influenciada pela expectativa de reabertura do Estreito de Ormuz, pode ter implicações na inflação global e nos custos de produção de diversos setores. Se a reabertura se concretizar, a pressão inflacionária ligada a energia tende a diminuir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785875467.30414,
-    "titulo": "Fechamento de Ormuz é o maior choque de oferta de petróleo, diz Aramco",
-    "titulo_original": "Fechamento de Ormuz é o maior choque de oferta de petróleo, diz Aramco - Poder360",
-    "fonte": "Google News Commodities",
-    "publicado": "04/08 15:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração da Aramco reforça a gravidade de um potencial fechamento do Estreito de Ormuz para a oferta global de petróleo. Se o estreito for fechado, o impacto nos preços do petróleo e, consequentemente, na inflação global e nos custos de produção, seria significativo. A expectativa de reabertura, no entanto, tem mitigado essa preocupação no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785875473.170254,
-    "titulo": "Wall Street salta com expectativa de acordo de Ormuz; S&P 500 e Dow Jones batem recordes",
-    "titulo_original": "Wall Street salta com expectativa de acordo de Ormuz; S&P 500 e Dow Jones batem recordes",
-    "fonte": "Money Times",
-    "publicado": "04/08 17:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta em Wall Street, com recordes nos principais índices, sugere um aumento do apetite a risco no mercado financeiro, possivelmente influenciado pela percepção de menor risco geopolítico com a expectativa de reabertura do Estreito de Ormuz. Se a tensão na região diminuir significativamente, o fluxo de capital para ativos de risco pode se intensificar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785875473.1718798,
-    "titulo": "OpenAI faz acordo para encerrar investigação sobre contratação de trabalhadores estrangeiros",
-    "titulo_original": "OpenAI faz acordo para encerrar investigação sobre contratação de trabalhadores estrangeiros",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 16:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A resolução desta investigação pode sinalizar um endurecimento na fiscalização de práticas de contratação por empresas de tecnologia nos EUA. Se tais práticas forem consideradas recorrentes, pode haver um aumento na pressão regulatória sobre o setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785875473.1749244,
-    "titulo": "Como o Google usou Wall Street para bancar US$ 200 bi em chips de IA para a Anthropic",
-    "titulo_original": "Como o Google usou Wall Street para bancar US$ 200 bi em chips de IA para a Anthropic",
-    "fonte": "Folha Mercado",
-    "publicado": "04/08 15:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O massivo investimento em chips de IA para a Anthropic, intermediado pelo Google e financiado por Wall Street, demonstra o crescimento acelerado do setor de inteligência artificial e a mobilização de capital para essa área. Se essa tendência se mantiver, pode haver um impacto significativo na demanda por semicondutores e na evolução tecnológica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785875473.177496,
-    "titulo": "PF apreende máquina de contar dinheiro no escritório de Willer Tomaz",
-    "titulo_original": "PF apreende máquina de contar dinheiro no escritório de Willer Tomaz",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 16:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A apreensão de uma máquina de contar dinheiro e a investigação de lavagem de dinheiro e ocultação de patrimônio no Brasil indicam a continuidade de ações de combate à corrupção. Se as investigações avançarem e resultarem em condenações, isso pode reforçar a percepção de segurança jurídica e institucional do país, embora o impacto direto nos canais macroeconômicos seja limitado a eventos pontuais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785875473.1790373,
-    "titulo": "Corrida da IA gera conta de US$ 1 trilhão em aluguéis para gigantes da tecnologia",
-    "titulo_original": "Corrida da IA gera conta de US$ 1 trilhão em aluguéis para gigantes da tecnologia",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 16:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O compromisso de US$ 1,09 trilhão em aluguéis futuros por gigantes da tecnologia para data centers de IA demonstra a escala do investimento e da demanda por infraestrutura de computação. Se a demanda por IA continuar a crescer exponencialmente, isso pode sustentar o setor de tecnologia e impulsionar a inovação, mas também representa um risco caso a demanda não se materialize conforme o esperado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785880851.7946916,
-    "titulo": "Análise: O risco de um jogo de espelhos entre o Copom e o Focus - Valor Econômico",
-    "titulo_original": "Análise: O risco de um jogo de espelhos entre o Copom e o Focus - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 13:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise aponta para uma potencial desconexão entre as expectativas do mercado (Focus) e as decisões futuras do Copom, o que pode gerar volatilidade. Se o Copom surpreender o mercado com uma postura diferente da esperada, isso pode levar a ajustes significativos nas projeções de juros e impactar o comportamento de outros ativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785880856.4997406,
-    "titulo": "Mercado prevê novo corte da Selic, mas diverge sobre espaço para reduções até o fim do ano - Jornal do Comércio",
-    "titulo_original": "Mercado prevê novo corte da Selic, mas diverge sobre espaço para reduções até o fim do ano - Jornal do Comércio",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/08 15:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divergência no mercado sobre o ritmo de cortes da Selic sugere que a trajetória futura dos juros ainda é incerta e dependerá da evolução da inflação e da atividade econômica. Se o Banco Central sinalizar cautela em futuras reuniões, isso pode limitar o espaço para novas reduções e manter os juros em patamares mais elevados por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785880861.2138417,
-    "titulo": "Calendário econômico e de eventos na Ásia 05 de agosto de 2026 - Relatório de empregos da Nova Zelândia",
-    "titulo_original": "Economic and event calendar in Asia 05 August 2026 - New Zealand jobs report",
-    "fonte": "ForexLive",
-    "publicado": "04/08 18:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Um aumento significativo no desemprego na Nova Zelândia, se confirmado, pode indicar uma desaceleração econômica mais ampla na região. Se os dados de PMI da China também vierem fracos, isso reforçaria um cenário de menor demanda global, o que poderia impactar exportações de commodities de outros países.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785880865.9936328,
-    "titulo": "Netanyahu nega ter aceitado plano de Trump para Gaza e condiciona retirada militar ao desarmamento total do Hamas - O GLOBO",
-    "titulo_original": "Netanyahu nega ter aceitado plano de Trump para Gaza e condiciona retirada militar ao desarmamento total do Hamas - O GLOBO",
-    "fonte": "Google News Geopolitica",
-    "publicado": "04/08 16:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Netanyahu indica que as negociações para um acordo em Gaza permanecem complexas e dependem de condições específicas. Se o Hamas não se desarmar, a retirada militar pode ser adiada, mantendo a instabilidade na região e impactando a confiança dos investidores globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785880872.2182927,
-    "titulo": "Prio (PRIO3) vê lucro disparar 169% no 2T26, com Ebitda recorde e avanço da produção em Wahoo",
-    "titulo_original": "Prio (PRIO3) vê lucro disparar 169% no 2T26, com Ebitda recorde e avanço da produção em Wahoo",
-    "fonte": "Money Times",
-    "publicado": "04/08 18:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O forte desempenho financeiro da Prio, com lucro e Ebitda recordes, sugere uma operação eficiente e um cenário favorável para a produção de petróleo. Se a tendência de aumento de produção e controle de custos se mantiver, a empresa pode continuar a apresentar resultados robustos, beneficiando seus acionistas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785880872.220006,
-    "titulo": "Após maior IPO da história, SpaceX supera expectativas em seu primeiro balanço – mas ações caem",
-    "titulo_original": "Após maior IPO da história, SpaceX supera expectativas em seu primeiro balanço – mas ações caem",
-    "fonte": "InvestNews",
-    "publicado": "04/08 17:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda nas ações da SpaceX, mesmo com resultados acima do esperado, indica que o mercado pode estar precificando um cenário futuro mais desafiador ou que as expectativas iniciais eram excessivamente otimistas. Se a volatilidade persistir, isso pode afetar o apetite por investimentos em empresas de tecnologia de alto crescimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785880872.221763,
-    "titulo": "Gerdau anuncia pagamento de dividendos e cancelamento de ações",
-    "titulo_original": "Gerdau anuncia pagamento de dividendos e cancelamento de ações",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 18:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O anúncio de pagamento de dividendos e cancelamento de ações pela Gerdau sugere uma política de retorno de capital aos acionistas e otimização da estrutura de capital. Se a empresa continuar a gerar caixa de forma consistente, esses movimentos podem ser positivos para o valor das ações no longo prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785880872.2234273,
-    "titulo": "Lucro do Itaú sobe para R$ 12,4 bilhões no 2º tri",
-    "titulo_original": "Lucro do Itaú sobe para R$ 12,4 bilhões no 2º tri",
-    "fonte": "Folha Mercado",
-    "publicado": "04/08 18:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O lucro do Itaú, embora expressivo, ter vindo ligeiramente abaixo do esperado pode gerar alguma cautela no mercado. Se os próximos resultados de outros bancos apresentarem desempenho semelhante, isso pode indicar um cenário de menor crescimento para o setor financeiro no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785880872.2251234,
-    "titulo": "Vale aprova R$ 8,64 bilhões em dividendos a acionistas e recompra de ações - UOL Economia",
-    "titulo_original": "Vale aprova R$ 8,64 bilhões em dividendos a acionistas e recompra de ações - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "04/08 14:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de dividendos e recompra de ações pela Vale demonstra confiança da gestão nos resultados futuros e busca por valorização para os acionistas. Se a empresa mantiver a disciplina de custos e a produção em patamares elevados, esses movimentos podem sustentar o preço das ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785880872.226829,
-    "titulo": "Gerdau registra lucro líquido de R$ 1,5 bi no segundo trimestre, alta de quase 70%",
-    "titulo_original": "Gerdau registra lucro líquido de R$ 1,5 bi no segundo trimestre, alta de quase 70%",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 18:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O forte crescimento do lucro e Ebitda da Gerdau, aliado ao aumento da receita líquida e produção de aço, indica um desempenho operacional robusto. Se a empresa conseguir manter essa performance, especialmente em um cenário de demanda aquecida por aço, isso pode se refletir positivamente no valor das suas ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785880872.2285233,
-    "titulo": "Receita da SpaceX dispara e prejuízo fica abaixo do esperado em primeiro relatório de resultados",
-    "titulo_original": "Receita da SpaceX dispara e prejuízo fica abaixo do esperado em primeiro relatório de resultados",
-    "fonte": "Folha Mercado",
-    "publicado": "04/08 17:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O forte crescimento da receita e o prejuízo menor que o esperado da SpaceX indicam uma capacidade de monetização de suas operações e um controle de custos mais eficaz. Se a empresa continuar a expandir suas atividades e a gerar receita de forma consistente, isso pode sustentar o interesse dos investidores em seu potencial de crescimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785886247.581394,
-    "titulo": "Ajuste fiscal “minimamente aceitável” pode abrir espaço para queda dos juros, diz Bittencourt",
-    "titulo_original": "Ajuste fiscal “minimamente aceitável”pode abrir espaço para queda dos juros, diz Bittencourt",
-    "fonte": "Money Times",
-    "publicado": "04/08 19:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de que um ajuste fiscal considerado \"minimamente aceitável\" possa viabilizar a queda dos juros sugere uma forte correlação entre as contas públicas e a política monetária. Se o governo conseguir implementar medidas fiscais críveis, o Banco Central pode ter mais margens para cortar a taxa Selic; caso contrário, a manutenção de juros elevados pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785886252.1464977,
-    "titulo": "STF inicia análise de leis sobre soja, terras indígenas e licenciamento - Canal Rural",
-    "titulo_original": "STF inicia análise de leis sobre soja, terras indígenas e licenciamento - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "04/08 17:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O início da análise pelo STF de leis sobre soja, terras indígenas e licenciamento pode gerar decisões com impacto significativo no agronegócio e no meio ambiente. Se as decisões forem favoráveis à expansão do agronegócio com respeito às terras indígenas e licenciamento, isso pode impulsionar o setor; caso contrário, pode haver restrições que afetem a produção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785886256.5673177,
-    "titulo": "Juros futuros têm leve alta com quadro político local",
-    "titulo_original": "Juros futuros têm leve alta com quadro político local",
-    "fonte": "Valor Economico",
-    "publicado": "04/08 18:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A volatilidade nos juros futuros, influenciada pelo cenário político local, demonstra a sensibilidade do mercado a fatores de risco domésticos. Se a incerteza política persistir, o Banco Central pode ter seu espaço para cortes de juros limitado; caso haja uma resolução ou clareza política, a tendência de queda dos juros pode se fortalecer.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785886260.978009,
-    "titulo": "Lula conversa com Putin e discute fornecimento de diesel e fertilizantes",
-    "titulo_original": "Lula conversa com Putin e discute fornecimento de diesel e fertilizantes",
-    "fonte": "Folha Mercado",
-    "publicado": "04/08 15:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A conversa entre Lula e Putin sobre o fornecimento de diesel e fertilizantes pode ter implicações na balança comercial e na segurança energética do Brasil. Se os acordos forem concretizados, isso pode estabilizar os preços desses insumos; caso contrário, o Brasil pode enfrentar volatilidade no abastecimento e nos custos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785886265.4064038,
-    "titulo": "PMI de serviços da Austrália atinge máxima de seis meses com retorno de novos pedidos",
-    "titulo_original": "Australia services PMI hits six-month high of 53.6 as new orders return",
-    "fonte": "ForexLive",
-    "publicado": "04/08 20:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O fortalecimento do setor de serviços na Austrália, com o retorno de novos pedidos e melhora na confiança empresarial, pode indicar uma recuperação econômica mais robusta. Se a inflação de preços de produção continuar a subir, isso pode levar o Banco Central da Austrália a manter uma postura mais cautelosa em relação a cortes de juros; se a inflação de custos de insumos cair mais, pode haver espaço para flexibilização.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1785929451.9205353,
     "titulo": "Por que não é uma boa ideia elevar a meta de inflação após o ajuste fiscal?",
     "titulo_original": "Por que não é uma boa ideia elevar a meta de inflação após o ajuste fiscal?",
@@ -1093,6 +686,76 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A redução da taxa básica de juros para 14% ao ano é um movimento concreto do Banco Central, mas a ausência de sinalização de novos cortes sugere que o BC mantém preocupações com a inflação ou outros riscos. Se os próximos indicadores de inflação vierem acima do esperado, o BC pode manter os juros nesse patamar por mais tempo; caso contrário, a porta para novos cortes pode se abrir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786015995.1515524,
+    "titulo": "O cenário teria de piorar muito para o BC não cortar a Selic de novo em setembro, diz Solange Srour, do UBS",
+    "titulo_original": "O cenário teria de piorar muito para o BC não cortar a Selic de novo em setembro, diz Solange Srour, do UBS",
+    "fonte": "InvestNews",
+    "publicado": "06/08 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Solange Srour do UBS sugere que a expectativa predominante é de mais um corte na Selic em setembro, a menos que haja uma deterioração significativa do cenário econômico. Se os próximos dados econômicos vierem favoráveis, o corte deve ocorrer; caso contrário, uma pausa na política monetária se tornaria mais provável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786015998.9826028,
+    "titulo": "Selic cai para 14% ao ano e indica boas perspectivas para pequenos negócios",
+    "titulo_original": "Selic cai para 14% ao ano e indica boas perspectivas para pequenos negócios - agenciasebrae.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/08 07:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda da Selic para 14% ao ano é um sinal de afrouxamento monetário que pode beneficiar pequenos negócios com acesso a crédito mais barato. Se essa tendência de queda nos juros continuar, isso pode estimular o investimento e o consumo no segmento de pequenas empresas; a manutenção da taxa em patamares elevados, por outro lado, limitaria esse impacto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786016002.6892185,
+    "titulo": "Bitcoin se aproxima de US$ 65 mil com esperanças sobre o Estreito de Ormuz e melhora nos fluxos de ETF",
+    "titulo_original": "Bitcoin nears $65k amid Hormuz hopes, improving ETF flows",
+    "fonte": "Investing.com",
+    "publicado": "06/08 04:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A aproximação do Bitcoin a US$ 65 mil, associada a esperanças sobre o Estreito de Ormuz e melhora nos fluxos de ETFs, sugere um aumento no apetite por risco. Se as tensões no Estreito de Ormuz aumentarem, isso pode impactar negativamente o sentimento do mercado e o preço do Bitcoin; caso contrário, a tendência de alta pode se sustentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786016006.7369006,
+    "titulo": "Agenda do dia: Seguro-desemprego nos EUA e leilão de prefixados no Brasil são destaque",
+    "titulo_original": "Agenda do dia: Seguro-desemprego nos EUA e leilão de prefixados no Brasil são destaque",
+    "fonte": "Valor Economico",
+    "publicado": "06/08 07:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Os dados de seguro-desemprego nos EUA e o leilão de prefixados no Brasil são eventos chave para o dia, com potencial para influenciar as expectativas de juros e o fluxo de capital. Se os dados de emprego nos EUA vierem significativamente diferentes do esperado, isso pode impactar as decisões do Fed; um leilão de prefixados bem-sucedido no Brasil pode sinalizar demanda por títulos públicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786016010.5366282,
+    "titulo": "Manhã no mercado: No pós-Copom, investidores monitoram leilão de prefixados e exterior",
+    "titulo_original": "Manhã no mercado: No pós-Copom, investidores monitoram leilão de prefixados e exterior - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/08 08:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A atenção dos investidores ao leilão de prefixados e ao exterior após o Copom indica a busca por direcionamento em um cenário de juros definidos e incertezas globais. Se o leilão de prefixados apresentar alta demanda, isso pode sinalizar confiança na economia doméstica; uma piora no cenário externo pode levar a uma fuga de capitais, pressionando o câmbio.",
     "is_stocks": false
   }
 ]
