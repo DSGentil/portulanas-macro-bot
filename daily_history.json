@@ -1,274 +1,5 @@
 [
   {
-    "_timestamp": 1785929451.9205353,
-    "titulo": "Por que não é uma boa ideia elevar a meta de inflação após o ajuste fiscal?",
-    "titulo_original": "Por que não é uma boa ideia elevar a meta de inflação após o ajuste fiscal?",
-    "fonte": "Folha Mercado",
-    "publicado": "05/08 07:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre elevar a meta de inflação após um ajuste fiscal levanta um debate sobre a estratégia de política monetária e fiscal. Se a meta de inflação for elevada, isso pode sinalizar uma tolerância maior à inflação no médio prazo, potencialmente impactando as expectativas de juros; se o ajuste fiscal não for considerado robusto o suficiente, a credibilidade da política pode ser questionada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785929455.6814933,
-    "titulo": "Copom: mercado prevê corte de 0,25 ponto. Veja o que esperar dos investimentos que seguem a Selic",
-    "titulo_original": "Copom: mercado prevê corte de 0,25 ponto. Veja o que esperar dos investimentos que seguem a Selic - InvestNews",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 06:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de um corte de 0,25 ponto na Selic pelo Copom indica a continuidade do ciclo de flexibilização monetária. Se o corte ocorrer conforme o esperado, o mercado pode reagir com cautela, aguardando sinais sobre o ritmo futuro; se o corte for maior ou menor que o previsto, isso pode gerar volatilidade nos ativos atrelados à taxa básica de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785929459.3578541,
-    "titulo": "Copom: Com resultado \"dado\", mercado deve esmiuçar comunicado do BC",
-    "titulo_original": "Copom: Com resultado \"dado\", mercado deve esmiuçar comunicado do BC - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 04:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de que o mercado analisará detalhadamente o comunicado do Banco Central após a decisão do Copom indica a importância dos sinais futuros sobre a política monetária. Se o comunicado sinalizar uma postura mais cautelosa ou um ritmo diferente de cortes, isso pode influenciar as expectativas de juros e o comportamento do câmbio; se o comunicado for neutro, a atenção se voltará para os próximos indicadores econômicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785929463.037102,
-    "titulo": "Selic deve cair, mas até onde o Copom pode ir? 17 casas fazem suas apostas; veja projeções",
-    "titulo_original": "Selic deve cair, mas até onde o Copom pode ir? 17 casas fazem suas apostas; veja projeções",
-    "fonte": "Money Times",
-    "publicado": "05/08 08:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa generalizada de um corte de 0,25 ponto na Selic pelo Copom reforça a tendência de flexibilização monetária. Se o corte ocorrer conforme o esperado, o mercado pode buscar por sinais sobre a velocidade e o limite desse ciclo de cortes; se houver surpresas na magnitude do corte ou na comunicação do BC, isso pode gerar volatilidade nos ativos de renda fixa e no câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785929487.8866174,
-    "titulo": "Agenda de empresas: Lucro da Gerdau cresce 70%; ganho do Itaú Unibanco soma R$ 12,4 bilhões",
-    "titulo_original": "Agenda de empresas: Lucro da Gerdau cresce 70%; ganho do Itaú Unibanco soma R$ 12,4 bilhões",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 08:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Os resultados corporativos de empresas como Gerdau e Itaú Unibanco oferecem um panorama do desempenho setorial. Se os lucros continuarem a crescer de forma generalizada, isso pode indicar uma melhora na atividade econômica; caso contrário, pode sinalizar pressões sobre o consumo e a demanda.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785929487.88809,
-    "titulo": "Lucro da Klabin (KLBN11) encolhe 34% no 2T26, a R$ 387 milhões ; veja os números",
-    "titulo_original": "Lucro da Klabin (KLBN11) encolhe 34% no 2T26, a R$ 387 milhões ; veja os números",
-    "fonte": "Money Times",
-    "publicado": "05/08 08:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda no lucro da Klabin reflete um cenário específico da empresa e do setor de papel e celulose. Se outras empresas do setor apresentarem resultados semelhantes, isso pode indicar uma desaceleração na demanda ou aumento de custos; se os resultados forem isolados, pode ser um evento específico da companhia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785929487.8895924,
-    "titulo": "Ternium tem alta de 60% no lucro por melhores condições de mercado no Brasil e México",
-    "titulo_original": "Ternium tem alta de 60% no lucro por melhores condições de mercado no Brasil e México",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "O aumento do lucro da Ternium, atribuído a condições de mercado favoráveis no Brasil e México e medidas antidumping, indica um cenário positivo para a siderurgia nesses mercados. Se as condições de mercado no Brasil se mantiverem favoráveis para o setor, isso pode refletir em maior atividade industrial; a menção a medidas antidumping sugere um ambiente regulatório específico que pode impactar o comércio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785935755.2399817,
-    "titulo": "Dólar acompanha exterior e opera em queda com cenário eleitoral e dados dos EUA",
-    "titulo_original": "Dólar acompanha exterior e opera em queda com cenário eleitoral e dados dos EUA",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 09:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do dólar, influenciada por dados de emprego dos EUA e pelo cenário eleitoral doméstico, sugere uma melhora na percepção de risco. Se os dados de emprego dos EUA continuarem fracos, o dólar pode seguir pressionado; caso contrário, uma reversão pode ocorrer.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785935759.6750772,
-    "titulo": "Emprego nacional em julho da ADP dos EUA +44K vs 70K esperado",
-    "titulo_original": "US July ADP national employment +44K vs +70K expected",
-    "fonte": "ForexLive",
-    "publicado": "05/08 09:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de emprego abaixo do esperado nos EUA pode indicar uma desaceleração na atividade econômica, o que, se confirmado, poderia levar o Federal Reserve a adotar uma postura mais cautelosa em relação a futuros aumentos de juros. Se os próximos indicadores de emprego vierem mais fortes, o mercado pode reavaliar essa percepção de desaceleração.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785935764.1415782,
-    "titulo": "EUA criam 44 mil vagas em julho no setor privado, diz ADP",
-    "titulo_original": "EUA criam 44 mil vagas em julho no setor privado, diz ADP",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 09:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de emprego abaixo do esperado nos EUA pode indicar uma desaceleração na atividade econômica, o que, se confirmado, poderia levar o Federal Reserve a adotar uma postura mais cautelosa em relação a futuros aumentos de juros. Se os próximos indicadores de emprego vierem mais fortes, o mercado pode reavaliar essa percepção de desaceleração.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785935789.9175167,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 09:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Acompanhar a cotação do dólar é fundamental para entender o fluxo de capital e as expectativas do mercado. Se o dólar apresentar movimentos bruscos e persistentes, isso pode indicar mudanças no apetite a risco ou em fluxos de capital para o país.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785942975.8587322,
-    "titulo": "Subir, cair ou ficar de lado? Como o mercado enxerga a trajetória do dólar até o fim de 2026 - Bora Investir",
-    "titulo_original": "Subir, cair ou ficar de lado? Como o mercado enxerga a trajetória do dólar até o fim de 2026 - Bora Investir",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 11:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa do mercado sobre a trajetória futura do dólar é um indicador importante para a precificação de ativos e decisões de investimento. Se os fatores que influenciam a moeda, como a política monetária e o cenário econômico global, se alterarem, a projeção do mercado pode mudar rapidamente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785942979.316235,
-    "titulo": "Mundo vai encarar nova alta nos preços dos alimentos, alerta FAO",
-    "titulo_original": "Mundo vai encarar nova alta nos preços dos alimentos, alerta FAO",
-    "fonte": "Folha Mercado",
-    "publicado": "05/08 11:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A combinação de conflitos geopolíticos e fenômenos climáticos pode gerar pressões inflacionárias significativas nos preços dos alimentos globalmente. Se as condições climáticas se agravarem ou os conflitos se intensificarem, o impacto nos custos de produção e, consequentemente, nos preços ao consumidor, pode ser ainda maior.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785942982.762281,
-    "titulo": "Acredito que chegou o momento de começarmos a elevar os juros gradualmente, diz Kashkari, do Fed",
-    "titulo_original": "Acredito que chegou o momento de começarmos a elevar os juros gradualmente, diz Kashkari, do Fed",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 11:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Kashkari, um membro com direito a voto no FOMC, sugere que a discussão sobre elevação de juros nos EUA pode ganhar força. Se a inflação persistir elevada, a pressão por um aperto monetário mais consistente pode aumentar, impactando as decisões futuras do Fed.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785942986.287259,
-    "titulo": "Trump diz que negociações com o Irã podem ter resposta nos próximos dias - cnnbrasil.com.br",
-    "titulo_original": "Trump diz que negociações com o Irã podem ter resposta nos próximos dias - cnnbrasil.com.br",
-    "fonte": "Google News Geopolitica",
-    "publicado": "05/08 06:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A expectativa de uma resposta nas negociações com o Irã pode gerar volatilidade nos mercados globais, especialmente no setor de energia. Se as negociações resultarem em um acordo, isso pode aliviar tensões geopolíticas; caso contrário, o cenário pode se tornar mais incerto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785942991.6423383,
-    "titulo": "US S&P Global services final PMI 54.6 vs 53.6 prelim",
-    "titulo_original": "US S&P Global services final PMI 54.6 vs 53.6 prelim",
-    "fonte": "ForexLive",
-    "publicado": "05/08 10:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Um PMI de serviços mais forte que o esperado sugere que a economia dos EUA pode estar crescendo a uma taxa anualizada de 2,3%, o que pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Se o relatório ISM de serviços, a ser divulgado em breve, também vier acima das expectativas, isso pode sustentar o dólar e pressionar as ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785942991.6440527,
-    "titulo": "Cade nega pedido de sindicato e mantém aprovação da privatização da Copasa",
-    "titulo_original": "Cade nega pedido de sindicato e mantém aprovação da privatização da Copasa",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 11:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Cade de manter a aprovação da aquisição da Copasa pela Equatorial, mesmo com o recurso do sindicato, sinaliza que a operação segue o rito regulatório. Se não houver novas contestações significativas, a transação deve se concretizar, impactando a estrutura de propriedade da companhia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785942991.6456957,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e testa os 179 mil pontos - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e testa os 179 mil pontos - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "05/08 11:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa, influenciada pelo exterior, sugere um otimismo momentâneo nos mercados globais. Se o cenário externo se mantiver favorável, a bolsa brasileira pode continuar a buscar novos patamares; no entanto, qualquer reversão no humor internacional pode impactar negativamente o índice.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785942991.647302,
-    "titulo": "Estrangeiro teve 1 motivo em especial para voltar para B3 em julho: movimento durará? - InfoMoney",
-    "titulo_original": "Estrangeiro teve 1 motivo em especial para voltar para B3 em julho: movimento durará? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "05/08 07:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O retorno de capital estrangeiro à bolsa brasileira em julho, especialmente se motivado por fatores específicos, pode indicar uma mudança no apetite por risco em relação ao Brasil. Se o motivo que atraiu os investidores se mantiver, o fluxo pode continuar; caso contrário, pode haver uma reversão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785942991.6489534,
-    "titulo": "Estrangeiros encerram julho com saldo positivo de R$ 2,5 bilhões na Bolsa",
-    "titulo_original": "Estrangeiros encerram julho com saldo positivo de R$ 2,5 bilhões na Bolsa",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 11:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O retorno de capital estrangeiro à bolsa brasileira em julho, com um saldo positivo significativo, pode indicar uma melhora na percepção de risco do país. Se os fatores que impulsionaram esse fluxo se mantiverem, a entrada de capital pode continuar, beneficiando o mercado acionário.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1785948476.4522665,
     "titulo": "Copom define taxa de juros hoje, e mercado já projeta próximos passos",
     "titulo_original": "Copom define taxa de juros hoje, e mercado já projeta próximos passos - UOL Economia",
@@ -906,6 +637,77 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A cobrança de R$ 17,7 bilhões em royalties pela ANM à Vale representa um potencial impacto fiscal significativo para a mineradora. Se a Vale for obrigada a pagar o valor integral, isso afetará seus resultados financeiros; caso a contestação da empresa seja bem-sucedida, o impacto será mitigado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786053647.626907,
+    "titulo": "Copom reduz Selic para 14% ao ano; Humberto Costa considera taxa insuficiente - PT no Senado",
+    "titulo_original": "Copom reduz Selic para 14% ao ano; Humberto Costa considera taxa insuficiente - PT no Senado",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/08 15:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução da Selic para 14% ao ano é uma decisão concreta de política monetária, mas a crítica de um senador sugere divergências sobre o ritmo de flexibilização. Se a pressão por cortes mais agressivos aumentar, isso pode criar um cenário de incerteza sobre a trajetória futura dos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786053651.6812503,
+    "titulo": "BC: Copom monitora com atenção desancoragem adicional de expectativas longas de inflação",
+    "titulo_original": "BC: Copom monitora com atenção desancoragem adicional de expectativas longas de inflação - jornaldocomercio.com",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/08 15:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O monitoramento da desancoragem das expectativas de inflação pelo Copom é um sinal de que o Banco Central está atento a pressões inflacionárias futuras, o que pode influenciar decisões futuras de juros. Se as expectativas de inflação continuarem a se desancorar, o BC pode manter uma postura mais restritiva.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786053655.6446145,
+    "titulo": "Modo ‘data dependent’ do Copom alimenta aposta em Selic mais baixa",
+    "titulo_original": "Modo ‘data dependent’ do Copom alimenta aposta em Selic mais baixa",
+    "fonte": "Valor Economico",
+    "publicado": "06/08 18:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A comunicação \"data dependent\" do Copom indica que as decisões futuras de juros dependerão da evolução dos dados econômicos, o que pode gerar volatilidade no mercado. Se os dados econômicos mostrarem uma desaceleração mais acentuada, as apostas em cortes de juros podem se concretizar mais rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786053659.710739,
+    "titulo": "Juros futuros sobem com ajustes pós-Copom e pressão externa",
+    "titulo_original": "Juros futuros sobem com ajustes pós-Copom e pressão externa",
+    "fonte": "Valor Economico",
+    "publicado": "06/08 18:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta nos juros futuros reflete a cautela do mercado após a decisão do Copom e a influência das taxas de juros americanas. Se o Federal Reserve sinalizar um aperto monetário mais prolongado, a pressão sobre os juros domésticos pode persistir, dificultando cortes adicionais na Selic.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786053664.9749467,
+    "titulo": "Assaí ganha clientes, mas juros altos encolhem o valor do carrinho",
+    "titulo_original": "Assaí ganha clientes, mas juros altos encolhem o valor do carrinho",
+    "fonte": "InvestNews",
+    "publicado": "06/08 18:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O impacto dos juros altos no poder de compra do consumidor é evidenciado pela redução do valor do carrinho de compras, mesmo com o aumento do volume de clientes. Se os juros permanecerem elevados, o consumo pode continuar pressionado, afetando o desempenho de empresas do varejo.",
     "is_stocks": true
   }
 ]
