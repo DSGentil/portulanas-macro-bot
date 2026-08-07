@@ -1,47 +1,5 @@
 [
   {
-    "_timestamp": 1786029344.1132684,
-    "titulo": "Lula calibra plano econômico sem reestatização e tarifa zero em meio a pressão fiscal",
-    "titulo_original": "Lula calibra plano econômico sem reestatização e tarifa zero em meio a pressão fiscal",
-    "fonte": "Folha Mercado",
-    "publicado": "06/08 12:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A exclusão de propostas como reestatização e tarifa zero em um plano de governo, em meio a um contexto de pressão fiscal, sugere uma priorização da estabilidade econômica. Se essa linha de raciocínio for mantida, a tendência é de um ambiente mais previsível para investidores; caso contrário, a reversão dessas decisões poderia gerar volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786029347.922671,
-    "titulo": "Não vejo ‘má vontade’ do mercado em expectativas futuras de taxas de juros, diz Durigan",
-    "titulo_original": "Não vejo ‘má vontade’ do mercado em expectativas futuras de taxas de juros, diz Durigan",
-    "fonte": "Valor Economico",
-    "publicado": "06/08 11:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro Durigan sobre a percepção do mercado em relação às taxas de juros, aliada à reafirmação do equilíbrio fiscal, pode sinalizar uma tentativa de ancorar expectativas. Se o mercado interpretar essas falas como um compromisso firme com a estabilidade, isso pode reduzir a volatilidade nas expectativas de juros; caso contrário, a persistência de incertezas globais pode continuar a influenciar as projeções.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786029352.4190645,
-    "titulo": "ANM cobra R$ 17,7 bi em royalties da Vale; mineradora diz que valores não procedem",
-    "titulo_original": "ANM cobra R$ 17,7 bi em royalties da Vale; mineradora diz que valores não procedem",
-    "fonte": "Folha Mercado",
-    "publicado": "06/08 09:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A cobrança de R$ 17,7 bilhões em royalties pela ANM à Vale representa um potencial impacto fiscal significativo para a mineradora. Se a Vale for obrigada a pagar o valor integral, isso afetará seus resultados financeiros; caso a contestação da empresa seja bem-sucedida, o impacto será mitigado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786053647.626907,
     "titulo": "Copom reduz Selic para 14% ao ano; Humberto Costa considera taxa insuficiente - PT no Senado",
     "titulo_original": "Copom reduz Selic para 14% ao ano; Humberto Costa considera taxa insuficiente - PT no Senado",
@@ -858,6 +816,101 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A notícia trata de uma operação financeira específica do governo do Distrito Federal para salvar o BRB. Se o empréstimo for concedido e o banco se recuperar, isso pode ter um impacto positivo na economia local, mas não há conexão explícita com canais macroeconômicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786140045.9887722,
+    "titulo": "ANP revoga autorização da Refit após Receita Federal suspender CNPJ da refinaria",
+    "titulo_original": "ANP revoga autorização da Refit após Receita Federal suspender CNPJ da refinaria",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 18:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revogação da autorização da Refit pela ANP, em decorrência da suspensão do CNPJ pela Receita Federal, demonstra a aplicação de regras fiscais e regulatórias. Se a Receita Federal mantiver a postura rigorosa na fiscalização, isso pode servir de precedente para outras empresas com pendências fiscais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786140049.9350667,
+    "titulo": "Economia em Destaque: Copom corta juros e deixa cenário prospectivo em aberto - XP Investimentos",
+    "titulo_original": "Economia em Destaque: Copom corta juros e deixa cenário prospectivo em aberto - XP Investimentos",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/08 14:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Copom de cortar juros, mas com um cenário prospectivo em aberto, sugere que o Banco Central está monitorando de perto os indicadores econômicos para definir os próximos passos. Se a inflação ou outros fatores de risco aumentarem, o ritmo de cortes pode ser mais lento ou até mesmo interrompido.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786140054.0308838,
+    "titulo": "Juros futuros recuam com apoio externo, após ‘payroll’ fraco",
+    "titulo_original": "Juros futuros recuam com apoio externo, após ‘payroll’ fraco",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 18:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda nos juros futuros brasileiros, impulsionada pela percepção de que o Fed pode não subir juros, sugere uma convergência de expectativas globais. Se o cenário de juros mais baixos nos EUA se consolidar, isso pode criar espaço para o Banco Central do Brasil manter ou acelerar o ciclo de cortes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786140058.132821,
+    "titulo": "El Niño ameaça produção das commodities mais negociadas",
+    "titulo_original": "El Niño ameaça produção das commodities mais negociadas",
+    "fonte": "Folha Mercado",
+    "publicado": "07/08 18:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A ameaça do El Niño à produção de commodities agrícolas pode gerar volatilidade nos preços internacionais e impactar a inflação global. Se os efeitos do fenômeno forem severos, isso pode levar a uma pressão inflacionária mais persistente, exigindo atenção das autoridades monetárias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786140083.6074603,
+    "titulo": "Iguatemi fecha proposta para venda de participações em 5 shoppings, por R$ 876,1 milhões",
+    "titulo_original": "Iguatemi fecha proposta para venda de participações em 5 shoppings, por R$ 876,1 milhões",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 18:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A venda de ativos pela Iguatemi pode indicar uma estratégia de reestruturação ou otimização de portfólio. Se a transação for concluída conforme o proposto, a empresa poderá fortalecer sua posição financeira, o que pode ser positivo para a percepção de risco de seus ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786140083.6089296,
+    "titulo": "Índice STOXX 600 fecha semana em máxima recorde com balanços e dados fracos de trabalho dos EUA",
+    "titulo_original": "Índice STOXX 600 fecha semana em máxima recorde com balanços e dados fracos de trabalho dos EUA",
+    "fonte": "Folha Mercado",
+    "publicado": "07/08 17:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O recorde do STOXX 600, em conjunto com dados fracos de emprego nos EUA, sugere que o mercado europeu pode estar reagindo positivamente a balanços corporativos em um cenário de expectativas de juros mais baixos. Se os dados de emprego nos EUA continuarem fracos, isso pode sustentar o otimismo no mercado europeu.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786140083.6103246,
+    "titulo": "Petrobras diz que dividendo extra é 'muito pouco provável', apesar de petróleo caro",
+    "titulo_original": "Petrobras diz que dividendo extra é 'muito pouco provável', apesar de petróleo caro",
+    "fonte": "Folha Mercado",
+    "publicado": "07/08 14:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da Petrobras sobre a improbabilidade de dividendos extraordinários, apesar do lucro elevado, pode indicar uma estratégia de reinvestimento ou preservação de caixa. Se a empresa priorizar investimentos em detrimento de distribuições maiores, isso pode impactar a percepção de curto prazo dos acionistas.",
     "is_stocks": true
   }
 ]
