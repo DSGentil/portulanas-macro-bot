@@ -1,75 +1,5 @@
 [
   {
-    "_timestamp": 1786015995.1515524,
-    "titulo": "O cenário teria de piorar muito para o BC não cortar a Selic de novo em setembro, diz Solange Srour, do UBS",
-    "titulo_original": "O cenário teria de piorar muito para o BC não cortar a Selic de novo em setembro, diz Solange Srour, do UBS",
-    "fonte": "InvestNews",
-    "publicado": "06/08 06:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Solange Srour do UBS sugere que a expectativa predominante é de mais um corte na Selic em setembro, a menos que haja uma deterioração significativa do cenário econômico. Se os próximos dados econômicos vierem favoráveis, o corte deve ocorrer; caso contrário, uma pausa na política monetária se tornaria mais provável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786015998.9826028,
-    "titulo": "Selic cai para 14% ao ano e indica boas perspectivas para pequenos negócios",
-    "titulo_original": "Selic cai para 14% ao ano e indica boas perspectivas para pequenos negócios - agenciasebrae.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "06/08 07:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda da Selic para 14% ao ano é um sinal de afrouxamento monetário que pode beneficiar pequenos negócios com acesso a crédito mais barato. Se essa tendência de queda nos juros continuar, isso pode estimular o investimento e o consumo no segmento de pequenas empresas; a manutenção da taxa em patamares elevados, por outro lado, limitaria esse impacto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786016002.6892185,
-    "titulo": "Bitcoin se aproxima de US$ 65 mil com esperanças sobre o Estreito de Ormuz e melhora nos fluxos de ETF",
-    "titulo_original": "Bitcoin nears $65k amid Hormuz hopes, improving ETF flows",
-    "fonte": "Investing.com",
-    "publicado": "06/08 04:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A aproximação do Bitcoin a US$ 65 mil, associada a esperanças sobre o Estreito de Ormuz e melhora nos fluxos de ETFs, sugere um aumento no apetite por risco. Se as tensões no Estreito de Ormuz aumentarem, isso pode impactar negativamente o sentimento do mercado e o preço do Bitcoin; caso contrário, a tendência de alta pode se sustentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786016006.7369006,
-    "titulo": "Agenda do dia: Seguro-desemprego nos EUA e leilão de prefixados no Brasil são destaque",
-    "titulo_original": "Agenda do dia: Seguro-desemprego nos EUA e leilão de prefixados no Brasil são destaque",
-    "fonte": "Valor Economico",
-    "publicado": "06/08 07:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os dados de seguro-desemprego nos EUA e o leilão de prefixados no Brasil são eventos chave para o dia, com potencial para influenciar as expectativas de juros e o fluxo de capital. Se os dados de emprego nos EUA vierem significativamente diferentes do esperado, isso pode impactar as decisões do Fed; um leilão de prefixados bem-sucedido no Brasil pode sinalizar demanda por títulos públicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786016010.5366282,
-    "titulo": "Manhã no mercado: No pós-Copom, investidores monitoram leilão de prefixados e exterior",
-    "titulo_original": "Manhã no mercado: No pós-Copom, investidores monitoram leilão de prefixados e exterior - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "06/08 08:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A atenção dos investidores ao leilão de prefixados e ao exterior após o Copom indica a busca por direcionamento em um cenário de juros definidos e incertezas globais. Se o leilão de prefixados apresentar alta demanda, isso pode sinalizar confiança na economia doméstica; uma piora no cenário externo pode levar a uma fuga de capitais, pressionando o câmbio.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1786022154.6604304,
     "titulo": "Empresas públicas no radar do TCU geram R$ 1,5 bilhão de rombo mensal e Tesouro paga a conta",
     "titulo_original": "Empresas públicas no radar do TCU geram R$ 1,5 bilhão de rombo mensal e Tesouro paga a conta",
@@ -813,6 +743,100 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "O conflito geopolítico no Oriente Médio impactou positivamente os resultados da Petrobras ao elevar o preço do petróleo. Se a tensão na região persistir, isso pode continuar sustentando os preços do petróleo e, consequentemente, os resultados da estatal.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786127746.0222435,
+    "titulo": "Caiado defende revisar reforma tributária e diz que medida será prioridade de governo",
+    "titulo_original": "Caiado defende revisar reforma tributária e diz que medida será prioridade de governo",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 14:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de revisão da reforma tributária por Ronaldo Caiado, se eleito, pode gerar incertezas sobre a estabilidade do sistema tributário. Se a revisão for focada em simplificação e redução de custos, pode ser positiva para o ambiente de negócios; caso contrário, pode criar novas complexidades ou alterar a carga tributária de forma imprevisível.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786127750.2440019,
+    "titulo": "Flávio promete fim do imposto sobre exportação de petróleo se eleito",
+    "titulo_original": "Flávio promete fim do imposto sobre exportação de petróleo se eleito - Congresso em Foco",
+    "fonte": "Google News Commodities",
+    "publicado": "07/08 14:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A promessa de Flávio de acabar com o imposto sobre exportação de petróleo, se eleito, pode impactar a arrecadação fiscal e a competitividade do setor. Se a medida for implementada, pode atrair investimentos e aumentar as exportações; no entanto, o governo precisará compensar a perda de receita de outra forma.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786127754.410276,
+    "titulo": "Vendas de cimento no país sobem 2,5% em julho",
+    "titulo_original": "Vendas de cimento no país sobem 2,5% em julho",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 15:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento nas vendas de cimento indica uma atividade construtiva em expansão, possivelmente ligada ao programa Minha Casa, Minha Vida. Contudo, o cenário de juros e inflação pressionados, além do endividamento familiar, pode limitar o ritmo de crescimento futuro, exigindo acompanhamento de novas medidas de estímulo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786127758.547026,
+    "titulo": "Crown e Nexa fecham parceria para oferecer stablecoin BRLV em produtos de investimento",
+    "titulo_original": "Crown e Nexa fecham parceria para oferecer stablecoin BRLV em produtos de investimento",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 14:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A parceria entre Crown e Nexa visa expandir o uso da stablecoin BRLV no mercado de investimentos, lastreada em títulos públicos. Se a adoção for bem-sucedida, pode representar um fluxo de capital adicional para títulos públicos e aumentar a liquidez no mercado de criptoativos atrelados ao real. A estimativa de R$ 200 milhões em alocações nos próximos 12 meses será um indicador chave.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786127763.8116624,
+    "titulo": "BCDI11: Analistas da Empiricus recomendam FI-Infra atrelado ao CDI e com ‘perfil defensivo’; veja os motivos",
+    "titulo_original": "BCDI11: Analistas da Empiricus recomendam FI-Infra atrelado ao CDI e com ‘perfil defensivo’; veja os motivos",
+    "fonte": "Money Times",
+    "publicado": "07/08 15:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de compra do FI-Infra BCDI11 pela Empiricus, com foco em seu perfil defensivo e atrelamento ao CDI, sugere uma estratégia de investimento conservadora em um cenário de juros ainda elevados. Se a taxa Selic se mantiver alta, fundos atrelados ao CDI tendem a apresentar desempenho estável, mas o potencial de valorização pode ser limitado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786127763.8128037,
+    "titulo": "C&A e Riachuelo apertam o passo. E expõem a perda de ritmo da Renner",
+    "titulo_original": "C&A e Riachuelo apertam o passo. E expõem a perda de ritmo da Renner",
+    "fonte": "InvestNews",
+    "publicado": "07/08 14:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica uma disputa acirrada no varejo de moda, com C&A e Riachuelo ganhando terreno em relação à Renner. Se a Renner não conseguir reverter a perda de ritmo e ajustar sua projeção de vendas, pode enfrentar desafios maiores. A concorrência acirrada pode levar a estratégias de precificação e promoções mais agressivas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786127763.8138397,
+    "titulo": "Pior interrupção da história do mercado brasileiro coloca a B3 em foco",
+    "titulo_original": "Pior interrupção da história do mercado brasileiro coloca a B3 em foco",
+    "fonte": "InvestNews",
+    "publicado": "07/08 13:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A falha técnica na B3 representa um grave incidente para a infraestrutura do mercado financeiro brasileiro. Se medidas eficazes não forem tomadas para garantir a estabilidade dos sistemas, a confiança dos investidores pode ser abalada. A investigação sobre as causas e a implementação de soluções robustas são essenciais para evitar futuras ocorrências.",
     "is_stocks": true
   }
 ]
