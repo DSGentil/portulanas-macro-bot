@@ -1,299 +1,5 @@
 [
   {
-    "_timestamp": 1785954644.9187517,
-    "titulo": "Fluxo cambial registra entrada líquida de US$ 1,94 bi em julho",
-    "titulo_original": "Fluxo cambial registra entrada líquida de US$ 1,94 bi em julho",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 14:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada líquida de fluxo cambial em julho, a maior desde 2018 no acumulado do ano, sugere um interesse renovado em ativos brasileiros. Se essa tendência de ingresso de capital se mantiver, isso pode fortalecer o real e reduzir a pressão sobre as taxas de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785954648.4394116,
-    "titulo": "Dólar PTAX (05/08): cotação fecha em alta",
-    "titulo_original": "Dólar PTAX (05/08): cotação fecha em alta - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 13:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O fechamento em alta do Dólar PTAX indica uma valorização da moeda americana frente ao real. Se essa tendência se mantiver, pode haver um impacto na inflação de produtos importados e na competitividade das exportações brasileiras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785954652.008151,
-    "titulo": "Dólar hoje quase zera queda após escolha de vice de Flávio Bolsonaro e volta a cair",
-    "titulo_original": "Dólar hoje quase zera queda após escolha de vice de Flávio Bolsonaro e volta a cair - infomoney.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 12:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A volatilidade do dólar em resposta a notícias políticas indica a sensibilidade do mercado a eventos domésticos. Se a escolha do vice de Flávio Bolsonaro gerar incertezas políticas, isso pode levar a uma maior volatilidade cambial no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785954655.483916,
-    "titulo": "Índice de Commodities do BC cai 0,57% em julho",
-    "titulo_original": "Índice de Commodities do BC cai 0,57% em julho",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 14:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O recuo do Índice de Commodities em julho, especialmente nas metálicas, pode indicar uma desaceleração na pressão inflacionária de matérias-primas. Se essa tendência de queda se mantiver, isso pode aliviar as pressões sobre a inflação ao consumidor e as decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785954659.0271769,
-    "titulo": "Riza quer levantar R$ 1 bi para fundo de florestas e mira demanda de estrangeiros por ativos ESG",
-    "titulo_original": "Riza quer levantar R$ 1 bi para fundo de florestas e mira demanda de estrangeiros por ativos ESG",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 14:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A iniciativa da Riza em criar um fundo focado em florestas e ESG, com mira em investidores estrangeiros, reflete o crescente interesse global por ativos sustentáveis. Se a captação for bem-sucedida, isso pode atrair capital externo para o setor florestal brasileiro e impulsionar práticas de manejo sustentável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785961848.392925,
-    "titulo": "Irã ameaça atacar países do Golfo se EUA lançarem novos bombardeios",
-    "titulo_original": "Irã ameaça atacar países do Golfo se EUA lançarem novos bombardeios",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 16:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A ameaça do Irã de atacar infraestruturas energéticas na região do Golfo, em caso de novos bombardeios dos EUA, eleva o risco geopolítico e pode impactar o fornecimento global de petróleo. Se as tensões escalarem, isso pode gerar volatilidade nos mercados de energia e commodities.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785961853.20821,
-    "titulo": "EUA proíbem exportações de diversos minerais críticos usados",
-    "titulo_original": "EUA proíbem exportações de diversos minerais críticos usados",
-    "fonte": "Folha Mercado",
-    "publicado": "05/08 16:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A decisão dos EUA pode impactar as cadeias de suprimentos globais e intensificar a busca por fontes alternativas de minerais críticos. Se a China retaliar com restrições, isso pode gerar volatilidade em setores dependentes desses insumos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785961858.0114784,
-    "titulo": "Trump promete reabrir Ormuz enquanto crise e inflação avançam nos EUA",
-    "titulo_original": "Trump promete reabrir Ormuz enquanto crise e inflação avançam nos EUA - vermelho.org.br",
-    "fonte": "Google News Geopolitica",
-    "publicado": "05/08 15:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A promessa de reabrir o Estreito de Ormuz pode ter implicações na oferta global de petróleo, potencialmente afetando os preços e a inflação. Se a tensão na região aumentar, isso pode gerar volatilidade nos mercados energéticos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785961863.0240252,
-    "titulo": "Presidente do Irã diz que interação com líder supremo está atualmente 'muito difícil'",
-    "titulo_original": "Presidente do Irã diz que interação com líder supremo está atualmente 'muito difícil'",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 17:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração sobre a dificuldade de interação entre o presidente e o líder supremo do Irã pode indicar tensões internas no país. Se essa instabilidade política se aprofundar, pode haver repercussões na geopolítica regional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785961868.9352522,
-    "titulo": "Recordes de produção e alta do petróleo devem impulsionar resultados do 2º tri da Petrobras",
-    "titulo_original": "Recordes de produção e alta do petróleo devem impulsionar resultados do 2º tri da Petrobras",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 17:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Se a alta do petróleo se mantiver, os resultados da Petrobras podem continuar positivos nos próximos trimestres. A expectativa por dividendos pode influenciar o comportamento das ações da companhia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785961868.9371603,
-    "titulo": "Wall Street tem novo fechamento recorde do Dow Jones, mas tech pesa",
-    "titulo_original": "Wall Street tem novo fechamento recorde do Dow Jones, mas tech pesa",
-    "fonte": "Money Times",
-    "publicado": "05/08 17:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O recorde do Dow Jones sugere força em setores mais tradicionais da economia americana. A pressão sobre o setor de tecnologia pode indicar uma rotação de capital ou preocupações específicas com esse segmento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785961868.9389842,
-    "titulo": "Ações têm desempenho misto, Nasdaq em queda; preços do ouro disparam",
-    "titulo_original": "Ações têm desempenho misto, Nasdaq em queda; preços do ouro disparam - TradingView",
-    "fonte": "Google News Commodities",
-    "publicado": "05/08 14:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A disparada dos preços do ouro, em contraste com a queda do Nasdaq, pode indicar uma busca por ativos de refúgio em meio a incertezas. Se o cenário de aversão ao risco se intensificar, o ouro pode continuar a se valorizar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785961868.9408205,
-    "titulo": "Cade aprova aquisição de 30% do capital da Copasa pela Gerais Saneamento",
-    "titulo_original": "Cade aprova aquisição de 30% do capital da Copasa pela Gerais Saneamento",
-    "fonte": "Money Times",
-    "publicado": "05/08 16:34",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do Cade para a aquisição de participação na Copasa pela Gerais Saneamento é uma decisão regulatória que afeta o setor de saneamento. Se a transação resultar em mudanças na gestão ou operação da Copasa, isso pode impactar a oferta de serviços.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785967252.711934,
-    "titulo": "BC faz quarto corte seguido na Selic e taxa vai a 14% ao ano",
-    "titulo_original": "BC faz quarto corte seguido na Selic e taxa vai a 14% ao ano",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 18:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade do ciclo de cortes na Selic reforça a política monetária expansionista do Banco Central. Se a inflação continuar a ceder de forma consistente, o mercado poderá precificar cortes mais agressivos nas próximas reuniões; caso contrário, o BC pode sinalizar uma pausa no ciclo para avaliar os efeitos da política atual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785967256.896084,
-    "titulo": "Copom decide rumo da Selic nesta quarta-feira; mercado espera que juro caia a 14% - Valor Econômico",
-    "titulo_original": "Copom decide rumo da Selic nesta quarta-feira; mercado espera que juro caia a 14% - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 17:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Esta notícia antecipa a decisão do Copom sobre a taxa Selic, um dos principais indicadores de política monetária. A expectativa de mercado para um corte específico indica a direção que os agentes financeiros esperam para a taxa de juros, influenciando expectativas futuras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785967261.114059,
-    "titulo": "Selic em 14% mantém renda fixa pós-fixada atrativa; veja como ficam os investimentos",
-    "titulo_original": "Selic em 14% mantém renda fixa pós-fixada atrativa; veja como ficam os investimentos",
-    "fonte": "Folha Mercado",
-    "publicado": "05/08 18:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da atratividade da renda fixa pós-fixada e indexada à inflação é uma consequência direta da decisão sobre a taxa de juros. Se a inflação continuar sob controle, a renda fixa pode seguir como uma opção interessante; se houver pressões inflacionárias, a atratividade pode diminuir, dependendo da percepção de risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785967266.5230386,
-    "titulo": "Banco Central corta a taxa Selic pela quarta vez consecutiva, para 14% - VEJA",
-    "titulo_original": "Banco Central corta a taxa Selic pela quarta vez consecutiva, para 14% - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 18:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A confirmação do quarto corte consecutivo na taxa Selic reforça a tendência de flexibilização monetária. Se a economia continuar a apresentar sinais de desaceleração controlada, o Banco Central pode manter essa trajetória; em caso de sinais de aquecimento excessivo ou pressões inflacionárias, o ritmo de cortes pode ser revisto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785967292.984091,
-    "titulo": "AO VIVO: Acompanhe live sobre a decisão da taxa Selic pelo Copom - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "titulo_original": "AO VIVO: Acompanhe live sobre a decisão da taxa Selic pelo Copom - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 17:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Esta notícia indica a cobertura em tempo real da decisão do Copom sobre a taxa Selic. Acompanhar a decisão em si é crucial para entender a política monetária; se a decisão for diferente do esperado pelo mercado, isso pode gerar volatilidade. A cobertura ao vivo sugere que a informação é de alta relevância no momento da divulgação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785967292.9859955,
-    "titulo": "Governo assina contratos com empresas vencedoras no leilão do pré-sal",
-    "titulo_original": "Governo assina contratos com empresas vencedoras no leilão do pré-sal",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 18:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A assinatura dos contratos do leilão do pré-sal representa a concretização de uma decisão regulatória do governo na exploração de petróleo. Se os blocos arrematados forem de grande potencial, isso pode impactar a produção futura de energia e a arrecadação fiscal; se os resultados do leilão forem inferiores ao esperado, pode sinalizar desafios no setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785967292.9878142,
-    "titulo": "Resumo das notícias do mercado americano: Ouro dispara",
-    "titulo_original": "investingLive Americas market news wrap: Gold storms higher",
-    "fonte": "ForexLive",
-    "publicado": "05/08 18:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Dados de atividade econômica nos EUA vieram mistos, com o ISM de serviços abaixo do esperado e o ADP de emprego também. Se os dados de emprego continuarem a surpreender negativamente, isso pode aumentar a pressão por cortes de juros pelo Fed; se o PMI de serviços indicar resiliência, pode sustentar a visão de uma economia mais robusta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1785972644.9661057,
-    "titulo": "Lula sanciona novas regras para o piso mínimo do frete rodoviário",
-    "titulo_original": "Lula sanciona novas regras para o piso mínimo do frete rodoviário",
-    "fonte": "Valor Economico",
-    "publicado": "05/08 18:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A sanção da nova lei do piso mínimo do frete rodoviário representa uma decisão regulatória concreta com potencial impacto nos custos logísticos do país. Se a fiscalização for efetiva e as punições aplicadas, isso pode gerar maior previsibilidade para o setor de transporte, mas também pode aumentar os custos para embarcadores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1785972649.6737635,
-    "titulo": "BC reduz taxa básica de juros para 14% ao ano sem sinalizar novos cortes - UOL Economia",
-    "titulo_original": "BC reduz taxa básica de juros para 14% ao ano sem sinalizar novos cortes - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/08 18:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução da taxa básica de juros para 14% ao ano é um movimento concreto do Banco Central, mas a ausência de sinalização de novos cortes sugere que o BC mantém preocupações com a inflação ou outros riscos. Se os próximos indicadores de inflação vierem acima do esperado, o BC pode manter os juros nesse patamar por mais tempo; caso contrário, a porta para novos cortes pode se abrir.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1786015995.1515524,
     "titulo": "O cenário teria de piorar muito para o BC não cortar a Selic de novo em setembro, diz Solange Srour, do UBS",
     "titulo_original": "O cenário teria de piorar muito para o BC não cortar a Selic de novo em setembro, diz Solange Srour, do UBS",
@@ -711,6 +417,147 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A negociação de dívidas de infraestrutura de IA reflete uma mudança na percepção de risco de credores em relação a investimentos nesse setor. Embora seja um movimento financeiro relevante, a notícia não estabelece uma conexão direta com canais macroeconômicos como juros, inflação, atividade econômica ou decisões fiscais/regulatórias no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786102260.9988544,
+    "titulo": "Ministros do STF sinalizam apoio à proposta de súmula de Gilmar Mendes para barrar pautas-bomba",
+    "titulo_original": "Ministros do STF sinalizam apoio à proposta de súmula de Gilmar Mendes para barrar pautas-bomba",
+    "fonte": "Folha Mercado",
+    "publicado": "07/08 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O apoio dos ministros do STF à súmula para barrar pautas-bomba pode representar um avanço na disciplina fiscal, caso a proposta seja efetivada. Se a súmula for aprovada e aplicada, pode reduzir a pressão por gastos não financiados, o que seria positivo para a trajetória da dívida pública; o contrário ocorreria se o Congresso encontrar brechas ou se a aplicação da súmula for flexibilizada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786102265.8459163,
+    "titulo": "Postura neutra do Copom pressiona juros e impulsiona o real",
+    "titulo_original": "Postura neutra do Copom pressiona juros e impulsiona o real - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/08 05:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção de uma postura neutra pelo Copom sugere que o comitê pode estar avaliando a necessidade de ajustes futuros nos juros, o que pode gerar volatilidade no mercado. Se a economia apresentar sinais de desaceleração mais acentuada, o Copom pode adotar um tom mais dovish, levando a uma queda nos juros; se a inflação mostrar persistência, o tom pode se manter neutro ou até mesmo se tornar mais hawkish.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786102270.5403626,
+    "titulo": "Mercados europeus fecham: Ouro avança, dólar contido antes do NFP",
+    "titulo_original": "investingLive European markets wrap: Gold advances, dollar muted ahead of NFP",
+    "fonte": "ForexLive",
+    "publicado": "07/08 08:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa pelo relatório de emprego dos EUA (NFP) é o principal fator de atenção, com o mercado aguardando dados que possam influenciar as decisões futuras do Fed sobre juros. Se o NFP vier significativamente abaixo do esperado, pode reforçar a narrativa de cortes de juros; se vier forte, pode indicar persistência inflacionária e manter a pressão por juros mais altos por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786102275.2428627,
+    "titulo": "Alta do petróleo eleva exportação; superávit no ano é de US$ 49 bi",
+    "titulo_original": "Alta do petróleo eleva exportação; superávit no ano é de US$ 49 bi - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "07/08 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O superávit comercial impulsionado pela alta do petróleo indica um cenário favorável para a balança comercial brasileira no curto prazo. Se os preços do petróleo se mantiverem elevados e a demanda global por commodities continuar forte, o superávit pode se expandir ainda mais; no entanto, uma queda abrupta nos preços do petróleo ou uma desaceleração global poderiam reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786102283.4717836,
+    "titulo": "Todos os olhos no relatório de empregos dos EUA agora",
+    "titulo_original": "All eyes on the US jobs report now",
+    "fonte": "ForexLive",
+    "publicado": "07/08 07:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O relatório de folha de pagamento não agrícola (NFP) dos EUA é crucial para determinar a trajetória futura da política monetária do Fed. Se o número de empregos vier significativamente abaixo dos 80 mil esperados, pode aumentar a pressão por cortes de juros; se vier acima, pode indicar uma economia robusta e adiar ou diminuir a expectativa de cortes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786102283.4727402,
+    "titulo": "Governo dos EUA determina inspeções em jatos Boeing 737 Max por risco de trincas estruturais",
+    "titulo_original": "Governo dos EUA determina inspeções em jatos Boeing 737 Max por risco de trincas estruturais",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 08:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A determinação de inspeções pela FAA pode gerar custos adicionais e atrasos para a Boeing, impactando sua produção e entregas. Se as inspeções revelarem problemas generalizados, isso pode afetar a confiança no modelo 737 Max e, consequentemente, a demanda por aeronaves da Boeing.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786102283.4736743,
+    "titulo": "Porto Seguro tem lucro estável de R$ 879 milhões no 2º trimestre, com receita em alta de 10,4%",
+    "titulo_original": "Porto Seguro tem lucro estável de R$ 879 milhões no 2º trimestre, com receita em alta de 10,4%",
+    "fonte": "Money Times",
+    "publicado": "07/08 08:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O resultado da Porto Seguro demonstra resiliência em seu lucro, apesar do crescimento da receita, o que pode indicar um controle de custos ou margens mais apertadas em algumas linhas de negócio. Se a tendência de crescimento da receita se mantiver e os custos forem controlados, o lucro pode apresentar uma recuperação mais expressiva nos próximos trimestres.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786102283.4746451,
+    "titulo": "Fundo imobiliário mira captação de até R$ 250 milhões em nova emissão de cotas; IFIX recua pelo 4º pregão seguido",
+    "titulo_original": "Fundo imobiliário mira captação de até R$ 250 milhões em nova emissão de cotas; IFIX recua pelo 4º pregão seguido",
+    "fonte": "Money Times",
+    "publicado": "07/08 08:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A emissão de cotas pelo fundo imobiliário indica uma busca por capital para expansão ou novos investimentos, enquanto a queda do IFIX sugere um momento de cautela no mercado de fundos imobiliários. Se o mercado de fundos imobiliários continuar em tendência de baixa, a captação do IBBP11 pode ser desafiadora; se o IFIX se recuperar, a emissão pode ter sucesso e impulsionar o fundo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786102283.4755266,
+    "titulo": "Agenda de empresas: Lucro da Petrobras quase dobra; ganho do Assaí soma R$ 537 mi",
+    "titulo_original": "Agenda de empresas: Lucro da Petrobras quase dobra; ganho do Assaí soma R$ 537 mi",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 08:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados robustos da Petrobras e do Assaí no segundo trimestre de 2026, com lucros significativamente elevados e aprovação de dividendos, indicam um desempenho positivo para essas empresas. Se a Petrobras mantiver essa performance e os dividendos, pode continuar atraindo investidores; o Assaí, com seu forte crescimento, pode consolidar sua posição no varejo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786102283.47648,
+    "titulo": "Mitre Realty (MTRE3): Lucro líquido sobe 45,5% no 2T26",
+    "titulo_original": "Mitre Realty (MTRE3): Lucro líquido sobe 45,5% no 2T26",
+    "fonte": "Money Times",
+    "publicado": "07/08 07:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento de 45,5% no lucro líquido da Mitre Realty no segundo trimestre de 2026, juntamente com o crescimento da receita, indica uma performance positiva para a construtora. Se a empresa conseguir manter essa trajetória de crescimento e gerenciar seus custos de forma eficaz, pode continuar a apresentar resultados favoráveis nos próximos períodos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786102283.4773896,
+    "titulo": "Petrobras (PETR4), Assaí (ASAI3), Allos (ALOS3), Alpargatas (ALPA4) e mais: Veja os destaques das empresas",
+    "titulo_original": "Petrobras (PETR4), Assaí (ASAI3), Allos (ALOS3), Alpargatas (ALPA4) e mais: Veja os destaques das empresas - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "07/08 08:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados apresentados por Petrobras, Assaí, Allos e Alpargatas no segundo trimestre de 2026 demonstram um cenário de forte desempenho para essas empresas, com lucros crescentes e, em alguns casos, aprovação de dividendos. Se essa tendência de crescimento se mantiver, essas empresas podem continuar a ser destaques no mercado acionário brasileiro.",
     "is_stocks": true
   }
 ]
