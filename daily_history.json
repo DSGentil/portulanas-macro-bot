@@ -559,5 +559,114 @@
     "origem": "domestica",
     "leitura_critica": "Os resultados apresentados por Petrobras, Assaí, Allos e Alpargatas no segundo trimestre de 2026 demonstram um cenário de forte desempenho para essas empresas, com lucros crescentes e, em alguns casos, aprovação de dividendos. Se essa tendência de crescimento se mantiver, essas empresas podem continuar a ser destaques no mercado acionário brasileiro.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786115987.7770116,
+    "titulo": "Dólar abre em leve queda ainda sob efeito do corte da Selic",
+    "titulo_original": "Dólar abre em leve queda ainda sob efeito do corte da Selic - Folha de S.Paulo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/08 09:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar após o corte da Selic sugere que a política monetária mais frouxa no Brasil está tornando a moeda local mais atrativa para investidores. Se o Banco Central continuar com o ciclo de cortes, o dólar pode permanecer sob pressão de baixa, a menos que fatores externos mudem o cenário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786115991.5285969,
+    "titulo": "Exportação de soja em julho cresce 9,3% em volume na comparação anual, diz Secex",
+    "titulo_original": "Exportação de soja em julho cresce 9,3% em volume na comparação anual, diz Secex - UOL Notícias",
+    "fonte": "Google News Commodities",
+    "publicado": "07/08 09:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento no volume de exportação de soja indica uma forte demanda internacional pelo produto brasileiro. Se essa tendência se mantiver, pode ter um impacto positivo na balança comercial do país e nos preços das commodities agrícolas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786115995.3248882,
+    "titulo": "Julho tem maior volume de saques da poupança no Brasil desde março",
+    "titulo_original": "Julho tem maior volume de saques da poupança no Brasil desde março",
+    "fonte": "Folha Mercado",
+    "publicado": "07/08 10:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo nos saques da poupança em julho indica que os investidores estão buscando alternativas de investimento com maior rentabilidade ou precisando de liquidez. Se essa tendência se prolongar, pode sinalizar uma busca por maior retorno em outros ativos ou dificuldades financeiras para parte da população.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786115999.0849428,
+    "titulo": "Selic em 14%: especialistas avaliam investimentos na renda fixa e na renda variável; confira",
+    "titulo_original": "Selic em 14%: especialistas avaliam investimentos na renda fixa e na renda variável; confira - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/08 10:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise de especialistas sobre investimentos com a Selic em 14% oferece um panorama sobre como o cenário de juros altos afeta as diferentes classes de ativos. Se a taxa Selic se mantiver elevada por mais tempo, a renda fixa continuará atrativa, mas se houver expectativa de queda, a renda variável pode ganhar espaço.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786116066.5565753,
+    "titulo": "Ibovespa diverge de ativos locais e cai mais de 1% após ‘payroll’, pressionado por balanços e rotação para ‘techs’",
+    "titulo_original": "Ibovespa destoa de ativos locais e cai mais de 1% após ‘payroll’, pressionado por balanços e rotação para ‘techs’",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 10:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A fraqueza inesperada no mercado de trabalho americano, indicada pelo \"payroll\", tende a reduzir as apostas de alta de juros pelo Federal Reserve, o que favorece ativos de risco como ações de tecnologia. Se o fluxo de capital para a bolsa brasileira não se reverter, o Ibovespa pode continuar sob pressão, mesmo com o cenário externo mais favorável a juros baixos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786116066.5578532,
+    "titulo": "Estrangeiros retiram R$ 714,8 milhões da B3 em 5 de agosto, mas acumulam saldo de R$ 35,5 bi em 2026",
+    "titulo_original": "Estrangeiros retiram R$ 714,8 milhões da B3 em 5 de agosto, mas acumulam saldo de R$ 35,5 bi em 2026",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 11:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro em um dia específico, embora significativa, é compensada por um saldo positivo anual robusto, indicando que o fluxo de capital para o Brasil ainda é favorável no longo prazo. Se as saídas diárias persistirem sem uma entrada equivalente, isso pode sinalizar uma mudança de sentimento do investidor estrangeiro em relação ao mercado brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786116066.5589817,
+    "titulo": "Payroll não agrícola de julho nos EUA -23K vs +80K esperado",
+    "titulo_original": "US July non-farm payrolls -23K vs +80K expected",
+    "fonte": "ForexLive",
+    "publicado": "07/08 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de payroll nos EUA, com criação de empregos negativa e abaixo do esperado, sugere uma desaceleração no mercado de trabalho americano. Se essa fraqueza se mantiver, pode aumentar a pressão sobre o Federal Reserve para reduzir os juros mais cedo ou com mais intensidade, impactando mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786116066.5601213,
+    "titulo": "Produção de veículos tem melhor julho em 7 anos e vendas são as maiores em 12 anos",
+    "titulo_original": "Produção de veículos tem melhor julho em 7 anos e vendas são as maiores em 12 anos",
+    "fonte": "Money Times",
+    "publicado": "07/08 11:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O forte desempenho da produção e vendas de veículos no Brasil em julho sugere uma recuperação robusta do setor automotivo. Se essa tendência se mantiver, pode ter um impacto positivo no emprego e na atividade econômica geral do país, além de impulsionar setores correlatos.",
+    "is_stocks": true
   }
 ]
