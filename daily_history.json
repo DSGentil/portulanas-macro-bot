@@ -1,113 +1,5 @@
 [
   {
-    "_timestamp": 1786022154.6604304,
-    "titulo": "Empresas públicas no radar do TCU geram R$ 1,5 bilhão de rombo mensal e Tesouro paga a conta",
-    "titulo_original": "Empresas públicas no radar do TCU geram R$ 1,5 bilhão de rombo mensal e Tesouro paga a conta",
-    "fonte": "Money Times",
-    "publicado": "06/08 10:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O déficit recorrente em empresas públicas federais representa um ônus para o Tesouro Nacional, impactando as contas públicas. Se medidas eficazes não forem implementadas para reverter esse quadro, a pressão sobre o orçamento público pode aumentar, exigindo cortes em outras áreas ou aumento de arrecadação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786022159.4116871,
-    "titulo": "Juros futuros se alinham ao exterior e operam em alta, com Fed no foco",
-    "titulo_original": "Juros futuros se alinham ao exterior e operam em alta, com Fed no foco",
-    "fonte": "Valor Economico",
-    "publicado": "06/08 09:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A disposição do Fed em elevar juros, se confirmada por dados de inflação fortes, pode manter a pressão sobre as taxas no Brasil. Se os próximos dados de inflação nos EUA vierem abaixo do esperado, isso poderia aliviar a pressão sobre os juros futuros globais e, consequentemente, domésticos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786022164.1421926,
-    "titulo": "Dólar inicia a sessão estável, apesar de viés de alta do exterior",
-    "titulo_original": "Dólar inicia a sessão estável, apesar de viés de alta do exterior",
-    "fonte": "Valor Economico",
-    "publicado": "06/08 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A estabilidade do dólar no Brasil, mesmo com a pressão externa por alta de juros nos EUA, pode ser influenciada por fatores domésticos ou pela valorização do petróleo. Se o Fed confirmar a alta de juros, o dólar tende a se fortalecer globalmente, o que pode pressionar a moeda brasileira; caso contrário, a tendência de alta pode se reverter.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786022168.8724637,
-    "titulo": "US initial jobless claims 199K versus 202K estimate",
-    "titulo_original": "US initial jobless claims 199K versus 202K estimate",
-    "fonte": "ForexLive",
-    "publicado": "06/08 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A persistência de baixos níveis de pedidos de seguro-desemprego sugere um mercado de trabalho resiliente, o que pode influenciar a decisão do Fed sobre a política monetária. Se os dados de emprego continuarem fortes, isso pode reforçar a visão do Fed de que a economia não está deteriorando de forma significativa, mantendo a possibilidade de juros mais altos por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786022175.7511384,
-    "titulo": "investingLive European markets wrap: Dollar steadies, gold stays poised but off early highs",
-    "titulo_original": "investingLive European markets wrap: Dollar steadies, gold stays poised but off early highs",
-    "fonte": "ForexLive",
-    "publicado": "06/08 09:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A estabilidade do dólar e a resiliência do ouro em meio a dados mistos de emprego e atividade econômica na Europa sugerem um cenário de cautela global. Se os dados de inflação nos EUA vierem acima do esperado, isso pode fortalecer o dólar e pressionar o ouro; caso contrário, uma desaceleração inflacionária pode favorecer ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786022175.7525394,
-    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "06/08 09:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A interação entre Bolsa, Dólar e Juros é complexa e influenciada por diversos fatores. Se os juros futuros continuarem em alta, isso pode pressionar a bolsa brasileira; caso contrário, uma perspectiva de queda nos juros poderia impulsionar o mercado acionário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786022175.753885,
-    "titulo": "Petrobras (PETR4) divulga seu balanço nesta quinta (6): o que esperar?",
-    "titulo_original": "Petrobras (PETR4) divulga seu balanço nesta quinta (6): o que esperar? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "06/08 06:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O balanço da Petrobras é um indicador importante para o setor de energia e para a economia brasileira. Se os resultados vierem acima ou abaixo das expectativas, isso pode influenciar o desempenho das ações da empresa e o humor do mercado em relação a outras commodities.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786022175.7552369,
-    "titulo": "Lucro do Bradesco cresce há dez trimestres; estamos entregando o que prometemos, diz diretor",
-    "titulo_original": "Lucro do Bradesco cresce há dez trimestres; estamos entregando o que prometemos, diz diretor",
-    "fonte": "Valor Economico",
-    "publicado": "06/08 09:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho consistente do Bradesco reflete a saúde do setor bancário em um cenário de juros elevados. Se o cenário de juros se mantiver favorável para a margem financeira dos bancos, resultados como este podem continuar a ser observados; caso contrário, uma queda nos juros poderia impactar essa rentabilidade.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786029344.1132684,
     "titulo": "Lula calibra plano econômico sem reestatização e tarifa zero em meio a pressão fiscal",
     "titulo_original": "Lula calibra plano econômico sem reestatização e tarifa zero em meio a pressão fiscal",
@@ -837,6 +729,135 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A falha técnica na B3 representa um grave incidente para a infraestrutura do mercado financeiro brasileiro. Se medidas eficazes não forem tomadas para garantir a estabilidade dos sistemas, a confiança dos investidores pode ser abalada. A investigação sobre as causas e a implementação de soluções robustas são essenciais para evitar futuras ocorrências.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786134641.519635,
+    "titulo": "Queda da Selic para 14%: o Fim do Piloto Automático na Política Monetária",
+    "titulo_original": "Queda da Selic para 14%: o Fim do Piloto Automático na Política Monetária - Forbes Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/08 13:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre a queda da Selic e o fim do piloto automático na política monetária sugere uma mudança de estratégia do Banco Central. Se a taxa Selic continuar em trajetória de queda, isso pode impactar a atratividade da renda fixa e estimular o consumo e o investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786134645.232432,
+    "titulo": "Selic a 14% ainda deixa a renda fixa atraente? Entenda o que muda para cada investimento",
+    "titulo_original": "Selic a 14% ainda deixa a renda fixa atraente? Entenda o que muda para cada investimento - suno.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/08 16:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre a atratividade da renda fixa com a Selic em 14% é central para decisões de investimento. Se a taxa Selic permanecer elevada, a renda fixa continuará sendo uma opção atrativa; se houver cortes, outros ativos podem ganhar destaque.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786134648.9667923,
+    "titulo": "Amazônia tem menor índice de alertas de desmatamento da década",
+    "titulo_original": "Amazônia tem menor índice de alertas de desmatamento da década",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 16:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A redução nos alertas de desmatamento na Amazônia é um dado positivo para o meio ambiente e pode ter implicações na imagem internacional do Brasil. Se essa tendência de queda se mantiver, pode haver um impacto positivo nas relações comerciais e de investimento com países que valorizam a sustentabilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786134652.6293857,
+    "titulo": "Lula diz que vai enviar a Trump gráficos sobre queda do desmatamento",
+    "titulo_original": "Lula diz que vai enviar a Trump gráficos sobre queda do desmatamento - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "07/08 17:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A comunicação sobre a queda do desmatamento com o ex-presidente Trump pode ser interpretada como uma tentativa de melhorar a imagem ambiental do Brasil no exterior. Se essa iniciativa gerar um diálogo construtivo, pode haver impactos positivos nas relações bilaterais e na percepção de risco do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786134657.876128,
+    "titulo": "Wall Street avança com payroll fraco; Nasdaq salta 5% e tem melhor semana desde abril",
+    "titulo_original": "Wall Street avança com payroll fraco; Nasdaq salta 5% e tem melhor semana desde abril",
+    "fonte": "Money Times",
+    "publicado": "07/08 17:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A divulgação de um payroll fraco nos EUA reforça a expectativa de que o Fed possa moderar o ritmo de alta de juros, o que é positivo para o mercado de ações. Se a próxima reunião do Fed confirmar essa postura mais cautelosa, os índices americanos podem continuar a apresentar ganhos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786134657.877564,
+    "titulo": "Atividade mais fraca pode abrir espaço para Selic cair a 13,25%, diz Bradesco",
+    "titulo_original": "Atividade mais fraca pode abrir espaço para Selic cair a 13,25%, diz Bradesco",
+    "fonte": "Folha Mercado",
+    "publicado": "07/08 13:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Bradesco de queda da Selic para 13,25% sugere que a desaceleração econômica pode ser um fator determinante para a política monetária. Se os dados de atividade e emprego continuarem a indicar fraqueza, o Banco Central pode antecipar cortes na taxa de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786134657.8788803,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1% com pressão de PETR4 e bancos",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1% com pressão de PETR4 e bancos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "07/08 13:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, influenciada por setores específicos como PETR4 e bancos, indica um movimento de aversão ao risco no mercado acionário doméstico. Se essa pressão se mantiver, pode haver um impacto negativo em outros setores da bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786134657.880193,
+    "titulo": "OpenAI sinaliza possível risco crítico à segurança cibernética em novo modelo de IA",
+    "titulo_original": "OpenAI sinaliza possível risco crítico à segurança cibernética em novo modelo de IA",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 17:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia aponta para potenciais riscos de segurança em um novo modelo de IA, o que pode gerar preocupações sobre o desenvolvimento tecnológico e sua aplicação. Se esses riscos se materializarem, podem haver implicações regulatórias futuras, mas a notícia em si não detalha isso.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786134657.8815207,
+    "titulo": "Itaú (ITUB4) é a ação mais recomendada para ter na carteira em agosto, segundo 14 analistas; veja ranking",
+    "titulo_original": "Itaú (ITUB4) é a ação mais recomendada para ter na carteira em agosto, segundo 14 analistas; veja ranking",
+    "fonte": "Money Times",
+    "publicado": "07/08 16:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de analistas sobre a ação do Itaú indica uma percepção positiva sobre o desempenho futuro do banco. Se o banco apresentar resultados consistentes com as expectativas, a ação pode se valorizar, mas a notícia não conecta com canais macroeconômicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786134657.8828611,
+    "titulo": "Governo do DF espera conseguir empréstimo para o BRB com balanço parcial de contas",
+    "titulo_original": "Governo do DF espera conseguir empréstimo para o BRB com balanço parcial de contas",
+    "fonte": "Folha Mercado",
+    "publicado": "07/08 15:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata de uma operação financeira específica do governo do Distrito Federal para salvar o BRB. Se o empréstimo for concedido e o banco se recuperar, isso pode ter um impacto positivo na economia local, mas não há conexão explícita com canais macroeconômicos.",
     "is_stocks": true
   }
 ]
