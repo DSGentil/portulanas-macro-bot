@@ -912,5 +912,70 @@
     "origem": "domestica",
     "leitura_critica": "A declaração da Petrobras sobre a improbabilidade de dividendos extraordinários, apesar do lucro elevado, pode indicar uma estratégia de reinvestimento ou preservação de caixa. Se a empresa priorizar investimentos em detrimento de distribuições maiores, isso pode impactar a percepção de curto prazo dos acionistas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786145440.2352316,
+    "titulo": "BC determina retenção de transferência ‘cripto’ acima de US$ 10 mil por 24h para combater fraudes",
+    "titulo_original": "BC determina reter transferência ‘cripto’ acima de US$ 10 mil por 24h para combater fraudes",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 19:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nova regulamentação do Banco Central visa aumentar a segurança nas transações com ativos virtuais. Se as medidas forem eficazes em coibir fraudes, isso pode trazer maior confiança ao mercado de criptoativos no Brasil. Caso contrário, a retenção prolongada pode gerar atritos operacionais para investidores e empresas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786145443.7846925,
+    "titulo": "Greve atinge operações da BHP em Port Hedland, maior polo de exportação de minério do mundo",
+    "titulo_original": "Greve atinge operações da BHP em Port Hedland, maior polo de exportação de minério do mundo",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 17:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A greve na BHP em Port Hedland pode impactar o fornecimento global de minério de ferro, influenciando os preços da commodity. Se a paralisação se estender, o cenário de oferta pode se tornar mais apertado, pressionando os preços para cima; caso contrário, a normalização das operações tende a estabilizar o mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786145447.3548005,
+    "titulo": "Petróleo sobe com poucas esperanças de reabertura do Estreito de Ormuz",
+    "titulo_original": "Petróleo sobe com poucas esperanças de reabertura do Estreito de Ormuz",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 16:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A tensão no Estreito de Ormuz, um ponto estratégico para o transporte de petróleo, pode sustentar os preços da commodity no curto prazo. Se a diplomacia entre EUA e Irã falhar, o risco geopolítico pode aumentar, elevando os preços; caso contrário, a normalização das relações pode trazer pressão vendedora.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786145450.8711226,
+    "titulo": "Petróleo cai na semana com expectativa sobre Ormuz",
+    "titulo_original": "Petróleo cai na semana com expectativa sobre Ormuz - Vero Notícias",
+    "fonte": "Google News Commodities",
+    "publicado": "07/08 18:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda semanal do petróleo, atrelada à expectativa sobre o Estreito de Ormuz, sugere que o mercado está precificando um cenário de menor tensão geopolítica na região. Se os esforços diplomáticos se concretizarem, a pressão vendedora sobre o petróleo pode continuar; caso contrário, qualquer escalada de conflito pode reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786145475.0800073,
+    "titulo": "Em NY, S&P 500 renova recorde com apostas de Fed mais brando após ‘payroll’",
+    "titulo_original": "Em NY, S&P 500 renova recorde com apostas de Fed mais brando após ‘payroll’",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 17:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O payroll mais fraco que o esperado nos EUA sugere um possível arrefecimento do mercado de trabalho, o que pode levar o Fed a uma postura menos agressiva em relação aos juros. Se o Fed sinalizar cortes mais cedo, isso tende a impulsionar ainda mais os ativos de risco; se a inflação persistir, o banco central pode manter a cautela.",
+    "is_stocks": true
   }
 ]
