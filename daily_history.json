@@ -668,5 +668,151 @@
     "origem": "domestica",
     "leitura_critica": "O forte desempenho da produção e vendas de veículos no Brasil em julho sugere uma recuperação robusta do setor automotivo. Se essa tendência se mantiver, pode ter um impacto positivo no emprego e na atividade econômica geral do país, além de impulsionar setores correlatos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786121143.0707068,
+    "titulo": "Você tem o Tesouro IPCA+ 2026 que vence em 15 de agosto? Veja onde alocar o dinheiro",
+    "titulo_original": "Você tem o Tesouro IPCA+ 2026 que vence em 15 de agosto? Veja onde alocar o dinheiro",
+    "fonte": "InvestNews",
+    "publicado": "07/08 11:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa sobre o vencimento de títulos do Tesouro IPCA+ e sugere alternativas de investimento, indicando um fluxo de capital de volta ao mercado. Se a inflação continuar em patamares elevados, títulos atrelados a ela podem se manter como uma opção atrativa para os investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786121147.983939,
+    "titulo": "IGP-DI tem menor taxa em um ano em julho, diz FGV",
+    "titulo_original": "IGP-DI tem menor taxa em um ano em julho, diz FGV",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 13:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do IGP-DI em julho indica uma desaceleração da inflação no atacado, especialmente em commodities. Se essa tendência de queda se mantiver nos próximos meses, isso pode sinalizar uma pressão menor sobre os preços no varejo e influenciar decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786121152.8141022,
+    "titulo": "Economia dos EUA corta inesperadamente 23 mil postos de trabalho em julho",
+    "titulo_original": "Economia dos EUA corta inesperadamente 23 mil postos de trabalho em julho",
+    "fonte": "Folha Mercado",
+    "publicado": "07/08 10:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A perda inesperada de empregos nos EUA sugere uma desaceleração econômica, o que pode levar o Federal Reserve a moderar seu ciclo de aperto monetário. Se o Fed de fato diminuir o ritmo de alta de juros, isso pode ter implicações para os mercados globais, incluindo o brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786121157.6707246,
+    "titulo": "Ações da Airbnb têm maior cotação em quatro anos, com investidores comemorando aumento da previsão de receita",
+    "titulo_original": "Ações da Airbnb têm maior cotação em quatro anos, com investidores comemorando aumento da previsão de receita",
+    "fonte": "Money Times",
+    "publicado": "07/08 12:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O otimismo em torno da Airbnb demonstra uma recuperação na demanda por viagens, apesar de incertezas globais. Se a empresa continuar a apresentar resultados positivos e a demanda por viagens se mantiver forte, as ações podem continuar a se valorizar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786121164.486272,
+    "titulo": "S&P 500 testa recorde com ‘payroll’ surpreendente e redução nas apostas de alta de juros pelo Fed",
+    "titulo_original": "S&P 500 testa recorde com ‘payroll’ surpreendente e redução nas apostas de alta de juros pelo Fed - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/08 10:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de emprego nos EUA, ao vir abaixo do esperado, sugere um arrefecimento da economia americana, o que pode levar o Fed a reduzir o ritmo de alta de juros. Se o Fed de fato sinalizar menos aumentos de juros, isso tende a impulsionar mercados de risco como o S&P 500.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786121164.4875517,
+    "titulo": "CFO da Petrobras diz que é pouco provável ter dividendo extraordinário este ano",
+    "titulo_original": "CFO da Petrobras diz que é pouco provável ter dividendo extraordinário neste ano",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 13:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do CFO indica uma priorização do caixa para o reinvestimento na própria empresa e redução de dívidas, em vez de distribuição aos acionistas. Se a empresa apresentar resultados ainda mais fortes que o esperado, pode haver pressão por revisão dessa política de dividendos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786121164.488748,
+    "titulo": "ANP avança em programa para reduzir poder da Petrobras em mercado de gás natural",
+    "titulo_original": "ANP avança em programa para reduzir poder da Petrobras em mercado de gás natural",
+    "fonte": "Folha Mercado",
+    "publicado": "07/08 12:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa da ANP busca promover maior concorrência no setor de gás natural. Se as novas regras forem implementadas e efetivamente reduzirem a participação da Petrobras, isso pode abrir espaço para novos players e potencialmente impactar os preços do insumo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786121164.4899464,
+    "titulo": "Petrobras (PETR4): Por que a ação cai quase 2% mesmo após lucro acima do esperado",
+    "titulo_original": "Petrobras (PETR4): Por que a ação cai quase 2% mesmo após lucro acima do esperado",
+    "fonte": "Money Times",
+    "publicado": "07/08 13:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sugere que o desempenho das ações da Petrobras está sendo influenciado por fatores macroeconômicos e pelo comportamento de investidores estrangeiros, mesmo com resultados corporativos positivos. Se o fluxo de capital estrangeiro para a bolsa brasileira se mantiver negativo, isso pode pressionar as ações da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786121164.491262,
+    "titulo": "Petrobras (PETR4) tem lucro robusto e anuncia dividendos turbinados: saiba mais",
+    "titulo_original": "Petrobras (PETR4) tem lucro robusto e anuncia dividendos turbinados: saiba mais - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "07/08 10:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia destaca o bom desempenho financeiro da Petrobras e a distribuição de dividendos. Se a política de dividendos se mantiver favorável aos acionistas, isso pode continuar atraindo investidores para as ações da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786121164.4925056,
+    "titulo": "Consideramos aquisições somente depois de atingir a meta de desalavancagem, diz Hypera",
+    "titulo_original": "Consideramos aquisições somente depois de atingir a meta de desalavancagem, diz Hypera",
+    "fonte": "Valor Economico",
+    "publicado": "07/08 13:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A empresa farmacêutica está priorizando a saúde financeira antes de expandir seus negócios. Se a Hypera conseguir atingir sua meta de desalavancagem, isso pode abrir caminho para futuras oportunidades de M&A ou recompra de ações, dependendo das condições de mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786121164.493729,
+    "titulo": "Petrobras supera expectativas com alta do petróleo após conflito entre Irã e EUA",
+    "titulo_original": "Petrobras supera expectativas com alta do petróleo após conflito entre Irã e EUA - InvestNews",
+    "fonte": "Google News Commodities",
+    "publicado": "07/08 11:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O conflito geopolítico no Oriente Médio impactou positivamente os resultados da Petrobras ao elevar o preço do petróleo. Se a tensão na região persistir, isso pode continuar sustentando os preços do petróleo e, consequentemente, os resultados da estatal.",
+    "is_stocks": true
   }
 ]
