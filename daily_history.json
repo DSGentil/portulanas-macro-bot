@@ -109,5 +109,112 @@
     "origem": "domestica",
     "leitura_critica": "A decisão da Anvisa de permitir a venda de medicamentos pela Shopee representa uma mudança regulatória no setor farmacêutico. Essa abertura pode intensificar a concorrência e impactar os modelos de negócio de varejistas tradicionais e plataformas de e-commerce.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786361452.215905,
+    "titulo": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil",
+    "titulo_original": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A menção de fatores como 'guerra' e 'clima' como ameaças à queda dos juros no Brasil sugere que pressões inflacionárias externas ou domésticas podem impedir o Banco Central de reduzir a taxa Selic. Se esses fatores levarem a um aumento da inflação, o BC pode ter que pausar ou reverter o ciclo de cortes de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786361456.9263902,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "10/08 03:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia destaca a importância do relatório de inflação (CPI) dos EUA para a decisão de juros do Fed em setembro. Se o CPI vier acima do esperado, isso reforçaria a possibilidade de manutenção dos juros altos, o que tenderia a sustentar o dólar e pressionar ativos de risco. Um CPI abaixo do esperado poderia abrir espaço para cortes de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786361461.585308,
+    "titulo": "Para o Fed de St. Louis, IA não garante inflação menor, e o Fed precisa apertar",
+    "titulo_original": "Para o Fed de St. Louis, AI não garante inflação menor, e o Fed precisa apertar - Brazil Journal",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 06:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração do Fed de St. Louis sugere uma postura mais cautelosa em relação à inflação, mesmo com o avanço da IA. Se o Fed seguir essa linha de raciocínio, as expectativas de cortes de juros podem ser adiadas, o que tenderia a manter o dólar forte globalmente e pressionar ativos de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786361466.2743933,
+    "titulo": "Minério de ferro recua 0,35% na bolsa de Dalian",
+    "titulo_original": "Minério de ferro recua 0,35% na bolsa de Dalian",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 08:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda no preço do minério de ferro pode indicar uma desaceleração na atividade industrial chinesa. Se essa tendência se mantiver, pode haver um impacto negativo em empresas ligadas à mineração e siderurgia, especialmente aquelas com forte dependência do mercado chinês.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786361472.0562453,
+    "titulo": "Hedge funds compram ações globais pela segunda semana consecutiva, diz Goldman Sachs",
+    "titulo_original": "Hedge funds compram ações globais pela segunda semana consecutiva, diz Goldman Sachs - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "fonte": "Google News Acoes",
+    "publicado": "10/08 06:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A compra de ações globais por hedge funds indica um aumento no apetite por risco no mercado internacional. Se essa tendência se mantiver, pode haver um fluxo de capital para mercados emergentes, incluindo o Brasil, dependendo das condições locais e globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786361472.0567145,
+    "titulo": "Agenda de empresas: Lucro da Embraer mais que dobra; Iguatemi vende participações em shoppings",
+    "titulo_original": "Agenda de empresas: Lucro da Embraer mais que dobra; Iguatemi vende participações em shoppings",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 08:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados da Embraer e a venda de ativos pela Iguatemi são notícias corporativas importantes. Se a melhora nos resultados da Embraer for vista como um indicador de recuperação em setores industriais, isso pode ter um impacto indireto na percepção de atividade econômica. A venda de ativos pela Iguatemi reflete movimentações no setor imobiliário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786361472.0573857,
+    "titulo": "Lucro da Embraer (EMBJ3) cresce para R$ 1,11 bilhão no 2T26; veja os números",
+    "titulo_original": "Lucro da Embraer (EMBJ3) cresce para R$ 1,11 bilhão no 2T26; veja os números",
+    "fonte": "Money Times",
+    "publicado": "10/08 08:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte crescimento no lucro da Embraer pode ser interpretado como um sinal positivo para o setor industrial brasileiro. Se essa tendência de melhora nos resultados corporativos se estender a outras empresas, pode haver um impacto positivo na percepção geral da atividade econômica do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786361472.0578506,
+    "titulo": "Sony e TSMC investirão US$ 6,3 bi em sensores de imagem no Japão",
+    "titulo_original": "Sony e TSMC investirão US$ 6,3 bi em sensores de imagem no Japão",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 08:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O investimento conjunto da Sony e TSMC em tecnologia de sensores de imagem no Japão demonstra um movimento significativo no setor de semicondutores. Embora seja um investimento externo, pode refletir tendências globais em tecnologia e produção, com potenciais impactos indiretos em cadeias de suprimentos globais.",
+    "is_stocks": true
   }
 ]
