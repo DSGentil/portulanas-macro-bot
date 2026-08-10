@@ -413,5 +413,128 @@
     "origem": "externa",
     "leitura_critica": "A queda nas bolsas de Nova York, influenciada pela alta do petróleo e pela pressão em ações de tecnologia, reflete um cenário de cautela. Os dados de inflação e emprego nos EUA que serão divulgados nesta semana terão grande peso na decisão futura de juros do Federal Reserve, podendo impactar os mercados globais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786380359.050685,
+    "titulo": "Mercado reduz projeção de inflação e prevê mais um corte da Selic neste ano - UOL Economia",
+    "titulo_original": "Mercado reduz projeção de inflação e prevê mais um corte da Selic neste ano - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 08:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução das expectativas de inflação e a previsão de um novo corte na Selic indicam um cenário de maior conforto para a política monetária. Se a inflação continuar a ceder e os dados de atividade econômica se mostrarem robustos, o Banco Central pode ter mais espaço para reduzir os juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786380362.605295,
+    "titulo": "Mercados hoje: ata do Copom e IPCA de julho são os destaques de semana - Bora Investir",
+    "titulo_original": "Mercados hoje: ata do Copom e IPCA de julho são os destaques de semana - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 10:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ata do Copom fornecerá detalhes sobre as discussões internas do Banco Central em relação à política monetária, enquanto o IPCA de julho trará o mais recente dado de inflação. Se a ata indicar um tom mais cauteloso e o IPCA vier acima do esperado, pode haver uma revisão das expectativas de corte de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786380366.1220021,
+    "titulo": "Fachin diz que apresentará proposta de lei sobre salários de juízes até o fim do ano",
+    "titulo_original": "Fachin diz que apresentará proposta de lei sobre salários de juízes até o fim do ano",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 13:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de lei sobre salários de juízes pode ter implicações fiscais e regulatórias para o Judiciário. Se o projeto for aprovado como proposto, pode haver uma reestruturação nos gastos públicos relacionados à magistratura; caso contrário, a discussão sobre a remuneração pode se estender.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786380369.7232528,
+    "titulo": "US July employment trends 107.71 vs 106.74 prior",
+    "titulo_original": "US July employment trends 107.71 vs 106.74 prior",
+    "fonte": "ForexLive",
+    "publicado": "10/08 11:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um indicador de emprego mais forte que o esperado pode reforçar a visão de que a economia americana mantém resiliência, o que, por sua vez, pode influenciar as decisões futuras do Federal Reserve sobre a taxa de juros. Se os próximos dados de emprego continuarem a mostrar essa tendência de moderação, o mercado pode começar a precificar um cenário de juros mais estáveis por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786380374.6311693,
+    "titulo": "Ibovespa cai e dólar acelera alta em meio à disparada do petróleo com incertezas sobre Estreito de Ormuz",
+    "titulo_original": "Ibovespa cai e dólar acelera alta em meio à disparada do petróleo com incertezas sobre Estreito de Ormuz",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 13:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A escalada do petróleo e as incertezas geopolíticas no Oriente Médio tendem a pressionar o câmbio e a inflação, o que pode levar o Banco Central a manter uma postura mais cautelosa em relação aos juros. Se as tensões no Estreito de Ormuz diminuírem, o petróleo pode recuar, aliviando a pressão sobre o dólar e a inflação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786380374.6321151,
+    "titulo": "Ações da Embraer sobem até 9% após alta do lucro no segundo trimestre",
+    "titulo_original": "Ações da Embraer sobem até 9% após alta do lucro no segundo trimestre",
+    "fonte": "Folha Mercado",
+    "publicado": "10/08 12:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho positivo das ações da Embraer reflete a percepção do mercado sobre a melhoria dos resultados da companhia. Se a empresa conseguir manter essa trajetória de crescimento nos próximos trimestres, o valuation das suas ações pode continuar a ser beneficiado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786380374.633056,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai e se afasta dos 172 mil pontos - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai e se afasta dos 172 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "10/08 11:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa sugere um movimento de aversão ao risco no mercado acionário brasileiro. Se os fatores que pressionam a bolsa persistirem, como incertezas externas ou domésticas, o índice pode continuar a testar níveis de suporte inferiores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786380374.6339824,
+    "titulo": "Associação do mercado financeiro leva agenda a campanhas e defende medidas para reduzir Custo Brasil",
+    "titulo_original": "Associação do mercado financeiro leva agenda a campanhas e defende medidas para reduzir Custo Brasil",
+    "fonte": "Folha Mercado",
+    "publicado": "10/08 09:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa da Anbima em apresentar propostas aos candidatos presidenciais visa influenciar a agenda econômica futura. Se as medidas defendidas para reduzir o Custo Brasil forem incorporadas por algum candidato e implementadas após a eleição, isso pode ter um impacto positivo no ambiente de negócios e no mercado de capitais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786380374.634866,
+    "titulo": "Vale (VALE3): Minério de ferro no ‘fundo do poço’? BBI vê oportunidade e ajusta preço-alvo",
+    "titulo_original": "Vale (VALE3): Minério de ferro no ‘fundo do poço’? BBI vê oportunidade e ajusta preço-alvo",
+    "fonte": "Money Times",
+    "publicado": "10/08 13:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A visão do Bradesco BBI de que o minério de ferro pode ter atingido seu ponto mais baixo sugere um potencial de recuperação nos preços da commodity. Se essa perspectiva se concretizar, as ações da Vale, que são sensíveis ao preço do minério, podem se beneficiar de uma valorização.",
+    "is_stocks": true
   }
 ]
