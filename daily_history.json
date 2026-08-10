@@ -216,5 +216,123 @@
     "origem": "externa",
     "leitura_critica": "O investimento conjunto da Sony e TSMC em tecnologia de sensores de imagem no Japão demonstra um movimento significativo no setor de semicondutores. Embora seja um investimento externo, pode refletir tendências globais em tecnologia e produção, com potenciais impactos indiretos em cadeias de suprimentos globais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786367749.7863984,
+    "titulo": "Economistas reduzem previsão do PIB pela primeira vez desde abril",
+    "titulo_original": "Economistas reduzem previsão do PIB pela primeira vez desde abril",
+    "fonte": "Folha Mercado",
+    "publicado": "10/08 08:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução nas previsões de PIB e inflação, em conjunto com o corte na Selic, sugere um cenário de desaceleração econômica com expectativas de inflação controlada. Se os próximos dados de atividade vierem fracos, o Banco Central pode considerar novos cortes na taxa de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786367754.5732746,
+    "titulo": "Dólar hoje ronda estabilidade com dados de inflação no radar - InfoMoney",
+    "titulo_original": "Dólar hoje ronda estabilidade com dados de inflação no radar - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 09:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar, com o mercado aguardando dados de inflação, sugere que o resultado desses indicadores pode influenciar a direção da moeda. Se a inflação vier acima do esperado, isso pode pressionar o Banco Central a manter uma postura mais dura, o que tenderia a fortalecer o dólar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786367759.360649,
+    "titulo": "Focus mantém dólar de 2026 em R$ 5,20 pela oitava semana seguida - Canal Rural",
+    "titulo_original": "Focus mantém dólar de 2026 em R$ 5,20 pela oitava semana seguida - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 09:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da projeção do dólar para 2026 em R$ 5,20 pela oitava semana seguida indica uma estabilidade nas expectativas do mercado quanto à taxa de câmbio futura. Isso pode refletir uma percepção de menor volatilidade ou um cenário macroeconômico mais previsível para o médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786367764.2156289,
+    "titulo": "Juros futuros iniciam sessão em alta com incerteza sobre Oriente Médio no radar",
+    "titulo_original": "Juros futuros iniciam sessão em alta com incerteza sobre Oriente Médio no radar",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 09:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta nos juros futuros sugere que o mercado precifica um cenário de maior risco ou inflação, impulsionado pela instabilidade no Oriente Médio. Se a tensão geopolítica se intensificar, o Banco Central pode ser pressionado a manter uma política monetária mais restritiva para conter pressões inflacionárias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786367770.6452467,
+    "titulo": "Intel anuncia oferta de US$ 15 bilhões em ações ordinárias; ações caem 4% no pré-mercado - Valor Econômico",
+    "titulo_original": "Intel anuncia oferta de US$ 15 bilhões em ações ordinárias; ações caem 4% no pré-mercado - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "10/08 09:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A oferta de ações pela Intel pode indicar uma estratégia de captação de recursos para investimentos ou para fortalecer seu balanço. Se a oferta for grande o suficiente, pode haver pressão de venda sobre as ações da empresa no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786367770.6458962,
+    "titulo": "CSN diz que recebeu propostas vinculantes para venda da CSN Cimentos",
+    "titulo_original": "CSN diz que recebeu propostas vinculantes para venda da CSN Cimentos",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 09:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recebimento de propostas vinculantes para a venda da CSN Cimentos indica um avanço no processo de desinvestimento da empresa. O valor e as condições dessas propostas serão cruciais para determinar o impacto no balanço da CSN e no setor de cimentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786367770.646524,
+    "titulo": "Sessão europeia de forex: iene cai, mercados hesitantes para começar a semana",
+    "titulo_original": "investingLive European session wrap: Yen drops, markets tentative to start the week",
+    "fonte": "ForexLive",
+    "publicado": "10/08 08:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade do iene e a hesitação dos mercados europeus podem refletir a cautela dos investidores antes de dados econômicos importantes, como o CPI. A decisão de juros do RBA também será um fator a ser observado. Se os dados de inflação vierem acima do esperado, isso pode reforçar a postura hawkish dos bancos centrais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786367770.6471772,
+    "titulo": "Futuros de Wall Street começam segunda-feira entre estabilidade e alta. Petróleo acima de US$ 80 pesa no mercado - ADVFN",
+    "titulo_original": "Futuros de Wall Street começam segunda-feira entre estabilidade e alta. Petróleo acima de US$ 80 pesa no mercado - ADVFN",
+    "fonte": "Google News Commodities",
+    "publicado": "10/08 09:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A operação mista dos futuros de Wall Street, com o petróleo acima de US$ 80 como um fator de peso, indica uma dinâmica de mercado complexa. Se o preço do petróleo continuar a subir, isso pode gerar pressões inflacionárias e afetar o poder de compra, impactando o desempenho de outros setores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786367770.6478775,
+    "titulo": "Exxon, Chevron e rivais do petróleo lucram US$ 48 bilhões no 2º tri - Exame",
+    "titulo_original": "Exxon, Chevron e rivais do petróleo lucram US$ 48 bilhões no 2º tri - Exame",
+    "fonte": "Google News Commodities",
+    "publicado": "10/08 09:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O alto lucro de empresas de petróleo no segundo trimestre pode refletir os preços elevados da commodity no período. Se esses lucros se traduzirem em maiores investimentos ou dividendos, isso pode ter um impacto positivo para o setor, mas também levanta questões sobre o custo para os consumidores e a transição energética.",
+    "is_stocks": true
   }
 ]
