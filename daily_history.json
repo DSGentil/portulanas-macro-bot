@@ -536,5 +536,79 @@
     "origem": "domestica",
     "leitura_critica": "A visão do Bradesco BBI de que o minério de ferro pode ter atingido seu ponto mais baixo sugere um potencial de recuperação nos preços da commodity. Se essa perspectiva se concretizar, as ações da Vale, que são sensíveis ao preço do minério, podem se beneficiar de uma valorização.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786386668.4670258,
+    "titulo": "Boletim Cambial (10/08): Euro e Dólar PTAX",
+    "titulo_original": "Boletim Cambial (10/08): Euro e Dólar PTAX - trademap.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 15:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O boletim cambial fornece dados sobre o comportamento do Euro e do Dólar PTAX. Se os valores divulgados indicarem uma forte valorização do dólar, isso pode impactar as importações e exportações; caso contrário, a estabilidade cambial pode prevalecer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786386671.981572,
+    "titulo": "Dólar hoje avança com exterior e dados de inflação no radar",
+    "titulo_original": "Dólar hoje avança com exterior e dados de inflação no radar - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 11:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O avanço do dólar, atrelado a fatores externos e dados de inflação, sugere um cenário de maior volatilidade cambial. Se os dados de inflação vierem acima do esperado, o dólar pode continuar sua trajetória de alta; se vierem em linha ou abaixo, pode haver uma reversão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786386676.4581447,
+    "titulo": "SEC afrouxa exigências para data centers emitirem títulos lastreados em ativos",
+    "titulo_original": "SEC afrouxa exigências para data centers emitirem títulos lastreados em ativos",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 14:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O afrouxamento das exigências da SEC para emissão de títulos por data centers pode impulsionar o financiamento para infraestrutura de IA. Se essa medida estimular um volume significativo de novas emissões, pode haver um impacto no mercado de crédito corporativo; caso contrário, o efeito pode ser limitado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786386676.4592624,
+    "titulo": "Apollo, Blackstone e Nvidia articulam pacote de financiamento de US$ 500 bi para infraestrutura de IA",
+    "titulo_original": "Apollo, Blackstone e Nvidia articulam pacote de financiamento de US$ 500 bi para infraestrutura de IA",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 14:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A articulação de um pacote de financiamento de US$ 500 bilhões para infraestrutura de IA sinaliza um investimento massivo no setor. Se esse financiamento for efetivado, pode acelerar o desenvolvimento e a adoção de tecnologias de IA; caso contrário, a escala do investimento pode ser menor do que o anunciado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786386676.4602573,
+    "titulo": "Meta e outras empresas de tecnologia devem responder por vício em redes sociais, decide tribunal nos EUA",
+    "titulo_original": "Meta e outras empresas de tecnologia devem responder por vício em redes sociais, decide tribunal nos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 14:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão do tribunal de apelações dos EUA abre caminho para processos contra empresas de tecnologia por vício em redes sociais. Se essas ações forem bem-sucedidas, as empresas podem enfrentar multas e mudanças em seus modelos de negócio; caso contrário, a legislação atual pode protegê-las.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786386676.4612536,
+    "titulo": "Credores da Braskem ainda pressionam por injeção de capital da Petrobras, diz agência",
+    "titulo_original": "Credores da Braskem ainda pressionam por injeção de capital da Petrobras, diz agência",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 14:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A pressão dos credores por capital da Petrobras na Braskem indica uma situação financeira delicada da petroquímica. Se a Petrobras ceder à pressão, pode haver um impacto em seus balanços; caso contrário, a reestruturação da Braskem pode enfrentar mais obstáculos.",
+    "is_stocks": true
   }
 ]
