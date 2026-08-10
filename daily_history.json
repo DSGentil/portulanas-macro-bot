@@ -692,5 +692,93 @@
     "origem": "externa",
     "leitura_critica": "A queda de Wall Street, puxada pela Intel e pela alta do petróleo, reflete preocupações com o setor de tecnologia e pressões inflacionárias. Se a oferta de ações da Intel for bem recebida pelo mercado, isso pode sinalizar confiança na empresa; caso contrário, pode indicar dificuldades financeiras, e a alta do petróleo pode continuar a pressionar os custos e a inflação.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786399246.6482255,
+    "titulo": "Os juros caíram novamente | Podcast Macro Review - C6 Bank",
+    "titulo_original": "Os juros caíram novamente | Podcast Macro Review - C6 Bank",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 16:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica uma continuidade na queda dos juros. Se essa tendência se mantiver, pode haver um estímulo maior para o consumo e investimento. Acompanhar os próximos comunicados do Banco Central será crucial para entender a sustentabilidade dessa queda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786399250.5825274,
+    "titulo": "Governo pode buscar nova estratégia para manter subsídio a combustíveis, afirma Silveira",
+    "titulo_original": "Governo pode buscar nova estratégia para manter subsídio a combustíveis, afirma Silveira",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 18:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A possibilidade de alteração na estratégia de subsídio a combustíveis pode ter implicações fiscais e de arrecadação. Se o governo encontrar um novo modelo de financiamento, isso pode impactar os preços dos combustíveis e a política energética do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786399254.5102773,
+    "titulo": "Itaúsa (ITSA4) define data para R$ 2,8 bilhões em juros sobre o capital próprio",
+    "titulo_original": "Itaúsa (ITSA4) define data para R$ 2,8 bilhões em juros sobre o capital próprio",
+    "fonte": "Money Times",
+    "publicado": "10/08 18:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O anúncio de pagamento de juros sobre capital próprio pela Itaúsa é uma notícia corporativa que pode impactar o fluxo de dividendos para acionistas. Se os resultados divulgados forem positivos, isso pode sustentar o valor da ação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786399258.4758868,
+    "titulo": "Justiça do DF suspende oferta de 18 blocos exploratórios de petróleo e gás - eixos.com.br",
+    "titulo_original": "Justiça do DF suspende oferta de 18 blocos exploratórios de petróleo e gás - eixos.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "10/08 16:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão judicial da oferta de blocos exploratórios de petróleo e gás pode impactar o setor de energia e os planos de exploração. Se a decisão for mantida, pode haver atrasos em projetos e investimentos na área.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786399263.3307884,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa recua, apesar das altas de VALE3 e PETR4 - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa recua, apesar das altas de VALE3 e PETR4 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "10/08 14:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Apesar de algumas ações específicas apresentarem ganhos, o recuo geral do Ibovespa sugere que outros fatores estão pesando sobre o mercado. Se as preocupações macroeconômicas se intensificarem, a pressão de venda pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786399263.3321543,
+    "titulo": "Ibovespa fecha em queda de 0,19% e dólar comercial sobe 0,53% - Canal Rural",
+    "titulo_original": "Ibovespa fecha em queda de 0,19% e dólar comercial sobe 0,53% - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 18:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa e a alta do dólar indicam um dia de pressão sobre os ativos brasileiros. Se as tensões externas persistirem, o dólar pode continuar a se valorizar frente ao real.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786399263.3334162,
+    "titulo": "Ibovespa tem leve baixa e dólar sobe com tensões no Oriente Médio e alta do petróleo - VEJA",
+    "titulo_original": "Ibovespa tem leve baixa e dólar sobe com tensões no Oriente Médio e alta do petróleo - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 17:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de tensões geopolíticas no Oriente Médio e a alta do petróleo impactou negativamente o Ibovespa e favoreceu a valorização do dólar. Se as tensões se intensificarem, o cenário de aversão ao risco pode se manter, pressionando ainda mais a bolsa brasileira.",
+    "is_stocks": true
   }
 ]
