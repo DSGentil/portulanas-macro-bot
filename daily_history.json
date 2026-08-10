@@ -610,5 +610,87 @@
     "origem": "domestica",
     "leitura_critica": "A pressão dos credores por capital da Petrobras na Braskem indica uma situação financeira delicada da petroquímica. Se a Petrobras ceder à pressão, pode haver um impacto em seus balanços; caso contrário, a reestruturação da Braskem pode enfrentar mais obstáculos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786393874.040481,
+    "titulo": "Caiado diz a empresários que credibilidade da Presidência é primeiro passo para reduzir juros",
+    "titulo_original": "Caiado diz a empresários que credibilidade da Presidência é primeiro passo para reduzir juros",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 16:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Caiado associa a redução dos juros à credibilidade presidencial e à responsabilidade fiscal. Se eleito, a implementação de políticas fiscais críveis seria um fator chave para a queda dos juros; caso contrário, a taxa pode permanecer elevada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786393877.5325446,
+    "titulo": "Desenrola Adimplentes começa a operar 42 dias após lançamento",
+    "titulo_original": "Desenrola Adimplentes começa a operar 42 dias após lançamento",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 16:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A demora na operação do Desenrola Adimplentes sugere dificuldades iniciais em atrair bancos, o que pode indicar que as condições oferecidas ainda não são ideais para o setor. Se as novas regras regulatórias forem suficientes para engajar os bancos, o programa poderá ter maior alcance; caso contrário, a renegociação de dívidas pode continuar limitada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786393881.0511365,
+    "titulo": "BC questionará empresas não financeiras sobre uso de IA em seus negócios",
+    "titulo_original": "BC questionará empresas não financeiras sobre uso de IA em seus negócios",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 15:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa do Banco Central em coletar dados sobre o uso de IA por empresas não financeiras visa entender o impacto da tecnologia na economia. Se os resultados indicarem um uso disseminado e com efeitos positivos na produtividade, isso pode sinalizar um futuro de maior eficiência econômica; caso contrário, pode apontar para desafios na adoção e integração da IA.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786393884.5690708,
+    "titulo": "Emendas parlamentares parecem ser evidente invasão de atribuição de um Poder sobre outro, diz Mendonça",
+    "titulo_original": "Emendas parlamentares parecem ser evidente invasão de atribuição de um Poder sobre outro, diz Mendonça",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 15:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão do ministro Mendonça sobre as emendas parlamentares pode gerar debates sobre a autonomia orçamentária dos poderes. Se o STF decidir contra a obrigatoriedade das emendas, isso pode reduzir a influência do Legislativo na alocação de recursos; se a decisão for favorável, pode manter o conflito entre os poderes sobre a gestão fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786393889.0669563,
+    "titulo": "ForexLive Américas notícias do mercado: Ouro e petróleo continuam a subir, iene afunda",
+    "titulo_original": "investingLive Americas market news wrap: Gold and oil continue to climb, yen sinks",
+    "fonte": "ForexLive",
+    "publicado": "10/08 17:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do ouro e do petróleo, combinada com o enfraquecimento do iene e a indicação do Fed sobre restrição monetária, aponta para um cenário de pressão inflacionária e possível aperto nas taxas de juros nos EUA. Se o Fed realmente aumentar a restrição, isso pode desacelerar a economia americana e impactar mercados globais; se a inflação persistir, o iene pode continuar em trajetória de queda.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786393889.068188,
+    "titulo": "Wall Street fecha em queda com tombo das ações da Intel e avanço dos preços do petróleo",
+    "titulo_original": "Wall Street fecha em queda com tombo das ações da Intel e avanço dos preços do petróleo",
+    "fonte": "Money Times",
+    "publicado": "10/08 17:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda de Wall Street, puxada pela Intel e pela alta do petróleo, reflete preocupações com o setor de tecnologia e pressões inflacionárias. Se a oferta de ações da Intel for bem recebida pelo mercado, isso pode sinalizar confiança na empresa; caso contrário, pode indicar dificuldades financeiras, e a alta do petróleo pode continuar a pressionar os custos e a inflação.",
+    "is_stocks": true
   }
 ]
