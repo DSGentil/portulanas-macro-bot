@@ -780,5 +780,95 @@
     "origem": "ambas",
     "leitura_critica": "A combinação de tensões geopolíticas no Oriente Médio e a alta do petróleo impactou negativamente o Ibovespa e favoreceu a valorização do dólar. Se as tensões se intensificarem, o cenário de aversão ao risco pode se manter, pressionando ainda mais a bolsa brasileira.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786404645.9370415,
+    "titulo": "Atuação privada no saneamento cresce e chega a quase metade dos municípios brasileiros",
+    "titulo_original": "Atuação privada no saneamento cresce e chega a quase metade dos municípios brasileiros",
+    "fonte": "Folha Mercado",
+    "publicado": "10/08 19:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento da atuação privada no saneamento, impulsionado pelo Marco Legal, indica uma mudança regulatória com impacto direto na prestação de serviços. Se essa tendência se mantiver, pode haver maior eficiência e investimento no setor, mas é preciso monitorar a universalização do acesso.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786404650.3569324,
+    "titulo": "Preços da soja nos portos do Brasil voltam aos R$ 150/sc com altas em Chicago, do dólar e dos prêmios",
+    "titulo_original": "Preços da soja nos portos do Brasil voltam aos R$ 150/sc com altas em Chicago, do dólar e dos prêmios - noticiasagricolas.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "10/08 16:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de fatores internacionais (Chicago) e domésticos (dólar e prêmios) influencia diretamente o preço da soja no Brasil. Se a tendência de alta em Chicago e a valorização do dólar se mantiverem, os preços da soja no mercado interno podem continuar a subir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786404654.8872075,
+    "titulo": "Inflação na América Latina está bem administrada, apesar da guerra no Irã, diz BID",
+    "titulo_original": "Inflação na América Latina está bem administrada, apesar da guerra no Irã, diz BID - Valor Econômico",
+    "fonte": "Google News Geopolitica",
+    "publicado": "10/08 18:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A avaliação do BID sobre a gestão da inflação na América Latina, mesmo diante de tensões geopolíticas, sugere resiliência econômica na região. Se essa tendência se mantiver, pode haver um cenário mais estável para o controle de preços, apesar dos riscos externos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786404659.2613294,
+    "titulo": "Irã está negociando o preço político da abertura do Estreito de Ormuz, diz jornalista especializada",
+    "titulo_original": "Irã está negociando o preço político da abertura do Estreito de Ormuz, diz jornalista especializada - Brasil de Fato",
+    "fonte": "Google News Geopolitica",
+    "publicado": "10/08 19:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia sugere que a situação no Estreito de Ormuz pode ser influenciada por negociações políticas, indicando que a estabilidade da região pode depender de acordos. Se essas negociações falharem, a tensão na área pode aumentar, impactando o fluxo de petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786404684.922189,
+    "titulo": "Moody’s rebaixa rating da Cosan (CSAN3) em meio à deterioração da qualidade de crédito da Raízen (RAIZ4)",
+    "titulo_original": "Moody’s rebaixa rating da Cosan (CSAN3) em meio à deterioração da qualidade de crédito da Raízen (RAIZ4)",
+    "fonte": "Money Times",
+    "publicado": "10/08 19:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O rebaixamento do rating da Cosan pela Moody's indica um aumento percebido no risco de crédito da empresa. Se a deterioração na Raízen persistir, isso pode impactar a capacidade da Cosan de acessar financiamento a custos favoráveis no futuro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786404684.9232223,
+    "titulo": "Futuros do milho seguem o dólar e terminam segunda-feira com altas de até 1,5% na B3",
+    "titulo_original": "Futuros do milho seguem o dólar e terminam segunda-feira com altas de até 1,5% na B3 - noticiasagricolas.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/08 16:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A correlação entre os futuros de milho e o dólar sugere que a cotação da moeda brasileira tem um papel significativo na precificação das commodities agrícolas. Se o dólar continuar a apresentar volatilidade, isso pode gerar movimentos semelhantes nos preços do milho.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786404684.9241068,
+    "titulo": "Bolsas de NY fecham em queda com alta do petróleo e dos Treasuries",
+    "titulo_original": "Bolsas de NY fecham em queda com alta do petróleo e dos Treasuries",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 18:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas de NY, atrelada à alta do petróleo e dos Treasuries, reflete a cautela dos investidores antes dos dados de inflação. Se a inflação vier acima do esperado, isso pode reforçar apostas em juros mais altos nos EUA, pressionando ainda mais os mercados acionários globais.",
+    "is_stocks": true
   }
 ]
