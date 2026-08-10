@@ -334,5 +334,84 @@
     "origem": "externa",
     "leitura_critica": "O alto lucro de empresas de petróleo no segundo trimestre pode refletir os preços elevados da commodity no período. Se esses lucros se traduzirem em maiores investimentos ou dividendos, isso pode ter um impacto positivo para o setor, mas também levanta questões sobre o custo para os consumidores e a transição energética.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786374949.0200026,
+    "titulo": "BC estuda conectar Pix a sistemas internacionais e usar fluxos futuros como garantia de crédito",
+    "titulo_original": "BC estuda conectar Pix a sistemas internacionais e usar fluxos futuros como garantia de crédito",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 11:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expansão internacional do Pix pode facilitar o fluxo de capital entre o Brasil e outros países, potencialmente reduzindo custos e aumentando a eficiência. Se a iniciativa for bem-sucedida, pode atrair mais investimentos e facilitar transações comerciais, mas o uso de fluxos futuros como garantia de crédito ainda precisa ter seus mecanismos e impactos detalhados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786374953.9085715,
+    "titulo": "BC quer criar indicador de ‘probabilidade de fraude’ para dar mais segurança ao Pix",
+    "titulo_original": "BC quer criar indicador de ‘probabilidade de fraude’ para dar mais segurança ao Pix",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 11:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa do BC em criar um indicador de probabilidade de fraude para o Pix visa aumentar a segurança e a confiança no sistema de pagamentos instantâneos. Se bem implementado, pode reduzir perdas por fraudes e fortalecer a adoção do Pix, mas a responsabilidade final pela autorização das transações permanecerá com as instituições.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786374958.8728402,
+    "titulo": "Receita do setor segurador cresce 0,5% no 1° semestre, diz Susep",
+    "titulo_original": "Receita do setor segurador cresce 0,5% no 1° semestre, diz Susep",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 11:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento modesto na receita do setor segurador pode indicar um cenário de consumo mais cauteloso, especialmente com a queda em produtos de acumulação. A performance em seguros de pessoas e danos, no entanto, sugere resiliência em coberturas essenciais, mas o impacto geral na atividade econômica requer análise de outros indicadores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786374963.6771321,
+    "titulo": "BC estuda medidas contra xingamentos e ameaças em campo de mensagem de transações do Pix",
+    "titulo_original": "BC estuda medidas contra xingamentos e ameaças em campo de mensagem de transações do Pix",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 10:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A preocupação do BC em manter a integridade e a boa experiência do usuário no Pix é positiva para a adoção do sistema. A medida visa aprimorar a funcionalidade sem comprometer suas características essenciais, mas o sucesso dependerá da eficácia das alternativas propostas pelo grupo de trabalho.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786374969.7027066,
+    "titulo": "Estrangeiros retiram R$ 2,4 bilhões em ações na B3 em 6 de agosto",
+    "titulo_original": "Estrangeiros retiram R$ 2,4 bilhões em ações na B3 em 6 de agosto",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 11:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro da bolsa brasileira é um sinal de alerta, especialmente se for um movimento persistente, pois pode indicar menor apetite por risco em mercados emergentes. Se essa tendência se mantiver, pode pressionar o Ibovespa e outras classes de ativos locais, mas é importante observar o saldo anual que ainda é positivo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786374969.703609,
+    "titulo": "Bolsas de NY caem com pressão de ‘techs’ e alta do petróleo",
+    "titulo_original": "Bolsas de NY caem com pressão de ‘techs’ e alta do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "10/08 10:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nas bolsas de Nova York, influenciada pela alta do petróleo e pela pressão em ações de tecnologia, reflete um cenário de cautela. Os dados de inflação e emprego nos EUA que serão divulgados nesta semana terão grande peso na decisão futura de juros do Federal Reserve, podendo impactar os mercados globais.",
+    "is_stocks": true
   }
 ]
