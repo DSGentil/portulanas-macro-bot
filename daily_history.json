@@ -870,5 +870,76 @@
     "origem": "externa",
     "leitura_critica": "A queda das bolsas de NY, atrelada à alta do petróleo e dos Treasuries, reflete a cautela dos investidores antes dos dados de inflação. Se a inflação vier acima do esperado, isso pode reforçar apostas em juros mais altos nos EUA, pressionando ainda mais os mercados acionários globais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786447858.7938175,
+    "titulo": "Banco Central publica ata do Copom que baixou taxa Selic de 14,25% para 14% ao ano",
+    "titulo_original": "Banco Central publica ata do Copom que baixou taxa Selic de 14,25% para 14% ao ano - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/08 08:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ata do Copom pode fornecer mais detalhes sobre as justificativas e as perspectivas futuras para a política monetária. Se a ata indicar um viés mais dovish, pode reforçar expectativas de novos cortes na Selic; caso contrário, se sinalizar cautela, pode moderar essas expectativas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786447863.1976163,
+    "titulo": "IGP-M sobe 0,26% na primeira prévia de agosto, informa FGV",
+    "titulo_original": "IGP-M sobe 0,26% na primeira prévia de agosto, informa FGV",
+    "fonte": "Valor Economico",
+    "publicado": "11/08 08:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reversão do IGP-M para território positivo, especialmente com a alta do Índice de Preços ao Produtor Amplo (IPA), pode indicar pressões inflacionárias em níveis mais elevados. Se essa tendência se mantiver, pode impactar contratos indexados ao IGP-M e as expectativas de inflação futura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786447867.3902593,
+    "titulo": "BC deixa em aberto futuro da taxa Selic para devolver inflação à meta",
+    "titulo_original": "BC deixa em aberto futuro da taxa Selic para devolver inflação à meta - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/08 08:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do BC de que o futuro da Selic está em aberto sugere que as decisões futuras dependerão da evolução da inflação. Se a inflação persistir acima da meta, o BC pode adiar ou interromper os cortes na taxa de juros; se houver convergência para a meta, novos cortes podem ser considerados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786447871.608248,
+    "titulo": "Mercado espera nova redução da Selic após decisão do Copom",
+    "titulo_original": "Mercado espera nova redução da Selic após decisão do Copom - veronoticias.com",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/08 07:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa do mercado por uma nova redução da Selic sugere que as projeções atuais apontam para um cenário de continuidade do ciclo de afrouxamento monetário. Se a inflação continuar sob controle, o Banco Central pode atender a essa expectativa; caso contrário, pode haver uma revisão dessas projeções.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786447875.7374508,
+    "titulo": "Preço dos carros usados sobe cada vez menos. E isso é um problema para as locadoras",
+    "titulo_original": "Preço dos carros usados sobe cada vez menos. E isso é um problema para as locadoras",
+    "fonte": "InvestNews",
+    "publicado": "11/08 06:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração na valorização de carros usados sugere uma normalização do mercado pós-pandemia, o que pode afetar o balanço das locadoras. Se a tendência de desaceleração se confirmar, as empresas do setor precisarão ajustar suas estratégias de precificação e gestão de frota.",
+    "is_stocks": false
   }
 ]
