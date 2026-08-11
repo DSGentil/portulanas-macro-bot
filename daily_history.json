@@ -1069,5 +1069,103 @@
     "origem": "domestica",
     "leitura_critica": "A mudança na recomendação do JPMorgan para o Brasil, de neutra e com redução no Ibovespa, sugere uma visão cautelosa do banco sobre o desempenho futuro do mercado local. Se as ações de exportadoras recomendadas apresentarem bom desempenho, isso pode indicar que fatores externos, como a demanda global por commodities, estão mais favoráveis. Caso contrário, a visão do JPMorgan pode se confirmar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786461381.2059293,
+    "titulo": "Café acumula maior queda de preços no Plano Real após subir mais de 80%, diz IBGE",
+    "titulo_original": "Café acumula maior queda de preços no Plano Real após subir mais de 80%, diz IBGE",
+    "fonte": "Folha Mercado",
+    "publicado": "11/08 11:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A deflação significativa nos preços do café pode aliviar a pressão inflacionária em alguns segmentos do varejo. Se essa tendência de queda se mantiver e se espalhar para outros produtos agrícolas, isso pode contribuir para uma desaceleração mais ampla da inflação; contudo, a volatilidade passada sugere que essa queda pode ser temporária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786461386.1173298,
+    "titulo": "Comissão do Senado aprova novamente PL de piso salarial para médicos e cirurgiões dentistas",
+    "titulo_original": "Comissão do Senado aprova novamente PL de piso salarial para médicos e cirurgiões dentistas",
+    "fonte": "Valor Economico",
+    "publicado": "11/08 12:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do piso salarial para médicos e cirurgiões dentistas representa uma decisão com potencial impacto fiscal e regulatório. Se o projeto for aprovado sem alterações significativas nas próximas etapas, o aumento dos custos trabalhistas no setor de saúde pode ser considerável; caso contrário, ajustes no texto podem mitigar parte desse impacto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786461390.923985,
+    "titulo": "BC vê inflação desacelerando, mas aponta pressão do petróleo e de gastos públicos",
+    "titulo_original": "BC vê inflação desacelerando, mas aponta pressão do petróleo e de gastos públicos - G1",
+    "fonte": "Google News Commodities",
+    "publicado": "11/08 08:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção do BC sobre a inflação, com desaceleração mas com pressões pontuais, sugere que a política monetária pode continuar em um compasso de cautela. Se as pressões de gastos públicos e do petróleo se intensificarem, isso pode atrasar ou limitar futuros cortes de juros; caso contrário, a tendência de desaceleração pode permitir uma flexibilização mais consistente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786461395.7608202,
+    "titulo": "Vendas de casas existentes nos EUA em julho: 4,06 milhões vs. 4,05 milhões esperados",
+    "titulo_original": "US July existing home sales 4.06m vs 4.05m expected",
+    "fonte": "ForexLive",
+    "publicado": "11/08 11:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O mercado imobiliário dos EUA se encontra em um estado estável, com taxas de hipoteca elevadas impactando a dinâmica. Se as taxas de juros continuarem a subir, isso pode pressionar ainda mais as vendas; por outro lado, se a construção de novas residências não acompanhar a formação de novas famílias, o desequilíbrio entre oferta e demanda pode se acentuar no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786461401.6848738,
+    "titulo": "Presidente do Bradesco vê espaço para novos cortes de juros, mas alerta para riscos de guerra, eleições e El Niño",
+    "titulo_original": "Presidente do Bradesco vê espaço para novos cortes de juros, mas alerta para riscos de guerra, eleições e El Niño - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/08 10:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A visão do presidente do Bradesco sobre a possibilidade de cortes de juros sugere um otimismo cauteloso em relação à política monetária. Se os riscos mencionados se materializarem e impactarem negativamente a economia, o Banco Central pode ter sua margem de manobra para reduzir os juros limitada; caso contrário, a continuidade dos cortes pode ser esperada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786461401.6867454,
+    "titulo": "Estrangeiros retiram R$ 2,6 bi da B3 em 7 de agosto e acumulam saldo negativo de R$ 5,5 bi no mês",
+    "titulo_original": "Estrangeiros retiram R$ 2,6 bi da B3 em 7 de agosto e acumulam saldo negativo de R$ 5,5 bi no mês",
+    "fonte": "Valor Economico",
+    "publicado": "11/08 11:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro da B3 em agosto, embora o saldo anual ainda seja positivo, pode indicar uma cautela renovada dos investidores internacionais em relação ao mercado brasileiro. Se essa tendência de retirada se mantiver, pode haver pressão sobre o Ibovespa e o fluxo de investimentos para o país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786461401.6885388,
+    "titulo": "CSN troca US$ 1 bilhão em dívida com vencimento em 2028 por títulos até 2030",
+    "titulo_original": "CSN troca US$ 1 bilhão em dívida com vencimento em 2028 por títulos até 2030",
+    "fonte": "InvestNews",
+    "publicado": "11/08 09:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A troca de dívida pela CSN indica uma estratégia de alongamento do passivo e, possivelmente, uma busca por melhores condições de financiamento em um cenário de juros. Se as taxas de juros futuras se mantiverem elevadas, essa decisão pode ser vantajosa; caso contrário, a empresa pode ter optado por um custo de capital mais alto do que o necessário.",
+    "is_stocks": true
   }
 ]
