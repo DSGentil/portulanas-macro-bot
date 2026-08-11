@@ -1167,5 +1167,105 @@
     "origem": "domestica",
     "leitura_critica": "A troca de dívida pela CSN indica uma estratégia de alongamento do passivo e, possivelmente, uma busca por melhores condições de financiamento em um cenário de juros. Se as taxas de juros futuras se mantiverem elevadas, essa decisão pode ser vantajosa; caso contrário, a empresa pode ter optado por um custo de capital mais alto do que o necessário.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786466738.5465748,
+    "titulo": "Juros podem cair menos do que o mercado espera? Market Makers aponta os obstáculos para queda maior da Selic",
+    "titulo_original": "Juros podem cair menos do que o mercado espera? Market Makers aponta os obstáculos para queda maior da Selic",
+    "fonte": "Money Times",
+    "publicado": "11/08 13:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistência da inflação acima do desejado pode levar o Banco Central a manter uma postura mais cautelosa em relação aos cortes da Selic. Se os próximos dados de inflação mostrarem uma desaceleração mais robusta, o mercado pode reavaliar as expectativas de queda de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786466742.1290033,
+    "titulo": "BC diz que inflação segue pressionada por demanda e exige Selic elevada",
+    "titulo_original": "BC diz que inflação segue pressionada por demanda e exige Selic elevada - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/08 11:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Banco Central reforça a visão de que a inflação ainda é um desafio, o que pode justificar a manutenção de juros altos por mais tempo. Se a pressão inflacionária por demanda persistir, o ciclo de cortes da Selic pode ser mais lento do que o esperado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786466745.8744843,
+    "titulo": "(Quase) tudo o que você precisa saber sobre o Copom e a Taxa Selic - Agência Pública",
+    "titulo_original": "(Quase) tudo o que você precisa saber sobre o Copom e a Taxa Selic - Agência Pública",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/08 12:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O conteúdo deste artigo é informativo e explicativo sobre o Copom e a Selic. Sua relevância reside em fornecer contexto e detalhes sobre as decisões de política monetária, o que pode auxiliar na interpretação de movimentos futuros do mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786466749.3845675,
+    "titulo": "Copom cita geopolítica, juros dos EUA e emprego ao reforçar cautela com a Selic",
+    "titulo_original": "Copom cita geopolítica, juros dos EUA e emprego ao reforçar cautela com a Selic - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/08 08:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A menção a fatores externos e internos pelo Copom indica um cenário de incertezas que pode prolongar a cautela na política monetária. Se as tensões geopolíticas aumentarem ou os dados de emprego nos EUA continuarem fortes, isso pode reforçar a necessidade de manter a Selic elevada no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786466753.815983,
+    "titulo": "TCU questiona cálculo que levou Receita a errar projeção de arrecadação com dividendos",
+    "titulo_original": "TCU questiona cálculo que levou Receita a errar projeção de arrecadação com dividendos",
+    "fonte": "Folha Mercado",
+    "publicado": "11/08 12:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O questionamento do TCU sobre a metodologia de cálculo da Receita Federal pode indicar falhas na projeção fiscal e na gestão tributária. Se a análise do TCU apontar irregularidades, isso pode levar a revisões nas projeções de arrecadação e impactar o cenário fiscal do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786466753.8179176,
+    "titulo": "FGC diz ao STF que não recebeu balanço do BRB, necessário para viabilizar empréstimo",
+    "titulo_original": "FGC diz ao STF que não recebeu balanço do BRB, necessário para viabilizar empréstimo",
+    "fonte": "Valor Economico",
+    "publicado": "11/08 13:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A falta de informações financeiras do BRB pode atrasar a liberação do empréstimo, o que pode gerar preocupações sobre a liquidez do banco. Se a situação se agravar, pode haver repercussões no setor financeiro, embora a notícia se concentre em uma instituição específica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786466753.819791,
+    "titulo": "Seletividade na escolha de FIIs segue em foco após Copom",
+    "titulo_original": "Seletividade na escolha de FIIs segue em foco após Copom - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/08 11:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Copom impacta o mercado de renda variável, incluindo FIIs, exigindo uma análise mais criteriosa dos investidores. Se o cenário de juros permanecer elevado, a busca por FIIs com fundamentos sólidos e boa geração de caixa se tornará ainda mais importante.",
+    "is_stocks": true
   }
 ]
