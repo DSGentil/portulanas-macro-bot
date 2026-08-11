@@ -1,123 +1,5 @@
 [
   {
-    "_timestamp": 1786367749.7863984,
-    "titulo": "Economistas reduzem previsão do PIB pela primeira vez desde abril",
-    "titulo_original": "Economistas reduzem previsão do PIB pela primeira vez desde abril",
-    "fonte": "Folha Mercado",
-    "publicado": "10/08 08:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução nas previsões de PIB e inflação, em conjunto com o corte na Selic, sugere um cenário de desaceleração econômica com expectativas de inflação controlada. Se os próximos dados de atividade vierem fracos, o Banco Central pode considerar novos cortes na taxa de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786367754.5732746,
-    "titulo": "Dólar hoje ronda estabilidade com dados de inflação no radar - InfoMoney",
-    "titulo_original": "Dólar hoje ronda estabilidade com dados de inflação no radar - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/08 09:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade do dólar, com o mercado aguardando dados de inflação, sugere que o resultado desses indicadores pode influenciar a direção da moeda. Se a inflação vier acima do esperado, isso pode pressionar o Banco Central a manter uma postura mais dura, o que tenderia a fortalecer o dólar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786367759.360649,
-    "titulo": "Focus mantém dólar de 2026 em R$ 5,20 pela oitava semana seguida - Canal Rural",
-    "titulo_original": "Focus mantém dólar de 2026 em R$ 5,20 pela oitava semana seguida - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/08 09:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da projeção do dólar para 2026 em R$ 5,20 pela oitava semana seguida indica uma estabilidade nas expectativas do mercado quanto à taxa de câmbio futura. Isso pode refletir uma percepção de menor volatilidade ou um cenário macroeconômico mais previsível para o médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786367764.2156289,
-    "titulo": "Juros futuros iniciam sessão em alta com incerteza sobre Oriente Médio no radar",
-    "titulo_original": "Juros futuros iniciam sessão em alta com incerteza sobre Oriente Médio no radar",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 09:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta nos juros futuros sugere que o mercado precifica um cenário de maior risco ou inflação, impulsionado pela instabilidade no Oriente Médio. Se a tensão geopolítica se intensificar, o Banco Central pode ser pressionado a manter uma política monetária mais restritiva para conter pressões inflacionárias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786367770.6452467,
-    "titulo": "Intel anuncia oferta de US$ 15 bilhões em ações ordinárias; ações caem 4% no pré-mercado - Valor Econômico",
-    "titulo_original": "Intel anuncia oferta de US$ 15 bilhões em ações ordinárias; ações caem 4% no pré-mercado - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "10/08 09:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A oferta de ações pela Intel pode indicar uma estratégia de captação de recursos para investimentos ou para fortalecer seu balanço. Se a oferta for grande o suficiente, pode haver pressão de venda sobre as ações da empresa no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786367770.6458962,
-    "titulo": "CSN diz que recebeu propostas vinculantes para venda da CSN Cimentos",
-    "titulo_original": "CSN diz que recebeu propostas vinculantes para venda da CSN Cimentos",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 09:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O recebimento de propostas vinculantes para a venda da CSN Cimentos indica um avanço no processo de desinvestimento da empresa. O valor e as condições dessas propostas serão cruciais para determinar o impacto no balanço da CSN e no setor de cimentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786367770.646524,
-    "titulo": "Sessão europeia de forex: iene cai, mercados hesitantes para começar a semana",
-    "titulo_original": "investingLive European session wrap: Yen drops, markets tentative to start the week",
-    "fonte": "ForexLive",
-    "publicado": "10/08 08:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A volatilidade do iene e a hesitação dos mercados europeus podem refletir a cautela dos investidores antes de dados econômicos importantes, como o CPI. A decisão de juros do RBA também será um fator a ser observado. Se os dados de inflação vierem acima do esperado, isso pode reforçar a postura hawkish dos bancos centrais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786367770.6471772,
-    "titulo": "Futuros de Wall Street começam segunda-feira entre estabilidade e alta. Petróleo acima de US$ 80 pesa no mercado - ADVFN",
-    "titulo_original": "Futuros de Wall Street começam segunda-feira entre estabilidade e alta. Petróleo acima de US$ 80 pesa no mercado - ADVFN",
-    "fonte": "Google News Commodities",
-    "publicado": "10/08 09:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A operação mista dos futuros de Wall Street, com o petróleo acima de US$ 80 como um fator de peso, indica uma dinâmica de mercado complexa. Se o preço do petróleo continuar a subir, isso pode gerar pressões inflacionárias e afetar o poder de compra, impactando o desempenho de outros setores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786367770.6478775,
-    "titulo": "Exxon, Chevron e rivais do petróleo lucram US$ 48 bilhões no 2º tri - Exame",
-    "titulo_original": "Exxon, Chevron e rivais do petróleo lucram US$ 48 bilhões no 2º tri - Exame",
-    "fonte": "Google News Commodities",
-    "publicado": "10/08 09:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O alto lucro de empresas de petróleo no segundo trimestre pode refletir os preços elevados da commodity no período. Se esses lucros se traduzirem em maiores investimentos ou dividendos, isso pode ter um impacto positivo para o setor, mas também levanta questões sobre o custo para os consumidores e a transição energética.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786374949.0200026,
     "titulo": "BC estuda conectar Pix a sistemas internacionais e usar fluxos futuros como garantia de crédito",
     "titulo_original": "BC estuda conectar Pix a sistemas internacionais e usar fluxos futuros como garantia de crédito",
@@ -1148,6 +1030,104 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O fechamento em máximas recordes do DAX e Ibex sugere um otimismo persistente nos mercados europeus, impulsionado por lucros corporativos e otimismo com negociações EUA-Irã. Se as negociações de paz no Oriente Médio avançarem, isso pode sustentar a alta; caso contrário, o aumento das tensões pode reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786480296.5661914,
+    "titulo": "Dólar salta quase 1% e vai a R$ 5,16 com eleições no radar",
+    "titulo_original": "Dólar salta quase 1% e vai a R$ 5,16 com eleições no radar",
+    "fonte": "Valor Economico",
+    "publicado": "11/08 17:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pesquisa eleitoral que aponta o favoritismo do atual presidente pode gerar maior aversão ao risco no mercado local, pressionando o dólar para cima. Se futuras pesquisas indicarem maior competitividade ou incerteza no resultado eleitoral, o dólar pode apresentar volatilidade adicional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786480301.4878292,
+    "titulo": "Campanha de Flávio Bolsonaro prepara nova regra fiscal com aperto maior de gastos em caso de dívida alta, dizem fontes",
+    "titulo_original": "Campanha de Flávio Bolsonaro prepara nova regra fiscal com aperto maior de gastos em caso de dívida alta, dizem fontes",
+    "fonte": "Money Times",
+    "publicado": "11/08 17:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de uma nova regra fiscal com gatilhos mais rígidos para o controle de gastos pode sinalizar uma postura fiscal mais austera. Se essa proposta for implementada, o impacto na trajetória da dívida pública dependerá da sua efetiva aplicação e do cenário econômico futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786480306.4159255,
+    "titulo": "A agenda para juros menores em 2027",
+    "titulo_original": "A agenda para juros menores em 2027",
+    "fonte": "Folha Mercado",
+    "publicado": "11/08 17:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistência de juros reais elevados sugere que o caminho para taxas menores em 2027 pode ser desafiador, dependendo da evolução da inflação e das decisões de política monetária. Se a inflação se mostrar persistente, a agenda de juros menores pode ser adiada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786480311.318717,
+    "titulo": "ANP vai recorrer da decisão judicial que excluiu blocos de petróleo da oferta permanente",
+    "titulo_original": "ANP vai recorrer da decisão judicial que excluiu blocos de petróleo da oferta permanente",
+    "fonte": "Valor Economico",
+    "publicado": "11/08 16:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão judicial sobre os blocos de petróleo pode afetar a exploração e produção futura. Se a ANP tiver sucesso em seu recurso, os blocos podem retornar à oferta; caso contrário, a disponibilidade de novas áreas para exploração será reduzida.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786480317.180555,
+    "titulo": "JPMorgan reduz recomendação para ações brasileiras e cita volatilidade eleitoral",
+    "titulo_original": "JPMorgan reduz recomendação para ações brasileiras e cita volatilidade eleitoral",
+    "fonte": "Folha Mercado",
+    "publicado": "11/08 17:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução da recomendação pelo JPMorgan sugere que o banco vê um cenário menos favorável para a bolsa brasileira, impactado pela persistência de juros altos e inflação. Se o cenário de juros e inflação se mostrar mais benigno do que o esperado, a recomendação do banco pode ser revista.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786480317.1823814,
+    "titulo": "Dólar vai a R$ 5,17 e Bolsa cai 2% após pesquisa eleitoral e JPMorgan",
+    "titulo_original": "Dólar vai a R$ 5,17 e Bolsa cai 2% após pesquisa eleitoral e JPMorgan - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/08 13:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A combinação de uma pesquisa eleitoral desfavorável e a revisão de recomendação pelo JPMorgan intensificou a aversão ao risco no mercado brasileiro, impactando negativamente o câmbio e a bolsa. Se o cenário eleitoral se tornar mais incerto ou se houver sinais de melhora na economia, a bolsa pode se recuperar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786480317.1841354,
+    "titulo": "BTG Pactual (BPAC11): Faz sentido mercado estar ‘cauteloso’ com concessão de crédito, diz CFO",
+    "titulo_original": "BTG Pactual (BPAC11): Faz sentido mercado estar ‘cauteloso’ com concessão de crédito, diz CFO",
+    "fonte": "Money Times",
+    "publicado": "11/08 16:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A cautela do mercado em relação à concessão de crédito, mesmo com bons resultados do BTG, pode indicar preocupações com a qualidade dos ativos ou com o cenário macroeconômico futuro. Se o cenário econômico se deteriorar, a inadimplência pode aumentar, afetando a carteira de crédito.",
     "is_stocks": true
   }
 ]
