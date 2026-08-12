@@ -839,5 +839,113 @@
     "origem": "domestica",
     "leitura_critica": "A incerteza sobre o futuro do Ibovespa sugere um cenário de volatilidade no mercado acionário. Se os indicadores técnicos apontarem para uma continuação da tendência de queda, pode haver um reflexo de aversão ao risco entre os investidores.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786540548.5256057,
+    "titulo": "Governo lança plano com previsão de R$ 1,2 trilhão em aportes para infraestrutura logística até 2050",
+    "titulo_original": "Governo lança plano com previsão de R$ 1,2 trilhão em aportes para infraestrutura logística até 2050",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 09:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O PNL 2050 representa um plano de longo prazo para o desenvolvimento da infraestrutura logística do país. Se os investimentos previstos forem concretizados, isso pode impulsionar a atividade econômica e reduzir custos de produção e transporte.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786540553.290782,
+    "titulo": "STF volta a discutir Moratória da Soja com disputa bilionária entre tradings e produtores - JOTA Info",
+    "titulo_original": "STF volta a discutir Moratória da Soja com disputa bilionária entre tradings e produtores - JOTA Info",
+    "fonte": "Google News Commodities",
+    "publicado": "12/08 09:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF sobre a Moratória da Soja pode ter impacto regulatório e fiscal no setor de agronegócio. Se a decisão for desfavorável aos produtores, pode haver pressão sobre os custos e a rentabilidade do setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786540558.0263076,
+    "titulo": "Soja impulsiona recorde nas exportações do agro em julho - Revista Cultivar",
+    "titulo_original": "Soja impulsiona recorde nas exportações do agro em julho - Revista Cultivar",
+    "fonte": "Google News Commodities",
+    "publicado": "12/08 09:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recorde nas exportações do agronegócio pode ter um impacto positivo na balança comercial brasileira e na atividade econômica. Se essa tendência se mantiver, pode haver reflexos positivos no PIB e na geração de empregos no setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786540562.7811553,
+    "titulo": "Pedidos de recuperação judicial no agronegócio avançam 22% no 1º tri, aponta Serasa",
+    "titulo_original": "Pedidos de recuperação judicial no agronegócio avançam 22% no 1º tri, aponta Serasa",
+    "fonte": "Folha Mercado",
+    "publicado": "12/08 09:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento nos pedidos de recuperação judicial no agronegócio indica dificuldades financeiras no setor, possivelmente ligadas a custos e endividamento. Se essa tendência persistir, pode afetar a produção e a oferta de alimentos no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786540568.7986295,
+    "titulo": "BC da China promete novas medidas de política monetária de forma tempestiva",
+    "titulo_original": "BC da China promete novas medidas de política monetária de forma tempestiva",
+    "fonte": "Folha Mercado",
+    "publicado": "12/08 09:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A promessa de medidas monetárias 'adequadamente frouxas' pela China pode indicar um suporte à economia global. Se o banco central chinês implementar cortes de juros, isso pode estimular a demanda e ter reflexos em commodities e no comércio internacional.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786540568.8001013,
+    "titulo": "Setor de serviços avança 0,4% no 2º trimestre ante 1º trimestre, diz IBGE",
+    "titulo_original": "Setor de serviços avança 0,4% no 2º trimestre ante 1º trimestre, diz IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 09:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento de 0,4% no setor de serviços indica uma recuperação após um trimestre de retração. Se essa tendência de alta se mantiver, pode sinalizar uma melhora na atividade econômica geral do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786540568.8016548,
+    "titulo": "Preço do petróleo supera US$ 90, mas cai e está oscilando nesta quarta",
+    "titulo_original": "Preço do petróleo supera US$ 90, mas cai e está oscilando nesta quarta",
+    "fonte": "Folha Mercado",
+    "publicado": "12/08 10:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade nos preços do petróleo pode indicar incertezas sobre a demanda global ou tensões geopolíticas. Se o patamar de US$ 90 se consolidar, isso pode pressionar os custos de energia e impactar a inflação global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786540568.8031821,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "12/08 08:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O acompanhamento em tempo real do preço do petróleo é importante para entender as flutuações diárias que podem impactar a inflação e a atividade econômica. Se houver uma escalada nos preços, isso pode gerar preocupações sobre a estabilidade econômica global.",
+    "is_stocks": true
   }
 ]
