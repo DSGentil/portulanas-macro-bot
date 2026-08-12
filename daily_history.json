@@ -1030,5 +1030,105 @@
     "origem": "domestica",
     "leitura_critica": "A declaração do diretor financeiro da B3 indica que as discussões com o Cade sobre conduta anticoncorrencial não devem gerar um impacto material nas receitas da empresa. Se as medidas discutidas fossem mais severas, poderiam afetar o setor financeiro; como o impacto é considerado pequeno, a relevância macroeconômica é limitada. A notícia não especifica um impacto direto nos canais de juros, inflação ou fluxo de capital.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786553152.0696487,
+    "titulo": "Exclusivo: Equipe econômica antecipa ajuste fiscal de 2027 em PLP dos combustíveis",
+    "titulo_original": "Exclusivo: Equipe econômica antecipa ajuste fiscal de 2027 em PLP dos combustíveis",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 13:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A antecipação de medidas de ajuste fiscal para 2027, se aprovada, pode sinalizar uma busca por maior credibilidade nas contas públicas. Caso os gatilhos propostos sejam efetivamente implementados, isso poderá gerar restrições em áreas como Saúde e FCDF, impactando a execução orçamentária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786553156.7706115,
+    "titulo": "Tereza Cristina fica fora de acordo que viabiliza programa de desenvolvimento de fertilizantes",
+    "titulo_original": "Tereza Cristina fica fora de acordo que viabiliza programa de desenvolvimento de fertilizantes",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 13:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A exclusão da relatora do Profert do acordo para sua sanção pode indicar divergências políticas ou estratégicas. Se o PLP for aprovado sem alterações, as renúncias fiscais e subsídios propostos terão impacto direto no setor de fertilizantes e combustíveis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786553161.5675695,
+    "titulo": "Instituições mantêm projeções de impacto do El Niño para 2026 e 2027, mostra Questionário Pré-Copom",
+    "titulo_original": "Instituições mantêm projeções de impacto do El Niño para 2026 e 2027, mostra Questionário Pré-Copom - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/08 10:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção das projeções de impacto do El Niño sugere que os efeitos climáticos continuam sendo um fator de atenção para a economia. Se o fenômeno se intensificar, isso poderá afetar a produção agrícola e, consequentemente, a inflação e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786553166.3531535,
+    "titulo": "Renda fixa em dólar: Tesouro americano bate 3% de ganho real e atrai brasileiros",
+    "titulo_original": "Renda fixa em dólar: Tesouro americano bate 3% de ganho real e atrai brasileiros - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/08 13:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O atrativo do Tesouro americano com 3% de ganho real em dólar pode indicar um fluxo de capital para títulos de renda fixa nos EUA. Se as taxas de juros americanas permanecerem elevadas, isso pode continuar a atrair investidores brasileiros em busca de maior rentabilidade e segurança.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786553172.141431,
+    "titulo": "Recessão à frente? Os alertas de CEO de controladora do Itaú (ITUB4) para a economia; ‘ambiente pouco propício’",
+    "titulo_original": "Recessão à frente? Os alertas de CEO de controladora do Itaú (ITUB4) para a economia; ‘ambiente pouco propício’",
+    "fonte": "Money Times",
+    "publicado": "12/08 13:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As declarações do CEO da Itaúsa, Alfredo Setubal, reforçam preocupações sobre o cenário econômico brasileiro. Se a economia continuar a crescer devagar, isso pode impactar negativamente o desempenho de empresas e o mercado de trabalho.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786553172.1431744,
+    "titulo": "Bolsas da Europa têm leve recuo após rali de recordes",
+    "titulo_original": "Bolsas da Europa têm leve recuo após rali de recordes",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 13:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A leve queda nas bolsas europeias após um período de recordes pode indicar uma realização de lucros ou um ajuste de mercado diante de incertezas. Se o impasse no Estreito de Ormuz se agravar, isso pode pressionar ainda mais os preços do petróleo e gerar efeitos inflacionários globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786553172.1448355,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta retomar os 168 mil pontos",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta retomar os 168 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "12/08 12:19",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A oscilação do Ibovespa em torno dos 168 mil pontos indica um mercado em busca de direção. A capacidade do índice de se manter acima desse patamar dependerá de fatores macroeconômicos e do fluxo de notícias.",
+    "is_stocks": true
   }
 ]
