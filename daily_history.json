@@ -1,339 +1,5 @@
 [
   {
-    "_timestamp": 1786386668.4670258,
-    "titulo": "Boletim Cambial (10/08): Euro e Dólar PTAX",
-    "titulo_original": "Boletim Cambial (10/08): Euro e Dólar PTAX - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/08 15:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O boletim cambial fornece dados sobre o comportamento do Euro e do Dólar PTAX. Se os valores divulgados indicarem uma forte valorização do dólar, isso pode impactar as importações e exportações; caso contrário, a estabilidade cambial pode prevalecer.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786386671.981572,
-    "titulo": "Dólar hoje avança com exterior e dados de inflação no radar",
-    "titulo_original": "Dólar hoje avança com exterior e dados de inflação no radar - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/08 11:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O avanço do dólar, atrelado a fatores externos e dados de inflação, sugere um cenário de maior volatilidade cambial. Se os dados de inflação vierem acima do esperado, o dólar pode continuar sua trajetória de alta; se vierem em linha ou abaixo, pode haver uma reversão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786386676.4581447,
-    "titulo": "SEC afrouxa exigências para data centers emitirem títulos lastreados em ativos",
-    "titulo_original": "SEC afrouxa exigências para data centers emitirem títulos lastreados em ativos",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 14:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O afrouxamento das exigências da SEC para emissão de títulos por data centers pode impulsionar o financiamento para infraestrutura de IA. Se essa medida estimular um volume significativo de novas emissões, pode haver um impacto no mercado de crédito corporativo; caso contrário, o efeito pode ser limitado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786386676.4592624,
-    "titulo": "Apollo, Blackstone e Nvidia articulam pacote de financiamento de US$ 500 bi para infraestrutura de IA",
-    "titulo_original": "Apollo, Blackstone e Nvidia articulam pacote de financiamento de US$ 500 bi para infraestrutura de IA",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 14:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A articulação de um pacote de financiamento de US$ 500 bilhões para infraestrutura de IA sinaliza um investimento massivo no setor. Se esse financiamento for efetivado, pode acelerar o desenvolvimento e a adoção de tecnologias de IA; caso contrário, a escala do investimento pode ser menor do que o anunciado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786386676.4602573,
-    "titulo": "Meta e outras empresas de tecnologia devem responder por vício em redes sociais, decide tribunal nos EUA",
-    "titulo_original": "Meta e outras empresas de tecnologia devem responder por vício em redes sociais, decide tribunal nos EUA",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 14:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A decisão do tribunal de apelações dos EUA abre caminho para processos contra empresas de tecnologia por vício em redes sociais. Se essas ações forem bem-sucedidas, as empresas podem enfrentar multas e mudanças em seus modelos de negócio; caso contrário, a legislação atual pode protegê-las.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786386676.4612536,
-    "titulo": "Credores da Braskem ainda pressionam por injeção de capital da Petrobras, diz agência",
-    "titulo_original": "Credores da Braskem ainda pressionam por injeção de capital da Petrobras, diz agência",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 14:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A pressão dos credores por capital da Petrobras na Braskem indica uma situação financeira delicada da petroquímica. Se a Petrobras ceder à pressão, pode haver um impacto em seus balanços; caso contrário, a reestruturação da Braskem pode enfrentar mais obstáculos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786393874.040481,
-    "titulo": "Caiado diz a empresários que credibilidade da Presidência é primeiro passo para reduzir juros",
-    "titulo_original": "Caiado diz a empresários que credibilidade da Presidência é primeiro passo para reduzir juros",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 16:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Caiado associa a redução dos juros à credibilidade presidencial e à responsabilidade fiscal. Se eleito, a implementação de políticas fiscais críveis seria um fator chave para a queda dos juros; caso contrário, a taxa pode permanecer elevada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786393877.5325446,
-    "titulo": "Desenrola Adimplentes começa a operar 42 dias após lançamento",
-    "titulo_original": "Desenrola Adimplentes começa a operar 42 dias após lançamento",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 16:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A demora na operação do Desenrola Adimplentes sugere dificuldades iniciais em atrair bancos, o que pode indicar que as condições oferecidas ainda não são ideais para o setor. Se as novas regras regulatórias forem suficientes para engajar os bancos, o programa poderá ter maior alcance; caso contrário, a renegociação de dívidas pode continuar limitada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786393881.0511365,
-    "titulo": "BC questionará empresas não financeiras sobre uso de IA em seus negócios",
-    "titulo_original": "BC questionará empresas não financeiras sobre uso de IA em seus negócios",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 15:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A iniciativa do Banco Central em coletar dados sobre o uso de IA por empresas não financeiras visa entender o impacto da tecnologia na economia. Se os resultados indicarem um uso disseminado e com efeitos positivos na produtividade, isso pode sinalizar um futuro de maior eficiência econômica; caso contrário, pode apontar para desafios na adoção e integração da IA.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786393884.5690708,
-    "titulo": "Emendas parlamentares parecem ser evidente invasão de atribuição de um Poder sobre outro, diz Mendonça",
-    "titulo_original": "Emendas parlamentares parecem ser evidente invasão de atribuição de um Poder sobre outro, diz Mendonça",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 15:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A visão do ministro Mendonça sobre as emendas parlamentares pode gerar debates sobre a autonomia orçamentária dos poderes. Se o STF decidir contra a obrigatoriedade das emendas, isso pode reduzir a influência do Legislativo na alocação de recursos; se a decisão for favorável, pode manter o conflito entre os poderes sobre a gestão fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786393889.0669563,
-    "titulo": "ForexLive Américas notícias do mercado: Ouro e petróleo continuam a subir, iene afunda",
-    "titulo_original": "investingLive Americas market news wrap: Gold and oil continue to climb, yen sinks",
-    "fonte": "ForexLive",
-    "publicado": "10/08 17:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do ouro e do petróleo, combinada com o enfraquecimento do iene e a indicação do Fed sobre restrição monetária, aponta para um cenário de pressão inflacionária e possível aperto nas taxas de juros nos EUA. Se o Fed realmente aumentar a restrição, isso pode desacelerar a economia americana e impactar mercados globais; se a inflação persistir, o iene pode continuar em trajetória de queda.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786393889.068188,
-    "titulo": "Wall Street fecha em queda com tombo das ações da Intel e avanço dos preços do petróleo",
-    "titulo_original": "Wall Street fecha em queda com tombo das ações da Intel e avanço dos preços do petróleo",
-    "fonte": "Money Times",
-    "publicado": "10/08 17:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda de Wall Street, puxada pela Intel e pela alta do petróleo, reflete preocupações com o setor de tecnologia e pressões inflacionárias. Se a oferta de ações da Intel for bem recebida pelo mercado, isso pode sinalizar confiança na empresa; caso contrário, pode indicar dificuldades financeiras, e a alta do petróleo pode continuar a pressionar os custos e a inflação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786399246.6482255,
-    "titulo": "Os juros caíram novamente | Podcast Macro Review - C6 Bank",
-    "titulo_original": "Os juros caíram novamente | Podcast Macro Review - C6 Bank",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/08 16:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica uma continuidade na queda dos juros. Se essa tendência se mantiver, pode haver um estímulo maior para o consumo e investimento. Acompanhar os próximos comunicados do Banco Central será crucial para entender a sustentabilidade dessa queda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786399250.5825274,
-    "titulo": "Governo pode buscar nova estratégia para manter subsídio a combustíveis, afirma Silveira",
-    "titulo_original": "Governo pode buscar nova estratégia para manter subsídio a combustíveis, afirma Silveira",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 18:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A possibilidade de alteração na estratégia de subsídio a combustíveis pode ter implicações fiscais e de arrecadação. Se o governo encontrar um novo modelo de financiamento, isso pode impactar os preços dos combustíveis e a política energética do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786399254.5102773,
-    "titulo": "Itaúsa (ITSA4) define data para R$ 2,8 bilhões em juros sobre o capital próprio",
-    "titulo_original": "Itaúsa (ITSA4) define data para R$ 2,8 bilhões em juros sobre o capital próprio",
-    "fonte": "Money Times",
-    "publicado": "10/08 18:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O anúncio de pagamento de juros sobre capital próprio pela Itaúsa é uma notícia corporativa que pode impactar o fluxo de dividendos para acionistas. Se os resultados divulgados forem positivos, isso pode sustentar o valor da ação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786399258.4758868,
-    "titulo": "Justiça do DF suspende oferta de 18 blocos exploratórios de petróleo e gás - eixos.com.br",
-    "titulo_original": "Justiça do DF suspende oferta de 18 blocos exploratórios de petróleo e gás - eixos.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "10/08 16:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A suspensão judicial da oferta de blocos exploratórios de petróleo e gás pode impactar o setor de energia e os planos de exploração. Se a decisão for mantida, pode haver atrasos em projetos e investimentos na área.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786399263.3307884,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa recua, apesar das altas de VALE3 e PETR4 - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa recua, apesar das altas de VALE3 e PETR4 - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "10/08 14:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Apesar de algumas ações específicas apresentarem ganhos, o recuo geral do Ibovespa sugere que outros fatores estão pesando sobre o mercado. Se as preocupações macroeconômicas se intensificarem, a pressão de venda pode continuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786399263.3321543,
-    "titulo": "Ibovespa fecha em queda de 0,19% e dólar comercial sobe 0,53% - Canal Rural",
-    "titulo_original": "Ibovespa fecha em queda de 0,19% e dólar comercial sobe 0,53% - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/08 18:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa e a alta do dólar indicam um dia de pressão sobre os ativos brasileiros. Se as tensões externas persistirem, o dólar pode continuar a se valorizar frente ao real.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786399263.3334162,
-    "titulo": "Ibovespa tem leve baixa e dólar sobe com tensões no Oriente Médio e alta do petróleo - VEJA",
-    "titulo_original": "Ibovespa tem leve baixa e dólar sobe com tensões no Oriente Médio e alta do petróleo - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/08 17:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de tensões geopolíticas no Oriente Médio e a alta do petróleo impactou negativamente o Ibovespa e favoreceu a valorização do dólar. Se as tensões se intensificarem, o cenário de aversão ao risco pode se manter, pressionando ainda mais a bolsa brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786404645.9370415,
-    "titulo": "Atuação privada no saneamento cresce e chega a quase metade dos municípios brasileiros",
-    "titulo_original": "Atuação privada no saneamento cresce e chega a quase metade dos municípios brasileiros",
-    "fonte": "Folha Mercado",
-    "publicado": "10/08 19:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento da atuação privada no saneamento, impulsionado pelo Marco Legal, indica uma mudança regulatória com impacto direto na prestação de serviços. Se essa tendência se mantiver, pode haver maior eficiência e investimento no setor, mas é preciso monitorar a universalização do acesso.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786404650.3569324,
-    "titulo": "Preços da soja nos portos do Brasil voltam aos R$ 150/sc com altas em Chicago, do dólar e dos prêmios",
-    "titulo_original": "Preços da soja nos portos do Brasil voltam aos R$ 150/sc com altas em Chicago, do dólar e dos prêmios - noticiasagricolas.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "10/08 16:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de fatores internacionais (Chicago) e domésticos (dólar e prêmios) influencia diretamente o preço da soja no Brasil. Se a tendência de alta em Chicago e a valorização do dólar se mantiverem, os preços da soja no mercado interno podem continuar a subir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786404654.8872075,
-    "titulo": "Inflação na América Latina está bem administrada, apesar da guerra no Irã, diz BID",
-    "titulo_original": "Inflação na América Latina está bem administrada, apesar da guerra no Irã, diz BID - Valor Econômico",
-    "fonte": "Google News Geopolitica",
-    "publicado": "10/08 18:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A avaliação do BID sobre a gestão da inflação na América Latina, mesmo diante de tensões geopolíticas, sugere resiliência econômica na região. Se essa tendência se mantiver, pode haver um cenário mais estável para o controle de preços, apesar dos riscos externos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786404659.2613294,
-    "titulo": "Irã está negociando o preço político da abertura do Estreito de Ormuz, diz jornalista especializada",
-    "titulo_original": "Irã está negociando o preço político da abertura do Estreito de Ormuz, diz jornalista especializada - Brasil de Fato",
-    "fonte": "Google News Geopolitica",
-    "publicado": "10/08 19:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia sugere que a situação no Estreito de Ormuz pode ser influenciada por negociações políticas, indicando que a estabilidade da região pode depender de acordos. Se essas negociações falharem, a tensão na área pode aumentar, impactando o fluxo de petróleo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786404684.922189,
-    "titulo": "Moody’s rebaixa rating da Cosan (CSAN3) em meio à deterioração da qualidade de crédito da Raízen (RAIZ4)",
-    "titulo_original": "Moody’s rebaixa rating da Cosan (CSAN3) em meio à deterioração da qualidade de crédito da Raízen (RAIZ4)",
-    "fonte": "Money Times",
-    "publicado": "10/08 19:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O rebaixamento do rating da Cosan pela Moody's indica um aumento percebido no risco de crédito da empresa. Se a deterioração na Raízen persistir, isso pode impactar a capacidade da Cosan de acessar financiamento a custos favoráveis no futuro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786404684.9232223,
-    "titulo": "Futuros do milho seguem o dólar e terminam segunda-feira com altas de até 1,5% na B3",
-    "titulo_original": "Futuros do milho seguem o dólar e terminam segunda-feira com altas de até 1,5% na B3 - noticiasagricolas.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/08 16:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A correlação entre os futuros de milho e o dólar sugere que a cotação da moeda brasileira tem um papel significativo na precificação das commodities agrícolas. Se o dólar continuar a apresentar volatilidade, isso pode gerar movimentos semelhantes nos preços do milho.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786404684.9241068,
-    "titulo": "Bolsas de NY fecham em queda com alta do petróleo e dos Treasuries",
-    "titulo_original": "Bolsas de NY fecham em queda com alta do petróleo e dos Treasuries",
-    "fonte": "Valor Economico",
-    "publicado": "10/08 18:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda das bolsas de NY, atrelada à alta do petróleo e dos Treasuries, reflete a cautela dos investidores antes dos dados de inflação. Se a inflação vier acima do esperado, isso pode reforçar apostas em juros mais altos nos EUA, pressionando ainda mais os mercados acionários globais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786447858.7938175,
     "titulo": "Banco Central publica ata do Copom que baixou taxa Selic de 14,25% para 14% ao ano",
     "titulo_original": "Banco Central publica ata do Copom que baixou taxa Selic de 14,25% para 14% ao ano - O GLOBO",
@@ -1073,5 +739,105 @@
     "origem": "domestica",
     "leitura_critica": "A ampliação da proteção judicial para o grupo Gennius, controlador do Habib's, diante de dívidas superiores a R$ 300 milhões, indica dificuldades financeiras significativas. A menção ao aumento da taxa Selic como fator de elevação do custo de captação e rolagem de dívidas reforça o impacto do cenário de juros altos no endividamento corporativo.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1786534263.5820112,
+    "titulo": "Copom cauteloso? No mercado já há apostas de juros a 13,25% no fim de 2026",
+    "titulo_original": "Copom cauteloso? No mercado já há apostas de juros a 13,25% no fim de 2026 - PlatôBR",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/08 03:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A precificação de juros a 13,25% no final de 2026 sugere que o mercado antecipa um ciclo de aperto monetário mais prolongado ou uma manutenção da taxa em patamares elevados. Se o Copom confirmar essa cautela em suas próximas decisões, isso pode impactar o custo do crédito e o investimento no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786534268.2539747,
+    "titulo": "Selic não é correção monetária: ficção jurídica funcional e consequências práticas",
+    "titulo_original": "Selic não é correção monetária: ficção jurídica funcional e consequências práticas - Consultor Jurídico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/08 06:02",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre a natureza da Selic pode ter implicações na interpretação de contratos e decisões judiciais que envolvam taxas de juros. Se a tese do artigo for amplamente aceita, pode haver reavaliações sobre a aplicação de juros em determinados contextos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786534273.018216,
+    "titulo": "Irã afirma que não há discussões sobre extensão de cessar-fogo, pois o pacto não existe mais",
+    "titulo_original": "Iran reportedly maintains that there are no discussions over ceasefire extension as the pact doesn't exist anymore",
+    "fonte": "ForexLive",
+    "publicado": "12/08 07:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do Irã sobre a inexistência de um acordo de cessar-fogo com os EUA eleva a tensão geopolítica na região. Se essa postura se mantiver, o risco de escalada de conflitos pode aumentar, impactando a estabilidade global e, potencialmente, os preços de commodities energéticas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786534277.796573,
+    "titulo": "Negociações sobre guerra no Irã chegam a novo impasse em meio a novos ataques à navegação",
+    "titulo_original": "Negociações sobre guerra no Irã chegam a novo impasse em meio a novos ataques à navegação",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 08:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O novo impasse nas negociações e os ataques à navegação no Golfo de Omã e Mar Vermelho aumentam o risco de instabilidade geopolítica e podem afetar o fornecimento global de petróleo. Se a situação escalar, o preço do barril pode sofrer alta significativa, com potenciais reflexos na inflação global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786534284.030947,
+    "titulo": "Agenda de empresas: Lucro da Cury sobe 14%; ganho da B3 soma R$ 1,69 bi",
+    "titulo_original": "Agenda de empresas: Lucro da Cury sobe 14%; ganho da B3 soma R$ 1,69 bi",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 08:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados positivos de empresas como Cury e B3 podem indicar uma melhora na atividade econômica doméstica, embora seja necessário observar se essa tendência se estende a outros setores. A performance da B3, em particular, reflete o volume de negociações no mercado financeiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786534284.0322983,
+    "titulo": "Ativos do BNDES ultrapassam R$ 1 trilhão pela primeira vez",
+    "titulo_original": "Ativos do BNDES ultrapassam R$ 1 trilhão pela primeira vez",
+    "fonte": "Folha Mercado",
+    "publicado": "12/08 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento dos ativos do BNDES pode indicar um aumento no financiamento a projetos de infraestrutura e desenvolvimento no Brasil. Se esse capital for direcionado para setores produtivos, pode haver um impacto positivo na atividade econômica futura.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786534284.0336182,
+    "titulo": "Mini índice entra em zona crítica após forte queda; BTG aponta próximos níveis de atenção",
+    "titulo_original": "Mini índice entra em zona crítica após forte queda; BTG aponta próximos níveis de atenção",
+    "fonte": "Money Times",
+    "publicado": "12/08 08:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise técnica sugere que o mini índice está em um ponto de atenção, com potencial para novas quedas caso os níveis de suporte não sejam mantidos. Se a pressão vendedora persistir, pode indicar um sentimento de aversão ao risco no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786534284.0348966,
+    "titulo": "Ibovespa pode cair mais? Onde está o fundo da Bolsa",
+    "titulo_original": "Ibovespa pode cair mais? Onde está o fundo da Bolsa - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "12/08 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A incerteza sobre o futuro do Ibovespa sugere um cenário de volatilidade no mercado acionário. Se os indicadores técnicos apontarem para uma continuação da tendência de queda, pode haver um reflexo de aversão ao risco entre os investidores.",
+    "is_stocks": true
   }
 ]
