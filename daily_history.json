@@ -947,5 +947,88 @@
     "origem": "externa",
     "leitura_critica": "O acompanhamento em tempo real do preço do petróleo é importante para entender as flutuações diárias que podem impactar a inflação e a atividade econômica. Se houver uma escalada nos preços, isso pode gerar preocupações sobre a estabilidade econômica global.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786547749.224887,
+    "titulo": "Moraes e Dino determinam devolução de pagamentos ‘exorbitantes’ de penduricalhos em sete tribunais e da AGU",
+    "titulo_original": "Moraes e Dino determinam devolução de pagamentos ‘exorbitantes’ de penduricalhos em sete tribunais e da AGU",
+    "fonte": "Money Times",
+    "publicado": "12/08 11:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de suspender e reaver pagamentos considerados 'exorbitantes' em órgãos públicos pode sinalizar um esforço de contenção de gastos, impactando o orçamento público. Se essa medida for parte de um plano mais amplo de ajuste fiscal, pode trazer otimismo quanto à saúde das contas públicas; caso contrário, pode ser vista como uma ação pontual sem grande impacto macro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786547753.7209206,
+    "titulo": "Volatilidade aumenta com aproximação das eleições brasileiras e faz investidor estrangeiro adotar cautela",
+    "titulo_original": "Volatilidade aumenta com aproximação das eleições brasileiras e faz investidor estrangeiro adotar cautela",
+    "fonte": "InvestNews",
+    "publicado": "12/08 11:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da volatilidade e a cautela de investidores estrangeiros em relação ao real são fatores que podem pressionar a taxa de câmbio. Se o cenário eleitoral se mostrar mais definido e favorável a políticas de estabilidade, o fluxo de capital pode retornar; caso contrário, a aversão ao risco pode persistir, mantendo o dólar em patamares elevados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786547758.1377227,
+    "titulo": "Preços futuros aceleram vendas de soja em Mato Grosso",
+    "titulo_original": "Preços futuros aceleram vendas de soja em Mato Grosso - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "12/08 10:55",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "commodities"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata da dinâmica de vendas de soja em uma região específica, influenciada por preços futuros. Embora commodities sejam relevantes para a economia brasileira, esta notícia foca em um aspecto específico do agronegócio e não em fatores macroeconômicos diretos que afetem o WDO.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786547762.5562782,
+    "titulo": "Dólar recua ante o real após CPI dos EUA e dados de serviços no Brasil",
+    "titulo_original": "Dólar recua ante o real após CPI dos EUA e dados de serviços no Brasil - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/08 10:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O recuo do dólar ante o real sugere que os dados de inflação dos EUA e os dados de serviços no Brasil foram percebidos como positivos para a economia brasileira. Se os dados de serviços indicarem forte recuperação da atividade, isso pode sustentar o real; se o CPI dos EUA vier acima do esperado, pode reverter essa tendência. A leitura depende da magnitude e do contexto desses dados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786547768.0021803,
+    "titulo": "Dividendos da Taesa (TAEE11) em xeque? Ações caem após 2T26 e analistas avaliam força dos proventos",
+    "titulo_original": "Dividendos da Taesa (TAEE11) em xeque? Ações caem após 2T26 e analistas avaliam força dos proventos",
+    "fonte": "Money Times",
+    "publicado": "12/08 11:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas ações da Taesa após a divulgação de resultados trimestrais é um evento corporativo específico. Embora o resultado financeiro de uma empresa possa influenciar o desempenho de um setor ou índice, a notícia não conecta diretamente a queda a fatores macroeconômicos como juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786547768.0035145,
+    "titulo": "Medidas discutidas com Cade não devem afetar significativamente receitas da B3, diz diretor",
+    "titulo_original": "Medidas discutidas com Cade não devem afetar significativamente receitas da B3, diz diretor",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 11:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do diretor financeiro da B3 indica que as discussões com o Cade sobre conduta anticoncorrencial não devem gerar um impacto material nas receitas da empresa. Se as medidas discutidas fossem mais severas, poderiam afetar o setor financeiro; como o impacto é considerado pequeno, a relevância macroeconômica é limitada. A notícia não especifica um impacto direto nos canais de juros, inflação ou fluxo de capital.",
+    "is_stocks": true
   }
 ]
