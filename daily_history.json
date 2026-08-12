@@ -1,76 +1,5 @@
 [
   {
-    "_timestamp": 1786447858.7938175,
-    "titulo": "Banco Central publica ata do Copom que baixou taxa Selic de 14,25% para 14% ao ano",
-    "titulo_original": "Banco Central publica ata do Copom que baixou taxa Selic de 14,25% para 14% ao ano - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 08:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ata do Copom pode fornecer mais detalhes sobre as justificativas e as perspectivas futuras para a política monetária. Se a ata indicar um viés mais dovish, pode reforçar expectativas de novos cortes na Selic; caso contrário, se sinalizar cautela, pode moderar essas expectativas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786447863.1976163,
-    "titulo": "IGP-M sobe 0,26% na primeira prévia de agosto, informa FGV",
-    "titulo_original": "IGP-M sobe 0,26% na primeira prévia de agosto, informa FGV",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 08:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A reversão do IGP-M para território positivo, especialmente com a alta do Índice de Preços ao Produtor Amplo (IPA), pode indicar pressões inflacionárias em níveis mais elevados. Se essa tendência se mantiver, pode impactar contratos indexados ao IGP-M e as expectativas de inflação futura.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786447867.3902593,
-    "titulo": "BC deixa em aberto futuro da taxa Selic para devolver inflação à meta",
-    "titulo_original": "BC deixa em aberto futuro da taxa Selic para devolver inflação à meta - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 08:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do BC de que o futuro da Selic está em aberto sugere que as decisões futuras dependerão da evolução da inflação. Se a inflação persistir acima da meta, o BC pode adiar ou interromper os cortes na taxa de juros; se houver convergência para a meta, novos cortes podem ser considerados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786447871.608248,
-    "titulo": "Mercado espera nova redução da Selic após decisão do Copom",
-    "titulo_original": "Mercado espera nova redução da Selic após decisão do Copom - veronoticias.com",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 07:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa do mercado por uma nova redução da Selic sugere que as projeções atuais apontam para um cenário de continuidade do ciclo de afrouxamento monetário. Se a inflação continuar sob controle, o Banco Central pode atender a essa expectativa; caso contrário, pode haver uma revisão dessas projeções.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786447875.7374508,
-    "titulo": "Preço dos carros usados sobe cada vez menos. E isso é um problema para as locadoras",
-    "titulo_original": "Preço dos carros usados sobe cada vez menos. E isso é um problema para as locadoras",
-    "fonte": "InvestNews",
-    "publicado": "11/08 06:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração na valorização de carros usados sugere uma normalização do mercado pós-pandemia, o que pode afetar o balanço das locadoras. Se a tendência de desaceleração se confirmar, as empresas do setor precisarão ajustar suas estratégias de precificação e gestão de frota.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1786454146.7449396,
     "titulo": "IPCA desacelera para 0,07% em julho e registra a menor taxa para o mês desde 2022",
     "titulo_original": "IPCA desacelera para 0,07% em julho e registra a menor taxa para o mês desde 2022",
@@ -1129,6 +1058,76 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A oscilação do Ibovespa em torno dos 168 mil pontos indica um mercado em busca de direção. A capacidade do índice de se manter acima desse patamar dependerá de fatores macroeconômicos e do fluxo de notícias.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786559449.0469325,
+    "titulo": "Kassab confirma que Caiado cogita Armínio Fraga no Ministério da Fazenda",
+    "titulo_original": "Kassab confirma que Caiado cogita Armínio Fraga no Ministério da Fazenda",
+    "fonte": "Money Times",
+    "publicado": "12/08 14:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A possível nomeação de Armínio Fraga para o Ministério da Fazenda pode indicar uma postura mais ortodoxa na condução da política econômica. Se confirmada, essa escolha poderia gerar expectativas de maior controle fiscal e reformas estruturais, mas a decisão final ainda depende do cenário eleitoral.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786559453.8051088,
+    "titulo": "O déficit do governo dos EUA em julho foi o maior em qualquer mês desde 2021",
+    "titulo_original": "The US government deficit in July was the highest in any month since 2021",
+    "fonte": "ForexLive",
+    "publicado": "12/08 15:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento expressivo do déficit fiscal americano pode sinalizar uma pressão contínua sobre os juros de longo prazo nos EUA. Se os gastos governamentais não forem controlados, a tendência de alta na dívida pública pode se intensificar, impactando o apetite por risco global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786559458.5951076,
+    "titulo": "US treasury sells 10 year notes at a high yield of 4.683%",
+    "titulo_original": "US treasury sells 10 year notes at a high yield of 4.683%",
+    "fonte": "ForexLive",
+    "publicado": "12/08 14:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O rendimento de 4,683% nos títulos de 10 anos do Tesouro dos EUA pode indicar uma percepção de risco maior ou uma expectativa de juros mais altos no futuro. Se essa tendência de rendimentos elevados se mantiver, pode atrair capital para os EUA, potencialmente impactando fluxos para outros mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786559463.3489804,
+    "titulo": "AVISO: Há um longo caminho até a próxima reunião do Fed",
+    "titulo_original": "WARNING: There is a long way to go until the next Fed Meeting",
+    "fonte": "ForexLive",
+    "publicado": "12/08 14:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A discussão sobre o PCE como indicador de inflação preferencial do Fed sugere que os próximos dados de inflação, especialmente os que compõem o PCE, serão cruciais para as decisões de política monetária. Se os dados de PPI divulgados amanhã indicarem pressões inflacionárias, isso pode reforçar a postura mais cautelosa do Fed.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786559468.9094188,
+    "titulo": "B3 tem 2º tri dentro do esperado, mas cenário é mais fraco, dizem analistas",
+    "titulo_original": "B3 tem 2° tri dentro do esperado, mas cenário é mais fraco, dizem analistas",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 14:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho da B3, embora dentro do esperado, reflete um cenário de menor atividade econômica, o que pode persistir se as condições de crédito e o ambiente de negócios não melhorarem. Se os resultados futuros da B3 continuarem a indicar fraqueza, isso pode ser um sinal de desaceleração mais ampla na economia.",
     "is_stocks": true
   }
 ]
