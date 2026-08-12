@@ -1,103 +1,5 @@
 [
   {
-    "_timestamp": 1786461381.2059293,
-    "titulo": "Café acumula maior queda de preços no Plano Real após subir mais de 80%, diz IBGE",
-    "titulo_original": "Café acumula maior queda de preços no Plano Real após subir mais de 80%, diz IBGE",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 11:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A deflação significativa nos preços do café pode aliviar a pressão inflacionária em alguns segmentos do varejo. Se essa tendência de queda se mantiver e se espalhar para outros produtos agrícolas, isso pode contribuir para uma desaceleração mais ampla da inflação; contudo, a volatilidade passada sugere que essa queda pode ser temporária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786461386.1173298,
-    "titulo": "Comissão do Senado aprova novamente PL de piso salarial para médicos e cirurgiões dentistas",
-    "titulo_original": "Comissão do Senado aprova novamente PL de piso salarial para médicos e cirurgiões dentistas",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 12:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do piso salarial para médicos e cirurgiões dentistas representa uma decisão com potencial impacto fiscal e regulatório. Se o projeto for aprovado sem alterações significativas nas próximas etapas, o aumento dos custos trabalhistas no setor de saúde pode ser considerável; caso contrário, ajustes no texto podem mitigar parte desse impacto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786461390.923985,
-    "titulo": "BC vê inflação desacelerando, mas aponta pressão do petróleo e de gastos públicos",
-    "titulo_original": "BC vê inflação desacelerando, mas aponta pressão do petróleo e de gastos públicos - G1",
-    "fonte": "Google News Commodities",
-    "publicado": "11/08 08:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A percepção do BC sobre a inflação, com desaceleração mas com pressões pontuais, sugere que a política monetária pode continuar em um compasso de cautela. Se as pressões de gastos públicos e do petróleo se intensificarem, isso pode atrasar ou limitar futuros cortes de juros; caso contrário, a tendência de desaceleração pode permitir uma flexibilização mais consistente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786461395.7608202,
-    "titulo": "Vendas de casas existentes nos EUA em julho: 4,06 milhões vs. 4,05 milhões esperados",
-    "titulo_original": "US July existing home sales 4.06m vs 4.05m expected",
-    "fonte": "ForexLive",
-    "publicado": "11/08 11:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O mercado imobiliário dos EUA se encontra em um estado estável, com taxas de hipoteca elevadas impactando a dinâmica. Se as taxas de juros continuarem a subir, isso pode pressionar ainda mais as vendas; por outro lado, se a construção de novas residências não acompanhar a formação de novas famílias, o desequilíbrio entre oferta e demanda pode se acentuar no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786461401.6848738,
-    "titulo": "Presidente do Bradesco vê espaço para novos cortes de juros, mas alerta para riscos de guerra, eleições e El Niño",
-    "titulo_original": "Presidente do Bradesco vê espaço para novos cortes de juros, mas alerta para riscos de guerra, eleições e El Niño - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 10:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A visão do presidente do Bradesco sobre a possibilidade de cortes de juros sugere um otimismo cauteloso em relação à política monetária. Se os riscos mencionados se materializarem e impactarem negativamente a economia, o Banco Central pode ter sua margem de manobra para reduzir os juros limitada; caso contrário, a continuidade dos cortes pode ser esperada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786461401.6867454,
-    "titulo": "Estrangeiros retiram R$ 2,6 bi da B3 em 7 de agosto e acumulam saldo negativo de R$ 5,5 bi no mês",
-    "titulo_original": "Estrangeiros retiram R$ 2,6 bi da B3 em 7 de agosto e acumulam saldo negativo de R$ 5,5 bi no mês",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 11:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A saída de capital estrangeiro da B3 em agosto, embora o saldo anual ainda seja positivo, pode indicar uma cautela renovada dos investidores internacionais em relação ao mercado brasileiro. Se essa tendência de retirada se mantiver, pode haver pressão sobre o Ibovespa e o fluxo de investimentos para o país.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786461401.6885388,
-    "titulo": "CSN troca US$ 1 bilhão em dívida com vencimento em 2028 por títulos até 2030",
-    "titulo_original": "CSN troca US$ 1 bilhão em dívida com vencimento em 2028 por títulos até 2030",
-    "fonte": "InvestNews",
-    "publicado": "11/08 09:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A troca de dívida pela CSN indica uma estratégia de alongamento do passivo e, possivelmente, uma busca por melhores condições de financiamento em um cenário de juros. Se as taxas de juros futuras se mantiverem elevadas, essa decisão pode ser vantajosa; caso contrário, a empresa pode ter optado por um custo de capital mais alto do que o necessário.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786466738.5465748,
     "titulo": "Juros podem cair menos do que o mercado espera? Market Makers aponta os obstáculos para queda maior da Selic",
     "titulo_original": "Juros podem cair menos do que o mercado espera? Market Makers aponta os obstáculos para queda maior da Selic",
@@ -1068,6 +970,136 @@
     ],
     "origem": "externa",
     "leitura_critica": "O fechamento misto de Wall Street, com a inflação em linha com o esperado, sugere que os investidores estão ponderando diferentes fatores. A força em ações de IA indica otimismo em setores específicos, enquanto o impasse no Oriente Médio adiciona um elemento de incerteza geopolítica. Se a inflação continuar em linha com as expectativas, isso pode dar suporte a uma política monetária estável; se houver surpresas futuras, o cenário pode mudar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786572048.095151,
+    "titulo": "Lula assina decreto que regulamenta mercado livre de energia",
+    "titulo_original": "Lula assina decreto que regulamenta mercado livre de energia",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 18:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A regulamentação do mercado livre de energia para todos os consumidores representa uma mudança estrutural no setor elétrico brasileiro. Se a migração para o mercado livre ocorrer conforme o planejado, isso pode gerar novas dinâmicas de preços e contratos, impactando empresas e consumidores de forma significativa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786572052.8753762,
+    "titulo": "Qualicorp registra alta de quase 60% no lucro do 2º trimestre",
+    "titulo_original": "Qualicorp registra alta de quase 60% no lucro do 2º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 18:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do lucro da Qualicorp, apesar da queda na receita, foi impulsionado pela redução de despesas e melhor resultado financeiro. Se as despesas operacionais continuarem em queda e o resultado financeiro se mantiver favorável, a tendência de lucro pode se sustentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786572057.6074095,
+    "titulo": "Prejuízo da CVC sobe 56% no 2º trimestre com efeito cambial e crise do petróleo",
+    "titulo_original": "Prejuízo da CVC sobe 56% no 2º trimestre com efeito cambial e crise do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 18:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do prejuízo da CVC, associado à crise do petróleo e a um efeito cambial, demonstra a vulnerabilidade do setor de turismo a choques externos e flutuações cambiais. Se os preços do petróleo continuarem voláteis e o câmbio se desvalorizar, a empresa pode enfrentar dificuldades adicionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786572062.3812242,
+    "titulo": "Ouro avança após inflação dos EUA aliviar apostas de alta de juros - Valor Econômico",
+    "titulo_original": "Ouro avança após inflação dos EUA aliviar apostas de alta de juros - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "12/08 15:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nas expectativas de alta de juros nos EUA, em decorrência de uma inflação mais branda, tende a tornar o ouro mais atrativo como ativo de reserva de valor. Se os próximos dados de inflação confirmarem essa tendência, o ouro pode continuar sua valorização, enquanto apostas em juros mais altos se dissipam.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786572068.5360892,
+    "titulo": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
+    "titulo_original": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
+    "fonte": "ForexLive",
+    "publicado": "12/08 18:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A inflação nos EUA vindo como esperado pode sinalizar que o Federal Reserve manterá sua postura atual em relação aos juros. Se os próximos dados de inflação continuarem alinhados às expectativas, isso pode reforçar a visão de que o ciclo de aperto monetário está próximo do fim.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786572068.5378785,
+    "titulo": "Cogna (COGN3) vê lucro crescer 25% no 2T26, para R$ 149 milhões, mas novo marco regulatório pesa sobre margens",
+    "titulo_original": "Cogna (COGN3) vê lucro crescer 25% no 2T26, para R$ 149 milhões, mas novo marco regulatório pesa sobre margens",
+    "fonte": "Money Times",
+    "publicado": "12/08 18:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O novo marco regulatório da educação superior impactou as margens da Cogna, indicando um efeito direto de uma decisão regulatória sobre o setor. Se a aplicação deste marco se expandir para outras áreas educacionais, isso pode gerar pressão em outras margens de empresas do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786572068.539555,
+    "titulo": "Ibovespa sofre nova queda com continuidade do mau humor pré-eleitoral no mercado - Valor Econômico",
+    "titulo_original": "Ibovespa sofre nova queda com continuidade do mau humor pré-eleitoral no mercado - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "12/08 17:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade do mau humor pré-eleitoral sugere que a volatilidade no mercado acionário brasileiro pode persistir até que haja maior clareza sobre o cenário político. Se as pesquisas de intenção de voto apresentarem mudanças significativas, isso pode alterar o sentimento do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786572068.5411694,
+    "titulo": "Banco do Brasil (BBAS3) pagará R$ 584,9 milhões em juros sobre o capital próprio; veja como aproveitar",
+    "titulo_original": "Banco do Brasil (BBAS3) pagará R$ 584,9 milhões em juros sobre o capital próprio; veja como aproveitar",
+    "fonte": "Money Times",
+    "publicado": "12/08 18:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa sobre a distribuição de juros sobre capital próprio pelo Banco do Brasil, um evento corporativo. Se a política de distribuição de dividendos e JCP do banco se mantiver consistente, isso pode ser um fator de atratividade para investidores focados em renda.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786572068.5428157,
+    "titulo": "Ibovespa Volta Aos 167 Mil Pontos: o Que Mudou na Bolsa e o Que Pode Ditar os Próximos Meses - Forbes Brasil",
+    "titulo_original": "Ibovespa Volta Aos 167 Mil Pontos: o Que Mudou na Bolsa e o Que Pode Ditar os Próximos Meses - Forbes Brasil",
+    "fonte": "Google News Acoes",
+    "publicado": "12/08 18:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação do Ibovespa para 167 mil pontos indica uma melhora no sentimento do mercado, possivelmente ligada a fatores domésticos ou externos. Se os fatores que impulsionaram essa alta se mantiverem, o índice pode continuar sua trajetória ascendente; caso contrário, uma reversão é possível.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786572068.5444713,
+    "titulo": "Minerva (BEEF3) tem lucro de R$ 196,9 milhões no 2T26, queda de 57%",
+    "titulo_original": "Minerva (BEEF3) tem lucro de R$ 196,9 milhões no 2T26, queda de 57%",
+    "fonte": "Money Times",
+    "publicado": "12/08 18:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda no lucro da Minerva, mesmo com o aumento da receita, sugere uma pressão sobre os custos ou margens operacionais. Se os custos de produção continuarem elevados ou se a margem de lucro por unidade vendida diminuir, a rentabilidade da empresa pode ser afetada.",
     "is_stocks": true
   }
 ]
