@@ -1,105 +1,5 @@
 [
   {
-    "_timestamp": 1786466738.5465748,
-    "titulo": "Juros podem cair menos do que o mercado espera? Market Makers aponta os obstáculos para queda maior da Selic",
-    "titulo_original": "Juros podem cair menos do que o mercado espera? Market Makers aponta os obstáculos para queda maior da Selic",
-    "fonte": "Money Times",
-    "publicado": "11/08 13:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistência da inflação acima do desejado pode levar o Banco Central a manter uma postura mais cautelosa em relação aos cortes da Selic. Se os próximos dados de inflação mostrarem uma desaceleração mais robusta, o mercado pode reavaliar as expectativas de queda de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786466742.1290033,
-    "titulo": "BC diz que inflação segue pressionada por demanda e exige Selic elevada",
-    "titulo_original": "BC diz que inflação segue pressionada por demanda e exige Selic elevada - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 11:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do Banco Central reforça a visão de que a inflação ainda é um desafio, o que pode justificar a manutenção de juros altos por mais tempo. Se a pressão inflacionária por demanda persistir, o ciclo de cortes da Selic pode ser mais lento do que o esperado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786466745.8744843,
-    "titulo": "(Quase) tudo o que você precisa saber sobre o Copom e a Taxa Selic - Agência Pública",
-    "titulo_original": "(Quase) tudo o que você precisa saber sobre o Copom e a Taxa Selic - Agência Pública",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 12:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O conteúdo deste artigo é informativo e explicativo sobre o Copom e a Selic. Sua relevância reside em fornecer contexto e detalhes sobre as decisões de política monetária, o que pode auxiliar na interpretação de movimentos futuros do mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786466749.3845675,
-    "titulo": "Copom cita geopolítica, juros dos EUA e emprego ao reforçar cautela com a Selic",
-    "titulo_original": "Copom cita geopolítica, juros dos EUA e emprego ao reforçar cautela com a Selic - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 08:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A menção a fatores externos e internos pelo Copom indica um cenário de incertezas que pode prolongar a cautela na política monetária. Se as tensões geopolíticas aumentarem ou os dados de emprego nos EUA continuarem fortes, isso pode reforçar a necessidade de manter a Selic elevada no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786466753.815983,
-    "titulo": "TCU questiona cálculo que levou Receita a errar projeção de arrecadação com dividendos",
-    "titulo_original": "TCU questiona cálculo que levou Receita a errar projeção de arrecadação com dividendos",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 12:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O questionamento do TCU sobre a metodologia de cálculo da Receita Federal pode indicar falhas na projeção fiscal e na gestão tributária. Se a análise do TCU apontar irregularidades, isso pode levar a revisões nas projeções de arrecadação e impactar o cenário fiscal do país.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786466753.8179176,
-    "titulo": "FGC diz ao STF que não recebeu balanço do BRB, necessário para viabilizar empréstimo",
-    "titulo_original": "FGC diz ao STF que não recebeu balanço do BRB, necessário para viabilizar empréstimo",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 13:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A falta de informações financeiras do BRB pode atrasar a liberação do empréstimo, o que pode gerar preocupações sobre a liquidez do banco. Se a situação se agravar, pode haver repercussões no setor financeiro, embora a notícia se concentre em uma instituição específica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786466753.819791,
-    "titulo": "Seletividade na escolha de FIIs segue em foco após Copom",
-    "titulo_original": "Seletividade na escolha de FIIs segue em foco após Copom - Bora Investir",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 11:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Copom impacta o mercado de renda variável, incluindo FIIs, exigindo uma análise mais criteriosa dos investidores. Se o cenário de juros permanecer elevado, a busca por FIIs com fundamentos sólidos e boa geração de caixa se tornará ainda mais importante.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786473049.1302047,
     "titulo": "Romênia destrói drones perto de importante projeto de gás offshore no Mar Negro",
     "titulo_original": "Romênia destrói drones perto de importante projeto de gás offshore no Mar Negro",
@@ -1100,6 +1000,108 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A queda no lucro da Minerva, mesmo com o aumento da receita, sugere uma pressão sobre os custos ou margens operacionais. Se os custos de produção continuarem elevados ou se a margem de lucro por unidade vendida diminuir, a rentabilidade da empresa pode ser afetada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786577441.1267014,
+    "titulo": "BC multa Genial em R$ 21,6 milhões e inabilita CEO por irregularidade em operação cambial",
+    "titulo_original": "BC multa Genial em R$ 21,6 milhões e inabilita CEO por irregularidade em operação cambial",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 20:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A multa aplicada pelo Banco Central ao Banco Genial por irregularidades em operações cambiais pode sinalizar um rigor maior na fiscalização de transações internacionais. Se a interpretação do BC sobre as normas for mantida, isso pode levar a um escrutínio mais atento de outras instituições financeiras em suas operações de câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786577445.015315,
+    "titulo": "Senado aprova texto-base de PLP dos combustíveis com jabutis para fertilizantes e metais raros",
+    "titulo_original": "Senado aprova texto-base de PLP dos combustíveis com jabutis para fertilizantes e metais raros",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 20:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do texto-base do PLP dos combustíveis pelo Senado, com inclusão de incentivos fiscais para outros setores, demonstra uma estratégia de conciliar renúncia fiscal com demandas diversas. Se o destaque pendente for aprovado e alterar o texto, o impacto fiscal e regulatório pode ser diferente do previsto inicialmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786577448.5647836,
+    "titulo": "Após pressão da esquerda, governo ajusta gatilho fiscal em PLP dos combustíveis",
+    "titulo_original": "Após pressão da esquerda, governo ajusta gatilho fiscal em PLP dos combustíveis",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 19:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O ajuste no gatilho fiscal do PLP dos combustíveis, após pressão política, indica a negociação em torno das regras de controle de gastos. Se a nova redação for mantida, o impacto no ajuste fiscal de 2027 pode ser mais direcionado, evitando afetar pisos constitucionais de saúde e educação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786577452.0330873,
+    "titulo": "Ex-chefe do BC contou ter sido abordado por operador de Vorcaro em evento, diz diretor à PF",
+    "titulo_original": "Ex-chefe do BC contou ter sido abordado por operador de Vorcaro em evento, diz diretor à PF",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 19:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O relato de abordagem a um ex-chefe do Banco Central por um operador financeiro em investigação pode levantar preocupações sobre a integridade de processos regulatórios. Se a investigação policial confirmar a natureza da abordagem, isso pode gerar questionamentos sobre a influência indevida em decisões do BC.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786577457.5110674,
+    "titulo": "BB: Resultado ainda é menor do que temos capacidade de gerar, mas traz sinalizações importantes, diz Tobias",
+    "titulo_original": "BB: Resultado ainda é menor do que temos capacidade de gerar, mas traz sinalizações importantes, diz Tobias",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 20:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Banco do Brasil sobre um resultado em \"W\" sugere um cenário de volatilidade para o setor bancário, com possíveis altos e baixos nos próximos trimestres. Se a economia brasileira apresentar recuperação mais robusta, o banco pode atingir seu potencial de geração de resultados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786577457.5128746,
+    "titulo": "Positivo Tecnologia reverte prejuízo e lucra R$ 2,58 milhões no 2º trimestre",
+    "titulo_original": "Positivo Tecnologia reverte prejuízo e lucra R$ 2,58 milhões no 2º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 19:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A reversão do prejuízo pela Positivo Tecnologia, com crescimento de receita e Ebitda, sugere uma melhora no desempenho operacional da empresa. Se a demanda por seus produtos e serviços se mantiver aquecida, a empresa pode consolidar essa trajetória de lucro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786577457.5146008,
+    "titulo": "Conselho da Ultrapar aprova pagamento de R$ 1,08 bi em dividendos",
+    "titulo_original": "Conselho da Ultrapar aprova pagamento de R$ 1,08 bi em dividendos",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 19:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação de dividendos bilionários pela Ultrapar indica uma política de distribuição de lucros aos acionistas. Se a empresa mantiver sua performance financeira, a expectativa de novos pagamentos de proventos pode ser um fator de atratividade para investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786577457.516302,
+    "titulo": "Ultrapar (UGPA3) tem salto no lucro do 2º trimestre, para R$ 1,7 bilhão, e anuncia dividendos bilionários e recompra de ações",
+    "titulo_original": "Ultrapar (UGPA3) tem salto no lucro do 2º trimestre, para R$ 1,7 bilhão, e anuncia dividendos bilionários e recompra de ações",
+    "fonte": "Money Times",
+    "publicado": "12/08 19:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte aumento no lucro da Ultrapar, associado à distribuição de dividendos e recompra de ações, sugere um cenário positivo para a empresa. Se a recuperação do mercado de combustíveis se mantiver, a Ultrapar pode continuar a apresentar resultados expressivos.",
     "is_stocks": true
   }
 ]
