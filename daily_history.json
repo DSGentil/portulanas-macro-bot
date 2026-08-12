@@ -1,133 +1,5 @@
 [
   {
-    "_timestamp": 1786454146.7449396,
-    "titulo": "IPCA desacelera para 0,07% em julho e registra a menor taxa para o mês desde 2022",
-    "titulo_original": "IPCA desacelera para 0,07% em julho e registra a menor taxa para o mês desde 2022",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 09:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração da inflação para 0,07% em julho, embora acima do esperado por alguns analistas, reforça a tendência de convergência para a meta. Se essa trajetória se mantiver nos próximos meses, o Banco Central pode ter mais espaço para discutir a flexibilização da política monetária. Caso contrário, se houver pressões inflacionárias inesperadas, o BC pode manter um tom mais cauteloso.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786454150.669127,
-    "titulo": "Milhões de brasileiros ainda possuem dinheiro esquecido em instituições financeiras",
-    "titulo_original": "Milhões de brasileiros ainda possuem dinheiro esquecido em instituições financeiras",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 10:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia detalha a disponibilidade de fundos esquecidos e sua destinação para programas governamentais. Se a transferência de recursos para o Fundo Garantidor de Operações (FGO) for consolidada e ampliada em programas futuros, isso pode indicar uma política ativa de realocação de liquidez. Caso contrário, a tendência de queda nos valores disponíveis pode se manter apenas pela consulta e saque dos cidadãos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786454154.6552396,
-    "titulo": "Justiça do Rio determina suspensão dos direitos políticos de Garotinho",
-    "titulo_original": "Justiça do Rio determina suspensão dos direitos políticos de Garotinho",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 09:48",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A suspensão dos direitos políticos de Anthony Garotinho é uma decisão judicial com implicações eleitorais e de improbidade administrativa. Embora envolva uma decisão judicial, seu impacto direto nos canais macroeconômicos é limitado, a menos que haja desdobramentos que afetem políticas fiscais ou regulatórias de forma mais ampla. A Justiça Eleitoral definirá a inelegibilidade para pleitos futuros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786454158.6350827,
-    "titulo": "Petróleo supera US$ 90 pela primeira vez no mês com indefinição sobre liberação de Hormuz",
-    "titulo_original": "Petróleo supera US$ 90 pela primeira vez no mês com indefinição sobre liberação de Hormuz",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 09:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada nas tensões no Estreito de Hormuz e a consequente alta do petróleo podem gerar pressões inflacionárias globais, impactando custos de produção e transporte. Se a situação diplomática se agravar, o preço do petróleo pode continuar a subir, afetando a inflação e, consequentemente, as decisões de política monetária de diversos países. Se um acordo for alcançado, a tendência de alta pode se reverter rapidamente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786454164.0771017,
-    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - gauchazh.clicrbs.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "11/08 06:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": null,
-    "leitura_critica": "A notícia é um link para acompanhamento em tempo real da cotação do petróleo. A relevância dependerá das variações que ocorrerem e de como estas se conectarem a fatores macroeconômicos, como tensões geopolíticas ou dados de oferta e demanda.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786454164.0788636,
-    "titulo": "Intel amplia oferta de ações para US$ 20 bilhões diante de forte demanda",
-    "titulo_original": "Intel amplia oferta de ações para US$ 20 bilhões diante de forte demanda - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "11/08 05:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento da oferta de ações de uma grande empresa de tecnologia pode indicar confiança do mercado em seu futuro ou necessidade de capital para expansão. Se essa demanda por ações se mantiver forte em outros setores, pode sinalizar um apetite a risco global. Caso contrário, pode ser um movimento específico da Intel.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786454164.0805027,
-    "titulo": "investingLive European FX news wrap: RBA holds steady, Iran-Oman close to Hormuz deal",
-    "titulo_original": "investingLive European FX news wrap: RBA holds steady, Iran-Oman close to Hormuz deal",
-    "fonte": "ForexLive",
-    "publicado": "11/08 08:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do RBA de manter a taxa de juros pode indicar uma avaliação de que a política monetária atual é adequada para as condições econômicas australianas. Se o acordo sobre o Estreito de Hormuz for concretizado, isso pode aliviar as tensões geopolíticas e impactar os preços do petróleo. A análise de outros dados econômicos globais contribui para um panorama mais amplo do cenário internacional.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786454164.082102,
-    "titulo": "Impulsionado por crédito a grandes empresas e gestão de ativos, lucro do BTG aumenta 23% para R$ 5,1 bi",
-    "titulo_original": "Impulsionado por crédito a grandes empresas e gestão de ativos, lucro do BTG aumenta 23% para R$ 5,1 bi",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do lucro do BTG Pactual, especialmente em segmentos como crédito a grandes empresas e gestão de ativos, pode refletir um cenário de maior atividade econômica e confiança no mercado financeiro. Se essa tendência se estender a outros bancos e instituições, pode indicar uma melhora geral no setor. Caso contrário, pode ser um desempenho isolado do BTG.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786454164.083832,
-    "titulo": "BTG vê espaço para recuperação do mini índice e nova alta do mini dólar",
-    "titulo_original": "BTG vê espaço para recuperação do mini índice e nova alta do mini dólar",
-    "fonte": "Money Times",
-    "publicado": "11/08 09:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A análise do BTG Pactual sobre o mini índice e o mini dólar reflete expectativas de mercado para movimentos de curto prazo. Se o mini índice se recuperar e o mini dólar apresentar nova alta, isso pode indicar um cenário de maior volatilidade ou a persistência de fatores que favorecem o dólar. A confirmação dessas tendências dependerá de novos dados e eventos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786454164.0854561,
-    "titulo": "JPMorgan corta Brasil a neutro, “reduz” Ibovespa e aposta em exportadoras; veja ações",
-    "titulo_original": "JPMorgan corta Brasil a neutro, “reduz” Ibovespa e aposta em exportadoras; veja ações - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "11/08 09:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A mudança na recomendação do JPMorgan para o Brasil, de neutra e com redução no Ibovespa, sugere uma visão cautelosa do banco sobre o desempenho futuro do mercado local. Se as ações de exportadoras recomendadas apresentarem bom desempenho, isso pode indicar que fatores externos, como a demanda global por commodities, estão mais favoráveis. Caso contrário, a visão do JPMorgan pode se confirmar.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786461381.2059293,
     "titulo": "Café acumula maior queda de preços no Plano Real após subir mais de 80%, diz IBGE",
     "titulo_original": "Café acumula maior queda de preços no Plano Real após subir mais de 80%, diz IBGE",
@@ -1128,6 +1000,74 @@
     ],
     "origem": "domestica",
     "leitura_critica": "O desempenho da B3, embora dentro do esperado, reflete um cenário de menor atividade econômica, o que pode persistir se as condições de crédito e o ambiente de negócios não melhorarem. Se os resultados futuros da B3 continuarem a indicar fraqueza, isso pode ser um sinal de desaceleração mais ampla na economia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786566649.7196522,
+    "titulo": "STF extingue todos os processos sobre Moratória da Soja na Justiça e no Cade",
+    "titulo_original": "STF extingue todos os processos sobre Moratória da Soja na Justiça e no Cade",
+    "fonte": "Folha Mercado",
+    "publicado": "12/08 17:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF extingue processos relacionados à Moratória da Soja, o que pode ter implicações para o setor agrícola e ambiental. Se essa extinção de processos remover barreiras regulatórias ou legais para a produção de soja em áreas anteriormente restritas, isso pode impactar a oferta e os preços da commodity. É importante observar se haverá alguma mudança prática nas regras de produção ou fiscalização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786566653.2399797,
+    "titulo": "Selic pode estacionar em 14%",
+    "titulo_original": "Selic pode estacionar em 14% - Sinduscon-SP",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/08 15:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de que a Selic possa estacionar em 14% sugere que o mercado pode estar precificando um fim no ciclo de cortes ou uma pausa na redução da taxa básica de juros. Se o Banco Central mantiver a Selic nesse patamar por um período prolongado, isso pode ter implicações para o custo do crédito e o investimento. Acompanhar as próximas decisões do Copom será crucial para confirmar essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786566656.6727102,
+    "titulo": "Câmara inicia análise do projeto que reduz tributos sobre combustíveis em 2026",
+    "titulo_original": "Câmara inicia análise do projeto que reduz tributos sobre combustíveis em 2026",
+    "fonte": "Valor Economico",
+    "publicado": "12/08 17:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise do projeto de lei complementar na Câmara dos Deputados, que prevê redução de tributos sobre combustíveis e outros incentivos fiscais, pode ter um impacto significativo nas contas públicas e na arrecadação. Se o projeto for aprovado com as medidas de renúncia de receita, isso pode pressionar o déficit fiscal. Acompanhar o desenrolar da votação e as possíveis alterações no texto será fundamental para avaliar o impacto fiscal e regulatório.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786566660.183899,
+    "titulo": "Dólar avança a R$ 5,18 com eleições ainda no radar dos investidores",
+    "titulo_original": "Dólar avança a R$ 5,18 com eleições ainda no radar dos investidores",
+    "fonte": "Money Times",
+    "publicado": "12/08 17:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar a R$ 5,18, impulsionada pelo cenário eleitoral e pela política econômica futura, indica uma percepção de risco ou incerteza por parte dos investidores em relação ao Brasil. Se a incerteza política persistir ou se as propostas econômicas futuras forem vistas como desfavoráveis, o dólar pode continuar pressionado. Acompanhar as pesquisas eleitorais e as definições de política econômica será crucial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786566664.4694865,
+    "titulo": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA",
+    "titulo_original": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA",
+    "fonte": "Money Times",
+    "publicado": "12/08 17:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O fechamento misto de Wall Street, com a inflação em linha com o esperado, sugere que os investidores estão ponderando diferentes fatores. A força em ações de IA indica otimismo em setores específicos, enquanto o impasse no Oriente Médio adiciona um elemento de incerteza geopolítica. Se a inflação continuar em linha com as expectativas, isso pode dar suporte a uma política monetária estável; se houver surpresas futuras, o cenário pode mudar.",
     "is_stocks": true
   }
 ]
