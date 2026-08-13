@@ -873,5 +873,151 @@
     "origem": "domestica",
     "leitura_critica": "A combinação de resultados corporativos e a volatilidade nos preços do petróleo cria um cenário misto para o Ibovespa. Se os balanços das empresas, especialmente do BB, vierem acima das expectativas, isso pode impulsionar o índice; caso contrário, a queda do petróleo pode continuar a pressionar o mercado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786626942.578345,
+    "titulo": "STF valida moratória da soja, mas mantém restrições com “ideia de equilíbrio” de Dino",
+    "titulo_original": "STF valida moratória da soja, mas mantém restrições com “ideia de equilíbrio” de Dino - gazetadopovo.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "13/08 07:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF sobre a moratória da soja, ao validar a medida com restrições, pode impactar o setor agrícola e suas relações comerciais. A manutenção de restrições sugere que o equilíbrio entre os interesses envolvidos ainda está em debate, o que pode gerar incertezas para os produtores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786626947.4431598,
+    "titulo": "Ativos locais estendem piora e dólar se aproxima dos R$ 5,18",
+    "titulo_original": "Ativos locais estendem piora e dólar se aproxima dos R$ 5,18 - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 05:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aproximação do dólar a R$ 5,18, acompanhada pela piora dos ativos locais, pode indicar uma fuga de capital ou uma percepção de maior risco no Brasil. Se essa tendência se consolidar, pode pressionar a inflação via custos de importação e afetar o custo de capital para empresas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786626952.2609959,
+    "titulo": "Dino, do STF, considera legal Moratória da Soja e vota contra pedidos de indenizações",
+    "titulo_original": "Dino, do STF, considera legal Moratória da Soja e vota contra pedidos de indenizações - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "13/08 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do ministro Dino no STF, ao considerar a moratória da soja legal e rejeitar pedidos de indenização, reforça a posição jurídica sobre o tema. Essa definição pode trazer maior clareza para o setor, embora a continuidade de restrições possa ainda gerar debates sobre o impacto econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786626957.0988553,
+    "titulo": "Dólar abre a R$ 5,18, mantendo tendência após três altas seguidas",
+    "titulo_original": "Dólar abre a R$ 5,18, mantendo tendência após três altas seguidas - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 09:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade da alta do dólar, que já acumula três dias de valorização, pode indicar uma pressão persistente sobre o câmbio brasileiro. Se essa tendência se mantiver, pode aumentar os custos de importação e pressionar a inflação, além de tornar os ativos brasileiros menos atrativos para investidores estrangeiros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786626965.1800346,
+    "titulo": "Vendas do varejo no Brasil sobem 0,5% em junho e superam expectativas",
+    "titulo_original": "Vendas do varejo no Brasil sobem 0,5% em junho e superam expectativas",
+    "fonte": "Folha Mercado",
+    "publicado": "13/08 09:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Um desempenho positivo das vendas varejistas em junho sugere uma resiliência do consumo doméstico, o que pode ser um fator de suporte para o crescimento do PIB. Se essa tendência se mantiver nos próximos meses, pode reforçar argumentos para uma política monetária menos expansionista por parte do Banco Central.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786626965.1816425,
+    "titulo": "Estrangeiros retiram R$ 4,7 bilhões em ações na B3 em 11 de agosto, maior retirada diária desde fevereiro de 2021",
+    "titulo_original": "Estrangeiros retiram R$ 4,7 bilhões em ações na B3 em 11 de agosto, maior retirada diária desde fevereiro de 2021 - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "13/08 08:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Uma saída expressiva de capital estrangeiro do mercado de ações brasileiro pode indicar uma percepção de risco elevada ou a busca por ativos em outras geografias. Se essa tendência de retirada se intensificar, pode pressionar a bolsa brasileira e o câmbio no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786626965.183183,
+    "titulo": "Dólar opera perto de R$ 5,19 após JPMorgan rebaixar recomendação para o Brasil",
+    "titulo_original": "Dólar opera perto de R$ 5,19 após JPMorgan rebaixar recomendação para o Brasil - veronoticias.com",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 10:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O rebaixamento da recomendação do Brasil pelo JPMorgan, associado à aproximação do dólar a R$ 5,19, sugere uma deterioração na percepção de risco do país por parte de investidores institucionais. Essa mudança de perspectiva pode levar a novas retiradas de capital e pressionar ainda mais o câmbio e a bolsa brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786626965.1847243,
+    "titulo": "'Desafios não são resolvidos com atalhos, mas com prumo', diz CEO do BB após piora da inadimplência",
+    "titulo_original": "'Desafios não são resolvidos com atalhos, mas com prumo', diz CEO do BB após piora da inadimplência",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 09:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A piora na inadimplência do agronegócio pode indicar um cenário de maior dificuldade de crédito para o setor, o que, se generalizado, poderia afetar a performance de outros bancos. Caso a tendência de recuperação se mostre mais lenta que o esperado, a rentabilidade do setor bancário pode ser pressionada no médio prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786626965.1863012,
+    "titulo": "Eneva sofre queda de 91,4% no lucro do 2º trimestre",
+    "titulo_original": "Eneva sofre queda de 91,4% no lucro do 2º trimestre",
+    "fonte": "Folha Mercado",
+    "publicado": "13/08 09:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A acentuada queda no lucro da Eneva pode ser um reflexo de desafios operacionais ou setoriais específicos da empresa. Se a causa for relacionada a fatores macroeconômicos mais amplos, como custos de energia ou demanda, pode haver implicações para outras empresas do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786626965.1878731,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "13/08 09:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade no preço do petróleo é um fator importante para a inflação global e para os custos de produção em diversos setores. Acompanhar a tendência de alta ou baixa pode fornecer indicações sobre o apetite a risco global e a saúde da economia mundial.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786626965.1895223,
+    "titulo": "Hapvida tem 947 mil contratos de planos de saúde considerados deficitários e estuda cancelar parte desta carteira",
+    "titulo_original": "Hapvida tem 947 mil contratos de planos de saúde considerados deficitários e estuda cancelar parte desta carteira",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 09:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A situação da Hapvida, com um número significativo de contratos deficitários, pode refletir pressões de custos no setor de saúde suplementar. Se essa tendência for observada em outras operadoras, pode levar a reajustes mais acentuados nos planos de saúde e impactar o poder de compra dos consumidores.",
+    "is_stocks": true
   }
 ]
