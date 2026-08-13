@@ -1,349 +1,5 @@
 [
   {
-    "_timestamp": 1786473049.1302047,
-    "titulo": "Romênia destrói drones perto de importante projeto de gás offshore no Mar Negro",
-    "titulo_original": "Romênia destrói drones perto de importante projeto de gás offshore no Mar Negro",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 15:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A destruição de drones perto de um projeto de gás offshore em uma zona de conflito pode aumentar a percepção de risco para a segurança energética da região. Se incidentes semelhantes se repetirem, isso pode levar a um aumento nos preços do gás natural; caso contrário, o impacto pode ser limitado a preocupações pontuais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786473052.6303158,
-    "titulo": "EIA eleva previsões de preços do petróleo bruto com o aperto das perspectivas de oferta do Oriente Médio",
-    "titulo_original": "EIA raises crude oil price forecasts as Middle East supply risks tighten outlook",
-    "fonte": "ForexLive",
-    "publicado": "11/08 14:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento das previsões de preços do petróleo bruto, impulsionado por riscos de oferta no Oriente Médio, sugere um cenário de custos de energia mais elevados. Se as tensões geopolíticas na região se intensificarem, os preços do petróleo podem ultrapassar as novas projeções; caso contrário, a demanda global mais moderada pode atuar como um contrapeso.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786473056.220003,
-    "titulo": "US treasury sells $75 billion 3 year notes at a high yield of 4.291%",
-    "titulo_original": "US treasury sells $75 billion 3 year notes at a high yield of 4.291%",
-    "fonte": "ForexLive",
-    "publicado": "11/08 14:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A venda de notas do Tesouro dos EUA com rendimento elevado pode indicar uma demanda por juros mais altos no mercado de renda fixa americano. Se os dados de inflação vindouros (CPI) confirmarem pressões inflacionárias, o Federal Reserve pode manter uma postura mais restritiva, sustentando os rendimentos; caso contrário, sinais de desaceleração inflacionária podem levar a uma queda nos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786473060.98748,
-    "titulo": "Ibovespa cai 1,5% e perde os 170 mil pontos com mais sinais de saída de estrangeiros - InfoMoney",
-    "titulo_original": "Ibovespa cai 1,5% e perde os 170 mil pontos com mais sinais de saída de estrangeiros - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "11/08 12:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, associada à saída de estrangeiros, sugere um aumento da aversão ao risco no mercado brasileiro. Se a saída de capital se intensificar, o índice pode sofrer novas quedas; caso contrário, uma reversão desse fluxo pode impulsionar uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786473060.9892616,
-    "titulo": "Ibovespa despenca e dólar e juros disparam com cenário eleitoral, em dia de IPCA acima do previsto",
-    "titulo_original": "Ibovespa despenca e dólar e juros disparam com cenário eleitoral, em dia de IPCA acima do previsto",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 15:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A combinação de um cenário eleitoral volátil e um IPCA acima do esperado gerou forte pressão sobre os ativos brasileiros, com Ibovespa em queda e dólar e juros em alta. Se a incerteza eleitoral persistir e a inflação continuar elevada, o prêmio de risco pode se manter alto; caso contrário, uma definição política clara e um controle inflacionário podem reverter essa tendência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786473060.9909554,
-    "titulo": "Wells Fargo aciona sinal de alerta máximo para ações e prevê correção de curto prazo no S&P 500 - valor.globo.com",
-    "titulo_original": "Wells Fargo aciona sinal de alerta máximo para ações e prevê correção de curto prazo no S&P 500 - valor.globo.com",
-    "fonte": "Google News Acoes",
-    "publicado": "11/08 15:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A projeção de correção de curto prazo no S&P 500 pelo Wells Fargo, um importante player financeiro, pode indicar um aumento da volatilidade no mercado de ações americano. Se essa correção se materializar, pode haver um impacto negativo nos mercados globais; caso contrário, a ausência da correção pode sustentar o otimismo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786473060.9926214,
-    "titulo": "Banco do Brasil (BBSA3): Resultado pior que o esperado? Ação desaba e chega a mínima do ano; o que pode sair do 2T26",
-    "titulo_original": "Banco do Brasil (BBSA3): Resultado pior que o esperado? Ação desaba e chega a mínima do ano; o que pode sair do 2T26",
-    "fonte": "Money Times",
-    "publicado": "11/08 15:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda acentuada na ação do Banco do Brasil reflete preocupações com a qualidade da carteira de crédito rural, o que pode indicar um cenário de maior inadimplência no setor. Se os resultados do 2T26 confirmarem essa tendência, a pressão sobre a ação pode continuar; caso contrário, uma melhora nos indicadores pode impulsionar uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786473060.9943132,
-    "titulo": "Ações europeias fecham mistas, mas DAX e Ibex fecham em máximas recordes",
-    "titulo_original": "European shares end mixed, but DAX and Ibex close at record highs",
-    "fonte": "ForexLive",
-    "publicado": "11/08 13:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O fechamento em máximas recordes do DAX e Ibex sugere um otimismo persistente nos mercados europeus, impulsionado por lucros corporativos e otimismo com negociações EUA-Irã. Se as negociações de paz no Oriente Médio avançarem, isso pode sustentar a alta; caso contrário, o aumento das tensões pode reverter essa tendência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786480296.5661914,
-    "titulo": "Dólar salta quase 1% e vai a R$ 5,16 com eleições no radar",
-    "titulo_original": "Dólar salta quase 1% e vai a R$ 5,16 com eleições no radar",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 17:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A pesquisa eleitoral que aponta o favoritismo do atual presidente pode gerar maior aversão ao risco no mercado local, pressionando o dólar para cima. Se futuras pesquisas indicarem maior competitividade ou incerteza no resultado eleitoral, o dólar pode apresentar volatilidade adicional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786480301.4878292,
-    "titulo": "Campanha de Flávio Bolsonaro prepara nova regra fiscal com aperto maior de gastos em caso de dívida alta, dizem fontes",
-    "titulo_original": "Campanha de Flávio Bolsonaro prepara nova regra fiscal com aperto maior de gastos em caso de dívida alta, dizem fontes",
-    "fonte": "Money Times",
-    "publicado": "11/08 17:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de uma nova regra fiscal com gatilhos mais rígidos para o controle de gastos pode sinalizar uma postura fiscal mais austera. Se essa proposta for implementada, o impacto na trajetória da dívida pública dependerá da sua efetiva aplicação e do cenário econômico futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786480306.4159255,
-    "titulo": "A agenda para juros menores em 2027",
-    "titulo_original": "A agenda para juros menores em 2027",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 17:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistência de juros reais elevados sugere que o caminho para taxas menores em 2027 pode ser desafiador, dependendo da evolução da inflação e das decisões de política monetária. Se a inflação se mostrar persistente, a agenda de juros menores pode ser adiada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786480311.318717,
-    "titulo": "ANP vai recorrer da decisão judicial que excluiu blocos de petróleo da oferta permanente",
-    "titulo_original": "ANP vai recorrer da decisão judicial que excluiu blocos de petróleo da oferta permanente",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 16:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão judicial sobre os blocos de petróleo pode afetar a exploração e produção futura. Se a ANP tiver sucesso em seu recurso, os blocos podem retornar à oferta; caso contrário, a disponibilidade de novas áreas para exploração será reduzida.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786480317.180555,
-    "titulo": "JPMorgan reduz recomendação para ações brasileiras e cita volatilidade eleitoral",
-    "titulo_original": "JPMorgan reduz recomendação para ações brasileiras e cita volatilidade eleitoral",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 17:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução da recomendação pelo JPMorgan sugere que o banco vê um cenário menos favorável para a bolsa brasileira, impactado pela persistência de juros altos e inflação. Se o cenário de juros e inflação se mostrar mais benigno do que o esperado, a recomendação do banco pode ser revista.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786480317.1823814,
-    "titulo": "Dólar vai a R$ 5,17 e Bolsa cai 2% após pesquisa eleitoral e JPMorgan",
-    "titulo_original": "Dólar vai a R$ 5,17 e Bolsa cai 2% após pesquisa eleitoral e JPMorgan - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 13:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A combinação de uma pesquisa eleitoral desfavorável e a revisão de recomendação pelo JPMorgan intensificou a aversão ao risco no mercado brasileiro, impactando negativamente o câmbio e a bolsa. Se o cenário eleitoral se tornar mais incerto ou se houver sinais de melhora na economia, a bolsa pode se recuperar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786480317.1841354,
-    "titulo": "BTG Pactual (BPAC11): Faz sentido mercado estar ‘cauteloso’ com concessão de crédito, diz CFO",
-    "titulo_original": "BTG Pactual (BPAC11): Faz sentido mercado estar ‘cauteloso’ com concessão de crédito, diz CFO",
-    "fonte": "Money Times",
-    "publicado": "11/08 16:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A cautela do mercado em relação à concessão de crédito, mesmo com bons resultados do BTG, pode indicar preocupações com a qualidade dos ativos ou com o cenário macroeconômico futuro. Se o cenário econômico se deteriorar, a inadimplência pode aumentar, afetando a carteira de crédito.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786485648.6890943,
-    "titulo": "Inflação perde ritmo, mas ainda preocupa BC e investidores",
-    "titulo_original": "Inflação perde ritmo, mas ainda preocupa BC e investidores",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 17:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistência da inflação acima do esperado, mesmo com desaceleração, reforça a postura cautelosa do Banco Central e pode influenciar as decisões futuras de política monetária, mantendo a pressão sobre os juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786485653.4553359,
-    "titulo": "Ata do Copom: BC aponta desaceleração da inflação, mas mantém alerta sobre riscos",
-    "titulo_original": "Ata do Copom: BC aponta desaceleração da inflação, mas mantém alerta sobre riscos - Bora Investir",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/08 14:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A comunicação do Banco Central na ata do Copom sinaliza uma avaliação cuidadosa da inflação, onde a desaceleração é notada, mas a vigilância sobre riscos futuros permanece, o que pode influenciar a trajetória da política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786485658.194301,
-    "titulo": "Gestora analisa R$ 1,5 bilhão de reestruturação financeira para produtores de soja endividados",
-    "titulo_original": "Gestora analisa R$ 1,5 bilhão de reestruturação financeira para produtores de soja endividados",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 18:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A iniciativa da 051 Capital busca mitigar riscos de insolvência no agronegócio, um setor relevante para a economia brasileira, em um contexto de aperto no acesso ao crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786485663.0732481,
-    "titulo": "‘Não vejo fintechs como substitutas naturais dos bancos’, diz Arminio Fraga",
-    "titulo_original": "‘Não vejo fintechs como substitutas naturais dos bancos’, diz Arminio Fraga",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 18:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A opinião de Arminio Fraga sobre o papel das fintechs no sistema financeiro brasileiro oferece uma perspectiva sobre a dinâmica do setor, mas não representa uma decisão regulatória ou fiscal concreta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786485669.3638344,
-    "titulo": "Mercados americanos fecham com ações majoritariamente em baixa; rendimentos de títulos ligeiramente menores, enquanto mercados aguardam CPI dos EUA",
-    "titulo_original": "investingLive Americas FX news wrap 11 Aug: Stocks /yields Slip as markets await US CPI",
-    "fonte": "ForexLive",
-    "publicado": "11/08 18:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A fraqueza nos mercados de ações e a atenção voltada para o CPI dos EUA indicam uma cautela dos investidores em relação à inflação e suas possíveis implicações para a política monetária do Fed.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786485669.36564,
-    "titulo": "CSN obtém adesão de detentores para troca de dívida de US$ 1 bilhão",
-    "titulo_original": "CSN obtém adesão de detentores para troca de dívida de US$ 1 bilhão",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 15:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A operação de troca de dívida da CSN visa alongar o perfil de seus passivos, o que pode melhorar sua gestão financeira, mas não representa uma decisão fiscal ou regulatória com impacto macro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786491041.3188324,
-    "titulo": "Senado aprova incentivo a fertilizantes, e renúncia fiscal fica para jabuti na Câmara",
-    "titulo_original": "Senado aprova incentivo a fertilizantes, e renúncia fiscal fica para jabuti na Câmara",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 19:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do programa de incentivo à produção de fertilizantes pelo Senado representa uma decisão concreta de política industrial. A postergação da discussão sobre a renúncia fiscal para a Câmara pode gerar incertezas sobre o escopo total do benefício, mas a intenção de fomentar a produção doméstica já está estabelecida.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786491044.8137164,
-    "titulo": "Às vésperas da eleição, estrangeiro acelera saída da bolsa brasileira",
-    "titulo_original": "Às vésperas da eleição, estrangeiro acelera saída da bolsa brasileira",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 19:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aceleração da saída de investidores estrangeiros da bolsa brasileira, ligada a um rebaixamento de recomendação e a preocupações fiscais eleitorais, é um sinal de alerta para o mercado local. Se essa tendência de saída de capital se mantiver, pode pressionar o Ibovespa e o câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786491048.3080292,
-    "titulo": "Royalties do petróleo no RJ sobem 14%, mas estado tem 10 anos para se preparar para queda da produção - G1",
-    "titulo_original": "Royalties do petróleo no RJ sobem 14%, mas estado tem 10 anos para se preparar para queda da produção - G1",
-    "fonte": "Google News Commodities",
-    "publicado": "11/08 19:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento de 14% nos royalties do petróleo no Rio de Janeiro é um dado positivo para as finanças estaduais no curto prazo. No entanto, a perspectiva de queda na produção futura exige planejamento estratégico para diversificação econômica e mitigação de riscos fiscais a longo prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786491051.9536898,
-    "titulo": "Com preços altos, importação de fertilizantes cai 7% até julho",
-    "titulo_original": "Com preços altos, importação de fertilizantes cai 7% até julho",
-    "fonte": "Folha Mercado",
-    "publicado": "11/08 19:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda de 7% na importação de fertilizantes até julho, motivada por preços altos, sugere que a inflação no setor pode estar impactando a demanda agrícola. Se os preços permanecerem elevados, isso pode pressionar os custos de produção para os agricultores e afetar a produtividade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786491055.575539,
-    "titulo": "Justiça de SP amplia proteção à dona do Habib’s contra cobrança de dívidas de mais de R$ 300 milhões",
-    "titulo_original": "Justiça de SP amplia proteção à dona do Habib’s contra cobrança de dívidas de mais de R$ 300 milhões",
-    "fonte": "Valor Economico",
-    "publicado": "11/08 19:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ampliação da proteção judicial para o grupo Gennius, controlador do Habib's, diante de dívidas superiores a R$ 300 milhões, indica dificuldades financeiras significativas. A menção ao aumento da taxa Selic como fator de elevação do custo de captação e rolagem de dívidas reforça o impacto do cenário de juros altos no endividamento corporativo.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1786534263.5820112,
     "titulo": "Copom cauteloso? No mercado já há apostas de juros a 13,25% no fim de 2026",
     "titulo_original": "Copom cauteloso? No mercado já há apostas de juros a 13,25% no fim de 2026 - PlatôBR",
@@ -1102,6 +758,120 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O forte aumento no lucro da Ultrapar, associado à distribuição de dividendos e recompra de ações, sugere um cenário positivo para a empresa. Se a recuperação do mercado de combustíveis se mantiver, a Ultrapar pode continuar a apresentar resultados expressivos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786620653.7618253,
+    "titulo": "Milho sobe com apoio do dólar e mercado externo",
+    "titulo_original": "Milho sobe com apoio do dólar e mercado externo - agrolink.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 07:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do milho, influenciada pelo dólar e pelo mercado externo, pode pressionar os custos para produtores e consumidores. Se o dólar continuar a se valorizar e a demanda externa por commodities agrícolas se mantiver forte, os preços do milho tendem a permanecer elevados; caso contrário, uma reversão desses fatores pode levar a uma queda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786620658.2181406,
+    "titulo": "Inflação na Espanha avança em julho com aumento dos preços gerais e centrais",
+    "titulo_original": "Spain inflation nudges higher in July as both headline and core prices push up",
+    "fonte": "ForexLive",
+    "publicado": "13/08 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento da inflação na Espanha, tanto no índice geral quanto no subjacente, sugere que as pressões de preços persistem na zona do euro, o que pode influenciar as decisões futuras do Banco Central Europeu (BCE). Se a inflação continuar a subir em outras economias da zona do euro, o BCE pode ser forçado a manter uma postura mais restritiva em relação aos juros; caso contrário, uma desaceleração pode permitir um alívio na política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786620662.7940967,
+    "titulo": "Bitcoin mantém-se abaixo de US$ 64 mil com CPI dos EUA em linha, fornecendo pouco suporte",
+    "titulo_original": "Bitcoin holds below $64k as in-line U.S. CPI provides little support",
+    "fonte": "Investing.com",
+    "publicado": "13/08 04:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A estabilidade do Bitcoin abaixo de um patamar chave sugere que o mercado de criptomoedas pode estar aguardando um catalisador mais forte para um movimento direcional. Se os próximos dados de inflação dos EUA vierem abaixo do esperado, isso poderia criar um ambiente mais favorável para ativos de risco como o Bitcoin; caso contrário, a pressão vendedora pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786620667.3052971,
+    "titulo": "Tarifas de Trump fazem empresas canadenses considerar mudança para os EUA",
+    "titulo_original": "Tarifas de Trump fazem empresas canadenses considerar mudança para os EUA - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "13/08 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A imposição de tarifas por parte dos EUA pode levar a uma realocação de negócios, impactando a competitividade e as cadeias de suprimentos. Se mais empresas canadenses optarem por se mudar para os EUA, isso pode fortalecer a economia americana em detrimento da canadense; o contrário ocorreria se as tarifas fossem revertidas ou mitigadas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786620673.2066684,
+    "titulo": "Ibovespa perde 6% em agosto com fuga de estrangeiros: ouça os destaques do dia",
+    "titulo_original": "Ibovespa perde 6% em agosto com fuga de estrangeiros: ouça os destaques do dia - Canal Rural",
+    "fonte": "Google News Acoes",
+    "publicado": "13/08 05:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro é um sinal de aversão ao risco no mercado brasileiro, impactando diretamente o desempenho do Ibovespa. Se os investidores estrangeiros retomarem a confiança no Brasil, o fluxo de capital pode se reverter e impulsionar a bolsa; caso contrário, a fuga de capitais pode persistir, mantendo o índice sob pressão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786620673.2080336,
+    "titulo": "Dow Jones Futuro sobe com redução das apostas em alta da taxa de juros pelo Fed",
+    "titulo_original": "Dow Jones Futuro sobe com redução das apostas em alta da taxa de juros pelo Fed - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 05:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A diminuição das expectativas de alta de juros pelo Fed é um sinal positivo para os mercados de risco, pois reduz o custo de capital e aumenta o apetite por investimentos. Se o Fed realmente sinalizar uma pausa ou corte nas taxas de juros, isso pode sustentar a alta do Dow Jones e outros índices; caso contrário, qualquer indicação de aperto monetário adicional pode reverter esse movimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786620673.2098465,
+    "titulo": "Mercado de Ações Hoje: IA lidera até agora esta semana, mas Cisco pode esfriar as coisas",
+    "titulo_original": "Stock Market Today: AI lead so far this week but Cisco may cool things down",
+    "fonte": "ForexLive",
+    "publicado": "13/08 06:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte performance das ações ligadas à IA sugere um otimismo contínuo dos investidores nesse setor, mas a volatilidade em empresas como a Cisco demonstra que os resultados corporativos específicos ainda podem gerar movimentos bruscos. Se a tendência de alta das ações de IA se mantiver, o mercado pode continuar a priorizar esse segmento; caso contrário, a desaceleração em empresas-chave pode levar a uma correção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786620673.2112515,
+    "titulo": "Nvidia apela a Wall Street para vender seus chips para clientes que não têm o ‘bolso fundo’ como big techs",
+    "titulo_original": "Nvidia apela a Wall Street para vender seus chips para clientes que não têm o ‘bolso fundo’ como big techs",
+    "fonte": "InvestNews",
+    "publicado": "13/08 06:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A estratégia da Nvidia de democratizar o acesso aos seus chips pode impulsionar a adoção de IA em um espectro mais amplo de empresas, mas também levanta questões sobre a estabilidade financeira se os chips forem usados como garantia. Se essa nova abordagem for bem-sucedida, pode criar um novo segmento de mercado; se as preocupações dos críticos se materializarem, pode haver instabilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786620673.2125118,
+    "titulo": "Ibovespa hoje: agenda de balanços, com destaque para BB, e queda do petróleo guiam mercado",
+    "titulo_original": "Ibovespa hoje: agenda de balanços, com destaque para BB, e queda do petróleo guiam mercado - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "13/08 07:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A combinação de resultados corporativos e a volatilidade nos preços do petróleo cria um cenário misto para o Ibovespa. Se os balanços das empresas, especialmente do BB, vierem acima das expectativas, isso pode impulsionar o índice; caso contrário, a queda do petróleo pode continuar a pressionar o mercado.",
     "is_stocks": true
   }
 ]
