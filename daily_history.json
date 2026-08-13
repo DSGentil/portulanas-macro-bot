@@ -1,105 +1,5 @@
 [
   {
-    "_timestamp": 1786534263.5820112,
-    "titulo": "Copom cauteloso? No mercado já há apostas de juros a 13,25% no fim de 2026",
-    "titulo_original": "Copom cauteloso? No mercado já há apostas de juros a 13,25% no fim de 2026 - PlatôBR",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/08 03:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A precificação de juros a 13,25% no final de 2026 sugere que o mercado antecipa um ciclo de aperto monetário mais prolongado ou uma manutenção da taxa em patamares elevados. Se o Copom confirmar essa cautela em suas próximas decisões, isso pode impactar o custo do crédito e o investimento no país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786534268.2539747,
-    "titulo": "Selic não é correção monetária: ficção jurídica funcional e consequências práticas",
-    "titulo_original": "Selic não é correção monetária: ficção jurídica funcional e consequências práticas - Consultor Jurídico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/08 06:02",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre a natureza da Selic pode ter implicações na interpretação de contratos e decisões judiciais que envolvam taxas de juros. Se a tese do artigo for amplamente aceita, pode haver reavaliações sobre a aplicação de juros em determinados contextos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786534273.018216,
-    "titulo": "Irã afirma que não há discussões sobre extensão de cessar-fogo, pois o pacto não existe mais",
-    "titulo_original": "Iran reportedly maintains that there are no discussions over ceasefire extension as the pact doesn't exist anymore",
-    "fonte": "ForexLive",
-    "publicado": "12/08 07:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração do Irã sobre a inexistência de um acordo de cessar-fogo com os EUA eleva a tensão geopolítica na região. Se essa postura se mantiver, o risco de escalada de conflitos pode aumentar, impactando a estabilidade global e, potencialmente, os preços de commodities energéticas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786534277.796573,
-    "titulo": "Negociações sobre guerra no Irã chegam a novo impasse em meio a novos ataques à navegação",
-    "titulo_original": "Negociações sobre guerra no Irã chegam a novo impasse em meio a novos ataques à navegação",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 08:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O novo impasse nas negociações e os ataques à navegação no Golfo de Omã e Mar Vermelho aumentam o risco de instabilidade geopolítica e podem afetar o fornecimento global de petróleo. Se a situação escalar, o preço do barril pode sofrer alta significativa, com potenciais reflexos na inflação global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786534284.030947,
-    "titulo": "Agenda de empresas: Lucro da Cury sobe 14%; ganho da B3 soma R$ 1,69 bi",
-    "titulo_original": "Agenda de empresas: Lucro da Cury sobe 14%; ganho da B3 soma R$ 1,69 bi",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 08:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Os resultados positivos de empresas como Cury e B3 podem indicar uma melhora na atividade econômica doméstica, embora seja necessário observar se essa tendência se estende a outros setores. A performance da B3, em particular, reflete o volume de negociações no mercado financeiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786534284.0322983,
-    "titulo": "Ativos do BNDES ultrapassam R$ 1 trilhão pela primeira vez",
-    "titulo_original": "Ativos do BNDES ultrapassam R$ 1 trilhão pela primeira vez",
-    "fonte": "Folha Mercado",
-    "publicado": "12/08 07:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento dos ativos do BNDES pode indicar um aumento no financiamento a projetos de infraestrutura e desenvolvimento no Brasil. Se esse capital for direcionado para setores produtivos, pode haver um impacto positivo na atividade econômica futura.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786534284.0336182,
-    "titulo": "Mini índice entra em zona crítica após forte queda; BTG aponta próximos níveis de atenção",
-    "titulo_original": "Mini índice entra em zona crítica após forte queda; BTG aponta próximos níveis de atenção",
-    "fonte": "Money Times",
-    "publicado": "12/08 08:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A análise técnica sugere que o mini índice está em um ponto de atenção, com potencial para novas quedas caso os níveis de suporte não sejam mantidos. Se a pressão vendedora persistir, pode indicar um sentimento de aversão ao risco no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786534284.0348966,
-    "titulo": "Ibovespa pode cair mais? Onde está o fundo da Bolsa",
-    "titulo_original": "Ibovespa pode cair mais? Onde está o fundo da Bolsa - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "12/08 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A incerteza sobre o futuro do Ibovespa sugere um cenário de volatilidade no mercado acionário. Se os indicadores técnicos apontarem para uma continuação da tendência de queda, pode haver um reflexo de aversão ao risco entre os investidores.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786540548.5256057,
     "titulo": "Governo lança plano com previsão de R$ 1,2 trilhão em aportes para infraestrutura logística até 2050",
     "titulo_original": "Governo lança plano com previsão de R$ 1,2 trilhão em aportes para infraestrutura logística até 2050",
@@ -1197,6 +1097,154 @@
     ],
     "origem": "externa",
     "leitura_critica": "A reação do dólar e do ouro aos dados de inflação sugere que o mercado está precificando um cenário de juros mais estáveis ou em queda nos EUA, mas com cautela. O crescimento inesperado do PIB do Reino Unido e a leve alta da inflação na Espanha indicam dinâmicas econômicas distintas na Europa, o que pode influenciar as decisões de política monetária locais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786645847.4022036,
+    "titulo": "Tesouro dos EUA vende títulos de 30 anos com alto rendimento de 5,216%",
+    "titulo_original": "US treasury sells 30 year bonds at a high yield of 5.216%",
+    "fonte": "ForexLive",
+    "publicado": "13/08 14:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um rendimento de título público de longo prazo acima do esperado pode indicar uma maior percepção de risco ou uma demanda menor por parte de investidores institucionais. Se essa tendência se mantiver em leilões futuros, pode pressionar para cima os custos de financiamento do governo americano.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786645851.4835331,
+    "titulo": "Dólar hoje ronda estabilidade em meio a mais dados de inflação nos EUA",
+    "titulo_original": "Dólar hoje ronda estabilidade em meio a mais dados de inflação nos EUA - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 09:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Dados de inflação nos EUA têm impacto direto nas expectativas de política monetária do Federal Reserve, o que, por sua vez, influencia o comportamento do dólar globalmente. Se os dados de inflação vierem acima do esperado, isso pode reforçar a expectativa de juros mais altos por mais tempo, sustentando o dólar; se vierem abaixo, o efeito pode ser o oposto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786645855.475462,
+    "titulo": "EUA incluem Brasil em lista de países usados para triangulação de produtos chineses",
+    "titulo_original": "EUA incluem Brasil em lista de países usados para triangulação de produtos chineses",
+    "fonte": "Folha Mercado",
+    "publicado": "13/08 12:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A inclusão do Brasil em uma lista de risco para triangulação de produtos chineses pelos EUA pode gerar novas barreiras comerciais ou investigações. Se houver sanções ou medidas mais rigorosas aplicadas a empresas brasileiras envolvidas nesse tipo de operação, isso pode afetar o comércio exterior do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786645859.4305334,
+    "titulo": "Dólar perde força após PPI dos EUA vir abaixo do esperado",
+    "titulo_original": "Dólar perde força após PPI dos EUA vir abaixo do esperado - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 10:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um PPI abaixo do esperado nos EUA pode sinalizar uma desaceleração da inflação, o que pode levar o Federal Reserve a considerar um tom mais flexível em sua política monetária. Se essa leitura se confirmar, pode pressionar o dólar para baixo no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786645864.9933558,
+    "titulo": "Banco do Brasil tem até R$ 100 bilhões em atraso do agro para ser renegociado com nova MP",
+    "titulo_original": "Banco do Brasil tem até R$ 100 bilhões em atraso do agro para ser renegociado com nova MP",
+    "fonte": "Folha Mercado",
+    "publicado": "13/08 12:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A renegociação de créditos no agronegócio com garantia da União pode aliviar a pressão sobre os produtores rurais e o balanço do Banco do Brasil. Se a MP for efetivamente implementada e os fundos garantidores forem suficientes, isso pode mitigar riscos de inadimplência no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786645864.9948494,
+    "titulo": "Maior saída em cinco anos: Gringos retiram quase R$ 5 bilhões em um único pregão",
+    "titulo_original": "Maior saída em cinco anos: Gringos retiram quase R$ 5 bilhões em um único pregão",
+    "fonte": "Money Times",
+    "publicado": "13/08 15:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Uma saída expressiva de capital estrangeiro pode indicar uma deterioração do apetite por risco em relação ao mercado brasileiro ou a busca por oportunidades em outros mercados. Se essa tendência de saída persistir, pode pressionar negativamente o índice Ibovespa e outras classes de ativos locais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786645864.9961946,
+    "titulo": "Portaria foi passo relevante para o ressarcimento de perdas às geradoras, diz Equatorial",
+    "titulo_original": "Portaria foi passo relevante para o ressarcimento de perdas às geradoras, diz Equatorial",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 15:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A regulamentação de procedimentos para ressarcimento de perdas pode impactar a receita das empresas do setor de energia renovável. Se os valores a serem ressarcidos forem significativos, isso pode melhorar o fluxo de caixa das geradoras afetadas; caso contrário, o impacto pode ser marginal.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786645864.997566,
+    "titulo": "Galapagos lista na B3 primeiro ETF brasileiro com exposição a todo o mercado de ações dos EUA",
+    "titulo_original": "Galapagos lista na B3 primeiro ETF brasileiro com exposição a todo o mercado de ações dos EUA - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "13/08 12:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A listagem de um ETF que replica o mercado de ações dos EUA na B3 pode facilitar o acesso de investidores brasileiros a ativos internacionais. Se houver forte adesão a este produto, isso pode representar um fluxo de capital para o mercado americano, mas também pode diversificar as opções de investimento para o investidor local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786645865.055775,
+    "titulo": "Rumo prevê aumento de tarifas e busca voltar a ser ‘player de valor’",
+    "titulo_original": "Rumo prevê aumento de tarifas e busca voltar a ser ‘player de valor’",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 15:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estratégia da Rumo de focar em ser um 'player de valor' com aumento de tarifas pode impactar os custos de seus clientes e, indiretamente, os preços de bens transportados. Se a empresa conseguir implementar essa estratégia com sucesso, isso pode melhorar sua rentabilidade e fluxo de caixa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786645865.057761,
+    "titulo": "Move Brasil: BYD e Banco do Brasil (BBAS3) promovem parceria para financiamento de carros elétricos",
+    "titulo_original": "Move Brasil: BYD e Banco do Brasil (BBAS3) promovem parceria para financiamento de carros elétricos",
+    "fonte": "Money Times",
+    "publicado": "13/08 14:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Esta parceria visa fomentar a adoção de veículos elétricos através de financiamento facilitado. Se a iniciativa for bem-sucedida, pode impulsionar as vendas de carros elétricos no Brasil e fortalecer a presença da BYD no mercado nacional.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786645865.0591338,
+    "titulo": "Investimento de 2027 vai ser inferior ao deste ano, diz diretor financeiro da Rumo",
+    "titulo_original": "Investimento de 2027 vai ser inferior ao deste ano, diz diretor financeiro da Rumo",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 14:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A redução planejada nos investimentos futuros da Rumo pode indicar uma estratégia de otimização de recursos e foco em rentabilidade de curto prazo. Se a empresa conseguir aumentar sua geração de caixa com essa medida, isso pode ser positivo para sua saúde financeira.",
     "is_stocks": true
   }
 ]
