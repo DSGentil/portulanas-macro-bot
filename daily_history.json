@@ -1,105 +1,5 @@
 [
   {
-    "_timestamp": 1786553152.0696487,
-    "titulo": "Exclusivo: Equipe econômica antecipa ajuste fiscal de 2027 em PLP dos combustíveis",
-    "titulo_original": "Exclusivo: Equipe econômica antecipa ajuste fiscal de 2027 em PLP dos combustíveis",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 13:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A antecipação de medidas de ajuste fiscal para 2027, se aprovada, pode sinalizar uma busca por maior credibilidade nas contas públicas. Caso os gatilhos propostos sejam efetivamente implementados, isso poderá gerar restrições em áreas como Saúde e FCDF, impactando a execução orçamentária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786553156.7706115,
-    "titulo": "Tereza Cristina fica fora de acordo que viabiliza programa de desenvolvimento de fertilizantes",
-    "titulo_original": "Tereza Cristina fica fora de acordo que viabiliza programa de desenvolvimento de fertilizantes",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 13:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A exclusão da relatora do Profert do acordo para sua sanção pode indicar divergências políticas ou estratégicas. Se o PLP for aprovado sem alterações, as renúncias fiscais e subsídios propostos terão impacto direto no setor de fertilizantes e combustíveis.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786553161.5675695,
-    "titulo": "Instituições mantêm projeções de impacto do El Niño para 2026 e 2027, mostra Questionário Pré-Copom",
-    "titulo_original": "Instituições mantêm projeções de impacto do El Niño para 2026 e 2027, mostra Questionário Pré-Copom - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/08 10:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção das projeções de impacto do El Niño sugere que os efeitos climáticos continuam sendo um fator de atenção para a economia. Se o fenômeno se intensificar, isso poderá afetar a produção agrícola e, consequentemente, a inflação e a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786553166.3531535,
-    "titulo": "Renda fixa em dólar: Tesouro americano bate 3% de ganho real e atrai brasileiros",
-    "titulo_original": "Renda fixa em dólar: Tesouro americano bate 3% de ganho real e atrai brasileiros - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/08 13:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O atrativo do Tesouro americano com 3% de ganho real em dólar pode indicar um fluxo de capital para títulos de renda fixa nos EUA. Se as taxas de juros americanas permanecerem elevadas, isso pode continuar a atrair investidores brasileiros em busca de maior rentabilidade e segurança.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786553172.141431,
-    "titulo": "Recessão à frente? Os alertas de CEO de controladora do Itaú (ITUB4) para a economia; ‘ambiente pouco propício’",
-    "titulo_original": "Recessão à frente? Os alertas de CEO de controladora do Itaú (ITUB4) para a economia; ‘ambiente pouco propício’",
-    "fonte": "Money Times",
-    "publicado": "12/08 13:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As declarações do CEO da Itaúsa, Alfredo Setubal, reforçam preocupações sobre o cenário econômico brasileiro. Se a economia continuar a crescer devagar, isso pode impactar negativamente o desempenho de empresas e o mercado de trabalho.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786553172.1431744,
-    "titulo": "Bolsas da Europa têm leve recuo após rali de recordes",
-    "titulo_original": "Bolsas da Europa têm leve recuo após rali de recordes",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 13:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A leve queda nas bolsas europeias após um período de recordes pode indicar uma realização de lucros ou um ajuste de mercado diante de incertezas. Se o impasse no Estreito de Ormuz se agravar, isso pode pressionar ainda mais os preços do petróleo e gerar efeitos inflacionários globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786553172.1448355,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta retomar os 168 mil pontos",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta retomar os 168 mil pontos - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "12/08 12:19",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A oscilação do Ibovespa em torno dos 168 mil pontos indica um mercado em busca de direção. A capacidade do índice de se manter acima desse patamar dependerá de fatores macroeconômicos e do fluxo de notícias.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786559449.0469325,
     "titulo": "Kassab confirma que Caiado cogita Armínio Fraga no Ministério da Fazenda",
     "titulo_original": "Kassab confirma que Caiado cogita Armínio Fraga no Ministério da Fazenda",
@@ -1311,6 +1211,106 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O aumento de participação do BTG Pactual no Méliuz pode indicar uma visão positiva do banco sobre as perspectivas futuras da empresa. Se o Méliuz apresentar melhora em seus resultados e estratégias, a participação do BTG pode se consolidar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786663835.3925583,
+    "titulo": "Economistas veem diagnóstico correto e soluções genéricas em plano econômico de Flávio Bolsonaro",
+    "titulo_original": "Economistas veem diagnóstico correto e soluções genéricas em plano econômico de Flávio Bolsonaro",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 19:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O plano econômico de Flávio Bolsonaro apresenta uma nova proposta de regra fiscal e metas ambiciosas de crescimento e redução de juros. Se implementado, um 'tesouraço' de gastos pode gerar pressões políticas e sociais; a vinculação da política fiscal ao endividamento, se bem calibrada, poderia trazer mais previsibilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786663838.885648,
+    "titulo": "Exclusivo: Crise leva fundos da Apex a vender 17 milhões de ações da CVC",
+    "titulo_original": "Exclusivo: Crise leva fundos da Apex a vender 17 milhões de ações da CVC",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 19:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A venda massiva de ações da CVC pelos fundos da Apex Partners sugere dificuldades financeiras e de reputação da gestora. Se essa pressão vendedora persistir, o preço das ações da CVC pode sofrer novas quedas no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786663843.5387337,
+    "titulo": "Cosan recebe carta de intenções para a venda de 100% de sua participação no TUP São Luís",
+    "titulo_original": "Cosan recebe carta de intenções para a venda de 100% de sua participação no TUP São Luís",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 20:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A venda de ativos logísticos pela Cosan pode indicar uma reestruturação estratégica da companhia. Se a transação for concretizada, isso pode liberar capital para novos investimentos ou redução de endividamento, impactando a estrutura de capital da empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786663843.5408099,
+    "titulo": "Allos fecha acordo para venda de participação no São Bernardo Plaza Shopping, por R$ 331 milhões",
+    "titulo_original": "Allos fecha acordo para venda de participação no São Bernardo Plaza Shopping, por R$ 331 milhões",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 19:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A venda de participação em shopping centers pela Allos está alinhada ao objetivo de concentrar o portfólio em ativos líderes. Se a transação for concluída, a empresa pode otimizar sua alocação de capital, focando em empreendimentos com maior potencial de retorno.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786663843.542798,
+    "titulo": "Com venda de participação no Jardim das Perdizes, Tecnisa reduz prejuízo no 2º trimestre",
+    "titulo_original": "Com venda de participação no Jardim das Perdizes, Tecnisa reduz prejuízo no 2º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 19:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A venda de ativos imobiliários pela Tecnisa contribuiu para a melhora em seu resultado financeiro. Se a estratégia de desinvestimento em projetos específicos continuar, a empresa pode focar em empreendimentos com maior liquidez ou menor exposição a riscos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786663843.5447695,
+    "titulo": "Haltin, gestora de ativos estressados, compra CRI inadimplente de problemático FII da Cartesia",
+    "titulo_original": "Haltin, gestora de ativos estressados, compra CRI inadimplente de problemático FII da Cartesia",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 19:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A aquisição de um CRI inadimplente pela Haltin Capital indica uma oportunidade de reestruturação de ativos problemáticos no mercado imobiliário. Se a gestora conseguir recuperar o valor do CRI, isso pode demonstrar sua expertise em 'special situations' e atrair mais capital para esse nicho.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786663843.5467687,
+    "titulo": "Stone provisiona R$ 200 milhões por exposição a emissor em estresse financeiro",
+    "titulo_original": "Stone provisiona R$ 200 milhões por exposição a emissor em estresse financeiro",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 19:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O provisionamento de R$ 200 milhões pela Stone indica um risco de crédito materializado em sua carteira. Se o emissor em questão não conseguir honrar seus compromissos, a Stone pode ter que reconhecer perdas adicionais, impactando sua lucratividade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786663843.548776,
+    "titulo": "LWSA lucra R$ 34,3 milhões no 2º trimestre, alta anual de 117,1%",
+    "titulo_original": "LWSA lucra R$ 34,3 milhões no 2º trimestre, alta anual de 117,1%",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 18:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O expressivo aumento no lucro da LWSA demonstra uma performance financeira positiva no segundo trimestre. Se a empresa mantiver essa trajetória de crescimento em receita e Ebitda, pode consolidar sua posição no setor de tecnologia para varejo online.",
     "is_stocks": true
   }
 ]
