@@ -1088,5 +1088,115 @@
     "origem": "domestica",
     "leitura_critica": "A autorização para o contrato entre a União e o Banco do Brasil visa ampliar o acesso ao crédito para estudantes do Fies. Se o recurso for efetivamente utilizado pelos beneficiários, isso pode facilitar a continuidade dos estudos; caso contrário, a falta de demanda ou barreiras de acesso podem limitar o impacto da medida.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786639579.9577682,
+    "titulo": "Hammack, do Fed, reforça defesa de juros mais altos no Fed e alerta para inflação disseminada",
+    "titulo_original": "Hammack, do Fed, reforça defesa de juros mais altos no Fed e alerta para inflação disseminada - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 10:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A fala de Hammack sugere que o Fed pode manter uma postura mais restritiva em relação aos juros, visando combater a inflação disseminada. Se essa visão prevalecer nas próximas decisões do FOMC, o mercado pode esperar por taxas de juros mais elevadas por um período mais prolongado, impactando o custo do crédito globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786639583.874843,
+    "titulo": "Taxa média de hipoteca de 30 anos nos EUA média 6,67% vs 6,69% na semana passada.",
+    "titulo_original": "US 30 year average mortgage rate averages 6.67% vs 6.69% last week.",
+    "fonte": "ForexLive",
+    "publicado": "13/08 13:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A leve queda na taxa de hipoteca de 30 anos, impulsionada por dados de inflação mais fracos, sugere um possível alívio nas pressões de juros nos EUA. Se os rendimentos dos Treasuries continuarem a cair, as taxas de hipoteca podem apresentar novas reduções, o que seria positivo para o mercado imobiliário americano.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786639587.927115,
+    "titulo": "Estrategista alerta que obstáculo do Bitcoin não desaparecerá com o rendimento do 10Y em direção a 5%",
+    "titulo_original": "Strategist warns Bitcoin headwind won’t fade with 10Y yield heading toward 5%",
+    "fonte": "Investing.com",
+    "publicado": "13/08 09:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A projeção de rendimento do 10Y em direção a 5% indica um cenário de juros mais altos nos EUA, o que historicamente representa um vento contrário para ativos de risco como o Bitcoin. Se essa tendência se confirmar, o Bitcoin pode enfrentar dificuldades para sustentar altas significativas, a menos que haja fatores específicos que o impulsionem.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786639593.0891178,
+    "titulo": "Siderurgia já vê primeiros impactos positivos das medidas antidumping, diz presidente da CSN",
+    "titulo_original": "Siderurgia já vê primeiros impactos positivos das medidas antidumping, diz presidente da CSN",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 13:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As medidas antidumping implementadas pelo governo podem representar um alívio para a indústria nacional, protegendo-a da concorrência estrangeira. Se a tendência de queda na penetração de importados se mantiver, isso pode sustentar a recuperação do setor siderúrgico brasileiro no médio prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786639593.090979,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de BBAS3, HAPV3 e VALE3",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de BBAS3, HAPV3 e VALE3 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "13/08 12:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, puxada por grandes empresas, indica um movimento de realização de lucros ou uma reação a notícias específicas do mercado acionário brasileiro. Sem detalhes sobre os fatores que afetam BBAS3, HAPV3 e VALE3, é difícil prever a sustentabilidade dessa tendência de baixa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786639593.0928123,
+    "titulo": "Bolsas da Europa têm leve queda com realização de lucros",
+    "titulo_original": "Bolsas da Europa têm leve queda com realização de lucros",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 13:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A realização de lucros nas bolsas europeias sugere uma pausa após recentes altas, possivelmente influenciada pela incerteza geopolítica. Se o cenário geopolítico se agravar, a tendência de baixa pode se acentuar; caso contrário, um novo ciclo de alta pode ser iniciado com a divulgação de indicadores econômicos mais positivos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786639593.0946276,
+    "titulo": "Ações europeias fecham em baixa apesar do impulso das ações de tecnologia dos EUA",
+    "titulo_original": "European shares close lower despite the US tech push higher",
+    "fonte": "ForexLive",
+    "publicado": "13/08 13:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A divergência entre as bolsas europeias e americanas, mesmo com dados de inflação favoráveis nos EUA, pode indicar preocupações específicas do mercado europeu ou uma realização de lucros mais acentuada. A queda nos rendimentos dos títulos europeus, em linha com a queda do petróleo, sugere um movimento de aversão ao risco em alguns setores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786639593.096457,
+    "titulo": "Mercados europeus fecham: Dólar permanece hesitante, ouro recua dos picos em negociação pós-CPI",
+    "titulo_original": "investingLive European markets wrap: Dollar remains tentative, gold off the highs in post-CPI trading",
+    "fonte": "ForexLive",
+    "publicado": "13/08 08:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A reação do dólar e do ouro aos dados de inflação sugere que o mercado está precificando um cenário de juros mais estáveis ou em queda nos EUA, mas com cautela. O crescimento inesperado do PIB do Reino Unido e a leve alta da inflação na Espanha indicam dinâmicas econômicas distintas na Europa, o que pode influenciar as decisões de política monetária locais.",
+    "is_stocks": true
   }
 ]
