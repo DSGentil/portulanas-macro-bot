@@ -1019,5 +1019,74 @@
     "origem": "domestica",
     "leitura_critica": "A situação da Hapvida, com um número significativo de contratos deficitários, pode refletir pressões de custos no setor de saúde suplementar. Se essa tendência for observada em outras operadoras, pode levar a reajustes mais acentuados nos planos de saúde e impactar o poder de compra dos consumidores.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786634136.8068483,
+    "titulo": "Ataques da Ucrânia elevam custos do transporte rodoviário na Rússia e pressionam inflação",
+    "titulo_original": "Ataques da Ucrânia elevam custos do transporte rodoviário na Rússia e pressionam inflação",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 11:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos custos de transporte na Rússia, impulsionado por ataques a refinarias, pode gerar pressões inflacionárias adicionais no país. Se os ataques persistirem e afetarem a produção de combustível, os custos logísticos continuarão a subir; caso contrário, uma cessação dos ataques pode estabilizar os preços de transporte.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786634140.280987,
+    "titulo": "Ucrânia busca novas rotas para exportação de grãos em meio a bloqueio russo no Mar Negro",
+    "titulo_original": "Ucrânia busca novas rotas para exportação de grãos em meio a bloqueio russo no Mar Negro",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 10:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O bloqueio russo aos portos do Mar Negro força a Ucrânia a buscar rotas alternativas para exportação de grãos, impactando significativamente o volume embarcado. Se as novas rotas se mostrarem eficazes e o bloqueio persistir, a oferta global de grãos pode ser afetada; caso contrário, a normalização do acesso aos portos marítimos pode reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786634144.726825,
+    "titulo": "S&P 500 testa recorde com alívio no petróleo e inflação abaixo do esperado",
+    "titulo_original": "S&P 500 testa recorde com alívio no petróleo e inflação abaixo do esperado",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 11:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A leitura da inflação ao produtor nos EUA abaixo do esperado, combinada com a queda nos preços do petróleo, oferece suporte para o avanço do S&P 500. Se os dados de inflação continuarem a surpreender positivamente, o mercado pode antecipar uma postura mais branda do Federal Reserve; caso contrário, a persistência de pressões inflacionárias pode limitar o otimismo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786634144.728687,
+    "titulo": "Ações em queda e Renda Fixa em alta: B3, Selic a 14% e IPCA hoje (13)",
+    "titulo_original": "Ações em queda e Renda Fixa em alta: B3, Selic a 14% e IPCA hoje (13) - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 10:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O cenário de ações em queda e renda fixa em alta, associado à Selic a 14% e ao IPCA, sugere um ambiente de aversão ao risco e busca por segurança. Se a taxa Selic permanecer elevada e o IPCA apresentar volatilidade, a renda fixa tende a continuar atrativa; caso contrário, uma perspectiva de queda de juros e controle da inflação poderia favorecer a renda variável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786634144.7304587,
+    "titulo": "Fazenda autoriza contrato entre União e BB que libera até R$ 1 bilhão para crédito do Fies",
+    "titulo_original": "Fazenda autoriza contrato entre União e BB que libera até R$ 1 bilhão para crédito do Fies",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 10:55",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A autorização para o contrato entre a União e o Banco do Brasil visa ampliar o acesso ao crédito para estudantes do Fies. Se o recurso for efetivamente utilizado pelos beneficiários, isso pode facilitar a continuidade dos estudos; caso contrário, a falta de demanda ou barreiras de acesso podem limitar o impacto da medida.",
+    "is_stocks": true
   }
 ]
