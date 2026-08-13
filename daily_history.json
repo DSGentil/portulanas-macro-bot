@@ -1,88 +1,5 @@
 [
   {
-    "_timestamp": 1786547749.224887,
-    "titulo": "Moraes e Dino determinam devolução de pagamentos ‘exorbitantes’ de penduricalhos em sete tribunais e da AGU",
-    "titulo_original": "Moraes e Dino determinam devolução de pagamentos ‘exorbitantes’ de penduricalhos em sete tribunais e da AGU",
-    "fonte": "Money Times",
-    "publicado": "12/08 11:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão de suspender e reaver pagamentos considerados 'exorbitantes' em órgãos públicos pode sinalizar um esforço de contenção de gastos, impactando o orçamento público. Se essa medida for parte de um plano mais amplo de ajuste fiscal, pode trazer otimismo quanto à saúde das contas públicas; caso contrário, pode ser vista como uma ação pontual sem grande impacto macro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786547753.7209206,
-    "titulo": "Volatilidade aumenta com aproximação das eleições brasileiras e faz investidor estrangeiro adotar cautela",
-    "titulo_original": "Volatilidade aumenta com aproximação das eleições brasileiras e faz investidor estrangeiro adotar cautela",
-    "fonte": "InvestNews",
-    "publicado": "12/08 11:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da volatilidade e a cautela de investidores estrangeiros em relação ao real são fatores que podem pressionar a taxa de câmbio. Se o cenário eleitoral se mostrar mais definido e favorável a políticas de estabilidade, o fluxo de capital pode retornar; caso contrário, a aversão ao risco pode persistir, mantendo o dólar em patamares elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786547758.1377227,
-    "titulo": "Preços futuros aceleram vendas de soja em Mato Grosso",
-    "titulo_original": "Preços futuros aceleram vendas de soja em Mato Grosso - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "12/08 10:55",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "commodities"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia trata da dinâmica de vendas de soja em uma região específica, influenciada por preços futuros. Embora commodities sejam relevantes para a economia brasileira, esta notícia foca em um aspecto específico do agronegócio e não em fatores macroeconômicos diretos que afetem o WDO.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786547762.5562782,
-    "titulo": "Dólar recua ante o real após CPI dos EUA e dados de serviços no Brasil",
-    "titulo_original": "Dólar recua ante o real após CPI dos EUA e dados de serviços no Brasil - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/08 10:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O recuo do dólar ante o real sugere que os dados de inflação dos EUA e os dados de serviços no Brasil foram percebidos como positivos para a economia brasileira. Se os dados de serviços indicarem forte recuperação da atividade, isso pode sustentar o real; se o CPI dos EUA vier acima do esperado, pode reverter essa tendência. A leitura depende da magnitude e do contexto desses dados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786547768.0021803,
-    "titulo": "Dividendos da Taesa (TAEE11) em xeque? Ações caem após 2T26 e analistas avaliam força dos proventos",
-    "titulo_original": "Dividendos da Taesa (TAEE11) em xeque? Ações caem após 2T26 e analistas avaliam força dos proventos",
-    "fonte": "Money Times",
-    "publicado": "12/08 11:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas ações da Taesa após a divulgação de resultados trimestrais é um evento corporativo específico. Embora o resultado financeiro de uma empresa possa influenciar o desempenho de um setor ou índice, a notícia não conecta diretamente a queda a fatores macroeconômicos como juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786547768.0035145,
-    "titulo": "Medidas discutidas com Cade não devem afetar significativamente receitas da B3, diz diretor",
-    "titulo_original": "Medidas discutidas com Cade não devem afetar significativamente receitas da B3, diz diretor",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 11:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do diretor financeiro da B3 indica que as discussões com o Cade sobre conduta anticoncorrencial não devem gerar um impacto material nas receitas da empresa. Se as medidas discutidas fossem mais severas, poderiam afetar o setor financeiro; como o impacto é considerado pequeno, a relevância macroeconômica é limitada. A notícia não especifica um impacto direto nos canais de juros, inflação ou fluxo de capital.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786553152.0696487,
     "titulo": "Exclusivo: Equipe econômica antecipa ajuste fiscal de 2027 em PLP dos combustíveis",
     "titulo_original": "Exclusivo: Equipe econômica antecipa ajuste fiscal de 2027 em PLP dos combustíveis",
@@ -1249,6 +1166,151 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A forte desvalorização das ações da Hapvida está diretamente ligada à queda expressiva em seu lucro trimestral. Se a deterioração dos resultados da empresa persistir, isso pode indicar problemas setoriais ou de gestão que se estendam a outras companhias do mesmo ramo. Caso a Hapvida consiga reverter o quadro negativo, a recuperação de suas ações pode ser significativa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786658445.8860857,
+    "titulo": "Bolsa cai com balanços fracos e saída de estrangeiros; dólar sobe",
+    "titulo_original": "Bolsa cai com balanços fracos e saída de estrangeiros; dólar sobe - Poder360",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/08 17:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda da bolsa e a alta do dólar, associadas à saída de estrangeiros e balanços fracos, indicam um cenário de aversão ao risco no mercado doméstico. Se os próximos balanços corporativos apresentarem melhora, isso pode reverter a tendência de saída de capital estrangeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786658450.610635,
+    "titulo": "União e GDF divergem sobre Capag em conciliação para socorro de R$ 6,6 bi ao BRB",
+    "titulo_original": "União e GDF divergem sobre Capag em conciliação para socorro de R$ 6,6 bi ao BRB",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 18:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre União e GDF sobre a Capag do DF para o socorro ao BRB indica incertezas fiscais regionais. Se o GDF conseguir comprovar sua capacidade de pagamento, isso pode facilitar a capitalização do banco; caso contrário, a situação fiscal do DF pode ser mais pressionada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786658455.5092103,
+    "titulo": "Juros futuros não sustentam alívio e sobem, em linha com tendência local",
+    "titulo_original": "Juros futuros não sustentam alívio e sobem, em linha com tendência local",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 18:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta dos juros futuros, sem um gatilho específico e em contexto de menor exposição a ativos brasileiros, sugere um aumento da percepção de risco. Se o fluxo de capital estrangeiro retornar e a cautela diminuir, os juros futuros podem apresentar alívio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786658460.451529,
+    "titulo": "Sanepar reverte lucro e soma prejuízo de R$ 505 milhões no 2º trimestre",
+    "titulo_original": "Sanepar reverte lucro e soma prejuízo de R$ 505 milhões no 2º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 18:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O prejuízo da Sanepar foi impactado por um registro contábil complementar de passivo regulatório e ausência de apropriação de benefícios fiscais. Se a empresa conseguir reverter os fatores que impactaram o resultado financeiro e tributário, o lucro pode ser restabelecido em trimestres futuros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786658467.4450405,
+    "titulo": "Sua empresa paga dividendos aos sócios? A Receita Federal quer saber quanto – e todo mês",
+    "titulo_original": "Sua empresa paga dividendos aos sócios? A Receita Federal quer saber quanto – e todo mês",
+    "fonte": "InvestNews",
+    "publicado": "13/08 18:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nova exigência da Receita Federal sobre a declaração mensal de dividendos pode aumentar o ônus burocrático para as empresas. Se a fiscalização se tornar mais rigorosa, isso pode influenciar a forma como as empresas planejam a distribuição de lucros aos sócios.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786658467.4469671,
+    "titulo": "Ibovespa volta a cair e dólar avança com saída de investidores estrangeiros; juros passam a subir",
+    "titulo_original": "Ibovespa volta a cair e dólar avança com saída de investidores estrangeiros; juros passam a subir",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 18:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A combinação de queda na bolsa, alta do dólar e aumento dos juros futuros, com saída de estrangeiros, sinaliza um cenário de maior aversão ao risco e pressão sobre os ativos brasileiros. Se a cautela eleitoral diminuir e o fluxo de capital estrangeiro retornar, os juros futuros podem apresentar alívio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786658467.4488606,
+    "titulo": "Nubank tem lucro de US$ 1,061 bilhão no 2º tri, com alta de 49% em um ano",
+    "titulo_original": "Nubank tem lucro de US$ 1,061 bilhão no 2º tri, com alta de 49% em um ano",
+    "fonte": "Valor Economico",
+    "publicado": "13/08 18:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte desempenho do Nubank, com lucro recorde, demonstra resiliência e crescimento no setor financeiro. Se a empresa continuar a expandir sua base de clientes e a otimizar suas operações, o crescimento pode se manter nos próximos trimestres.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786658467.450741,
+    "titulo": "Lucro da Nubank (ROXO34) dispara 49% e chega a US$ 1 bi pela primeira vez na história; ação salta 10%",
+    "titulo_original": "Nubank (ROXO34): Lucro dispara 49% e chega a US$ 1 bi pela primeira vez na história; ação salta 10%",
+    "fonte": "Money Times",
+    "publicado": "13/08 18:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O lucro recorde do Nubank demonstra um forte desempenho financeiro e operacional. Se a empresa mantiver essa trajetória de crescimento e rentabilidade, o valor de suas ações pode continuar a ser impulsionado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786658467.4526243,
+    "titulo": "Mercado agora | Bolsas da Europa recuam, com repercussão de balanços; Ibovespa segue em baixa",
+    "titulo_original": "Mercado agora | Bolsas da Europa recuam, com repercussão de balanços; Ibovespa segue em baixa - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "13/08 14:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas europeias, impulsionada por balanços corporativos, reflete um sentimento de cautela global. Se os resultados corporativos em outras regiões também vierem fracos, isso pode reforçar a pressão sobre os mercados de renda variável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786658467.4545383,
+    "titulo": "Yduqs (YDUQ3) tem queda de 54% no lucro líquido ajustado no 2T26 e resultado fica abaixo do esperado",
+    "titulo_original": "Yduqs (YDUQ3) tem queda de 54% no lucro líquido ajustado no 2T26 e resultado fica abaixo do esperado",
+    "fonte": "Money Times",
+    "publicado": "13/08 18:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda no lucro da Yduqs, abaixo do esperado, pode indicar desafios operacionais ou de mercado no setor educacional. Se a empresa conseguir implementar medidas para otimizar custos e impulsionar a receita, o resultado pode melhorar nos próximos trimestres.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786658467.4564433,
+    "titulo": "Após balanço, BTG Pactual eleva participação no Méliuz (CASH3) para 10,5%",
+    "titulo_original": "Após balanço, BTG Pactual eleva participação no Méliuz (CASH3) para 10,5%",
+    "fonte": "Money Times",
+    "publicado": "13/08 18:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento de participação do BTG Pactual no Méliuz pode indicar uma visão positiva do banco sobre as perspectivas futuras da empresa. Se o Méliuz apresentar melhora em seus resultados e estratégias, a participação do BTG pode se consolidar.",
     "is_stocks": true
   }
 ]
