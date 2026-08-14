@@ -1049,5 +1049,72 @@
     "origem": "ambas",
     "leitura_critica": "A divergência entre o desempenho do Ibovespa e das bolsas americanas sugere fatores específicos atuando no mercado brasileiro. Se os fatores que pressionam o Ibovespa persistirem, a performance da bolsa local pode continuar aquém da de mercados desenvolvidos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786713368.2044742,
+    "titulo": "Banco Central decreta liquidação da Simpala, de crédito e consórcios",
+    "titulo_original": "Banco Central decreta liquidação da Simpala, de crédito e consórcios",
+    "fonte": "Folha Mercado",
+    "publicado": "14/08 09:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A liquidação da Simpala pelo Banco Central indica problemas de gestão ou financeiros na instituição. Se houver contágio para outras financeiras de porte similar, pode gerar preocupações sobre a estabilidade do setor financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786713371.9586523,
+    "titulo": "Número de pessoas que procura emprego há mais de dois anos é o menor da série histórica, diz IBGE",
+    "titulo_original": "Número de pessoas que procura emprego há mais de dois anos é o menor da série histórica, diz IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 10:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução no desemprego de longo prazo é um indicador positivo para o mercado de trabalho brasileiro. Se essa tendência de melhora se consolidar, pode impulsionar o consumo e a confiança dos agentes econômicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786713375.7100625,
+    "titulo": "Desemprego no 2º trimestre varia de 2,1% em SC a 9,8% no AP; veja ranking",
+    "titulo_original": "Desemprego no 2º trimestre varia de 2,1% em SC a 9,8% no AP; veja ranking",
+    "fonte": "Folha Mercado",
+    "publicado": "14/08 09:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação do ranking de desemprego por estado reforça a heterogeneidade do mercado de trabalho brasileiro. Se as regiões com menor taxa de desemprego continuarem a apresentar bom desempenho, podem impulsionar o crescimento regional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786713379.6808028,
+    "titulo": "Financeira gaúcha liquidada pelo BC começou como concessionária de veículos e tinha R$ 669 milhões em depósitos",
+    "titulo_original": "Financeira gaúcha liquidada pelo BC começou como concessionária de veículos e tinha R$ 669 milhões em depósitos",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 09:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os detalhes sobre os depósitos e ativos da Simpala, antes de sua liquidação, oferecem um panorama da sua situação financeira. Se o Fundo Garantidor de Créditos (FGC) cobrir os depósitos, o impacto direto nos poupadores pode ser mitigado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786713384.2411706,
+    "titulo": "Ações dos EUA atingem recordes (novamente...), mas riscos de petróleo e lucros crescem. O que negociar?",
+    "titulo_original": "US stocks hit records (again...), but oil and earnings risks are growing. What can you trade?",
+    "fonte": "ForexLive",
+    "publicado": "14/08 09:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O recorde das ações americanas, apesar de positivo, vem acompanhado de sinais de alerta como a alta do petróleo e a qualidade dos lucros corporativos. Se os preços do petróleo continuarem a subir, pode reavivar preocupações com a inflação e pressionar o mercado.",
+    "is_stocks": true
   }
 ]
