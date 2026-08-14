@@ -1,115 +1,5 @@
 [
   {
-    "_timestamp": 1786639579.9577682,
-    "titulo": "Hammack, do Fed, reforça defesa de juros mais altos no Fed e alerta para inflação disseminada",
-    "titulo_original": "Hammack, do Fed, reforça defesa de juros mais altos no Fed e alerta para inflação disseminada - ADVFN",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/08 10:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A fala de Hammack sugere que o Fed pode manter uma postura mais restritiva em relação aos juros, visando combater a inflação disseminada. Se essa visão prevalecer nas próximas decisões do FOMC, o mercado pode esperar por taxas de juros mais elevadas por um período mais prolongado, impactando o custo do crédito globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786639583.874843,
-    "titulo": "Taxa média de hipoteca de 30 anos nos EUA média 6,67% vs 6,69% na semana passada.",
-    "titulo_original": "US 30 year average mortgage rate averages 6.67% vs 6.69% last week.",
-    "fonte": "ForexLive",
-    "publicado": "13/08 13:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A leve queda na taxa de hipoteca de 30 anos, impulsionada por dados de inflação mais fracos, sugere um possível alívio nas pressões de juros nos EUA. Se os rendimentos dos Treasuries continuarem a cair, as taxas de hipoteca podem apresentar novas reduções, o que seria positivo para o mercado imobiliário americano.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786639587.927115,
-    "titulo": "Estrategista alerta que obstáculo do Bitcoin não desaparecerá com o rendimento do 10Y em direção a 5%",
-    "titulo_original": "Strategist warns Bitcoin headwind won’t fade with 10Y yield heading toward 5%",
-    "fonte": "Investing.com",
-    "publicado": "13/08 09:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A projeção de rendimento do 10Y em direção a 5% indica um cenário de juros mais altos nos EUA, o que historicamente representa um vento contrário para ativos de risco como o Bitcoin. Se essa tendência se confirmar, o Bitcoin pode enfrentar dificuldades para sustentar altas significativas, a menos que haja fatores específicos que o impulsionem.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786639593.0891178,
-    "titulo": "Siderurgia já vê primeiros impactos positivos das medidas antidumping, diz presidente da CSN",
-    "titulo_original": "Siderurgia já vê primeiros impactos positivos das medidas antidumping, diz presidente da CSN",
-    "fonte": "Valor Economico",
-    "publicado": "13/08 13:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As medidas antidumping implementadas pelo governo podem representar um alívio para a indústria nacional, protegendo-a da concorrência estrangeira. Se a tendência de queda na penetração de importados se mantiver, isso pode sustentar a recuperação do setor siderúrgico brasileiro no médio prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786639593.090979,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de BBAS3, HAPV3 e VALE3",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de BBAS3, HAPV3 e VALE3 - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "13/08 12:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, puxada por grandes empresas, indica um movimento de realização de lucros ou uma reação a notícias específicas do mercado acionário brasileiro. Sem detalhes sobre os fatores que afetam BBAS3, HAPV3 e VALE3, é difícil prever a sustentabilidade dessa tendência de baixa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786639593.0928123,
-    "titulo": "Bolsas da Europa têm leve queda com realização de lucros",
-    "titulo_original": "Bolsas da Europa têm leve queda com realização de lucros",
-    "fonte": "Valor Economico",
-    "publicado": "13/08 13:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A realização de lucros nas bolsas europeias sugere uma pausa após recentes altas, possivelmente influenciada pela incerteza geopolítica. Se o cenário geopolítico se agravar, a tendência de baixa pode se acentuar; caso contrário, um novo ciclo de alta pode ser iniciado com a divulgação de indicadores econômicos mais positivos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786639593.0946276,
-    "titulo": "Ações europeias fecham em baixa apesar do impulso das ações de tecnologia dos EUA",
-    "titulo_original": "European shares close lower despite the US tech push higher",
-    "fonte": "ForexLive",
-    "publicado": "13/08 13:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A divergência entre as bolsas europeias e americanas, mesmo com dados de inflação favoráveis nos EUA, pode indicar preocupações específicas do mercado europeu ou uma realização de lucros mais acentuada. A queda nos rendimentos dos títulos europeus, em linha com a queda do petróleo, sugere um movimento de aversão ao risco em alguns setores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786639593.096457,
-    "titulo": "Mercados europeus fecham: Dólar permanece hesitante, ouro recua dos picos em negociação pós-CPI",
-    "titulo_original": "investingLive European markets wrap: Dollar remains tentative, gold off the highs in post-CPI trading",
-    "fonte": "ForexLive",
-    "publicado": "13/08 08:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A reação do dólar e do ouro aos dados de inflação sugere que o mercado está precificando um cenário de juros mais estáveis ou em queda nos EUA, mas com cautela. O crescimento inesperado do PIB do Reino Unido e a leve alta da inflação na Espanha indicam dinâmicas econômicas distintas na Europa, o que pode influenciar as decisões de política monetária locais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786645847.4022036,
     "titulo": "Tesouro dos EUA vende títulos de 30 anos com alto rendimento de 5,216%",
     "titulo_original": "US treasury sells 30 year bonds at a high yield of 5.216%",
@@ -1357,6 +1247,108 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A decisão da ANPD, fundamentada em lei, estabelece um precedente para a regulação de plataformas digitais em casos de incidentes graves. Se outras plataformas apresentarem riscos semelhantes, é provável que medidas regulatórias mais amplas sejam consideradas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786750241.900086,
+    "titulo": "Prejuízo da Oncoclínicas salta 3,3 vezes no 2º tri, para R$ 475,7 milhões",
+    "titulo_original": "Prejuízo da Oncoclínicas salta 3,3 vezes no 2º tri, para R$ 475,7 milhões",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 19:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O expressivo aumento do prejuízo da Oncoclínicas, juntamente com um Ebitda negativo, sinaliza dificuldades financeiras significativas para a empresa em recuperação extrajudicial. Se os ajustes contábeis e a perda de crédito com a Unimed Leste Fluminense representarem um problema recorrente, a reestruturação da empresa pode enfrentar obstáculos adicionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786750246.438535,
+    "titulo": "Juros futuros se distanciam das máximas, mas ainda sobem com estresse local",
+    "titulo_original": "Juros futuros se distanciam das máximas, mas ainda sobem com estresse local",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 18:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta nos juros futuros, mesmo com o distanciamento das máximas, reflete um cenário de estresse local e externo, com a saída de capital estrangeiro e a volatilidade nos Treasuries americanos. Se a aversão ao risco persistir devido às eleições presidenciais brasileiras, a curva de juros pode continuar a se inclinar para cima, elevando o custo de captação no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786750250.943312,
+    "titulo": "Governo diz que reciprocidade contra EUA pode ser acionada em outras áreas além de tarifas",
+    "titulo_original": "Governo diz que reciprocidade contra EUA pode ser acionada em outras áreas além de tarifas",
+    "fonte": "Folha Mercado",
+    "publicado": "14/08 16:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do governo brasileiro sobre a possibilidade de acionar a Lei da Reciprocidade em outras áreas além de tarifas sugere uma escalada na disputa comercial com os EUA. Se medidas forem efetivamente implementadas em setores como propriedade intelectual, isso pode gerar novas tensões diplomáticas e impactar fluxos de investimento e comércio entre os países.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786750255.4122446,
+    "titulo": "Após nova ameaça de Trump, Irã diz que não se intimida com demonstrações de força",
+    "titulo_original": "Após nova ameaça de Trump, Irã diz que não se intimida com demonstrações de força",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 19:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do Irã em resposta às ameaças de Trump sobre o Estreito de Ormuz eleva a tensão geopolítica na região. Se a retórica se traduzir em ações concretas que afetem o fluxo de petróleo, isso poderá gerar volatilidade nos preços globais de energia e impactar o cenário econômico internacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786750260.9555109,
+    "titulo": "Auditoria mantém ressalva sobre balanço da Marisa e indica incerteza de continuidade operacional",
+    "titulo_original": "Auditoria mantém ressalva sobre balanço da Marisa e indica incerteza de continuidade operacional",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 19:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da ressalva pela auditoria, mesmo com a administração da Marisa classificando o risco como 'possível', levanta preocupações sobre a saúde financeira da empresa. Se os processos judiciais da M Serviços resultarem em um passivo significativo, a incerteza sobre a continuidade operacional da Marisa pode se agravar, impactando a confiança dos investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786750260.9575746,
+    "titulo": "Marisa reverte lucro e tem prejuízo de R$ 68,4 milhões no 2º trimestre",
+    "titulo_original": "Marisa reverte lucro e tem prejuízo de R$ 68,4 milhões no 2º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 19:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O prejuízo líquido da Marisa no primeiro trimestre, acompanhado de queda na receita e aumento nas despesas financeiras, indica um cenário desafiador para a varejista. Se a empresa não conseguir reverter a tendência de aumento de custos financeiros e a queda nas vendas, o cenário de prejuízos pode persistir, demandando medidas de reestruturação mais drásticas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786750260.9595814,
+    "titulo": "Lucro da Vibra sobe mais de oito vezes no 2º trimestre",
+    "titulo_original": "Lucro da Vibra sobe mais de oito vezes no 2º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 19:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte aumento no lucro líquido da Vibra Energia, impulsionado por fatores operacionais e financeiros, sugere uma melhora na performance da empresa. Se os custos de combate a irregularidades se mantiverem controlados e as vendas continuarem a crescer, a tendência de melhora nos resultados pode se sustentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786750260.9615834,
+    "titulo": "Cosan (CSAN3) anuncia simplificação da estrutura, cisão de R$ 2,6 bi e vai dar adeus de bolsa de NY",
+    "titulo_original": "Cosan (CSAN3) anuncia simplificação da estrutura, cisão de R$ 2,6 bi e vai dar adeus de bolsa de NY",
+    "fonte": "Money Times",
+    "publicado": "14/08 20:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A simplificação da estrutura corporativa e a deslistagem da bolsa de Nova York pela Cosan indicam uma estratégia de otimização e foco em suas operações principais. Se essa reestruturação resultar em maior eficiência e clareza para os investidores, pode haver um impacto positivo na percepção de valor da empresa no mercado doméstico.",
     "is_stocks": true
   }
 ]
