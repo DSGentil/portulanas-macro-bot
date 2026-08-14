@@ -1,375 +1,5 @@
 [
   {
-    "_timestamp": 1786559449.0469325,
-    "titulo": "Kassab confirma que Caiado cogita Armínio Fraga no Ministério da Fazenda",
-    "titulo_original": "Kassab confirma que Caiado cogita Armínio Fraga no Ministério da Fazenda",
-    "fonte": "Money Times",
-    "publicado": "12/08 14:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A possível nomeação de Armínio Fraga para o Ministério da Fazenda pode indicar uma postura mais ortodoxa na condução da política econômica. Se confirmada, essa escolha poderia gerar expectativas de maior controle fiscal e reformas estruturais, mas a decisão final ainda depende do cenário eleitoral.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786559453.8051088,
-    "titulo": "O déficit do governo dos EUA em julho foi o maior em qualquer mês desde 2021",
-    "titulo_original": "The US government deficit in July was the highest in any month since 2021",
-    "fonte": "ForexLive",
-    "publicado": "12/08 15:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento expressivo do déficit fiscal americano pode sinalizar uma pressão contínua sobre os juros de longo prazo nos EUA. Se os gastos governamentais não forem controlados, a tendência de alta na dívida pública pode se intensificar, impactando o apetite por risco global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786559458.5951076,
-    "titulo": "US treasury sells 10 year notes at a high yield of 4.683%",
-    "titulo_original": "US treasury sells 10 year notes at a high yield of 4.683%",
-    "fonte": "ForexLive",
-    "publicado": "12/08 14:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O rendimento de 4,683% nos títulos de 10 anos do Tesouro dos EUA pode indicar uma percepção de risco maior ou uma expectativa de juros mais altos no futuro. Se essa tendência de rendimentos elevados se mantiver, pode atrair capital para os EUA, potencialmente impactando fluxos para outros mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786559463.3489804,
-    "titulo": "AVISO: Há um longo caminho até a próxima reunião do Fed",
-    "titulo_original": "WARNING: There is a long way to go until the next Fed Meeting",
-    "fonte": "ForexLive",
-    "publicado": "12/08 14:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A discussão sobre o PCE como indicador de inflação preferencial do Fed sugere que os próximos dados de inflação, especialmente os que compõem o PCE, serão cruciais para as decisões de política monetária. Se os dados de PPI divulgados amanhã indicarem pressões inflacionárias, isso pode reforçar a postura mais cautelosa do Fed.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786559468.9094188,
-    "titulo": "B3 tem 2º tri dentro do esperado, mas cenário é mais fraco, dizem analistas",
-    "titulo_original": "B3 tem 2° tri dentro do esperado, mas cenário é mais fraco, dizem analistas",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 14:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho da B3, embora dentro do esperado, reflete um cenário de menor atividade econômica, o que pode persistir se as condições de crédito e o ambiente de negócios não melhorarem. Se os resultados futuros da B3 continuarem a indicar fraqueza, isso pode ser um sinal de desaceleração mais ampla na economia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786566649.7196522,
-    "titulo": "STF extingue todos os processos sobre Moratória da Soja na Justiça e no Cade",
-    "titulo_original": "STF extingue todos os processos sobre Moratória da Soja na Justiça e no Cade",
-    "fonte": "Folha Mercado",
-    "publicado": "12/08 17:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do STF extingue processos relacionados à Moratória da Soja, o que pode ter implicações para o setor agrícola e ambiental. Se essa extinção de processos remover barreiras regulatórias ou legais para a produção de soja em áreas anteriormente restritas, isso pode impactar a oferta e os preços da commodity. É importante observar se haverá alguma mudança prática nas regras de produção ou fiscalização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786566653.2399797,
-    "titulo": "Selic pode estacionar em 14%",
-    "titulo_original": "Selic pode estacionar em 14% - Sinduscon-SP",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/08 15:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de que a Selic possa estacionar em 14% sugere que o mercado pode estar precificando um fim no ciclo de cortes ou uma pausa na redução da taxa básica de juros. Se o Banco Central mantiver a Selic nesse patamar por um período prolongado, isso pode ter implicações para o custo do crédito e o investimento. Acompanhar as próximas decisões do Copom será crucial para confirmar essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786566656.6727102,
-    "titulo": "Câmara inicia análise do projeto que reduz tributos sobre combustíveis em 2026",
-    "titulo_original": "Câmara inicia análise do projeto que reduz tributos sobre combustíveis em 2026",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 17:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise do projeto de lei complementar na Câmara dos Deputados, que prevê redução de tributos sobre combustíveis e outros incentivos fiscais, pode ter um impacto significativo nas contas públicas e na arrecadação. Se o projeto for aprovado com as medidas de renúncia de receita, isso pode pressionar o déficit fiscal. Acompanhar o desenrolar da votação e as possíveis alterações no texto será fundamental para avaliar o impacto fiscal e regulatório.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786566660.183899,
-    "titulo": "Dólar avança a R$ 5,18 com eleições ainda no radar dos investidores",
-    "titulo_original": "Dólar avança a R$ 5,18 com eleições ainda no radar dos investidores",
-    "fonte": "Money Times",
-    "publicado": "12/08 17:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do dólar a R$ 5,18, impulsionada pelo cenário eleitoral e pela política econômica futura, indica uma percepção de risco ou incerteza por parte dos investidores em relação ao Brasil. Se a incerteza política persistir ou se as propostas econômicas futuras forem vistas como desfavoráveis, o dólar pode continuar pressionado. Acompanhar as pesquisas eleitorais e as definições de política econômica será crucial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786566664.4694865,
-    "titulo": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA",
-    "titulo_original": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA",
-    "fonte": "Money Times",
-    "publicado": "12/08 17:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O fechamento misto de Wall Street, com a inflação em linha com o esperado, sugere que os investidores estão ponderando diferentes fatores. A força em ações de IA indica otimismo em setores específicos, enquanto o impasse no Oriente Médio adiciona um elemento de incerteza geopolítica. Se a inflação continuar em linha com as expectativas, isso pode dar suporte a uma política monetária estável; se houver surpresas futuras, o cenário pode mudar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786572048.095151,
-    "titulo": "Lula assina decreto que regulamenta mercado livre de energia",
-    "titulo_original": "Lula assina decreto que regulamenta mercado livre de energia",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 18:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A regulamentação do mercado livre de energia para todos os consumidores representa uma mudança estrutural no setor elétrico brasileiro. Se a migração para o mercado livre ocorrer conforme o planejado, isso pode gerar novas dinâmicas de preços e contratos, impactando empresas e consumidores de forma significativa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786572052.8753762,
-    "titulo": "Qualicorp registra alta de quase 60% no lucro do 2º trimestre",
-    "titulo_original": "Qualicorp registra alta de quase 60% no lucro do 2º trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 18:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do lucro da Qualicorp, apesar da queda na receita, foi impulsionado pela redução de despesas e melhor resultado financeiro. Se as despesas operacionais continuarem em queda e o resultado financeiro se mantiver favorável, a tendência de lucro pode se sustentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786572057.6074095,
-    "titulo": "Prejuízo da CVC sobe 56% no 2º trimestre com efeito cambial e crise do petróleo",
-    "titulo_original": "Prejuízo da CVC sobe 56% no 2º trimestre com efeito cambial e crise do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 18:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do prejuízo da CVC, associado à crise do petróleo e a um efeito cambial, demonstra a vulnerabilidade do setor de turismo a choques externos e flutuações cambiais. Se os preços do petróleo continuarem voláteis e o câmbio se desvalorizar, a empresa pode enfrentar dificuldades adicionais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786572062.3812242,
-    "titulo": "Ouro avança após inflação dos EUA aliviar apostas de alta de juros - Valor Econômico",
-    "titulo_original": "Ouro avança após inflação dos EUA aliviar apostas de alta de juros - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "12/08 15:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nas expectativas de alta de juros nos EUA, em decorrência de uma inflação mais branda, tende a tornar o ouro mais atrativo como ativo de reserva de valor. Se os próximos dados de inflação confirmarem essa tendência, o ouro pode continuar sua valorização, enquanto apostas em juros mais altos se dissipam.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786572068.5360892,
-    "titulo": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
-    "titulo_original": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
-    "fonte": "ForexLive",
-    "publicado": "12/08 18:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A inflação nos EUA vindo como esperado pode sinalizar que o Federal Reserve manterá sua postura atual em relação aos juros. Se os próximos dados de inflação continuarem alinhados às expectativas, isso pode reforçar a visão de que o ciclo de aperto monetário está próximo do fim.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786572068.5378785,
-    "titulo": "Cogna (COGN3) vê lucro crescer 25% no 2T26, para R$ 149 milhões, mas novo marco regulatório pesa sobre margens",
-    "titulo_original": "Cogna (COGN3) vê lucro crescer 25% no 2T26, para R$ 149 milhões, mas novo marco regulatório pesa sobre margens",
-    "fonte": "Money Times",
-    "publicado": "12/08 18:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O novo marco regulatório da educação superior impactou as margens da Cogna, indicando um efeito direto de uma decisão regulatória sobre o setor. Se a aplicação deste marco se expandir para outras áreas educacionais, isso pode gerar pressão em outras margens de empresas do setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786572068.539555,
-    "titulo": "Ibovespa sofre nova queda com continuidade do mau humor pré-eleitoral no mercado - Valor Econômico",
-    "titulo_original": "Ibovespa sofre nova queda com continuidade do mau humor pré-eleitoral no mercado - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "12/08 17:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade do mau humor pré-eleitoral sugere que a volatilidade no mercado acionário brasileiro pode persistir até que haja maior clareza sobre o cenário político. Se as pesquisas de intenção de voto apresentarem mudanças significativas, isso pode alterar o sentimento do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786572068.5411694,
-    "titulo": "Banco do Brasil (BBAS3) pagará R$ 584,9 milhões em juros sobre o capital próprio; veja como aproveitar",
-    "titulo_original": "Banco do Brasil (BBAS3) pagará R$ 584,9 milhões em juros sobre o capital próprio; veja como aproveitar",
-    "fonte": "Money Times",
-    "publicado": "12/08 18:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre a distribuição de juros sobre capital próprio pelo Banco do Brasil, um evento corporativo. Se a política de distribuição de dividendos e JCP do banco se mantiver consistente, isso pode ser um fator de atratividade para investidores focados em renda.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786572068.5428157,
-    "titulo": "Ibovespa Volta Aos 167 Mil Pontos: o Que Mudou na Bolsa e o Que Pode Ditar os Próximos Meses - Forbes Brasil",
-    "titulo_original": "Ibovespa Volta Aos 167 Mil Pontos: o Que Mudou na Bolsa e o Que Pode Ditar os Próximos Meses - Forbes Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "12/08 18:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recuperação do Ibovespa para 167 mil pontos indica uma melhora no sentimento do mercado, possivelmente ligada a fatores domésticos ou externos. Se os fatores que impulsionaram essa alta se mantiverem, o índice pode continuar sua trajetória ascendente; caso contrário, uma reversão é possível.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786572068.5444713,
-    "titulo": "Minerva (BEEF3) tem lucro de R$ 196,9 milhões no 2T26, queda de 57%",
-    "titulo_original": "Minerva (BEEF3) tem lucro de R$ 196,9 milhões no 2T26, queda de 57%",
-    "fonte": "Money Times",
-    "publicado": "12/08 18:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda no lucro da Minerva, mesmo com o aumento da receita, sugere uma pressão sobre os custos ou margens operacionais. Se os custos de produção continuarem elevados ou se a margem de lucro por unidade vendida diminuir, a rentabilidade da empresa pode ser afetada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786577441.1267014,
-    "titulo": "BC multa Genial em R$ 21,6 milhões e inabilita CEO por irregularidade em operação cambial",
-    "titulo_original": "BC multa Genial em R$ 21,6 milhões e inabilita CEO por irregularidade em operação cambial",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 20:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A multa aplicada pelo Banco Central ao Banco Genial por irregularidades em operações cambiais pode sinalizar um rigor maior na fiscalização de transações internacionais. Se a interpretação do BC sobre as normas for mantida, isso pode levar a um escrutínio mais atento de outras instituições financeiras em suas operações de câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786577445.015315,
-    "titulo": "Senado aprova texto-base de PLP dos combustíveis com jabutis para fertilizantes e metais raros",
-    "titulo_original": "Senado aprova texto-base de PLP dos combustíveis com jabutis para fertilizantes e metais raros",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 20:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do texto-base do PLP dos combustíveis pelo Senado, com inclusão de incentivos fiscais para outros setores, demonstra uma estratégia de conciliar renúncia fiscal com demandas diversas. Se o destaque pendente for aprovado e alterar o texto, o impacto fiscal e regulatório pode ser diferente do previsto inicialmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786577448.5647836,
-    "titulo": "Após pressão da esquerda, governo ajusta gatilho fiscal em PLP dos combustíveis",
-    "titulo_original": "Após pressão da esquerda, governo ajusta gatilho fiscal em PLP dos combustíveis",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 19:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O ajuste no gatilho fiscal do PLP dos combustíveis, após pressão política, indica a negociação em torno das regras de controle de gastos. Se a nova redação for mantida, o impacto no ajuste fiscal de 2027 pode ser mais direcionado, evitando afetar pisos constitucionais de saúde e educação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786577452.0330873,
-    "titulo": "Ex-chefe do BC contou ter sido abordado por operador de Vorcaro em evento, diz diretor à PF",
-    "titulo_original": "Ex-chefe do BC contou ter sido abordado por operador de Vorcaro em evento, diz diretor à PF",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 19:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O relato de abordagem a um ex-chefe do Banco Central por um operador financeiro em investigação pode levantar preocupações sobre a integridade de processos regulatórios. Se a investigação policial confirmar a natureza da abordagem, isso pode gerar questionamentos sobre a influência indevida em decisões do BC.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786577457.5110674,
-    "titulo": "BB: Resultado ainda é menor do que temos capacidade de gerar, mas traz sinalizações importantes, diz Tobias",
-    "titulo_original": "BB: Resultado ainda é menor do que temos capacidade de gerar, mas traz sinalizações importantes, diz Tobias",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 20:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do Banco do Brasil sobre um resultado em \"W\" sugere um cenário de volatilidade para o setor bancário, com possíveis altos e baixos nos próximos trimestres. Se a economia brasileira apresentar recuperação mais robusta, o banco pode atingir seu potencial de geração de resultados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786577457.5128746,
-    "titulo": "Positivo Tecnologia reverte prejuízo e lucra R$ 2,58 milhões no 2º trimestre",
-    "titulo_original": "Positivo Tecnologia reverte prejuízo e lucra R$ 2,58 milhões no 2º trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 19:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A reversão do prejuízo pela Positivo Tecnologia, com crescimento de receita e Ebitda, sugere uma melhora no desempenho operacional da empresa. Se a demanda por seus produtos e serviços se mantiver aquecida, a empresa pode consolidar essa trajetória de lucro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786577457.5146008,
-    "titulo": "Conselho da Ultrapar aprova pagamento de R$ 1,08 bi em dividendos",
-    "titulo_original": "Conselho da Ultrapar aprova pagamento de R$ 1,08 bi em dividendos",
-    "fonte": "Valor Economico",
-    "publicado": "12/08 19:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de dividendos bilionários pela Ultrapar indica uma política de distribuição de lucros aos acionistas. Se a empresa mantiver sua performance financeira, a expectativa de novos pagamentos de proventos pode ser um fator de atratividade para investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786577457.516302,
-    "titulo": "Ultrapar (UGPA3) tem salto no lucro do 2º trimestre, para R$ 1,7 bilhão, e anuncia dividendos bilionários e recompra de ações",
-    "titulo_original": "Ultrapar (UGPA3) tem salto no lucro do 2º trimestre, para R$ 1,7 bilhão, e anuncia dividendos bilionários e recompra de ações",
-    "fonte": "Money Times",
-    "publicado": "12/08 19:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O forte aumento no lucro da Ultrapar, associado à distribuição de dividendos e recompra de ações, sugere um cenário positivo para a empresa. Se a recuperação do mercado de combustíveis se mantiver, a Ultrapar pode continuar a apresentar resultados expressivos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786620653.7618253,
     "titulo": "Milho sobe com apoio do dólar e mercado externo",
     "titulo_original": "Milho sobe com apoio do dólar e mercado externo - agrolink.com.br",
@@ -1311,6 +941,113 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O expressivo aumento no lucro da LWSA demonstra uma performance financeira positiva no segundo trimestre. Se a empresa mantiver essa trajetória de crescimento em receita e Ebitda, pode consolidar sua posição no setor de tecnologia para varejo online.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786707057.2959175,
+    "titulo": "Tesouro IPCA+ 2026 vence e devolve R$ 260 bi aos investidores; saiba onde reinvestir o dinheiro",
+    "titulo_original": "Tesouro IPCA+ 2026 vence e devolve R$ 260 bi aos investidores; saiba onde reinvestir o dinheiro",
+    "fonte": "Folha Mercado",
+    "publicado": "14/08 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O vencimento de um volume tão expressivo de títulos públicos pode gerar um fluxo de capital significativo de volta ao mercado. Se os investidores optarem por reinvestir em títulos de renda fixa atrelados à Selic, isso pode pressionar as taxas de juros de curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786707061.7761734,
+    "titulo": "Regra para reter operações cripto acima de US$ 10 mil desagrada setor, mas deve ajudar no combate a fraudes",
+    "titulo_original": "Regra para reter operações cripto acima de US$ 10 mil desagrada setor, mas deve ajudar no combate a fraudes",
+    "fonte": "Folha Mercado",
+    "publicado": "14/08 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A regulamentação de operações com criptomoedas acima de um determinado valor pode aumentar a transparência e dificultar atividades ilícitas. Se a regra for eficaz no combate a fraudes, pode trazer mais segurança para o mercado, mas também pode gerar resistência do setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786707066.1759284,
+    "titulo": "Medidas de reciprocidade podem elevar custo de vida e produção, diz economista do Insper",
+    "titulo_original": "Medidas de reciprocidade podem elevar custo de vida e produção, diz economista do Insper",
+    "fonte": "Money Times",
+    "publicado": "14/08 07:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A decisão de impor medidas de reciprocidade contra tarifas americanas pode gerar um ciclo de retaliações, impactando negativamente a economia brasileira. Se os custos de produção aumentarem significativamente, isso pode se refletir em preços mais altos para o consumidor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786707070.5904822,
+    "titulo": "Agenda do dia: Pnad Contínua e expectativas de inflação nos EUA são destaque",
+    "titulo_original": "Agenda do dia: Pnad Contínua e expectativas de inflação nos EUA são destaque",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 07:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divulgação da Pnad Contínua fornecerá dados sobre o mercado de trabalho brasileiro, enquanto as expectativas de inflação nos EUA são cruciais para as decisões futuras do Fed. Se a Pnad Contínua apresentar números fracos, pode reforçar a necessidade de estímulos; se as expectativas de inflação nos EUA vierem altas, pode aumentar a pressão por juros mais altos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786707076.1892695,
+    "titulo": "Dólar sobe e Ibovespa cai com saída de investidores estrangeiros",
+    "titulo_original": "Dólar sobe e Ibovespa cai com saída de investidores estrangeiros - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 04:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro é um fator direto para a desvalorização do real e a queda da bolsa brasileira. Se essa tendência de saída se intensificar, pode haver pressão adicional sobre o câmbio e o mercado acionário local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786707076.1904004,
+    "titulo": "Braskem (BRKM5) lucra R$ 3,3 bilhões no 2T26, reverte prejuízo e vê Ebitda disparar",
+    "titulo_original": "Braskem (BRKM5) lucra R$ 3,3 bilhões no 2T26, reverte prejuízo e vê Ebitda disparar",
+    "fonte": "Money Times",
+    "publicado": "14/08 08:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O forte resultado da Braskem, influenciado pelo cenário internacional, demonstra a sensibilidade do setor petroquímico a fatores externos. Se o cenário internacional se mantiver favorável, outras empresas do setor podem apresentar resultados semelhantes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786707076.200356,
+    "titulo": "Embraer aprova pagamento de R$ 154 milhões em juros sobre capital próprio",
+    "titulo_original": "Embraer aprova pagamento de R$ 154 milhões em juros sobre capital próprio",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 07:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O pagamento de juros sobre capital próprio pela Embraer é uma decisão corporativa que pode afetar a distribuição de proventos aos acionistas. Se a empresa mantiver essa política de distribuição, pode ser um atrativo para investidores que buscam renda passiva.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786707076.2015166,
+    "titulo": "Por que o Ibovespa cai enquanto Wall Street bate recordes? 5 fatores explicam",
+    "titulo_original": "Por que o Ibovespa cai enquanto Wall Street bate recordes? 5 fatores explicam - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "14/08 05:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A divergência entre o desempenho do Ibovespa e das bolsas americanas sugere fatores específicos atuando no mercado brasileiro. Se os fatores que pressionam o Ibovespa persistirem, a performance da bolsa local pode continuar aquém da de mercados desenvolvidos.",
     "is_stocks": true
   }
 ]
