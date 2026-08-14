@@ -1,74 +1,5 @@
 [
   {
-    "_timestamp": 1786634136.8068483,
-    "titulo": "Ataques da Ucrânia elevam custos do transporte rodoviário na Rússia e pressionam inflação",
-    "titulo_original": "Ataques da Ucrânia elevam custos do transporte rodoviário na Rússia e pressionam inflação",
-    "fonte": "Valor Economico",
-    "publicado": "13/08 11:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento dos custos de transporte na Rússia, impulsionado por ataques a refinarias, pode gerar pressões inflacionárias adicionais no país. Se os ataques persistirem e afetarem a produção de combustível, os custos logísticos continuarão a subir; caso contrário, uma cessação dos ataques pode estabilizar os preços de transporte.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786634140.280987,
-    "titulo": "Ucrânia busca novas rotas para exportação de grãos em meio a bloqueio russo no Mar Negro",
-    "titulo_original": "Ucrânia busca novas rotas para exportação de grãos em meio a bloqueio russo no Mar Negro",
-    "fonte": "Valor Economico",
-    "publicado": "13/08 10:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O bloqueio russo aos portos do Mar Negro força a Ucrânia a buscar rotas alternativas para exportação de grãos, impactando significativamente o volume embarcado. Se as novas rotas se mostrarem eficazes e o bloqueio persistir, a oferta global de grãos pode ser afetada; caso contrário, a normalização do acesso aos portos marítimos pode reverter essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786634144.726825,
-    "titulo": "S&P 500 testa recorde com alívio no petróleo e inflação abaixo do esperado",
-    "titulo_original": "S&P 500 testa recorde com alívio no petróleo e inflação abaixo do esperado",
-    "fonte": "Valor Economico",
-    "publicado": "13/08 11:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A leitura da inflação ao produtor nos EUA abaixo do esperado, combinada com a queda nos preços do petróleo, oferece suporte para o avanço do S&P 500. Se os dados de inflação continuarem a surpreender positivamente, o mercado pode antecipar uma postura mais branda do Federal Reserve; caso contrário, a persistência de pressões inflacionárias pode limitar o otimismo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786634144.728687,
-    "titulo": "Ações em queda e Renda Fixa em alta: B3, Selic a 14% e IPCA hoje (13)",
-    "titulo_original": "Ações em queda e Renda Fixa em alta: B3, Selic a 14% e IPCA hoje (13) - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/08 10:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cenário de ações em queda e renda fixa em alta, associado à Selic a 14% e ao IPCA, sugere um ambiente de aversão ao risco e busca por segurança. Se a taxa Selic permanecer elevada e o IPCA apresentar volatilidade, a renda fixa tende a continuar atrativa; caso contrário, uma perspectiva de queda de juros e controle da inflação poderia favorecer a renda variável.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786634144.7304587,
-    "titulo": "Fazenda autoriza contrato entre União e BB que libera até R$ 1 bilhão para crédito do Fies",
-    "titulo_original": "Fazenda autoriza contrato entre União e BB que libera até R$ 1 bilhão para crédito do Fies",
-    "fonte": "Valor Economico",
-    "publicado": "13/08 10:55",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A autorização para o contrato entre a União e o Banco do Brasil visa ampliar o acesso ao crédito para estudantes do Fies. Se o recurso for efetivamente utilizado pelos beneficiários, isso pode facilitar a continuidade dos estudos; caso contrário, a falta de demanda ou barreiras de acesso podem limitar o impacto da medida.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786639579.9577682,
     "titulo": "Hammack, do Fed, reforça defesa de juros mais altos no Fed e alerta para inflação disseminada",
     "titulo_original": "Hammack, do Fed, reforça defesa de juros mais altos no Fed e alerta para inflação disseminada - ADVFN",
@@ -1289,6 +1220,143 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O custo do crédito afetando os resultados da Stone indica um cenário de maior endividamento ou inadimplência que impacta empresas do setor financeiro. Se essa tendência se generalizar, pode haver um aperto nas condições de crédito para outras empresas e consumidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786744850.8362017,
+    "titulo": "Tesouro Direto fecha semana sob estresse, com taxas dos Prefixados e IPCA+ em alta",
+    "titulo_original": "Tesouro Direto fecha semana sob estresse, com taxas dos Prefixados e IPCA+ em alta",
+    "fonte": "Money Times",
+    "publicado": "14/08 18:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta nas taxas do Tesouro Direto reflete um aumento na percepção de risco no mercado brasileiro, possivelmente ligada a incertezas fiscais ou políticas. Se essa aversão ao risco persistir, pode haver pressão contínua sobre os juros de longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786744855.7265303,
+    "titulo": "Dólar dispara para R$ 5,24 com incertezas e fuga de capital - ISTOÉ DINHEIRO",
+    "titulo_original": "Dólar dispara para R$ 5,24 com incertezas e fuga de capital - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 13:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar para R$ 5,24, associada à fuga de capital, indica um cenário de aversão ao risco no Brasil. Se as incertezas persistirem, o fluxo de saída de capital pode continuar, pressionando ainda mais a moeda local.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786744860.5005581,
+    "titulo": "Dólar salta aos R$ 5,22, maior valor desde março, e Bolsa cai pela nona vez seguida - O GLOBO",
+    "titulo_original": "Dólar salta aos R$ 5,22, maior valor desde março, e Bolsa cai pela nona vez seguida - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 17:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar para R$ 5,22 e a nona queda consecutiva da Bolsa indicam um forte pessimismo no mercado brasileiro. Se os fatores que causam essa fuga de capital e aversão ao risco não forem resolvidos, a tendência de desvalorização da moeda e queda da bolsa pode se manter.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786744865.2782786,
+    "titulo": "Citi aponta ‘provável vitória de Lula’ e tira real de cesta de ‘carry trade’",
+    "titulo_original": "Citi aponta ‘provável vitória de Lula’ e tira real de cesta de ‘carry trade’",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 18:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Citi de retirar o real da cesta de \"carry trade\" sugere uma percepção de maior risco no Brasil, associada à provável eleição de Lula. Se essa percepção se confirmar e a instabilidade cambial aumentar, o fluxo de capital estrangeiro para o país pode ser afetado negativamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786744871.6314936,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai e perde os 166 mil pontos - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai e perde os 166 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "14/08 13:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa abaixo dos 166 mil pontos sugere um sentimento de pessimismo no mercado acionário brasileiro. Se os fatores que causam essa aversão ao risco não forem mitigados, a tendência de baixa pode se estender.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786744871.6331506,
+    "titulo": "Ibovespa emenda 9ª queda seguida – e isso tem tudo a ver com os Estados Unidos",
+    "titulo_original": "Ibovespa emenda 9ª queda seguida – e isso tem tudo a ver com os Estados Unidos",
+    "fonte": "InvestNews",
+    "publicado": "14/08 15:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A sequência de quedas do Ibovespa, ligada a fatores nos EUA e à eleição brasileira, indica um cenário de aversão ao risco tanto no âmbito internacional quanto doméstico. Se a incerteza eleitoral brasileira persistir, a pressão sobre a bolsa pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786744871.6346626,
+    "titulo": "Ibovespa fecha em baixa de 0,1% e dólar comercial sobe 0,52% - Canal Rural",
+    "titulo_original": "Ibovespa fecha em baixa de 0,1% e dólar comercial sobe 0,52% - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 18:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A leve queda do Ibovespa e a alta do dólar indicam um dia de cautela no mercado brasileiro. Se essa tendência de valorização do dólar persistir, pode ser um reflexo de maior aversão ao risco ou de fluxos de capital saindo do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786744871.7720025,
+    "titulo": "Dólar ronda 5,25, após 4 altas, e Ibovespa cai 1% no 9º dia de queda - UOL Economia",
+    "titulo_original": "Dólar ronda 5,25, após 4 altas, e Ibovespa cai 1% no 9º dia de queda - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 15:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade da alta do dólar e a nona queda consecutiva do Ibovespa reforçam o cenário de forte aversão ao risco no Brasil. Se os fatores que impulsionam essa tendência não forem revertidos, o mercado pode continuar a precificar um prêmio de risco elevado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786744871.7736535,
+    "titulo": "investingLive Americas FX news wrap 14 Aug: Stocks finish mixed as yields rise and the dollar falls",
+    "titulo_original": "investingLive Americas FX news wrap 14 Aug: Stocks finish mixed as yields rise and the dollar falls",
+    "fonte": "ForexLive",
+    "publicado": "14/08 18:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nos rendimentos, combinada com a estabilidade do PIB e do mercado de trabalho, sugere um cenário de juros mais altos por mais tempo nos EUA. Se o dólar continuar em queda, isso pode indicar uma busca por ativos de maior risco no mercado global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786744871.7753084,
+    "titulo": "Bloqueio à função do Discord não é medida isolada e está previsto em lei, dizem ONGs",
+    "titulo_original": "Bloqueio à função do Discord não é medida isolada e está previsto em lei, dizem ONGs",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 18:39",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da ANPD, fundamentada em lei, estabelece um precedente para a regulação de plataformas digitais em casos de incidentes graves. Se outras plataformas apresentarem riscos semelhantes, é provável que medidas regulatórias mais amplas sejam consideradas.",
     "is_stocks": true
   }
 ]
