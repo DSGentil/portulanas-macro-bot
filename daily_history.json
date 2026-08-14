@@ -1242,5 +1242,132 @@
     "origem": "domestica",
     "leitura_critica": "A avaliação positiva do BBI sobre os resultados da JHSF e a consequente alta das ações indicam um bom desempenho da companhia no setor de luxo. Se a empresa continuar a apresentar resultados sólidos e a demanda por seus produtos e serviços se mantiver, as ações podem continuar a valorizar; a sustentabilidade desse desempenho dependerá do cenário econômico para o setor de luxo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786725952.5437357,
+    "titulo": "Dólar hoje vira para alta e ultrapassa R$ 5,20 com cautela sobre ativos brasileiros - InfoMoney",
+    "titulo_original": "Dólar hoje vira para alta e ultrapassa R$ 5,20 com cautela sobre ativos brasileiros - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 11:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar acima de R$ 5,20 reflete a aversão ao risco e a desconfiança do mercado em relação aos ativos brasileiros. Se os fatores que geram essa cautela persistirem, como incertezas políticas ou fiscais, o dólar pode continuar sua trajetória de alta; caso contrário, uma melhora no cenário pode levar à sua desvalorização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786725957.430315,
+    "titulo": "Boletim Cambial (14/08): Euro e Dólar PTAX - trademap.com.br",
+    "titulo_original": "Boletim Cambial (14/08): Euro e Dólar PTAX - trademap.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 13:28",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação do boletim cambial fornece dados sobre as taxas de câmbio e PTAX, que são influenciadas por fatores domésticos e internacionais. Se houver volatilidade significativa nas taxas de câmbio, isso pode indicar pressões sobre a política monetária e o fluxo de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786725962.2611187,
+    "titulo": "Dólar sobe e Bolsa cai nesta sexta com dados dos EUA e tensão no cenário doméstico",
+    "titulo_original": "Dólar sobe e Bolsa cai nesta sexta com dados dos EUA e tensão no cenário doméstico",
+    "fonte": "Folha Mercado",
+    "publicado": "14/08 10:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de dados econômicos dos EUA e a saída de capital estrangeiro do Brasil pressiona o dólar para cima e a bolsa para baixo. Se os dados americanos continuarem a indicar uma economia forte, isso pode sustentar a alta do dólar e a saída de capital de mercados emergentes; caso contrário, uma desaceleração nos EUA poderia reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786725967.1757135,
+    "titulo": "O cobre virou o termômetro do próximo tarifaço de Trump; entenda - Exame",
+    "titulo_original": "O cobre virou o termômetro do próximo tarifaço de Trump; entenda - Exame",
+    "fonte": "Google News Commodities",
+    "publicado": "14/08 10:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A relação entre o preço do cobre e as políticas tarifárias de Trump sugere que mudanças na política comercial dos EUA podem afetar commodities industriais. Se novas tarifas forem implementadas, o cobre pode sofrer volatilidade, impactando setores que o utilizam como insumo; caso contrário, a estabilidade do metal pode indicar um cenário comercial mais previsível.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786725973.96241,
+    "titulo": "Dólar e juros disparam e Ibovespa aprofunda queda com saída contínua de investidores estrangeiros",
+    "titulo_original": "Dólar e juros disparam e Ibovespa aprofunda queda com saída contínua de investidores estrangeiros",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 13:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída contínua de capital estrangeiro e a volatilidade nos juros e no câmbio indicam um cenário de aversão ao risco no mercado doméstico. Se a pesquisa eleitoral confirmar um cenário de maior incerteza, a pressão sobre os ativos brasileiros tende a se intensificar; caso contrário, uma definição mais clara poderia trazer alívio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786725973.9644551,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta defender os 166 mil pontos - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta defender os 166 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "14/08 10:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A dificuldade do Ibovespa em manter os níveis de preço reflete a cautela dos investidores e a busca por pontos de suporte. Se os fatores de pressão sobre o mercado persistirem, a bolsa pode testar níveis mais baixos; caso contrário, uma recuperação pode ocorrer se o cenário de incertezas diminuir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786725973.9664066,
+    "titulo": "Dólar sobe: B3 encerra semana volátil e moeda testa R$ 5,18 - istoedinheiro.com.br",
+    "titulo_original": "Dólar sobe: B3 encerra semana volátil e moeda testa R$ 5,18 - istoedinheiro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 09:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A volatilidade da B3 e a alta do dólar testando R$ 5,18 indicam um ambiente de incerteza no mercado brasileiro. Se os fatores que geram essa volatilidade persistirem, como tensões políticas ou fiscais, o dólar pode continuar sua trajetória de alta; caso contrário, uma melhora no cenário pode levar à sua desvalorização.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786725973.9683557,
+    "titulo": "Raízen descarta repetir lucro do 2° tri nos próximos meses",
+    "titulo_original": "Raízen descarta repetir lucro do 2° tri nos próximos meses",
+    "fonte": "Folha Mercado",
+    "publicado": "14/08 12:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade nos preços de commodities, como combustíveis, impacta diretamente os resultados de empresas do setor. Se o conflito no Irã se agravar, a pressão sobre os custos e a rentabilidade da Raízen pode persistir; se a situação geopolítica se estabilizar, a empresa pode ter mais previsibilidade em seus resultados futuros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786725973.9703112,
+    "titulo": "Braskem ganha fôlego com guerra, mas sobreoferta e dívida ainda pesam",
+    "titulo_original": "Braskem ganha fôlego com guerra, mas sobreoferta e dívida ainda pesam",
+    "fonte": "InvestNews",
+    "publicado": "14/08 10:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O cenário de preços de commodities, influenciado por eventos geopolíticos, trouxe um alívio temporário para a Braskem. Se a sobreoferta global e a concorrência chinesa se intensificarem, a empresa precisará de estratégias robustas para manter sua rentabilidade; caso contrário, a melhora de margens pode ser sustentada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786725973.97227,
+    "titulo": "Geração de caixa acima do esperado na Cyrela abre espaço para retorno ao acionista",
+    "titulo_original": "Geração de caixa acima do esperado na Cyrela abre espaço para retorno ao acionista",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 13:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte geração de caixa da Cyrela, acima do esperado, é um sinal positivo para a empresa e seus acionistas. Se a venda de ativos se concretizar nos valores esperados, a empresa poderá distribuir dividendos ou realizar recompra de ações, fortalecendo o retorno ao acionista; caso contrário, a não concretização pode impactar as expectativas.",
+    "is_stocks": true
   }
 ]
