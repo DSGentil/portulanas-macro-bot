@@ -1,119 +1,5 @@
 [
   {
-    "_timestamp": 1786620653.7618253,
-    "titulo": "Milho sobe com apoio do dólar e mercado externo",
-    "titulo_original": "Milho sobe com apoio do dólar e mercado externo - agrolink.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/08 07:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do milho, influenciada pelo dólar e pelo mercado externo, pode pressionar os custos para produtores e consumidores. Se o dólar continuar a se valorizar e a demanda externa por commodities agrícolas se mantiver forte, os preços do milho tendem a permanecer elevados; caso contrário, uma reversão desses fatores pode levar a uma queda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786620658.2181406,
-    "titulo": "Inflação na Espanha avança em julho com aumento dos preços gerais e centrais",
-    "titulo_original": "Spain inflation nudges higher in July as both headline and core prices push up",
-    "fonte": "ForexLive",
-    "publicado": "13/08 04:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento da inflação na Espanha, tanto no índice geral quanto no subjacente, sugere que as pressões de preços persistem na zona do euro, o que pode influenciar as decisões futuras do Banco Central Europeu (BCE). Se a inflação continuar a subir em outras economias da zona do euro, o BCE pode ser forçado a manter uma postura mais restritiva em relação aos juros; caso contrário, uma desaceleração pode permitir um alívio na política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786620662.7940967,
-    "titulo": "Bitcoin mantém-se abaixo de US$ 64 mil com CPI dos EUA em linha, fornecendo pouco suporte",
-    "titulo_original": "Bitcoin holds below $64k as in-line U.S. CPI provides little support",
-    "fonte": "Investing.com",
-    "publicado": "13/08 04:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A estabilidade do Bitcoin abaixo de um patamar chave sugere que o mercado de criptomoedas pode estar aguardando um catalisador mais forte para um movimento direcional. Se os próximos dados de inflação dos EUA vierem abaixo do esperado, isso poderia criar um ambiente mais favorável para ativos de risco como o Bitcoin; caso contrário, a pressão vendedora pode aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786620667.3052971,
-    "titulo": "Tarifas de Trump fazem empresas canadenses considerar mudança para os EUA",
-    "titulo_original": "Tarifas de Trump fazem empresas canadenses considerar mudança para os EUA - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "13/08 04:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A imposição de tarifas por parte dos EUA pode levar a uma realocação de negócios, impactando a competitividade e as cadeias de suprimentos. Se mais empresas canadenses optarem por se mudar para os EUA, isso pode fortalecer a economia americana em detrimento da canadense; o contrário ocorreria se as tarifas fossem revertidas ou mitigadas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786620673.2066684,
-    "titulo": "Ibovespa perde 6% em agosto com fuga de estrangeiros: ouça os destaques do dia",
-    "titulo_original": "Ibovespa perde 6% em agosto com fuga de estrangeiros: ouça os destaques do dia - Canal Rural",
-    "fonte": "Google News Acoes",
-    "publicado": "13/08 05:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A saída de capital estrangeiro é um sinal de aversão ao risco no mercado brasileiro, impactando diretamente o desempenho do Ibovespa. Se os investidores estrangeiros retomarem a confiança no Brasil, o fluxo de capital pode se reverter e impulsionar a bolsa; caso contrário, a fuga de capitais pode persistir, mantendo o índice sob pressão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786620673.2080336,
-    "titulo": "Dow Jones Futuro sobe com redução das apostas em alta da taxa de juros pelo Fed",
-    "titulo_original": "Dow Jones Futuro sobe com redução das apostas em alta da taxa de juros pelo Fed - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/08 05:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A diminuição das expectativas de alta de juros pelo Fed é um sinal positivo para os mercados de risco, pois reduz o custo de capital e aumenta o apetite por investimentos. Se o Fed realmente sinalizar uma pausa ou corte nas taxas de juros, isso pode sustentar a alta do Dow Jones e outros índices; caso contrário, qualquer indicação de aperto monetário adicional pode reverter esse movimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786620673.2098465,
-    "titulo": "Mercado de Ações Hoje: IA lidera até agora esta semana, mas Cisco pode esfriar as coisas",
-    "titulo_original": "Stock Market Today: AI lead so far this week but Cisco may cool things down",
-    "fonte": "ForexLive",
-    "publicado": "13/08 06:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte performance das ações ligadas à IA sugere um otimismo contínuo dos investidores nesse setor, mas a volatilidade em empresas como a Cisco demonstra que os resultados corporativos específicos ainda podem gerar movimentos bruscos. Se a tendência de alta das ações de IA se mantiver, o mercado pode continuar a priorizar esse segmento; caso contrário, a desaceleração em empresas-chave pode levar a uma correção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786620673.2112515,
-    "titulo": "Nvidia apela a Wall Street para vender seus chips para clientes que não têm o ‘bolso fundo’ como big techs",
-    "titulo_original": "Nvidia apela a Wall Street para vender seus chips para clientes que não têm o ‘bolso fundo’ como big techs",
-    "fonte": "InvestNews",
-    "publicado": "13/08 06:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A estratégia da Nvidia de democratizar o acesso aos seus chips pode impulsionar a adoção de IA em um espectro mais amplo de empresas, mas também levanta questões sobre a estabilidade financeira se os chips forem usados como garantia. Se essa nova abordagem for bem-sucedida, pode criar um novo segmento de mercado; se as preocupações dos críticos se materializarem, pode haver instabilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786620673.2125118,
-    "titulo": "Ibovespa hoje: agenda de balanços, com destaque para BB, e queda do petróleo guiam mercado",
-    "titulo_original": "Ibovespa hoje: agenda de balanços, com destaque para BB, e queda do petróleo guiam mercado - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "13/08 07:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A combinação de resultados corporativos e a volatilidade nos preços do petróleo cria um cenário misto para o Ibovespa. Se os balanços das empresas, especialmente do BB, vierem acima das expectativas, isso pode impulsionar o índice; caso contrário, a queda do petróleo pode continuar a pressionar o mercado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786626942.578345,
     "titulo": "STF valida moratória da soja, mas mantém restrições com “ideia de equilíbrio” de Dino",
     "titulo_original": "STF valida moratória da soja, mas mantém restrições com “ideia de equilíbrio” de Dino - gazetadopovo.com.br",
@@ -1368,6 +1254,97 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A forte geração de caixa da Cyrela, acima do esperado, é um sinal positivo para a empresa e seus acionistas. Se a venda de ativos se concretizar nos valores esperados, a empresa poderá distribuir dividendos ou realizar recompra de ações, fortalecendo o retorno ao acionista; caso contrário, a não concretização pode impactar as expectativas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786732242.1134708,
+    "titulo": "FGC: Simpala tem 21 mil credores com depósitos elegíveis ao pagamento da garantia, que somam R$ 622 milhões",
+    "titulo_original": "FGC: Simpala tem 21 mil credores com depósitos elegíveis ao pagamento da garantia, que somam R$ 622 milhões",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 13:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A liquidação da financeira Simpala pelo Banco Central e o subsequente pagamento de garantias pelo FGC indicam uma ação regulatória concreta. Se o processo de levantamento de dados dos credores for ágil, os pagamentos poderão ser iniciados rapidamente, mitigando perdas para os depositantes elegíveis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786732246.868433,
+    "titulo": "Ouro sobe apoiado por demanda de BCs e política monetária estável do Fed",
+    "titulo_original": "Ouro sobe apoiado por demanda de BCs e política monetária estável do Fed",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 15:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A demanda contínua de bancos centrais por ouro, visando reduzir a exposição ao dólar, sugere um suporte de longo prazo para os preços. Se o Fed suavizar seu discurso mais agressivo, a demanda por investimentos em ouro pode se recuperar, o que tenderia a sustentar a alta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786732251.6760263,
+    "titulo": "Dados de inflação mais moderados podem forçar Fed dividido a manter juros",
+    "titulo_original": "Dados de inflação mais moderados podem forçar Fed dividido a manter juros - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de dados de inflação mais moderados forçar um Fed dividido a manter os juros sugere que a decisão de política monetária pode se tornar mais complexa. Se a inflação continuar em trajetória descendente, mas com divergências internas no Fed, a comunicação do banco central se torna crucial para guiar as expectativas do mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786732256.4175117,
+    "titulo": "Bolsas da Europa caem com dados de atividade da zona do euro e Oriente Médio no radar",
+    "titulo_original": "Bolsas da Europa caem com dados de atividade da zona do euro e Oriente Médio no radar",
+    "fonte": "Money Times",
+    "publicado": "14/08 14:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A combinação de dados de atividade econômica fracos na zona do euro e o aumento das tensões geopolíticas no Oriente Médio criam um cenário de aversão ao risco. Se as tensões no Oriente Médio se intensificarem, isso pode pressionar ainda mais os mercados globais e impactar o preço do petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786732262.2710779,
+    "titulo": "Yduqs tem 2º trimestre sem surpresas e transfere foco para geração de caixa neste semestre",
+    "titulo_original": "Yduqs tem 2º trimestre sem surpresas e transfere foco para geração de caixa neste semestre",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 14:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Apesar de os resultados terem ficado ligeiramente aquém das expectativas, a recomendação de compra do Itaú BBA com preço-alvo em R$ 16 sugere que o mercado já precificava um cenário de baixa e espera melhorias. Se a geração de caixa esperada se concretizar, as ações podem apresentar valorização.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786732262.2731369,
+    "titulo": "Bolsas da Europa fecham majoritariamente em queda com realização de lucros",
+    "titulo_original": "Bolsas da Europa fecham majoritariamente em queda com realização de lucros",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 13:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A realização de lucros após uma forte temporada de balanços sugere uma pausa na tendência de alta. Se a volatilidade nos preços do petróleo persistir devido ao impasse no Estreito de Ormuz, isso pode continuar a conter o desempenho dos mercados acionários.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786732262.2751777,
+    "titulo": "Dow Jones hoje: Bolsas de NY recuam pressionadas por ações de tech e saúde; petróleo fica no radar",
+    "titulo_original": "Dow Jones hoje: Bolsas de NY recuam pressionadas por ações de tech e saúde; petróleo fica no radar - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 13:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A pressão sobre as ações de tecnologia e saúde, juntamente com a atenção voltada para o petróleo, indica um cenário de cautela nos mercados americanos. Se os preços do petróleo continuarem voláteis devido a tensões geopolíticas, isso pode aumentar a aversão ao risco e impactar negativamente o desempenho das bolsas.",
     "is_stocks": true
   }
 ]
