@@ -1116,5 +1116,131 @@
     "origem": "externa",
     "leitura_critica": "O recorde das ações americanas, apesar de positivo, vem acompanhado de sinais de alerta como a alta do petróleo e a qualidade dos lucros corporativos. Se os preços do petróleo continuarem a subir, pode reavivar preocupações com a inflação e pressionar o mercado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786720546.3077655,
+    "titulo": "Varejo e vagas temporárias impulsionaram confiança no emprego em julho, diz FGV",
+    "titulo_original": "Varejo e vagas temporárias impulsionaram confiança no emprego em julho, diz FGV",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 11:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da confiança no emprego, impulsionado pelo varejo e vagas temporárias, sugere uma melhora no mercado de trabalho. Se essa tendência se mantiver e a geração de empregos formais continuar, isso pode impulsionar o consumo; caso contrário, a sazonalidade das vagas temporárias pode mascarar fragilidades.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786720550.2891889,
+    "titulo": "Selic mais baixa: Citi revisa projeção para 2026 e aposta em novas quedas de juros no próximo ano; confira",
+    "titulo_original": "Selic mais baixa: Citi revisa projeção para 2026 e aposta em novas quedas de juros no próximo ano; confira - Money Times",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 12:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão do Citi para a Selic, com aposta em novas quedas de juros, sugere uma perspectiva de afrouxamento monetário. Se a inflação continuar sob controle e o cenário econômico permitir, o Banco Central pode de fato iniciar um ciclo de cortes; caso contrário, a manutenção da taxa de juros ou mesmo um aumento podem ser considerados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786720554.2148983,
+    "titulo": "É uma 'grande injustiça' dizer que governo federal está inerte no caso do BRB, diz Durigan",
+    "titulo_original": "É uma 'grande injustiça' dizer que governo federal está inerte no caso do BRB, diz Durigan",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 11:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro busca defender a atuação do governo em um caso específico de um banco distrital. Se o empréstimo com o FGC for aprovado, isso pode aliviar a pressão sobre o BRB; caso contrário, a situação de liquidez pode se agravar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786720558.1640375,
+    "titulo": "Durigan prepara nova rodada de reuniões na Faria Lima para acalmar investidores",
+    "titulo_original": "Durigan prepara nova rodada de reuniões na Faria Lima para acalmar investidores",
+    "fonte": "Valor Economico",
+    "publicado": "14/08 11:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "As reuniões de Durigan na Faria Lima visam acalmar investidores preocupados com a política fiscal e a sustentabilidade das contas públicas. Se o ministro conseguir transmitir mensagens de confiança e apresentar planos concretos, isso pode melhorar o sentimento do mercado; caso contrário, a fuga de investidores pode continuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786720564.221004,
+    "titulo": "Nubank dribla calotes, dá mais empréstimos e ações sobem mais de 10%",
+    "titulo_original": "Nubank dribla calotes, dá mais empréstimos e ações sobem mais de 10%",
+    "fonte": "Folha Mercado",
+    "publicado": "14/08 12:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estratégia do Nubank de aumentar empréstimos e, ao mesmo tempo, reduzir o risco da carteira surpreendeu positivamente o mercado. Se essa tendência de controle de inadimplência se mantiver, o banco pode continuar a apresentar bons resultados; caso contrário, a alta dos calotes pode voltar a pressionar a rentabilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786720564.2229962,
+    "titulo": "Ações do Nubank saltam após lucro recorde",
+    "titulo_original": "Ações do Nubank saltam após lucro recorde - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "14/08 08:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O lucro recorde do Nubank impulsionou suas ações, demonstrando a força do banco em um cenário de alta inadimplência. Se a gestão de risco e a expansão da carteira de crédito continuarem eficientes, o banco pode manter essa trajetória de crescimento; a sustentabilidade desse lucro dependerá da capacidade de controlar a inadimplência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786720564.2248538,
+    "titulo": "‘Isso é disciplina’: CEO da Azul (AZUL3) explica corte de capacidade em meio à alta dos combustíveis; ações recuam após 2T26",
+    "titulo_original": "‘Isso é disciplina’: CEO da Azul (AZUL3) explica corte de capacidade em meio à alta dos combustíveis; ações recuam após 2T26",
+    "fonte": "Money Times",
+    "publicado": "14/08 12:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O prejuízo da Azul no 2T26, em meio à alta dos combustíveis, levou a um corte de capacidade. Se os custos de combustível continuarem elevados e a demanda por viagens aéreas não se recuperar significativamente, a companhia pode enfrentar dificuldades para reverter o quadro de prejuízo. A disciplina de corte de custos pode ser crucial para a sustentabilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786720564.2266858,
+    "titulo": "O que está por trás dos ETFs mais rentáveis da B3? Tecnologia e Brasil explicam os destaques",
+    "titulo_original": "O que está por trás dos ETFs mais rentáveis da B3? Tecnologia e Brasil explicam os destaques - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "14/08 07:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho de ETFs ligados a tecnologia e ao mercado brasileiro sugere um interesse renovado nesses setores. Se a tendência de crescimento em tecnologia se mantiver e o cenário macroeconômico brasileiro for favorável, esses ETFs podem continuar a apresentar bons retornos; a diversificação em Brasil pode ser um fator chave.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786720564.228568,
+    "titulo": "Dividendos acima da Selic? Rico indica as ações para renda passiva que superam os juros, mas faz um alerta",
+    "titulo_original": "Dividendos acima da Selic? Rico indica as ações para renda passiva que superam os juros, mas faz um alerta - seudinheiro.com",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/08 11:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A sugestão de ações com dividendos superiores à Selic pode ser atraente para investidores em busca de renda passiva. Se as empresas selecionadas mantiverem seus pagamentos de dividendos e o cenário de juros baixos se confirmar, essa estratégia pode ser eficaz; no entanto, o alerta da Rico sugere que os riscos de mercado devem ser considerados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786720564.2304513,
+    "titulo": "JHSF (JHSF3): BBI vê 2T26 ‘positivo’ e reforça recomendação para ação, que sobe hoje",
+    "titulo_original": "JHSF (JHSF3): BBI vê 2T26 ‘positivo’ e reforça recomendação para ação, que sobe hoje",
+    "fonte": "Money Times",
+    "publicado": "14/08 12:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação positiva do BBI sobre os resultados da JHSF e a consequente alta das ações indicam um bom desempenho da companhia no setor de luxo. Se a empresa continuar a apresentar resultados sólidos e a demanda por seus produtos e serviços se mantiver, as ações podem continuar a valorizar; a sustentabilidade desse desempenho dependerá do cenário econômico para o setor de luxo.",
+    "is_stocks": true
   }
 ]
