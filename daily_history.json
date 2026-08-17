@@ -309,5 +309,143 @@
     "origem": "domestica",
     "leitura_critica": "A colocação da ação do Banco do Brasil em 'observação de catalisador negativo' pelo Citi, com redução de projeções, indica preocupações com a qualidade dos ativos e a capacidade da empresa de atingir suas metas. Se os desafios operacionais persistirem, isso pode impactar negativamente o desempenho da ação. Acompanhar a evolução da qualidade dos ativos e do 'guidance' do BB será crucial para avaliar o futuro da empresa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786985141.3159554,
+    "titulo": "Ações da Casas Bahia desabam até 36% após pedido de recuperação judicial",
+    "titulo_original": "Ações da Casas Bahia desabam até 36% após pedido de recuperação judicial",
+    "fonte": "Folha Mercado",
+    "publicado": "17/08 13:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O pedido de recuperação judicial da Casas Bahia representa um evento de alta relevância para o mercado acionário, indicando dificuldades financeiras severas. Se a empresa não conseguir reestruturar suas dívidas, a continuidade de suas operações pode ser seriamente comprometida. A magnitude da queda nas ações reflete a percepção de risco elevada por parte dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786985144.9160204,
+    "titulo": "Ações da Casas Bahia despencam na Bolsa e passam de mais de R$ 400 para centavos em cinco anos",
+    "titulo_original": "Ações da Casas Bahia despencam na Bolsa e passam de mais de R$ 400 para centavos em cinco anos - G1",
+    "fonte": "Google News Acoes",
+    "publicado": "17/08 10:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada das ações da Casas Bahia, de valores expressivos para centavos, evidencia uma deterioração severa da situação financeira da empresa. Se a recuperação judicial não for bem-sucedida, o valor para os acionistas pode se tornar nulo. A notícia reforça a gravidade do evento de recuperação judicial já reportado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786985148.442942,
+    "titulo": "Crescimento da economia brasileira desacelera no 2º tri com retração em junho, diz BC",
+    "titulo_original": "Crescimento da economia brasileira desacelera no 2º tri com retração em junho, diz BC",
+    "fonte": "Folha Mercado",
+    "publicado": "17/08 13:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração do crescimento econômico brasileiro no segundo trimestre, com retração em junho, sugere um cenário de menor dinamismo na atividade. Se essa tendência de desaceleração se confirmar nos próximos trimestres, pode haver pressão por medidas de estímulo econômico. A notícia indica que o resultado é conforme o esperado, o que pode mitigar surpresas no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786985152.010116,
+    "titulo": "Governo tem intensas rodadas de conversas sobre proposta de mudanças no MCMV, diz secretário",
+    "titulo_original": "Governo tem intensas rodadas de conversas sobre proposta de mudanças no MCMV, diz secretário",
+    "fonte": "Money Times",
+    "publicado": "17/08 12:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre cortes de juros no Minha Casa, Minha Vida pode sinalizar uma intenção do governo em estimular o setor imobiliário. Se essas medidas forem implementadas, podem gerar um impacto positivo na atividade econômica. A ausência de definição, no entanto, mantém a incerteza sobre a magnitude e o momento desses possíveis estímulos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786985156.8020852,
+    "titulo": "Exclusivo: Petrobras propõe a credores alternativa para dar fôlego à Braskem, dizem fontes",
+    "titulo_original": "Exclusivo: Petrobras propõe a credores alternativa para dar fôlego à Braskem, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 13:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A proposta da Petrobras pode ser um passo importante para a reestruturação da Braskem. Se os credores aceitarem a alternativa, isso pode sinalizar uma melhora na saúde financeira da petroquímica. Caso contrário, a recuperação extrajudicial pode enfrentar mais obstáculos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786985156.8028975,
+    "titulo": "Ações europeias fecham majoritariamente em baixa com alta dos rendimentos",
+    "titulo_original": "European stocks close mostly lower as yields rise",
+    "fonte": "ForexLive",
+    "publicado": "17/08 13:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nos rendimentos de títulos na Europa sugere um cenário de juros mais elevados, o que tende a pressionar o mercado acionário. Se essa tendência de alta nos rendimentos persistir, pode haver uma migração de capital da renda variável para a renda fixa. A variação mista dos índices acionários indica que outros fatores também influenciam o desempenho local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786985156.8036158,
+    "titulo": "Dólar opera em queda, após pesquisa eleitoral e de olho no varejo brasileiro; Ibovespa oscila",
+    "titulo_original": "Dólar opera em queda, após pesquisa eleitoral e de olho no varejo brasileiro; Ibovespa oscila - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 09:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar pode ser interpretada como um reflexo de maior confiança no cenário doméstico, possivelmente impulsionada por pesquisas eleitorais. A oscilação do Ibovespa sugere um mercado cauteloso, aguardando mais clareza sobre os desdobramentos econômicos e políticos. Se as pesquisas eleitorais continuarem a indicar um cenário favorável, o dólar pode manter a tendência de queda.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786985156.804363,
+    "titulo": "Petrobras estima começar a extrair petróleo da Margem Equatorial em 7 anos",
+    "titulo_original": "Petrobras estima começar a extrair petróleo da Margem Equatorial em 7 anos - CNN Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "17/08 12:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estimativa de início da extração de petróleo na Margem Equatorial em 7 anos indica um projeto de longo prazo para a Petrobras. Se o cronograma for cumprido, isso pode representar um aumento significativo na produção futura da empresa. A notícia, por si só, não detalha impactos imediatos nos canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786985156.805122,
+    "titulo": "Governo de Goiás seleciona gestor para fundo imobiliário que agregará imóveis públicos em carteira",
+    "titulo_original": "Governo de Goiás seleciona gestor para fundo imobiliário que agregará imóveis públicos em carteira",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 13:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A criação de um fundo imobiliário pelo governo de Goiás, com potencial de VGV de R$ 12,3 bilhões, pode injetar liquidez no mercado imobiliário local e atrair investimentos. Se o modelo for bem-sucedido, pode servir de exemplo para outros estados. A notícia não conecta diretamente com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital em nível nacional.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786985156.8058555,
+    "titulo": "AVISO DE PAUTA: Entrevista coletiva sobre descoberta da Petrobras em águas profundas do Amapá",
+    "titulo_original": "AVISO DE PAUTA: Entrevista coletiva sobre descoberta da Petrobras em águas profundas do Amapá - Agência Petrobras de Notícias",
+    "fonte": "Google News Acoes",
+    "publicado": "17/08 12:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A entrevista coletiva sobre a descoberta de petróleo pela Petrobras no Amapá pode trazer detalhes importantes sobre o potencial de produção e os investimentos futuros. Se a descoberta for significativa, pode impactar positivamente a produção de petróleo do Brasil. A relevância dependerá do conteúdo divulgado na coletiva.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786985156.8065953,
+    "titulo": "Brasil continua absolutamente central para estratégia do Santander, diz Ana Botín",
+    "titulo_original": "Brasil continua absolutamente central para estratégia do Santander, diz Ana Botín",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 13:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Ana Botín reforça a importância estratégica do Brasil para o Santander, indicando continuidade de investimentos e operações. Se o Santander concretizar a aquisição total da subsidiária brasileira, isso pode sinalizar uma consolidação e um compromisso de longo prazo com o mercado local. A notícia não se conecta diretamente com os canais de juros, inflação, atividade/emprego ou decisão fiscal/regulatória.",
+    "is_stocks": true
   }
 ]
