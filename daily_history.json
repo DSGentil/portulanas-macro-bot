@@ -75,5 +75,131 @@
     "origem": "domestica",
     "leitura_critica": "A previsão de produção de petróleo em águas ultraprofundas no Amapá em até sete anos indica um horizonte de longo prazo para o desenvolvimento de novas reservas. Se concretizada, essa produção pode impactar a oferta futura de petróleo e a balança comercial brasileira.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786966245.5908537,
+    "titulo": "Petróleo e soja elevam otimismo para superávit comercial - Valor Econômico",
+    "titulo_original": "Petróleo e soja elevam otimismo para superávit comercial - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "17/08 05:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do petróleo e da soja pode impulsionar o superávit comercial brasileiro, o que seria positivo para a balança de pagamentos. Se esses preços de commodities se mantiverem elevados, o impacto na arrecadação e nas exportações pode ser significativo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786966249.0900545,
+    "titulo": "Ouro sobe e se aproxima de US$ 4.400 com dólar fraco e incerteza no Oriente Médio - ADVFN",
+    "titulo_original": "Ouro sobe e se aproxima de US$ 4.400 com dólar fraco e incerteza no Oriente Médio - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 07:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do ouro, associada à fraqueza do dólar e à incerteza geopolítica no Oriente Médio, reforça o papel do metal como ativo de refúgio. Se a tensão na região aumentar ou se o dólar continuar a se depreciar, o ouro pode manter sua trajetória ascendente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786966252.53613,
+    "titulo": "Banco Central Europeu: Correção no mercado de inteligência artificial (IA) está por vir",
+    "titulo_original": "Banco Central Europeu: Correção no mercado de inteligência artificial (IA) está por vir",
+    "fonte": "Money Times",
+    "publicado": "17/08 08:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A advertência do BCE sobre uma correção no mercado de IA nos EUA, citando limitações fiscais e monetárias, sugere que o banco central europeu pode estar antecipando um cenário de menor liquidez ou maior custo de capital. Se essa correção se materializar, pode afetar fluxos de capital globais e a precificação de ativos de tecnologia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786966256.1338103,
+    "titulo": "Escritório de estatísticas da China diz que atividade econômica de julho foi afetada por condições climáticas extremas, entre outros fatores",
+    "titulo_original": "China stats bureau says July economic activity affected by extreme weather conditions, among other factors",
+    "fonte": "ForexLive",
+    "publicado": "17/08 04:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Os dados econômicos de julho na China, afetados por clima extremo e incertezas, indicam um cenário desafiador para a recuperação. A promessa de ajustes de política contracíclica e expansão da demanda doméstica sugere que o governo chinês buscará medidas para estimular a economia, cujos efeitos dependerão da eficácia e do timing.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786966261.2167873,
+    "titulo": "Agenda de empresas: Casas Bahia entra com pedido de recuperação judicial; Cosan tem prejuízo de R$ 320 milhões",
+    "titulo_original": "Agenda de empresas: Casas Bahia entra com pedido de recuperação judicial; Cosan tem prejuízo de R$ 320 milhões",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 08:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O pedido de recuperação judicial da Casas Bahia, com um passivo expressivo, sinaliza dificuldades financeiras significativas que podem ter repercussões no setor varejista. O prejuízo da Cosan, embora relevante, precisa ser avaliado em conjunto com os demais resultados do grupo para determinar seu impacto setorial.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786966261.2171683,
+    "titulo": "Mercado reabre com dólar no maior nível em 5 meses e 9 quedas do Ibovespa - UOL Economia",
+    "titulo_original": "Mercado reabre com dólar no maior nível em 5 meses e 9 quedas do Ibovespa - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 05:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar e as sucessivas quedas do Ibovespa indicam um cenário de aversão ao risco no mercado doméstico. Se essa tendência de desvalorização do real e queda da bolsa persistir, pode refletir preocupações com o cenário econômico ou fiscal do Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786966261.217611,
+    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "17/08 07:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento em tempo real dos movimentos da Bolsa, Dólar e Juros é fundamental para entender a dinâmica do mercado financeiro brasileiro. A interconexão entre esses ativos sugere que fatores como política monetária, fluxo de capital e cenário macroeconômico estão em constante influência mútua.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786966261.2181127,
+    "titulo": "Ibovespa tem 9 quedas seguidas; mas afinal, o que isso significa? - Canal Rural",
+    "titulo_original": "Ibovespa tem 9 quedas seguidas; mas afinal, o que isso significa? - Canal Rural",
+    "fonte": "Google News Acoes",
+    "publicado": "17/08 05:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A sequência de 9 quedas no Ibovespa sugere uma pressão vendedora contínua no mercado acionário brasileiro. A análise do que significa essa queda pode envolver fatores internos e externos que afetam a confiança dos investidores e a precificação dos ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786966261.2185204,
+    "titulo": "Day Trade hoje (17): Ibovespa acumula 9 quedas; há espaço para repique? - InfoMoney",
+    "titulo_original": "Day Trade hoje (17): Ibovespa acumula 9 quedas; há espaço para repique? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "17/08 07:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A persistência das quedas no Ibovespa levanta a questão sobre a possibilidade de um repique. A análise desse cenário dependerá da reversão dos fatores que têm pressionado o mercado, como a força do dólar e a aversão ao risco, ou de novos catalisadores positivos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786966261.2190294,
+    "titulo": "Bolsas da Ásia fecham em alta, lideradas por ações chinesas; petróleo segue no radar",
+    "titulo_original": "Bolsas da Ásia fecham em alta, lideradas por ações chinesas; petróleo segue no radar",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O fechamento em alta das bolsas asiáticas, impulsionado pela China, sugere um certo otimismo no mercado oriental, contrastando com a volatilidade em outros mercados. A atenção contínua ao petróleo indica que as tensões geopolíticas no Golfo ainda são um fator de risco relevante para os mercados globais.",
+    "is_stocks": true
   }
 ]
