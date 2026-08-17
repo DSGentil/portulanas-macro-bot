@@ -700,5 +700,73 @@
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa e do dólar, com menção a Casas Bahia e Boletim Focus, indica um cenário de cautela no mercado. A recuperação judicial da Casas Bahia é um evento específico que pode gerar volatilidade. O Boletim Focus, ao apresentar as expectativas do mercado, pode influenciar a percepção sobre juros e inflação.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787009442.6173275,
+    "titulo": "Juros futuros recuam com correção, mas exterior limita queda",
+    "titulo_original": "Juros futuros recuam com correção, mas exterior limita queda",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 17:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda nos juros futuros locais, apesar da correção, sugere que o estresse recente com a saída de capital estrangeiro ainda impacta o mercado. A pressão externa, especialmente a alta do petróleo e os juros nos EUA, continuará a ser um fator limitante para uma queda mais acentuada dos juros no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787009446.9815633,
+    "titulo": "Bessent tentou, mas não impediu que o Japão afetasse os Treasuries",
+    "titulo_original": "Bessent tentou, mas não impediu que o Japão afetasse os Treasuries",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 19:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A persistência da pressão sobre os juros de longo prazo globais, evidenciada pela alta dos Treasuries, pode continuar a limitar a queda dos juros futuros no Brasil. Se o cenário externo de juros elevados se mantiver, o fluxo de capital para mercados emergentes pode ser retraído.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787009452.7130492,
+    "titulo": "CVM processa presidente do BB por declarações ‘excessivamente otimistas’",
+    "titulo_original": "CVM processa presidente do BB por declarações ‘excessivamente otimistas’",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 20:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A instauração do processo pela CVM pode gerar cautela em declarações futuras de executivos de empresas de capital aberto. Se o Banco do Brasil for penalizado, isso pode reforçar a necessidade de precisão e moderação em comunicações com o mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787009452.7138174,
+    "titulo": "Aperto no crédito pressiona FIIs de imóveis residenciais de médio e alto padrão",
+    "titulo_original": "Aperto no crédito pressiona FIIs de imóveis residenciais de médio e alto padrão",
+    "fonte": "InvestNews",
+    "publicado": "17/08 16:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aperto no crédito pode levar a uma desvalorização dos FIIs de imóveis residenciais de médio e alto padrão. Se a demanda continuar fraca e o crédito restrito, os rendimentos desses fundos podem ser afetados, exigindo uma análise mais criteriosa por parte dos investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787009452.7216146,
+    "titulo": "'Maldição do petróleo' ainda pesa sobre a Guiana 7 anos após megadescoberta em área próxima à Margem Equatorial - O GLOBO",
+    "titulo_original": "'Maldição do petróleo' ainda pesa sobre a Guiana 7 anos após megadescoberta em área próxima à Margem Equatorial - O GLOBO",
+    "fonte": "Google News Commodities",
+    "publicado": "17/08 17:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A situação da Guiana, mesmo após uma megadescoberta de petróleo, serve como um alerta sobre os desafios da gestão de recursos naturais. Se o Brasil avançar na exploração da Margem Equatorial, é crucial aprender com os exemplos de outros países para evitar armadilhas econômicas e sociais.",
+    "is_stocks": true
   }
 ]
