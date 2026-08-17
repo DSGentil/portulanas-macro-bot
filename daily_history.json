@@ -530,5 +530,73 @@
     "origem": "domestica",
     "leitura_critica": "A declaração de Alckmin sobre a responsabilidade compartilhada pelo ajuste fiscal pode indicar uma busca por maior colaboração entre os poderes para atingir metas fiscais. Se essa visão se traduzir em ações concretas que envolvam o Legislativo, isso pode fortalecer a credibilidade do plano fiscal; caso contrário, pode ser vista como retórica sem impacto prático.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786998657.1143897,
+    "titulo": "Sangria na bolsa: 80% dos fundos de ações rendem menos do que a poupança em 2026",
+    "titulo_original": "Sangria na bolsa: 80% dos fundos de ações rendem menos do que a poupança em 2026",
+    "fonte": "InvestNews",
+    "publicado": "17/08 16:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O baixo desempenho dos fundos de ações em comparação com a poupança, associado à fuga de capital estrangeiro, indica um cenário de aversão ao risco no mercado brasileiro. Se o fluxo de capital estrangeiro não retornar, a bolsa pode continuar sob pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786998661.5491712,
+    "titulo": "investingLive Americas FX news wrap 17 Aug",
+    "titulo_original": "investingLive Americas FX news wrap 17 Aug",
+    "fonte": "ForexLive",
+    "publicado": "17/08 17:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A inflação no Canadá acima do esperado e o forte índice de manufatura nos EUA podem indicar pressões inflacionárias persistentes, o que sugere que o Fed pode manter uma postura mais restritiva em relação aos juros. Se os dados de inflação futuros continuarem elevados, os rendimentos dos títulos de longo prazo podem permanecer em patamares altos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786998666.049648,
+    "titulo": "Petróleo sobe mais de 3% e volta a ficar acima de US$ 90 com ameaças entre EUA e Irã - Folha de S.Paulo",
+    "titulo_original": "Petróleo sobe mais de 3% e volta a ficar acima de US$ 90 com ameaças entre EUA e Irã - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "17/08 16:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tensões entre EUA e Irã tem um impacto direto nos preços do petróleo, elevando a referência internacional. Se as hostilidades se intensificarem, o preço do barril pode continuar a subir, impactando custos de energia globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786998671.1645923,
+    "titulo": "Petróleo começa semana em alta e barril supera US$ 90 com temor de escalada das tensões no Oriente Médio",
+    "titulo_original": "Petróleo começa semana em alta e barril supera US$ 90 com temor de escalada das tensões no Oriente Médio",
+    "fonte": "Money Times",
+    "publicado": "17/08 17:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O receio de uma escalada de tensões no Oriente Médio é o principal motor da alta do petróleo. Se o cenário geopolítico se agravar, a tendência de alta nos preços do barril tende a se manter, afetando a inflação e os custos de produção em diversos setores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786998675.597377,
+    "titulo": "Ouro sobe com menor aposta de alta de juros do Fed e dólar mais fraco - Valor Econômico",
+    "titulo_original": "Ouro sobe com menor aposta de alta de juros do Fed e dólar mais fraco - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 15:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A expectativa de que o Fed possa não aumentar mais os juros torna o ouro um ativo mais atrativo, especialmente com um dólar mais fraco. Se o Fed sinalizar o fim do ciclo de alta de juros, o ouro pode continuar sua trajetória de valorização.",
+    "is_stocks": false
   }
 ]
