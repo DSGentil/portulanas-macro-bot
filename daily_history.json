@@ -447,5 +447,88 @@
     "origem": "domestica",
     "leitura_critica": "A declaração de Ana Botín reforça a importância estratégica do Brasil para o Santander, indicando continuidade de investimentos e operações. Se o Santander concretizar a aquisição total da subsidiária brasileira, isso pode sinalizar uma consolidação e um compromisso de longo prazo com o mercado local. A notícia não se conecta diretamente com os canais de juros, inflação, atividade/emprego ou decisão fiscal/regulatória.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786991444.3130858,
+    "titulo": "Com Selic em 13,75%, juros futuros sobem nesta manhã (17); entenda",
+    "titulo_original": "Com Selic em 13,75%, juros futuros sobem nesta manhã (17); entenda - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 11:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta dos juros futuros, com a Selic em 13,75%, sugere que o mercado precifica uma manutenção do cenário de juros elevados por mais tempo ou até mesmo um viés de alta. Se a próxima ata do Copom confirmar um tom mais cauteloso, isso pode sustentar essa tendência; se houver sinais de flexibilização antecipada, a curva de juros pode se ajustar rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786991447.8119836,
+    "titulo": "Galípolo: Selic deve seguir restritiva para reequilibrar oferta e demanda",
+    "titulo_original": "Galípolo: Selic deve seguir restritiva para reequilibrar oferta e demanda - Money Times",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 14:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Galípolo reforça a visão de que o Banco Central manterá uma postura restritiva na política monetária para controlar a inflação. Se o reequilíbrio entre oferta e demanda ocorrer de forma mais lenta do que o esperado, isso pode justificar a manutenção de juros altos por um período prolongado; se a oferta se ajustar rapidamente, pode abrir espaço para flexibilização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786991451.2620785,
+    "titulo": "Fim da isenção das LCIs ameaça disparar juros e travar o mercado imobiliário, dizem bancos",
+    "titulo_original": "Fim da isenção das LCIs ameaça disparar juros e travar o mercado imobiliário, dizem bancos",
+    "fonte": "Money Times",
+    "publicado": "17/08 14:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A potencial tributação das LCIs e LCAs representa um risco de aumento nos custos de financiamento para o setor imobiliário e do agronegócio. Se a isenção for de fato revogada, isso pode levar a um aumento nas taxas de juros para financiamentos nesses setores; caso contrário, a manutenção do status quo pode preservar a dinâmica atual.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786991454.7146358,
+    "titulo": "Queda intensa do IGP-10 não deve se repetir nos demais IGPs do mês, diz Braz da FGV",
+    "titulo_original": "Queda intensa do IGP-10 não deve se repetir nos demais IGPs do mês, diz Braz da FGV",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 14:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de que a deflação observada no IGP-10 não se repita com a mesma força nos outros índices sugere que a pressão de queda nos preços pode estar perdendo fôlego. Se os preços de bens intermediários e finais continuarem a cair, isso pode sustentar uma inflação mais controlada; caso contrário, uma reversão dessa tendência pode pressionar os índices de preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786991458.8672678,
+    "titulo": "Shein mira avaliação de até US$ 27 bilhões em IPO",
+    "titulo_original": "Shein mira avaliação de até US$ 27 bilhões em IPO",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 15:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A redução na avaliação esperada para o IPO da Shein pode indicar uma cautela maior dos investidores em relação ao setor de varejo de moda rápida ou ao mercado de IPOs em geral. Se a demanda pelo IPO se mostrar forte apesar da redução, isso pode sinalizar resiliência em certos segmentos do mercado de ações; caso contrário, pode reforçar a percepção de um ambiente de captação mais desafiador.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786991458.8682885,
+    "titulo": "Superávit não depende só do Executivo, diz Alckmin",
+    "titulo_original": "Superávit não depende só do Executivo, diz Alckmin",
+    "fonte": "Folha Mercado",
+    "publicado": "17/08 12:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Alckmin sobre a responsabilidade compartilhada pelo ajuste fiscal pode indicar uma busca por maior colaboração entre os poderes para atingir metas fiscais. Se essa visão se traduzir em ações concretas que envolvam o Legislativo, isso pode fortalecer a credibilidade do plano fiscal; caso contrário, pode ser vista como retórica sem impacto prático.",
+    "is_stocks": true
   }
 ]
