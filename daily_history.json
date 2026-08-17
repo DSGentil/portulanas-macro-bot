@@ -598,5 +598,107 @@
     "origem": "externa",
     "leitura_critica": "A expectativa de que o Fed possa não aumentar mais os juros torna o ouro um ativo mais atrativo, especialmente com um dólar mais fraco. Se o Fed sinalizar o fim do ciclo de alta de juros, o ouro pode continuar sua trajetória de valorização.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1787004069.7924502,
+    "titulo": "Ações da Casas Bahia desabam 33% após pedido de recuperação judicial",
+    "titulo_original": "Ações da Casas Bahia desabam 33% após pedido de recuperação judicial",
+    "fonte": "Folha Mercado",
+    "publicado": "17/08 13:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada das ações da Casas Bahia após o pedido de recuperação judicial é um evento de alta relevância para o mercado acionário e pode gerar contágio em outros papéis do setor varejista. A extensão do impacto dependerá da percepção do mercado sobre a saúde financeira de outras empresas do setor e da capacidade da Casas Bahia de se reestruturar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787004074.3829463,
+    "titulo": "No início da campanha, Caiado busca empresários e investidores e promete ajuste fiscal",
+    "titulo_original": "No início da campanha, Caiado busca empresários e investidores e promete ajuste fiscal",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 18:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A promessa de ajuste fiscal por parte de Ronaldo Caiado é relevante, pois indica uma possível direção para as políticas econômicas futuras. Se eleito, a implementação dessas medidas pode impactar o cenário fiscal. A receptividade do setor produtivo às suas propostas é um indicador a ser observado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787004078.8160093,
+    "titulo": "Caiado propõe limitar despesas públicas a até 50% do crescimento do PIB mais inflação",
+    "titulo_original": "Caiado propõe limitar despesas públicas a até 50% do crescimento do PIB mais inflação",
+    "fonte": "Money Times",
+    "publicado": "17/08 17:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de Caiado de limitar despesas públicas é uma sinalização clara de sua agenda fiscal. Se implementada, essa medida teria um impacto significativo nas contas públicas. A viabilidade e os detalhes dessa proposta, caso eleito, serão cruciais para avaliar seu efeito no cenário econômico e fiscal do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787004083.4581418,
+    "titulo": "Dólar hoje cai 0,41%, a R$ 5,19, acompanhando exterior, após 5 sessões de altas - InfoMoney",
+    "titulo_original": "Dólar hoje cai 0,41%, a R$ 5,19, acompanhando exterior, após 5 sessões de altas - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 17:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar, após um período de altas, sugere uma melhora no apetite por risco global ou um ajuste técnico. Se a tendência de queda se mantiver, pode indicar um cenário mais favorável para ativos de risco no Brasil. Acompanhar se essa movimentação é sustentada ou apenas um ajuste pontual é crucial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787004089.3749082,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br e eleições; PETR4 e VALE3 sobem - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br e eleições; PETR4 e VALE3 sobem - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "17/08 15:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A oscilação do Ibovespa, com destaque para PETR4 e VALE3, reflete a influência de dados de atividade econômica (IBC-Br) e o cenário eleitoral. Se o IBC-Br apresentar números significativamente diferentes do esperado, isso pode gerar volatilidade adicional. A evolução do cenário eleitoral também é um fator de atenção para o mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787004089.3763168,
+    "titulo": "Pré-sal transformou petróleo no primeiro produto de exportação do Brasil, diz CEO da Petrobras",
+    "titulo_original": "Pré-sal transformou petróleo no primeiro produto de exportação do Brasil, diz CEO da Petrobras",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 18:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da CEO da Petrobras sobre a importância do petróleo para as exportações brasileiras e a potencial recomposição de reservas é relevante para o setor de energia. No entanto, a notícia enfatiza que a descoberta comercial ainda depende de estudos, o que limita o impacto imediato. A menção a respeito de atuar com respeito ao meio ambiente e a ausência de acidentes são pontos de atenção para a governança.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787004089.3776414,
+    "titulo": "Lojas Renner (LREN3): Citi corta preço-alvo após revisão do guidance; ações caem",
+    "titulo_original": "Lojas Renner (LREN3): Citi corta preço-alvo após revisão do guidance; ações caem",
+    "fonte": "Money Times",
+    "publicado": "17/08 18:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda das ações da Lojas Renner, influenciada pela revisão de preço-alvo do Citi, é um evento específico de mercado acionário. Embora o IBC-Br tenha sido mencionado como um alívio para a curva de juros, a notícia foca no desempenho da empresa. Se a revisão do guidance da Lojas Renner indicar problemas setoriais mais amplos, a relevância pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787004089.3788996,
+    "titulo": "Ibovespa e dólar caem com Casas Bahia, Boletim Focus e indicadores econômicos no radar - VEJA",
+    "titulo_original": "Ibovespa e dólar caem com Casas Bahia, Boletim Focus e indicadores econômicos no radar - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 17:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa e do dólar, com menção a Casas Bahia e Boletim Focus, indica um cenário de cautela no mercado. A recuperação judicial da Casas Bahia é um evento específico que pode gerar volatilidade. O Boletim Focus, ao apresentar as expectativas do mercado, pode influenciar a percepção sobre juros e inflação.",
+    "is_stocks": true
   }
 ]
