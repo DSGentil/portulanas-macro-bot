@@ -201,5 +201,113 @@
     "origem": "externa",
     "leitura_critica": "O fechamento em alta das bolsas asiáticas, impulsionado pela China, sugere um certo otimismo no mercado oriental, contrastando com a volatilidade em outros mercados. A atenção contínua ao petróleo indica que as tensões geopolíticas no Golfo ainda são um fator de risco relevante para os mercados globais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1786972545.7704213,
+    "titulo": "Focus revela projeções do mercado para inflação, PIB, Selic e dólar; confira - VEJA",
+    "titulo_original": "Focus revela projeções do mercado para inflação, PIB, Selic e dólar; confira - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 08:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As projeções do Boletim Focus são um termômetro importante das expectativas do mercado para os principais indicadores econômicos. Se as projeções de inflação e Selic se mantiverem elevadas, isso pode indicar um cenário de juros mais altos por mais tempo. Caso as projeções de PIB venham abaixo do esperado, isso pode sinalizar uma desaceleração econômica. Acompanhar a evolução dessas projeções é crucial para entender o sentimento do mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786972549.2772274,
+    "titulo": "R$ 10 mil investidos: quanto viram com a Selic a 14%? - InfoMoney",
+    "titulo_original": "R$ 10 mil investidos: quanto viram com a Selic a 14%? - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/08 09:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda o rendimento de investimentos atrelados à Selic em um cenário de juros elevados. Se a taxa Selic se mantiver alta por mais tempo, investimentos de renda fixa continuarão atrativos. Caso a Selic comece a cair, o retorno desses investimentos diminuirá, o que pode levar investidores a buscar outras opções de alocação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786972552.8638325,
+    "titulo": "Mercados hoje: investidores acompanham indicadores e falas de Galípolo; petróleo segue no radar - Bora Investir",
+    "titulo_original": "Mercados hoje: investidores acompanham indicadores e falas de Galípolo; petróleo segue no radar - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "17/08 09:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A atenção dos investidores a indicadores econômicos e falas de autoridades, como as de Galípolo, sugere um ambiente de cautela e busca por direcionamento. Se as falas de Galípolo trouxerem novas perspectivas sobre a política econômica, isso pode influenciar o comportamento do mercado. Acompanhar o comportamento do petróleo é relevante, pois seu preço pode impactar a inflação e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786972556.3973308,
+    "titulo": "Irã estabelece prazo de 'algumas semanas' para implementação total do MOU",
+    "titulo_original": "Iran has set a deadline of \"a few weeks\" for full implementation of the MOU",
+    "fonte": "ForexLive",
+    "publicado": "17/08 09:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A retórica inflamatória do oficial iraniano sugere um aumento do risco geopolítico na região, o que pode impactar os preços do petróleo. Se a diplomacia falhar e as tensões escalarem, o mercado pode reagir negativamente, especialmente se o petróleo atingir patamares mais elevados. No entanto, o mercado pode não se importar até que o preço do WTI atinja US$ 100 ou US$ 150.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1786972561.206665,
+    "titulo": "Resultado primário desde 2024 tem ajudado na previsibilidade, praticamente zeramos déficit público', afirma Durigan",
+    "titulo_original": "'Resultado primário desde 2024 tem ajudado na previsibilidade, praticamente zeramos déficit público', afirma Durigan",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 10:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro da Fazenda sugere um cenário de maior controle fiscal, o que pode ser interpretado como um passo positivo para a redução da taxa de juros. Se as próximas divulgações fiscais confirmarem essa tendência de melhora, o Banco Central pode ter mais espaço para flexibilizar a política monetária. Caso contrário, se houver desvios nas metas fiscais, a expectativa de corte de juros pode ser adiada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786972561.207377,
+    "titulo": "IGP-10 cai 0,51% em agosto pressionado por queda nos preços da energia, diz FGV",
+    "titulo_original": "IGP-10 cai 0,51% em agosto pressionado por queda nos preços da energia, diz FGV",
+    "fonte": "Folha Mercado",
+    "publicado": "17/08 09:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do IGP-10 em agosto, pressionada pelos preços da energia, sugere um alívio temporário nas pressões inflacionárias. Se a queda nos preços da energia se mantiver, isso pode contribuir para uma desaceleração da inflação geral. No entanto, é importante acompanhar o acumulado em 12 meses, que ainda mostra uma alta de 2%, para avaliar a tendência inflacionária de médio prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786972561.207978,
+    "titulo": "PIB do Japão desacelera a 1,1% no 2° tri e fica abaixo do esperado",
+    "titulo_original": "PIB do Japão desacelera a 1,1% no 2° tri e fica abaixo do esperado",
+    "fonte": "Folha Mercado",
+    "publicado": "17/08 10:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração do PIB japonês indica uma recuperação econômica mais frágil do que o esperado, o que pode levar o Banco do Japão a manter ou intensificar suas políticas de estímulo. Se os gastos das famílias e empresas continuarem fracos, isso pode afetar a demanda global por bens e serviços. A guerra no Oriente Médio também adiciona incertezas às perspectivas econômicas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1786972561.2085676,
+    "titulo": "Citi coloca ação do BB (BBAS3) em ‘observação de catalisador negativo’ e reduz preço-alvo e projeções de lucro",
+    "titulo_original": "Citi coloca ação do BB (BBAS3) em ‘observação de catalisador negativo’ e reduz preço-alvo e projeções de lucro",
+    "fonte": "Valor Economico",
+    "publicado": "17/08 09:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A colocação da ação do Banco do Brasil em 'observação de catalisador negativo' pelo Citi, com redução de projeções, indica preocupações com a qualidade dos ativos e a capacidade da empresa de atingir suas metas. Se os desafios operacionais persistirem, isso pode impactar negativamente o desempenho da ação. Acompanhar a evolução da qualidade dos ativos e do 'guidance' do BB será crucial para avaliar o futuro da empresa.",
+    "is_stocks": true
   }
 ]
