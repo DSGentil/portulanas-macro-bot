@@ -1,113 +1,5 @@
 [
   {
-    "_timestamp": 1786972545.7704213,
-    "titulo": "Focus revela projeções do mercado para inflação, PIB, Selic e dólar; confira - VEJA",
-    "titulo_original": "Focus revela projeções do mercado para inflação, PIB, Selic e dólar; confira - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/08 08:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As projeções do Boletim Focus são um termômetro importante das expectativas do mercado para os principais indicadores econômicos. Se as projeções de inflação e Selic se mantiverem elevadas, isso pode indicar um cenário de juros mais altos por mais tempo. Caso as projeções de PIB venham abaixo do esperado, isso pode sinalizar uma desaceleração econômica. Acompanhar a evolução dessas projeções é crucial para entender o sentimento do mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786972549.2772274,
-    "titulo": "R$ 10 mil investidos: quanto viram com a Selic a 14%? - InfoMoney",
-    "titulo_original": "R$ 10 mil investidos: quanto viram com a Selic a 14%? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/08 09:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aborda o rendimento de investimentos atrelados à Selic em um cenário de juros elevados. Se a taxa Selic se mantiver alta por mais tempo, investimentos de renda fixa continuarão atrativos. Caso a Selic comece a cair, o retorno desses investimentos diminuirá, o que pode levar investidores a buscar outras opções de alocação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786972552.8638325,
-    "titulo": "Mercados hoje: investidores acompanham indicadores e falas de Galípolo; petróleo segue no radar - Bora Investir",
-    "titulo_original": "Mercados hoje: investidores acompanham indicadores e falas de Galípolo; petróleo segue no radar - Bora Investir",
-    "fonte": "Google News Acoes",
-    "publicado": "17/08 09:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A atenção dos investidores a indicadores econômicos e falas de autoridades, como as de Galípolo, sugere um ambiente de cautela e busca por direcionamento. Se as falas de Galípolo trouxerem novas perspectivas sobre a política econômica, isso pode influenciar o comportamento do mercado. Acompanhar o comportamento do petróleo é relevante, pois seu preço pode impactar a inflação e a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786972556.3973308,
-    "titulo": "Irã estabelece prazo de 'algumas semanas' para implementação total do MOU",
-    "titulo_original": "Iran has set a deadline of \"a few weeks\" for full implementation of the MOU",
-    "fonte": "ForexLive",
-    "publicado": "17/08 09:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A retórica inflamatória do oficial iraniano sugere um aumento do risco geopolítico na região, o que pode impactar os preços do petróleo. Se a diplomacia falhar e as tensões escalarem, o mercado pode reagir negativamente, especialmente se o petróleo atingir patamares mais elevados. No entanto, o mercado pode não se importar até que o preço do WTI atinja US$ 100 ou US$ 150.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786972561.206665,
-    "titulo": "Resultado primário desde 2024 tem ajudado na previsibilidade, praticamente zeramos déficit público', afirma Durigan",
-    "titulo_original": "'Resultado primário desde 2024 tem ajudado na previsibilidade, praticamente zeramos déficit público', afirma Durigan",
-    "fonte": "Valor Economico",
-    "publicado": "17/08 10:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro da Fazenda sugere um cenário de maior controle fiscal, o que pode ser interpretado como um passo positivo para a redução da taxa de juros. Se as próximas divulgações fiscais confirmarem essa tendência de melhora, o Banco Central pode ter mais espaço para flexibilizar a política monetária. Caso contrário, se houver desvios nas metas fiscais, a expectativa de corte de juros pode ser adiada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786972561.207377,
-    "titulo": "IGP-10 cai 0,51% em agosto pressionado por queda nos preços da energia, diz FGV",
-    "titulo_original": "IGP-10 cai 0,51% em agosto pressionado por queda nos preços da energia, diz FGV",
-    "fonte": "Folha Mercado",
-    "publicado": "17/08 09:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do IGP-10 em agosto, pressionada pelos preços da energia, sugere um alívio temporário nas pressões inflacionárias. Se a queda nos preços da energia se mantiver, isso pode contribuir para uma desaceleração da inflação geral. No entanto, é importante acompanhar o acumulado em 12 meses, que ainda mostra uma alta de 2%, para avaliar a tendência inflacionária de médio prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786972561.207978,
-    "titulo": "PIB do Japão desacelera a 1,1% no 2° tri e fica abaixo do esperado",
-    "titulo_original": "PIB do Japão desacelera a 1,1% no 2° tri e fica abaixo do esperado",
-    "fonte": "Folha Mercado",
-    "publicado": "17/08 10:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração do PIB japonês indica uma recuperação econômica mais frágil do que o esperado, o que pode levar o Banco do Japão a manter ou intensificar suas políticas de estímulo. Se os gastos das famílias e empresas continuarem fracos, isso pode afetar a demanda global por bens e serviços. A guerra no Oriente Médio também adiciona incertezas às perspectivas econômicas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786972561.2085676,
-    "titulo": "Citi coloca ação do BB (BBAS3) em ‘observação de catalisador negativo’ e reduz preço-alvo e projeções de lucro",
-    "titulo_original": "Citi coloca ação do BB (BBAS3) em ‘observação de catalisador negativo’ e reduz preço-alvo e projeções de lucro",
-    "fonte": "Valor Economico",
-    "publicado": "17/08 09:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A colocação da ação do Banco do Brasil em 'observação de catalisador negativo' pelo Citi, com redução de projeções, indica preocupações com a qualidade dos ativos e a capacidade da empresa de atingir suas metas. Se os desafios operacionais persistirem, isso pode impactar negativamente o desempenho da ação. Acompanhar a evolução da qualidade dos ativos e do 'guidance' do BB será crucial para avaliar o futuro da empresa.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1786985141.3159554,
     "titulo": "Ações da Casas Bahia desabam até 36% após pedido de recuperação judicial",
     "titulo_original": "Ações da Casas Bahia desabam até 36% após pedido de recuperação judicial",
@@ -1078,6 +970,123 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A alta das ações da Hapvida reflete um movimento específico do mercado de ações, sem conexão explícita com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital. A notícia é relevante para o segmento de ações, mas não para a análise macroeconômica em si.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787085041.1549718,
+    "titulo": "TCU bloqueia R$ 5 bi destinados a reduzir tarifas de energia no Norte e Nordeste",
+    "titulo_original": "TCU bloqueia R$ 5 bi destinados a reduzir tarifas de energia no Norte e Nordeste",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 17:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do TCU de bloquear os recursos pode gerar um impacto direto nas tarifas de energia das regiões afetadas, caso a medida se mantenha. Se o bloqueio for revertido, os consumidores podem ver uma redução nos custos de energia conforme planejado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787085044.651101,
+    "titulo": "Primeira Turma do STF torna réu deputado que desejou morte de Lula",
+    "titulo_original": "Primeira Turma do STF torna réu deputado que desejou morte de Lula",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 16:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF de tornar réu um deputado por injúria ao presidente é um fato jurídico e político. Não há impacto direto nos canais de análise macroeconômica, a menos que a notícia detalhe alguma consequência institucional ou regulatória que afete o ambiente de negócios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787085048.107722,
+    "titulo": "Ex-consultor de Milei e autor de 'live' em 2022 sobre urnas brasileiras é detido na Bolívia",
+    "titulo_original": "Ex-consultor de Milei e autor de 'live' em 2022 sobre urnas brasileiras é detido na Bolívia",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 16:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A detenção de Fernando Cerimedo na Bolívia, com conexões políticas na Argentina e histórico de desinformação sobre o Brasil, adiciona um elemento de instabilidade regional. Se houver desdobramentos que afetem relações diplomáticas ou a percepção sobre a segurança eleitoral, isso pode ter repercussões indiretas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787085051.5592089,
+    "titulo": "Trump está ponderando se concede alívio tarifário ao Canadá - Politico",
+    "titulo_original": "Trump is weighing whether to grant Canada a tariff reprieve - Politico",
+    "fonte": "ForexLive",
+    "publicado": "18/08 16:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão de Trump sobre as tarifas pode impactar diretamente o fluxo comercial entre EUA e Canadá. Se as tarifas forem impostas, o dólar canadense pode sofrer desvalorização; caso contrário, um acordo pode trazer estabilidade à moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787085056.4416125,
+    "titulo": "Wall Street cai com disparada dos Treasuries, petróleo e à espera de ata do Fed",
+    "titulo_original": "Wall Street cai com disparada dos Treasuries, petróleo e à espera de ata do Fed",
+    "fonte": "Money Times",
+    "publicado": "18/08 17:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda em Wall Street, influenciada pelos Treasuries e pela expectativa da ata do Fed, sugere cautela do mercado em relação à política monetária americana. Se a ata indicar um tom mais duro sobre inflação, isso pode sustentar juros altos e pressionar bolsas; um tom mais dovish pode reverter a tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787085056.4433072,
+    "titulo": "CVM define data para julgamento de Banco Master e Vorcaro em esquema de cotas de FII sobreavaliadas",
+    "titulo_original": "CVM define data para julgamento de Banco Master e Vorcaro em esquema de cotas de FII sobreavalidas",
+    "fonte": "Money Times",
+    "publicado": "18/08 17:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O julgamento pela CVM pode ter implicações para o Banco Master e para o mercado de fundos imobiliários, dependendo do desfecho. Se houver condenação, pode haver impacto na confiança dos investidores em FIIs específicos ou na gestão de ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787085056.4449587,
+    "titulo": "MPF pede esclarecimentos ao Ibama sobre perfuração de petróleo da Petrobras na Foz do Amazonas - Valor Econômico",
+    "titulo_original": "MPF pede esclarecimentos ao Ibama sobre perfuração de petróleo da Petrobras na Foz do Amazonas - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "18/08 12:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A solicitação de esclarecimentos pelo MPF ao Ibama sobre a perfuração de petróleo da Petrobras pode indicar um escrutínio maior sobre as operações da empresa. Se houver restrições ou embargos futuros, isso pode afetar a produção e os planos de investimento da Petrobras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787085056.4465961,
+    "titulo": "Disney processa governo Trump para barrar ameaça contra emissoras da ABC - G1",
+    "titulo_original": "Disney processa governo Trump para barrar ameaça contra emissoras da ABC - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "18/08 12:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O processo movido pela Disney contra o governo Trump é uma disputa legal específica que, por si só, não afeta diretamente os canais macroeconômicos. O desfecho pode ter implicações para a liberdade de imprensa ou para a relação entre o governo e a mídia, mas sem impacto direto em juros, inflação, etc.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787085056.448238,
+    "titulo": "Ainda sem acordo sobre preço, venda da CSN Cimentos segue indefinida",
+    "titulo_original": "Ainda sem acordo sobre preço, venda da CSN Cimentos segue indefinida",
+    "fonte": "Money Times",
+    "publicado": "18/08 17:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A indefinição na venda da CSN Cimentos pode impactar o desempenho da empresa e suas ações. Se um acordo for fechado, pode haver reações no mercado acionário; a falta de acordo pode manter a incerteza sobre o futuro da unidade.",
     "is_stocks": true
   }
 ]
