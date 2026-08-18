@@ -1104,5 +1104,100 @@
     "origem": "domestica",
     "leitura_critica": "A elevação da projeção de Ebitda da Raízen pelo Bank of America sugere uma melhora nas expectativas de desempenho operacional da empresa. No entanto, a ressalva sobre a desalavancagem indica que os desafios financeiros podem persistir, o que pode influenciar a percepção do mercado sobre o risco da ação.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787071541.2530086,
+    "titulo": "Perda de fôlego da economia abre espaço para corte maior dos juros em 2026 - UOL Economia",
+    "titulo_original": "Perda de fôlego da economia abre espaço para corte maior dos juros em 2026 - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/08 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perda de fôlego da economia sugere que o Banco Central pode ter mais margem para reduzir a taxa de juros. Se os dados econômicos continuarem a indicar desaceleração, um corte mais agressivo nas taxas pode ser implementado. Por outro lado, se houver sinais de recuperação mais fortes, o ritmo de corte pode ser mais moderado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787071545.0727892,
+    "titulo": "Marqueteiro de Flávio vê 'eleição superapertada' e aposta em endividamento como tema",
+    "titulo_original": "Marqueteiro de Flávio vê 'eleição superapertada' e aposta em endividamento como tema",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 13:30",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de uma eleição apertada e o foco em temas como endividamento e fiscal podem influenciar as propostas econômicas dos candidatos. Se o tema do endividamento ganhar força, isso pode levar a discussões sobre políticas de crédito e auxílio financeiro. A forma como a situação fiscal será apresentada e debatida será crucial para a percepção do eleitorado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787071548.8171701,
+    "titulo": "Dólar tem ligeira alta ante real com exterior mais cauteloso - UOL Economia",
+    "titulo_original": "Dólar tem ligeira alta ante real com exterior mais cauteloso - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/08 10:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A cautela no exterior tende a fortalecer o dólar, e a ligeira alta frente ao real reflete essa tendência. Se o cenário internacional se mantiver incerto, o dólar pode continuar exercendo pressão sobre o real. A divulgação de dados econômicos relevantes no Brasil e no exterior poderá influenciar a direção da moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787071552.5047295,
+    "titulo": "Pentágono avalia menor presença militar dos EUA no Golfo após fim da guerra com o Irã - WaPo",
+    "titulo_original": "Pentagon weighing a smaller US military presence in the Gulf once the Iran war ends - WaPo",
+    "fonte": "ForexLive",
+    "publicado": "18/08 12:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Uma potencial redução da presença militar dos EUA no Golfo pode alterar o equilíbrio de poder na região. Se essa decisão for concretizada, isso pode levar a um aumento da instabilidade ou, alternativamente, a uma maior autonomia regional. A forma como os países da região reagirem a essa mudança será um fator importante a ser observado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787071557.1095552,
+    "titulo": "Ibovespa sobe e busca recuperação após 10 baixas seguidas - mas mercado segue cautela - InfoMoney",
+    "titulo_original": "Ibovespa sobe e busca recuperação após 10 baixas seguidas - mas mercado segue cautela - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "18/08 11:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação do Ibovespa após um período de quedas pode indicar um alívio temporário, mas a cautela do mercado sugere que os investidores aguardam por sinais mais concretos de melhora. Se os indicadores econômicos continuarem a apresentar volatilidade, o índice pode ter dificuldade em sustentar a alta. A ausência de um gatilho claro para otimismo pode manter o mercado em compasso de espera.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787071557.1116571,
+    "titulo": "Bolsas da Europa caem com avanço de juros e petróleo; Londres é exceção",
+    "titulo_original": "Bolsas da Europa caem com avanço de juros e petróleo; Londres é exceção",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 13:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O avanço dos juros e os preços elevados do petróleo criam um cenário desafiador para as bolsas europeias. Se as taxas de juros continuarem a subir, isso pode desestimular o investimento em renda variável. A volatilidade nos preços do petróleo também adiciona incerteza ao mercado. A resiliência do índice de Londres pode estar ligada a fatores específicos do mercado britânico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787071557.1136196,
+    "titulo": "Ibovespa abaixo dos 170 mil? Quase metade dos investidores aposta nessa possibilidade, diz BofA",
+    "titulo_original": "Ibovespa abaixo dos 170 mil? Quase metade dos investidores aposta nessa possibilidade, diz BofA",
+    "fonte": "Money Times",
+    "publicado": "18/08 12:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O pessimismo de quase metade dos investidores em relação ao Ibovespa sugere que há expectativas de um desempenho fraco para o índice. Se os fatores que levam a esse pessimismo persistirem, como incertezas econômicas ou políticas, o Ibovespa pode ter dificuldade em atingir patamares mais elevados. A pesquisa reflete uma percepção de risco que pode influenciar decisões de investimento.",
+    "is_stocks": true
   }
 ]
