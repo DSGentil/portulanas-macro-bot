@@ -1088,5 +1088,97 @@
     "origem": "domestica",
     "leitura_critica": "A indefinição na venda da CSN Cimentos pode impactar o desempenho da empresa e suas ações. Se um acordo for fechado, pode haver reações no mercado acionário; a falta de acordo pode manter a incerteza sobre o futuro da unidade.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787090465.7061856,
+    "titulo": "Falta de decreto sobre cavidades afeta produção de cobre e ferro, diz presidente da Vale",
+    "titulo_original": "Falta de decreto sobre cavidades afeta produção de cobre e ferro, diz presidente da Vale",
+    "fonte": "Folha Mercado",
+    "publicado": "18/08 15:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente da Vale aponta para um entrave regulatório que impacta a produção de commodities importantes. Se o governo emitir o decreto solicitado, isso pode destravar a exploração e aumentar a produção, com potenciais reflexos nos preços e na receita da companhia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787090469.1240711,
+    "titulo": "Com cota chinesa preenchida, exportação de carne bovina recua",
+    "titulo_original": "Com cota chinesa preenchida, exportação de carne bovina recua",
+    "fonte": "Folha Mercado",
+    "publicado": "18/08 18:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O preenchimento da cota chinesa impacta diretamente o volume de exportação de carne bovina brasileira. Se a demanda chinesa se mantiver forte após o esgotamento da cota, isso pode levar a uma busca por outros mercados ou a uma pressão por renegociação de termos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787090473.929903,
+    "titulo": "Ibovespa tem dia volátil e encerra em queda com tramitação da PEC 6x1 no radar",
+    "titulo_original": "Ibovespa tem dia volátil e encerra em queda com tramitação da PEC 6x1 no radar",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 17:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A tramitação da PEC 6x1 no Senado gerou apreensão nos investidores, impactando negativamente o Ibovespa. Se a PEC for aprovada, isso pode alterar as regras de tributação e ter reflexos na economia. A queda do índice foi mitigada pela alta das ações de Petrobras e Vale, influenciadas pelo preço do petróleo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787090473.9318209,
+    "titulo": "Bolsas de NY recuam pressionadas por ‘techs’ e juros elevados",
+    "titulo_original": "Bolsas de NY recuam pressionadas por ‘techs’ e juros elevados",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 17:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A combinação de juros elevados e receios fiscais nos EUA pressiona as bolsas americanas, especialmente o setor de tecnologia. Se os juros continuarem em patamares altos, isso pode limitar o potencial de valorização das ações de crescimento. A alta dos juros soberanos japoneses também contribui para o cenário global de aperto monetário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787090473.933619,
+    "titulo": "PEC do fim da escala 6x1 avança no Senado",
+    "titulo_original": "PEC do fim da escala 6x1 avança no Senado",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 17:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O avanço da PEC do fim da escala 6x1 no Senado indica uma movimentação política em direção a uma possível mudança tributária. Se aprovada, a PEC pode ter implicações fiscais e impactar a arrecadação do governo, sendo importante acompanhar os desdobramentos na CCJ e no plenário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787090473.9353979,
+    "titulo": "Exportações de aço sobem em julho frente a junho, mas caem na base anual",
+    "titulo_original": "Exportações de aço sobem em julho frente a junho, mas caem na base anual",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 18:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas exportações anuais de aço pode indicar uma perda de competitividade ou demanda externa enfraquecida. A redução nas importações, por outro lado, pode ser um reflexo positivo das medidas antidumping implementadas pelo governo brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787090473.9371865,
+    "titulo": "Depois de onze quedas, Ibovespa volta ao patamar do início do ano. É hora de voltar para a bolsa?",
+    "titulo_original": "Depois de onze quedas, Ibovespa volta ao patamar do início do ano. É hora de voltar para a bolsa?",
+    "fonte": "InvestNews",
+    "publicado": "18/08 16:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação do Ibovespa ao patamar do início do ano, após uma sequência de quedas, pode ser interpretada como um sinal de otimismo do mercado. A volta do múltiplo P/L ao nível de janeiro sugere que as ações podem ter voltado a apresentar um valuation mais alinhado com o início do ano.",
+    "is_stocks": true
   }
 ]
