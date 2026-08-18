@@ -898,5 +898,87 @@
     "origem": "externa",
     "leitura_critica": "O alívio no cenário externo, refletido na queda do dólar e na estabilidade do Ibovespa, sugere uma melhora temporária no apetite por risco. Se os fatores externos que geraram esse alívio se mantiverem, isso pode favorecer um fluxo de capital mais positivo para mercados emergentes, incluindo o Brasil.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787058939.0467656,
+    "titulo": "Primeiros resultados com novo modelo de financiamento imobiliário são animadores, afirma diretor do BC",
+    "titulo_original": "Primeiros resultados com novo modelo de financiamento imobiliário são animadores, afirma diretor do BC",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 10:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O novo modelo de financiamento imobiliário, que visa diversificar as fontes de funding, pode reduzir a dependência da poupança. Se a transição for bem-sucedida, o mercado imobiliário pode se tornar menos volátil a mudanças nas taxas de juros que afetam a poupança.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787058942.5005693,
+    "titulo": "Estratégia de Renda: As ações que pagam mais de 14% e superam a barreira da Selic - ISTOÉ DINHEIRO",
+    "titulo_original": "Estratégia de Renda: As ações que pagam mais de 14% e superam a barreira da Selic - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/08 08:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A busca por ações com dividend yield acima da Selic sugere que investidores estão procurando alternativas de renda em um cenário de juros elevados. Se a Selic começar a cair, a atratividade dessas ações pode mudar, dependendo da sua capacidade de manter ou aumentar os proventos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787058946.010507,
+    "titulo": "Novo modelo de crédito imobiliário é fundamental para o mercado, mas existem outras variáveis, diz VP da Caixa",
+    "titulo_original": "Novo modelo de crédito imobiliário é fundamental para o mercado, mas existem outras variáveis, diz VP da Caixa",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 10:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da VP da Caixa reforça a ideia de que o novo modelo de crédito imobiliário é um passo importante, mas seu sucesso dependerá de um conjunto mais amplo de fatores macroeconômicos e regulatórios. Se as questões regulatórias não forem bem endereçadas, o impacto do novo modelo pode ser limitado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787058949.4881284,
+    "titulo": "Apesar de crise no agro, empresas preveem dobrar de tamanho em cinco anos no país",
+    "titulo_original": "Apesar de crise no agro, empresas preveem dobrar de tamanho em cinco anos no país",
+    "fonte": "Folha Mercado",
+    "publicado": "18/08 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A previsão de crescimento de empresas estrangeiras no setor de máquinas agrícolas no Brasil, mesmo em meio a uma crise, indica uma confiança na recuperação do agronegócio a médio prazo. Se a concorrência chinesa e a volatilidade do dólar se mantiverem, o alcance dessa meta pode ser desafiador.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787058953.88001,
+    "titulo": "UK labour market shows further signs of cooling in June",
+    "titulo_original": "UK labour market shows further signs of cooling in June",
+    "fonte": "ForexLive",
+    "publicado": "18/08 05:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração no mercado de trabalho do Reino Unido pode levar o Banco da Inglaterra a considerar uma política monetária mais branda. Se a tendência de arrefecimento se mantiver, o banco central pode ter mais espaço para cortes de juros no futuro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787058953.8817277,
+    "titulo": "Relatório aponta ações para destravar mineração e levar produção nacional a R$ 535 bi",
+    "titulo_original": "Relatório aponta ações para destravar mineração e levar produção nacional a R$ 535 bi",
+    "fonte": "Valor Economico",
+    "publicado": "18/08 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O relatório sobre o potencial da mineração brasileira aponta para um crescimento expressivo na produção e arrecadação fiscal, condicionado a uma agenda coordenada. Se as políticas públicas forem efetivamente orientadas por essas propostas, o setor pode se tornar um importante motor de crescimento e arrecadação para o país.",
+    "is_stocks": true
   }
 ]
