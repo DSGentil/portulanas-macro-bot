@@ -1,326 +1,5 @@
 [
   {
-    "_timestamp": 1786991444.3130858,
-    "titulo": "Com Selic em 13,75%, juros futuros sobem nesta manhã (17); entenda",
-    "titulo_original": "Com Selic em 13,75%, juros futuros sobem nesta manhã (17); entenda - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/08 11:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta dos juros futuros, com a Selic em 13,75%, sugere que o mercado precifica uma manutenção do cenário de juros elevados por mais tempo ou até mesmo um viés de alta. Se a próxima ata do Copom confirmar um tom mais cauteloso, isso pode sustentar essa tendência; se houver sinais de flexibilização antecipada, a curva de juros pode se ajustar rapidamente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786991447.8119836,
-    "titulo": "Galípolo: Selic deve seguir restritiva para reequilibrar oferta e demanda",
-    "titulo_original": "Galípolo: Selic deve seguir restritiva para reequilibrar oferta e demanda - Money Times",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/08 14:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Galípolo reforça a visão de que o Banco Central manterá uma postura restritiva na política monetária para controlar a inflação. Se o reequilíbrio entre oferta e demanda ocorrer de forma mais lenta do que o esperado, isso pode justificar a manutenção de juros altos por um período prolongado; se a oferta se ajustar rapidamente, pode abrir espaço para flexibilização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786991451.2620785,
-    "titulo": "Fim da isenção das LCIs ameaça disparar juros e travar o mercado imobiliário, dizem bancos",
-    "titulo_original": "Fim da isenção das LCIs ameaça disparar juros e travar o mercado imobiliário, dizem bancos",
-    "fonte": "Money Times",
-    "publicado": "17/08 14:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A potencial tributação das LCIs e LCAs representa um risco de aumento nos custos de financiamento para o setor imobiliário e do agronegócio. Se a isenção for de fato revogada, isso pode levar a um aumento nas taxas de juros para financiamentos nesses setores; caso contrário, a manutenção do status quo pode preservar a dinâmica atual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786991454.7146358,
-    "titulo": "Queda intensa do IGP-10 não deve se repetir nos demais IGPs do mês, diz Braz da FGV",
-    "titulo_original": "Queda intensa do IGP-10 não deve se repetir nos demais IGPs do mês, diz Braz da FGV",
-    "fonte": "Valor Economico",
-    "publicado": "17/08 14:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de que a deflação observada no IGP-10 não se repita com a mesma força nos outros índices sugere que a pressão de queda nos preços pode estar perdendo fôlego. Se os preços de bens intermediários e finais continuarem a cair, isso pode sustentar uma inflação mais controlada; caso contrário, uma reversão dessa tendência pode pressionar os índices de preços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786991458.8672678,
-    "titulo": "Shein mira avaliação de até US$ 27 bilhões em IPO",
-    "titulo_original": "Shein mira avaliação de até US$ 27 bilhões em IPO",
-    "fonte": "Valor Economico",
-    "publicado": "17/08 15:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A redução na avaliação esperada para o IPO da Shein pode indicar uma cautela maior dos investidores em relação ao setor de varejo de moda rápida ou ao mercado de IPOs em geral. Se a demanda pelo IPO se mostrar forte apesar da redução, isso pode sinalizar resiliência em certos segmentos do mercado de ações; caso contrário, pode reforçar a percepção de um ambiente de captação mais desafiador.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786991458.8682885,
-    "titulo": "Superávit não depende só do Executivo, diz Alckmin",
-    "titulo_original": "Superávit não depende só do Executivo, diz Alckmin",
-    "fonte": "Folha Mercado",
-    "publicado": "17/08 12:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Alckmin sobre a responsabilidade compartilhada pelo ajuste fiscal pode indicar uma busca por maior colaboração entre os poderes para atingir metas fiscais. Se essa visão se traduzir em ações concretas que envolvam o Legislativo, isso pode fortalecer a credibilidade do plano fiscal; caso contrário, pode ser vista como retórica sem impacto prático.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1786998657.1143897,
-    "titulo": "Sangria na bolsa: 80% dos fundos de ações rendem menos do que a poupança em 2026",
-    "titulo_original": "Sangria na bolsa: 80% dos fundos de ações rendem menos do que a poupança em 2026",
-    "fonte": "InvestNews",
-    "publicado": "17/08 16:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O baixo desempenho dos fundos de ações em comparação com a poupança, associado à fuga de capital estrangeiro, indica um cenário de aversão ao risco no mercado brasileiro. Se o fluxo de capital estrangeiro não retornar, a bolsa pode continuar sob pressão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786998661.5491712,
-    "titulo": "investingLive Americas FX news wrap 17 Aug",
-    "titulo_original": "investingLive Americas FX news wrap 17 Aug",
-    "fonte": "ForexLive",
-    "publicado": "17/08 17:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A inflação no Canadá acima do esperado e o forte índice de manufatura nos EUA podem indicar pressões inflacionárias persistentes, o que sugere que o Fed pode manter uma postura mais restritiva em relação aos juros. Se os dados de inflação futuros continuarem elevados, os rendimentos dos títulos de longo prazo podem permanecer em patamares altos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786998666.049648,
-    "titulo": "Petróleo sobe mais de 3% e volta a ficar acima de US$ 90 com ameaças entre EUA e Irã - Folha de S.Paulo",
-    "titulo_original": "Petróleo sobe mais de 3% e volta a ficar acima de US$ 90 com ameaças entre EUA e Irã - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "17/08 16:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões entre EUA e Irã tem um impacto direto nos preços do petróleo, elevando a referência internacional. Se as hostilidades se intensificarem, o preço do barril pode continuar a subir, impactando custos de energia globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786998671.1645923,
-    "titulo": "Petróleo começa semana em alta e barril supera US$ 90 com temor de escalada das tensões no Oriente Médio",
-    "titulo_original": "Petróleo começa semana em alta e barril supera US$ 90 com temor de escalada das tensões no Oriente Médio",
-    "fonte": "Money Times",
-    "publicado": "17/08 17:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O receio de uma escalada de tensões no Oriente Médio é o principal motor da alta do petróleo. Se o cenário geopolítico se agravar, a tendência de alta nos preços do barril tende a se manter, afetando a inflação e os custos de produção em diversos setores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1786998675.597377,
-    "titulo": "Ouro sobe com menor aposta de alta de juros do Fed e dólar mais fraco - Valor Econômico",
-    "titulo_original": "Ouro sobe com menor aposta de alta de juros do Fed e dólar mais fraco - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/08 15:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A expectativa de que o Fed possa não aumentar mais os juros torna o ouro um ativo mais atrativo, especialmente com um dólar mais fraco. Se o Fed sinalizar o fim do ciclo de alta de juros, o ouro pode continuar sua trajetória de valorização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787004069.7924502,
-    "titulo": "Ações da Casas Bahia desabam 33% após pedido de recuperação judicial",
-    "titulo_original": "Ações da Casas Bahia desabam 33% após pedido de recuperação judicial",
-    "fonte": "Folha Mercado",
-    "publicado": "17/08 13:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda acentuada das ações da Casas Bahia após o pedido de recuperação judicial é um evento de alta relevância para o mercado acionário e pode gerar contágio em outros papéis do setor varejista. A extensão do impacto dependerá da percepção do mercado sobre a saúde financeira de outras empresas do setor e da capacidade da Casas Bahia de se reestruturar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787004074.3829463,
-    "titulo": "No início da campanha, Caiado busca empresários e investidores e promete ajuste fiscal",
-    "titulo_original": "No início da campanha, Caiado busca empresários e investidores e promete ajuste fiscal",
-    "fonte": "Valor Economico",
-    "publicado": "17/08 18:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A promessa de ajuste fiscal por parte de Ronaldo Caiado é relevante, pois indica uma possível direção para as políticas econômicas futuras. Se eleito, a implementação dessas medidas pode impactar o cenário fiscal. A receptividade do setor produtivo às suas propostas é um indicador a ser observado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787004078.8160093,
-    "titulo": "Caiado propõe limitar despesas públicas a até 50% do crescimento do PIB mais inflação",
-    "titulo_original": "Caiado propõe limitar despesas públicas a até 50% do crescimento do PIB mais inflação",
-    "fonte": "Money Times",
-    "publicado": "17/08 17:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de Caiado de limitar despesas públicas é uma sinalização clara de sua agenda fiscal. Se implementada, essa medida teria um impacto significativo nas contas públicas. A viabilidade e os detalhes dessa proposta, caso eleito, serão cruciais para avaliar seu efeito no cenário econômico e fiscal do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787004083.4581418,
-    "titulo": "Dólar hoje cai 0,41%, a R$ 5,19, acompanhando exterior, após 5 sessões de altas - InfoMoney",
-    "titulo_original": "Dólar hoje cai 0,41%, a R$ 5,19, acompanhando exterior, após 5 sessões de altas - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/08 17:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do dólar, após um período de altas, sugere uma melhora no apetite por risco global ou um ajuste técnico. Se a tendência de queda se mantiver, pode indicar um cenário mais favorável para ativos de risco no Brasil. Acompanhar se essa movimentação é sustentada ou apenas um ajuste pontual é crucial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787004089.3749082,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br e eleições; PETR4 e VALE3 sobem - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br e eleições; PETR4 e VALE3 sobem - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "17/08 15:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A oscilação do Ibovespa, com destaque para PETR4 e VALE3, reflete a influência de dados de atividade econômica (IBC-Br) e o cenário eleitoral. Se o IBC-Br apresentar números significativamente diferentes do esperado, isso pode gerar volatilidade adicional. A evolução do cenário eleitoral também é um fator de atenção para o mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787004089.3763168,
-    "titulo": "Pré-sal transformou petróleo no primeiro produto de exportação do Brasil, diz CEO da Petrobras",
-    "titulo_original": "Pré-sal transformou petróleo no primeiro produto de exportação do Brasil, diz CEO da Petrobras",
-    "fonte": "Valor Economico",
-    "publicado": "17/08 18:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da CEO da Petrobras sobre a importância do petróleo para as exportações brasileiras e a potencial recomposição de reservas é relevante para o setor de energia. No entanto, a notícia enfatiza que a descoberta comercial ainda depende de estudos, o que limita o impacto imediato. A menção a respeito de atuar com respeito ao meio ambiente e a ausência de acidentes são pontos de atenção para a governança.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787004089.3776414,
-    "titulo": "Lojas Renner (LREN3): Citi corta preço-alvo após revisão do guidance; ações caem",
-    "titulo_original": "Lojas Renner (LREN3): Citi corta preço-alvo após revisão do guidance; ações caem",
-    "fonte": "Money Times",
-    "publicado": "17/08 18:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda das ações da Lojas Renner, influenciada pela revisão de preço-alvo do Citi, é um evento específico de mercado acionário. Embora o IBC-Br tenha sido mencionado como um alívio para a curva de juros, a notícia foca no desempenho da empresa. Se a revisão do guidance da Lojas Renner indicar problemas setoriais mais amplos, a relevância pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787004089.3788996,
-    "titulo": "Ibovespa e dólar caem com Casas Bahia, Boletim Focus e indicadores econômicos no radar - VEJA",
-    "titulo_original": "Ibovespa e dólar caem com Casas Bahia, Boletim Focus e indicadores econômicos no radar - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/08 17:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa e do dólar, com menção a Casas Bahia e Boletim Focus, indica um cenário de cautela no mercado. A recuperação judicial da Casas Bahia é um evento específico que pode gerar volatilidade. O Boletim Focus, ao apresentar as expectativas do mercado, pode influenciar a percepção sobre juros e inflação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787009442.6173275,
-    "titulo": "Juros futuros recuam com correção, mas exterior limita queda",
-    "titulo_original": "Juros futuros recuam com correção, mas exterior limita queda",
-    "fonte": "Valor Economico",
-    "publicado": "17/08 17:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda nos juros futuros locais, apesar da correção, sugere que o estresse recente com a saída de capital estrangeiro ainda impacta o mercado. A pressão externa, especialmente a alta do petróleo e os juros nos EUA, continuará a ser um fator limitante para uma queda mais acentuada dos juros no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787009446.9815633,
-    "titulo": "Bessent tentou, mas não impediu que o Japão afetasse os Treasuries",
-    "titulo_original": "Bessent tentou, mas não impediu que o Japão afetasse os Treasuries",
-    "fonte": "Valor Economico",
-    "publicado": "17/08 19:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A persistência da pressão sobre os juros de longo prazo globais, evidenciada pela alta dos Treasuries, pode continuar a limitar a queda dos juros futuros no Brasil. Se o cenário externo de juros elevados se mantiver, o fluxo de capital para mercados emergentes pode ser retraído.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787009452.7130492,
-    "titulo": "CVM processa presidente do BB por declarações ‘excessivamente otimistas’",
-    "titulo_original": "CVM processa presidente do BB por declarações ‘excessivamente otimistas’",
-    "fonte": "Valor Economico",
-    "publicado": "17/08 20:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A instauração do processo pela CVM pode gerar cautela em declarações futuras de executivos de empresas de capital aberto. Se o Banco do Brasil for penalizado, isso pode reforçar a necessidade de precisão e moderação em comunicações com o mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787009452.7138174,
-    "titulo": "Aperto no crédito pressiona FIIs de imóveis residenciais de médio e alto padrão",
-    "titulo_original": "Aperto no crédito pressiona FIIs de imóveis residenciais de médio e alto padrão",
-    "fonte": "InvestNews",
-    "publicado": "17/08 16:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aperto no crédito pode levar a uma desvalorização dos FIIs de imóveis residenciais de médio e alto padrão. Se a demanda continuar fraca e o crédito restrito, os rendimentos desses fundos podem ser afetados, exigindo uma análise mais criteriosa por parte dos investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787009452.7216146,
-    "titulo": "'Maldição do petróleo' ainda pesa sobre a Guiana 7 anos após megadescoberta em área próxima à Margem Equatorial - O GLOBO",
-    "titulo_original": "'Maldição do petróleo' ainda pesa sobre a Guiana 7 anos após megadescoberta em área próxima à Margem Equatorial - O GLOBO",
-    "fonte": "Google News Commodities",
-    "publicado": "17/08 17:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A situação da Guiana, mesmo após uma megadescoberta de petróleo, serve como um alerta sobre os desafios da gestão de recursos naturais. Se o Brasil avançar na exploração da Margem Equatorial, é crucial aprender com os exemplos de outros países para evitar armadilhas econômicas e sociais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787052658.8664012,
     "titulo": "Dólar e juros futuros têm dia de alívio após 5 pregões de alta",
     "titulo_original": "Dólar e juros futuros têm dia de alívio após 5 pregões de alta - Valor Econômico",
@@ -1103,6 +782,75 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A elevação da nota de crédito da Cemig pela S&P indica uma melhora na percepção de risco da empresa. Se a empresa continuar a gerenciar sua alavancagem de forma eficaz, isso pode facilitar o acesso a financiamentos futuros em melhores condições.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787139047.4702032,
+    "titulo": "Dólar e juros longos sobem com saída de capital estrangeiro do país",
+    "titulo_original": "Dólar e juros longos sobem com saída de capital estrangeiro do país - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/08 07:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro pressionando o dólar e os juros longos no Brasil é um sinal de aversão ao risco ou busca por melhores retornos em outros mercados. Se essa tendência de saída de capital persistir, pode haver maior volatilidade no câmbio e pressão por juros mais altos para atrair investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787139051.0604818,
+    "titulo": "Quando a dívida em reais pressiona o dólar",
+    "titulo_original": "Quando a dívida em reais pressiona o dólar",
+    "fonte": "Folha Mercado",
+    "publicado": "19/08 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da dívida pública atrelada à Selic no Brasil indica uma maior sensibilidade às taxas de juros e uma menor previsibilidade fiscal. Se essa tendência persistir, pode dificultar a gestão da dívida e pressionar o dólar devido à incerteza sobre as contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787139054.4740555,
+    "titulo": "Inflação da zona do euro confirmada em leve alta em julho",
+    "titulo_original": "Euro area inflation confirmed to nudge up a little in July",
+    "fonte": "ForexLive",
+    "publicado": "19/08 06:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A leve alta na inflação da zona do euro em julho pode manter os formuladores de política do BCE em alerta para a decisão de setembro. Se os dados de inflação continuarem a mostrar pressões persistentes, o BCE pode adiar ou moderar qualquer expectativa de corte de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787139058.07802,
+    "titulo": "Inflação ao consumidor do Reino Unido sobe em julho, preços subjacentes permanecem estáveis",
+    "titulo_original": "UK headline inflation picks up in July, core prices hold steady",
+    "fonte": "ForexLive",
+    "publicado": "19/08 03:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A inflação ao consumidor no Reino Unido em julho, embora em linha com as expectativas, pode manter o Banco da Inglaterra em alerta sobre as pressões de preços. Se a inflação subjacente começar a mostrar sinais de aceleração, isso pode influenciar a política monetária do banco central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787139062.13994,
+    "titulo": "Juro dos EUA, petróleo, dólar, Ibovespa, agenda e mais pílulas da economia 19.08",
+    "titulo_original": "Juro dos EUA, petróleo, dólar, Ibovespa, agenda e mais pílulas da economia 19.08 - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/08 08:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A junção de informações sobre juros dos EUA, petróleo e dólar sugere um cenário de interconexão entre mercados globais e domésticos. Se os juros dos EUA subirem significativamente, isso pode impactar o fluxo de capital para o Brasil e a cotação do dólar.",
     "is_stocks": true
   }
 ]

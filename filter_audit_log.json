@@ -1,71 +1,5 @@
 [
   {
-    "_timestamp": 1785886243.6025047,
-    "titulo": "Latam divulga 42 rotas da primeira fase de operação com Embraer E2",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.6061115,
-    "titulo": "Investimentos da SpaceX em IA sobem em mais de 21 vezes e atingem US$ 15,8 bi no 2º tri",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.609563,
-    "titulo": "Luiza Trajano pede cota de 50% para mulher em cargo de liderança, em evento que tem Cármen Lúcia ovacionada",
-    "fonte": "Folha Mercado",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.6130044,
-    "titulo": "Gávea, de Arminio Fraga, deixa gestão de fundos multimercados e indica Bradesco Asset",
-    "fonte": "Folha Mercado",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.6164153,
-    "titulo": "Ações da Bradsaúde recuam mais de 11% após alta da sinistralidade no 2º tri",
-    "fonte": "Folha Mercado",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.630264,
-    "titulo": "Banco pagará R$ 1,63 por ação em JCP; veja detalhes",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.6337082,
-    "titulo": "Tenda (TEND3) tem lucro acima do esperado no 2º trimestre e eleva previsões",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.637288,
-    "titulo": "Com varejo mais fraco e custo maior, o tênis de corrida dá fôlego para dona da Olympikus",
-    "fonte": "InvestNews",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.6407416,
-    "titulo": "Ações do ‘Julho Amarelo’ mobilizam mais de mil pessoas e superam 600 testes rápidos nas USFs - Prefeitura de Suzano",
-    "fonte": "Google News Acoes",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.6442094,
-    "titulo": "Conab prorroga edital para armazenagem de farelo de soja - Agrolink",
-    "fonte": "Google News Commodities",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1785886243.6476908,
-    "titulo": "Viralizou, mas é fake: Anvisa reforça que não há presença de plástico ou petróleo em ovos - Canal Rural",
-    "fonte": "Google News Commodities",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
     "_timestamp": 1785929448.6029713,
     "titulo": "Bitcoin hovers above $64k with Hormuz deal in focus",
     "fonte": "Investing.com",
@@ -3921,6 +3855,78 @@
     "_timestamp": 1787095838.329294,
     "titulo": "Da sobrevivência à ambição: como o Irã transformou a guerra com os EUA em trunfo geopolítico - Brasil de Fato",
     "fonte": "Google News Geopolitica",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4321783,
+    "titulo": "Bitcoin flat at $64k as markets parse U.S. regulations, Iran tensions",
+    "fonte": "Investing.com",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4360578,
+    "titulo": "Cosan comunica bolsa de Nova York sobre saída",
+    "fonte": "Folha Mercado",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4398203,
+    "titulo": "Os bastidores da disputa entre Ford e GM na guerra comercial de Trump",
+    "fonte": "InvestNews",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4435344,
+    "titulo": "Agenda de Lula com Petrobras alcança dez encontros no ano e atinge ‘ápice’ no Amapá - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4473188,
+    "titulo": "SOJA E TRIGO: saca da soja sobe 1,07% no Paraná e chega a R$ 143,21 - Brasil 61",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4510355,
+    "titulo": "Amazon planeja expandir entrega por drones para quase 500 cidades nos EUA até o fim do ano",
+    "fonte": "Valor Economico",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4547508,
+    "titulo": "Fundo imobiliário reduz vacância e estima impacto na cota; Ifix volta a subir",
+    "fonte": "Money Times",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4585052,
+    "titulo": "Descoberta na Foz do Amazonas só será 'passaporte para o futuro' se modelo adotado no pré-sal mudar, diz ex-diretor da Petrobras - BBC",
+    "fonte": "Google News Acoes",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4622335,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4660797,
+    "titulo": "Opinião: Trump tem pior índice de aprovação e não dá sinais de que mudará de rumo - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.4697967,
+    "titulo": "Agenda de empresas: Braskem Idesa propõe conversão de dívidas; JBS quer fechar capital da Pilgrim’s Pride",
+    "fonte": "Valor Economico",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787139044.473469,
+    "titulo": "Como uma empresa que imitou a marca Jordan driblou a Nike na China",
+    "fonte": "Folha Mercado",
     "relevancia_atribuida": "BAIXA"
   }
 ]
