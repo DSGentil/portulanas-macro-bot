@@ -1,87 +1,5 @@
 [
   {
-    "_timestamp": 1787058939.0467656,
-    "titulo": "Primeiros resultados com novo modelo de financiamento imobiliário são animadores, afirma diretor do BC",
-    "titulo_original": "Primeiros resultados com novo modelo de financiamento imobiliário são animadores, afirma diretor do BC",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 10:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O novo modelo de financiamento imobiliário, que visa diversificar as fontes de funding, pode reduzir a dependência da poupança. Se a transição for bem-sucedida, o mercado imobiliário pode se tornar menos volátil a mudanças nas taxas de juros que afetam a poupança.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787058942.5005693,
-    "titulo": "Estratégia de Renda: As ações que pagam mais de 14% e superam a barreira da Selic - ISTOÉ DINHEIRO",
-    "titulo_original": "Estratégia de Renda: As ações que pagam mais de 14% e superam a barreira da Selic - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/08 08:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A busca por ações com dividend yield acima da Selic sugere que investidores estão procurando alternativas de renda em um cenário de juros elevados. Se a Selic começar a cair, a atratividade dessas ações pode mudar, dependendo da sua capacidade de manter ou aumentar os proventos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787058946.010507,
-    "titulo": "Novo modelo de crédito imobiliário é fundamental para o mercado, mas existem outras variáveis, diz VP da Caixa",
-    "titulo_original": "Novo modelo de crédito imobiliário é fundamental para o mercado, mas existem outras variáveis, diz VP da Caixa",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 10:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da VP da Caixa reforça a ideia de que o novo modelo de crédito imobiliário é um passo importante, mas seu sucesso dependerá de um conjunto mais amplo de fatores macroeconômicos e regulatórios. Se as questões regulatórias não forem bem endereçadas, o impacto do novo modelo pode ser limitado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787058949.4881284,
-    "titulo": "Apesar de crise no agro, empresas preveem dobrar de tamanho em cinco anos no país",
-    "titulo_original": "Apesar de crise no agro, empresas preveem dobrar de tamanho em cinco anos no país",
-    "fonte": "Folha Mercado",
-    "publicado": "18/08 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A previsão de crescimento de empresas estrangeiras no setor de máquinas agrícolas no Brasil, mesmo em meio a uma crise, indica uma confiança na recuperação do agronegócio a médio prazo. Se a concorrência chinesa e a volatilidade do dólar se mantiverem, o alcance dessa meta pode ser desafiador.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787058953.88001,
-    "titulo": "UK labour market shows further signs of cooling in June",
-    "titulo_original": "UK labour market shows further signs of cooling in June",
-    "fonte": "ForexLive",
-    "publicado": "18/08 05:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração no mercado de trabalho do Reino Unido pode levar o Banco da Inglaterra a considerar uma política monetária mais branda. Se a tendência de arrefecimento se mantiver, o banco central pode ter mais espaço para cortes de juros no futuro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787058953.8817277,
-    "titulo": "Relatório aponta ações para destravar mineração e levar produção nacional a R$ 535 bi",
-    "titulo_original": "Relatório aponta ações para destravar mineração e levar produção nacional a R$ 535 bi",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 10:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O relatório sobre o potencial da mineração brasileira aponta para um crescimento expressivo na produção e arrecadação fiscal, condicionado a uma agenda coordenada. Se as políticas públicas forem efetivamente orientadas por essas propostas, o setor pode se tornar um importante motor de crescimento e arrecadação para o país.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787066148.15573,
     "titulo": "Há espaço para crédito imobiliário representar mais de 20% do PIB do país, diz ministro das Cidades",
     "titulo_original": "Há espaço para crédito imobiliário representar mais de 20% do PIB do país, diz ministro das Cidades",
@@ -1137,6 +1055,102 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A afirmação de que o retorno do capital estrangeiro é chave para a bolsa brasileira destaca a importância do fluxo de capital para a sustentação do mercado acionário. Se a entrada de capital estrangeiro se concretizar, isso pode impulsionar o Ibovespa; caso contrário, a bolsa pode enfrentar dificuldades em manter a tendência de alta. A percepção de risco e a atratividade dos ativos brasileiros serão determinantes para atrair esse fluxo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787171444.072015,
+    "titulo": "Ministérios defendem revisão de exigência de CNPJ para nanoempreendedores",
+    "titulo_original": "Ministérios defendem revisão de exigência de CNPJ para nanoempreendedores",
+    "fonte": "Folha Mercado",
+    "publicado": "19/08 17:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A possível revisão da exigência de CNPJ para nanoempreendedores pode simplificar a formalização para pequenos negócios. Se a mudança for aprovada, pode haver um aumento na formalização desses empreendedores; caso contrário, a burocracia pode persistir como um obstáculo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787171447.611939,
+    "titulo": "Até onde o dólar pode subir com as eleições? Banco alemão projeta virada no câmbio",
+    "titulo_original": "Até onde o dólar pode subir com as eleições? Banco alemão projeta virada no câmbio - estadao.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/08 16:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de um banco alemão sobre a alta do dólar com as eleições sugere que o cenário eleitoral pode gerar volatilidade cambial. Se as eleições trouxerem incerteza, o dólar pode se valorizar; um resultado mais claro e previsível, por outro lado, poderia estabilizar a moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787171451.0813348,
+    "titulo": "Governo e Congresso não chegam a acordo, e taxa das blusinhas pode voltar às vésperas da eleição",
+    "titulo_original": "Governo e Congresso não chegam a acordo, e taxa das blusinhas pode voltar às vésperas da eleição",
+    "fonte": "Folha Mercado",
+    "publicado": "19/08 15:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A falta de acordo entre governo e Congresso sobre a 'taxa das blusinhas' pode gerar incerteza regulatória e impactar o comércio eletrônico. Se a taxa for reintroduzida, pode haver um aumento nos custos para consumidores e empresas importadoras; a ausência de definição pode manter o status quo por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787171454.5986664,
+    "titulo": "Equipe de Flávio Bolsonaro modula discurso contra Reforma Tributária e avalia abreviar transição",
+    "titulo_original": "Equipe de Flávio Bolsonaro modula discurso contra Reforma Tributária e avalia abreviar transição",
+    "fonte": "Money Times",
+    "publicado": "19/08 17:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação da equipe de Flávio Bolsonaro para abreviar a transição da Reforma Tributária pode acelerar mudanças fiscais. Se essa proposta for adiante, pode haver uma redução mais rápida de benefícios fiscais; o contrário seria a manutenção do cronograma original, com impactos mais graduais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787171459.228614,
+    "titulo": "Estrangeiros retiram mais de R$ 496 milhões da B3 em 17 de agosto, e saldo mensal está negativo em R$ 18,6 bi",
+    "titulo_original": "Estrangeiros retiram mais de R$ 496 milhões da B3 em 17 de agosto, e saldo mensal está negativo em R$ 18,6 bi",
+    "fonte": "Valor Economico",
+    "publicado": "19/08 16:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída expressiva de capital estrangeiro em agosto pode pressionar o mercado acionário doméstico. Se essa tendência se mantiver nas próximas semanas, o Ibovespa pode enfrentar dificuldades para sustentar ganhos; uma reversão desse fluxo, por outro lado, poderia impulsionar uma recuperação mais forte.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787171459.230579,
+    "titulo": "Gol tem alta em tráfego e capacidade de voos, com bom desempenho doméstico e internacional",
+    "titulo_original": "Gol tem alta em tráfego e capacidade de voos, com bom desempenho doméstico e internacional",
+    "fonte": "Valor Economico",
+    "publicado": "19/08 16:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento no tráfego e capacidade de voos da Gol sugere uma recuperação ou expansão do setor aéreo. Se essa tendência de crescimento se mantiver, pode indicar uma melhora na confiança do consumidor e na atividade econômica; uma desaceleração nesse ritmo poderia sinalizar desafios futuros para o setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787171459.2324452,
+    "titulo": "B3 suspende negociação de ações da Refit",
+    "titulo_original": "B3 suspende negociação de ações da Refit - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "19/08 15:33",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão da negociação das ações da Refit pela B3 indica um evento específico da empresa que impede sua negociação no mercado. Se a suspensão for temporária e relacionada a questões administrativas, a volta à negociação pode ocorrer em breve; se for por motivos mais graves, pode sinalizar problemas estruturais.",
     "is_stocks": true
   }
 ]
