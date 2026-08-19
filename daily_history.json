@@ -852,5 +852,81 @@
     "origem": "ambas",
     "leitura_critica": "A junção de informações sobre juros dos EUA, petróleo e dólar sugere um cenário de interconexão entre mercados globais e domésticos. Se os juros dos EUA subirem significativamente, isso pode impactar o fluxo de capital para o Brasil e a cotação do dólar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787145412.6851723,
+    "titulo": "Mais de 40% das operações de consignado CLT são de renda de até dois salários",
+    "titulo_original": "Mais de 40% das operações de consignado CLT são de renda de até dois salários",
+    "fonte": "Folha Mercado",
+    "publicado": "19/08 09:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A concentração de operações de consignado CLT em faixas de renda mais baixas, aliada a uma taxa de inadimplência já elevada, sugere um risco crescente para o setor de crédito. Se a inadimplência continuar a subir, pode haver um aperto ainda maior nas condições de crédito para essa parcela da população.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787145416.2366478,
+    "titulo": "Pré-mercado: Investidores Aguardam Minutas da Reunião do Fed; Petróleo Sobe",
+    "titulo_original": "Pré-mercado: Investidores Aguardam Minutas da Reunião do Fed; Petróleo Sobe - Forbes Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/08 08:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A divulgação das minutas do Fed pode trazer clareza sobre a postura futura da política monetária americana, influenciando os mercados globais. A alta do petróleo, por sua vez, pode ter implicações inflacionárias e impactar custos em diversas economias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787145419.6900334,
+    "titulo": "Herdeiros de magnata do petróleo acusam Venezuela de confiscar seus ativos para vender à empresa americana",
+    "titulo_original": "Herdeiros de magnata do petróleo acusam Venezuela de confiscar seus ativos para vender à empresa americana - O GLOBO",
+    "fonte": "Google News Commodities",
+    "publicado": "19/08 09:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A acusação de confisco de ativos pela Venezuela a herdeiros de um magnata do petróleo, com intenção de venda a uma empresa americana, pode gerar tensões diplomáticas e impactar a percepção de risco para investimentos no país sul-americano. Se houver ações legais ou sanções, isso pode afetar o fluxo de capital na região.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787145423.2337434,
+    "titulo": "Emirados Árabes impõem embargo financeiro ao Irã após ameaça de mísseis",
+    "titulo_original": "Emirados Árabes impõem embargo financeiro ao Irã após ameaça de mísseis",
+    "fonte": "Valor Economico",
+    "publicado": "19/08 09:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O embargo financeiro imposto pelos Emirados Árabes ao Irã, em resposta a uma ameaça de mísseis, eleva as tensões geopolíticas no Oriente Médio. Se essa escalada persistir, pode haver impactos nos preços do petróleo e no fluxo de comércio na região.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787145427.735664,
+    "titulo": "US Treasury está aumentando o tamanho das operações de recompra de liquidez para títulos de longo prazo",
+    "titulo_original": "US Treasury is increasing the size of liquidity support buyback operations for longer-dated securities",
+    "fonte": "ForexLive",
+    "publicado": "19/08 09:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento das operações de recompra de liquidez pelo Tesouro dos EUA pode ser interpretado como uma tentativa de aliviar a pressão sobre os rendimentos de títulos de longo prazo, funcionando como um 'mini QE'. Se essa ação for percebida como um afrouxamento das condições financeiras, pode levar a uma queda nos rendimentos de longo prazo, uma desvalorização do dólar e uma alta em ouro e ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787145427.7373023,
+    "titulo": "Estrangeiros fazem o maior saque semanal da B3 desde 2008",
+    "titulo_original": "Estrangeiros fazem o maior saque semanal da B3 desde 2008 - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "19/08 05:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O expressivo saque de capital estrangeiro da B3, o maior desde 2008, sugere uma perda de confiança ou uma realocação de portfólio por parte desses investidores. Se essa tendência de saída de capital se mantiver, pode pressionar o câmbio e o desempenho da bolsa brasileira no curto e médio prazo.",
+    "is_stocks": true
   }
 ]
