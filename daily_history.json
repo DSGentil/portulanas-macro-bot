@@ -1,105 +1,5 @@
 [
   {
-    "_timestamp": 1787157945.5697262,
-    "titulo": "Trump diz a repórteres que EUA e Canadá chegaram a um acordo, sugere que negociações com o Irã continuam",
-    "titulo_original": "Trump tells reporters US and Canada reached a deal, suggests Iran negotiations continue",
-    "fonte": "ForexLive",
-    "publicado": "19/08 12:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O acordo comercial com o Canadá pode trazer alguma estabilidade para a moeda canadense, embora parte do movimento já possa ter sido precificado. A menção a negociações com o Irã e a previsão de queda no preço do petróleo indicam um cenário de potencial alívio nas tensões geopolíticas que afetam o mercado de energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787157950.0855763,
-    "titulo": "Soja dispara em Chicago nesta 4ª, com clima nos EUA, Pro Farmer e força dos derivados e do petróleo",
-    "titulo_original": "Soja dispara em Chicago nesta 4ª, com clima nos EUA, Pro Farmer e força dos derivados e do petróleo - Notícias Agrícolas",
-    "fonte": "Google News Commodities",
-    "publicado": "19/08 07:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta expressiva na soja em Chicago pode impactar os preços das commodities agrícolas no Brasil, especialmente se a tendência se mantiver. Fatores climáticos e a relação com o petróleo são pontos a serem observados para entender a sustentabilidade desse movimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787157954.5429444,
-    "titulo": "Trump anuncia acordo com o Canadá e diz que tarifas serão zeradas para agricultores",
-    "titulo_original": "Trump anuncia acordo com o Canadá e diz que tarifas serão zeradas para agricultores - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "19/08 12:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia sobre a isenção de tarifas para agricultores no acordo com o Canadá é positiva para o setor e pode ter reflexos nos preços de commodities agrícolas. Se o acordo for confirmado e amplamente divulgado, pode trazer mais clareza para os mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787157959.1905231,
-    "titulo": "Ouro salta 3% com queda dos juros nos EUA e chega a US$ 4,5 mil",
-    "titulo_original": "Ouro salta 3% com queda dos juros nos EUA e chega a US$ 4,5 mil - valorinveste.globo.com",
-    "fonte": "Google News Commodities",
-    "publicado": "19/08 13:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do ouro em resposta à queda dos juros nos EUA é um movimento clássico, pois juros mais baixos tornam o ouro, um ativo sem rendimento, relativamente mais atraente. Se essa tendência de queda nos juros americanos se confirmar, o ouro pode continuar sua trajetória de alta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787157965.1149056,
-    "titulo": "Estoques de petróleo dos EUA contrariam projeções e sobem 4,4 milhões de barris",
-    "titulo_original": "Estoques de petróleo dos EUA contrariam projeções e sobem 4,4 milhões de barris",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 13:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta inesperada nos estoques de petróleo pode pressionar os preços da commodity no curto prazo. Se os dados das próximas semanas confirmarem essa tendência de aumento, o cenário para o petróleo pode se tornar mais baixista; caso contrário, o mercado pode reagir a outros fatores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787157965.1166866,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/08 12:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Acompanhar a cotação do dólar ao vivo é fundamental para quem opera no mercado financeiro. A relevância específica dependerá das variações observadas ao longo do dia e dos fatores que as influenciam, que não são detalhados nesta notícia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787157965.1183584,
-    "titulo": "Sessão europeia da investingLive: Dólar esfria em mercados mistos, inflação do Reino Unido acelera em julho",
-    "titulo_original": "investingLive European session wrap: Dollar cools on mixed markets, UK inflation picks up in July",
-    "fonte": "ForexLive",
-    "publicado": "19/08 08:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A aceleração da inflação no Reino Unido e na zona do euro pode reforçar a postura mais cautelosa dos bancos centrais nessas regiões. A expectativa pelos minutos do FOMC é crucial para entender os próximos passos da política monetária americana, o que pode influenciar o dólar e outros mercados globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787157965.1199834,
-    "titulo": "Alphabet levanta US$ 3,9 bilhões em títulos inaugurais em dólares australianos",
-    "titulo_original": "Alphabet levanta US$ 3,9 bilhões em títulos inaugurais em dólares australianos",
-    "fonte": "Money Times",
-    "publicado": "19/08 13:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A emissão de títulos pela Alphabet em dólares australianos demonstra a busca por diversificação de fontes de financiamento e a força do mercado de capitais. Para o Brasil, o impacto direto é limitado, mas reflete um movimento global de empresas de tecnologia buscando capital.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787164247.09342,
     "titulo": "Fluxo cambial registra entrada líquida de US$ 851 milhões na semana de 14 de agosto, diz BC",
     "titulo_original": "Fluxo cambial registra entrada líquida de US$ 851 milhões na semana de 14 de agosto, diz BC",
@@ -1103,6 +1003,48 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O fechamento do Ibovespa perto da estabilidade e a alta do dólar indicam um mercado com pouca direção clara no dia. A ausência de fatores macroeconômicos específicos que expliquem esses movimentos sugere que o mercado pode estar consolidando posições ou aguardando novos dados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787268643.7685218,
+    "titulo": "Atividade econômica da Argentina supera expectativas e cresce 0,8% em junho",
+    "titulo_original": "Atividade econômica da Argentina supera expectativas e cresce 0,8% em junho",
+    "fonte": "Valor Economico",
+    "publicado": "20/08 17:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O crescimento da atividade econômica argentina em junho, superior às expectativas, sugere uma possível desaceleração da recessão no país. Se essa tendência de recuperação se mantiver nos próximos meses, isso poderá sinalizar uma melhora no cenário macroeconômico argentino; no entanto, a volatilidade histórica da economia do país exige cautela na interpretação desses dados isolados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787268648.4868112,
+    "titulo": "Confiança do consumidor do Reino Unido atinge máxima de dois anos, apesar do alerta de inflação",
+    "titulo_original": "UK consumer confidence hits two year high despite inflation warning",
+    "fonte": "ForexLive",
+    "publicado": "20/08 20:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento da confiança do consumidor no Reino Unido, mesmo em meio a alertas de inflação, pode indicar uma resiliência do consumo doméstico. Se essa confiança se traduzir em aumento de gastos, isso pode sustentar a atividade econômica; contudo, se a inflação persistir em alta, o poder de compra dos consumidores pode ser erodido, revertendo o sentimento positivo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787268653.8881576,
+    "titulo": "Lula anuncia pacote de R$ 2,3 bi para compra de supercomputador e transferência de tecnologia de IA",
+    "titulo_original": "Lula anuncia pacote de R$ 2,3 bi para compra de supercomputador e transferência de tecnologia de IA",
+    "fonte": "Valor Economico",
+    "publicado": "20/08 19:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O investimento em supercomputação e IA pode impulsionar a capacidade tecnológica do Brasil, potencialmente gerando ganhos de produtividade em diversos setores. Se a infraestrutura for bem implementada e a transferência de tecnologia for eficaz, isso poderá posicionar o país na vanguarda da inovação; contudo, a concretização desses benefícios dependerá da gestão e da adoção das novas tecnologias pela indústria e academia.",
     "is_stocks": true
   }
 ]
