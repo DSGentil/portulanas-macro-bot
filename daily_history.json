@@ -1,359 +1,5 @@
 [
   {
-    "_timestamp": 1787077848.001737,
-    "titulo": "Tesouro aproveita vencimento recorde de NTN-Bs e sai do modo defensivo em leilão",
-    "titulo_original": "Tesouro aproveita vencimento recorde de NTN-Bs e sai do modo defensivo em leilão",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 14:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A emissão de NTN-Bs em volume significativo, aproveitando um vencimento expressivo, indica uma gestão ativa da dívida pública em relação à inflação. Se a demanda por esses títulos se mantiver forte, pode sinalizar confiança do mercado na capacidade do Tesouro de gerenciar a inflação futura, embora a notícia em si não detalhe o apetite do mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787077852.8429427,
-    "titulo": "Com Selic ainda elevada, bancos cobram ajustes em modelo de crédito imobiliário",
-    "titulo_original": "Com Selic ainda elevada, bancos cobram ajustes em modelo de crédito imobiliário - valor.globo.com",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/08 14:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A cobrança de ajustes no crédito imobiliário por bancos, em função da Selic elevada, demonstra o impacto da política monetária restritiva sobre setores específicos da economia. Se houver uma redução significativa nos juros, isso pode destravar o mercado imobiliário e impulsionar a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787077857.5457122,
-    "titulo": "Esmagamento de soja em Mato Grosso bateu recorde em julho",
-    "titulo_original": "Esmagamento de soja em Mato Grosso bateu recorde em julho - Globo Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "18/08 14:18",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O recorde no esmagamento de soja em Mato Grosso é um indicador positivo para a atividade econômica do agronegócio no estado. Se esse desempenho se mantiver e se refletir em outros indicadores de atividade, pode contribuir para o quadro geral da economia brasileira, mas a notícia em si não detalha impactos macroeconômicos mais amplos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787077862.226961,
-    "titulo": "Bolsa brasileira enfrenta prêmio maior e disputa mais acirrada por capital, diz Robeco",
-    "titulo_original": "Bolsa brasileira enfrenta prêmio maior e disputa mais acirrada por capital, diz Robeco",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 14:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A observação da Robeco sobre a saída de capital estrangeiro e a maior disputa por recursos é um indicativo de menor atratividade do mercado brasileiro no momento. Se essa tendência de saída de capital se mantiver, pode pressionar o câmbio e afetar a liquidez na bolsa. A recuperação desse fluxo dependerá de melhorias no cenário macroeconômico e fiscal doméstico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787077868.0242062,
-    "titulo": "Se juro cair e renda variável se recuperar, não vai ter ativo que comporte a demanda, diz gestor",
-    "titulo_original": "Se juro cair e renda variável se recuperar, não vai ter ativo que comporte a demanda, diz gestor",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 14:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de uma demanda reprimida por renda variável, caso os juros caiam e o mercado se recupere, sugere um potencial de valorização expressivo para a bolsa. Se a política monetária se tornar mais branda, a migração de capital do CDI para ações pode ser um fator importante para o mercado, mas a concretização desse cenário depende da trajetória futura da inflação e das decisões do Banco Central.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787077868.0260255,
-    "titulo": "Hapvida (HAPV3) ganha fôlego e sobe mais de 3%",
-    "titulo_original": "Hapvida (HAPV3) ganha fôlego e sobe mais de 3%",
-    "fonte": "Money Times",
-    "publicado": "18/08 14:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta das ações da Hapvida reflete um movimento específico do mercado de ações, sem conexão explícita com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital. A notícia é relevante para o segmento de ações, mas não para a análise macroeconômica em si.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787085041.1549718,
-    "titulo": "TCU bloqueia R$ 5 bi destinados a reduzir tarifas de energia no Norte e Nordeste",
-    "titulo_original": "TCU bloqueia R$ 5 bi destinados a reduzir tarifas de energia no Norte e Nordeste",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 17:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do TCU de bloquear os recursos pode gerar um impacto direto nas tarifas de energia das regiões afetadas, caso a medida se mantenha. Se o bloqueio for revertido, os consumidores podem ver uma redução nos custos de energia conforme planejado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787085044.651101,
-    "titulo": "Primeira Turma do STF torna réu deputado que desejou morte de Lula",
-    "titulo_original": "Primeira Turma do STF torna réu deputado que desejou morte de Lula",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 16:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do STF de tornar réu um deputado por injúria ao presidente é um fato jurídico e político. Não há impacto direto nos canais de análise macroeconômica, a menos que a notícia detalhe alguma consequência institucional ou regulatória que afete o ambiente de negócios.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787085048.107722,
-    "titulo": "Ex-consultor de Milei e autor de 'live' em 2022 sobre urnas brasileiras é detido na Bolívia",
-    "titulo_original": "Ex-consultor de Milei e autor de 'live' em 2022 sobre urnas brasileiras é detido na Bolívia",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 16:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A detenção de Fernando Cerimedo na Bolívia, com conexões políticas na Argentina e histórico de desinformação sobre o Brasil, adiciona um elemento de instabilidade regional. Se houver desdobramentos que afetem relações diplomáticas ou a percepção sobre a segurança eleitoral, isso pode ter repercussões indiretas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787085051.5592089,
-    "titulo": "Trump está ponderando se concede alívio tarifário ao Canadá - Politico",
-    "titulo_original": "Trump is weighing whether to grant Canada a tariff reprieve - Politico",
-    "fonte": "ForexLive",
-    "publicado": "18/08 16:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão de Trump sobre as tarifas pode impactar diretamente o fluxo comercial entre EUA e Canadá. Se as tarifas forem impostas, o dólar canadense pode sofrer desvalorização; caso contrário, um acordo pode trazer estabilidade à moeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787085056.4416125,
-    "titulo": "Wall Street cai com disparada dos Treasuries, petróleo e à espera de ata do Fed",
-    "titulo_original": "Wall Street cai com disparada dos Treasuries, petróleo e à espera de ata do Fed",
-    "fonte": "Money Times",
-    "publicado": "18/08 17:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda em Wall Street, influenciada pelos Treasuries e pela expectativa da ata do Fed, sugere cautela do mercado em relação à política monetária americana. Se a ata indicar um tom mais duro sobre inflação, isso pode sustentar juros altos e pressionar bolsas; um tom mais dovish pode reverter a tendência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787085056.4433072,
-    "titulo": "CVM define data para julgamento de Banco Master e Vorcaro em esquema de cotas de FII sobreavaliadas",
-    "titulo_original": "CVM define data para julgamento de Banco Master e Vorcaro em esquema de cotas de FII sobreavalidas",
-    "fonte": "Money Times",
-    "publicado": "18/08 17:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O julgamento pela CVM pode ter implicações para o Banco Master e para o mercado de fundos imobiliários, dependendo do desfecho. Se houver condenação, pode haver impacto na confiança dos investidores em FIIs específicos ou na gestão de ativos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787085056.4449587,
-    "titulo": "MPF pede esclarecimentos ao Ibama sobre perfuração de petróleo da Petrobras na Foz do Amazonas - Valor Econômico",
-    "titulo_original": "MPF pede esclarecimentos ao Ibama sobre perfuração de petróleo da Petrobras na Foz do Amazonas - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "18/08 12:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A solicitação de esclarecimentos pelo MPF ao Ibama sobre a perfuração de petróleo da Petrobras pode indicar um escrutínio maior sobre as operações da empresa. Se houver restrições ou embargos futuros, isso pode afetar a produção e os planos de investimento da Petrobras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787085056.4465961,
-    "titulo": "Disney processa governo Trump para barrar ameaça contra emissoras da ABC - G1",
-    "titulo_original": "Disney processa governo Trump para barrar ameaça contra emissoras da ABC - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "18/08 12:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O processo movido pela Disney contra o governo Trump é uma disputa legal específica que, por si só, não afeta diretamente os canais macroeconômicos. O desfecho pode ter implicações para a liberdade de imprensa ou para a relação entre o governo e a mídia, mas sem impacto direto em juros, inflação, etc.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787085056.448238,
-    "titulo": "Ainda sem acordo sobre preço, venda da CSN Cimentos segue indefinida",
-    "titulo_original": "Ainda sem acordo sobre preço, venda da CSN Cimentos segue indefinida",
-    "fonte": "Money Times",
-    "publicado": "18/08 17:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A indefinição na venda da CSN Cimentos pode impactar o desempenho da empresa e suas ações. Se um acordo for fechado, pode haver reações no mercado acionário; a falta de acordo pode manter a incerteza sobre o futuro da unidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787090465.7061856,
-    "titulo": "Falta de decreto sobre cavidades afeta produção de cobre e ferro, diz presidente da Vale",
-    "titulo_original": "Falta de decreto sobre cavidades afeta produção de cobre e ferro, diz presidente da Vale",
-    "fonte": "Folha Mercado",
-    "publicado": "18/08 15:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do presidente da Vale aponta para um entrave regulatório que impacta a produção de commodities importantes. Se o governo emitir o decreto solicitado, isso pode destravar a exploração e aumentar a produção, com potenciais reflexos nos preços e na receita da companhia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787090469.1240711,
-    "titulo": "Com cota chinesa preenchida, exportação de carne bovina recua",
-    "titulo_original": "Com cota chinesa preenchida, exportação de carne bovina recua",
-    "fonte": "Folha Mercado",
-    "publicado": "18/08 18:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O preenchimento da cota chinesa impacta diretamente o volume de exportação de carne bovina brasileira. Se a demanda chinesa se mantiver forte após o esgotamento da cota, isso pode levar a uma busca por outros mercados ou a uma pressão por renegociação de termos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787090473.929903,
-    "titulo": "Ibovespa tem dia volátil e encerra em queda com tramitação da PEC 6x1 no radar",
-    "titulo_original": "Ibovespa tem dia volátil e encerra em queda com tramitação da PEC 6x1 no radar",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 17:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A tramitação da PEC 6x1 no Senado gerou apreensão nos investidores, impactando negativamente o Ibovespa. Se a PEC for aprovada, isso pode alterar as regras de tributação e ter reflexos na economia. A queda do índice foi mitigada pela alta das ações de Petrobras e Vale, influenciadas pelo preço do petróleo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787090473.9318209,
-    "titulo": "Bolsas de NY recuam pressionadas por ‘techs’ e juros elevados",
-    "titulo_original": "Bolsas de NY recuam pressionadas por ‘techs’ e juros elevados",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 17:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A combinação de juros elevados e receios fiscais nos EUA pressiona as bolsas americanas, especialmente o setor de tecnologia. Se os juros continuarem em patamares altos, isso pode limitar o potencial de valorização das ações de crescimento. A alta dos juros soberanos japoneses também contribui para o cenário global de aperto monetário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787090473.933619,
-    "titulo": "PEC do fim da escala 6x1 avança no Senado",
-    "titulo_original": "PEC do fim da escala 6x1 avança no Senado",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 17:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O avanço da PEC do fim da escala 6x1 no Senado indica uma movimentação política em direção a uma possível mudança tributária. Se aprovada, a PEC pode ter implicações fiscais e impactar a arrecadação do governo, sendo importante acompanhar os desdobramentos na CCJ e no plenário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787090473.9353979,
-    "titulo": "Exportações de aço sobem em julho frente a junho, mas caem na base anual",
-    "titulo_original": "Exportações de aço sobem em julho frente a junho, mas caem na base anual",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 18:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas exportações anuais de aço pode indicar uma perda de competitividade ou demanda externa enfraquecida. A redução nas importações, por outro lado, pode ser um reflexo positivo das medidas antidumping implementadas pelo governo brasileiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787090473.9371865,
-    "titulo": "Depois de onze quedas, Ibovespa volta ao patamar do início do ano. É hora de voltar para a bolsa?",
-    "titulo_original": "Depois de onze quedas, Ibovespa volta ao patamar do início do ano. É hora de voltar para a bolsa?",
-    "fonte": "InvestNews",
-    "publicado": "18/08 16:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recuperação do Ibovespa ao patamar do início do ano, após uma sequência de quedas, pode ser interpretada como um sinal de otimismo do mercado. A volta do múltiplo P/L ao nível de janeiro sugere que as ações podem ter voltado a apresentar um valuation mais alinhado com o início do ano.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787095842.322786,
-    "titulo": "Governador do RJ diz que negocia juro menor com bancos para dívida de R$ 26 bi",
-    "titulo_original": "Governador do RJ diz que negocia juro menor com bancos para dívida de R$ 26 bi",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 19:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A negociação de juros menores para a dívida do Rio de Janeiro pode aliviar a pressão fiscal do estado. Se a reestruturação for bem-sucedida, o fluxo de caixa do estado pode melhorar, permitindo maior capacidade de investimento em outras áreas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787095846.7166872,
-    "titulo": "Dólar à vista fecha em alta de 0,44%, a R$5,2229 na venda",
-    "titulo_original": "Dólar à vista fecha em alta de 0,44%, a R$5,2229 na venda - Notícias Agrícolas",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/08 17:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O fechamento do dólar em alta reforça a tendência de desvalorização do real observada em dias de maior aversão ao risco. Se o cenário externo continuar desfavorável, a moeda brasileira pode enfrentar novas pressões, impactando o poder de compra e o custo de produtos importados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787095851.0880454,
-    "titulo": "Soja: produção cai para 180,46 milhões de toneladas",
-    "titulo_original": "Soja: produção cai para 180,46 milhões de toneladas - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "18/08 18:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda na produção de soja para 180,46 milhões de toneladas pode impactar a oferta global e os preços da commodity. Se essa redução for generalizada em outras regiões produtoras, pode haver um cenário de oferta mais restrita, sustentando preços mais elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787095855.4467447,
-    "titulo": "Dólar vai a R$ 5,22 em dia negativo para divisas emergentes",
-    "titulo_original": "Dólar vai a R$ 5,22 em dia negativo para divisas emergentes - economia.uol.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/08 17:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do dólar frente a divisas emergentes pode indicar um cenário de aversão ao risco global. Se essa tendência se intensificar, pode haver maior pressão sobre moedas de países em desenvolvimento, incluindo o real brasileiro, afetando o custo de importações e a inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787095860.4317665,
-    "titulo": "S&P eleva nota de crédito da Cemig, com perspectiva estável",
-    "titulo_original": "S&P eleva nota de crédito da Cemig, com perspectiva estável",
-    "fonte": "Valor Economico",
-    "publicado": "18/08 19:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A elevação da nota de crédito da Cemig pela S&P indica uma melhora na percepção de risco da empresa. Se a empresa continuar a gerenciar sua alavancagem de forma eficaz, isso pode facilitar o acesso a financiamentos futuros em melhores condições.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787139047.4702032,
     "titulo": "Dólar e juros longos sobem com saída de capital estrangeiro do país",
     "titulo_original": "Dólar e juros longos sobem com saída de capital estrangeiro do país - Canal Rural",
@@ -1040,5 +686,129 @@
     "origem": "domestica",
     "leitura_critica": "A projeção do J.P. Morgan para o dólar em R$ 5,50 em um cenário fiscal adverso indica uma forte sensibilidade do câmbio brasileiro a questões de política econômica. Se as incertezas fiscais aumentarem após as eleições, o real pode sofrer desvalorização, impactando a inflação e o poder de compra.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1787225455.7252398,
+    "titulo": "Imposto de Exportação pune quem produz e ameaça competitividade do petróleo",
+    "titulo_original": "Imposto de Exportação pune quem produz e ameaça competitividade do petróleo - JOTA Info",
+    "fonte": "Google News Commodities",
+    "publicado": "20/08 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A implementação de um imposto de exportação sobre o petróleo pode afetar a rentabilidade dos produtores e a competitividade do país no mercado internacional. Se a carga tributária for elevada, pode desestimular novos investimentos no setor e reduzir a produção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787225459.4295933,
+    "titulo": "Na melhor das hipóteses, a economia alemã pode crescer ligeiramente neste trimestre - Bundesbank",
+    "titulo_original": "At best, German economy may grow slightly in this quarter - Bundesbank",
+    "fonte": "ForexLive",
+    "publicado": "20/08 07:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A perspectiva de crescimento fraco na Alemanha, influenciada por fatores climáticos e monetários, pode sinalizar uma desaceleração mais ampla na zona do euro. Se os problemas de logística persistirem e as taxas de juros permanecerem elevadas, o cenário para o investimento e o consumo pode se deteriorar ainda mais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787225463.1702898,
+    "titulo": "Ministro das relações exteriores do Irã diz que 'Dia D econômico' de Trump trará 'mais derrota' aos EUA",
+    "titulo_original": "Ministro das relações exteriores do Irã diz que 'Dia D econômico' de Trump trará 'mais derrota' aos EUA - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "20/08 03:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do ministro iraniano sugere que o país não se intimida com as ameaças econômicas dos EUA, indicando uma postura de resistência. Se o Irã conseguir manter sua posição e contornar as sanções, a pressão econômica sobre os EUA pode aumentar em termos de influência regional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787225466.8624039,
+    "titulo": "Ministro das relações exteriores do Irã minimiza a ameaça econômica do presidente dos EUA, Trump",
+    "titulo_original": "Iran foreign minister plays down US president Trump's economic threat",
+    "fonte": "ForexLive",
+    "publicado": "20/08 04:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A postura do Irã em relação às ameaças econômicas dos EUA sugere que as sanções podem não ter o efeito desejado de forçar concessões. Se o Irã conseguir manter sua resiliência econômica e diplomática, a tensão na região pode persistir, impactando os mercados globais de energia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787225471.790413,
+    "titulo": "Austrália aprova lei para taxar gigantes da tecnologia que não pagarem por notícias locais",
+    "titulo_original": "Austrália aprova lei para taxar gigantes da tecnologia que não pagarem por notícias locais",
+    "fonte": "Valor Economico",
+    "publicado": "20/08 08:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Esta decisão regulatória da Austrália pode servir de precedente para outros países que buscam equilibrar a relação entre plataformas digitais e a produção de conteúdo local. Se outras nações adotarem medidas semelhantes, isso pode impactar as estratégias de receita e operação das big techs globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787225471.7917936,
+    "titulo": "Dólar cai fecha a R$ 5,17; Ibovespa sobe e interrompe sequência de 11 quedas",
+    "titulo_original": "Dólar cai fecha a R$ 5,17;Ibovespa sobe e interrompe sequência de 11 quedas - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/08 04:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar e a alta do Ibovespa podem indicar um aumento da confiança dos investidores no mercado brasileiro. Se essa tendência de melhora se consolidar, pode atrair mais capital estrangeiro para a bolsa e reduzir a pressão sobre a moeda local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787225471.792884,
+    "titulo": "Petróleo em alta, onda de calor na Europa, dólar, Ibovespa, mais agenda e pílulas da economia 20.08",
+    "titulo_original": "Petróleo em alta, onda de calor na Europa, dólar, Ibovespa, mais agenda e pílulas da economia 20.08 - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/08 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de fatores como a alta do petróleo e a onda de calor na Europa pode gerar pressões inflacionárias e afetar a atividade econômica. A performance do dólar e do Ibovespa refletirá a percepção de risco e o fluxo de capital em resposta a esses eventos globais e domésticos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787225471.7940843,
+    "titulo": "O recompra do Tesouro dos EUA será um divisor de águas para os mercados?",
+    "titulo_original": "Will the US Treasury buyback be a game changer for markets?",
+    "fonte": "ForexLive",
+    "publicado": "20/08 02:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento das recompras de títulos pelo Tesouro dos EUA pode sinalizar uma tentativa de estabilizar os mercados e reduzir a pressão sobre os rendimentos. Se essa medida for eficaz em injetar liquidez e conter a volatilidade, pode sustentar o apetite por risco em ativos como ações e metais preciosos, ao mesmo tempo que pressiona o dólar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787225471.7956705,
+    "titulo": "Petrobras se antecipa às novas regras da ANP e fecha acordo de acesso à UPGN com produtores onshore",
+    "titulo_original": "Petrobras se antecipa às novas regras da ANP e fecha acordo de acesso à UPGN com produtores onshore - Agência eixos",
+    "fonte": "Google News Acoes",
+    "publicado": "20/08 07:15",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ação da Petrobras em antecipar-se às novas regras da ANP demonstra uma proatividade na adaptação ao ambiente regulatório. Se o acordo com os produtores onshore for bem-sucedido, pode otimizar a operação e a logística de gás natural no país.",
+    "is_stocks": true
   }
 ]
