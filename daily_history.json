@@ -810,5 +810,81 @@
     "origem": "domestica",
     "leitura_critica": "A ação da Petrobras em antecipar-se às novas regras da ANP demonstra uma proatividade na adaptação ao ambiente regulatório. Se o acordo com os produtores onshore for bem-sucedido, pode otimizar a operação e a logística de gás natural no país.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787231743.2554975,
+    "titulo": "A Selic é alta porque pode ser alta - Valor Econômico",
+    "titulo_original": "A Selic é alta porque pode ser alta - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/08 05:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise sugere que a manutenção da Selic em patamares elevados pode ser uma estratégia preventiva do Banco Central diante de incertezas futuras. Se os indicadores de inflação e atividade econômica continuarem a apresentar sinais de aquecimento, o BC pode justificar a manutenção da taxa alta por mais tempo; se houver desaceleração, a pressão por cortes pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787231748.1550157,
+    "titulo": "Como a disputa entre Lula e Flávio Bolsonaro pode levar o dólar a R$ 5,50?",
+    "titulo_original": "Como a disputa entre Lula e Flávio Bolsonaro pode levar o dólar a R$ 5,50? - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/08 09:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A instabilidade política interna pode gerar volatilidade no câmbio. Se a disputa entre os líderes políticos se intensificar e gerar incertezas sobre a condução econômica do país, isso pode pressionar o dólar para cima; se houver uma resolução ou pacificação, o efeito pode ser o oposto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787231752.9129906,
+    "titulo": "Soja e frango puxam exportações do agro a US$ 16,3 bilhões em julho",
+    "titulo_original": "Soja e frango puxam exportações do agro a US$ 16,3 bilhões em julho - O Presente Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "20/08 09:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O bom desempenho das exportações do agronegócio em julho contribui positivamente para a balança comercial brasileira. Se a demanda por soja e frango se mantiver forte, isso pode sustentar o fluxo de dólares para o país e impactar positivamente o setor agrícola.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787231757.7753239,
+    "titulo": "Índice de atividade empresarial da Filadélfia em agosto: +47,4 contra +25,0 esperado",
+    "titulo_original": "US August Philly Fed business index +47.4 vs +25.0 expected",
+    "fonte": "ForexLive",
+    "publicado": "20/08 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um resultado tão acima do esperado para o índice da Filadélfia sugere uma força surpreendente na atividade industrial regional dos EUA. Se os próximos indicadores de atividade econômica dos EUA mantiverem essa tendência de alta, isso pode reforçar a visão de que a economia americana segue resiliente, o que pode influenciar as decisões futuras do Fed sobre juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787231763.4434488,
+    "titulo": "Cosan diz que está recebendo propostas vinculantes de interessados na Rumo",
+    "titulo_original": "Cosan diz que está recebendo propostas vinculantes por interessados na Rumo",
+    "fonte": "Valor Economico",
+    "publicado": "20/08 10:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A venda de participação em uma empresa de infraestrutura como a Rumo pode indicar uma estratégia de reestruturação financeira da Cosan. Se a transação for concretizada, pode haver um impacto na liquidez da Cosan e na estrutura de controle da Rumo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787231763.4449587,
+    "titulo": "Shein deve lançar IPO na próxima semana e planeja estrear na Bolsa de Hong Kong em 1º de setembro",
+    "titulo_original": "Shein deve lançar IPO na próxima semana e planeja estrear na Bolsa de Hong Kong em 1º de setembro - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "20/08 09:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O IPO da Shein é um evento significativo no mercado de capitais global, especialmente no setor de varejo. Se a oferta for bem-sucedida e a ação performar positivamente em Hong Kong, isso pode sinalizar um apetite renovado por IPOs de grandes empresas de tecnologia e varejo.",
+    "is_stocks": true
   }
 ]
