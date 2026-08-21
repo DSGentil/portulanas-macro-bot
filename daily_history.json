@@ -1,305 +1,5 @@
 [
   {
-    "_timestamp": 1787164247.09342,
-    "titulo": "Fluxo cambial registra entrada líquida de US$ 851 milhões na semana de 14 de agosto, diz BC",
-    "titulo_original": "Fluxo cambial registra entrada líquida de US$ 851 milhões na semana de 14 de agosto, diz BC",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 15:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada líquida de US$ 851 milhões no fluxo cambial na semana de 14 de agosto é um dado positivo para a balança de pagamentos brasileira. Se a conta comercial continuar a apresentar superávits robustos e a conta financeira se estabilizar, isso pode contribuir para a valorização do real e para a melhora das expectativas sobre a economia. A persistência dessa entrada líquida será importante para observar se o fluxo financeiro se tornará mais favorável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787164250.604504,
-    "titulo": "Exclusivo: Durigan vai se reunir com Malan e Fraga para ouvir ideias de economistas para agenda fiscal",
-    "titulo_original": "Exclusivo: Durigan vai se reunir com Malan e Fraga para ouvir ideias de economistas para agenda fiscal",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 14:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A reunião do ministro da Fazenda com economistas renomados como Malan e Fraga para discutir a agenda fiscal indica uma busca por novas perspectivas e possíveis ajustes na política econômica. Se dessas discussões surgirem propostas concretas que levem a decisões fiscais ou regulatórias, isso poderá ter impacto na percepção de risco fiscal e na trajetória da dívida pública. A relevância se dará pela eventual materialização de propostas em ações governamentais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787164254.094121,
-    "titulo": "Tesouro dos EUA leiloa US$ 18 bilhões em títulos de 20 anos com rendimento de 5,204%",
-    "titulo_original": "US Treasury auctions off $18 billion of 20-year bonds at a high yield of 5.204%",
-    "fonte": "ForexLive",
-    "publicado": "19/08 14:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O rendimento de 5,204% em títulos de 20 anos reflete as expectativas do mercado sobre a trajetória futura dos juros nos EUA. Se a demanda por títulos do Tesouro continuar a enfraquecer, isso pode pressionar os rendimentos para cima, indicando uma percepção de maior risco ou inflação futura. A participação significativa de compradores internacionais sugere que o mercado global ainda vê valor em títulos do Tesouro americano, apesar de um cenário de juros mais altos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787164257.6115332,
-    "titulo": "Inflação americana fica moderada e pode adiar alta de juros do Fed",
-    "titulo_original": "Inflação americana fica moderada e pode adiar alta de juros do Fed - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/08 14:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A moderação da inflação nos EUA é um fator crucial para a política monetária do Fed. Se a inflação continuar em trajetória descendente, o Fed pode ter mais espaço para manter as taxas de juros estáveis ou até mesmo considerar cortes futuros. Se, por outro lado, a inflação voltar a acelerar, o banco central americano pode ser forçado a reconsiderar o adiamento de altas de juros, impactando mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787164262.3087108,
-    "titulo": "B3 perde R$ 306 bilhões em valor de mercado durante sequência de 11 quedas do Ibovespa",
-    "titulo_original": "B3 perde R$ 306 bilhões em valor de mercado durante sequência de 11 quedas do Ibovespa",
-    "fonte": "Money Times",
-    "publicado": "19/08 14:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A sequência de 11 quedas consecutivas do Ibovespa e a perda de R$ 306,3 bilhões em valor de mercado indicam um forte pessimismo no mercado acionário brasileiro. Se essa tendência de queda persistir, pode sinalizar uma deterioração do sentimento dos investidores em relação à economia doméstica ou a fatores externos que afetam o Brasil. A reversão desse quadro dependerá de fatores que restaurem a confiança, como dados econômicos positivos ou um cenário externo mais favorável.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787164262.3106012,
-    "titulo": "Durigan discutiu com governador interino possível reestruturação da dívida do Rio",
-    "titulo_original": "Durigan discutiu com governador interino possível reestruturação da dívida do Rio",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 14:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre a reestruturação da dívida do Rio de Janeiro com o BNDES e o Banco do Brasil é um tema fiscal relevante. Se a renegociação for viabilizada, isso poderá aliviar a situação financeira do estado e ter implicações na saúde financeira das instituições credoras, além de potencialmente influenciar a percepção sobre a gestão fiscal de outros estados. A decisão final sobre a viabilidade da operação será crucial para determinar o impacto.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787164262.3123941,
-    "titulo": "Volta do gringo é chave para sustentar alta da bolsa, afirma estrategista da Empiricus",
-    "titulo_original": "Volta do gringo é chave para sustentar alta da bolsa, afirma estrategista da Empiricus",
-    "fonte": "Money Times",
-    "publicado": "19/08 14:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A afirmação de que o retorno do capital estrangeiro é chave para a bolsa brasileira destaca a importância do fluxo de capital para a sustentação do mercado acionário. Se a entrada de capital estrangeiro se concretizar, isso pode impulsionar o Ibovespa; caso contrário, a bolsa pode enfrentar dificuldades em manter a tendência de alta. A percepção de risco e a atratividade dos ativos brasileiros serão determinantes para atrair esse fluxo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787171444.072015,
-    "titulo": "Ministérios defendem revisão de exigência de CNPJ para nanoempreendedores",
-    "titulo_original": "Ministérios defendem revisão de exigência de CNPJ para nanoempreendedores",
-    "fonte": "Folha Mercado",
-    "publicado": "19/08 17:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A possível revisão da exigência de CNPJ para nanoempreendedores pode simplificar a formalização para pequenos negócios. Se a mudança for aprovada, pode haver um aumento na formalização desses empreendedores; caso contrário, a burocracia pode persistir como um obstáculo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787171447.611939,
-    "titulo": "Até onde o dólar pode subir com as eleições? Banco alemão projeta virada no câmbio",
-    "titulo_original": "Até onde o dólar pode subir com as eleições? Banco alemão projeta virada no câmbio - estadao.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/08 16:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de um banco alemão sobre a alta do dólar com as eleições sugere que o cenário eleitoral pode gerar volatilidade cambial. Se as eleições trouxerem incerteza, o dólar pode se valorizar; um resultado mais claro e previsível, por outro lado, poderia estabilizar a moeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787171451.0813348,
-    "titulo": "Governo e Congresso não chegam a acordo, e taxa das blusinhas pode voltar às vésperas da eleição",
-    "titulo_original": "Governo e Congresso não chegam a acordo, e taxa das blusinhas pode voltar às vésperas da eleição",
-    "fonte": "Folha Mercado",
-    "publicado": "19/08 15:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A falta de acordo entre governo e Congresso sobre a 'taxa das blusinhas' pode gerar incerteza regulatória e impactar o comércio eletrônico. Se a taxa for reintroduzida, pode haver um aumento nos custos para consumidores e empresas importadoras; a ausência de definição pode manter o status quo por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787171454.5986664,
-    "titulo": "Equipe de Flávio Bolsonaro modula discurso contra Reforma Tributária e avalia abreviar transição",
-    "titulo_original": "Equipe de Flávio Bolsonaro modula discurso contra Reforma Tributária e avalia abreviar transição",
-    "fonte": "Money Times",
-    "publicado": "19/08 17:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação da equipe de Flávio Bolsonaro para abreviar a transição da Reforma Tributária pode acelerar mudanças fiscais. Se essa proposta for adiante, pode haver uma redução mais rápida de benefícios fiscais; o contrário seria a manutenção do cronograma original, com impactos mais graduais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787171459.228614,
-    "titulo": "Estrangeiros retiram mais de R$ 496 milhões da B3 em 17 de agosto, e saldo mensal está negativo em R$ 18,6 bi",
-    "titulo_original": "Estrangeiros retiram mais de R$ 496 milhões da B3 em 17 de agosto, e saldo mensal está negativo em R$ 18,6 bi",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 16:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A saída expressiva de capital estrangeiro em agosto pode pressionar o mercado acionário doméstico. Se essa tendência se mantiver nas próximas semanas, o Ibovespa pode enfrentar dificuldades para sustentar ganhos; uma reversão desse fluxo, por outro lado, poderia impulsionar uma recuperação mais forte.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787171459.230579,
-    "titulo": "Gol tem alta em tráfego e capacidade de voos, com bom desempenho doméstico e internacional",
-    "titulo_original": "Gol tem alta em tráfego e capacidade de voos, com bom desempenho doméstico e internacional",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 16:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento no tráfego e capacidade de voos da Gol sugere uma recuperação ou expansão do setor aéreo. Se essa tendência de crescimento se mantiver, pode indicar uma melhora na confiança do consumidor e na atividade econômica; uma desaceleração nesse ritmo poderia sinalizar desafios futuros para o setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787171459.2324452,
-    "titulo": "B3 suspende negociação de ações da Refit",
-    "titulo_original": "B3 suspende negociação de ações da Refit - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "19/08 15:33",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A suspensão da negociação das ações da Refit pela B3 indica um evento específico da empresa que impede sua negociação no mercado. Se a suspensão for temporária e relacionada a questões administrativas, a volta à negociação pode ocorrer em breve; se for por motivos mais graves, pode sinalizar problemas estruturais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787176846.959263,
-    "titulo": "Aplicação da reciprocidade contra os EUA não sai antes do fim do ano, diz ministro",
-    "titulo_original": "Aplicação da reciprocidade contra os EUA não sai antes do fim do ano, diz ministro",
-    "fonte": "Folha Mercado",
-    "publicado": "19/08 17:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro sobre a aplicação da Lei de Reciprocidade contra os EUA indica que a medida retaliatória a tarifas impostas por Trump terá um cronograma estendido. Se a implementação for adiada, isso pode manter um certo nível de incerteza nas relações comerciais bilaterais, mas também pode dar tempo para negociações adicionais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787176851.6378417,
-    "titulo": "Curva de juros acompanha Treasuries e recua mais de 10 pontos-base nos vértices intermediários",
-    "titulo_original": "Curva de juros acompanha Treasuries e recua mais de 10 pontos-base nos vértices intermediários",
-    "fonte": "Money Times",
-    "publicado": "19/08 18:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda na curva de juros futuros, acompanhando os Treasuries, sugere uma reação do mercado à decisão do Tesouro dos EUA de aumentar a recompra de títulos. Se essa ação do Tesouro americano for interpretada como um estímulo à liquidez ou uma sinalização de política monetária, pode influenciar as expectativas de juros no Brasil, especialmente se o movimento se prolongar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787176856.318485,
-    "titulo": "Dívida pública dos EUA supera limiar de US$ 40 trilhões, diz Tesouro",
-    "titulo_original": "Dívida pública dos EUA supera limiar de US$ 40 trilhões, diz Tesouro",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 18:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O rompimento da dívida pública dos EUA para US$ 40 trilhões é um marco fiscal preocupante, especialmente com alertas sobre a sustentabilidade das contas públicas. Se os juros da dívida continuarem a subir ou se não houver um plano fiscal claro para conter o endividamento, isso pode gerar pressões sobre a economia americana e, por contágio, sobre mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787176861.1761086,
-    "titulo": "Trump tenta dar um jeitinho na alta dos juros e disfarçar que estoura déficit e dívida",
-    "titulo_original": "Trump tenta dar um jeitinho na alta dos juros e disfarçar que estoura déficit e dívida",
-    "fonte": "Folha Mercado",
-    "publicado": "19/08 17:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A intervenção anunciada pelos economistas de Trump no mercado de títulos para controlar a alta dos juros, que já atingiram patamares elevados, sugere uma tentativa de gerenciar as consequências fiscais e monetárias. Se essa intervenção for eficaz, pode estabilizar os juros no curto prazo; caso contrário, a persistência da alta pode pressionar o déficit e a dívida pública americana, com efeitos globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787176866.9378114,
-    "titulo": "Dólar cai a R$ 5,176 e Bolsa sobe puxada por ações da Petrobras e da Vale",
-    "titulo_original": "Dólar cai a R$ 5,176 e Bolsa sobe puxada por ações da Petrobras e da Vale - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/08 17:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a alta da bolsa, impulsionada por commodities, podem indicar um fluxo de capital positivo para o Brasil ou um cenário de melhora na percepção de risco. Se essa tendência se mantiver, pode haver um ambiente mais favorável para investimentos em renda variável e uma valorização do real frente ao dólar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787176866.9397502,
-    "titulo": "Ações da Moderna dobram de valor com sucesso de teste de vacina contra melanoma",
-    "titulo_original": "Ações da Moderna dobram de valor com sucesso de teste de vacina contra melanoma",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 18:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O sucesso de testes de vacina contra melanoma pela Moderna e o consequente salto de suas ações demonstram o potencial de descobertas científicas em biotecnologia para gerar valor de mercado. Se a vacina avançar para aprovação e comercialização, pode representar um marco no tratamento do câncer de pele e um retorno significativo para a empresa e seus investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787182238.7134428,
-    "titulo": "Eleição já cobra prêmio nos juros, mas pressão pode aumentar, diz J.P. Morgan",
-    "titulo_original": "Eleição já cobra prêmio nos juros, mas pressão pode aumentar, diz J.P. Morgan",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 19:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A percepção do J.P. Morgan de que a eleição já impacta os juros sugere que o cenário político local é um fator de risco relevante para a economia. Se o resultado eleitoral gerar incertezas fiscais, a pressão sobre os juros pode se intensificar, afetando o custo do crédito e o investimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787182242.1942134,
-    "titulo": "J.P. Morgan vê real frágil e projeta dólar a R$ 5,50 em cenário eleitoral desfavorável no lado fiscal",
-    "titulo_original": "J.P. Morgan vê real frágil e projeta dólar a R$ 5,50 em cenário eleitoral desfavorável no lado fiscal",
-    "fonte": "Valor Economico",
-    "publicado": "19/08 19:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do J.P. Morgan para o dólar em R$ 5,50 em um cenário fiscal adverso indica uma forte sensibilidade do câmbio brasileiro a questões de política econômica. Se as incertezas fiscais aumentarem após as eleições, o real pode sofrer desvalorização, impactando a inflação e o poder de compra.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1787225455.7252398,
     "titulo": "Imposto de Exportação pune quem produz e ameaça competitividade do petróleo",
     "titulo_original": "Imposto de Exportação pune quem produz e ameaça competitividade do petróleo - JOTA Info",
@@ -1045,6 +745,117 @@
     ],
     "origem": "domestica",
     "leitura_critica": "O investimento em supercomputação e IA pode impulsionar a capacidade tecnológica do Brasil, potencialmente gerando ganhos de produtividade em diversos setores. Se a infraestrutura for bem implementada e a transferência de tecnologia for eficaz, isso poderá posicionar o país na vanguarda da inovação; contudo, a concretização desses benefícios dependerá da gestão e da adoção das novas tecnologias pela indústria e academia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787311855.5332377,
+    "titulo": "Por que o Brasil não consegue ter juros baixos?",
+    "titulo_original": "Por que o Brasil não consegue ter juros baixos?",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre os motivos dos juros altos no Brasil é relevante para entender o cenário de custo de capital e investimento no país. Se a matéria detalhar fatores estruturais, isso pode indicar a persistência de juros elevados no médio e longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787311859.3667896,
+    "titulo": "Atividade empresarial na zona do euro tem nova melhora em agosto, apesar da fraqueza na França e Alemanha",
+    "titulo_original": "Euro area business activity sees further pick up in August despite France, Germany softness",
+    "fonte": "ForexLive",
+    "publicado": "21/08 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O desempenho positivo da atividade empresarial na zona do euro, especialmente fora da França e Alemanha, pode aliviar preocupações com stagflation para o BCE. Se a tendência de expansão de novos negócios e exportações se mantiver, isso pode sustentar o crescimento econômico no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787311863.2573063,
+    "titulo": "Ouro supera US$ 4.500 com queda do dólar e ações do Tesouro dos EUA",
+    "titulo_original": "Ouro supera US$ 4.500 com queda do dólar e ações do Tesouro dos EUA - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/08 07:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do ouro, associada à queda do dólar e ao desempenho dos títulos do Tesouro americano, sugere um movimento de busca por ativos de refúgio. Se a desvalorização do dólar persistir, isso pode indicar uma menor atratividade dos juros americanos ou um aumento da aversão ao risco em outros mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787311867.1647825,
+    "titulo": "Pentágono nega falta de munições dos EUA na guerra com Irã",
+    "titulo_original": "Pentágono nega falta de munições dos EUA na guerra com Irã - UOL Notícias",
+    "fonte": "Google News Geopolitica",
+    "publicado": "21/08 05:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A negação do Pentágono sobre a falta de munições busca reforçar a capacidade militar dos EUA no conflito. Essa declaração pode influenciar a percepção de risco geopolítico na região, impactando a estabilidade dos mercados de energia e a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787311872.6211543,
+    "titulo": "Tesla corrigirá software de milhões de veículos elétricos fabricados na China e importados no país",
+    "titulo_original": "Tesla corrigirá software de milhões de veículos elétricos fabricados na China e importados no país",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 08:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Este \"recall\" em larga escala impõe custos adicionais à Tesla e pode afetar sua imagem no mercado chinês. Se a correção de software não for eficaz, a pressão regulatória pode aumentar, impactando futuras vendas e operações da empresa no país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787311872.622099,
+    "titulo": "Receita do Abra Group cresce no 2º trimestre, mas disparada nos custos de combustível faz prejuízo subir",
+    "titulo_original": "Receita do Abra Group cresce no 2º trimestre, mas disparada nos custos de combustível faz prejuízo subir",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 08:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo nos custos de combustível impactou a rentabilidade do Abra Group, mesmo com o crescimento da receita. A capacidade da empresa em repassar esses custos aos passageiros e a eficácia das medidas de corte de despesas serão cruciais para sua recuperação financeira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787311872.6692936,
+    "titulo": "O discreto investidor que fez carreira na Petrobras, está em 4 conselhos e tem mais de R$ 100 mi na bolsa",
+    "titulo_original": "O discreto investidor que fez carreira na Petrobras, está em 4 conselhos e tem mais de R$ 100 mi na bolsa - NeoFeed",
+    "fonte": "Google News Acoes",
+    "publicado": "21/08 07:52",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A informação sobre um investidor de grande porte com atuação na Petrobras e diversificação em outros conselhos pode oferecer insights sobre estratégias de investimento no mercado brasileiro. No entanto, a relevância macroeconômica direta para o WDO é limitada, pois se trata de um perfil individual.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787311872.6702123,
+    "titulo": "Entidades pedem ao MPF investigação sobre óculos inteligentes da Meta e apontam risco à privacidade",
+    "titulo_original": "Entidades pedem ao MPF investigação sobre óculos inteligentes da Meta e apontam risco à privacidade",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 04:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O pedido de investigação sobre os óculos inteligentes da Meta levanta preocupações sobre privacidade de dados. Uma eventual decisão do MPF pode gerar novas regulamentações para dispositivos tecnológicos e impactar a estratégia de produtos da empresa no Brasil.",
     "is_stocks": true
   }
 ]
