@@ -1,81 +1,5 @@
 [
   {
-    "_timestamp": 1787231743.2554975,
-    "titulo": "A Selic é alta porque pode ser alta - Valor Econômico",
-    "titulo_original": "A Selic é alta porque pode ser alta - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/08 05:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise sugere que a manutenção da Selic em patamares elevados pode ser uma estratégia preventiva do Banco Central diante de incertezas futuras. Se os indicadores de inflação e atividade econômica continuarem a apresentar sinais de aquecimento, o BC pode justificar a manutenção da taxa alta por mais tempo; se houver desaceleração, a pressão por cortes pode aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787231748.1550157,
-    "titulo": "Como a disputa entre Lula e Flávio Bolsonaro pode levar o dólar a R$ 5,50?",
-    "titulo_original": "Como a disputa entre Lula e Flávio Bolsonaro pode levar o dólar a R$ 5,50? - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/08 09:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A instabilidade política interna pode gerar volatilidade no câmbio. Se a disputa entre os líderes políticos se intensificar e gerar incertezas sobre a condução econômica do país, isso pode pressionar o dólar para cima; se houver uma resolução ou pacificação, o efeito pode ser o oposto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787231752.9129906,
-    "titulo": "Soja e frango puxam exportações do agro a US$ 16,3 bilhões em julho",
-    "titulo_original": "Soja e frango puxam exportações do agro a US$ 16,3 bilhões em julho - O Presente Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "20/08 09:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O bom desempenho das exportações do agronegócio em julho contribui positivamente para a balança comercial brasileira. Se a demanda por soja e frango se mantiver forte, isso pode sustentar o fluxo de dólares para o país e impactar positivamente o setor agrícola.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787231757.7753239,
-    "titulo": "Índice de atividade empresarial da Filadélfia em agosto: +47,4 contra +25,0 esperado",
-    "titulo_original": "US August Philly Fed business index +47.4 vs +25.0 expected",
-    "fonte": "ForexLive",
-    "publicado": "20/08 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Um resultado tão acima do esperado para o índice da Filadélfia sugere uma força surpreendente na atividade industrial regional dos EUA. Se os próximos indicadores de atividade econômica dos EUA mantiverem essa tendência de alta, isso pode reforçar a visão de que a economia americana segue resiliente, o que pode influenciar as decisões futuras do Fed sobre juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787231763.4434488,
-    "titulo": "Cosan diz que está recebendo propostas vinculantes de interessados na Rumo",
-    "titulo_original": "Cosan diz que está recebendo propostas vinculantes por interessados na Rumo",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 10:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A venda de participação em uma empresa de infraestrutura como a Rumo pode indicar uma estratégia de reestruturação financeira da Cosan. Se a transação for concretizada, pode haver um impacto na liquidez da Cosan e na estrutura de controle da Rumo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787231763.4449587,
-    "titulo": "Shein deve lançar IPO na próxima semana e planeja estrear na Bolsa de Hong Kong em 1º de setembro",
-    "titulo_original": "Shein deve lançar IPO na próxima semana e planeja estrear na Bolsa de Hong Kong em 1º de setembro - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "20/08 09:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O IPO da Shein é um evento significativo no mercado de capitais global, especialmente no setor de varejo. Se a oferta for bem-sucedida e a ação performar positivamente em Hong Kong, isso pode sinalizar um apetite renovado por IPOs de grandes empresas de tecnologia e varejo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787238939.3330543,
     "titulo": "Bancos pressionam Banco Central a rever teto de juros em novo modelo de crédito imobiliário",
     "titulo_original": "Bancos pressionam Banco Central a rever teto de juros em novo modelo de crédito imobiliário",
@@ -1144,6 +1068,112 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A revisão de contratos pela Hapvida, motivada por ação da ANS, indica um ajuste regulatório no setor de saúde. Se a revisão for implementada de forma a impactar a rentabilidade de forma significativa, isso pode gerar um precedente para outras operadoras; caso contrário, o efeito pode ser pontual.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787344247.5947332,
+    "titulo": "Fertilizantes e terras raras: desafios opostos, mesma fórmula",
+    "titulo_original": "Fertilizantes e terras raras: desafios opostos, mesma fórmula",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 17:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aponta que o PL dos Combustíveis, ao distribuir benefícios tributários e flexibilizar regras fiscais, pode agravar o problema fiscal do Brasil. Se as preocupações fiscais expressas nos editoriais se confirmarem, isso pode levar a um aumento da percepção de risco do país. A aprovação de medidas que flexibilizam a responsabilidade fiscal, sem contrapartidas claras de ajuste, tende a pressionar a dívida pública.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787344252.3913748,
+    "titulo": "Vendam títulos e comprem ouro e bitcoin, diz Ray Dalio diante da iminente crise da dívida americana",
+    "titulo_original": "Vendam títulos e comprem ouro e bitcoin, diz Ray Dalio diante da iminente crise da dívida americana",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 15:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recomendação de Ray Dalio sugere uma postura de aversão ao risco em relação aos títulos americanos, apostando em ativos como ouro e bitcoin como refúgios. Se a crise da dívida americana se materializar, a alocação em ouro pode se beneficiar; se a economia dos EUA se mantiver resiliente, essa estratégia pode subperformar. A menção ao bitcoin como proteção é uma visão pessoal do autor, sem garantia de desempenho.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787344257.1505375,
+    "titulo": "Petróleo fecha em alta e acumula avanço de 13% na semana",
+    "titulo_original": "Petróleo fecha em alta e acumula avanço de 13% na semana - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "21/08 16:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento de 13% no preço do petróleo na semana pode impactar os custos de produção e transporte em diversos setores da economia global. Se essa tendência de alta se mantiver, pode gerar pressões inflacionárias e afetar o poder de compra. A notícia indica um movimento significativo nos preços das commodities energéticas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787344263.3276072,
+    "titulo": "BNDES e governo do Rio fecham acordo para repactuação de dívida de R$ 8 bi",
+    "titulo_original": "BNDES e governo do Rio fecham acordo para repactuação de dívida de R$ 8 bi",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 16:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A repactuação da dívida do Rio de Janeiro com o BNDES é um passo concreto para a gestão fiscal do estado, impactando diretamente seu déficit. Se o programa de pagamento de dívidas for cumprido conforme o esperado, isso pode sinalizar uma melhora na saúde financeira do estado; o contrário, se houver descumprimento, pode gerar desconfiança sobre a capacidade de honrar compromissos futuros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787344263.3293476,
+    "titulo": "Wall Street sobe no dia, mas tem queda de 1% na semana com pressão de petróleo e Treasuries",
+    "titulo_original": "Wall Street sobe no dia, mas tem queda de 1% na semana com pressão de petróleo e Treasuries",
+    "fonte": "Money Times",
+    "publicado": "21/08 17:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A performance mista de Wall Street na semana, com alta diária e queda semanal, reflete a influência de fatores como o preço do petróleo e os rendimentos dos títulos do Tesouro americano. Se os rendimentos dos Treasuries continuarem a subir, isso pode pressionar ainda mais as bolsas; se o petróleo estabilizar ou cair, o cenário para as ações pode melhorar. A notícia indica uma sensibilidade do mercado a esses dois fatores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787344263.331144,
+    "titulo": "Estrangeiros retiram R$ 1,6 bilhão da B3 em 19 de agosto",
+    "titulo_original": "Estrangeiros retiram R$ 1,6 bilhão da B3 em 19 de agosto - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "21/08 11:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de R$ 1,6 bilhão por estrangeiros da B3 em 19 de agosto indica uma saída de capital do mercado brasileiro. Se essa tendência de saída se mantiver, pode pressionar o Ibovespa e o câmbio; se for um movimento pontual, o impacto pode ser limitado. A notícia aponta para um fluxo de capital negativo no mercado de ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787344263.3328545,
+    "titulo": "FT: Apple pagou US$ 17 bi em impostos à Irlanda após decisão judicial sobre tributos atrasados",
+    "titulo_original": "FT: Apple pagou US$ 17 bi em impostos à Irlanda após decisão judicial sobre tributos atrasados",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 16:55",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia detalha um pagamento de impostos de uma empresa específica em um país estrangeiro. Se a decisão judicial que levou a esse pagamento tiver implicações para outras multinacionais operando na Irlanda, isso poderia gerar um precedente fiscal. No entanto, o texto não indica tal repercussão setorial ou macroeconômica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787344263.3345847,
+    "titulo": "Seis em cada dez jovens aceitariam salário menor por trabalho menos estressante",
+    "titulo_original": "Seis em cada dez jovens aceitariam salário menor por trabalho menos estressante",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 16:35",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pesquisa sobre as preferências dos jovens no mercado de trabalho sugere uma mudança de prioridades em relação à remuneração. Se essa tendência se consolidar, as empresas podem precisar repensar suas estruturas e culturas para atrair e reter talentos. No entanto, a notícia se baseia em uma pesquisa de opinião e não em uma mudança concreta de política ou dado econômico.",
     "is_stocks": true
   }
 ]

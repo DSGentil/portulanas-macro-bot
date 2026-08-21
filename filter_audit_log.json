@@ -1,95 +1,5 @@
 [
   {
-    "_timestamp": 1786127741.6888971,
-    "titulo": "Análise: Como o cenário macroeconômico ruim e a Copa derrubaram a venda do varejo de moda",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786127741.7312558,
-    "titulo": "OpenAI suspende parte do trabalho em novo modelo de IA por preocupações com segurança cibernética",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786127741.7932532,
-    "titulo": "Líbano e Israel chegam a acordo sobre lista de países para verificar desarmamento do Hezbollah",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786127741.7992814,
-    "titulo": "Flamengo reorganiza marca e negócios para ampliar receitas além do futebol",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786127741.8031774,
-    "titulo": "Podcast Tabuleiro: Efeito Lulinha, vice de Flávio e balanço das convenções",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786127741.8497636,
-    "titulo": "Embraer negocia venda de jatos E2 para a maior companhia aérea da Índia",
-    "fonte": "InvestNews",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786127741.855886,
-    "titulo": "Vai faltar porto e minério bom: as teses do novo chairman da Cedro - Brazil Journal",
-    "fonte": "Google News Commodities",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786127741.8736181,
-    "titulo": "2026.08.06-gas release.jpg — Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - www.gov.br",
-    "fonte": "Google News Commodities",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786127742.0421233,
-    "titulo": "'Plano Patriota 2.0': Governo Trump acelera cooperação militar com colombiano Espriella, que toma posse hoje - O GLOBO",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786134638.1559198,
-    "titulo": "Dispositivo de IA da OpenAI terá formato de um donut e custará mais de US$ 300",
-    "fonte": "Folha Mercado",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786134638.1607518,
-    "titulo": "Importações de Soja Pela China Caem 1,6% em Julho ante Preocupações com Rebanho Suíno - Forbes Brasil",
-    "fonte": "Google News Commodities",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786134638.1654305,
-    "titulo": "Nota de pesar - Israel Siqueira de Abreu Campos - Prefeitura de Palmas.",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786134638.1701412,
-    "titulo": "Vai faltar porto e minério bom: as teses do novo chairman da Cedro - braziljournal.com",
-    "fonte": "Google News Commodities",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786134638.1748576,
-    "titulo": "Tribunal mantém bloqueio à construção do salão de Trump na Casa Branca - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1786134638.1795242,
-    "titulo": "Boletim Cambial (07/08): Euro e Dólar PTAX - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
     "_timestamp": 1786140042.3025198,
     "titulo": "Tenda (TEND3) anuncia R$ 78 milhões em dividendos intercalares",
     "fonte": "Money Times",
@@ -4089,6 +3999,54 @@
     "_timestamp": 1787337038.094588,
     "titulo": "Onze montadoras anunciam maior recall da China com mais de 4 milhões de carros elétricos",
     "fonte": "Folha Mercado",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787344243.1672583,
+    "titulo": "FT: Apple pagou US$ 17 bi em impostos à Irlanda após decisão judicial sobre tributos atrasados",
+    "fonte": "Valor Economico",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787344243.172488,
+    "titulo": "SEC acusa ex-executivo sênior do BofA de uso de informações privilegiadas",
+    "fonte": "Valor Economico",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787344243.1775723,
+    "titulo": "Como gigantes da biofarmacêutica se preparam para a nova fronteira de medicamentos com IA",
+    "fonte": "Valor Economico",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787344243.1825936,
+    "titulo": "Seis em cada dez jovens aceitariam salário menor por trabalho menos estressante",
+    "fonte": "Folha Mercado",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787344243.187819,
+    "titulo": "R$ 5 bilhões pela Rumo (RAIL3): O que a possível venda muda para a Cosan (CSAN3), segundo o Citi",
+    "fonte": "Money Times",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787344243.1930678,
+    "titulo": "Tesouro IPCA+ 2026 venceu: Como usar os recursos para acelerar a sua construção de patrimônio?",
+    "fonte": "Money Times",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787344243.1981273,
+    "titulo": "Irmãos Batista compram fabricante de armas de guerra Avibras",
+    "fonte": "InvestNews",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1787344243.203185,
+    "titulo": "Com voos mais caros, aéreas brasileiras driblam a turbulência do petróleo (mas não a da rentabilidade) - NeoFeed",
+    "fonte": "Google News Commodities",
     "relevancia_atribuida": "BAIXA"
   }
 ]
