@@ -1,116 +1,5 @@
 [
   {
-    "_timestamp": 1787238939.3330543,
-    "titulo": "Bancos pressionam Banco Central a rever teto de juros em novo modelo de crédito imobiliário",
-    "titulo_original": "Bancos pressionam Banco Central a rever teto de juros em novo modelo de crédito imobiliário",
-    "fonte": "Folha Mercado",
-    "publicado": "20/08 11:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A pressão dos bancos sobre o teto de juros do crédito imobiliário pode levar a uma revisão da política monetária para o setor. Se o Banco Central ceder à pressão, os custos de financiamento podem mudar; caso contrário, o modelo atual se manterá, com potenciais impactos na oferta de crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787238942.8862782,
-    "titulo": "Intenção de investimento da indústria cai em agosto ao pior patamar em 2026, aponta CNI",
-    "titulo_original": "Intenção de investimento da indústria cai em agosto ao pior patamar em 2026, aponta CNI",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 10:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda na intenção de investimento da indústria, associada a juros elevados, sugere um cenário de desaceleração econômica. Se as condições macroeconômicas não melhorarem, a indústria pode continuar a reduzir seus investimentos, impactando a geração de empregos; uma melhora no cenário poderia reverter essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787238946.3751287,
-    "titulo": "Déficit primário estrutural do governo central alcança 1,4% do PIB até junho, diz IFI",
-    "titulo_original": "Déficit primário estrutural do governo central alcança 1,4% do PIB até junho, diz IFI",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 11:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do déficit primário estrutural indica um agravamento da situação fiscal do governo. Se essa trajetória de déficits se mantiver, pode haver pressão por cortes de gastos ou aumento de impostos no futuro; uma reversão dessa tendência exigiria medidas fiscais mais rigorosas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787238949.9787657,
-    "titulo": "Diante de El Niño, Aneel avalia antecipar recursos para estoque de combustível no Norte",
-    "titulo_original": "Diante de El Niño, Aneel avalia antecipar recursos para estoque de combustível no Norte",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 11:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A medida da Aneel visa mitigar os riscos de abastecimento energético no Norte devido ao El Niño. Se a seca se confirmar e o transporte fluvial for comprometido, a antecipação de recursos pode garantir o suprimento; caso contrário, a medida pode ser desnecessária e gerar custos adicionais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787238954.797501,
-    "titulo": "ANS barra plano da Hapvida de reajustar ou cancelar contratos, diz jornal",
-    "titulo_original": "ANS barra plano da Hapvida de reajustar ou cancelar contratos, diz jornal",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 11:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da ANS de barrar o plano da Hapvida pode ter implicações financeiras para a empresa e para os consumidores. Se a Hapvida não conseguir implementar as medidas, sua saúde financeira pode ser afetada; se a ANS mantiver a decisão, isso pode servir de precedente para outras operadoras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787238954.799179,
-    "titulo": "Mercados europeus fecham: Dólar, rendimentos recuperam algum fôlego; ações do Walmart caem após resultados",
-    "titulo_original": "investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings",
-    "fonte": "ForexLive",
-    "publicado": "20/08 08:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A recuperação do dólar e dos rendimentos pode indicar um cenário de maior aversão ao risco ou ajustes de mercado. A queda das ações do Walmart, se confirmada como tendência, pode sinalizar um arrefecimento da demanda em economias desenvolvidas, o que pode ter repercussões globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787238954.8007226,
-    "titulo": "Mesmo após prejuízo, Wells Fargo dobra aposta no real",
-    "titulo_original": "Mesmo após prejuízo, Wells Fargo dobra aposta no real",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 11:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Wells Fargo de dobrar a aposta no real, contrariando a cautela de outros players, pode indicar uma visão otimista sobre a economia brasileira. Se a moeda brasileira se valorizar, a aposta do banco será recompensada; uma desvalorização pode gerar perdas adicionais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787238954.8022687,
-    "titulo": "Mercado aéreo brasileiro movimenta 11,9 milhões de passageiros em julho, alta de 2,4%, diz Anac",
-    "titulo_original": "Mercado aéreo brasileiro movimenta 11,9 milhões de passageiros em julho, alta de 2,4%, diz Anac",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 11:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento no número de passageiros no mercado aéreo brasileiro indica uma recuperação na atividade do setor. Se essa tendência de alta se mantiver, pode sinalizar um aquecimento da economia; uma desaceleração no transporte aéreo poderia indicar o oposto.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787244344.043697,
     "titulo": "Split payment e o fluxo de caixa das empresas",
     "titulo_original": "Split payment e o fluxo de caixa das empresas",
@@ -1174,6 +1063,88 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A pesquisa sobre as preferências dos jovens no mercado de trabalho sugere uma mudança de prioridades em relação à remuneração. Se essa tendência se consolidar, as empresas podem precisar repensar suas estruturas e culturas para atrair e reter talentos. No entanto, a notícia se baseia em uma pesquisa de opinião e não em uma mudança concreta de política ou dado econômico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787349652.5764904,
+    "titulo": "Casas Bahia (BHIA3): Ministro nega haver crise no varejo e culpa juros altos e e-commerce por dificuldades",
+    "titulo_original": "Casas Bahia (BHIA3): Ministro nega haver crise no varejo e culpa juros altos e e-commerce por dificuldades",
+    "fonte": "Money Times",
+    "publicado": "21/08 18:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro da Fazenda sobre as dificuldades do varejo, atribuindo-as aos juros altos, reforça a percepção de que a política monetária tem impacto direto no setor. Se os juros permanecerem elevados, o setor varejista pode continuar sob pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787349657.0359204,
+    "titulo": "Recuperações judiciais batem recorde; é hora de fugir do crédito privado?",
+    "titulo_original": "Recuperações judiciais batem recorde; é hora de fugir do crédito privado?",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 18:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recorde de recuperações judiciais sugere um cenário de maior dificuldade para empresas, o que pode indicar um aperto nas condições de crédito. Se a tendência de alta nas recuperações judiciais se mantiver, isso pode pressionar ainda mais o mercado de crédito privado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787349661.424128,
+    "titulo": "Bolsa avança com ajuda do exterior na sexta-feira (21); dólar cai - G1",
+    "titulo_original": "Bolsa avança com ajuda do exterior na sexta-feira (21); dólar cai - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/08 18:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O avanço da bolsa com ajuda externa e a queda do dólar indicam um fluxo de capital estrangeiro positivo para o Brasil. Se essa tendência de entrada de capital se mantiver, pode sustentar a valorização da bolsa e a apreciação do real no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787349665.9470377,
+    "titulo": "Após ligação entre Lula e Trump, negociadores de Brasil e EUA voltarão a se reunir para discutir tarifaço, diz ministro - O GLOBO",
+    "titulo_original": "Após ligação entre Lula e Trump, negociadores de Brasil e EUA voltarão a se reunir para discutir tarifaço, diz ministro - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "21/08 17:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A retomada das negociações entre Brasil e EUA sobre tarifas pode indicar uma tentativa de resolução de pendências comerciais. Se as discussões resultarem em acordos favoráveis, isso pode aliviar pressões sobre setores específicos da economia brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787349671.2191582,
+    "titulo": "Até onde o dólar pode subir? BTG traça cenário de pressão para o real - Estadão",
+    "titulo_original": "Até onde o dólar pode subir? BTG traça cenário de pressão para o real - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/08 14:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do BTG de pressão sobre o real e alta do dólar sugere um cenário de saída de capital ou menor entrada. Se essa tendência se concretizar, pode haver impacto na inflação e no custo de importados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787349671.2206428,
+    "titulo": "ONS eleva previsão para crescimento da carga de energia no Brasil em agosto",
+    "titulo_original": "ONS eleva previsão para crescimento da carga de energia no Brasil em agosto",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 14:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na previsão de carga de energia indica uma expectativa de maior atividade econômica em agosto. Se essa demanda se confirmar, pode ser um sinal positivo para o setor industrial e de serviços.",
     "is_stocks": true
   }
 ]
