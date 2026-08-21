@@ -1049,5 +1049,121 @@
     "origem": "externa",
     "leitura_critica": "A recuperação de Wall Street, apesar dos temores inflacionários e fiscais, sugere que o mercado pode estar precificando esses riscos. A atenção às medidas econômicas dos EUA contra o Irã pode trazer volatilidade adicional, dependendo do seu escopo e impacto.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787330764.1389844,
+    "titulo": "Descoberta de petróleo na Amazônia dá impulso a Lula, mas resultados não são garantidos",
+    "titulo_original": "Descoberta de petróleo na Amazônia dá impulso a Lula, mas resultados não são garantidos - UOL Notícias",
+    "fonte": "Google News Commodities",
+    "publicado": "21/08 11:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A descoberta de petróleo na Amazônia pode trazer benefícios econômicos e políticos para o governo Lula. Se a exploração for bem-sucedida e os resultados forem positivos, o impulso pode ser duradouro; caso contrário, a descoberta pode se tornar um ponto de questionamento sobre a viabilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787330768.188658,
+    "titulo": "Lula liga para Trump, e Brasil e EUA devem voltar a discutir tarifaço",
+    "titulo_original": "Lula liga para Trump, e Brasil e EUA devem voltar a discutir tarifaço",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 13:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A conversa entre os presidentes pode indicar uma reabertura de negociações sobre as tarifas. Se um acordo for alcançado, isso poderá aliviar a pressão sobre as exportações brasileiras; caso contrário, a incerteza tarifária pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787330772.160663,
+    "titulo": "Lula e Presidente Trump tiveram ligação telefônica na sexta-feira.",
+    "titulo_original": "Brazil's Lula and US Pres. Trump held phone call on Friday.",
+    "fonte": "ForexLive",
+    "publicado": "21/08 13:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A ligação telefônica e a sugestão de retomada de reuniões indicam uma possível tentativa de resolução para a questão tarifária. Se as negociações avançarem, isso pode trazer maior clareza para o comércio bilateral; a ausência de progresso pode manter a tensão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787330776.1098604,
+    "titulo": "Com rendimentos de títulos mais altos, UBS diz onde ainda vale investir e quais ações brasileiras podem ser penalizadas",
+    "titulo_original": "Com rendimentos de títulos mais altos, UBS diz onde ainda vale investir e quais ações brasileiras podem ser penalizadas",
+    "fonte": "Money Times",
+    "publicado": "21/08 12:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A percepção de juros mais altos por mais tempo nos EUA pode influenciar as decisões de investimento globais. Se essa visão se confirmar, pode haver pressão sobre ativos de risco, como ações brasileiras; se as expectativas de juros mudarem, o cenário de investimento pode se alterar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787330781.864008,
+    "titulo": "Nova safra de soja do Brasil pode cair um pouco com El Niño, diz executivo da Cofco",
+    "titulo_original": "Nova safra de soja do Brasil pode cair um pouco com El Niño, diz executivo da Cofco",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 12:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de menor safra de soja pode impactar os preços das commodities agrícolas. Se os efeitos do El Niño forem mais severos do que o previsto, a produção pode ser ainda mais afetada; se as condições climáticas se normalizarem, a queda pode ser menor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787330781.865726,
+    "titulo": "BEEF3, JBSS32 e MBRF3: Safra vê apenas uma ação ganhando com suspensão de tarifa de Trump",
+    "titulo_original": "BEEF3, JBSS32 e MBRF3: Safra vê apenas uma ação ganhando com suspensão de tarifa de Trump",
+    "fonte": "Money Times",
+    "publicado": "21/08 13:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A medida de Trump pode impulsionar as exportações de carne bovina brasileira. Se a suspensão for mantida, empresas como a Minerva Foods podem ver seus resultados melhorarem; se as tarifas forem reintroduzidas, o impacto positivo pode ser revertido.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787330781.8674297,
+    "titulo": "Petrobras inicia negociação para blocos exploratórios em Gana",
+    "titulo_original": "Petrobras inicia negociação para blocos exploratórios em Gana - Agência Petrobras de Notícias",
+    "fonte": "Google News Acoes",
+    "publicado": "21/08 09:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A entrada da Petrobras em blocos exploratórios em Gana pode expandir suas operações internacionais. Se as negociações forem bem-sucedidas, a empresa pode diversificar suas fontes de receita; se não avançarem, a estratégia de expansão pode ser adiada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787330781.8690786,
+    "titulo": "No Golfo do México, Petrobras se une à Pemex em busca de petróleo em rochas jurássicas",
+    "titulo_original": "No Golfo do México, Petrobras se une à Pemex em busca de petróleo em rochas jurássicas - O GLOBO",
+    "fonte": "Google News Acoes",
+    "publicado": "21/08 09:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A parceria entre Petrobras e Pemex para exploração de petróleo no Golfo do México pode resultar em novas descobertas. Se a exploração for bem-sucedida, pode aumentar a produção de petróleo das empresas; caso contrário, o investimento pode não gerar o retorno esperado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787330781.8707821,
+    "titulo": "SLC Agrícola (SLCE3): BTG eleva preço-alvo com impulso de curto prazo e hora de ‘colher’ estratégia contracíclica",
+    "titulo_original": "SLC Agrícola (SLCE3): BTG eleva preço-alvo com impulso de curto prazo e hora de ‘colher’ estratégia contracíclica",
+    "fonte": "Money Times",
+    "publicado": "21/08 12:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A elevação do preço-alvo para as ações da SLC Agrícola pelo BTG Pactual sugere uma perspectiva positiva para a empresa. Se a estratégia contracíclica da empresa se mostrar eficaz, o potencial de valorização pode ser atingido; caso contrário, o desempenho das ações pode ficar abaixo do esperado.",
+    "is_stocks": true
   }
 ]
