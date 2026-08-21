@@ -1,115 +1,5 @@
 [
   {
-    "_timestamp": 1787244344.043697,
-    "titulo": "Split payment e o fluxo de caixa das empresas",
-    "titulo_original": "Split payment e o fluxo de caixa das empresas",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 13:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A crítica ao split payment por impactar o fluxo de caixa das empresas sugere que a reforma tributária pode gerar dificuldades operacionais. Se o impacto for severo, pode levar a um aperto no capital de giro das empresas, afetando investimentos e a capacidade de honrar compromissos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787244348.520973,
-    "titulo": "Secretário do Tesouro dos EUA, Bessent, diz que recompra de títulos de longo prazo pode ser superior a 4 bilhões",
-    "titulo_original": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
-    "fonte": "ForexLive",
-    "publicado": "20/08 12:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração sobre a recompra de títulos e o foco em consolidação fiscal sugere uma tentativa de estabilizar os rendimentos dos Treasuries. Se essa ação for bem-sucedida em conter a alta das taxas, pode aliviar a pressão sobre os ativos de risco globalmente; caso contrário, a persistência de rendimentos elevados pode continuar a pressionar os mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787244352.9806724,
-    "titulo": "Dólar recupera terreno após cair na véspera com anúncio de recompra de Treasuries",
-    "titulo_original": "Dólar recupera terreno após cair na véspera com anúncio de recompra de Treasuries - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/08 11:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A recuperação do dólar após a recompra de Treasuries indica que o mercado ainda está precificando a possibilidade de juros mais altos nos EUA. Se a política de recompra for mantida e os juros continuarem em alta, isso pode sustentar um dólar mais forte, impactando o câmbio e as exportações brasileiras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787244357.5015233,
-    "titulo": "Dólar abre em alta nesta quinta após EUA aumentarem recompra de títulos do Tesouro",
-    "titulo_original": "Dólar abre em alta nesta quinta após EUA aumentarem recompra de títulos do Tesouro - Jornal do Comércio",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/08 10:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do dólar, associada ao aumento da recompra de títulos do Tesouro, reforça a percepção de que os EUA buscam gerenciar a liquidez e potencialmente influenciar as taxas de juros. Se essa política de recompra for mantida, pode sustentar um dólar mais forte e pressionar ativos de mercados emergentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787244362.9805408,
-    "titulo": "Ibovespa se destaca e sobe com impulso da Petrobras; dólar e juros avançam",
-    "titulo_original": "Ibovespa destoa e sobe com impulso de Petrobras; dólar e juros avançam",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 13:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa, apesar do cenário externo adverso, sugere que os ativos domésticos estão sendo impulsionados por fatores específicos, como o desempenho de commodities. Se a escalada do petróleo persistir, pode pressionar a inflação e, consequentemente, os juros futuros, impactando negativamente o mercado acionário no médio prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787244362.9825463,
-    "titulo": "Ibovespa avança 1% na máxima, enquanto Wall Street cai — o que influencia o mercado brasileiro hoje (20)?",
-    "titulo_original": "Ibovespa avança 1% na máxima, enquanto Wall Street cai — o que influencia o mercado brasileiro hoje (20)?",
-    "fonte": "Money Times",
-    "publicado": "20/08 13:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divergência entre o desempenho do Ibovespa e de Wall Street sugere que fatores domésticos, como o desempenho de commodities, estão superando as preocupações externas. Se as tensões geopolíticas e a alta dos juros nos EUA se intensificarem, isso pode reverter o quadro e pressionar o mercado brasileiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787244362.9844294,
-    "titulo": "Ibovespa Futuro cai com exterior e mercado avalia medidas do Tesouro dos EUA",
-    "titulo_original": "Ibovespa Futuro cai com exterior e mercado avalia medidas do Tesouro dos EUA - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "20/08 09:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa Futuro, influenciada pelo exterior e pelas ações do Tesouro dos EUA, indica que o mercado está atento a movimentos que possam afetar as taxas de juros globais. Se as medidas do Tesouro americano levarem a um aumento da aversão ao risco, isso pode continuar a pressionar o mercado acionário brasileiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787244362.9861724,
-    "titulo": "Petróleo dispara mais de 3%, fica perto de US$ 95 e tem maior valor em quase um mês",
-    "titulo_original": "Petróleo dispara mais de 3%, fica perto de US$ 95 e tem maior valor em quase um mês",
-    "fonte": "Folha Mercado",
-    "publicado": "20/08 11:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta expressiva do petróleo, motivada por tensões geopolíticas, pode gerar pressões inflacionárias globais e afetar o custo de energia para diversas economias. Se a escalada das tensões persistir, o preço do petróleo pode continuar a subir, impactando o poder de compra e a atividade econômica.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787250650.1672995,
     "titulo": "Governo amplia a R$ 200 mil teto de financiamento para motoristas de apps de olho em eleição",
     "titulo_original": "Governo amplia a R$ 200 mil teto de financiamento para motoristas de apps de olho em eleição",
@@ -1145,6 +1035,47 @@
     ],
     "origem": "domestica",
     "leitura_critica": "O aumento na previsão de carga de energia indica uma expectativa de maior atividade econômica em agosto. Se essa demanda se confirmar, pode ser um sinal positivo para o setor industrial e de serviços.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787355040.0424109,
+    "titulo": "Dólar fecha em queda firme contra o real com exterior favorável e eleições",
+    "titulo_original": "Dólar fecha em queda firme contra o real com exterior favorável e eleições - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/08 17:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar contra o real sugere um fluxo de capital mais favorável ao Brasil, impulsionado por fatores externos positivos e pelo cenário eleitoral doméstico. Se a percepção de risco político diminuir após as eleições, o dólar pode continuar a se desvalorizar; caso contrário, a volatilidade pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787355044.1793537,
+    "titulo": "Impasse em Hormuz pressiona petróleo e amplia risco de inflação",
+    "titulo_original": "Impasse em Hormuz pressiona petróleo e amplia risco de inflação - Vero Notícias",
+    "fonte": "Google News Commodities",
+    "publicado": "21/08 17:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A tensão no Estreito de Hormuz, ao pressionar o preço do petróleo, eleva o risco de inflação globalmente. Se o impasse se agravar, os preços do petróleo podem continuar a subir, impactando negativamente a inflação; se houver uma resolução pacífica, a pressão inflacionária pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787355048.8411329,
+    "titulo": "Fazenda recomenda manutenção do imposto de exportação de petróleo",
+    "titulo_original": "Fazenda recomenda manutenção do imposto de exportação de petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 19:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação para manter o imposto de exportação de petróleo sugere uma postura cautelosa do governo diante da instabilidade externa. Se o imposto for mantido, pode haver um impacto nos custos de importação e, consequentemente, pressionar a inflação; caso contrário, a redução de custos poderia beneficiar o setor.",
     "is_stocks": true
   }
 ]
