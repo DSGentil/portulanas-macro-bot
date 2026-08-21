@@ -1,129 +1,5 @@
 [
   {
-    "_timestamp": 1787225455.7252398,
-    "titulo": "Imposto de Exportação pune quem produz e ameaça competitividade do petróleo",
-    "titulo_original": "Imposto de Exportação pune quem produz e ameaça competitividade do petróleo - JOTA Info",
-    "fonte": "Google News Commodities",
-    "publicado": "20/08 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A implementação de um imposto de exportação sobre o petróleo pode afetar a rentabilidade dos produtores e a competitividade do país no mercado internacional. Se a carga tributária for elevada, pode desestimular novos investimentos no setor e reduzir a produção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787225459.4295933,
-    "titulo": "Na melhor das hipóteses, a economia alemã pode crescer ligeiramente neste trimestre - Bundesbank",
-    "titulo_original": "At best, German economy may grow slightly in this quarter - Bundesbank",
-    "fonte": "ForexLive",
-    "publicado": "20/08 07:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A perspectiva de crescimento fraco na Alemanha, influenciada por fatores climáticos e monetários, pode sinalizar uma desaceleração mais ampla na zona do euro. Se os problemas de logística persistirem e as taxas de juros permanecerem elevadas, o cenário para o investimento e o consumo pode se deteriorar ainda mais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787225463.1702898,
-    "titulo": "Ministro das relações exteriores do Irã diz que 'Dia D econômico' de Trump trará 'mais derrota' aos EUA",
-    "titulo_original": "Ministro das relações exteriores do Irã diz que 'Dia D econômico' de Trump trará 'mais derrota' aos EUA - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "20/08 03:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração do ministro iraniano sugere que o país não se intimida com as ameaças econômicas dos EUA, indicando uma postura de resistência. Se o Irã conseguir manter sua posição e contornar as sanções, a pressão econômica sobre os EUA pode aumentar em termos de influência regional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787225466.8624039,
-    "titulo": "Ministro das relações exteriores do Irã minimiza a ameaça econômica do presidente dos EUA, Trump",
-    "titulo_original": "Iran foreign minister plays down US president Trump's economic threat",
-    "fonte": "ForexLive",
-    "publicado": "20/08 04:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A postura do Irã em relação às ameaças econômicas dos EUA sugere que as sanções podem não ter o efeito desejado de forçar concessões. Se o Irã conseguir manter sua resiliência econômica e diplomática, a tensão na região pode persistir, impactando os mercados globais de energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787225471.790413,
-    "titulo": "Austrália aprova lei para taxar gigantes da tecnologia que não pagarem por notícias locais",
-    "titulo_original": "Austrália aprova lei para taxar gigantes da tecnologia que não pagarem por notícias locais",
-    "fonte": "Valor Economico",
-    "publicado": "20/08 08:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Esta decisão regulatória da Austrália pode servir de precedente para outros países que buscam equilibrar a relação entre plataformas digitais e a produção de conteúdo local. Se outras nações adotarem medidas semelhantes, isso pode impactar as estratégias de receita e operação das big techs globalmente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787225471.7917936,
-    "titulo": "Dólar cai fecha a R$ 5,17; Ibovespa sobe e interrompe sequência de 11 quedas",
-    "titulo_original": "Dólar cai fecha a R$ 5,17;Ibovespa sobe e interrompe sequência de 11 quedas - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/08 04:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a alta do Ibovespa podem indicar um aumento da confiança dos investidores no mercado brasileiro. Se essa tendência de melhora se consolidar, pode atrair mais capital estrangeiro para a bolsa e reduzir a pressão sobre a moeda local.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787225471.792884,
-    "titulo": "Petróleo em alta, onda de calor na Europa, dólar, Ibovespa, mais agenda e pílulas da economia 20.08",
-    "titulo_original": "Petróleo em alta, onda de calor na Europa, dólar, Ibovespa, mais agenda e pílulas da economia 20.08 - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/08 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de fatores como a alta do petróleo e a onda de calor na Europa pode gerar pressões inflacionárias e afetar a atividade econômica. A performance do dólar e do Ibovespa refletirá a percepção de risco e o fluxo de capital em resposta a esses eventos globais e domésticos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787225471.7940843,
-    "titulo": "O recompra do Tesouro dos EUA será um divisor de águas para os mercados?",
-    "titulo_original": "Will the US Treasury buyback be a game changer for markets?",
-    "fonte": "ForexLive",
-    "publicado": "20/08 02:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento das recompras de títulos pelo Tesouro dos EUA pode sinalizar uma tentativa de estabilizar os mercados e reduzir a pressão sobre os rendimentos. Se essa medida for eficaz em injetar liquidez e conter a volatilidade, pode sustentar o apetite por risco em ativos como ações e metais preciosos, ao mesmo tempo que pressiona o dólar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787225471.7956705,
-    "titulo": "Petrobras se antecipa às novas regras da ANP e fecha acordo de acesso à UPGN com produtores onshore",
-    "titulo_original": "Petrobras se antecipa às novas regras da ANP e fecha acordo de acesso à UPGN com produtores onshore - Agência eixos",
-    "fonte": "Google News Acoes",
-    "publicado": "20/08 07:15",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ação da Petrobras em antecipar-se às novas regras da ANP demonstra uma proatividade na adaptação ao ambiente regulatório. Se o acordo com os produtores onshore for bem-sucedido, pode otimizar a operação e a logística de gás natural no país.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787231743.2554975,
     "titulo": "A Selic é alta porque pode ser alta - Valor Econômico",
     "titulo_original": "A Selic é alta porque pode ser alta - Valor Econômico",
@@ -1164,6 +1040,110 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A elevação do preço-alvo para as ações da SLC Agrícola pelo BTG Pactual sugere uma perspectiva positiva para a empresa. Se a estratégia contracíclica da empresa se mostrar eficaz, o potencial de valorização pode ser atingido; caso contrário, o desempenho das ações pode ficar abaixo do esperado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787337041.263236,
+    "titulo": "Flávio Bolsonaro anuncia novos nomes para equipe econômica",
+    "titulo_original": "Flávio Bolsonaro anuncia novos nomes para equipe econômica",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 14:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A formação da equipe econômica de Flávio Bolsonaro pode indicar as prioridades de sua futura gestão. Se os nomes anunciados trouxerem propostas concretas e alinhadas com as expectativas do mercado, isso pode influenciar a percepção de risco; caso contrário, a mera nomeação pode ter impacto limitado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787337044.8329556,
+    "titulo": "Debate sobre 6x1 é populista e inócuo, diz coordenadora na campanha de Flávio Bolsonaro",
+    "titulo_original": "Debate sobre 6x1 é populista e inócuo, diz coordenadora na campanha de Flávio Bolsonaro",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 12:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da coordenadora econômica da campanha de Flávio Bolsonaro sobre a escala 6x1 pode sinalizar a posição do candidato sobre temas trabalhistas. Se essa visão se traduzir em propostas concretas de política econômica, pode haver impacto nas discussões sobre jornada de trabalho; caso contrário, a declaração pode ser apenas retórica de campanha.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787337048.3420148,
+    "titulo": "Juros do cartão de crédito e escala 6x1 serão foco do próximo governo, diz Durigan",
+    "titulo_original": "Juros do cartão de crédito e escala 6x1 serão foco do próximo governo, diz Durigan",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 11:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Ministro da Fazenda sobre os juros do cartão de crédito e a escala 6x1 sinaliza prioridades para o próximo governo. Se houver medidas concretas para reduzir os juros do cartão, isso pode aliviar o endividamento; a discussão sobre a escala 6x1 pode impactar o mercado de trabalho, dependendo das propostas apresentadas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787337051.8347838,
+    "titulo": "Volkswagen precisa de cortes profundos para se manter competitiva, diz presidente",
+    "titulo_original": "Volkswagen precisa de cortes profundos para se manter competitiva, diz presidente",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 14:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Os alertas do CEO da Volkswagen sobre a necessidade de cortes profundos indicam desafios significativos para a montadora diante da concorrência e tarifas. Se a Volkswagen implementar os cortes de forma eficaz, pode recuperar competitividade; caso contrário, a pressão sobre os lucros e a capacidade de produção pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787337056.7435591,
+    "titulo": "Ibovespa dispara e dólar e juros futuros aprofundam queda com cenário eleitoral no foco e exterior positivo",
+    "titulo_original": "Ibovespa dispara e dólar e juros futuros aprofundam queda com cenário eleitoral no foco e exterior positivo",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 15:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A valorização do Ibovespa e a queda dos juros futuros sugerem um otimismo do mercado com a perspectiva de uma disputa eleitoral mais acirrada. Se o cenário eleitoral se consolidar com maior clareza, a tendência de queda nos juros futuros pode se acentuar; caso contrário, incertezas podem reverter esse movimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787337056.7455246,
+    "titulo": "Inter estima o valuation justo para o Ibovespa e ainda enxerga espaço para recuperação em 2026; confira",
+    "titulo_original": "Inter estima o valuation justo para o Ibovespa e ainda enxerga espaço para recuperação em 2026; confira",
+    "fonte": "Money Times",
+    "publicado": "21/08 15:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise do Banco Inter sugere que o Ibovespa pode ter espaço para valorização, com base em métricas de valuation e fluxo de capital estrangeiro. Se a entrada de capital se mantiver, o índice pode se aproximar de sua média histórica; uma reversão nesse fluxo, no entanto, poderia limitar essa recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787337056.7473679,
+    "titulo": "Bolsas da Europa fecham em alta com melhora na atividade",
+    "titulo_original": "Bolsas da Europa fecham em alta com melhora na atividade",
+    "fonte": "Money Times",
+    "publicado": "21/08 14:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta das bolsas europeias reflete um otimismo com a atividade econômica, mas a atenção a fatores externos como o Oriente Médio e o petróleo sugere riscos latentes. Se os desdobramentos no Oriente Médio se intensificarem ou os preços do petróleo subirem significativamente, isso pode reverter o sentimento positivo; caso contrário, a melhora na atividade pode sustentar a tendência de alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787337056.749214,
+    "titulo": "Hapvida mantém revisão de 947 mil contratos após ação da ANS",
+    "titulo_original": "Hapvida mantém revisão de 947 mil contratos após ação da ANS",
+    "fonte": "InvestNews",
+    "publicado": "21/08 10:05",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão de contratos pela Hapvida, motivada por ação da ANS, indica um ajuste regulatório no setor de saúde. Se a revisão for implementada de forma a impactar a rentabilidade de forma significativa, isso pode gerar um precedente para outras operadoras; caso contrário, o efeito pode ser pontual.",
     "is_stocks": true
   }
 ]
