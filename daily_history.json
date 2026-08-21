@@ -983,5 +983,71 @@
     "origem": "domestica",
     "leitura_critica": "A ausência de notificação formal da ANS pode indicar que a medida cautelar ainda está em fase de análise ou que a empresa busca contestá-la. A decisão final da ANS terá impacto direto sobre a Hapvida e o setor de saúde suplementar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787325337.1507866,
+    "titulo": "Dólar cai e Bolsa avança à espera de nova pesquisa Datafolha e com exterior no radar",
+    "titulo_original": "Dólar cai e Bolsa avança à espera de nova pesquisa Datafolha e com exterior no radar",
+    "fonte": "Folha Mercado",
+    "publicado": "21/08 10:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar, influenciada pelo cenário externo, e a alta da bolsa indicam um otimismo cauteloso no mercado doméstico. A divulgação da pesquisa Datafolha pode trazer maior clareza sobre o cenário político e influenciar os próximos movimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787325340.6143026,
+    "titulo": "Bitcoin sobe 7% e se aproxima de US$ 78 mil com entrada em ETFs",
+    "titulo_original": "Bitcoin sobe 7% e se aproxima de US$ 78 mil com entrada em ETFs",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 11:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte valorização do Bitcoin, associada à entrada de capital em ETFs e à política do Tesouro americano, sugere uma maior liquidez e apetite por ativos de risco. A relação entre a política monetária dos EUA e o desempenho do Bitcoin é um ponto a ser observado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787325345.6360736,
+    "titulo": "Debandada de estrangeiros da bolsa já é a terceira maior desde 2008 — e pode não ter acabado",
+    "titulo_original": "Debandada de estrangeiros da bolsa já é a terceira maior desde 2008 — e pode não ter acabado",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 11:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A magnitude da saída de capital estrangeiro é um sinal de alerta para o mercado acionário brasileiro. Se essa tendência se mantiver, pode pressionar o Ibovespa para baixo e indicar uma menor confiança dos investidores internacionais na economia local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787325345.6397793,
+    "titulo": "Estrangeiros retiram R$ 1,6 bilhão da B3 em 19 de agosto",
+    "titulo_original": "Estrangeiros retiram R$ 1,6 bilhão da B3 em 19 de agosto",
+    "fonte": "Valor Economico",
+    "publicado": "21/08 11:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade da retirada de capital estrangeiro, mesmo em um dia de alta do Ibovespa, reforça a preocupação com o fluxo de capital para a bolsa brasileira. Se essa tendência persistir, pode pressionar os múltiplos do mercado e a liquidez.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787325345.64129,
+    "titulo": "Wall Street avança com recuperação de vendas por pressão dos Treasuries",
+    "titulo_original": "Wall Street avança com recuperação de vendas por pressão dos Treasuries",
+    "fonte": "Money Times",
+    "publicado": "21/08 10:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A recuperação de Wall Street, apesar dos temores inflacionários e fiscais, sugere que o mercado pode estar precificando esses riscos. A atenção às medidas econômicas dos EUA contra o Irã pode trazer volatilidade adicional, dependendo do seu escopo e impacto.",
+    "is_stocks": true
   }
 ]
