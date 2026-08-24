@@ -706,5 +706,19 @@
     "origem": "domestica",
     "leitura_critica": "A alta do dólar e a valorização da Bolsa em um cenário de indefinição indicam um comportamento misto do mercado, possivelmente influenciado por fatores externos e pela incerteza doméstica. Se a indefinição persistir, o dólar pode continuar pressionado e a Bolsa volátil; caso um cenário mais claro se estabeleça, ambos podem reagir de forma mais definida.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787614231.5612533,
+    "titulo": "Governo do RJ prepara Lei de Responsabilidade Fiscal e tenta reverter déficit em 2026",
+    "titulo_original": "Governo do RJ prepara Lei de Responsabilidade Fiscal e tenta reverter déficit em 2026",
+    "fonte": "Folha Mercado",
+    "publicado": "24/08 20:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa de um estado em propor sua própria LRF demonstra um esforço em buscar maior controle fiscal. Se o projeto for aprovado sem alterações significativas, pode sinalizar um caminho para a recuperação das contas públicas estaduais; contudo, a efetividade dependerá da capacidade de implementação e do cumprimento das metas fiscais.",
+    "is_stocks": false
   }
 ]
