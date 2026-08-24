@@ -487,5 +487,81 @@
     "origem": "domestica",
     "leitura_critica": "A recomendação de compra de ações específicas pelo Itaú BBA indica uma visão positiva sobre o desempenho dessas empresas no curto prazo. Se as recomendações se concretizarem, pode haver entrada de capital nessas ações, refletindo a confiança dos analistas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787596275.4823058,
+    "titulo": "Moeda iraniana cai para mínima histórica em relação ao dólar",
+    "titulo_original": "Moeda iraniana cai para mínima histórica em relação ao dólar - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/08 13:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A desvalorização histórica da moeda iraniana frente ao dólar sugere pressões econômicas significativas no país. Se essas pressões persistirem, isso pode intensificar a inflação interna e afetar o poder de compra da população; caso haja intervenções governamentais eficazes ou melhora no cenário geopolítico, a moeda pode apresentar alguma recuperação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787596279.0012493,
+    "titulo": "Trump ameaça elevar tarifas sobre veículos, autopeças e aço do Canadá a 50% a partir de 2027",
+    "titulo_original": "Trump ameaça elevar tarifas sobre veículos, autopeças e aço do Canadá a 50% a partir de 2027 - Estadão",
+    "fonte": "Google News Geopolitica",
+    "publicado": "24/08 11:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A ameaça de Trump de impor tarifas de 50% sobre produtos canadenses a partir de 2027 representa um endurecimento significativo na política comercial. Se essa ameaça for concretizada, isso pode gerar um impacto substancial nas cadeias de suprimentos e no comércio bilateral; caso contrário, pode ser uma tática de negociação para obter concessões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787596282.4887185,
+    "titulo": "Ouro sobe e atinge maior nível desde maio com preocupações fiscais nos EUA",
+    "titulo_original": "Ouro sobe e atinge maior nível desde maio com preocupações fiscais nos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 15:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do ouro, atingindo o maior patamar desde maio, é um reflexo direto das preocupações fiscais nos EUA e da percepção de um dólar mais fraco. Se as incertezas fiscais persistirem e o Fed sinalizar cautela com a inflação, o ouro pode continuar sua trajetória de alta como ativo de refúgio; caso o cenário fiscal se normalize e o Fed adote uma postura mais agressiva contra a inflação, o ouro pode perder atratividade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787596285.959832,
+    "titulo": "Bessent diz que ninguém está fora do alcance das sanções dos EUA contra o Irã, incluindo a China",
+    "titulo_original": "Bessent says no one is outside the reach of US sanctions on Iran, including China",
+    "fonte": "ForexLive",
+    "publicado": "24/08 14:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de que os EUA não pouparão esforços para impor sanções ao Irã, mesmo a países como a China, sinaliza uma escalada na pressão econômica. Se as sanções forem amplamente aplicadas e atingirem grandes instituições financeiras, isso pode gerar volatilidade nos mercados globais e afetar o comércio internacional; caso contrário, a eficácia das sanções pode ser limitada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787596290.5761876,
+    "titulo": "B3 vai excluir Braskem dos seus índices após acordo de pedido de recuperação extrajudicial",
+    "titulo_original": "B3 vai excluir Braskem dos seus índices após acordo de pedido de recuperação extrajudicial",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 15:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A exclusão da Braskem dos índices da B3 é um reflexo direto do anúncio de recuperação extrajudicial, indicando um evento corporativo de grande porte. Se o processo de recuperação extrajudicial for bem-sucedido, a empresa pode se reestruturar e voltar a ter relevância no mercado; caso contrário, a exclusão pode ser um prenúncio de dificuldades maiores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787596290.5772634,
+    "titulo": "Crise do varejo chega aos FIIs de logística. Veja os mais afetados – e os menos",
+    "titulo_original": "Crise do varejo chega aos FIIs de logística. Veja os mais afetados – e os menos",
+    "fonte": "InvestNews",
+    "publicado": "24/08 14:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do HSI Logística reflete a interconexão entre o setor varejista e os FIIs de logística. Se a crise no varejo se agravar e mais empresas pedirem recuperação judicial, outros FIIs com exposição semelhante podem sofrer desvalorização; caso o setor varejista se recupere, esses fundos podem apresentar melhora em seus desempenhos.",
+    "is_stocks": true
   }
 ]
