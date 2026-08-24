@@ -563,5 +563,84 @@
     "origem": "domestica",
     "leitura_critica": "A queda do HSI Logística reflete a interconexão entre o setor varejista e os FIIs de logística. Se a crise no varejo se agravar e mais empresas pedirem recuperação judicial, outros FIIs com exposição semelhante podem sofrer desvalorização; caso o setor varejista se recupere, esses fundos podem apresentar melhora em seus desempenhos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787603452.670433,
+    "titulo": "‘É preciso fazer a lição de casa’; o recado dos maiores banqueiros do país",
+    "titulo_original": "‘É preciso fazer a lição de casa’; o recado dos maiores banqueiros do país",
+    "fonte": "Money Times",
+    "publicado": "24/08 16:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta taxa de juros e o aumento da inadimplência estão impactando o setor bancário, forçando um aumento nas provisões. Se a inadimplência continuar a crescer, os bancos podem ter que apertar ainda mais as condições de crédito, o que pode desacelerar a economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787603457.4193206,
+    "titulo": "Petróleo cai após sequência de altas e mantém sanções ao Irã no radar - Canal Rural",
+    "titulo_original": "Petróleo cai após sequência de altas e mantém sanções ao Irã no radar - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "24/08 16:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda no preço do petróleo, após altas recentes, sugere uma possível estabilização ou ajuste de mercado. Se as tensões geopolíticas envolvendo o Irã se intensificarem, isso pode reverter a tendência de queda e pressionar os preços do petróleo para cima novamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787603461.8202019,
+    "titulo": "Netanyahu afirma que o Irã tentou matar um de seus filhos - 24/08/2026 - Mundo - Folha de S.Paulo",
+    "titulo_original": "Netanyahu afirma que o Irã tentou matar um de seus filhos - 24/08/2026 - Mundo - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "24/08 16:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Netanyahu sobre uma suposta tentativa de assassinato de seu filho pelo Irã eleva as tensões geopolíticas na região. Se essa alegação for confirmada ou gerar retaliações, pode haver impacto nos preços do petróleo e na estabilidade global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787603467.0897274,
+    "titulo": "PETR4, VBBR3 e UGPA3: Juros e custos apertam balanços, mas empresa desafiam o cenário adverso, diz BB Investimentos",
+    "titulo_original": "PETR4, VBBR3 e UGPA3: Juros e custos apertam balanços, mas empresa desafiam o cenário adverso, diz BB Investimentos",
+    "fonte": "Money Times",
+    "publicado": "24/08 17:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O relatório do BB Investimentos aponta que o cenário macroeconômico, com juros e inflação elevados, está impactando a rentabilidade das empresas. Se os juros permanecerem altos por mais tempo, a pressão sobre os balanços corporativos pode continuar, afetando a capacidade de investimento e distribuição de dividendos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787603467.0907078,
+    "titulo": "Wall Street fecha sem direção única com novo cerco econômico contra o Irã",
+    "titulo_original": "Wall Street fecha sem direção única com novo cerco econômico contra o Irã",
+    "fonte": "Money Times",
+    "publicado": "24/08 17:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia indica que o mercado de ações americano reagiu a múltiplos fatores, incluindo tensões geopolíticas e movimentos nos juros. Se as tensões com o Irã aumentarem, isso pode gerar volatilidade nos mercados globais; por outro lado, a queda nos juros dos Treasuries pode ser um sinal de alívio, dependendo da causa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787603467.0920267,
+    "titulo": "Petróleo cai firme e arrasta Petrobras (PETR4) e pares na bolsa - Valor Investe",
+    "titulo_original": "Petróleo cai firme e arrasta Petrobras (PETR4) e pares na bolsa - Valor Investe",
+    "fonte": "Google News Commodities",
+    "publicado": "24/08 14:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada no preço do petróleo está afetando diretamente as ações da Petrobras e de outras empresas do setor. Se o preço do petróleo continuar em trajetória de queda, isso pode pressionar ainda mais os resultados da Petrobras e impactar o desempenho do Ibovespa.",
+    "is_stocks": true
   }
 ]
