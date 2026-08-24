@@ -642,5 +642,69 @@
     "origem": "domestica",
     "leitura_critica": "A queda acentuada no preço do petróleo está afetando diretamente as ações da Petrobras e de outras empresas do setor. Se o preço do petróleo continuar em trajetória de queda, isso pode pressionar ainda mais os resultados da Petrobras e impactar o desempenho do Ibovespa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787608842.1678622,
+    "titulo": "Dólar à vista fecha em alta de 0,23%, a R$5,1534 na venda",
+    "titulo_original": "Dólar à vista fecha em alta de 0,23%, a R$5,1534 na venda - Notícias Agrícolas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/08 17:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar à vista reforça a tendência de valorização da moeda americana no mercado doméstico. Se essa tendência de alta do dólar se mantiver, pode pressionar a inflação e afetar o custo de importados; caso haja uma reversão, a moeda pode se desvalorizar, aliviando essas pressões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787608846.5909643,
+    "titulo": "O mundo reduziu o espaço para irresponsabilidades fiscais",
+    "titulo_original": "O mundo reduziu o espaço para irresponsabilidades fiscais",
+    "fonte": "Folha Mercado",
+    "publicado": "24/08 18:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos juros reais globais pode impor maior disciplina fiscal aos governos, limitando o espaço para gastos excessivos. Se os juros permanecerem em patamares elevados, a pressão por contas públicas mais saudáveis tende a se intensificar; caso haja uma reversão rápida e significativa para juros mais baixos, o espaço para políticas fiscais menos restritivas pode ressurgir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787608863.8719187,
+    "titulo": "S&P 500 e Nasdaq caem pressionados por ‘techs’, apesar de recuo nos juros e no petróleo",
+    "titulo_original": "S&P 500 e Nasdaq caem pressionados por ‘techs’, apesar de recuo nos juros e no petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 17:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A pressão sobre as ações de tecnologia, apesar do recuo nos juros, sugere que o mercado está atento a outros fatores de risco, como preocupações com gastos em IA. Se a oferta de ações da Alibaba continuar a gerar receio, o setor de tecnologia pode enfrentar mais volatilidade; caso contrário, a melhora no cenário de juros pode sustentar uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787608863.8731542,
+    "titulo": "Ibovespa destoa de bolsas emergentes e sobe com apoio de Vale e bancos",
+    "titulo_original": "Ibovespa destoa de bolsas emergentes e sobe com apoio de Vale e bancos",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 17:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, apesar da performance mista de mercados globais, indica uma força relativa do mercado local, possivelmente ligada a fatores específicos como o desempenho de commodities e a percepção eleitoral. Se o cenário eleitoral se mantiver equilibrado, o fluxo para renda variável pode continuar; caso contrário, a volatilidade pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787608863.8743105,
+    "titulo": "Dólar sobe a R$ 5,15 e Bolsa se valoriza com Ibovespa 'em indefinição'",
+    "titulo_original": "Dólar sobe a R$ 5,15 e Bolsa se valoriza com Ibovespa 'em indefinição' - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/08 17:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar e a valorização da Bolsa em um cenário de indefinição indicam um comportamento misto do mercado, possivelmente influenciado por fatores externos e pela incerteza doméstica. Se a indefinição persistir, o dólar pode continuar pressionado e a Bolsa volátil; caso um cenário mais claro se estabeleça, ambos podem reagir de forma mais definida.",
+    "is_stocks": true
   }
 ]
