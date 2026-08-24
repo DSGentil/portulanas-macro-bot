@@ -210,5 +210,73 @@
     "origem": "externa",
     "leitura_critica": "A busca da Shein por um IPO em Hong Kong indica a ambição da empresa em expandir sua presença global e captar recursos significativos. Se a oferta for bem-sucedida, isso pode fortalecer a posição da Shein no mercado de moda e influenciar outras empresas do setor a buscarem capital no mercado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787577341.4094536,
+    "titulo": "Mercado interrompe cortes na projeção da inflação e mantém IPCA em 5,02%",
+    "titulo_original": "Mercado interrompe cortes na projeção da inflação e mantém IPCA em 5,02% - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/08 08:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da projeção de inflação em 5,02% pelo mercado sugere que as expectativas de desinflamação podem ter arrefecido. Se os próximos dados de inflação vierem acima dessa projeção, o Banco Central pode ter seu espaço para cortes de juros limitado; se os dados vierem abaixo, a expectativa de corte pode ser retomada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787577346.038576,
+    "titulo": "Positivo lança plataforma para apoiar empresas na reforma tributária",
+    "titulo_original": "Positivo lança plataforma para apoiar empresas na reforma tributária",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 09:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento da plataforma pela Positivo visa facilitar a adaptação das empresas às novas regras tributárias. Se a plataforma for amplamente adotada, pode reduzir a complexidade operacional e os riscos de conformidade para as empresas durante a transição para o novo sistema tributário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787577350.6675985,
+    "titulo": "Crédito imobiliário deve ficar acima da expectativa e passar de R$ 400 bi em 2026",
+    "titulo_original": "Crédito imobiliário deve ficar acima da expectativa e passar de R$ 400 bi em 2026",
+    "fonte": "Folha Mercado",
+    "publicado": "24/08 09:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de R$ 411 bilhões em crédito imobiliário em 2026 sugere um aquecimento do setor. Se essa expansão se concretizar, pode impulsionar a atividade na construção civil e no mercado imobiliário, gerando efeitos positivos na geração de empregos e no consumo de bens e serviços relacionados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787577355.2982435,
+    "titulo": "US Treasury could tap the nearly $1 trillion TGA to fund bond buybacks",
+    "titulo_original": "US Treasury could tap the nearly $1 trillion TGA to fund bond buybacks",
+    "fonte": "ForexLive",
+    "publicado": "24/08 08:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O uso da TGA para recomprar títulos pode aumentar a capacidade do Tesouro de influenciar os rendimentos de longo prazo. Se essa estratégia for implementada, pode sinalizar uma tentativa de reduzir os custos de financiamento do governo americano; caso contrário, a emissão de títulos de curto prazo manteria a pressão sobre os rendimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787577359.8897247,
+    "titulo": "Israel ameaça intensificar os ataques caso cheguem mais pipas vindas de Gaza",
+    "titulo_original": "Israel ameaça intensificar os ataques caso cheguem mais pipas vindas de Gaza - Instituto Humanitas Unisinos - IHU",
+    "fonte": "Google News Geopolitica",
+    "publicado": "24/08 08:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A ameaça de escalada militar por parte de Israel pode aumentar a instabilidade na região. Se os ataques se intensificarem, isso pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas e em ativos considerados portos seguros.",
+    "is_stocks": false
   }
 ]
