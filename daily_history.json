@@ -278,5 +278,90 @@
     "origem": "externa",
     "leitura_critica": "A ameaça de escalada militar por parte de Israel pode aumentar a instabilidade na região. Se os ataques se intensificarem, isso pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas e em ativos considerados portos seguros.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1787584544.940247,
+    "titulo": "Economistas reduzem previsão do PIB neste ano",
+    "titulo_original": "Economistas reduzem previsão do PIB neste ano",
+    "fonte": "Folha Mercado",
+    "publicado": "24/08 09:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na previsão do PIB por parte dos economistas indica uma perspectiva de desaceleração da atividade econômica. Se a tendência de queda nas projeções se mantiver nas próximas divulgações, isso pode reforçar a necessidade de medidas de estímulo econômico, impactando decisões futuras de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787584549.8266392,
+    "titulo": "Falta de responsabilidade fiscal está levando a uma desestruturação empresarial, diz Caiado",
+    "titulo_original": "Falta de responsabilidade fiscal está levando a uma desestruturação empresarial, diz Caiado",
+    "fonte": "Money Times",
+    "publicado": "24/08 11:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Ronaldo Caiado sobre a falta de responsabilidade fiscal e seus impactos empresariais aponta para preocupações com a gestão das contas públicas. Se essa retórica ganhar força ou se refletir em propostas concretas de política fiscal, pode influenciar a percepção de risco e as decisões de investimento no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787584554.639776,
+    "titulo": "Governo avalia prorrogar subsídio da gasolina enquanto petróleo Brent segue acima de US$ 90",
+    "titulo_original": "Governo avalia prorrogar subsídio da gasolina enquanto petróleo Brent segue acima de US$ 90 - ADVFN",
+    "fonte": "Google News Commodities",
+    "publicado": "24/08 10:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação do governo em prorrogar o subsídio da gasolina, em um cenário de petróleo Brent acima de US$ 90, sugere uma potencial intervenção fiscal para mitigar o impacto da alta nos preços dos combustíveis. Se o subsídio for prorrogado, isso pode gerar pressão inflacionária e impactar as contas públicas; se for mantido o preço do petróleo em patamares elevados sem subsídio, isso pode pressionar a inflação de forma mais direta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787584559.6056426,
+    "titulo": "Atividade econômica dos Estados Unidos perde força em julho. Índice do Fed de Chicago fica abaixo de zero",
+    "titulo_original": "Atividade econômica dos Estados Unidos perde força em julho. Índice do Fed de Chicago fica abaixo de zero - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/08 11:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração da atividade econômica nos EUA, indicada pelo Índice do Fed de Chicago abaixo de zero, pode sinalizar um cenário de menor demanda global. Se essa tendência se confirmar, pode influenciar as decisões de política monetária do Federal Reserve, com potenciais reflexos nos mercados internacionais e no fluxo de capital para economias emergentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787584565.2668116,
+    "titulo": "Estrangeiros retiram R$ 1,1 bilhão em ações na B3 em 20 de agosto",
+    "titulo_original": "Estrangeiros retiram R$ 1,1 bilhão em ações na B3 em 20 de agosto - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "24/08 10:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro do mercado de ações brasileiro é um indicador de menor apetite por risco ou de busca por outros ativos. Se essa tendência de retirada se intensificar, pode pressionar o mercado acionário doméstico; caso contrário, uma reversão desse fluxo indicaria maior confiança dos investidores externos no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787584565.2675242,
+    "titulo": "TCU suspende uso de dinheiro esquecido para garantir operações do Novo Desenrola",
+    "titulo_original": "TCU suspende uso de dinheiro esquecido para garantir operações do Novo Desenrola",
+    "fonte": "Folha Mercado",
+    "publicado": "24/08 08:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do TCU de suspender o uso de dinheiro esquecido para o programa Desenrola Brasil representa uma mudança regulatória com impacto direto na execução do programa. Se a suspensão for mantida, pode afetar a capacidade de renegociação de dívidas e a forma como esses fundos são alocados, com potenciais reflexos no crédito e na atividade econômica.",
+    "is_stocks": true
   }
 ]
