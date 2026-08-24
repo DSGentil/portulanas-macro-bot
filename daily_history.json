@@ -90,5 +90,125 @@
     "origem": "ambas",
     "leitura_critica": "A desistência de Trump sobre as tarifas de carne bovina pode aliviar tensões comerciais pontuais. A menção a uma ligação entre Lula e Trump sugere um possível diálogo bilateral, cujos desdobramentos podem influenciar o cenário político e econômico.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787571049.872264,
+    "titulo": "Vídeo: Por que a Taxa Selic está em 14% e os juros do seu bolso são bem mais altos - Correio do Povo",
+    "titulo_original": "Vídeo: Por que a Taxa Selic está em 14% e os juros do seu bolso são bem mais altos - Correio do Povo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/08 07:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia destaca a discrepância entre a taxa básica de juros (Selic) e os juros efetivamente pagos pelos consumidores. Se essa diferença persistir, pode indicar ineficiências no mercado de crédito ou margens de lucro elevadas para intermediários financeiros, impactando o custo de vida e o acesso ao crédito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787571053.9121468,
+    "titulo": "Agenda do dia: Boletim Focus e palestra de Galípolo são destaque",
+    "titulo_original": "Agenda do dia: Boletim Focus e palestra de Galípolo são destaque",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 07:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação do Boletim Focus e a palestra de Gabriel Galípolo são cruciais para entender as expectativas do mercado e a visão do Banco Central sobre a inflação e os juros. Se as projeções de inflação vierem acima do esperado, isso pode reforçar a expectativa de manutenção da taxa Selic ou até mesmo de novos aumentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787571057.9762788,
+    "titulo": "Instabilidade no Pix",
+    "titulo_original": "Destaques",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 05:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A instabilidade no Pix, mesmo que temporária e sem vazamento de dados, levanta preocupações sobre a robustez da infraestrutura de pagamentos instantâneos. Se incidentes como este se repetirem, pode haver uma perda de confiança no sistema, impactando sua adoção e utilização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787571062.1199489,
+    "titulo": "Ajuste fiscal se paga rápido com juro menor, diz Vinland",
+    "titulo_original": "Ajuste fiscal se paga rápido com juro menor, diz Vinland",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 05:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão da Vinland Capital sugere que um ajuste fiscal robusto poderia gerar uma queda mais acentuada nos juros, mas que o Banco Central deve priorizar o controle da inflação no curto prazo. Se o governo não implementar um ajuste fiscal efetivo, a pressão sobre os juros pode persistir, dificultando a queda da inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787571067.7264926,
+    "titulo": "Braskem entra com pedido de recuperação extrajudicial, diz jornal",
+    "titulo_original": "Braskem entra com pedido de recuperação extrajudicial, diz jornal",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 07:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação extrajudicial da Braskem pode indicar dificuldades financeiras significativas para a empresa. Se o plano de reestruturação não for aceito pelos credores, a empresa pode ter que recorrer à recuperação judicial, o que teria impactos mais severos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787571067.7269862,
+    "titulo": "O que fazer com ação da Casas Bahia (BHIA3) após prejuízo de R$ 10 bilhões; em qual varejista vale a pena investir? Confira no Money Picks",
+    "titulo_original": "O que fazer com ação da Casas Bahia (BHIA3) após prejuízo de R$ 10 bilhões; em qual varejista vale a pena investir? Confira no Money Picks",
+    "fonte": "Money Times",
+    "publicado": "24/08 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O prejuízo bilionário e as dúvidas sobre a continuidade das operações da Casas Bahia sinalizam um cenário de forte estresse financeiro para a empresa. Se a situação não for revertida com medidas drásticas, a empresa pode enfrentar um processo de recuperação judicial ou até mesmo liquidação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787571067.7276103,
+    "titulo": "Taesa, Klabin, Santander: entenda por que a isenção de IR em ações não vale para elas - Exame",
+    "titulo_original": "Taesa, Klabin, Santander: entenda por que a isenção de IR em ações não vale para elas - Exame",
+    "fonte": "Google News Acoes",
+    "publicado": "24/08 05:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia esclarece a aplicabilidade de isenções fiscais em ações para empresas específicas. Se a interpretação das regras fiscais for ampliada ou restrita no futuro, isso pode afetar a rentabilidade de investimentos em ações dessas companhias.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787571067.7280755,
+    "titulo": "Nvidia negocia investimento em rodada que pode avaliar startup Perplexity em mais de US$ 30 bi",
+    "titulo_original": "Nvidia negocia investimento em rodada que pode avaliar startup Perplexity em mais de US$ 30 bi",
+    "fonte": "Valor Economico",
+    "publicado": "24/08 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O potencial investimento da Nvidia na Perplexity sinaliza um forte interesse em startups de inteligência artificial com alto potencial de crescimento. Se essa rodada de financiamento se concretizar, pode impulsionar ainda mais o desenvolvimento e a competição no setor de IA.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787571067.7286901,
+    "titulo": "Shein busca levantar até US$ 1,77 bilhão em IPO em Hong Kong",
+    "titulo_original": "Shein busca levantar até US$ 1,77 bilhão em IPO em Hong Kong",
+    "fonte": "Money Times",
+    "publicado": "24/08 07:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A busca da Shein por um IPO em Hong Kong indica a ambição da empresa em expandir sua presença global e captar recursos significativos. Se a oferta for bem-sucedida, isso pode fortalecer a posição da Shein no mercado de moda e influenciar outras empresas do setor a buscarem capital no mercado.",
+    "is_stocks": true
   }
 ]
