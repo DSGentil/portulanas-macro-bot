@@ -1,217 +1,5 @@
 [
   {
-    "_timestamp": 1787569244.7519772,
-    "titulo": "Tarcísio encerra mandato com piora gradual nas contas e aponta maior investimento em PPPs",
-    "titulo_original": "Tarcísio encerra mandato com piora gradativa nas contas e aponta investimento maior em PPPs",
-    "fonte": "Folha Mercado",
-    "publicado": "23/08 23:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para uma deterioração nas contas públicas do estado de São Paulo durante o mandato. Se a tendência de déficit persistir e não for acompanhada por medidas de ajuste fiscal, isso pode impactar a capacidade de investimento futuro do estado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787569248.2859397,
-    "titulo": "Conversas comerciais EUA-Canadá desmoronam com tarifas de 50% em vigor, Carney promete retaliação",
-    "titulo_original": "US-Canada trade talks collapse as 50% tariffs take effect, Carney vows retaliation",
-    "fonte": "ForexLive",
-    "publicado": "23/08 17:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O colapso nas negociações comerciais e a imposição de tarifas reintroduzem risco nas relações norte-americanas. Se as medidas retaliatórias do Canadá forem mais severas do que o esperado, isso pode pressionar ainda mais o dólar canadense e afetar setores específicos da economia, como energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787569251.8178117,
-    "titulo": "Em entrevista, Lula critica 2º escalão de Trump e diz que Lulinha terá que provar inocência: 'Ninguém está impune se cometeu erro'",
-    "titulo_original": "Em entrevista, Lula critica 2º escalão de Trump e diz que Lulinha terá que provar inocência: 'Ninguém está impune se cometeu erro' - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "23/08 19:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração de Lula sobre Trump e questões judiciais internas pode ser interpretada como uma postura política. Se essa retórica se traduzir em ações concretas que afetem as relações diplomáticas ou a percepção de risco, isso poderia ter reflexos no cenário econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787569255.3995173,
-    "titulo": "Lula aposta em Trump como 'aliado improvável' para melhorar relação com os EUA, diz Financial Times",
-    "titulo_original": "Lula aposta em Trump como 'aliado improvável' para melhorar relação com os EUA, diz Financial Times - BBC",
-    "fonte": "Google News Geopolitica",
-    "publicado": "22/08 10:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A percepção de Lula sobre Trump como um potencial aliado para melhorar as relações bilaterais é uma declaração política. Se essa visão se traduzir em ações diplomáticas concretas, isso pode influenciar o cenário de investimentos e o fluxo de capital entre os países.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787569259.758076,
-    "titulo": "Ibovespa Fecha Semana em Alta, Dólar Cai a R$ 5,14 e Petróleo Dispara com Tensão no Irã",
-    "titulo_original": "Ibovespa Fecha Semana em Alta, Dólar Cai a R$ 5,14 e Petróleo Dispara com Tensão no Irã - Forbes Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/08 18:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa e a queda do dólar podem ser influenciadas por diversos fatores, incluindo a tensão geopolítica no Irã que impulsionou o petróleo. Se a tensão no Oriente Médio se intensificar, isso pode continuar a pressionar os preços do petróleo e afetar o cenário de inflação global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787569259.7584097,
-    "titulo": "Com Foz do Amazonas, valor da Petrobras pode ir a R$ 811 bi até o fim do ano",
-    "titulo_original": "Com Foz do Amazonas, valor da Petrobras pode ir a R$ 811 bi até fim do ano - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "23/08 09:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia trata de uma projeção de valor de mercado para a Petrobras, ligada a um projeto específico. Se a exploração do campo de Foz do Amazonas for confirmada e gerar os resultados esperados, isso pode impulsionar o valor da empresa e, consequentemente, o setor de energia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787569259.7587683,
-    "titulo": "Resumo de notícias FX das Américas investingLive 21 de agosto: Trump desiste das tarifas sobre carne bovina.",
-    "titulo_original": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
-    "fonte": "ForexLive",
-    "publicado": "21/08 19:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A desistência de Trump sobre as tarifas de carne bovina pode aliviar tensões comerciais pontuais. A menção a uma ligação entre Lula e Trump sugere um possível diálogo bilateral, cujos desdobramentos podem influenciar o cenário político e econômico.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787571049.872264,
-    "titulo": "Vídeo: Por que a Taxa Selic está em 14% e os juros do seu bolso são bem mais altos - Correio do Povo",
-    "titulo_original": "Vídeo: Por que a Taxa Selic está em 14% e os juros do seu bolso são bem mais altos - Correio do Povo",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/08 07:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia destaca a discrepância entre a taxa básica de juros (Selic) e os juros efetivamente pagos pelos consumidores. Se essa diferença persistir, pode indicar ineficiências no mercado de crédito ou margens de lucro elevadas para intermediários financeiros, impactando o custo de vida e o acesso ao crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787571053.9121468,
-    "titulo": "Agenda do dia: Boletim Focus e palestra de Galípolo são destaque",
-    "titulo_original": "Agenda do dia: Boletim Focus e palestra de Galípolo são destaque",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 07:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação do Boletim Focus e a palestra de Gabriel Galípolo são cruciais para entender as expectativas do mercado e a visão do Banco Central sobre a inflação e os juros. Se as projeções de inflação vierem acima do esperado, isso pode reforçar a expectativa de manutenção da taxa Selic ou até mesmo de novos aumentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787571057.9762788,
-    "titulo": "Instabilidade no Pix",
-    "titulo_original": "Destaques",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 05:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A instabilidade no Pix, mesmo que temporária e sem vazamento de dados, levanta preocupações sobre a robustez da infraestrutura de pagamentos instantâneos. Se incidentes como este se repetirem, pode haver uma perda de confiança no sistema, impactando sua adoção e utilização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787571062.1199489,
-    "titulo": "Ajuste fiscal se paga rápido com juro menor, diz Vinland",
-    "titulo_original": "Ajuste fiscal se paga rápido com juro menor, diz Vinland",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 05:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A visão da Vinland Capital sugere que um ajuste fiscal robusto poderia gerar uma queda mais acentuada nos juros, mas que o Banco Central deve priorizar o controle da inflação no curto prazo. Se o governo não implementar um ajuste fiscal efetivo, a pressão sobre os juros pode persistir, dificultando a queda da inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787571067.7264926,
-    "titulo": "Braskem entra com pedido de recuperação extrajudicial, diz jornal",
-    "titulo_original": "Braskem entra com pedido de recuperação extrajudicial, diz jornal",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 07:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recuperação extrajudicial da Braskem pode indicar dificuldades financeiras significativas para a empresa. Se o plano de reestruturação não for aceito pelos credores, a empresa pode ter que recorrer à recuperação judicial, o que teria impactos mais severos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787571067.7269862,
-    "titulo": "O que fazer com ação da Casas Bahia (BHIA3) após prejuízo de R$ 10 bilhões; em qual varejista vale a pena investir? Confira no Money Picks",
-    "titulo_original": "O que fazer com ação da Casas Bahia (BHIA3) após prejuízo de R$ 10 bilhões; em qual varejista vale a pena investir? Confira no Money Picks",
-    "fonte": "Money Times",
-    "publicado": "24/08 08:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O prejuízo bilionário e as dúvidas sobre a continuidade das operações da Casas Bahia sinalizam um cenário de forte estresse financeiro para a empresa. Se a situação não for revertida com medidas drásticas, a empresa pode enfrentar um processo de recuperação judicial ou até mesmo liquidação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787571067.7276103,
-    "titulo": "Taesa, Klabin, Santander: entenda por que a isenção de IR em ações não vale para elas - Exame",
-    "titulo_original": "Taesa, Klabin, Santander: entenda por que a isenção de IR em ações não vale para elas - Exame",
-    "fonte": "Google News Acoes",
-    "publicado": "24/08 05:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia esclarece a aplicabilidade de isenções fiscais em ações para empresas específicas. Se a interpretação das regras fiscais for ampliada ou restrita no futuro, isso pode afetar a rentabilidade de investimentos em ações dessas companhias.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787571067.7280755,
-    "titulo": "Nvidia negocia investimento em rodada que pode avaliar startup Perplexity em mais de US$ 30 bi",
-    "titulo_original": "Nvidia negocia investimento em rodada que pode avaliar startup Perplexity em mais de US$ 30 bi",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O potencial investimento da Nvidia na Perplexity sinaliza um forte interesse em startups de inteligência artificial com alto potencial de crescimento. Se essa rodada de financiamento se concretizar, pode impulsionar ainda mais o desenvolvimento e a competição no setor de IA.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787571067.7286901,
-    "titulo": "Shein busca levantar até US$ 1,77 bilhão em IPO em Hong Kong",
-    "titulo_original": "Shein busca levantar até US$ 1,77 bilhão em IPO em Hong Kong",
-    "fonte": "Money Times",
-    "publicado": "24/08 07:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A busca da Shein por um IPO em Hong Kong indica a ambição da empresa em expandir sua presença global e captar recursos significativos. Se a oferta for bem-sucedida, isso pode fortalecer a posição da Shein no mercado de moda e influenciar outras empresas do setor a buscarem capital no mercado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787577341.4094536,
     "titulo": "Mercado interrompe cortes na projeção da inflação e mantém IPCA em 5,02%",
     "titulo_original": "Mercado interrompe cortes na projeção da inflação e mantém IPCA em 5,02% - VEJA",
@@ -1135,6 +923,98 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A notícia apresenta uma estimativa de arrecadação fiscal futura proveniente do setor de mineração, com base em um estudo da Vale. Essa projeção de arrecadação fiscal é relevante para o cenário fiscal do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787682650.142943,
+    "titulo": "Arrecadação sobe 9% em julho puxada por IOF e tributação sobre exportação de petróleo",
+    "titulo_original": "Arrecadação sobe 9% em julho puxada por IOF e tributação sobre exportação de petróleo",
+    "fonte": "Folha Mercado",
+    "publicado": "25/08 15:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da arrecadação, especialmente com IOF e tributação sobre exportação de petróleo, pode indicar uma política fiscal mais ativa ou um cenário de preços de commodities favorável. Se essa tendência se mantiver, pode aliviar a pressão sobre o déficit público.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787682654.6947184,
+    "titulo": "Campanhas de Lula e Flávio propõem soluções divergentes para taxas de juros de longo prazo elevadas",
+    "titulo_original": "Campanhas de Lula e Flávio propõem soluções divergentes para taxas de juros de longo prazo elevadas",
+    "fonte": "Money Times",
+    "publicado": "25/08 15:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência nas propostas para juros de longo prazo entre as campanhas presidenciais indica diferentes visões sobre a política econômica futura. A escolha do eleitor poderá ter impacto direto na trajetória dos juros e na confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787682659.1669474,
+    "titulo": "Dólar opera perto da estabilidade a R$ 5,14 nesta terça-feira",
+    "titulo_original": "Dólar opera perto da estabilidade a R$ 5,14 nesta terça-feira - Vero Notícias",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/08 10:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar em R$ 5,14 sugere um equilíbrio momentâneo entre fluxos de entrada e saída de capital. A manutenção desse patamar dependerá da evolução do cenário externo e de fatores domésticos, como decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787682663.5461442,
+    "titulo": "Dólar em alta: sanções ao Irã e leilão do BC marcam a terça-feira",
+    "titulo_original": "Dólar em alta: sanções ao Irã e leilão do BC marcam a terça-feira - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/08 10:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar pode refletir um aumento da aversão ao risco global devido às sanções ao Irã, ou uma demanda específica por moeda estrangeira em função do leilão do Banco Central. Se as sanções escalarem, o dólar pode continuar pressionado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787682676.0788822,
+    "titulo": "SEC intima bancos de Wall Street sobre o fundo Situational Awareness",
+    "titulo_original": "SEC intima bancos de Wall Street sobre o fundo Situational Awareness",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 15:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A investigação da SEC pode indicar um escrutínio maior sobre fundos de hedge e suas práticas de negociação. Se a investigação evoluir para uma investigação formal, isso pode gerar volatilidade em determinados setores do mercado financeiro americano.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787682676.0799606,
+    "titulo": "Braskem cai mais de 8% na Bolsa após pedido de recuperação extrajudicial",
+    "titulo_original": "Braskem cai mais de 8% na Bolsa após pedido de recuperação extrajudicial",
+    "fonte": "Folha Mercado",
+    "publicado": "25/08 14:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda expressiva das ações da Braskem reflete o impacto direto do pedido de recuperação extrajudicial na confiança dos investidores. Embora seja um evento específico de uma empresa, pode gerar atenção para o setor químico e para empresas com endividamento elevado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787682676.0810292,
+    "titulo": "Bolsas da Europa fecham em alta com alívio do petróleo e proposta de paz EUA-Irã",
+    "titulo_original": "Bolsas da Europa fecham em alta com alívio do petróleo e proposta de paz EUA-Irã",
+    "fonte": "Money Times",
+    "publicado": "25/08 14:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O fechamento em alta das bolsas europeias sugere um otimismo cauteloso no mercado, impulsionado pela diminuição das tensões geopolíticas e pela queda nos preços do petróleo. Se o alívio se mantiver, pode haver um fluxo de capital mais positivo para ativos de risco.",
     "is_stocks": true
   }
 ]
