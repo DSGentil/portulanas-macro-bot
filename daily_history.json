@@ -1,90 +1,5 @@
 [
   {
-    "_timestamp": 1787584544.940247,
-    "titulo": "Economistas reduzem previsão do PIB neste ano",
-    "titulo_original": "Economistas reduzem previsão do PIB neste ano",
-    "fonte": "Folha Mercado",
-    "publicado": "24/08 09:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução na previsão do PIB por parte dos economistas indica uma perspectiva de desaceleração da atividade econômica. Se a tendência de queda nas projeções se mantiver nas próximas divulgações, isso pode reforçar a necessidade de medidas de estímulo econômico, impactando decisões futuras de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787584549.8266392,
-    "titulo": "Falta de responsabilidade fiscal está levando a uma desestruturação empresarial, diz Caiado",
-    "titulo_original": "Falta de responsabilidade fiscal está levando a uma desestruturação empresarial, diz Caiado",
-    "fonte": "Money Times",
-    "publicado": "24/08 11:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Ronaldo Caiado sobre a falta de responsabilidade fiscal e seus impactos empresariais aponta para preocupações com a gestão das contas públicas. Se essa retórica ganhar força ou se refletir em propostas concretas de política fiscal, pode influenciar a percepção de risco e as decisões de investimento no país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787584554.639776,
-    "titulo": "Governo avalia prorrogar subsídio da gasolina enquanto petróleo Brent segue acima de US$ 90",
-    "titulo_original": "Governo avalia prorrogar subsídio da gasolina enquanto petróleo Brent segue acima de US$ 90 - ADVFN",
-    "fonte": "Google News Commodities",
-    "publicado": "24/08 10:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação do governo em prorrogar o subsídio da gasolina, em um cenário de petróleo Brent acima de US$ 90, sugere uma potencial intervenção fiscal para mitigar o impacto da alta nos preços dos combustíveis. Se o subsídio for prorrogado, isso pode gerar pressão inflacionária e impactar as contas públicas; se for mantido o preço do petróleo em patamares elevados sem subsídio, isso pode pressionar a inflação de forma mais direta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787584559.6056426,
-    "titulo": "Atividade econômica dos Estados Unidos perde força em julho. Índice do Fed de Chicago fica abaixo de zero",
-    "titulo_original": "Atividade econômica dos Estados Unidos perde força em julho. Índice do Fed de Chicago fica abaixo de zero - ADVFN",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/08 11:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração da atividade econômica nos EUA, indicada pelo Índice do Fed de Chicago abaixo de zero, pode sinalizar um cenário de menor demanda global. Se essa tendência se confirmar, pode influenciar as decisões de política monetária do Federal Reserve, com potenciais reflexos nos mercados internacionais e no fluxo de capital para economias emergentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787584565.2668116,
-    "titulo": "Estrangeiros retiram R$ 1,1 bilhão em ações na B3 em 20 de agosto",
-    "titulo_original": "Estrangeiros retiram R$ 1,1 bilhão em ações na B3 em 20 de agosto - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "24/08 10:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A saída de capital estrangeiro do mercado de ações brasileiro é um indicador de menor apetite por risco ou de busca por outros ativos. Se essa tendência de retirada se intensificar, pode pressionar o mercado acionário doméstico; caso contrário, uma reversão desse fluxo indicaria maior confiança dos investidores externos no Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787584565.2675242,
-    "titulo": "TCU suspende uso de dinheiro esquecido para garantir operações do Novo Desenrola",
-    "titulo_original": "TCU suspende uso de dinheiro esquecido para garantir operações do Novo Desenrola",
-    "fonte": "Folha Mercado",
-    "publicado": "24/08 08:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do TCU de suspender o uso de dinheiro esquecido para o programa Desenrola Brasil representa uma mudança regulatória com impacto direto na execução do programa. Se a suspensão for mantida, pode afetar a capacidade de renegociação de dívidas e a forma como esses fundos são alocados, com potenciais reflexos no crédito e na atividade econômica.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787589966.7164118,
     "titulo": "Lula definirá se Orçamento de 2027 vai incluir impostos criados na Reforma Tributária",
     "titulo_original": "Lula definirá se Orçamento de 2027 vai incluir impostos criados na Reforma Tributária",
@@ -1018,5 +933,141 @@
     "origem": "domestica",
     "leitura_critica": "A oferta de mais de 100 vagas de emprego pelo Sine Ouro Preto indica um movimento no mercado de trabalho local. Se essa tendência se expandir para outras regiões e setores, pode sinalizar uma melhora na atividade econômica; caso contrário, pode ser um movimento pontual.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1787695244.5849879,
+    "titulo": "Ministério Público indica ser contra trechos da Lei Antifacção",
+    "titulo_original": "Ministério Público indica ser contra trechos da Lei Antifacção",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 18:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A posição do Ministério Público contra partes da Lei Antifacção pode influenciar o debate e a decisão final sobre a constitucionalidade desses trechos. Se as objeções forem acatadas, a lei pode ter sua aplicação limitada, mantendo garantias constitucionais como o tribunal do júri.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787695248.2572548,
+    "titulo": "O novo elemento que acende alerta no mercado do boi e pode levar arroba a recorde; ‘2027 pode apertar ainda mais as margens’",
+    "titulo_original": "O novo elemento que acende alerta no mercado do boi e pode levar arroba a recorde; ‘2027 pode apertar ainda mais as margens’",
+    "fonte": "Money Times",
+    "publicado": "25/08 17:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento dos custos com insumos para a pecuária pode pressionar os preços da arroba do boi e afetar a rentabilidade dos produtores. Se os preços dos grãos continuarem em alta, a margem de lucro dos pecuaristas pode ser significativamente reduzida, impactando a oferta futura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787695251.7093759,
+    "titulo": "Relator da PEC da Segurança no Senado não irá alterar texto aprovado pela Câmara",
+    "titulo_original": "Relator da PEC da Segurança no Senado não irá alterar texto aprovado pela Câmara",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 17:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de não alterar o texto da PEC da Segurança Pública no Senado acelera sua aprovação, permitindo que as mudanças propostas entrem em vigor mais rapidamente. A celeridade na tramitação indica um consenso político em torno da matéria, mas o impacto prático das novas regras dependerá de sua implementação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787695255.1409883,
+    "titulo": "Notícias do mercado americano: Rumores de paz entre Irã e EUA",
+    "titulo_original": "investingLive Americas market news wrap: Some late talk of Iran peace",
+    "fonte": "ForexLive",
+    "publicado": "25/08 17:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A possibilidade de um acordo de paz entre Irã e EUA pode reduzir a tensão geopolítica e impactar os preços do petróleo. Paralelamente, a sinalização do BCE sobre aumento de juros e o alerta do Fed sobre inflação persistente indicam um cenário de aperto monetário na Europa e nos EUA, com potencial impacto nos mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787695259.9628274,
+    "titulo": "Morgan Stanley alerta para dólar a R$ 6 e juros longos a 18% sem plano fiscal após eleições",
+    "titulo_original": "Morgan Stanley alerta para dólar a R$ 6 e juros longos a 18% sem plano fiscal após eleições - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/08 13:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Morgan Stanley indica um cenário de instabilidade cambial e alta de juros caso não haja um plano fiscal robusto após as eleições. A ausência de clareza fiscal pode aumentar o risco percebido pelo mercado, levando a uma desvalorização do real e a um aumento da taxa de juros de longo prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787695259.964383,
+    "titulo": "Ibovespa dispara em sessão de maior apetite a risco; dólar e juros futuros caem",
+    "titulo_original": "Ibovespa dispara em sessão de maior apetite a risco; dólar e juros futuros caem",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 17:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A forte alta do Ibovespa, acompanhada pela queda do dólar e dos juros futuros, indica um cenário de melhora no apetite a risco global e doméstico. Se a percepção de menor risco se consolidar, o fluxo de capital para ativos de maior volatilidade pode aumentar, sustentando a valorização do índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787695259.9660053,
+    "titulo": "Ibovespa B3 sobe 1,55%, impulsionado por bom humor externo",
+    "titulo_original": "Ibovespa B3 sobe 1,55%, impulsionado por bom humor externo - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "25/08 18:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do Ibovespa demonstra sensibilidade do mercado brasileiro ao otimismo internacional. Se o bom humor externo persistir, o índice pode continuar sua trajetória de alta; caso contrário, a reversão desse cenário pode levar a uma correção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787695259.9675176,
+    "titulo": "Ibovespa fecha em alta, mesmo com queda do petróleo derrubando petroleiras",
+    "titulo_original": "Ibovespa fecha em alta, mesmo com queda do petróleo derrubando petroleiras - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "25/08 18:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A resiliência do Ibovespa em um dia de queda do petróleo sugere que outros setores ou fatores estiveram impulsionando o índice. A performance futura do Ibovespa pode ser influenciada pela volatilidade dos preços das commodities e pela força dos demais setores da economia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787695259.969031,
+    "titulo": "Petrobras terá que levar nove peixes-boi para centros de fauna, determina Ibama",
+    "titulo_original": "Petrobras terá que levar nove peixes-boi para centros de fauna, determina Ibama",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 18:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Ibama impõe obrigações ambientais à Petrobras, que podem impactar os custos e o cronograma das operações de exploração. A forma como a empresa gerenciará essas condicionantes será crucial para a continuidade dos projetos e para a relação com órgãos reguladores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787695259.9706268,
+    "titulo": "Mesmo com saída recorde de estrangeiros, o que fez Ibovespa subir?",
+    "titulo_original": "Mesmo com saída recorde de estrangeiros, o que fez Ibovespa subir? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "25/08 14:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, apesar da saída de capital estrangeiro, sugere que fatores domésticos ou o fluxo de capital de investidores locais foram suficientes para sustentar o movimento. Se a saída de estrangeiros continuar, o mercado dependerá cada vez mais de investidores domésticos para manter sua performance.",
+    "is_stocks": true
   }
 ]
