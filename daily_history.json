@@ -1,73 +1,5 @@
 [
   {
-    "_timestamp": 1787577341.4094536,
-    "titulo": "Mercado interrompe cortes na projeção da inflação e mantém IPCA em 5,02%",
-    "titulo_original": "Mercado interrompe cortes na projeção da inflação e mantém IPCA em 5,02% - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/08 08:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da projeção de inflação em 5,02% pelo mercado sugere que as expectativas de desinflamação podem ter arrefecido. Se os próximos dados de inflação vierem acima dessa projeção, o Banco Central pode ter seu espaço para cortes de juros limitado; se os dados vierem abaixo, a expectativa de corte pode ser retomada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787577346.038576,
-    "titulo": "Positivo lança plataforma para apoiar empresas na reforma tributária",
-    "titulo_original": "Positivo lança plataforma para apoiar empresas na reforma tributária",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 09:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O lançamento da plataforma pela Positivo visa facilitar a adaptação das empresas às novas regras tributárias. Se a plataforma for amplamente adotada, pode reduzir a complexidade operacional e os riscos de conformidade para as empresas durante a transição para o novo sistema tributário.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787577350.6675985,
-    "titulo": "Crédito imobiliário deve ficar acima da expectativa e passar de R$ 400 bi em 2026",
-    "titulo_original": "Crédito imobiliário deve ficar acima da expectativa e passar de R$ 400 bi em 2026",
-    "fonte": "Folha Mercado",
-    "publicado": "24/08 09:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de R$ 411 bilhões em crédito imobiliário em 2026 sugere um aquecimento do setor. Se essa expansão se concretizar, pode impulsionar a atividade na construção civil e no mercado imobiliário, gerando efeitos positivos na geração de empregos e no consumo de bens e serviços relacionados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787577355.2982435,
-    "titulo": "US Treasury could tap the nearly $1 trillion TGA to fund bond buybacks",
-    "titulo_original": "US Treasury could tap the nearly $1 trillion TGA to fund bond buybacks",
-    "fonte": "ForexLive",
-    "publicado": "24/08 08:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O uso da TGA para recomprar títulos pode aumentar a capacidade do Tesouro de influenciar os rendimentos de longo prazo. Se essa estratégia for implementada, pode sinalizar uma tentativa de reduzir os custos de financiamento do governo americano; caso contrário, a emissão de títulos de curto prazo manteria a pressão sobre os rendimentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787577359.8897247,
-    "titulo": "Israel ameaça intensificar os ataques caso cheguem mais pipas vindas de Gaza",
-    "titulo_original": "Israel ameaça intensificar os ataques caso cheguem mais pipas vindas de Gaza - Instituto Humanitas Unisinos - IHU",
-    "fonte": "Google News Geopolitica",
-    "publicado": "24/08 08:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A ameaça de escalada militar por parte de Israel pode aumentar a instabilidade na região. Se os ataques se intensificarem, isso pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas e em ativos considerados portos seguros.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1787584544.940247,
     "titulo": "Economistas reduzem previsão do PIB neste ano",
     "titulo_original": "Economistas reduzem previsão do PIB neste ano",
@@ -1016,5 +948,75 @@
     "origem": "externa",
     "leitura_critica": "O fechamento em alta das bolsas europeias sugere um otimismo cauteloso no mercado, impulsionado pela diminuição das tensões geopolíticas e pela queda nos preços do petróleo. Se o alívio se mantiver, pode haver um fluxo de capital mais positivo para ativos de risco.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787689852.826756,
+    "titulo": "TCU derruba decisão cautelar que suspendia uso de ‘dinheiro esquecido’ nos bancos no Novo Desenrola",
+    "titulo_original": "TCU derruba decisão cautelar que suspendia uso de ‘dinheiro esquecido’ nos bancos no Novo Desenrola",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 17:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do TCU permite a utilização de recursos do Sistema de Valores a Receber (SVR) para viabilizar o programa Desenrola. Se a decisão do TCU fosse mantida, o programa poderia ter dificuldades em sua execução; com a derrubada da cautelar, o programa pode avançar conforme planejado, impactando a renegociação de dívidas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787689856.7199752,
+    "titulo": "Tesouro Direto encerra julho com emissão líquida de R$ 7,37 bilhões",
+    "titulo_original": "Tesouro Direto encerra julho com emissão líquida de R$ 7,37 bilhões",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 16:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A emissão líquida positiva no Tesouro Direto indica um fluxo de capital para a renda fixa pública. Se essa tendência de entrada de recursos se mantiver, pode sinalizar maior apetite por ativos de menor risco; caso contrário, uma saída de capital da renda fixa poderia indicar busca por outras classes de ativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787689860.6246977,
+    "titulo": "A diferença entre um dado e um diagnóstico",
+    "titulo_original": "A diferença entre um dado e um diagnóstico",
+    "fonte": "Folha Mercado",
+    "publicado": "25/08 17:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia associa o aumento de recuperações judiciais a uma crítica política ao governo atual. Se o cenário de juros altos e crédito restrito persistir, o número de empresas em recuperação judicial pode continuar a crescer, impactando a atividade econômica e o emprego; caso contrário, uma melhora nas condições de crédito e juros poderia reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787689864.6824636,
+    "titulo": "Passando pano para o Banco Central?",
+    "titulo_original": "Passando pano para o Banco Central?",
+    "fonte": "Folha Mercado",
+    "publicado": "25/08 16:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre as altas taxas de juros e a atribuição de responsabilidade entre governo e Banco Central é central para a política monetária. Se a análise do autor for correta e os erros do governo forem os principais impulsionadores das altas taxas, uma melhora na gestão fiscal poderia levar a uma redução dos juros; caso contrário, a política monetária do BC pode ser o fator determinante.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787689868.6339476,
+    "titulo": "Sine Ouro Preto oferece mais de 100 oportunidades no mercado de trabalho nesta terça-feira (25/8)",
+    "titulo_original": "Sine Ouro Preto oferece mais de 100 oportunidades no mercado de trabalho nesta terça-feira (25/8) - Jornal Voz Ativa",
+    "fonte": "Google News Commodities",
+    "publicado": "25/08 15:33",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A oferta de mais de 100 vagas de emprego pelo Sine Ouro Preto indica um movimento no mercado de trabalho local. Se essa tendência se expandir para outras regiões e setores, pode sinalizar uma melhora na atividade econômica; caso contrário, pode ser um movimento pontual.",
+    "is_stocks": false
   }
 ]
