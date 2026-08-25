@@ -882,5 +882,112 @@
     "origem": "domestica",
     "leitura_critica": "A negativa da Ternium sobre o fechamento de capital da Usiminas traz clareza ao mercado após rumores. Se a Ternium de fato considerar tal operação no futuro, o mercado será informado. A notícia é relevante para a Usiminas e seus acionistas, mas o impacto macroeconômico direto para o mercado de WDO é limitado, a menos que a notícia detalhe implicações fiscais ou regulatórias mais amplas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787670946.182528,
+    "titulo": "Tesouro IPCA+8%: entenda o risco que esse juro reflete, e saiba até que ponto seu dinheiro fica protegido",
+    "titulo_original": "Tesouro IPCA+8%: entenda o risco que esse juro reflete, e saiba até que ponto seu dinheiro fica protegido",
+    "fonte": "InvestNews",
+    "publicado": "25/08 11:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O rendimento de 8% do Tesouro IPCA+ reflete expectativas de inflação e juros futuros. Se a inflação se mantiver elevada, o ganho real do investidor pode ser corroído, exigindo uma análise cuidadosa do cenário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787670950.3936775,
+    "titulo": "Aéreas conseguem elevar oferta de voos em julho mesmo com disparada do combustível",
+    "titulo_original": "Aéreas conseguem elevar oferta de voos em julho mesmo com disparada do combustível",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 11:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A capacidade das aéreas de aumentar a oferta e reduzir tarifas em julho, apesar do custo do combustível, sugere uma gestão de custos eficiente ou uma demanda aquecida. Se essa tendência se mantiver, pode beneficiar os consumidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787670954.7023885,
+    "titulo": "Índice composto de manufatura do Fed de Richmond +4 vs +5 anterior",
+    "titulo_original": "Richmond Fed manufacturing composite index +4 vs +5 prior",
+    "fonte": "ForexLive",
+    "publicado": "25/08 11:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda no índice de manufatura do Fed de Richmond, especialmente no setor de serviços, pode indicar uma desaceleração na atividade econômica dos EUA. Se os dados de confiança do consumidor também vierem fracos, isso reforçaria o cenário de menor dinamismo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787670958.8658724,
+    "titulo": "Rússia deve prorrogar proibição de exportação de diesel até setembro",
+    "titulo_original": "Rússia deve prorrogar proibição de exportação de diesel até setembro",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 11:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A prorrogação da proibição de exportação de diesel pela Rússia pode impactar a oferta global e os preços do combustível. Se a escassez persistir, isso pode gerar volatilidade nos mercados de energia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787670964.4928281,
+    "titulo": "Governo arrecada menos de 20% do previsto com dividendos de estatais no 1º semestre",
+    "titulo_original": "Governo arrecada menos de 20% do previsto com dividendos de estatais no 1º semestre",
+    "fonte": "Folha Mercado",
+    "publicado": "25/08 12:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A baixa arrecadação com dividendos de estatais pode pressionar o cumprimento das metas fiscais, exigindo medidas adicionais de ajuste ou aumento de receitas. Se essa tendência se mantiver, o governo pode precisar rever suas projeções ou buscar outras fontes de financiamento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787670964.4944692,
+    "titulo": "Estrangeiros aportam R$ 1,7 bilhão em ações na B3 em 21 de agosto",
+    "titulo_original": "Estrangeiros aportam R$ 1,7 bilhão em ações na B3 em 21 de agosto",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 11:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada de R$ 1,7 bilhão de estrangeiros na B3 em um único dia é um fluxo positivo, mas o saldo mensal negativo de R$ 21,4 bilhões indica cautela geral. Se o fluxo positivo se mantiver nos próximos dias, pode sustentar a alta do Ibovespa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787670964.4960072,
+    "titulo": "Squadra chama investimento em Hapvida de 'maior erro' de sua história",
+    "titulo_original": "Squadra chama investimento em Hapvida de 'maior erro' da sua história",
+    "fonte": "Valor Economico",
+    "publicado": "25/08 11:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da Squadra sugere uma reavaliação significativa de seus investimentos em empresas de saúde. Se outras gestoras compartilharem dessa visão, isso pode pressionar as ações do setor no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787670964.4976492,
+    "titulo": "Concorrente da Disney? Arábia Saudita vai investir US$ 7 bilhões em parque perto de Paris",
+    "titulo_original": "Concorrente da Disney? Arábia Saudita vai investir US$ 7 bilhões em parque perto de Paris",
+    "fonte": "InvestNews",
+    "publicado": "25/08 12:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O investimento saudita em um parque de lazer na Europa pode impulsionar o turismo e a criação de empregos na região. Se o projeto atrair o público esperado, pode gerar um impacto econômico positivo local.",
+    "is_stocks": true
   }
 ]
