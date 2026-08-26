@@ -1,83 +1,5 @@
 [
   {
-    "_timestamp": 1787657444.6540468,
-    "titulo": "Índice de Confiança do Consumidor cai em agosto pelo quarto mês consecutivo, diz FGV",
-    "titulo_original": "Índice de Confiança do Consumidor cai em agosto pelo quarto mês consecutivo, diz FGV",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 08:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A quarta queda consecutiva na confiança do consumidor sugere que a percepção das famílias sobre a economia está deteriorando, o que pode levar a uma desaceleração do consumo no segundo semestre. Se os próximos dados de emprego se mantiverem fortes, isso pode criar um cenário de divergência entre o mercado de trabalho e o sentimento do consumidor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787657448.113042,
-    "titulo": "Felipe Salto: Desta vez, o juro (e não o dólar) é o bicho-papão",
-    "titulo_original": "Felipe Salto: Desta vez, o juro (e não o dólar) é o bicho-papão - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/08 07:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de que os juros são a principal preocupação sugere que as decisões de política monetária e suas implicações para a economia brasileira estão em foco. Se as taxas de juros permanecerem elevadas, isso pode continuar a impactar o custo do crédito e o investimento; se houver sinais de queda, o cenário pode mudar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787657451.5805154,
-    "titulo": "Alemanha 2º tri PIB final +0,3% vs +0,2% preliminar",
-    "titulo_original": "Germany Q2 final GDP +0.3% vs +0.2% q/q prelim",
-    "fonte": "ForexLive",
-    "publicado": "25/08 03:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O crescimento do PIB alemão acima do esperado, impulsionado pelas exportações, indica uma recuperação da economia europeia. Se essa tendência de crescimento se mantiver, pode ter um impacto positivo nos mercados globais; caso contrário, uma desaceleração pode sinalizar desafios.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787657455.0279834,
-    "titulo": "Chefe do Exército do Paquistão leva oferta ao Irã para deter bloqueio e levantar sanções sob MoU",
-    "titulo_original": "Pakistani Army Chief Munir is carrying an offer to Iran to halt blockade and lift sanctions under MoU",
-    "fonte": "ForexLive",
-    "publicado": "25/08 05:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Se a proposta for aceita e resultar na suspensão de sanções, isso poderia aliviar a pressão econômica sobre o Irã e potencialmente impactar o cenário geopolítico regional. Caso contrário, a persistência das sanções pode manter a instabilidade na região.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787657459.2880316,
-    "titulo": "Ibovespa se aproxima dos 172 mil pontos e destoa de emergentes",
-    "titulo_original": "Ibovespa se aproxima dos 172 mil pontos e destoa de emergentes - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "25/08 05:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho do Ibovespa destoando de emergentes pode indicar fatores específicos do mercado brasileiro influenciando seu movimento. Se essa divergência persistir, pode ser um sinal de força relativa do mercado local; caso contrário, pode ser um movimento temporário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787657459.2891967,
-    "titulo": "Petróleo alivia bolsas e agenda esvaziada prepara investidor para os próximos indicadores da semana; Ibovespa em dólar sobe nesta terça-feira (25)",
-    "titulo_original": "Petróleo alivia bolsas e agenda esvaziada prepara investidor para os próximos indicadores da semana; Ibovespa em dólar sobe nesta terça-feira (25) - Money Times",
-    "fonte": "Google News Commodities",
-    "publicado": "25/08 06:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O alívio proporcionado pela queda do petróleo pode estar impulsionando o Ibovespa, apesar de uma agenda econômica com poucos destaques. Se os próximos indicadores econômicos forem positivos, o Ibovespa pode manter sua trajetória de alta; caso contrário, a volatilidade pode aumentar.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787663755.5028577,
     "titulo": "Divulgação da arrecadação de julho é adiada, informa Receita Federal",
     "titulo_original": "Divulgação da arrecadação de julho é adiada, informa Receita Federal",
@@ -1075,6 +997,76 @@
     ],
     "origem": "domestica",
     "leitura_critica": "O impasse na definição de áreas de urânio no Brasil está impactando diretamente 1.168 processos minerários de outros minerais críticos. Se essa indefinição regulatória persistir, pode afetar o desenvolvimento de projetos e a atração de investimentos no setor de mineração, com potenciais reflexos na atividade econômica e arrecadação fiscal.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787769040.1514988,
+    "titulo": "ETF Smart Selic pode ter IR maior; entenda o risco",
+    "titulo_original": "ETF Smart Selic pode ter IR maior; entenda o risco - TrendsCE",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/08 13:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda um potencial aumento na tributação de um ETF atrelado à Selic, o que pode afetar a rentabilidade dos investidores. Se essa mudança tributária se concretizar, pode haver uma reavaliação das aplicações em renda fixa atrelada à taxa básica de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787769043.6808426,
+    "titulo": "“A gente prefere o prefixado”: analista da Empiricus vê prêmio na curva e oportunidade na renda fixa",
+    "titulo_original": "“A gente prefere o prefixado”: analista da Empiricus vê prêmio na curva e oportunidade na renda fixa",
+    "fonte": "Money Times",
+    "publicado": "26/08 14:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A preferência por títulos prefixados sugere uma expectativa de que as taxas de juros podem se manter elevadas ou subir. Se o Banco Central sinalizar uma postura mais dura em relação à Selic, isso reforçaria essa visão; caso contrário, a atratividade dos prefixados pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787769047.313298,
+    "titulo": "Dívida pública federal vai a R$ 9,29 trilhões e governo amplia uso de títulos atrelados à Selic",
+    "titulo_original": "Dívida pública federal vai a R$ 9,29 trilhões e governo amplia uso de títulos atrelados à Selic - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/08 14:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da dívida pública e a maior emissão de títulos atrelados à Selic indicam uma estratégia do governo para gerenciar o endividamento, o que pode ter implicações na política monetária. Se a emissão de títulos atrelados à Selic continuar a crescer, isso pode pressionar as taxas de juros de longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787769050.830814,
+    "titulo": "Na curva a termo, mercado precifica 90% de chance de corte na Selic em setembro – e vê espaço para mais um corte",
+    "titulo_original": "Na curva a termo, mercado precifica 90% de chance de corte na Selic em setembro – e vê espaço para mais um corte",
+    "fonte": "Money Times",
+    "publicado": "26/08 14:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta probabilidade de corte na Selic em setembro, precificada pelo mercado, sugere uma expectativa de continuidade da política monetária expansionista. Se o Banco Central confirmar esse corte, isso pode estimular a atividade econômica, mas também pode gerar preocupações com a inflação futura se os dados de preços não se mantiverem benignos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787769054.9059303,
+    "titulo": "Bolsas da Europa têm tom misto com otimismo sobre Ormuz",
+    "titulo_original": "Bolsas da Europa têm tom misto com otimismo sobre Ormuz",
+    "fonte": "Money Times",
+    "publicado": "26/08 14:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O otimismo em relação a uma resolução diplomática no Oriente Médio, que impacta os preços do petróleo, pode ter reflexos em outros mercados globais. Se a tensão na região aumentar, os preços do petróleo podem voltar a subir, afetando a inflação e a atividade econômica em diversos países.",
     "is_stocks": true
   }
 ]
