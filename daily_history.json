@@ -1,238 +1,5 @@
 [
   {
-    "_timestamp": 1787596275.4823058,
-    "titulo": "Moeda iraniana cai para mínima histórica em relação ao dólar",
-    "titulo_original": "Moeda iraniana cai para mínima histórica em relação ao dólar - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/08 13:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A desvalorização histórica da moeda iraniana frente ao dólar sugere pressões econômicas significativas no país. Se essas pressões persistirem, isso pode intensificar a inflação interna e afetar o poder de compra da população; caso haja intervenções governamentais eficazes ou melhora no cenário geopolítico, a moeda pode apresentar alguma recuperação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787596279.0012493,
-    "titulo": "Trump ameaça elevar tarifas sobre veículos, autopeças e aço do Canadá a 50% a partir de 2027",
-    "titulo_original": "Trump ameaça elevar tarifas sobre veículos, autopeças e aço do Canadá a 50% a partir de 2027 - Estadão",
-    "fonte": "Google News Geopolitica",
-    "publicado": "24/08 11:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A ameaça de Trump de impor tarifas de 50% sobre produtos canadenses a partir de 2027 representa um endurecimento significativo na política comercial. Se essa ameaça for concretizada, isso pode gerar um impacto substancial nas cadeias de suprimentos e no comércio bilateral; caso contrário, pode ser uma tática de negociação para obter concessões.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787596282.4887185,
-    "titulo": "Ouro sobe e atinge maior nível desde maio com preocupações fiscais nos EUA",
-    "titulo_original": "Ouro sobe e atinge maior nível desde maio com preocupações fiscais nos EUA",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 15:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do ouro, atingindo o maior patamar desde maio, é um reflexo direto das preocupações fiscais nos EUA e da percepção de um dólar mais fraco. Se as incertezas fiscais persistirem e o Fed sinalizar cautela com a inflação, o ouro pode continuar sua trajetória de alta como ativo de refúgio; caso o cenário fiscal se normalize e o Fed adote uma postura mais agressiva contra a inflação, o ouro pode perder atratividade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787596285.959832,
-    "titulo": "Bessent diz que ninguém está fora do alcance das sanções dos EUA contra o Irã, incluindo a China",
-    "titulo_original": "Bessent says no one is outside the reach of US sanctions on Iran, including China",
-    "fonte": "ForexLive",
-    "publicado": "24/08 14:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de que os EUA não pouparão esforços para impor sanções ao Irã, mesmo a países como a China, sinaliza uma escalada na pressão econômica. Se as sanções forem amplamente aplicadas e atingirem grandes instituições financeiras, isso pode gerar volatilidade nos mercados globais e afetar o comércio internacional; caso contrário, a eficácia das sanções pode ser limitada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787596290.5761876,
-    "titulo": "B3 vai excluir Braskem dos seus índices após acordo de pedido de recuperação extrajudicial",
-    "titulo_original": "B3 vai excluir Braskem dos seus índices após acordo de pedido de recuperação extrajudicial",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 15:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A exclusão da Braskem dos índices da B3 é um reflexo direto do anúncio de recuperação extrajudicial, indicando um evento corporativo de grande porte. Se o processo de recuperação extrajudicial for bem-sucedido, a empresa pode se reestruturar e voltar a ter relevância no mercado; caso contrário, a exclusão pode ser um prenúncio de dificuldades maiores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787596290.5772634,
-    "titulo": "Crise do varejo chega aos FIIs de logística. Veja os mais afetados – e os menos",
-    "titulo_original": "Crise do varejo chega aos FIIs de logística. Veja os mais afetados – e os menos",
-    "fonte": "InvestNews",
-    "publicado": "24/08 14:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do HSI Logística reflete a interconexão entre o setor varejista e os FIIs de logística. Se a crise no varejo se agravar e mais empresas pedirem recuperação judicial, outros FIIs com exposição semelhante podem sofrer desvalorização; caso o setor varejista se recupere, esses fundos podem apresentar melhora em seus desempenhos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787603452.670433,
-    "titulo": "‘É preciso fazer a lição de casa’; o recado dos maiores banqueiros do país",
-    "titulo_original": "‘É preciso fazer a lição de casa’; o recado dos maiores banqueiros do país",
-    "fonte": "Money Times",
-    "publicado": "24/08 16:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta taxa de juros e o aumento da inadimplência estão impactando o setor bancário, forçando um aumento nas provisões. Se a inadimplência continuar a crescer, os bancos podem ter que apertar ainda mais as condições de crédito, o que pode desacelerar a economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787603457.4193206,
-    "titulo": "Petróleo cai após sequência de altas e mantém sanções ao Irã no radar - Canal Rural",
-    "titulo_original": "Petróleo cai após sequência de altas e mantém sanções ao Irã no radar - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "24/08 16:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda no preço do petróleo, após altas recentes, sugere uma possível estabilização ou ajuste de mercado. Se as tensões geopolíticas envolvendo o Irã se intensificarem, isso pode reverter a tendência de queda e pressionar os preços do petróleo para cima novamente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787603461.8202019,
-    "titulo": "Netanyahu afirma que o Irã tentou matar um de seus filhos - 24/08/2026 - Mundo - Folha de S.Paulo",
-    "titulo_original": "Netanyahu afirma que o Irã tentou matar um de seus filhos - 24/08/2026 - Mundo - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "24/08 16:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Netanyahu sobre uma suposta tentativa de assassinato de seu filho pelo Irã eleva as tensões geopolíticas na região. Se essa alegação for confirmada ou gerar retaliações, pode haver impacto nos preços do petróleo e na estabilidade global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787603467.0897274,
-    "titulo": "PETR4, VBBR3 e UGPA3: Juros e custos apertam balanços, mas empresa desafiam o cenário adverso, diz BB Investimentos",
-    "titulo_original": "PETR4, VBBR3 e UGPA3: Juros e custos apertam balanços, mas empresa desafiam o cenário adverso, diz BB Investimentos",
-    "fonte": "Money Times",
-    "publicado": "24/08 17:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O relatório do BB Investimentos aponta que o cenário macroeconômico, com juros e inflação elevados, está impactando a rentabilidade das empresas. Se os juros permanecerem altos por mais tempo, a pressão sobre os balanços corporativos pode continuar, afetando a capacidade de investimento e distribuição de dividendos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787603467.0907078,
-    "titulo": "Wall Street fecha sem direção única com novo cerco econômico contra o Irã",
-    "titulo_original": "Wall Street fecha sem direção única com novo cerco econômico contra o Irã",
-    "fonte": "Money Times",
-    "publicado": "24/08 17:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A notícia indica que o mercado de ações americano reagiu a múltiplos fatores, incluindo tensões geopolíticas e movimentos nos juros. Se as tensões com o Irã aumentarem, isso pode gerar volatilidade nos mercados globais; por outro lado, a queda nos juros dos Treasuries pode ser um sinal de alívio, dependendo da causa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787603467.0920267,
-    "titulo": "Petróleo cai firme e arrasta Petrobras (PETR4) e pares na bolsa - Valor Investe",
-    "titulo_original": "Petróleo cai firme e arrasta Petrobras (PETR4) e pares na bolsa - Valor Investe",
-    "fonte": "Google News Commodities",
-    "publicado": "24/08 14:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda acentuada no preço do petróleo está afetando diretamente as ações da Petrobras e de outras empresas do setor. Se o preço do petróleo continuar em trajetória de queda, isso pode pressionar ainda mais os resultados da Petrobras e impactar o desempenho do Ibovespa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787608842.1678622,
-    "titulo": "Dólar à vista fecha em alta de 0,23%, a R$5,1534 na venda",
-    "titulo_original": "Dólar à vista fecha em alta de 0,23%, a R$5,1534 na venda - Notícias Agrícolas",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/08 17:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar à vista reforça a tendência de valorização da moeda americana no mercado doméstico. Se essa tendência de alta do dólar se mantiver, pode pressionar a inflação e afetar o custo de importados; caso haja uma reversão, a moeda pode se desvalorizar, aliviando essas pressões.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787608846.5909643,
-    "titulo": "O mundo reduziu o espaço para irresponsabilidades fiscais",
-    "titulo_original": "O mundo reduziu o espaço para irresponsabilidades fiscais",
-    "fonte": "Folha Mercado",
-    "publicado": "24/08 18:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento dos juros reais globais pode impor maior disciplina fiscal aos governos, limitando o espaço para gastos excessivos. Se os juros permanecerem em patamares elevados, a pressão por contas públicas mais saudáveis tende a se intensificar; caso haja uma reversão rápida e significativa para juros mais baixos, o espaço para políticas fiscais menos restritivas pode ressurgir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787608863.8719187,
-    "titulo": "S&P 500 e Nasdaq caem pressionados por ‘techs’, apesar de recuo nos juros e no petróleo",
-    "titulo_original": "S&P 500 e Nasdaq caem pressionados por ‘techs’, apesar de recuo nos juros e no petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 17:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A pressão sobre as ações de tecnologia, apesar do recuo nos juros, sugere que o mercado está atento a outros fatores de risco, como preocupações com gastos em IA. Se a oferta de ações da Alibaba continuar a gerar receio, o setor de tecnologia pode enfrentar mais volatilidade; caso contrário, a melhora no cenário de juros pode sustentar uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787608863.8731542,
-    "titulo": "Ibovespa destoa de bolsas emergentes e sobe com apoio de Vale e bancos",
-    "titulo_original": "Ibovespa destoa de bolsas emergentes e sobe com apoio de Vale e bancos",
-    "fonte": "Valor Economico",
-    "publicado": "24/08 17:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa, apesar da performance mista de mercados globais, indica uma força relativa do mercado local, possivelmente ligada a fatores específicos como o desempenho de commodities e a percepção eleitoral. Se o cenário eleitoral se mantiver equilibrado, o fluxo para renda variável pode continuar; caso contrário, a volatilidade pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787608863.8743105,
-    "titulo": "Dólar sobe a R$ 5,15 e Bolsa se valoriza com Ibovespa 'em indefinição'",
-    "titulo_original": "Dólar sobe a R$ 5,15 e Bolsa se valoriza com Ibovespa 'em indefinição' - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/08 17:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar e a valorização da Bolsa em um cenário de indefinição indicam um comportamento misto do mercado, possivelmente influenciado por fatores externos e pela incerteza doméstica. Se a indefinição persistir, o dólar pode continuar pressionado e a Bolsa volátil; caso um cenário mais claro se estabeleça, ambos podem reagir de forma mais definida.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787614231.5612533,
-    "titulo": "Governo do RJ prepara Lei de Responsabilidade Fiscal e tenta reverter déficit em 2026",
-    "titulo_original": "Governo do RJ prepara Lei de Responsabilidade Fiscal e tenta reverter déficit em 2026",
-    "fonte": "Folha Mercado",
-    "publicado": "24/08 20:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A iniciativa de um estado em propor sua própria LRF demonstra um esforço em buscar maior controle fiscal. Se o projeto for aprovado sem alterações significativas, pode sinalizar um caminho para a recuperação das contas públicas estaduais; contudo, a efetividade dependerá da capacidade de implementação e do cumprimento das metas fiscais.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1787657444.6540468,
     "titulo": "Índice de Confiança do Consumidor cai em agosto pelo quarto mês consecutivo, diz FGV",
     "titulo_original": "Índice de Confiança do Consumidor cai em agosto pelo quarto mês consecutivo, diz FGV",
@@ -1009,6 +776,137 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A declaração sugere que o projeto Drex, mesmo em evolução, serviu como um catalisador para a adoção de tecnologias de blockchain e tokenização no setor financeiro brasileiro. Se o foco em resolver dores concretas se mantiver, a tokenização pode encontrar aplicações práticas e escaláveis no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787743854.250462,
+    "titulo": "Fazenda prorroga subvenção à gasolina até 9 de setembro, quando caduca MP",
+    "titulo_original": "Fazenda prorroga subvenção à gasolina até 9 de setembro, quando caduca MP",
+    "fonte": "Money Times",
+    "publicado": "26/08 08:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação da subvenção à gasolina pode ter um impacto temporário nos preços dos combustíveis e, consequentemente, na inflação. Se a MP não for renovada após 9 de setembro, um novo aumento nos preços da gasolina pode ocorrer, pressionando o IPCA.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787743858.6691635,
+    "titulo": "Mercado dá primeiros sinais concretos de retorno da tese de dólar fraco",
+    "titulo_original": "Mercado dá primeiros sinais concretos de retorno da tese de dólar fraco - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/08 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Sinais de enfraquecimento do dólar podem indicar uma mudança no fluxo de capital global. Se essa tese se confirmar, pode haver maior atratividade para ativos em outras moedas e mercados emergentes, potencialmente beneficiando o fluxo de capital para o Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787743863.0947976,
+    "titulo": "Premiê de Israel chama governantes do Irã de 'selvagens': 'Um acordo não pode ser alcançado'",
+    "titulo_original": "Premiê de Israel chama governantes do Irã de 'selvagens': 'Um acordo não pode ser alcançado' - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "26/08 06:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do premiê de Israel sobre o Irã eleva a tensão geopolítica na região. Se essa retórica se traduzir em ações concretas ou em um agravamento do conflito, isso pode impactar os preços do petróleo e a confiança dos investidores globais, afetando mercados de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787743869.9679291,
+    "titulo": "Mark Zuckerberg tinha plano ousado para substituir funcionários da Meta por IA",
+    "titulo_original": "Mark Zuckerberg tinha  plano ousado para substituir funcionários da Meta por IA",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 08:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia indica uma mudança estratégica na Meta em direção à automação com IA, o que pode impactar o mercado de trabalho em tecnologia. Se outras grandes empresas de tecnologia seguirem essa tendência, o cenário de contratação e a demanda por certas habilidades podem mudar significativamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787743869.968992,
+    "titulo": "Recuperação extrajudicial da Braskem põe Petrobras no foco",
+    "titulo_original": "Recuperação extrajudicial da Braskem põe Petrobras no foco",
+    "fonte": "Folha Mercado",
+    "publicado": "26/08 06:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A situação da Braskem e o envolvimento da Petrobras como garantidora podem gerar incertezas sobre a saúde financeira de ambas as empresas. Se os termos da recuperação extrajudicial não forem favoráveis, isso pode impactar a Petrobras, especialmente em relação à sua participação acionária e capacidade de investimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787743869.9699457,
+    "titulo": "Agenda de empresas: CVM decide que Oncoclínicas terá de fazer OPA; Hapvida reduz dívidas",
+    "titulo_original": "Agenda de empresas: CVM decide que Oncoclínicas terá de fazer OPA; Hapvida reduz dívidas",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 08:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da CVM sobre a Oncoclínicas representa uma ação regulatória com impacto direto em uma empresa específica. A redução da dívida da Hapvida é um movimento corporativo positivo para a empresa, mas sem impacto macroeconômico direto nos canais definidos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787743869.9709275,
+    "titulo": "Dólar cai e fecha a R$ 5,13; Ibovespa avança aos 174.577 pontos",
+    "titulo_original": "Dólar cai e fecha a R$ 5,13; Ibovespa avança aos 174.577 pontos - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/08 05:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar e a alta do Ibovespa sugerem um cenário de maior apetite a risco no mercado brasileiro. Se essa tendência se mantiver, pode indicar um fluxo de capital mais favorável para a renda variável no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787743869.9719496,
+    "titulo": "Plano da Braskem escala Petrobras como garantidora, com acordo bilionário para nafta",
+    "titulo_original": "Plano da Braskem escala Petrobras como garantidora, com acordo bilionário para nafta - Agência eixos",
+    "fonte": "Google News Acoes",
+    "publicado": "26/08 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia detalha o papel da Petrobras como garantidora no plano de recuperação da Braskem, com um acordo bilionário para nafta. Isso pode implicar em riscos e benefícios para a Petrobras, dependendo dos termos do acordo e da viabilidade da recuperação da Braskem.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787743869.97296,
+    "titulo": "Mercados tentam se acomodar antes dos dados de inflação e balanço da Nvidia (NVDA); Ibovespa em dólar sobe nesta quarta-feira (26)",
+    "titulo_original": "Mercados tentam se acomodar antes dos dados de inflação e balanço da Nvidia (NVDA); Ibovespa em dólar sobe nesta quarta-feira (26)",
+    "fonte": "Money Times",
+    "publicado": "26/08 07:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa pelos dados de inflação (PCE) nos EUA é crucial, pois o resultado pode influenciar a decisão do Federal Reserve sobre juros. Se o PCE vier acima do esperado, pode reforçar a postura mais restritiva do Fed; se vier abaixo, pode abrir espaço para cortes de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787743869.973937,
+    "titulo": "Prévia da inflação oficial, dólar, Ibovespa, mais agenda e pílulas da economia 26.08",
+    "titulo_original": "Prévia da inflação oficial, dólar, Ibovespa, mais agenda e pílulas da economia 26.08 - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/08 07:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação da prévia da inflação oficial é um indicador importante para a política monetária. Se o índice vier acima do esperado, pode aumentar a pressão por juros mais altos ou por uma manutenção da taxa Selic em patamares elevados; se vier abaixo, pode abrir espaço para discussões sobre cortes.",
     "is_stocks": true
   }
 ]
