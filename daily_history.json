@@ -1,89 +1,5 @@
 [
   {
-    "_timestamp": 1787663755.5028577,
-    "titulo": "Divulgação da arrecadação de julho é adiada, informa Receita Federal",
-    "titulo_original": "Divulgação da arrecadação de julho é adiada, informa Receita Federal",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 09:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O adiamento da divulgação da arrecadação federal de julho pode gerar incerteza sobre o desempenho fiscal do país. Se a nova data de divulgação for significativamente posterior, isso pode atrasar a análise do cenário fiscal. A notícia não fornece dados sobre a arrecadação em si, apenas sobre o adiamento da divulgação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787663759.679927,
-    "titulo": "Dólar opera em alta com petróleo e tensões entre EUA e Irã no radar",
-    "titulo_original": "Dólar opera em alta com petróleo e tensões entre EUA e Irã no radar - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/08 09:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar, associada ao petróleo e tensões geopolíticas, sugere um cenário de aversão ao risco que pode impactar mercados globais. Se as tensões no Oriente Médio escalarem, o petróleo pode continuar subindo, pressionando o dólar. A notícia não especifica o destino do fluxo de capital, mas a alta do dólar pode indicar uma busca por ativos mais seguros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787663763.9751198,
-    "titulo": "Dólar ronda estabilidade na abertura com guerra no Oriente Médio no radar",
-    "titulo_original": "Dólar ronda estabilidade na abertura com guerra no Oriente Médio no radar - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/08 09:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A estabilidade do dólar, com a guerra no Oriente Médio como pano de fundo, sugere que os mercados estão monitorando a evolução do conflito. Se as tensões aumentarem, o dólar pode se valorizar como ativo de refúgio. A notícia não detalha o impacto específico da guerra no dólar, mas a menção ao conflito indica um fator de risco geopolítico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787663768.280151,
-    "titulo": "Tráfego de navios de carga pelo Estreito de Ormuz tem menor nível em três meses",
-    "titulo_original": "Tráfego de navios de carga pelo Estreito de Ormuz tem menor nível em três meses",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 10:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A redução no tráfego pelo Estreito de Ormuz pode indicar uma diminuição na oferta de petróleo da região. Se essa tendência se mantiver, o preço do petróleo pode ser pressionado para cima. Contudo, a notícia não especifica os motivos dessa redução, o que limita a análise sobre sua persistência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787663773.6708276,
-    "titulo": "Iniciativas de Trump dobrarão emissões de carbono do setor elétrico até 2035, diz estudo",
-    "titulo_original": "Iniciativas de Trump dobrarão emissões de carbono do setor elétrico até 2035, diz estudo",
-    "fonte": "Folha Mercado",
-    "publicado": "25/08 09:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia aponta para um impacto ambiental e econômico de políticas energéticas nos EUA, com potencial perda de investimentos em energia limpa. Embora seja um fato relevante para o setor energético e ambiental, a conexão direta com os canais de análise macroeconômica para o mercado de WDO é indireta, a menos que haja um impacto explícito em juros, inflação ou fluxo de capital mencionado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787663773.6722457,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/08 09:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Esta notícia é um link para acompanhamento em tempo real da cotação do dólar. Sem dados específicos ou contexto adicional, a análise se limita a indicar que o dólar é um ativo de interesse. A relevância dependerá dos movimentos e fatores que impulsionarem a cotação, os quais não são detalhados aqui.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787663773.6736112,
-    "titulo": "Ternium nega notícia que pretende fechar capital da Usiminas",
-    "titulo_original": "Ternium nega notícia que pretende fechar capital da Usiminas",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 09:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A negativa da Ternium sobre o fechamento de capital da Usiminas traz clareza ao mercado após rumores. Se a Ternium de fato considerar tal operação no futuro, o mercado será informado. A notícia é relevante para a Usiminas e seus acionistas, mas o impacto macroeconômico direto para o mercado de WDO é limitado, a menos que a notícia detalhe implicações fiscais ou regulatórias mais amplas.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787670946.182528,
     "titulo": "Tesouro IPCA+8%: entenda o risco que esse juro reflete, e saiba até que ponto seu dinheiro fica protegido",
     "titulo_original": "Tesouro IPCA+8%: entenda o risco que esse juro reflete, e saiba até que ponto seu dinheiro fica protegido",
@@ -1067,6 +983,124 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O otimismo em relação a uma resolução diplomática no Oriente Médio, que impacta os preços do petróleo, pode ter reflexos em outros mercados globais. Se a tensão na região aumentar, os preços do petróleo podem voltar a subir, afetando a inflação e a atividade econômica em diversos países.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787776243.2803261,
+    "titulo": "Salário mínimo 2027: veja o valor previsto pelo governo federal",
+    "titulo_original": "Salário mínimo 2027: veja o valor previsto pelo governo federal",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 16:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O reajuste do salário mínimo acima da inflação prevista pode ter um impacto significativo no poder de compra da população e nos gastos públicos. Se o INPC de novembro vier acima do esperado, o valor final do salário mínimo pode ser ainda maior, pressionando o orçamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787776248.0841904,
+    "titulo": "Motta indica petista para presidir Comissão Mista da MP da 'taxa das blusinhas'",
+    "titulo_original": "Motta indica petista para presidir Comissão Mista da MP da 'taxa das blusinhas'",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 17:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A indicação de um petista para a relatoria da MP sugere um alinhamento político para a aprovação da medida. Se a proposta for aprovada como esperado, a desoneração de importações de baixo valor pode impactar o varejo e a arrecadação fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787776252.9705603,
+    "titulo": "Petróleo tem queda, mas fica longe das mínimas com novas tensões na Ucrânia",
+    "titulo_original": "Petróleo tem queda, mas fica longe das mínimas com novas tensões na Ucrânia",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 16:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A intensificação das tensões na Ucrânia pode gerar volatilidade nos preços do petróleo, com potencial para novas altas caso a oferta seja efetivamente impactada. Se o conflito se agravar, o Brent pode testar níveis de resistência mais altos; caso contrário, a pressão de baixa pode se intensificar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787776259.2149587,
+    "titulo": "Receita global de chips supera US$ 1,56 trilhão em 2026, salto de 92,8%, aponta Gartner",
+    "titulo_original": "Receita global de chips supera US$ 1,56 trilhão em 2026, salto de 92,8%, aponta Gartner",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 17:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O forte crescimento projetado para o setor de semicondutores, especialmente com o avanço da IA, sugere um cenário de alta demanda por tecnologia. Se os resultados da Nvidia superarem as expectativas, isso pode reforçar a tendência de valorização de empresas ligadas ao setor de tecnologia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787776259.2166116,
+    "titulo": "Wall Street fecham no vermelho com inflação acima do esperado e à espera de Nvidia (NVDA)",
+    "titulo_original": "Wall Street fecham no vermelho com inflação acima do esperado e à espera de Nvidia (NVDA)",
+    "fonte": "Money Times",
+    "publicado": "26/08 17:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A inflação persistente nos EUA aumenta a probabilidade de o Federal Reserve manter a taxa de juros em patamares elevados por mais tempo, o que pode pressionar os mercados de renda variável. Se os resultados da Nvidia vierem abaixo do esperado, isso pode intensificar a queda em Wall Street.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787776259.2181873,
+    "titulo": "Morgan Stanley vê dólar a R$ 6 e juros a 18% sem ajuste fiscal | Faria Lima News",
+    "titulo_original": "Morgan Stanley vê dólar a R$ 6 e juros a 18% sem ajuste fiscal | Faria Lima News - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/08 15:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Morgan Stanley para o dólar e os juros no Brasil sem ajuste fiscal é um alerta sobre os riscos econômicos do país. Se o governo não implementar medidas fiscais eficazes, a desvalorização do real e a alta da Selic podem se concretizar, impactando a inflação e o custo de vida.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787776259.219989,
+    "titulo": "UE mantém diálogo com a Meta sobre design viciante, diz porta-voz da Comissão Europeia",
+    "titulo_original": "UE mantém diálogo com a Meta sobre design viciante, diz porta-voz da Comissão Europeia",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 16:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A continuidade do diálogo entre a UE e a Meta indica que a pressão regulatória sobre as práticas de design de redes sociais persiste. Se a Meta não apresentar compromissos satisfatórios, a União Europeia pode impor novas restrições ou multas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787776259.2215717,
+    "titulo": "O acordo de US$ 17 bilhões da Meta é só o começo",
+    "titulo_original": "O acordo de US$ 17 bilhões da Meta é só o começo",
+    "fonte": "Folha Mercado",
+    "publicado": "26/08 15:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O acordo bilionário da Meta com os estados americanos sinaliza uma maior responsabilização das plataformas digitais por seus impactos na saúde mental de jovens. Se outras empresas de tecnologia enfrentarem processos semelhantes, isso pode levar a mudanças significativas em seus modelos de negócio e práticas de coleta de dados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787776259.223167,
+    "titulo": "Credores estrangeiros lideram apoio à reestruturação da Braskem",
+    "titulo_original": "Credores estrangeiros lideram apoio à reestruturação da Braskem",
+    "fonte": "InvestNews",
+    "publicado": "26/08 15:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O apoio de credores estrangeiros à reestruturação da Braskem é um sinal positivo para a empresa, indicando confiança na sua capacidade de honrar seus compromissos. Se a adesão continuar a crescer, isso pode facilitar a aprovação do plano e estabilizar a situação financeira da companhia.",
     "is_stocks": true
   }
 ]
