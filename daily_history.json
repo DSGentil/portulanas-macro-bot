@@ -1,112 +1,5 @@
 [
   {
-    "_timestamp": 1787670946.182528,
-    "titulo": "Tesouro IPCA+8%: entenda o risco que esse juro reflete, e saiba até que ponto seu dinheiro fica protegido",
-    "titulo_original": "Tesouro IPCA+8%: entenda o risco que esse juro reflete, e saiba até que ponto seu dinheiro fica protegido",
-    "fonte": "InvestNews",
-    "publicado": "25/08 11:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O rendimento de 8% do Tesouro IPCA+ reflete expectativas de inflação e juros futuros. Se a inflação se mantiver elevada, o ganho real do investidor pode ser corroído, exigindo uma análise cuidadosa do cenário.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787670950.3936775,
-    "titulo": "Aéreas conseguem elevar oferta de voos em julho mesmo com disparada do combustível",
-    "titulo_original": "Aéreas conseguem elevar oferta de voos em julho mesmo com disparada do combustível",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 11:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A capacidade das aéreas de aumentar a oferta e reduzir tarifas em julho, apesar do custo do combustível, sugere uma gestão de custos eficiente ou uma demanda aquecida. Se essa tendência se mantiver, pode beneficiar os consumidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787670954.7023885,
-    "titulo": "Índice composto de manufatura do Fed de Richmond +4 vs +5 anterior",
-    "titulo_original": "Richmond Fed manufacturing composite index +4 vs +5 prior",
-    "fonte": "ForexLive",
-    "publicado": "25/08 11:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda no índice de manufatura do Fed de Richmond, especialmente no setor de serviços, pode indicar uma desaceleração na atividade econômica dos EUA. Se os dados de confiança do consumidor também vierem fracos, isso reforçaria o cenário de menor dinamismo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787670958.8658724,
-    "titulo": "Rússia deve prorrogar proibição de exportação de diesel até setembro",
-    "titulo_original": "Rússia deve prorrogar proibição de exportação de diesel até setembro",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 11:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A prorrogação da proibição de exportação de diesel pela Rússia pode impactar a oferta global e os preços do combustível. Se a escassez persistir, isso pode gerar volatilidade nos mercados de energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787670964.4928281,
-    "titulo": "Governo arrecada menos de 20% do previsto com dividendos de estatais no 1º semestre",
-    "titulo_original": "Governo arrecada menos de 20% do previsto com dividendos de estatais no 1º semestre",
-    "fonte": "Folha Mercado",
-    "publicado": "25/08 12:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A baixa arrecadação com dividendos de estatais pode pressionar o cumprimento das metas fiscais, exigindo medidas adicionais de ajuste ou aumento de receitas. Se essa tendência se mantiver, o governo pode precisar rever suas projeções ou buscar outras fontes de financiamento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787670964.4944692,
-    "titulo": "Estrangeiros aportam R$ 1,7 bilhão em ações na B3 em 21 de agosto",
-    "titulo_original": "Estrangeiros aportam R$ 1,7 bilhão em ações na B3 em 21 de agosto",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 11:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada de R$ 1,7 bilhão de estrangeiros na B3 em um único dia é um fluxo positivo, mas o saldo mensal negativo de R$ 21,4 bilhões indica cautela geral. Se o fluxo positivo se mantiver nos próximos dias, pode sustentar a alta do Ibovespa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787670964.4960072,
-    "titulo": "Squadra chama investimento em Hapvida de 'maior erro' de sua história",
-    "titulo_original": "Squadra chama investimento em Hapvida de 'maior erro' da sua história",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 11:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da Squadra sugere uma reavaliação significativa de seus investimentos em empresas de saúde. Se outras gestoras compartilharem dessa visão, isso pode pressionar as ações do setor no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787670964.4976492,
-    "titulo": "Concorrente da Disney? Arábia Saudita vai investir US$ 7 bilhões em parque perto de Paris",
-    "titulo_original": "Concorrente da Disney? Arábia Saudita vai investir US$ 7 bilhões em parque perto de Paris",
-    "fonte": "InvestNews",
-    "publicado": "25/08 12:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O investimento saudita em um parque de lazer na Europa pode impulsionar o turismo e a criação de empregos na região. Se o projeto atrair o público esperado, pode gerar um impacto econômico positivo local.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787676363.4667978,
     "titulo": "BC prepara sistema de alertas para ameaças envolvendo criptoativos",
     "titulo_original": "BC prepara sistema de alertas para ameaças envolvendo criptoativos",
@@ -1101,6 +994,131 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O apoio de credores estrangeiros à reestruturação da Braskem é um sinal positivo para a empresa, indicando confiança na sua capacidade de honrar seus compromissos. Se a adesão continuar a crescer, isso pode facilitar a aprovação do plano e estabilizar a situação financeira da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787781648.9836702,
+    "titulo": "BC prepara medidas para mitigar riscos do uso de modalidades de crédito mais onerosas",
+    "titulo_original": "BC prepara medidas para mitigar riscos do uso de modalidades de crédito mais onerosas",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 18:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A comunicação do BC sobre a preparação de medidas para mitigar riscos no crédito pode indicar uma preocupação com o endividamento das famílias. Se essas medidas forem implementadas de forma restritiva, podem impactar o consumo e a atividade econômica; caso contrário, podem apenas reforçar a supervisão sem efeitos macroeconômicos significativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787781653.4406753,
+    "titulo": "Dólar ganha força ante real após divulgação de dados da economia dos EUA",
+    "titulo_original": "Dólar ganha força ante real após divulgação de dados da economia dos EUA - Notícias Agrícolas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/08 14:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O fortalecimento do dólar ante o real, após dados econômicos dos EUA, sugere que os números americanos podem ter reforçado expectativas de juros mais altos nos EUA ou indicado uma economia mais resiliente lá. Se os dados dos EUA continuarem a apontar para força econômica e juros elevados, isso pode manter o dólar forte frente ao real, pressionando a moeda brasileira. A divulgação de dados de inflação ou emprego no Brasil também será crucial para o comportamento do câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787781657.8838856,
+    "titulo": "Juros futuros fecham perto dos ajustes com inflação dos EUA e deflação do IPCA-15",
+    "titulo_original": "Juros futuros fecham perto dos ajustes com inflação dos EUA e deflação do IPCA-15",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 17:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A reação dos juros futuros a dados de inflação nos EUA e no Brasil indica a sensibilidade do mercado a esses indicadores. Se a inflação americana continuar elevada, pode reforçar a expectativa de juros altos nos EUA, impactando as taxas domésticas. A deflação no IPCA-15 brasileiro pode dar algum fôlego ao Banco Central, mas a persistência da inflação global e a trajetória dos juros americanos serão determinantes. Acompanhar a ata do Fed e as próximas decisões do Copom será crucial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787781662.6371846,
+    "titulo": "Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central",
+    "titulo_original": "Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/08 14:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de Trump remodelar o comando do Fed, caso seja eleito, pode gerar incertezas sobre a condução da política monetária nos EUA. Se ele indicar nomes com viés mais expansionista ou menos focado no controle da inflação, isso poderia impactar as expectativas de juros e, consequentemente, os mercados globais. Acompanhar as indicações e a retórica de Trump em relação ao Fed será fundamental para entender os possíveis cenários.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787781679.6195598,
+    "titulo": "investingLive Americas FX news wrap 26 Aug O USD está majoritariamente em alta com rendimentos mais altos como catalisador",
+    "titulo_original": "investingLive Americas FX news wrap 26 Aug  The USD is mostly higher with higher yields the catalyst",
+    "fonte": "ForexLive",
+    "publicado": "26/08 17:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do dólar impulsionada por rendimentos mais altos nos EUA sugere um cenário de aperto monetário ou expectativas de juros elevados no país. Se os rendimentos continuarem a subir, isso pode atrair capital para os EUA, potencialmente pressionando outras moedas, incluindo o real. A divulgação de resultados de empresas como a Nvidia pode gerar volatilidade adicional nos mercados acionários globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787781679.620928,
+    "titulo": "TCU vê risco relevante de frustração de receitas no Orçamento de 2026",
+    "titulo_original": "TCU vê risco relevante de frustração de receitas no Orçamento de 2026",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 18:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação do TCU sobre o risco de frustração de receitas no Orçamento de 2026 é um sinal de alerta para as contas públicas brasileiras. Se a arrecadação efetivamente ficar aquém do esperado, isso pode pressionar o déficit fiscal e a dívida pública, aumentando a percepção de risco do país. A forma como o governo reagirá a essa projeção, seja com cortes de gastos ou busca por novas receitas, será crucial para o cenário fiscal.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787781679.6221383,
+    "titulo": "Ibovespa fecha estável após inflação americana acima do previsto",
+    "titulo_original": "Ibovespa fecha estável após inflação americana acima do previsto",
+    "fonte": "Valor Economico",
+    "publicado": "26/08 17:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O fechamento estável do Ibovespa, influenciado pela inflação americana acima do previsto, demonstra a sensibilidade do mercado local a indicadores externos. Se a inflação nos EUA continuar alta, pode levar a juros mais elevados por lá, o que tende a desestimular o fluxo de capital para mercados emergentes como o Brasil. A recuperação do fluxo estrangeiro e local, mencionada na notícia, pode ser temporária se o cenário externo se deteriorar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787781679.7764761,
+    "titulo": "Ibovespa B3 oscila positivamente em 0,01% em dia de prévia da inflação; dólar sobe a R$ 5,15",
+    "titulo_original": "Ibovespa B3 oscila positivamente em 0,01% em dia de prévia da inflação; dólar sobe a R$ 5,15 - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/08 18:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A leve alta do Ibovespa e a valorização do dólar em um dia de prévia da inflação indicam um cenário de cautela. Se a inflação medida pela prévia se mostrar acima das expectativas, isso pode reforçar a pressão sobre o Banco Central para manter uma política monetária mais restritiva, impactando negativamente o mercado acionário e sustentando o dólar. Acompanhar os detalhes da prévia da inflação será fundamental para entender a direção futura.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787781679.7777493,
+    "titulo": "Mais um bancão gringo rebaixa recomendação de ações brasileiras — e o risco Brasil segue no radar",
+    "titulo_original": "Mais um bancão gringo rebaixa recomendação de ações brasileiras — e o risco Brasil segue no radar",
+    "fonte": "Money Times",
+    "publicado": "26/08 18:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O rebaixamento da recomendação de ações brasileiras pelo Morgan Stanley reflete preocupações com o cenário macroeconômico e fiscal do país. Se as incertezas fiscais persistirem ou se a desaceleração econômica se aprofundar, isso pode levar a uma saída adicional de capital estrangeiro, pressionando o mercado acionário. Por outro lado, avanços concretos na agenda fiscal poderiam reverter essa percepção.",
     "is_stocks": true
   }
 ]
