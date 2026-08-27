@@ -1,93 +1,5 @@
 [
   {
-    "_timestamp": 1787762750.182178,
-    "titulo": "Dólar à vista consolida alta e juros futuros apagam queda após inflação acelerar nos EUA - Valor Econômico",
-    "titulo_original": "Dólar à vista consolida alta e juros futuros apagam queda após inflação acelerar nos EUA - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A aceleração da inflação nos EUA impactou diretamente os juros futuros no Brasil, indicando uma possível influência do cenário externo nas expectativas de política monetária doméstica. Se a inflação americana persistir em alta, o Banco Central brasileiro pode ter sua margem de manobra para cortes de juros ainda mais restrita.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787762753.7083845,
-    "titulo": "Dallas Fed Trimmed Mean +2.2% versus 1.5% last month",
-    "titulo_original": "Dallas Fed Trimmed Mean +2.2% versus 1.5% last month",
-    "fonte": "ForexLive",
-    "publicado": "26/08 13:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento do Trimmed Mean PCE do Dallas Fed, saindo de 1.5% para 2.2%, sugere uma inflação subjacente que pode estar ganhando força nos Estados Unidos. Se essa tendência se confirmar nos próximos relatórios, isso pode reforçar a postura mais cautelosa do Federal Reserve em relação a cortes de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787762758.4427865,
-    "titulo": "Dólar opera em alta com foco em IPCA-15, dívida pública e indicadores dos EUA; Ibovespa sobe - G1",
-    "titulo_original": "Dólar opera em alta com foco em IPCA-15, dívida pública e indicadores dos EUA; Ibovespa sobe - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar, influenciada por dados de inflação (IPCA-15), dívida pública e indicadores dos EUA, sugere um cenário de incerteza que pode levar a um comportamento mais cauteloso do Banco Central em relação à política monetária. Se a dívida pública continuar a ser um ponto de atenção, isso pode pressionar os juros futuros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787762758.4441192,
-    "titulo": "Banco do Brasil (BBAS3) começa a renegociar dívidas rurais via MP 1.376",
-    "titulo_original": "Banco do Brasil (BBAS3) começa a renegociar dívidas rurais via MP 1.376",
-    "fonte": "Money Times",
-    "publicado": "26/08 13:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O início da renegociação de dívidas rurais pelo Banco do Brasil, via MP 1.376, representa uma ação concreta do governo para o setor agropecuário. Se o programa for bem-sucedido em reestruturar o endividamento, isso pode aliviar a pressão sobre o setor e potencialmente melhorar a qualidade dos ativos do banco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787762758.4453425,
-    "titulo": "Ibovespa avança com fluxo estrangeiro e de olho em dados de inflação - Valor Econômico",
-    "titulo_original": "Ibovespa avança com fluxo estrangeiro e de olho em dados de inflação - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "26/08 10:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O avanço do Ibovespa, associado ao fluxo estrangeiro e à observação de dados de inflação, indica que o mercado de ações brasileiro está sensível tanto a fatores externos de investimento quanto a indicadores de preços domésticos. Se os dados de inflação vierem acima do esperado, isso pode reverter o fluxo estrangeiro e impactar a bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787762758.4465945,
-    "titulo": "Impasse sobre dez áreas de urânio trava 1.168 processos minerários no país",
-    "titulo_original": "Impasse sobre dez áreas de urânio trava 1.168 processos minerários no país",
-    "fonte": "Folha Mercado",
-    "publicado": "26/08 13:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O impasse na definição de áreas de urânio no Brasil está impactando diretamente 1.168 processos minerários de outros minerais críticos. Se essa indefinição regulatória persistir, pode afetar o desenvolvimento de projetos e a atração de investimentos no setor de mineração, com potenciais reflexos na atividade econômica e arrecadação fiscal.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787769040.1514988,
     "titulo": "ETF Smart Selic pode ter IR maior; entenda o risco",
     "titulo_original": "ETF Smart Selic pode ter IR maior; entenda o risco - TrendsCE",
@@ -1126,6 +1038,60 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A recompra de bonds pela Petrobras pode ser interpretada como uma gestão de dívida que pode ter implicações no mercado de crédito e nas taxas de juros corporativas. Se essa operação for vista como um sinal de saúde financeira, pode reduzir a percepção de risco da empresa e influenciar a precificação de outros títulos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787873434.883941,
+    "titulo": "CMN amplia teto para contratação de operações de crédito com e sem garantia da União",
+    "titulo_original": "CMN amplia teto para contratação de operações de crédito com e sem garantia da União",
+    "fonte": "Valor Economico",
+    "publicado": "27/08 19:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ampliação do teto para operações de crédito pode facilitar o acesso a financiamento para entes subnacionais, potencialmente impulsionando investimentos locais. Se essa maior capacidade de endividamento for utilizada de forma eficaz, pode haver um impacto positivo na atividade econômica regional; contudo, se não for acompanhada de planejamento fiscal adequado, pode gerar pressões futuras sobre a dívida pública.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787873438.439303,
+    "titulo": "EUA acusam China de ligação com hackers que invadiram Nasa, Fed e Senado",
+    "titulo_original": "EUA acusam China de ligação com hackers que invadiram Nasa, Fed e Senado - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/08 17:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A acusação dos EUA à China de envolvimento em invasões cibernéticas a instituições como o Fed pode gerar tensões geopolíticas. Se essas tensões escalarem, podem influenciar a política monetária do Fed, que já monitora riscos à estabilidade financeira, e potencialmente afetar a percepção de risco global e o fluxo de capitais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787873442.8742096,
+    "titulo": "‘Big techs’ pedem esforço global no combate a ameaças impulsionadas por IA",
+    "titulo_original": "‘Big techs’ pedem esforço global no combate a ameaças impulsionadas por IA",
+    "fonte": "Valor Economico",
+    "publicado": "27/08 19:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A carta conjunta das empresas de tecnologia sinaliza uma preocupação crescente com a segurança cibernética em um cenário de avanços da IA. Se os governos e o setor privado não implementarem medidas de defesa robustas, o risco de ataques cibernéticos mais sofisticados e generalizados pode aumentar, impactando a infraestrutura digital global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787873442.8760314,
+    "titulo": "Braskem (BRKM5) pode ganhar mais um problema – agora da Defensoria Pública da União",
+    "titulo_original": "Braskem (BRKM5) pode ganhar mais um problema – agora da Defensoria Pública da União",
+    "fonte": "Money Times",
+    "publicado": "27/08 19:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A abertura de um processo pela DPU contra a Braskem e a União por um prejuízo estimado em R$ 5 bilhões representa um risco regulatório e financeiro para a empresa. Se a ação prosperar e resultar em condenação, pode haver impacto na saúde financeira da Braskem e, potencialmente, em decisões futuras sobre exploração mineral e responsabilidade corporativa no setor.",
     "is_stocks": true
   }
 ]
