@@ -1,85 +1,5 @@
 [
   {
-    "_timestamp": 1787750146.8718019,
-    "titulo": "Possíveis medidas que poderiam ser tomadas pelo BC para desestimular oferta de crédito, segundo UBS BB",
-    "titulo_original": "Possíveis medidas que poderiam ser tomadas pelo BC para desestimular oferta de crédito, segundo UBS BB",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 09:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre medidas para desestimular a oferta de crédito, como o aumento de compulsórios, sugere que o Banco Central pode estar buscando alternativas para controlar o endividamento sem necessariamente alterar a taxa básica de juros. Se o BC optar por aumentar os compulsórios, isso pode restringir a liquidez dos bancos e encarecer o crédito; caso contrário, a ausência de ação pode manter o cenário de crédito farto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787750150.8732274,
-    "titulo": "Energia elétrica tem maior queda desde janeiro de 2025 com bônus de Itaipu, mostra IBGE",
-    "titulo_original": "Energia elétrica tem maior queda desde janeiro de 2025 com bônus de Itaipu, mostra IBGE",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 09:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda significativa no preço da energia elétrica, impulsionada pelo bônus de Itaipu, contribuiu para a deflação do IPCA-15 de agosto. Se esse efeito for pontual e não se repetir nos próximos meses, a inflação pode voltar a apresentar pressões de alta; caso contrário, a continuidade de quedas em itens de peso pode sustentar uma trajetória de inflação mais baixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787750154.8133972,
-    "titulo": "Com Lula ou Flávio Bolsonaro, mercado mantém ceticismo sobre ajuste fiscal",
-    "titulo_original": "Com Lula ou Flávio Bolsonaro, mercado mantém ceticismo sobre ajuste fiscal",
-    "fonte": "Money Times",
-    "publicado": "26/08 09:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção do ceticismo do mercado em relação ao ajuste fiscal, independentemente do vencedor da eleição, sugere que a trajetória da dívida pública pode continuar sendo um ponto de atenção. Se um candidato apresentar propostas fiscais mais concretas e críveis, isso poderia mitigar o ceticismo; caso contrário, a incerteza fiscal pode persistir, impactando a confiança dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787750158.7737403,
-    "titulo": "Instituição vê atividade fraca e dólar a R$ 5,35",
-    "titulo_original": "Instituição vê atividade fraca e dólar a R$ 5,35 - Agrolink",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 08:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de atividade fraca e o dólar a R$ 5,35 por uma instituição indicam uma perspectiva de cenário econômico desafiador. Se os indicadores de atividade econômica confirmarem essa fraqueza, a pressão sobre o câmbio pode se intensificar; caso contrário, uma melhora inesperada na atividade poderia levar a uma revisão dessa projeção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787750163.5640414,
-    "titulo": "Estrangeiros voltam a investir em ações na B3; saldo no ano supera R$ 15 bilhões",
-    "titulo_original": "Estrangeiros voltam a investir em ações na B3; saldo no ano supera R$ 15 bilhões - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "26/08 07:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O retorno de estrangeiros à bolsa brasileira sugere um aumento do apetite por risco no mercado local. Se essa tendência de fluxo de capital se mantiver, pode haver pressão de alta sobre os preços das ações; caso contrário, uma reversão desse fluxo poderia impactar negativamente o desempenho da bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787750163.5651207,
-    "titulo": "Notícias europeias: Mercados aguardam mais notícias EUA-Irã, evento Jackson Hole",
-    "titulo_original": "investingLive European news wrap: Markets await further US-Iran news, Jackson Hole event",
-    "fonte": "ForexLive",
-    "publicado": "26/08 08:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A convergência de eventos como as tensões EUA-Irã e o simpósio de Jackson Hole cria um cenário de incerteza nos mercados globais. Se um acordo EUA-Irã for alcançado, isso pode aliviar as pressões sobre o petróleo; caso contrário, a escalada das tensões pode gerar volatilidade adicional. As declarações em Jackson Hole também podem direcionar as expectativas sobre a política monetária.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787762750.182178,
     "titulo": "Dólar à vista consolida alta e juros futuros apagam queda após inflação acelerar nos EUA - Valor Econômico",
     "titulo_original": "Dólar à vista consolida alta e juros futuros apagam queda após inflação acelerar nos EUA - Valor Econômico",
@@ -1011,6 +931,128 @@
     ],
     "origem": "externa",
     "leitura_critica": "O fechamento em baixa dos índices europeus e a alta nos rendimentos de títulos de 10 anos sugerem um cenário de aversão ao risco no continente. Se essa tendência persistir, pode haver uma fuga de capitais para ativos considerados mais seguros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787862643.001442,
+    "titulo": "Governo pretende prorrogar por mais 60 dias imposto sobre petroleiras, e empresas vão à Justiça",
+    "titulo_original": "Governo pretende prorrogar por mais 60 dias imposto sobre petroleiras, e empresas vão à Justiça",
+    "fonte": "Folha Mercado",
+    "publicado": "27/08 12:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação do imposto sobre exportação de petróleo pode afetar a rentabilidade das petroleiras e a arrecadação fiscal. Se a medida for confirmada, pode gerar um ambiente de maior incerteza para o setor; caso contrário, a ausência da prorrogação pode aliviar a pressão sobre as empresas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787862646.8418345,
+    "titulo": "Governo central tem superávit primário de R$ 10,8 bi em julho com ajuda de antecipação de precatórios",
+    "titulo_original": "Governo central tem superávit primário de R$ 10,8 bi em julho com ajuda de antecipação de precatórios",
+    "fonte": "Money Times",
+    "publicado": "27/08 17:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O superávit primário em julho, impulsionado pela antecipação de precatórios, melhora o quadro fiscal do governo. Se essa melhora se mantiver nos próximos meses, pode reduzir a pressão por cortes de gastos ou aumento de impostos; caso contrário, o déficit pode retornar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787862650.6286917,
+    "titulo": "Calendário econômico e de eventos na Ásia 28 de agosto de 2026 - Dados de inflação do Japão (Tóquio)",
+    "titulo_original": "Economic and event calendar in Asia 28 August 2026 - Japan inflation data (Tokyo)",
+    "fonte": "ForexLive",
+    "publicado": "27/08 17:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A sinalização de mais altas de juros pelo Banco do Japão, atrelada a riscos inflacionários, indica uma postura mais restritiva da política monetária. Se os dados de inflação confirmarem a tendência de alta, o BOJ pode ter que acelerar o aperto monetário; se vierem abaixo do esperado, a pressão por altas pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787862654.3974175,
+    "titulo": "Petróleo sobe com impasse no Oriente Médio e avanço de tensões geopolíticas",
+    "titulo_original": "Petróleo sobe com impasse no Oriente Médio e avanço de tensões geopolíticas - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "27/08 16:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento do preço do petróleo, atrelado a tensões geopolíticas, pode gerar pressões inflacionárias globais. Se o impasse no Oriente Médio se intensificar, o petróleo pode continuar subindo; caso contrário, a normalização da situação pode levar a uma queda nos preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787862659.4655468,
+    "titulo": "Notícias do mercado americano: Nvidia impulsiona ações de tecnologia",
+    "titulo_original": "investingLive Americas market news wrap: Nvidia boosts tech stocks",
+    "fonte": "ForexLive",
+    "publicado": "27/08 17:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As falas de membros do Fed sugerem uma visão de que a inflação pode ceder, o que pode influenciar as decisões futuras de juros. Se a inflação realmente arrefecer, o Fed pode ter mais espaço para flexibilizar a política monetária; caso contrário, a pressão por juros mais altos pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787862659.4672067,
+    "titulo": "STF forma maioria para tributar lucros da Vale no exterior",
+    "titulo_original": "STF forma maioria para tributar lucros da Vale no exterior",
+    "fonte": "Money Times",
+    "publicado": "27/08 17:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF sobre a tributação de lucros da Vale no exterior pode impactar os resultados financeiros da empresa e a arrecadação fiscal. Se a decisão for consolidada, a Vale pode ter que ajustar suas estratégias fiscais; caso contrário, a incerteza sobre a tributação pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787862659.4687746,
+    "titulo": "Wall Street sobe com Nvidia (NVDA) puxando o setor de semicondutores; Nasdaq salta 1,5%",
+    "titulo_original": "Wall Street sobe com Nvidia (NVDA) puxando o setor de semicondutores; Nasdaq salta 1,5%",
+    "fonte": "Money Times",
+    "publicado": "27/08 17:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho positivo das ações de tecnologia, liderado pela Nvidia, sugere um otimismo renovado no setor de IA. Se essa tendência se mantiver, pode impulsionar outros ativos ligados à tecnologia; caso contrário, a volatilidade do setor pode retornar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787862659.4703379,
+    "titulo": "Ibovespa vira para alta com blue chips, acompanhando NY",
+    "titulo_original": "Ibovespa vira para alta com blue chips, acompanhando NY - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "27/08 13:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A virada do Ibovespa para alta, seguindo o movimento de Nova York, indica uma influência externa positiva no mercado brasileiro. Se o otimismo em NY persistir, o Ibovespa pode manter a tendência de alta; caso contrário, a reversão pode ocorrer rapidamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787862659.4719048,
+    "titulo": "Ibovespa sobe com foco em taxa de desemprego e Nvidia; dólar cai",
+    "titulo_original": "Ibovespa sobe com foco em taxa de desemprego e Nvidia; dólar cai - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/08 16:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar e a alta do Ibovespa, em um contexto de dados de desemprego e desempenho positivo da Nvidia, sugerem um cenário de maior apetite ao risco. Se os dados de emprego continuarem favoráveis, pode sustentar a alta do mercado; caso contrário, a reversão pode ocorrer.",
     "is_stocks": true
   }
 ]
