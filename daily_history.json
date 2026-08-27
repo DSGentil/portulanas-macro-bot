@@ -952,5 +952,113 @@
     "origem": "externa",
     "leitura_critica": "O acompanhamento em tempo real da cotação do petróleo é crucial para entender as flutuações de preços que impactam a economia global. Se houver eventos geopolíticos ou anúncios de produção que alterem significativamente a oferta, a volatilidade do preço do barril pode aumentar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787849146.9166825,
+    "titulo": "Liminar suspende imposto de exportação do petróleo e barra novas prorrogações pela Camex - Agência eixos",
+    "titulo_original": "Liminar suspende imposto de exportação do petróleo e barra novas prorrogações pela Camex - Agência eixos",
+    "fonte": "Google News Commodities",
+    "publicado": "27/08 12:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão da liminar sobre o imposto de exportação do petróleo pode ter impacto na arrecadação fiscal e na competitividade do setor. Se a decisão for mantida, isso pode reduzir a carga tributária sobre as exportações de petróleo, mas também pode afetar a receita do governo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787849151.5261574,
+    "titulo": "XP descarta pausa nos cortes de juros em 2026 e vê Selic a 13,25% no fim do ano: mais 3 reduções - Estadão",
+    "titulo_original": "XP descarta pausa nos cortes de juros em 2026 e vê Selic a 13,25% no fim do ano: mais 3 reduções - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/08 12:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção da XP sobre a trajetória futura da Selic indica uma expectativa de continuidade nos cortes de juros, mas com um ritmo que pode ser ajustado. Se a Selic atingir o patamar previsto, isso pode sinalizar um cenário de juros mais baixos, com potencial impacto no custo de crédito e na atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787849156.120899,
+    "titulo": "EUA avaliam determinar tarifas sobre semicondutores, diz site",
+    "titulo_original": "EUA avaliam determinar tarifas sobre semicondutores, diz site",
+    "fonte": "Folha Mercado",
+    "publicado": "27/08 12:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A imposição de novas tarifas sobre semicondutores pelos EUA pode gerar tensões comerciais globais e impactar cadeias de suprimentos. Se as tarifas forem confirmadas, isso pode levar a retaliações de outros países, afetando o comércio internacional de tecnologia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787849160.7256057,
+    "titulo": "Hammack reitera à CNBC que é hora de o Fed aumentar os juros - InfoMoney",
+    "titulo_original": "Hammack reitera à CNBC que é hora de o Fed aumentar os juros - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/08 13:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de um membro do FOMC sobre a necessidade de aumentar os juros reforça a expectativa de uma política monetária mais restritiva nos EUA. Se o Fed confirmar essa postura em suas próximas reuniões, isso pode pressionar outros bancos centrais a seguir o mesmo caminho ou manter juros elevados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787849166.5768063,
+    "titulo": "Ministério da China vai monitorar medidas tarifárias dos EUA e diz que pode agir",
+    "titulo_original": "Ministério da China vai monitorar medidas tarifárias dos EUA e diz que pode agir",
+    "fonte": "Folha Mercado",
+    "publicado": "27/08 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração da China indica uma postura de vigilância e potencial retaliação às medidas tarifárias dos EUA. Se a China decidir impor contramedidas, isso pode intensificar a guerra comercial e afetar o comércio global, com possíveis reflexos para economias emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787849166.578143,
+    "titulo": "Cade recebe recurso da Abra, holding da Gol, contra negócio entre American e Azul e inicia investigação",
+    "titulo_original": "Cade recebe recurso da Abra, holding da Gol, contra negócio entre American e Azul e inicia investigação",
+    "fonte": "Valor Economico",
+    "publicado": "27/08 13:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Cade de aprofundar a investigação pode gerar incertezas sobre a consolidação do setor aéreo brasileiro. Se a investigação resultar em restrições significativas, isso pode impactar a estrutura de mercado e a competitividade das companhias aéreas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787849166.5793934,
+    "titulo": "Petrobras fará resgate antecipado de US$ 1 bilhão em títulos com vencimento em 2028",
+    "titulo_original": "Petrobras fará resgate antecipado de US$ 1 bilhão em títulos com vencimento em 2028",
+    "fonte": "InvestNews",
+    "publicado": "27/08 10:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O resgate antecipado de títulos pela Petrobras indica uma gestão de caixa e dívida da empresa. Se a empresa tiver liquidez para tal operação, isso pode ser visto como um sinal de saúde financeira, mas o impacto macroeconômico direto é limitado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787849166.5806491,
+    "titulo": "Petrobras (PETR4) vê potencial para exportar gás liquefeito do pré-sal, diz CEO",
+    "titulo_original": "Petrobras (PETR4) vê potencial para exportar gás liquefeito do pré-sal, diz CEO",
+    "fonte": "Money Times",
+    "publicado": "27/08 12:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aponta para uma estratégia de longo prazo da Petrobras em explorar mercados de exportação de gás. Embora seja um desenvolvimento positivo para a empresa, o impacto macroeconômico imediato é limitado, dependendo da viabilidade e escala futura da operação.",
+    "is_stocks": true
   }
 ]
