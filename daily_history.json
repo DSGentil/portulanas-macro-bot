@@ -838,5 +838,119 @@
     "origem": "externa",
     "leitura_critica": "A expectativa pelo discurso em Jackson Hole é o principal driver para os mercados globais. Se o presidente do Fed sinalizar uma postura mais dura em relação à inflação, isso pode pressionar os juros e os ativos de risco. Caso contrário, um tom mais dovish pode impulsionar os mercados. As contas do BCE indicando riscos inflacionários à alta reforçam a cautela.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787843746.59891,
+    "titulo": "Governo considera prorrogar imposto de 12% nas exportações de petróleo, e empresas vão à Justiça",
+    "titulo_original": "Governo considera prorrogar imposto de 12% nas exportações de petróleo, e empresas vão à Justiça",
+    "fonte": "Folha Mercado",
+    "publicado": "27/08 12:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A possível prorrogação do imposto sobre exportações de petróleo pode gerar custos adicionais para as empresas do setor, impactando sua rentabilidade. Se a medida for confirmada e contestada judicialmente, pode haver um período de incerteza regulatória para o setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787843751.7604513,
+    "titulo": "TSE aprova uso da força federal nas eleições em cinco Estados",
+    "titulo_original": "TSE aprova uso da força federal nas eleições em cinco Estados",
+    "fonte": "Valor Economico",
+    "publicado": "27/08 11:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do uso da força federal nas eleições em cinco Estados pelo TSE indica a necessidade de garantir a segurança e a normalidade do pleito em regiões com desafios logísticos ou de segurança. Se houver incidentes durante as eleições, isso pode gerar instabilidade política e questionamentos sobre a lisura do processo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787843756.698669,
+    "titulo": "Demanda por criptoativos cai 58% em julho após normas de governança das plataformas, diz BC",
+    "titulo_original": "Demanda por criptoativos cai 58% em julho após normas de governança das plataformas, diz BC",
+    "fonte": "Valor Economico",
+    "publicado": "27/08 11:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda na demanda por criptoativos, associada a novas normas de governança, pode indicar uma consolidação do mercado, com a saída de players menos estruturados. Se a regulação se mostrar eficaz em coibir atividades ilícitas, pode atrair investidores institucionais no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787843761.8032563,
+    "titulo": "Opção por etanol nos carros flex patina e impacta mercado de açúcar, diz Datagro",
+    "titulo_original": "Opção por etanol nos carros flex patina e impacta mercado de açúcar, diz Datagro",
+    "fonte": "Money Times",
+    "publicado": "27/08 12:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A baixa adesão ao etanol em carros flex, mesmo com vantagem econômica, pode indicar fatores como a disponibilidade do biocombustível ou a preferência do consumidor pela gasolina. Se essa tendência se mantiver, pode haver um impacto contínuo na demanda por açúcar e na produção de etanol.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787843769.1206348,
+    "titulo": "Por que o Google perdeu US$ 700 bilhões em valor de mercado desde maio",
+    "titulo_original": "Por que o Google perdeu US$ 700 bilhões em valor de mercado desde maio",
+    "fonte": "InvestNews",
+    "publicado": "27/08 11:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A perda de valor de mercado da Alphabet sugere que o otimismo inicial em relação à inteligência artificial pode estar sendo reavaliado pelos investidores. Se a empresa não apresentar novas estratégias ou resultados que reforcem sua liderança no setor, a pressão sobre suas ações pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787843769.1221566,
+    "titulo": "Abertura | Ibovespa futuro abre sessão em leve baixa; dólar também recua - InvesTalk",
+    "titulo_original": "Abertura | Ibovespa futuro abre sessão em leve baixa; dólar também recua - InvesTalk",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/08 09:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A abertura em baixa do Ibovespa futuro e a queda do dólar indicam um movimento inicial de cautela no mercado. Se os dados econômicos divulgados ao longo do dia forem positivos, o índice pode reverter a tendência de baixa e o dólar pode continuar sua trajetória de desvalorização.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787843769.1236815,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai na abertura com bancos e PETR4 - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai na abertura com bancos e PETR4 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "27/08 10:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa na abertura, com destaque para bancos e PETR4, sugere um sentimento de aversão ao risco no mercado. Se os resultados corporativos das empresas de bancos e a performance da Petrobras se mantiverem negativos, a bolsa pode estender as perdas ao longo do dia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787843769.125084,
+    "titulo": "Por que as ações da Apple e Microsoft estão de fora da alta do setor de tecnologia hoje? - Valor Econômico",
+    "titulo_original": "Por que as ações da Apple e Microsoft estão de fora da alta do setor de tecnologia hoje? - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "27/08 09:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho divergente das ações da Apple e Microsoft em relação ao setor de tecnologia pode indicar fatores específicos que afetam essas empresas. Se a tendência de descolamento persistir, isso pode sinalizar desafios individuais ou uma reavaliação do mercado sobre o potencial de crescimento dessas gigantes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787843769.1264832,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "27/08 11:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O acompanhamento em tempo real da cotação do petróleo é crucial para entender as flutuações de preços que impactam a economia global. Se houver eventos geopolíticos ou anúncios de produção que alterem significativamente a oferta, a volatilidade do preço do barril pode aumentar.",
+    "is_stocks": true
   }
 ]
