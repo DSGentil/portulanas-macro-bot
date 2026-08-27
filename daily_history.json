@@ -1,136 +1,5 @@
 [
   {
-    "_timestamp": 1787743854.250462,
-    "titulo": "Fazenda prorroga subvenção à gasolina até 9 de setembro, quando caduca MP",
-    "titulo_original": "Fazenda prorroga subvenção à gasolina até 9 de setembro, quando caduca MP",
-    "fonte": "Money Times",
-    "publicado": "26/08 08:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A prorrogação da subvenção à gasolina pode ter um impacto temporário nos preços dos combustíveis e, consequentemente, na inflação. Se a MP não for renovada após 9 de setembro, um novo aumento nos preços da gasolina pode ocorrer, pressionando o IPCA.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787743858.6691635,
-    "titulo": "Mercado dá primeiros sinais concretos de retorno da tese de dólar fraco",
-    "titulo_original": "Mercado dá primeiros sinais concretos de retorno da tese de dólar fraco - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Sinais de enfraquecimento do dólar podem indicar uma mudança no fluxo de capital global. Se essa tese se confirmar, pode haver maior atratividade para ativos em outras moedas e mercados emergentes, potencialmente beneficiando o fluxo de capital para o Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787743863.0947976,
-    "titulo": "Premiê de Israel chama governantes do Irã de 'selvagens': 'Um acordo não pode ser alcançado'",
-    "titulo_original": "Premiê de Israel chama governantes do Irã de 'selvagens': 'Um acordo não pode ser alcançado' - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "26/08 06:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração do premiê de Israel sobre o Irã eleva a tensão geopolítica na região. Se essa retórica se traduzir em ações concretas ou em um agravamento do conflito, isso pode impactar os preços do petróleo e a confiança dos investidores globais, afetando mercados de risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787743869.9679291,
-    "titulo": "Mark Zuckerberg tinha plano ousado para substituir funcionários da Meta por IA",
-    "titulo_original": "Mark Zuckerberg tinha  plano ousado para substituir funcionários da Meta por IA",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 08:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia indica uma mudança estratégica na Meta em direção à automação com IA, o que pode impactar o mercado de trabalho em tecnologia. Se outras grandes empresas de tecnologia seguirem essa tendência, o cenário de contratação e a demanda por certas habilidades podem mudar significativamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787743869.968992,
-    "titulo": "Recuperação extrajudicial da Braskem põe Petrobras no foco",
-    "titulo_original": "Recuperação extrajudicial da Braskem põe Petrobras no foco",
-    "fonte": "Folha Mercado",
-    "publicado": "26/08 06:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A situação da Braskem e o envolvimento da Petrobras como garantidora podem gerar incertezas sobre a saúde financeira de ambas as empresas. Se os termos da recuperação extrajudicial não forem favoráveis, isso pode impactar a Petrobras, especialmente em relação à sua participação acionária e capacidade de investimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787743869.9699457,
-    "titulo": "Agenda de empresas: CVM decide que Oncoclínicas terá de fazer OPA; Hapvida reduz dívidas",
-    "titulo_original": "Agenda de empresas: CVM decide que Oncoclínicas terá de fazer OPA; Hapvida reduz dívidas",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 08:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da CVM sobre a Oncoclínicas representa uma ação regulatória com impacto direto em uma empresa específica. A redução da dívida da Hapvida é um movimento corporativo positivo para a empresa, mas sem impacto macroeconômico direto nos canais definidos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787743869.9709275,
-    "titulo": "Dólar cai e fecha a R$ 5,13; Ibovespa avança aos 174.577 pontos",
-    "titulo_original": "Dólar cai e fecha a R$ 5,13; Ibovespa avança aos 174.577 pontos - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 05:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a alta do Ibovespa sugerem um cenário de maior apetite a risco no mercado brasileiro. Se essa tendência se mantiver, pode indicar um fluxo de capital mais favorável para a renda variável no Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787743869.9719496,
-    "titulo": "Plano da Braskem escala Petrobras como garantidora, com acordo bilionário para nafta",
-    "titulo_original": "Plano da Braskem escala Petrobras como garantidora, com acordo bilionário para nafta - Agência eixos",
-    "fonte": "Google News Acoes",
-    "publicado": "26/08 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia detalha o papel da Petrobras como garantidora no plano de recuperação da Braskem, com um acordo bilionário para nafta. Isso pode implicar em riscos e benefícios para a Petrobras, dependendo dos termos do acordo e da viabilidade da recuperação da Braskem.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787743869.97296,
-    "titulo": "Mercados tentam se acomodar antes dos dados de inflação e balanço da Nvidia (NVDA); Ibovespa em dólar sobe nesta quarta-feira (26)",
-    "titulo_original": "Mercados tentam se acomodar antes dos dados de inflação e balanço da Nvidia (NVDA); Ibovespa em dólar sobe nesta quarta-feira (26)",
-    "fonte": "Money Times",
-    "publicado": "26/08 07:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A expectativa pelos dados de inflação (PCE) nos EUA é crucial, pois o resultado pode influenciar a decisão do Federal Reserve sobre juros. Se o PCE vier acima do esperado, pode reforçar a postura mais restritiva do Fed; se vier abaixo, pode abrir espaço para cortes de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787743869.973937,
-    "titulo": "Prévia da inflação oficial, dólar, Ibovespa, mais agenda e pílulas da economia 26.08",
-    "titulo_original": "Prévia da inflação oficial, dólar, Ibovespa, mais agenda e pílulas da economia 26.08 - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 07:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação da prévia da inflação oficial é um indicador importante para a política monetária. Se o índice vier acima do esperado, pode aumentar a pressão por juros mais altos ou por uma manutenção da taxa Selic em patamares elevados; se vier abaixo, pode abrir espaço para discussões sobre cortes.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787750146.8718019,
     "titulo": "Possíveis medidas que poderiam ser tomadas pelo BC para desestimular oferta de crédito, segundo UBS BB",
     "titulo_original": "Possíveis medidas que poderiam ser tomadas pelo BC para desestimular oferta de crédito, segundo UBS BB",
@@ -1059,6 +928,89 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A notícia aponta para uma estratégia de longo prazo da Petrobras em explorar mercados de exportação de gás. Embora seja um desenvolvimento positivo para a empresa, o impacto macroeconômico imediato é limitado, dependendo da viabilidade e escala futura da operação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787855471.6338055,
+    "titulo": "Dólar hoje segue perto da estabilidade após leilões cambiais do BC - InfoMoney",
+    "titulo_original": "Dólar hoje segue perto da estabilidade após leilões cambiais do BC - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/08 10:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar após leilões cambiais do BC sugere uma intervenção eficaz do Banco Central para controlar a volatilidade da moeda. Se o BC continuar a intervir de forma consistente, isso pode ajudar a manter o câmbio em patamares mais previsíveis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787855475.2794917,
+    "titulo": "Habib's faliu? Entenda o que está acontecendo com a rede de comida árabe",
+    "titulo_original": "Habib's faliu? Entenda o que está acontecendo com a rede de comida árabe",
+    "fonte": "Valor Economico",
+    "publicado": "27/08 14:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O pedido de recuperação judicial do Grupo Gennius, citando a alta dos juros como um dos fatores, reforça o impacto do cenário macroeconômico adverso em empresas do setor de alimentação. Se a reestruturação financeira não for bem-sucedida, pode haver um efeito cascata em fornecedores e no mercado de trabalho.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787855478.8628612,
+    "titulo": "U.S. Treasury sells $44 billion of 7 year note that a high yield of 4.512%",
+    "titulo_original": "U.S. Treasury sells $44 billion of 7 year note that a high yield of 4.512%",
+    "fonte": "ForexLive",
+    "publicado": "27/08 14:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A venda de títulos do Tesouro dos EUA com rendimento de 4.512% indica um custo de captação para o governo americano. Se o rendimento futuro se mantiver elevado, isso pode pressionar outros ativos de renda fixa globalmente. A maior agressividade dos compradores domésticos sugere uma demanda interna robusta por títulos americanos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787855482.4537175,
+    "titulo": "Retaliação do Canadá às tarifas americanas testa os limites do poder de Trump - G1",
+    "titulo_original": "Retaliação do Canadá às tarifas americanas testa os limites do poder de Trump - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "27/08 13:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A retaliação do Canadá às tarifas americanas intensifica a disputa comercial entre os países e pode gerar incertezas para os fluxos de comércio. Se a escalada de tarifas continuar, isso pode afetar negativamente as relações comerciais e os investimentos entre EUA e Canadá.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787855486.9329488,
+    "titulo": "Dólar a R$ 6? Morgan Stanley traça cenário negativo sem ajuste fiscal pós-eleições - InfoMoney",
+    "titulo_original": "Dólar a R$ 6? Morgan Stanley traça cenário negativo sem ajuste fiscal pós-eleições - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/08 15:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Morgan Stanley de que o dólar pode atingir R$ 6 sem ajuste fiscal pós-eleições sinaliza um risco cambial elevado. Se o cenário fiscal não for endereçado, a desvalorização da moeda pode gerar pressões inflacionárias e afetar o fluxo de capital estrangeiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787855486.9346468,
+    "titulo": "As London/European traders head for the exit the major indices in Europe close mostly lower",
+    "titulo_original": "As London/European traders head for the exit the major indices in Europe close mostly lower",
+    "fonte": "ForexLive",
+    "publicado": "27/08 13:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O fechamento em baixa dos índices europeus e a alta nos rendimentos de títulos de 10 anos sugerem um cenário de aversão ao risco no continente. Se essa tendência persistir, pode haver uma fuga de capitais para ativos considerados mais seguros.",
     "is_stocks": true
   }
 ]
