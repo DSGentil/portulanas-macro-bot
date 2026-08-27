@@ -1054,5 +1054,78 @@
     "origem": "domestica",
     "leitura_critica": "A queda do dólar e a alta do Ibovespa, em um contexto de dados de desemprego e desempenho positivo da Nvidia, sugerem um cenário de maior apetite ao risco. Se os dados de emprego continuarem favoráveis, pode sustentar a alta do mercado; caso contrário, a reversão pode ocorrer.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787868042.187613,
+    "titulo": "Orçamento de 2027 terá superávit mesmo considerando gastos fora da meta, diz ministro",
+    "titulo_original": "Orçamento de 2027 terá superávit mesmo considerando gastos fora da meta, diz ministro",
+    "fonte": "Folha Mercado",
+    "publicado": "27/08 18:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração sobre a previsão de superávit no orçamento de 2027, mesmo com a inclusão de gastos fora da meta, sugere uma gestão fiscal mais conservadora. Se essa projeção se concretizar e for confirmada por medidas efetivas, pode sinalizar um cenário de menor pressão sobre a dívida pública, o que seria positivo para a percepção de risco do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787868045.7546523,
+    "titulo": "Juros futuros recuam com maior otimismo por cortes da Selic",
+    "titulo_original": "Juros futuros recuam com maior otimismo por cortes da Selic",
+    "fonte": "Valor Economico",
+    "publicado": "27/08 17:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos juros futuros, com maior precificação de cortes da Selic, reflete um otimismo com o cenário doméstico, incluindo arrefecimento da inflação e da atividade econômica. Se essa tendência de queda da inflação e desaceleração da atividade se confirmar, o Banco Central pode ter mais espaço para reduzir a taxa básica de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787868049.3720624,
+    "titulo": "Elias Rosa: imposto de exportação sobre petróleo \"é necessário\" - Agência eixos",
+    "titulo_original": "Elias Rosa: imposto de exportação sobre petróleo \"é necessário\" - Agência eixos",
+    "fonte": "Google News Commodities",
+    "publicado": "27/08 13:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Elias Rosa sobre a necessidade de um imposto de exportação sobre petróleo pode indicar uma discussão futura sobre políticas fiscais. Se essa proposta for levada adiante e se tornar uma decisão concreta, poderá impactar a arrecadação e a competitividade do setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787868052.9928203,
+    "titulo": "Juros futuros de curto e médio prazo têm alívio de olho em dados domésticos e gringo na Bolsa",
+    "titulo_original": "Juros futuros de curto e médio prazo têm alívio de olho em dados domésticos e gringo na Bolsa",
+    "fonte": "Money Times",
+    "publicado": "27/08 18:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O alívio na curva de juros futuros, impulsionado por dados domésticos e fluxo estrangeiro, sugere uma precificação de mercado mais favorável a cortes futuros da Selic. Se o fluxo de capital estrangeiro se mantiver positivo e os dados domésticos continuarem a indicar arrefecimento da inflação, a expectativa por cortes de juros pode se fortalecer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787868057.1003153,
+    "titulo": "Petrobras vai recomprar cerca de US$ 1 bilhão em bonds que vencem em 2028 - Valor Econômico",
+    "titulo_original": "Petrobras vai recomprar cerca de US$ 1 bilhão em bonds que vencem em 2028 - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "27/08 13:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recompra de bonds pela Petrobras pode ser interpretada como uma gestão de dívida que pode ter implicações no mercado de crédito e nas taxas de juros corporativas. Se essa operação for vista como um sinal de saúde financeira, pode reduzir a percepção de risco da empresa e influenciar a precificação de outros títulos.",
+    "is_stocks": true
   }
 ]
