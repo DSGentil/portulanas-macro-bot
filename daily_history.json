@@ -1,368 +1,5 @@
 [
   {
-    "_timestamp": 1787682650.142943,
-    "titulo": "Arrecadação sobe 9% em julho puxada por IOF e tributação sobre exportação de petróleo",
-    "titulo_original": "Arrecadação sobe 9% em julho puxada por IOF e tributação sobre exportação de petróleo",
-    "fonte": "Folha Mercado",
-    "publicado": "25/08 15:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da arrecadação, especialmente com IOF e tributação sobre exportação de petróleo, pode indicar uma política fiscal mais ativa ou um cenário de preços de commodities favorável. Se essa tendência se mantiver, pode aliviar a pressão sobre o déficit público.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787682654.6947184,
-    "titulo": "Campanhas de Lula e Flávio propõem soluções divergentes para taxas de juros de longo prazo elevadas",
-    "titulo_original": "Campanhas de Lula e Flávio propõem soluções divergentes para taxas de juros de longo prazo elevadas",
-    "fonte": "Money Times",
-    "publicado": "25/08 15:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divergência nas propostas para juros de longo prazo entre as campanhas presidenciais indica diferentes visões sobre a política econômica futura. A escolha do eleitor poderá ter impacto direto na trajetória dos juros e na confiança dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787682659.1669474,
-    "titulo": "Dólar opera perto da estabilidade a R$ 5,14 nesta terça-feira",
-    "titulo_original": "Dólar opera perto da estabilidade a R$ 5,14 nesta terça-feira - Vero Notícias",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/08 10:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade do dólar em R$ 5,14 sugere um equilíbrio momentâneo entre fluxos de entrada e saída de capital. A manutenção desse patamar dependerá da evolução do cenário externo e de fatores domésticos, como decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787682663.5461442,
-    "titulo": "Dólar em alta: sanções ao Irã e leilão do BC marcam a terça-feira",
-    "titulo_original": "Dólar em alta: sanções ao Irã e leilão do BC marcam a terça-feira - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/08 10:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar pode refletir um aumento da aversão ao risco global devido às sanções ao Irã, ou uma demanda específica por moeda estrangeira em função do leilão do Banco Central. Se as sanções escalarem, o dólar pode continuar pressionado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787682676.0788822,
-    "titulo": "SEC intima bancos de Wall Street sobre o fundo Situational Awareness",
-    "titulo_original": "SEC intima bancos de Wall Street sobre o fundo Situational Awareness",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 15:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A investigação da SEC pode indicar um escrutínio maior sobre fundos de hedge e suas práticas de negociação. Se a investigação evoluir para uma investigação formal, isso pode gerar volatilidade em determinados setores do mercado financeiro americano.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787682676.0799606,
-    "titulo": "Braskem cai mais de 8% na Bolsa após pedido de recuperação extrajudicial",
-    "titulo_original": "Braskem cai mais de 8% na Bolsa após pedido de recuperação extrajudicial",
-    "fonte": "Folha Mercado",
-    "publicado": "25/08 14:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda expressiva das ações da Braskem reflete o impacto direto do pedido de recuperação extrajudicial na confiança dos investidores. Embora seja um evento específico de uma empresa, pode gerar atenção para o setor químico e para empresas com endividamento elevado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787682676.0810292,
-    "titulo": "Bolsas da Europa fecham em alta com alívio do petróleo e proposta de paz EUA-Irã",
-    "titulo_original": "Bolsas da Europa fecham em alta com alívio do petróleo e proposta de paz EUA-Irã",
-    "fonte": "Money Times",
-    "publicado": "25/08 14:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O fechamento em alta das bolsas europeias sugere um otimismo cauteloso no mercado, impulsionado pela diminuição das tensões geopolíticas e pela queda nos preços do petróleo. Se o alívio se mantiver, pode haver um fluxo de capital mais positivo para ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787689852.826756,
-    "titulo": "TCU derruba decisão cautelar que suspendia uso de ‘dinheiro esquecido’ nos bancos no Novo Desenrola",
-    "titulo_original": "TCU derruba decisão cautelar que suspendia uso de ‘dinheiro esquecido’ nos bancos no Novo Desenrola",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 17:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do TCU permite a utilização de recursos do Sistema de Valores a Receber (SVR) para viabilizar o programa Desenrola. Se a decisão do TCU fosse mantida, o programa poderia ter dificuldades em sua execução; com a derrubada da cautelar, o programa pode avançar conforme planejado, impactando a renegociação de dívidas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787689856.7199752,
-    "titulo": "Tesouro Direto encerra julho com emissão líquida de R$ 7,37 bilhões",
-    "titulo_original": "Tesouro Direto encerra julho com emissão líquida de R$ 7,37 bilhões",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 16:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A emissão líquida positiva no Tesouro Direto indica um fluxo de capital para a renda fixa pública. Se essa tendência de entrada de recursos se mantiver, pode sinalizar maior apetite por ativos de menor risco; caso contrário, uma saída de capital da renda fixa poderia indicar busca por outras classes de ativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787689860.6246977,
-    "titulo": "A diferença entre um dado e um diagnóstico",
-    "titulo_original": "A diferença entre um dado e um diagnóstico",
-    "fonte": "Folha Mercado",
-    "publicado": "25/08 17:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia associa o aumento de recuperações judiciais a uma crítica política ao governo atual. Se o cenário de juros altos e crédito restrito persistir, o número de empresas em recuperação judicial pode continuar a crescer, impactando a atividade econômica e o emprego; caso contrário, uma melhora nas condições de crédito e juros poderia reverter essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787689864.6824636,
-    "titulo": "Passando pano para o Banco Central?",
-    "titulo_original": "Passando pano para o Banco Central?",
-    "fonte": "Folha Mercado",
-    "publicado": "25/08 16:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre as altas taxas de juros e a atribuição de responsabilidade entre governo e Banco Central é central para a política monetária. Se a análise do autor for correta e os erros do governo forem os principais impulsionadores das altas taxas, uma melhora na gestão fiscal poderia levar a uma redução dos juros; caso contrário, a política monetária do BC pode ser o fator determinante.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787689868.6339476,
-    "titulo": "Sine Ouro Preto oferece mais de 100 oportunidades no mercado de trabalho nesta terça-feira (25/8)",
-    "titulo_original": "Sine Ouro Preto oferece mais de 100 oportunidades no mercado de trabalho nesta terça-feira (25/8) - Jornal Voz Ativa",
-    "fonte": "Google News Commodities",
-    "publicado": "25/08 15:33",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A oferta de mais de 100 vagas de emprego pelo Sine Ouro Preto indica um movimento no mercado de trabalho local. Se essa tendência se expandir para outras regiões e setores, pode sinalizar uma melhora na atividade econômica; caso contrário, pode ser um movimento pontual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787695244.5849879,
-    "titulo": "Ministério Público indica ser contra trechos da Lei Antifacção",
-    "titulo_original": "Ministério Público indica ser contra trechos da Lei Antifacção",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 18:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A posição do Ministério Público contra partes da Lei Antifacção pode influenciar o debate e a decisão final sobre a constitucionalidade desses trechos. Se as objeções forem acatadas, a lei pode ter sua aplicação limitada, mantendo garantias constitucionais como o tribunal do júri.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787695248.2572548,
-    "titulo": "O novo elemento que acende alerta no mercado do boi e pode levar arroba a recorde; ‘2027 pode apertar ainda mais as margens’",
-    "titulo_original": "O novo elemento que acende alerta no mercado do boi e pode levar arroba a recorde; ‘2027 pode apertar ainda mais as margens’",
-    "fonte": "Money Times",
-    "publicado": "25/08 17:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento dos custos com insumos para a pecuária pode pressionar os preços da arroba do boi e afetar a rentabilidade dos produtores. Se os preços dos grãos continuarem em alta, a margem de lucro dos pecuaristas pode ser significativamente reduzida, impactando a oferta futura.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787695251.7093759,
-    "titulo": "Relator da PEC da Segurança no Senado não irá alterar texto aprovado pela Câmara",
-    "titulo_original": "Relator da PEC da Segurança no Senado não irá alterar texto aprovado pela Câmara",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 17:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão de não alterar o texto da PEC da Segurança Pública no Senado acelera sua aprovação, permitindo que as mudanças propostas entrem em vigor mais rapidamente. A celeridade na tramitação indica um consenso político em torno da matéria, mas o impacto prático das novas regras dependerá de sua implementação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787695255.1409883,
-    "titulo": "Notícias do mercado americano: Rumores de paz entre Irã e EUA",
-    "titulo_original": "investingLive Americas market news wrap: Some late talk of Iran peace",
-    "fonte": "ForexLive",
-    "publicado": "25/08 17:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A possibilidade de um acordo de paz entre Irã e EUA pode reduzir a tensão geopolítica e impactar os preços do petróleo. Paralelamente, a sinalização do BCE sobre aumento de juros e o alerta do Fed sobre inflação persistente indicam um cenário de aperto monetário na Europa e nos EUA, com potencial impacto nos mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787695259.9628274,
-    "titulo": "Morgan Stanley alerta para dólar a R$ 6 e juros longos a 18% sem plano fiscal após eleições",
-    "titulo_original": "Morgan Stanley alerta para dólar a R$ 6 e juros longos a 18% sem plano fiscal após eleições - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/08 13:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Morgan Stanley indica um cenário de instabilidade cambial e alta de juros caso não haja um plano fiscal robusto após as eleições. A ausência de clareza fiscal pode aumentar o risco percebido pelo mercado, levando a uma desvalorização do real e a um aumento da taxa de juros de longo prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787695259.964383,
-    "titulo": "Ibovespa dispara em sessão de maior apetite a risco; dólar e juros futuros caem",
-    "titulo_original": "Ibovespa dispara em sessão de maior apetite a risco; dólar e juros futuros caem",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 17:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A forte alta do Ibovespa, acompanhada pela queda do dólar e dos juros futuros, indica um cenário de melhora no apetite a risco global e doméstico. Se a percepção de menor risco se consolidar, o fluxo de capital para ativos de maior volatilidade pode aumentar, sustentando a valorização do índice.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787695259.9660053,
-    "titulo": "Ibovespa B3 sobe 1,55%, impulsionado por bom humor externo",
-    "titulo_original": "Ibovespa B3 sobe 1,55%, impulsionado por bom humor externo - Bora Investir",
-    "fonte": "Google News Acoes",
-    "publicado": "25/08 18:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do Ibovespa demonstra sensibilidade do mercado brasileiro ao otimismo internacional. Se o bom humor externo persistir, o índice pode continuar sua trajetória de alta; caso contrário, a reversão desse cenário pode levar a uma correção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787695259.9675176,
-    "titulo": "Ibovespa fecha em alta, mesmo com queda do petróleo derrubando petroleiras",
-    "titulo_original": "Ibovespa fecha em alta, mesmo com queda do petróleo derrubando petroleiras - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "25/08 18:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A resiliência do Ibovespa em um dia de queda do petróleo sugere que outros setores ou fatores estiveram impulsionando o índice. A performance futura do Ibovespa pode ser influenciada pela volatilidade dos preços das commodities e pela força dos demais setores da economia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787695259.969031,
-    "titulo": "Petrobras terá que levar nove peixes-boi para centros de fauna, determina Ibama",
-    "titulo_original": "Petrobras terá que levar nove peixes-boi para centros de fauna, determina Ibama",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 18:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Ibama impõe obrigações ambientais à Petrobras, que podem impactar os custos e o cronograma das operações de exploração. A forma como a empresa gerenciará essas condicionantes será crucial para a continuidade dos projetos e para a relação com órgãos reguladores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787695259.9706268,
-    "titulo": "Mesmo com saída recorde de estrangeiros, o que fez Ibovespa subir?",
-    "titulo_original": "Mesmo com saída recorde de estrangeiros, o que fez Ibovespa subir? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "25/08 14:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa, apesar da saída de capital estrangeiro, sugere que fatores domésticos ou o fluxo de capital de investidores locais foram suficientes para sustentar o movimento. Se a saída de estrangeiros continuar, o mercado dependerá cada vez mais de investidores domésticos para manter sua performance.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787700649.4978368,
-    "titulo": "Juros futuros têm forte queda com apoio externo e expectativa para o IPCA-15",
-    "titulo_original": "Juros futuros têm forte queda com apoio externo e expectativa para o IPCA-15",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 17:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nos juros futuros reflete um ambiente externo mais favorável e a expectativa de desaceleração da inflação doméstica. Se o IPCA-15 confirmar a deflação e os fatores externos se mantiverem positivos, o Banco Central pode ter mais espaço para sinalizar um ciclo de cortes de juros mais acentuado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787700653.4347274,
-    "titulo": "Trump envia acordo nuclear com Arábia Saudita ao Congresso, mas impõe condição para avanço - G1",
-    "titulo_original": "Trump envia acordo nuclear com Arábia Saudita ao Congresso, mas impõe condição para avanço - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "25/08 19:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O envio do acordo nuclear ao Congresso, com uma condição imposta, indica um passo formal nas relações entre EUA e Arábia Saudita, mas a exigência pode gerar negociações adicionais. Se a condição for atendida, o acordo pode avançar, impactando a geopolítica regional e o mercado de energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787700659.3134503,
-    "titulo": "Rali pós-eleição entra de vez na mira de grandes fundos via opções de EWZ",
-    "titulo_original": "Rali pós-eleição entra de vez na mira de grandes fundos via opções de EWZ",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 19:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O interesse de grandes fundos em opções de EWZ sugere uma aposta em valorização da bolsa brasileira no curto prazo, possivelmente antecipando um cenário eleitoral que consideram favorável. Se a percepção de risco eleitoral diminuir, o fluxo de capital para a renda variável brasileira pode se intensificar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787700659.3146732,
-    "titulo": "Oi tem falência decretada pela Justiça e B3 suspende negociação de ações da empresa - Estadão",
-    "titulo_original": "Oi tem falência decretada pela Justiça e B3 suspende negociação de ações da empresa - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "25/08 15:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A decretação de falência da Oi representa o fim de um ciclo para a empresa e um evento de grande impacto para seus credores e acionistas. A suspensão das negociações na B3 impede qualquer movimentação no mercado de ações da companhia, aguardando os desdobramentos legais do processo falimentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787700659.3163433,
-    "titulo": "'Existe um mundo antes e depois do Drex', diz executiva do BB sobre tokenização",
-    "titulo_original": "'Existe um mundo antes e depois do Drex', diz executiva do BB sobre tokenização",
-    "fonte": "Valor Economico",
-    "publicado": "25/08 19:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração sugere que o projeto Drex, mesmo em evolução, serviu como um catalisador para a adoção de tecnologias de blockchain e tokenização no setor financeiro brasileiro. Se o foco em resolver dores concretas se mantiver, a tokenização pode encontrar aplicações práticas e escaláveis no mercado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787743854.250462,
     "titulo": "Fazenda prorroga subvenção à gasolina até 9 de setembro, quando caduca MP",
     "titulo_original": "Fazenda prorroga subvenção à gasolina até 9 de setembro, quando caduca MP",
@@ -1012,6 +649,125 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O aumento das reclamações sobre sobreestadia em portos pode indicar gargalos logísticos que afetam a eficiência do comércio. Se a tendência se mantiver, pode haver pressão por investimentos em infraestrutura portuária ou mudanças regulatórias para agilizar o fluxo de cargas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787830271.5700388,
+    "titulo": "Desinflação mais cedo leva XP a cortar projeção da Selic de 14% para 13,25%",
+    "titulo_original": "Desinflação mais cedo leva XP a cortar projeção da Selic de 14% para 13,25% - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/08 07:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução da projeção da Selic pela XP, baseada em uma antecipação de desinflação, sugere uma mudança no cenário de juros futuros no Brasil. Se outros analistas e o próprio Banco Central confirmarem essa tendência de inflação mais controlada, isso pode abrir espaço para cortes de juros mais significativos, impactando o custo do crédito e o investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787830275.8538003,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "27/08 03:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa de alta de juros pelo BCE e a divulgação de dados de emprego nos EUA são eventos cruciais para a definição de cenários econômicos. Se a ata do BCE indicar um tom mais duro ou se os dados de emprego vierem significativamente fora do esperado, isso pode reforçar a tendência de aperto monetário ou sinalizar uma desaceleração, respectivamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787830279.9786706,
+    "titulo": "Administração dos EUA estaria considerando nova rodada de tarifas sobre semicondutores",
+    "titulo_original": "US administration reportedly mulling over fresh round of tariffs on semiconductors",
+    "fonte": "ForexLive",
+    "publicado": "27/08 06:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A imposição de novas tarifas sobre semicondutores pode gerar um cenário de aumento de custos para empresas de tecnologia e impactar cadeias de suprimentos globais. Se a medida for implementada, pode haver uma reconfiguração de investimentos em produção doméstica e uma busca por alternativas de fornecimento por parte das empresas afetadas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787830284.2200418,
+    "titulo": "O país que agora tem o maior superávit comercial com os EUA é… o Vietnã",
+    "titulo_original": "O país que agora tem o maior superávit comercial com os EUA é… o Vietnã",
+    "fonte": "InvestNews",
+    "publicado": "27/08 06:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A mudança no superávit comercial dos EUA, com o Vietnã assumindo a liderança, é um reflexo direto das políticas tarifárias adotadas. Se essa tendência se mantiver, pode indicar uma realocação de fluxos comerciais e de produção, com potenciais impactos em outros países que competem por esses mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787830289.4987042,
+    "titulo": "Acordo com a Meta abre nova frente na luta global contra os danos causados pelas redes sociais",
+    "titulo_original": "Acordo com a Meta abre nova frente na luta global contra os danos causados pelas redes sociais",
+    "fonte": "Valor Economico",
+    "publicado": "27/08 08:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O acordo da Meta representa uma decisão regulatória significativa com potencial de influenciar legislações em outros países sobre o uso de redes sociais por menores. Se outros governos seguirem o exemplo, isso pode gerar custos adicionais para as empresas de tecnologia e alterar o ambiente de negócios digital globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787830289.4999905,
+    "titulo": "Bitcoin (BTC) volta a subir para US$ 80 mil após balanço da Nvidia (NVDA); veja preços das criptomoedas nesta quinta-feira (27)",
+    "titulo_original": "Bitcoin (BTC) volta a subir para US$ 80 mil após balanço da Nvidia (NVDA); veja preços das criptomoedas nesta quinta-feira (27)",
+    "fonte": "Money Times",
+    "publicado": "27/08 07:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A valorização do Bitcoin e de outras criptomoedas, neste caso atrelada a um balanço corporativo específico, sugere um movimento de mercado pontual. Se a tendência de alta se consolidar e houver menção a fluxos de capital significativos para o ativo, a relevância poderia aumentar, mas atualmente se restringe a um indicador de sentimento de mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787830289.5012221,
+    "titulo": "Ações da Nvidia disparam mais de 7% após lucro mais do que dobrar no 2º tri",
+    "titulo_original": "Ações da Nvidia disparam mais de 7% após lucro mais do que dobrar no 2º tri - UOL Economia",
+    "fonte": "Google News Acoes",
+    "publicado": "27/08 08:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O forte desempenho das ações da Nvidia, impulsionado por resultados corporativos expressivos, demonstra a força do setor de tecnologia e semicondutores. Embora seja um evento corporativo, o impacto em índices de mercado e o sentimento dos investidores podem ser relevantes, especialmente se a empresa for um componente importante de índices globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787830289.5024548,
+    "titulo": "IA chinesa aberta ao público pode pôr cibersegurança mundial à prova",
+    "titulo_original": "IA chinesa aberta ao público pode pôr cibersegurança mundial à prova",
+    "fonte": "Folha Mercado",
+    "publicado": "27/08 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia levanta preocupações sobre a segurança cibernética no avanço da inteligência artificial, especialmente com a abertura de sistemas chineses ao público. Se houver incidentes de segurança de grande escala ou regulamentações específicas decorrentes dessas vulnerabilidades, a relevância para o setor tecnológico e de segurança aumentará.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787830289.5037246,
+    "titulo": "Bolsas da Europa recuam com químicos e autos, apesar do impulso de tecnologia após Nvidia",
+    "titulo_original": "Bolsas da Europa recuam com químicos e autos, apesar do impulso de tecnologia após Nvidia",
+    "fonte": "Money Times",
+    "publicado": "27/08 07:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O recuo das bolsas europeias, apesar do impulso positivo do setor de tecnologia, indica uma diversidade de movimentos setoriais no mercado. Se as perdas em setores mais tradicionais se aprofundarem ou se houver uma reversão generalizada, isso pode sinalizar um cenário de maior cautela dos investidores globais.",
     "is_stocks": true
   }
 ]
