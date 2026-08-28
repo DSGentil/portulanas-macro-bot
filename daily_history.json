@@ -930,5 +930,75 @@
     "origem": "domestica",
     "leitura_critica": "A aprovação de uma emissão de cotas de grande volume para consolidação de fundos imobiliários pode indicar movimentos de reestruturação no setor. Se a operação for bem-sucedida, pode haver uma concentração de ativos e uma mudança no cenário de fundos imobiliários envolvidos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787930140.1923628,
+    "titulo": "Inadimplência no Brasil sobe a 6,4% e atinge maior nível da série histórica, mostra BC",
+    "titulo_original": "Inadimplência no Brasil sobe a 6,4% e atinge maior nível da série histórica, mostra BC",
+    "fonte": "Folha Mercado",
+    "publicado": "28/08 11:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da inadimplência para o maior nível histórico pode indicar um aperto nas condições financeiras das famílias e um possível arrefecimento da atividade econômica. Se os próximos dados de crédito e consumo confirmarem essa tendência, o Banco Central pode ter que reavaliar o ritmo de flexibilização monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787930143.6924684,
+    "titulo": "Lula sanciona Projeto de Lei Complementar dos Combustíveis",
+    "titulo_original": "Lula sanciona Projeto de Lei Complementar dos Combustíveis",
+    "fonte": "Valor Economico",
+    "publicado": "28/08 11:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A sanção do PLP dos Combustíveis representa uma decisão concreta de política fiscal com impacto em 2026, incluindo redução de tributos e incentivos. Se a redução de impostos sobre combustíveis for implementada, isso pode impactar a inflação e a arrecadação fiscal, dependendo da magnitude e das contrapartidas fiscais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787930148.231523,
+    "titulo": "BC cancela licença de pagamento da Reag IP, de João Carlos Mansur",
+    "titulo_original": "BC cancela licença de pagamento da Reag IP, de João Carlos Mansur",
+    "fonte": "Valor Economico",
+    "publicado": "28/08 11:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O cancelamento da licença de pagamento pela Reag IP pelo Banco Central é uma decisão regulatória que afeta diretamente a empresa. Se a mudança de objeto social for uma tentativa de adequação a novas normas, isso pode indicar um ambiente regulatório mais rigoroso para o setor de pagamentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787930151.760853,
+    "titulo": "Refino de petróleo e biocombustíveis lidera queda do IPP em julho",
+    "titulo_original": "Refino de petróleo e biocombustíveis lidera queda do IPP em julho - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "28/08 10:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda no refino de petróleo e biocombustíveis liderando a deflação do IPP em julho sugere uma pressão baixista sobre os preços industriais. Se essa tendência se mantiver, pode contribuir para uma desaceleração da inflação ao produtor, com potencial reflexo nos preços ao consumidor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787930156.3704684,
+    "titulo": "Betnacional, alvo da Receita, é listada em Wall Street e tem Vini Jr. como influencer",
+    "titulo_original": "Betnacional, alvo da Receita, é listada em Wall Street e tem Vini Jr. como influencer",
+    "fonte": "Folha Mercado",
+    "publicado": "28/08 11:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A operação da Receita Federal e MPF contra a Betnacional, uma empresa com listagem internacional, pode gerar atenção regulatória sobre o setor de apostas online no Brasil. Se a investigação resultar em sanções ou novas regulamentações, isso pode impactar o ambiente de negócios para empresas do setor.",
+    "is_stocks": true
   }
 ]
