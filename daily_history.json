@@ -1,124 +1,5 @@
 [
   {
-    "_timestamp": 1787830271.5700388,
-    "titulo": "Desinflação mais cedo leva XP a cortar projeção da Selic de 14% para 13,25%",
-    "titulo_original": "Desinflação mais cedo leva XP a cortar projeção da Selic de 14% para 13,25% - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/08 07:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução da projeção da Selic pela XP, baseada em uma antecipação de desinflação, sugere uma mudança no cenário de juros futuros no Brasil. Se outros analistas e o próprio Banco Central confirmarem essa tendência de inflação mais controlada, isso pode abrir espaço para cortes de juros mais significativos, impactando o custo do crédito e o investimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787830275.8538003,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "27/08 03:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A expectativa de alta de juros pelo BCE e a divulgação de dados de emprego nos EUA são eventos cruciais para a definição de cenários econômicos. Se a ata do BCE indicar um tom mais duro ou se os dados de emprego vierem significativamente fora do esperado, isso pode reforçar a tendência de aperto monetário ou sinalizar uma desaceleração, respectivamente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787830279.9786706,
-    "titulo": "Administração dos EUA estaria considerando nova rodada de tarifas sobre semicondutores",
-    "titulo_original": "US administration reportedly mulling over fresh round of tariffs on semiconductors",
-    "fonte": "ForexLive",
-    "publicado": "27/08 06:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A imposição de novas tarifas sobre semicondutores pode gerar um cenário de aumento de custos para empresas de tecnologia e impactar cadeias de suprimentos globais. Se a medida for implementada, pode haver uma reconfiguração de investimentos em produção doméstica e uma busca por alternativas de fornecimento por parte das empresas afetadas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787830284.2200418,
-    "titulo": "O país que agora tem o maior superávit comercial com os EUA é… o Vietnã",
-    "titulo_original": "O país que agora tem o maior superávit comercial com os EUA é… o Vietnã",
-    "fonte": "InvestNews",
-    "publicado": "27/08 06:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A mudança no superávit comercial dos EUA, com o Vietnã assumindo a liderança, é um reflexo direto das políticas tarifárias adotadas. Se essa tendência se mantiver, pode indicar uma realocação de fluxos comerciais e de produção, com potenciais impactos em outros países que competem por esses mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787830289.4987042,
-    "titulo": "Acordo com a Meta abre nova frente na luta global contra os danos causados pelas redes sociais",
-    "titulo_original": "Acordo com a Meta abre nova frente na luta global contra os danos causados pelas redes sociais",
-    "fonte": "Valor Economico",
-    "publicado": "27/08 08:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O acordo da Meta representa uma decisão regulatória significativa com potencial de influenciar legislações em outros países sobre o uso de redes sociais por menores. Se outros governos seguirem o exemplo, isso pode gerar custos adicionais para as empresas de tecnologia e alterar o ambiente de negócios digital globalmente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787830289.4999905,
-    "titulo": "Bitcoin (BTC) volta a subir para US$ 80 mil após balanço da Nvidia (NVDA); veja preços das criptomoedas nesta quinta-feira (27)",
-    "titulo_original": "Bitcoin (BTC) volta a subir para US$ 80 mil após balanço da Nvidia (NVDA); veja preços das criptomoedas nesta quinta-feira (27)",
-    "fonte": "Money Times",
-    "publicado": "27/08 07:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A valorização do Bitcoin e de outras criptomoedas, neste caso atrelada a um balanço corporativo específico, sugere um movimento de mercado pontual. Se a tendência de alta se consolidar e houver menção a fluxos de capital significativos para o ativo, a relevância poderia aumentar, mas atualmente se restringe a um indicador de sentimento de mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787830289.5012221,
-    "titulo": "Ações da Nvidia disparam mais de 7% após lucro mais do que dobrar no 2º tri",
-    "titulo_original": "Ações da Nvidia disparam mais de 7% após lucro mais do que dobrar no 2º tri - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "27/08 08:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O forte desempenho das ações da Nvidia, impulsionado por resultados corporativos expressivos, demonstra a força do setor de tecnologia e semicondutores. Embora seja um evento corporativo, o impacto em índices de mercado e o sentimento dos investidores podem ser relevantes, especialmente se a empresa for um componente importante de índices globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787830289.5024548,
-    "titulo": "IA chinesa aberta ao público pode pôr cibersegurança mundial à prova",
-    "titulo_original": "IA chinesa aberta ao público pode pôr cibersegurança mundial à prova",
-    "fonte": "Folha Mercado",
-    "publicado": "27/08 04:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia levanta preocupações sobre a segurança cibernética no avanço da inteligência artificial, especialmente com a abertura de sistemas chineses ao público. Se houver incidentes de segurança de grande escala ou regulamentações específicas decorrentes dessas vulnerabilidades, a relevância para o setor tecnológico e de segurança aumentará.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787830289.5037246,
-    "titulo": "Bolsas da Europa recuam com químicos e autos, apesar do impulso de tecnologia após Nvidia",
-    "titulo_original": "Bolsas da Europa recuam com químicos e autos, apesar do impulso de tecnologia após Nvidia",
-    "fonte": "Money Times",
-    "publicado": "27/08 07:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O recuo das bolsas europeias, apesar do impulso positivo do setor de tecnologia, indica uma diversidade de movimentos setoriais no mercado. Se as perdas em setores mais tradicionais se aprofundarem ou se houver uma reversão generalizada, isso pode sinalizar um cenário de maior cautela dos investidores globais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787836541.1257427,
     "titulo": "Desemprego recua a 5,3%, menor taxa até julho na série histórica, e renda fica estável",
     "titulo_original": "Desemprego recua a 5,3%, menor taxa até julho na série histórica, e renda fica estável",
@@ -1140,5 +1021,76 @@
     "origem": "domestica",
     "leitura_critica": "A renovação da concessão da usina hidrelétrica da Cemig por 30 anos garante a continuidade da operação e a previsibilidade para a empresa. Se a política de renovação de concessões for mantida, pode haver estabilidade no setor de energia.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787941842.460549,
+    "titulo": "Vorcaro depõe à PF sobre servidores do BC e diz ter ‘plena disposição' de esclarecer fatos",
+    "titulo_original": "Vorcaro depõe à PF sobre servidores do BC e diz ter ‘plena disposição' de esclarecer fatos",
+    "fonte": "Valor Economico",
+    "publicado": "28/08 15:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O depoimento de Daniel Vorcaro à PF, relacionado a servidores do Banco Central, foca em esclarecimentos sobre possíveis irregularidades. Se a investigação avançar e resultar em alguma decisão concreta ou mudança regulatória, o canal 'decisao_fiscal_regulatoria' poderia ser afetado; caso contrário, o impacto permanece restrito a um processo investigativo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787941846.0172098,
+    "titulo": "Chegou a hora de o dólar subir? Cenário indica um bom momento para a compra",
+    "titulo_original": "Chegou a hora de o dólar subir? Cenário indica um bom momento para a compra",
+    "fonte": "InvestNews",
+    "publicado": "28/08 13:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divergência nas tendências de juros entre EUA (alta) e Brasil (baixa), juntamente com o cenário eleitoral, sugere uma valorização do dólar frente ao real. Se os juros nos EUA continuarem subindo e os juros no Brasil permanecerem em queda, o dólar pode se fortalecer ainda mais; caso haja uma reversão nessa expectativa de juros, o cenário para o dólar pode mudar drasticamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787941849.577547,
+    "titulo": "Ouro recua quase 3% após falas de Warsh em Jackson Hole",
+    "titulo_original": "Ouro recua quase 3% após falas de Warsh em Jackson Hole",
+    "fonte": "Money Times",
+    "publicado": "28/08 15:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As falas de Kevin Warsh em Jackson Hole, sinalizando um combate mais enfático à inflação, levaram a uma queda no preço do ouro. Se o Fed de fato adotar uma postura mais agressiva em relação aos juros, isso pode impactar negativamente ativos de risco e fortalecer o dólar. Caso a inflação mostre sinais de arrefecimento nas próximas divulgações, a postura do Fed pode se tornar menos restritiva, alterando a dinâmica do mercado de ouro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787941853.148879,
+    "titulo": "Alta de juros e Fed mais discreto: os principais recados de Kevin Warsh em Jackson Hole",
+    "titulo_original": "Alta de juros e Fed mais discreto: os principais recados de Kevin Warsh em Jackson Hole - InvestNews",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/08 12:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As declarações de Kevin Warsh em Jackson Hole reforçam a perspectiva de que o Fed manterá uma postura mais cautelosa em relação à inflação, o que pode implicar em juros mais altos por mais tempo. Se o Fed realmente priorizar o controle inflacionário, isso pode levar a uma desaceleração econômica global; caso contrário, se a inflação ceder mais rapidamente do que o esperado, o Fed pode sinalizar um alívio na política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787941856.7468631,
+    "titulo": "Integrantes do conselho do BCE veem fortes argumentos para alta de juros em setembro",
+    "titulo_original": "Integrantes do conselho do BCE veem fortes argumentos para alta de juros em setembro",
+    "fonte": "Valor Economico",
+    "publicado": "28/08 15:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A perspectiva de alta de juros pelo BCE em setembro, devido a fatores como crescimento econômico e custos de energia, sugere um aperto monetário na Europa. Se o BCE elevar os juros, isso pode impactar o fluxo de capital global e a demanda por ativos de risco. Caso a inflação europeia mostre sinais de desaceleração inesperada, o BCE pode reconsiderar a alta, alterando as expectativas do mercado.",
+    "is_stocks": false
   }
 ]
