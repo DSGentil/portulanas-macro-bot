@@ -1,113 +1,5 @@
 [
   {
-    "_timestamp": 1787849146.9166825,
-    "titulo": "Liminar suspende imposto de exportação do petróleo e barra novas prorrogações pela Camex - Agência eixos",
-    "titulo_original": "Liminar suspende imposto de exportação do petróleo e barra novas prorrogações pela Camex - Agência eixos",
-    "fonte": "Google News Commodities",
-    "publicado": "27/08 12:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A suspensão da liminar sobre o imposto de exportação do petróleo pode ter impacto na arrecadação fiscal e na competitividade do setor. Se a decisão for mantida, isso pode reduzir a carga tributária sobre as exportações de petróleo, mas também pode afetar a receita do governo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787849151.5261574,
-    "titulo": "XP descarta pausa nos cortes de juros em 2026 e vê Selic a 13,25% no fim do ano: mais 3 reduções - Estadão",
-    "titulo_original": "XP descarta pausa nos cortes de juros em 2026 e vê Selic a 13,25% no fim do ano: mais 3 reduções - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/08 12:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção da XP sobre a trajetória futura da Selic indica uma expectativa de continuidade nos cortes de juros, mas com um ritmo que pode ser ajustado. Se a Selic atingir o patamar previsto, isso pode sinalizar um cenário de juros mais baixos, com potencial impacto no custo de crédito e na atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787849156.120899,
-    "titulo": "EUA avaliam determinar tarifas sobre semicondutores, diz site",
-    "titulo_original": "EUA avaliam determinar tarifas sobre semicondutores, diz site",
-    "fonte": "Folha Mercado",
-    "publicado": "27/08 12:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A imposição de novas tarifas sobre semicondutores pelos EUA pode gerar tensões comerciais globais e impactar cadeias de suprimentos. Se as tarifas forem confirmadas, isso pode levar a retaliações de outros países, afetando o comércio internacional de tecnologia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787849160.7256057,
-    "titulo": "Hammack reitera à CNBC que é hora de o Fed aumentar os juros - InfoMoney",
-    "titulo_original": "Hammack reitera à CNBC que é hora de o Fed aumentar os juros - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/08 13:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de um membro do FOMC sobre a necessidade de aumentar os juros reforça a expectativa de uma política monetária mais restritiva nos EUA. Se o Fed confirmar essa postura em suas próximas reuniões, isso pode pressionar outros bancos centrais a seguir o mesmo caminho ou manter juros elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787849166.5768063,
-    "titulo": "Ministério da China vai monitorar medidas tarifárias dos EUA e diz que pode agir",
-    "titulo_original": "Ministério da China vai monitorar medidas tarifárias dos EUA e diz que pode agir",
-    "fonte": "Folha Mercado",
-    "publicado": "27/08 11:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração da China indica uma postura de vigilância e potencial retaliação às medidas tarifárias dos EUA. Se a China decidir impor contramedidas, isso pode intensificar a guerra comercial e afetar o comércio global, com possíveis reflexos para economias emergentes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787849166.578143,
-    "titulo": "Cade recebe recurso da Abra, holding da Gol, contra negócio entre American e Azul e inicia investigação",
-    "titulo_original": "Cade recebe recurso da Abra, holding da Gol, contra negócio entre American e Azul e inicia investigação",
-    "fonte": "Valor Economico",
-    "publicado": "27/08 13:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Cade de aprofundar a investigação pode gerar incertezas sobre a consolidação do setor aéreo brasileiro. Se a investigação resultar em restrições significativas, isso pode impactar a estrutura de mercado e a competitividade das companhias aéreas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787849166.5793934,
-    "titulo": "Petrobras fará resgate antecipado de US$ 1 bilhão em títulos com vencimento em 2028",
-    "titulo_original": "Petrobras fará resgate antecipado de US$ 1 bilhão em títulos com vencimento em 2028",
-    "fonte": "InvestNews",
-    "publicado": "27/08 10:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O resgate antecipado de títulos pela Petrobras indica uma gestão de caixa e dívida da empresa. Se a empresa tiver liquidez para tal operação, isso pode ser visto como um sinal de saúde financeira, mas o impacto macroeconômico direto é limitado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787849166.5806491,
-    "titulo": "Petrobras (PETR4) vê potencial para exportar gás liquefeito do pré-sal, diz CEO",
-    "titulo_original": "Petrobras (PETR4) vê potencial para exportar gás liquefeito do pré-sal, diz CEO",
-    "fonte": "Money Times",
-    "publicado": "27/08 12:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para uma estratégia de longo prazo da Petrobras em explorar mercados de exportação de gás. Embora seja um desenvolvimento positivo para a empresa, o impacto macroeconômico imediato é limitado, dependendo da viabilidade e escala futura da operação.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787855471.6338055,
     "titulo": "Dólar hoje segue perto da estabilidade após leilões cambiais do BC - InfoMoney",
     "titulo_original": "Dólar hoje segue perto da estabilidade após leilões cambiais do BC - InfoMoney",
@@ -1057,5 +949,53 @@
     "origem": "ambas",
     "leitura_critica": "A recuperação do Ibovespa após um tom 'hawkish' do Fed sugere que o mercado local pode estar precificando um cenário de juros mais altos nos EUA, o que historicamente pode levar a um fluxo de capital para fora de mercados emergentes. Se a força das ações de commodities e bancos persistir, pode sustentar o índice apesar das pressões externas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1787959838.7485988,
+    "titulo": "Trump anuncia acordo que garante aos EUA controle de mais de 65 bilhões de barris de petróleo em reservas da Venezuela",
+    "titulo_original": "Trump anuncia acordo que garante aos EUA controle de mais de 65 bilhões de barris de petróleo em reservas da Venezuela - G1",
+    "fonte": "Google News Commodities",
+    "publicado": "28/08 19:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O anúncio de controle sobre reservas de petróleo venezuelano pelos EUA pode ter implicações na oferta global de energia. Se esse controle se traduzir em mudanças efetivas na produção ou exportação, isso pode impactar os preços do petróleo e, consequentemente, a inflação global e o apetite a risco, mas a notícia em si não detalha esses mecanismos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787959843.2708328,
+    "titulo": "Trump anuncia medida contra monopólio da carne após críticas a empresas brasileiras",
+    "titulo_original": "Trump anuncia medida contra monopólio da carne após críticas a empresas brasileiras",
+    "fonte": "Folha Mercado",
+    "publicado": "28/08 19:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A medida anunciada por Trump visa combater o monopólio no setor de carnes dos EUA, mencionando empresas brasileiras. Embora possa ter impacto setorial para as empresas citadas, a notícia não detalha um efeito macroeconômico direto ou uma decisão fiscal/regulatória com impacto amplo no Brasil ou no cenário global que justifique maior relevância para o WDO.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787959847.8985612,
+    "titulo": "Petróleo cai com sinais de navegação no Estreito de Ormuz",
+    "titulo_original": "Petróleo cai com sinais de navegação no Estreito de Ormuz - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "28/08 16:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda no preço do petróleo, influenciada por sinais de navegação no Estreito de Ormuz, pode indicar uma diminuição de tensões geopolíticas na região. Se essa tendência se confirmar e os preços do petróleo se estabilizarem ou caírem, isso pode ter um efeito desinflacionário global, mas a notícia é pontual e não garante um cenário de longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787959852.3060122,
+    "titulo": "EUA negociam controle sobre mais de 12 campos de petróleo da Venezuela",
+    "titulo_original": "EUA negociam controle sobre mais de 12 campos de petróleo da Venezuela - Gazeta do Povo",
+    "fonte": "Google News Commodities",
+    "publicado": "28/08 18:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A negociação de controle sobre campos de petróleo venezuelanos pelos EUA pode impactar a oferta global de energia. Se o acordo for concretizado e resultar em maior produção ou estabilidade no fornecimento, isso pode influenciar os preços do petróleo e, indiretamente, a inflação e o cenário de risco global, mas a notícia foca na negociação e não no resultado prático imediato.",
+    "is_stocks": false
   }
 ]
