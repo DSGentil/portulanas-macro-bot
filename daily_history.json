@@ -1,358 +1,5 @@
 [
   {
-    "_timestamp": 1787769040.1514988,
-    "titulo": "ETF Smart Selic pode ter IR maior; entenda o risco",
-    "titulo_original": "ETF Smart Selic pode ter IR maior; entenda o risco - TrendsCE",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 13:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aborda um potencial aumento na tributação de um ETF atrelado à Selic, o que pode afetar a rentabilidade dos investidores. Se essa mudança tributária se concretizar, pode haver uma reavaliação das aplicações em renda fixa atrelada à taxa básica de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787769043.6808426,
-    "titulo": "“A gente prefere o prefixado”: analista da Empiricus vê prêmio na curva e oportunidade na renda fixa",
-    "titulo_original": "“A gente prefere o prefixado”: analista da Empiricus vê prêmio na curva e oportunidade na renda fixa",
-    "fonte": "Money Times",
-    "publicado": "26/08 14:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A preferência por títulos prefixados sugere uma expectativa de que as taxas de juros podem se manter elevadas ou subir. Se o Banco Central sinalizar uma postura mais dura em relação à Selic, isso reforçaria essa visão; caso contrário, a atratividade dos prefixados pode diminuir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787769047.313298,
-    "titulo": "Dívida pública federal vai a R$ 9,29 trilhões e governo amplia uso de títulos atrelados à Selic",
-    "titulo_original": "Dívida pública federal vai a R$ 9,29 trilhões e governo amplia uso de títulos atrelados à Selic - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 14:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da dívida pública e a maior emissão de títulos atrelados à Selic indicam uma estratégia do governo para gerenciar o endividamento, o que pode ter implicações na política monetária. Se a emissão de títulos atrelados à Selic continuar a crescer, isso pode pressionar as taxas de juros de longo prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787769050.830814,
-    "titulo": "Na curva a termo, mercado precifica 90% de chance de corte na Selic em setembro – e vê espaço para mais um corte",
-    "titulo_original": "Na curva a termo, mercado precifica 90% de chance de corte na Selic em setembro – e vê espaço para mais um corte",
-    "fonte": "Money Times",
-    "publicado": "26/08 14:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta probabilidade de corte na Selic em setembro, precificada pelo mercado, sugere uma expectativa de continuidade da política monetária expansionista. Se o Banco Central confirmar esse corte, isso pode estimular a atividade econômica, mas também pode gerar preocupações com a inflação futura se os dados de preços não se mantiverem benignos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787769054.9059303,
-    "titulo": "Bolsas da Europa têm tom misto com otimismo sobre Ormuz",
-    "titulo_original": "Bolsas da Europa têm tom misto com otimismo sobre Ormuz",
-    "fonte": "Money Times",
-    "publicado": "26/08 14:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O otimismo em relação a uma resolução diplomática no Oriente Médio, que impacta os preços do petróleo, pode ter reflexos em outros mercados globais. Se a tensão na região aumentar, os preços do petróleo podem voltar a subir, afetando a inflação e a atividade econômica em diversos países.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787776243.2803261,
-    "titulo": "Salário mínimo 2027: veja o valor previsto pelo governo federal",
-    "titulo_original": "Salário mínimo 2027: veja o valor previsto pelo governo federal",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 16:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O reajuste do salário mínimo acima da inflação prevista pode ter um impacto significativo no poder de compra da população e nos gastos públicos. Se o INPC de novembro vier acima do esperado, o valor final do salário mínimo pode ser ainda maior, pressionando o orçamento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787776248.0841904,
-    "titulo": "Motta indica petista para presidir Comissão Mista da MP da 'taxa das blusinhas'",
-    "titulo_original": "Motta indica petista para presidir Comissão Mista da MP da 'taxa das blusinhas'",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 17:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A indicação de um petista para a relatoria da MP sugere um alinhamento político para a aprovação da medida. Se a proposta for aprovada como esperado, a desoneração de importações de baixo valor pode impactar o varejo e a arrecadação fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787776252.9705603,
-    "titulo": "Petróleo tem queda, mas fica longe das mínimas com novas tensões na Ucrânia",
-    "titulo_original": "Petróleo tem queda, mas fica longe das mínimas com novas tensões na Ucrânia",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 16:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A intensificação das tensões na Ucrânia pode gerar volatilidade nos preços do petróleo, com potencial para novas altas caso a oferta seja efetivamente impactada. Se o conflito se agravar, o Brent pode testar níveis de resistência mais altos; caso contrário, a pressão de baixa pode se intensificar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787776259.2149587,
-    "titulo": "Receita global de chips supera US$ 1,56 trilhão em 2026, salto de 92,8%, aponta Gartner",
-    "titulo_original": "Receita global de chips supera US$ 1,56 trilhão em 2026, salto de 92,8%, aponta Gartner",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 17:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O forte crescimento projetado para o setor de semicondutores, especialmente com o avanço da IA, sugere um cenário de alta demanda por tecnologia. Se os resultados da Nvidia superarem as expectativas, isso pode reforçar a tendência de valorização de empresas ligadas ao setor de tecnologia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787776259.2166116,
-    "titulo": "Wall Street fecham no vermelho com inflação acima do esperado e à espera de Nvidia (NVDA)",
-    "titulo_original": "Wall Street fecham no vermelho com inflação acima do esperado e à espera de Nvidia (NVDA)",
-    "fonte": "Money Times",
-    "publicado": "26/08 17:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A inflação persistente nos EUA aumenta a probabilidade de o Federal Reserve manter a taxa de juros em patamares elevados por mais tempo, o que pode pressionar os mercados de renda variável. Se os resultados da Nvidia vierem abaixo do esperado, isso pode intensificar a queda em Wall Street.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787776259.2181873,
-    "titulo": "Morgan Stanley vê dólar a R$ 6 e juros a 18% sem ajuste fiscal | Faria Lima News",
-    "titulo_original": "Morgan Stanley vê dólar a R$ 6 e juros a 18% sem ajuste fiscal | Faria Lima News - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 15:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Morgan Stanley para o dólar e os juros no Brasil sem ajuste fiscal é um alerta sobre os riscos econômicos do país. Se o governo não implementar medidas fiscais eficazes, a desvalorização do real e a alta da Selic podem se concretizar, impactando a inflação e o custo de vida.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787776259.219989,
-    "titulo": "UE mantém diálogo com a Meta sobre design viciante, diz porta-voz da Comissão Europeia",
-    "titulo_original": "UE mantém diálogo com a Meta sobre design viciante, diz porta-voz da Comissão Europeia",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 16:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A continuidade do diálogo entre a UE e a Meta indica que a pressão regulatória sobre as práticas de design de redes sociais persiste. Se a Meta não apresentar compromissos satisfatórios, a União Europeia pode impor novas restrições ou multas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787776259.2215717,
-    "titulo": "O acordo de US$ 17 bilhões da Meta é só o começo",
-    "titulo_original": "O acordo de US$ 17 bilhões da Meta é só o começo",
-    "fonte": "Folha Mercado",
-    "publicado": "26/08 15:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O acordo bilionário da Meta com os estados americanos sinaliza uma maior responsabilização das plataformas digitais por seus impactos na saúde mental de jovens. Se outras empresas de tecnologia enfrentarem processos semelhantes, isso pode levar a mudanças significativas em seus modelos de negócio e práticas de coleta de dados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787776259.223167,
-    "titulo": "Credores estrangeiros lideram apoio à reestruturação da Braskem",
-    "titulo_original": "Credores estrangeiros lideram apoio à reestruturação da Braskem",
-    "fonte": "InvestNews",
-    "publicado": "26/08 15:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O apoio de credores estrangeiros à reestruturação da Braskem é um sinal positivo para a empresa, indicando confiança na sua capacidade de honrar seus compromissos. Se a adesão continuar a crescer, isso pode facilitar a aprovação do plano e estabilizar a situação financeira da companhia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787781648.9836702,
-    "titulo": "BC prepara medidas para mitigar riscos do uso de modalidades de crédito mais onerosas",
-    "titulo_original": "BC prepara medidas para mitigar riscos do uso de modalidades de crédito mais onerosas",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 18:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A comunicação do BC sobre a preparação de medidas para mitigar riscos no crédito pode indicar uma preocupação com o endividamento das famílias. Se essas medidas forem implementadas de forma restritiva, podem impactar o consumo e a atividade econômica; caso contrário, podem apenas reforçar a supervisão sem efeitos macroeconômicos significativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787781653.4406753,
-    "titulo": "Dólar ganha força ante real após divulgação de dados da economia dos EUA",
-    "titulo_original": "Dólar ganha força ante real após divulgação de dados da economia dos EUA - Notícias Agrícolas",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 14:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O fortalecimento do dólar ante o real, após dados econômicos dos EUA, sugere que os números americanos podem ter reforçado expectativas de juros mais altos nos EUA ou indicado uma economia mais resiliente lá. Se os dados dos EUA continuarem a apontar para força econômica e juros elevados, isso pode manter o dólar forte frente ao real, pressionando a moeda brasileira. A divulgação de dados de inflação ou emprego no Brasil também será crucial para o comportamento do câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787781657.8838856,
-    "titulo": "Juros futuros fecham perto dos ajustes com inflação dos EUA e deflação do IPCA-15",
-    "titulo_original": "Juros futuros fecham perto dos ajustes com inflação dos EUA e deflação do IPCA-15",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 17:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A reação dos juros futuros a dados de inflação nos EUA e no Brasil indica a sensibilidade do mercado a esses indicadores. Se a inflação americana continuar elevada, pode reforçar a expectativa de juros altos nos EUA, impactando as taxas domésticas. A deflação no IPCA-15 brasileiro pode dar algum fôlego ao Banco Central, mas a persistência da inflação global e a trajetória dos juros americanos serão determinantes. Acompanhar a ata do Fed e as próximas decisões do Copom será crucial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787781662.6371846,
-    "titulo": "Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central",
-    "titulo_original": "Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 14:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A possibilidade de Trump remodelar o comando do Fed, caso seja eleito, pode gerar incertezas sobre a condução da política monetária nos EUA. Se ele indicar nomes com viés mais expansionista ou menos focado no controle da inflação, isso poderia impactar as expectativas de juros e, consequentemente, os mercados globais. Acompanhar as indicações e a retórica de Trump em relação ao Fed será fundamental para entender os possíveis cenários.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787781679.6195598,
-    "titulo": "investingLive Americas FX news wrap 26 Aug O USD está majoritariamente em alta com rendimentos mais altos como catalisador",
-    "titulo_original": "investingLive Americas FX news wrap 26 Aug  The USD is mostly higher with higher yields the catalyst",
-    "fonte": "ForexLive",
-    "publicado": "26/08 17:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do dólar impulsionada por rendimentos mais altos nos EUA sugere um cenário de aperto monetário ou expectativas de juros elevados no país. Se os rendimentos continuarem a subir, isso pode atrair capital para os EUA, potencialmente pressionando outras moedas, incluindo o real. A divulgação de resultados de empresas como a Nvidia pode gerar volatilidade adicional nos mercados acionários globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787781679.620928,
-    "titulo": "TCU vê risco relevante de frustração de receitas no Orçamento de 2026",
-    "titulo_original": "TCU vê risco relevante de frustração de receitas no Orçamento de 2026",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 18:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação do TCU sobre o risco de frustração de receitas no Orçamento de 2026 é um sinal de alerta para as contas públicas brasileiras. Se a arrecadação efetivamente ficar aquém do esperado, isso pode pressionar o déficit fiscal e a dívida pública, aumentando a percepção de risco do país. A forma como o governo reagirá a essa projeção, seja com cortes de gastos ou busca por novas receitas, será crucial para o cenário fiscal.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787781679.6221383,
-    "titulo": "Ibovespa fecha estável após inflação americana acima do previsto",
-    "titulo_original": "Ibovespa fecha estável após inflação americana acima do previsto",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 17:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O fechamento estável do Ibovespa, influenciado pela inflação americana acima do previsto, demonstra a sensibilidade do mercado local a indicadores externos. Se a inflação nos EUA continuar alta, pode levar a juros mais elevados por lá, o que tende a desestimular o fluxo de capital para mercados emergentes como o Brasil. A recuperação do fluxo estrangeiro e local, mencionada na notícia, pode ser temporária se o cenário externo se deteriorar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787781679.7764761,
-    "titulo": "Ibovespa B3 oscila positivamente em 0,01% em dia de prévia da inflação; dólar sobe a R$ 5,15",
-    "titulo_original": "Ibovespa B3 oscila positivamente em 0,01% em dia de prévia da inflação; dólar sobe a R$ 5,15 - Bora Investir",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/08 18:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A leve alta do Ibovespa e a valorização do dólar em um dia de prévia da inflação indicam um cenário de cautela. Se a inflação medida pela prévia se mostrar acima das expectativas, isso pode reforçar a pressão sobre o Banco Central para manter uma política monetária mais restritiva, impactando negativamente o mercado acionário e sustentando o dólar. Acompanhar os detalhes da prévia da inflação será fundamental para entender a direção futura.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787781679.7777493,
-    "titulo": "Mais um bancão gringo rebaixa recomendação de ações brasileiras — e o risco Brasil segue no radar",
-    "titulo_original": "Mais um bancão gringo rebaixa recomendação de ações brasileiras — e o risco Brasil segue no radar",
-    "fonte": "Money Times",
-    "publicado": "26/08 18:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O rebaixamento da recomendação de ações brasileiras pelo Morgan Stanley reflete preocupações com o cenário macroeconômico e fiscal do país. Se as incertezas fiscais persistirem ou se a desaceleração econômica se aprofundar, isso pode levar a uma saída adicional de capital estrangeiro, pressionando o mercado acionário. Por outro lado, avanços concretos na agenda fiscal poderiam reverter essa percepção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1787787035.169138,
-    "titulo": "Susep suspende venda de seguro viagem pela Generali",
-    "titulo_original": "Susep suspende venda de seguro viagem pela Generali",
-    "fonte": "Valor Economico",
-    "publicado": "26/08 19:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Susep indica um rigor maior na fiscalização do setor de seguros. Se a Generali não corrigir as falhas apontadas, a suspensão pode se prolongar, afetando a oferta de produtos no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787787038.9723792,
-    "titulo": "Exclusivo: Fazenda defende prorrogar imposto sobre exportação de petróleo; petroleiras entram em alerta",
-    "titulo_original": "Exclusivo: Fazenda defende prorrogar imposto sobre exportação de petróleo; petroleiras entram em alerta - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "26/08 14:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A defesa da prorrogação do imposto sobre exportação de petróleo pelo Ministério da Fazenda pode impactar a rentabilidade das petroleiras. Se a decisão for implementada, pode haver reações do setor e discussões sobre a competitividade da produção nacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1787787043.842158,
-    "titulo": "Sobreestadia em portos representa metade das queixas feitas por empresas, diz diretor-geral da Antaq",
-    "titulo_original": "Sobreestadia em portos representa metade das queixas feitas por empresas, diz diretor-geral da Antaq",
-    "fonte": "Folha Mercado",
-    "publicado": "26/08 20:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento das reclamações sobre sobreestadia em portos pode indicar gargalos logísticos que afetam a eficiência do comércio. Se a tendência se mantiver, pode haver pressão por investimentos em infraestrutura portuária ou mudanças regulatórias para agilizar o fluxo de cargas.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1787830271.5700388,
     "titulo": "Desinflação mais cedo leva XP a cortar projeção da Selic de 14% para 13,25%",
     "titulo_original": "Desinflação mais cedo leva XP a cortar projeção da Selic de 14% para 13,25% - InfoMoney",
@@ -1092,6 +739,102 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A abertura de um processo pela DPU contra a Braskem e a União por um prejuízo estimado em R$ 5 bilhões representa um risco regulatório e financeiro para a empresa. Se a ação prosperar e resultar em condenação, pode haver impacto na saúde financeira da Braskem e, potencialmente, em decisões futuras sobre exploração mineral e responsabilidade corporativa no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787916654.26621,
+    "titulo": "IGP-M cai 0,22% em agosto e acumula alta de 2,16% em 12 meses, informa FGV Ibre",
+    "titulo_original": "IGP-M cai 0,22% em agosto e acumula alta de 2,16% em 12 meses, informa FGV Ibre",
+    "fonte": "Valor Economico",
+    "publicado": "28/08 08:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do IGP-M em agosto, embora menor que no mês anterior, indica uma desaceleração em relação a períodos anteriores. Se a tendência de queda se mantiver nos próximos meses, isso pode aliviar pressões inflacionárias em alguns setores; no entanto, a persistência de altas em componentes específicos pode limitar esse efeito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787916658.7216513,
+    "titulo": "Operadores querem renovar frota, mas crédito e juros são entraves, diz CEO da Marcopolo (POMO4); como a empresa contorna isso?",
+    "titulo_original": "Operadores querem renovar frota, mas crédito e juros são entraves, diz CEO da Marcopolo (POMO4); como a empresa contorna isso?",
+    "fonte": "Money Times",
+    "publicado": "28/08 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do CEO da Marcopolo sobre os entraves de crédito e juros para a renovação de frotas de ônibus indica um desafio para o setor. Se os juros permanecerem em patamares elevados, isso pode continuar a limitar a demanda por novos veículos; a capacidade da Marcopolo de contornar esses obstáculos será crucial para seu desempenho futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787916663.2076833,
+    "titulo": "Governo mantém imposto de 12% sobre exportação de petróleo mesmo com disputa judicial",
+    "titulo_original": "Governo mantém imposto de 12% sobre exportação de petróleo mesmo com disputa judicial - VEJA",
+    "fonte": "Google News Commodities",
+    "publicado": "28/08 07:35",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção do imposto de 12% sobre a exportação de petróleo pelo governo, mesmo com disputa judicial, indica uma decisão fiscal consolidada. Se a decisão judicial for desfavorável ao governo, isso pode gerar um impacto fiscal inesperado; caso contrário, a manutenção do imposto pode garantir arrecadação para o Estado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787916667.645694,
+    "titulo": "Como as expectativas de juros mudaram após os eventos desta semana?",
+    "titulo_original": "How have interest rate expectations changed after this week's events?",
+    "fonte": "ForexLive",
+    "publicado": "28/08 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta probabilidade de elevação de juros por bancos centrais como o RBNZ e o ECB sugere um cenário global de aperto monetário. Se essas expectativas se concretizarem, isso pode levar a uma maior aversão ao risco em mercados emergentes; caso contrário, uma postura mais branda por parte dessas autoridades poderia impulsionar fluxos de capital para ativos de maior risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1787916673.015137,
+    "titulo": "Ibovespa busca 8ª alta seguida com presidente do Fed em simpósio nos EUA e petróleo no radar",
+    "titulo_original": "Ibovespa busca 8ª alta seguida com presidente do Fed em simpósio nos EUA e petróleo no radar - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/08 04:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A busca pela oitava alta seguida do Ibovespa, com a participação do presidente do Fed em simpósio e o petróleo no radar, sugere um mercado atento a sinais de política monetária e commodities. Se a fala do presidente do Fed indicar um tom mais dovish, isso pode sustentar a alta do Ibovespa; por outro lado, notícias negativas sobre o petróleo podem gerar volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787916673.0167143,
+    "titulo": "Dólar sobe e fecha a R$ 5,16; Ibovespa avança 0,31%",
+    "titulo_original": "Dólar sobe e fecha a R$ 5,16; Ibovespa avança 0,31% - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/08 04:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar para R$ 5,16 e o avanço do Ibovespa em 0,31% indicam movimentos de mercado em um dia específico. Se a valorização do dólar for impulsionada por fatores externos de aversão ao risco, isso pode pressionar o Ibovespa no curto prazo; caso contrário, a alta da bolsa pode ser sustentada por fluxo de capital doméstico ou otimismo setorial.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1787916673.018215,
+    "titulo": "Governo renova concessão de usina hidrelétrica da Cemig (CMIG4) por mais 30 anos",
+    "titulo_original": "Governo renova concessão de usina hidrelétrica da Cemig (CMIG4) por mais 30 anos",
+    "fonte": "Money Times",
+    "publicado": "28/08 08:27",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A renovação da concessão da usina hidrelétrica da Cemig por mais 30 anos garante a continuidade da operação e a previsibilidade para a empresa e o setor elétrico. Se a decisão for replicada para outras usinas com concessões próximas do vencimento, isso pode trazer estabilidade regulatória para o setor; a falta de detalhes sobre as condições da renovação, porém, pode gerar dúvidas sobre o impacto financeiro.",
     "is_stocks": true
   }
 ]
