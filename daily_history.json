@@ -787,5 +787,19 @@
     "origem": "domestica",
     "leitura_critica": "O encerramento de agosto com o Ibovespa próximo da estabilidade e o dólar em recuo sugere um alívio pontual no mercado brasileiro. Se a tendência de recuo do dólar se mantiver, isso pode ser positivo para a inflação e para a atratividade de ativos locais. No entanto, a proximidade da estabilidade do Ibovespa indica que os fatores que pressionaram o índice no mês ainda podem persistir, exigindo cautela.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788219042.6289158,
+    "titulo": "Inflação? Você quer inflação? Preços de lojas do Reino Unido sobem no ritmo mais rápido desde 2024",
+    "titulo_original": "Inflation? You want inflation? UK shop prices rise at fastest pace since 2024",
+    "fonte": "ForexLive",
+    "publicado": "31/08 20:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento mais rápido nos preços das lojas no Reino Unido sugere que a inflação pode ser mais persistente do que o esperado, o que pode levar o Banco da Inglaterra a manter uma postura mais restritiva em relação aos juros. Se os dados de inflação subsequentes continuarem elevados, as expectativas de corte de juros no Reino Unido podem ser adiadas.",
+    "is_stocks": false
   }
 ]
