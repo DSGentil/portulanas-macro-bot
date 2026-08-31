@@ -661,5 +661,131 @@
     "origem": "externa",
     "leitura_critica": "A implementação de acordos de precificação de medicamentos por parte do governo Trump pode ter implicações para o setor farmacêutico global, impactando custos e lucros. Se esses acordos resultarem em redução de preços, isso pode ter um efeito desinflacionário em alguns setores; caso contrário, pode gerar pressão sobre as empresas envolvidas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788213643.3608222,
+    "titulo": "Governo Lula reserva R$ 44,8 bi para emendas parlamentares no Orçamento de 2027",
+    "titulo_original": "Governo Lula reserva R$ 44,8 bi para emendas parlamentares no Orçamento de 2027",
+    "fonte": "Folha Mercado",
+    "publicado": "31/08 17:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A destinação de R$ 44,8 bilhões para emendas parlamentares no orçamento de 2027 indica um planejamento fiscal que pode impactar as despesas públicas. Se essa verba for utilizada para financiar projetos que aumentem o déficit, isso pode pressionar a dívida pública. Caso contrário, se for alocada de forma eficiente, pode ter um impacto neutro ou positivo na economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788213647.329915,
+    "titulo": "Orçamento de 2027 acionou quatro gatilhos de contenção de gastos",
+    "titulo_original": "Orçamento de 2027 acionou quatro gatilhos de contenção de gastos",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 18:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ativação de gatilhos de contenção de gastos no orçamento de 2027 indica uma tentativa de controle fiscal, com a vedação de novos benefícios tributários e limitação no crescimento de despesas de pessoal. Se essas medidas forem eficazes em reduzir o déficit, isso pode melhorar a percepção de risco fiscal do país. Caso contrário, se o déficit persistir apesar dessas travas, a pressão sobre as contas públicas pode continuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788213651.3168616,
+    "titulo": "Proposta de Orçamento indica salário mínimo de R$ 1.741 em 2027",
+    "titulo_original": "Proposta de Orçamento indica salário mínimo de R$ 1.741 em 2027",
+    "fonte": "Folha Mercado",
+    "publicado": "31/08 17:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A previsão de um salário mínimo de R$ 1.741 em 2027, apresentada no projeto orçamentário, indica uma política de reajuste que pode impactar o poder de compra e os custos para as empresas. Se este valor estiver alinhado com a inflação e o crescimento da produtividade, o impacto pode ser moderado. Caso contrário, um aumento real expressivo pode gerar pressões inflacionárias e sobre os gastos públicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788213655.5987108,
+    "titulo": "Guerra entre Irã e EUA cada vez mais deixa de ser bilateral, afirma jornalista especializada",
+    "titulo_original": "Guerra entre Irã e EUA cada vez mais deixa de ser bilateral, afirma jornalista especializada - Brasil de Fato",
+    "fonte": "Google News Geopolitica",
+    "publicado": "31/08 17:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A afirmação de que o conflito entre Irã e EUA está se tornando menos bilateral sugere uma potencial escalada e envolvimento de outros atores regionais ou globais. Se essa dinâmica se confirmar, o risco de instabilidade geopolítica global aumentaria, o que poderia afetar mercados de commodities e fluxos de capital. É importante acompanhar os desdobramentos para entender o alcance dessa expansão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788213661.153762,
+    "titulo": "Isaac Sidney deixará presidência-executiva da Febraban; Leandro Vilain assume",
+    "titulo_original": "Isaac Sidney deixará presidência-executiva da Febraban; Leandro Vilain assume",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 18:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A mudança na liderança da Febraban representa uma transição institucional no setor bancário brasileiro. Se a nova gestão focar em pautas que impactem a regulamentação ou a política monetária, isso pode ter reflexos no mercado financeiro. No entanto, a notícia descreve a mudança como planejada e harmoniosa, sem indicar alterações abruptas de rumo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788213661.1551383,
+    "titulo": "Ibovespa B3 sobe 1%, com ações da Petrobras em destaque; dólar vai a R$ 5,18",
+    "titulo_original": "Ibovespa B3 sobe 1%, com ações da Petrobras em destaque; dólar vai a R$ 5,18 - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/08 18:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, com destaque para Petrobras, sugere um otimismo pontual no mercado acionário brasileiro. Se a valorização das ações da Petrobras estiver atrelada a notícias específicas da empresa, o movimento pode ser isolado. Caso contrário, se refletir um sentimento geral de melhora no setor de commodities, pode indicar uma tendência mais ampla.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788213661.1563628,
+    "titulo": "Ibovespa consegue 9ª alta seguida, mas mês não sai do negativo; Petrobras dispara 3%",
+    "titulo_original": "Ibovespa consegue 9ª alta seguida, mas mês não sai do negativo; Petrobras dispara 3% - infomoney.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "31/08 17:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A sequência de altas do Ibovespa, apesar de um fechamento mensal negativo, indica volatilidade e recuperação pontual. Se a força das ações da Petrobras continuar, isso pode sustentar o índice no curto prazo. No entanto, a persistência da queda mensal sugere que fatores macroeconômicos mais amplos podem estar limitando a recuperação geral do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788213661.1576118,
+    "titulo": "Banco do Brasil (BBSA3) tem ‘pernada’ de 16% em dias; o que está por trás da alta?",
+    "titulo_original": "Banco do Brasil (BBSA3) tem ‘pernada’ de 16% em dias; o que está por trás da alta?",
+    "fonte": "Money Times",
+    "publicado": "31/08 18:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte valorização das ações do Banco do Brasil pode estar ligada à recuperação geral do Ibovespa ou a fatores específicos da empresa. Se a alta for sustentada por fundamentos sólidos da companhia, como resultados positivos ou melhora na gestão, o movimento pode continuar. Caso contrário, se for apenas um reflexo de movimentos de curto prazo do mercado, a tendência pode se reverter.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788213661.158851,
+    "titulo": "Ibovespa sobe 1% com Petrobras e disputa mais apertada entre Lula e Flávio Bolsonaro",
+    "titulo_original": "Ibovespa sobe 1% com Petrobras e disputa mais apertada entre Lula e Flávio Bolsonaro - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "31/08 14:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, associada à Petrobras e à disputa eleitoral mais apertada, indica que o mercado está reagindo a fatores corporativos e políticos. Se a Petrobras continuar a apresentar bons resultados, isso pode sustentar o índice. No entanto, a incerteza política gerada pela disputa eleitoral pode limitar a recuperação do mercado, especialmente se houver sinais de instabilidade ou mudanças abruptas nas políticas econômicas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788213661.1600919,
+    "titulo": "Ibovespa sobe 1% e encerra agosto perto da estabilidade; dólar recua a R$ 5,19",
+    "titulo_original": "Ibovespa sobe 1% e encerra agosto perto da estabilidade; dólar recua a R$ 5,19 - Bloomberg Línea Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/08 18:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O encerramento de agosto com o Ibovespa próximo da estabilidade e o dólar em recuo sugere um alívio pontual no mercado brasileiro. Se a tendência de recuo do dólar se mantiver, isso pode ser positivo para a inflação e para a atratividade de ativos locais. No entanto, a proximidade da estabilidade do Ibovespa indica que os fatores que pressionaram o índice no mês ainda podem persistir, exigindo cautela.",
+    "is_stocks": true
   }
 ]
