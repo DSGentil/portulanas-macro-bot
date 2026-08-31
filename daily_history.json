@@ -496,5 +496,88 @@
     "origem": "domestica",
     "leitura_critica": "A recomendação de compra de ações pelo Itaú BBA sugere que o banco identifica oportunidades de valorização no mercado no curto prazo. Se as ações recomendadas apresentarem o desempenho esperado, isso pode ser um indicativo de força em setores específicos da economia ou de movimentos pontuais no mercado acionário.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788201116.5320246,
+    "titulo": "Dólar recua para R$ 5,18 com disputa presidencial acirrada",
+    "titulo_original": "Dólar recua para R$ 5,18 com disputa presidencial acirrada - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/08 13:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar para R$ 5,18, associada à disputa presidencial acirrada, sugere que a incerteza política está influenciando o câmbio. Se a disputa se intensificar, isso pode gerar mais volatilidade no mercado de câmbio e impactar as expectativas de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788201121.2170773,
+    "titulo": "Safra projeta inflação de 3,9% e Selic a 11% em 2027",
+    "titulo_original": "Safra projeta inflação de 3,9% e Selic a 11% em 2027 - Safra",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/08 14:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As projeções da Safra para inflação e Selic em 2027 indicam uma perspectiva de convergência para níveis mais baixos. Se a inflação se mantiver controlada, o Banco Central pode ter espaço para manter a Selic em patamares mais baixos no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788201125.8823962,
+    "titulo": "Títulos de dívida e iene do Japão sofrem pressão após discurso de Warsh em Jackson Hole",
+    "titulo_original": "Títulos de dívida e iene do Japão sofrem pressão após discurso de Warsh em Jackson Hole",
+    "fonte": "Folha Mercado",
+    "publicado": "31/08 14:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A pressão sobre os títulos de dívida e o iene japonês sugere uma expectativa de aumento de juros no Japão, o que pode afetar o fluxo de capital global. Se o Banco do Japão realmente elevar os juros, isso pode levar a uma valorização do iene e impactar outros mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788201131.7679117,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/08 15:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento ao vivo da cotação do dólar é crucial para entender a dinâmica do mercado de câmbio. Se a moeda apresentar volatilidade significativa, isso pode indicar pressões de juros ou fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788201131.7690198,
+    "titulo": "Julgamento do STF sobre lucros no exterior pode afetar a Vale (VALE3): entenda",
+    "titulo_original": "Julgamento do STF sobre lucros no exterior pode afetar a Vale (VALE3): entenda - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "31/08 12:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF sobre a tributação de lucros no exterior pode ter implicações fiscais significativas para empresas com operações internacionais. Se a decisão for desfavorável à Vale, isso pode afetar seus resultados e dividendos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788201131.770526,
+    "titulo": "Ações de petrolíferas brasileiras sobem em bloco com avanço do petróleo",
+    "titulo_original": "Ações de petrolíferas brasileiras sobem em bloco com avanço do petróleo",
+    "fonte": "Folha Mercado",
+    "publicado": "31/08 14:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta das ações de petrolíferas brasileiras reflete diretamente o aumento dos preços do petróleo no mercado internacional. Se o petróleo continuar em trajetória de alta, isso pode beneficiar os resultados dessas empresas e o desempenho do Ibovespa.",
+    "is_stocks": true
   }
 ]
