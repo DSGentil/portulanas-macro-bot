@@ -62,5 +62,138 @@
     "origem": "domestica",
     "leitura_critica": "A projeção do Morgan Stanley para a taxa Selic após as eleições indica um cenário de alta volatilidade e incerteza para a política monetária brasileira. Se o cenário pós-eleitoral for de maior instabilidade fiscal ou inflacionária, o Banco Central pode ser forçado a manter a taxa em patamares mais elevados por mais tempo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788175849.9639919,
+    "titulo": "Grupo Casas Bahia confirma antecipação de efeitos do seu pedido de recuperação judicial",
+    "titulo_original": "Grupo Casas Bahia confirma antecipação de efeitos do seu pedido de recuperação judicial",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A antecipação dos efeitos da recuperação judicial da Casas Bahia demonstra a gravidade da situação financeira da empresa, com a suspensão de cobranças por 180 dias. A não aprovação imediata do pedido e a solicitação de perícia indicam que a resolução do caso ainda demandará tempo e análise detalhada da saúde financeira da companhia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788175853.596252,
+    "titulo": "Rendimentos de títulos públicos globais sobem com guerra no Irã e ampliam pressão fiscal no G7",
+    "titulo_original": "Rendimentos de títulos públicos globais sobem com guerra no Irã e ampliam pressão fiscal no G7",
+    "fonte": "Folha Mercado",
+    "publicado": "31/08 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O aumento dos rendimentos de títulos públicos globais reflete um cenário de maior aversão ao risco e pode pressionar os custos de financiamento para governos. Se a escalada no Oriente Médio persistir, os rendimentos podem continuar a subir, aumentando a pressão fiscal sobre as economias do G7 e potencialmente impactando as decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788175857.045231,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "31/08 03:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O CPI alemão acima do esperado pode reforçar a necessidade de o BCE manter uma postura cautelosa em relação aos juros. A expectativa de alta de 25 bps já está precificada, mas a comunicação futura do banco central sobre o combate à inflação será crucial para direcionar o mercado. O PMI do Fed de Dallas, por ser um indicador de baixa relevância, tende a ter impacto limitado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788175860.5144176,
+    "titulo": "CAC 40 oscila com alta do petróleo e cautela por Oriente Médio e Fed",
+    "titulo_original": "CAC 40 oscila com alta do petróleo e cautela por Oriente Médio e Fed - ADVFN",
+    "fonte": "Google News Commodities",
+    "publicado": "31/08 07:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A oscilação do CAC 40 reflete a incerteza do mercado diante da alta do petróleo e das preocupações com o Oriente Médio e as decisões do Fed. Se o Fed sinalizar uma postura mais dura em relação aos juros, isso pode aumentar a pressão sobre os mercados globais, enquanto a escalada no Oriente Médio pode sustentar a alta do petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788175865.7565863,
+    "titulo": "Dow Jones Futuro recua e petróleo dispara após novos ataques entre EUA e Irã",
+    "titulo_original": "Dow Jones Futuro recua e petróleo dispara após novos ataques entre EUA e Irã - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "31/08 05:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Dow Jones Futuro e a disparada do petróleo, em resposta a novos ataques entre EUA e Irã, indicam um aumento da aversão ao risco global. Se as tensões geopolíticas se intensificarem, o preço do petróleo pode continuar a subir, impactando a inflação e as decisões de política monetária em diversas economias.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788175865.756963,
+    "titulo": "Ibovespa busca 9ª alta seguida com juros dos EUA e petróleo no foco do mercado",
+    "titulo_original": "Ibovespa busca 9ª alta seguida com juros dos EUA e petróleo no foco do mercado - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "31/08 04:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A busca por uma sequência de altas no Ibovespa sugere um otimismo pontual do mercado, mas a influência dos juros dos EUA e do petróleo indica sensibilidade a fatores externos. Se houver uma alta mais acentuada nos juros americanos ou uma escalada significativa no conflito do Oriente Médio, o cenário para a bolsa brasileira pode mudar rapidamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788175865.7575376,
+    "titulo": "Agro em alta: 3 ações para comprar agora, segundo XP, BTG e Bank of America",
+    "titulo_original": "Agro em alta: 3 ações para comprar agora, segundo XP, BTG e Bank of America",
+    "fonte": "Money Times",
+    "publicado": "31/08 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação das ações do agronegócio, impulsionada pela alta das commodities, sugere um cenário positivo para o setor. As recomendações de compra de instituições financeiras renomadas reforçam essa perspectiva, mas o desempenho futuro dependerá da continuidade da valorização das commodities e das condições macroeconômicas gerais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788175865.758059,
+    "titulo": "Day Trade hoje (29): Ibovespa acumula 8 altas; resistência será rompida?",
+    "titulo_original": "Day Trade hoje (29): Ibovespa acumula 8 altas; resistência será rompida? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "31/08 07:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A sequência de altas do Ibovespa sugere um momento de otimismo no mercado de ações brasileiro. O ponto de atenção agora é o rompimento da resistência, que, se ocorrer, pode indicar uma continuação da tendência de alta; caso contrário, pode haver uma correção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788175865.7585585,
+    "titulo": "Agenda do dia: Dados fiscais, Durigan e Moretti são destaque",
+    "titulo_original": "Agenda do dia: Dados fiscais, Durigan e Moretti são destaque",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 07:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Os dados fiscais e a discussão sobre a 'taxa das blusinhas' são importantes para avaliar a saúde das contas públicas e possíveis mudanças tributárias. A participação dos ministros Durigan e Moretti em um evento do BTG Pactual pode gerar insights sobre as políticas econômicas em andamento e futuras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788175865.7590542,
+    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "31/08 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Acompanhar os fatores que movimentam a Bolsa, o Dólar e os Juros é essencial para entender o comportamento do mercado financeiro. A interconexão entre esses ativos sugere que decisões sobre juros, tanto domésticos quanto internacionais, terão impacto direto no desempenho da bolsa e na cotação da moeda.",
+    "is_stocks": true
   }
 ]
