@@ -195,5 +195,102 @@
     "origem": "domestica",
     "leitura_critica": "Acompanhar os fatores que movimentam a Bolsa, o Dólar e os Juros é essencial para entender o comportamento do mercado financeiro. A interconexão entre esses ativos sugere que decisões sobre juros, tanto domésticos quanto internacionais, terão impacto direto no desempenho da bolsa e na cotação da moeda.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788182143.5629349,
+    "titulo": "Dívida bruta brasileira atinge 82,5% do PIB em julho, maior patamar em cinco anos",
+    "titulo_original": "Dívida bruta brasileira atinge 82,5% do PIB em julho, maior patamar em cinco anos",
+    "fonte": "Folha Mercado",
+    "publicado": "31/08 09:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da dívida bruta para 82,5% do PIB representa um desafio fiscal para o país. Se o governo não conseguir reverter essa trajetória, pode haver pressão por cortes de gastos ou aumento de impostos no futuro, impactando a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788182148.6224432,
+    "titulo": "Estatais federais têm déficit de R$ 8,277 bilhões de janeiro a julho, mostra BC",
+    "titulo_original": "Estatais federais têm déficit de R$ 8,277 bilhões de janeiro a julho, mostra BC",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 09:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O déficit recorde das estatais federais indica uma deterioração da saúde financeira dessas empresas. Se essa situação não for corrigida, pode haver necessidade de aportes do Tesouro Nacional, pressionando ainda mais as contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788182153.337482,
+    "titulo": "Economistas reduzem previsão da inflação e do PIB neste ano",
+    "titulo_original": "Economistas reduzem previsão da inflação e do PIB neste ano",
+    "fonte": "Folha Mercado",
+    "publicado": "31/08 09:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução das projeções de inflação e PIB para este ano sugere um cenário de desaceleração econômica, mas a expectativa de inflação maior em 2027 pode indicar preocupações com a sustentabilidade fiscal ou choques de oferta futuros. Se a inflação em 2027 se concretizar, pode haver pressão por juros mais altos no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788182158.1183517,
+    "titulo": "Focus: dólar no fim de 2026 permaneceu em R$ 5,20 pela 11ª semana consecutiva - UOL Economia",
+    "titulo_original": "Focus: dólar no fim de 2026 permaneceu em R$ 5,20 pela 11ª semana consecutiva - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/08 09:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade na projeção do dólar em R$ 5,20 por 11 semanas seguidas pode indicar uma percepção de equilíbrio no mercado de câmbio, ou uma falta de catalisadores para grandes movimentos. Se houver mudanças significativas na política monetária ou fiscal, essa projeção pode ser alterada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788182164.004861,
+    "titulo": "Mercados europeus fecham: petróleo mantém alta, rendimentos regionais sobem",
+    "titulo_original": "investingLive European markets wrap: Oil holds higher, regional yields push up",
+    "fonte": "ForexLive",
+    "publicado": "31/08 08:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do petróleo, impulsionada por conflitos geopolíticos, pode gerar pressões inflacionárias que, por sua vez, podem levar os bancos centrais a manterem ou aumentarem as taxas de juros. Se a escalada de tensões se intensificar, o cenário de juros mais altos por mais tempo se fortalece globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788182164.0054293,
+    "titulo": "Setor público consolidado tem superávit primário de R$ 1,36 bilhão em julho",
+    "titulo_original": "Setor público consolidado tem superávit primário de R$ 1,36 bilhão em julho",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 08:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O superávit primário de R$ 1,36 bilhão em julho, apesar de positivo, é ofuscado pelo déficit nominal de R$ 97,602 bilhões, impulsionado pela conta de juros. Se a conta de juros continuar elevada, o déficit nominal pode persistir, exigindo atenção à trajetória da dívida pública.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788182164.0062242,
+    "titulo": "Esteves: controle da dívida pública levaria juros a um dígito e teria efeito de ’30 vezes qualquer programa social’",
+    "titulo_original": "Esteves: controle da dívida pública levaria juros a um dígito e teria efeito de ’30 vezes qualquer programa social’",
+    "fonte": "Money Times",
+    "publicado": "31/08 09:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de André Esteves sugere que a consolidação fiscal é um caminho mais eficaz para o desenvolvimento econômico do que programas sociais isolados. Se a dívida pública for controlada, a expectativa é de que as taxas de juros caiam, o que poderia estimular o investimento e o consumo.",
+    "is_stocks": true
   }
 ]
