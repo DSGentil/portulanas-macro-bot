@@ -292,5 +292,81 @@
     "origem": "domestica",
     "leitura_critica": "A declaração de André Esteves sugere que a consolidação fiscal é um caminho mais eficaz para o desenvolvimento econômico do que programas sociais isolados. Se a dívida pública for controlada, a expectativa é de que as taxas de juros caiam, o que poderia estimular o investimento e o consumo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788189344.6821902,
+    "titulo": "Mercado do etanol exige mudanças no modelo tributário e na forma de fiscalização",
+    "titulo_original": "Mercado do etanol exige mudanças no modelo tributário e na forma de fiscalização",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 11:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A demanda por mudanças tributárias e de fiscalização no setor de etanol reflete a busca por maior eficiência e integridade. Se essas mudanças forem implementadas, podem impactar a competitividade e o desenvolvimento do mercado de biocombustíveis e seus derivados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788189348.6893117,
+    "titulo": "Bitcoin cai abaixo de US$ 78 mil em meio à escalada do Irã e receios com juros",
+    "titulo_original": "Bitcoin dips below $78k amid Iran escalation, rate jitters",
+    "fonte": "Investing.com",
+    "publicado": "31/08 10:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Bitcoin pode ser interpretada como uma reação a eventos externos que aumentam a aversão ao risco. Se as tensões geopolíticas diminuírem e as expectativas de juros se estabilizarem, o ativo pode recuperar seu valor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788189352.7042007,
+    "titulo": "Secretário do Tesouro dos EUA Bessent no G20: Irã leva sanções a sério",
+    "titulo_original": "Treas. Sec Bessent at the G20: Iran taking sanctions seriously",
+    "fonte": "ForexLive",
+    "publicado": "31/08 10:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Bessent sugere que as sanções econômicas estão tendo o efeito desejado sobre o Irã, levando a reações militares. Se o Irã continuar a sentir a pressão econômica, pode haver uma escalada de conflitos ou uma busca por negociação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788189356.6994464,
+    "titulo": "Espanha culpa Rússia e Israel por desinformação em crise migratória de Ceuta",
+    "titulo_original": "Espanha culpa Rússia e Israel por desinformação em crise migratória de Ceuta",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 11:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A acusação da Espanha contra Rússia e Israel por desinformação em uma crise migratória pode ter implicações diplomáticas e geopolíticas. Se as evidências forem confirmadas, isso pode gerar tensões entre os países envolvidos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788189361.6232803,
+    "titulo": "Marinho promete nova âncora fiscal e reforma administrativa no primeiro ano de eventual governo Flávio Bolsonaro",
+    "titulo_original": "Marinho promete nova âncora fiscal e reforma administrativa no primeiro ano de eventual governo Flávio Bolsonaro",
+    "fonte": "Money Times",
+    "publicado": "31/08 12:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A promessa de uma nova âncora fiscal e reforma administrativa indica uma intenção de mudança na política econômica. Se eleito, a implementação dessas propostas pode impactar o cenário fiscal do país; a ausência de detalhes concretos no momento gera incerteza.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788189361.6238227,
+    "titulo": "Empresas como Chevron e GE Vernova estão a caminho de assinar acordos definitivos na Venezuela, dizem fontes",
+    "titulo_original": "Empresas como Chevron e GE Vernova estão a caminho de assinar acordos definitivos na Venezuela, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 11:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A aproximação de acordos energéticos na Venezuela por empresas ocidentais pode sinalizar uma mudança no cenário de investimentos no país. Se os acordos forem concretizados, isso pode indicar uma maior estabilidade e abertura para o setor de energia venezuelano.",
+    "is_stocks": true
   }
 ]
