@@ -579,5 +579,87 @@
     "origem": "domestica",
     "leitura_critica": "A alta das ações de petrolíferas brasileiras reflete diretamente o aumento dos preços do petróleo no mercado internacional. Se o petróleo continuar em trajetória de alta, isso pode beneficiar os resultados dessas empresas e o desempenho do Ibovespa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788208246.4881244,
+    "titulo": "Na reta final do mês, dólar cai a R$ 5,18, enquanto Bolsa e petróleo sobem",
+    "titulo_original": "Na reta final do mês, dólar cai a R$ 5,18, enquanto Bolsa e petróleo sobem - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "31/08 13:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar em R$ 5,18 pode indicar um fluxo de capital mais favorável ao Brasil ou uma menor demanda pela moeda americana. Se essa tendência se mantiver, pode haver um alívio na pressão inflacionária importada; se o dólar voltar a subir, isso pode reverter parte desse efeito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788208252.910929,
+    "titulo": "Crédito do BNDES está perto da meta de 2% do PIB e não pode ser menor, diz Mercadante",
+    "titulo_original": "Crédito do BNDES está perto da meta de 2% do PIB e não pode ser menor, diz Mercadante",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 16:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Mercadante sobre a meta de crédito do BNDES indica uma política de expansão do financiamento pelo banco público. Se o BNDES atingir e mantiver essa meta, isso pode estimular o investimento em setores específicos da economia; se houver dificuldades em alcançar ou manter esse patamar, o impacto no crédito pode ser menor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788208258.2052114,
+    "titulo": "Juros futuros têm leve alta em dia de pressão externa na renda fixa local",
+    "titulo_original": "Juros futuros têm leve alta em dia de pressão externa na renda fixa local",
+    "fonte": "Valor Economico",
+    "publicado": "31/08 17:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A pressão externa sobre os juros futuros sugere que o mercado local pode reagir a movimentos globais, mesmo sem dados domésticos relevantes. Se o cenário externo se agravar, a tendência de alta nos juros pode se intensificar; caso contrário, a atenção pode retornar para os fatores domésticos, incluindo as perspectivas eleitorais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788208264.2488706,
+    "titulo": "Calendário econômico e de eventos na Ásia 01 de setembro de 2026 - PMI de Manufatura da China previsto",
+    "titulo_original": "Economic and event calendar in Asia 01 September 2026 - China Manufacturing PMI due",
+    "fonte": "ForexLive",
+    "publicado": "31/08 17:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O PMI de manufatura da China, mesmo em contração, apresentar uma leve melhora pode ser interpretado como um sinal de estabilização da atividade industrial. Se o PMI privado divulgado hoje confirmar essa tendência, isso pode indicar uma recuperação gradual na segunda maior economia do mundo, com potenciais reflexos em cadeias de suprimentos globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788208270.8951504,
+    "titulo": "Wall Street avança mais 1% em agosto, apesar de Oriente Médio; Nasdaq salta 3%",
+    "titulo_original": "Wall Street avança mais 1% em agosto, apesar de Oriente Médio; Nasdaq salta 3%",
+    "fonte": "Money Times",
+    "publicado": "31/08 17:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo reacende preocupações com a inflação, o que pode levar a uma postura mais cautelosa dos bancos centrais. Se os preços do petróleo continuarem em trajetória ascendente, isso pode pressionar a inflação e afetar o ritmo de cortes de juros em economias desenvolvidas; caso contrário, o cenário inflacionário pode se estabilizar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788208270.8958795,
+    "titulo": "Trump anunciará novo acordo de precificação de medicamentos.",
+    "titulo_original": "Trump to announce new drug pricing agreement.",
+    "fonte": "ForexLive",
+    "publicado": "31/08 16:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A implementação de acordos de precificação de medicamentos por parte do governo Trump pode ter implicações para o setor farmacêutico global, impactando custos e lucros. Se esses acordos resultarem em redução de preços, isso pode ter um efeito desinflacionário em alguns setores; caso contrário, pode gerar pressão sobre as empresas envolvidas.",
+    "is_stocks": true
   }
 ]
