@@ -1,202 +1,5 @@
 [
   {
-    "_timestamp": 1788174053.1332226,
-    "titulo": "Milho na máxima em 3 anos e soja a R$ 160: o mercado da semana",
-    "titulo_original": "Milho na máxima em 3 anos e soja a R$ 160: o mercado da semana - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "29/08 13:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Os preços elevados do milho e da soja indicam uma forte demanda e/ou oferta restrita no mercado de commodities agrícolas. Se as condições climáticas continuarem favoráveis para a produção, a oferta pode aumentar, potencialmente pressionando os preços para baixo no médio prazo. Caso contrário, os preços podem se manter elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788174057.3148882,
-    "titulo": "Por que a safra de soja no Brasil pode aumentar o preço do diesel no mundo inteiro",
-    "titulo_original": "Por que a safra de soja no Brasil pode aumentar o preço do diesel no mundo inteiro",
-    "fonte": "InvestNews",
-    "publicado": "30/08 15:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A forte demanda por diesel no Brasil devido ao pico do consumo agrícola, combinada com uma oferta global reduzida, pode criar uma pressão altista nos preços do combustível. Se a safra de soja brasileira for significativamente afetada por condições climáticas adversas, isso pode exacerbar a escassez e elevar ainda mais os custos do diesel globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788174061.502524,
-    "titulo": "Governo Lula retoma negociação com Trump e teme que tarifaço se torne permanente",
-    "titulo_original": "Governo Lula retoma negociação com Trump e teme que tarifaço se torne permanente",
-    "fonte": "Folha Mercado",
-    "publicado": "30/08 23:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A retomada das negociações comerciais entre Brasil e EUA, com o receio de que as tarifas se tornem permanentes, indica um cenário de incerteza nas relações bilaterais. Se um acordo não for alcançado, as tarifas podem continuar a impactar o comércio, afetando setores específicos da economia brasileira e americana.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788174065.699174,
-    "titulo": "Atividade fabril da China supera previsões, mas permanece em contração em agosto",
-    "titulo_original": "China factory activity beats forecasts but stays in contraction in August",
-    "fonte": "ForexLive",
-    "publicado": "30/08 22:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A melhora no PMI manufatureiro chinês, embora ainda em contração, pode oferecer um alívio temporário para o sentimento de risco em relação aos ativos chineses e moedas ligadas a commodities. No entanto, a estagnação do PMI não manufatureiro sugere que a recuperação econômica mais ampla ainda enfrenta desafios, mantendo a pressão sobre Pequim para implementar mais estímulos fiscais e monetários.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788174070.626395,
-    "titulo": "Selic pode ir de 9,75% a 15,5% após as eleições, diz Morgan Stanley",
-    "titulo_original": "Selic pode ir de 9,75% a 15,5% após as eleições, diz Morgan Stanley - Money Times",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/08 10:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Morgan Stanley para a taxa Selic após as eleições indica um cenário de alta volatilidade e incerteza para a política monetária brasileira. Se o cenário pós-eleitoral for de maior instabilidade fiscal ou inflacionária, o Banco Central pode ser forçado a manter a taxa em patamares mais elevados por mais tempo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788175849.9639919,
-    "titulo": "Grupo Casas Bahia confirma antecipação de efeitos do seu pedido de recuperação judicial",
-    "titulo_original": "Grupo Casas Bahia confirma antecipação de efeitos do seu pedido de recuperação judicial",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 08:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A antecipação dos efeitos da recuperação judicial da Casas Bahia demonstra a gravidade da situação financeira da empresa, com a suspensão de cobranças por 180 dias. A não aprovação imediata do pedido e a solicitação de perícia indicam que a resolução do caso ainda demandará tempo e análise detalhada da saúde financeira da companhia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788175853.596252,
-    "titulo": "Rendimentos de títulos públicos globais sobem com guerra no Irã e ampliam pressão fiscal no G7",
-    "titulo_original": "Rendimentos de títulos públicos globais sobem com guerra no Irã e ampliam pressão fiscal no G7",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 06:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O aumento dos rendimentos de títulos públicos globais reflete um cenário de maior aversão ao risco e pode pressionar os custos de financiamento para governos. Se a escalada no Oriente Médio persistir, os rendimentos podem continuar a subir, aumentando a pressão fiscal sobre as economias do G7 e potencialmente impactando as decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788175857.045231,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "31/08 03:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O CPI alemão acima do esperado pode reforçar a necessidade de o BCE manter uma postura cautelosa em relação aos juros. A expectativa de alta de 25 bps já está precificada, mas a comunicação futura do banco central sobre o combate à inflação será crucial para direcionar o mercado. O PMI do Fed de Dallas, por ser um indicador de baixa relevância, tende a ter impacto limitado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788175860.5144176,
-    "titulo": "CAC 40 oscila com alta do petróleo e cautela por Oriente Médio e Fed",
-    "titulo_original": "CAC 40 oscila com alta do petróleo e cautela por Oriente Médio e Fed - ADVFN",
-    "fonte": "Google News Commodities",
-    "publicado": "31/08 07:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A oscilação do CAC 40 reflete a incerteza do mercado diante da alta do petróleo e das preocupações com o Oriente Médio e as decisões do Fed. Se o Fed sinalizar uma postura mais dura em relação aos juros, isso pode aumentar a pressão sobre os mercados globais, enquanto a escalada no Oriente Médio pode sustentar a alta do petróleo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788175865.7565863,
-    "titulo": "Dow Jones Futuro recua e petróleo dispara após novos ataques entre EUA e Irã",
-    "titulo_original": "Dow Jones Futuro recua e petróleo dispara após novos ataques entre EUA e Irã - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "31/08 05:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Dow Jones Futuro e a disparada do petróleo, em resposta a novos ataques entre EUA e Irã, indicam um aumento da aversão ao risco global. Se as tensões geopolíticas se intensificarem, o preço do petróleo pode continuar a subir, impactando a inflação e as decisões de política monetária em diversas economias.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788175865.756963,
-    "titulo": "Ibovespa busca 9ª alta seguida com juros dos EUA e petróleo no foco do mercado",
-    "titulo_original": "Ibovespa busca 9ª alta seguida com juros dos EUA e petróleo no foco do mercado - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "31/08 04:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A busca por uma sequência de altas no Ibovespa sugere um otimismo pontual do mercado, mas a influência dos juros dos EUA e do petróleo indica sensibilidade a fatores externos. Se houver uma alta mais acentuada nos juros americanos ou uma escalada significativa no conflito do Oriente Médio, o cenário para a bolsa brasileira pode mudar rapidamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788175865.7575376,
-    "titulo": "Agro em alta: 3 ações para comprar agora, segundo XP, BTG e Bank of America",
-    "titulo_original": "Agro em alta: 3 ações para comprar agora, segundo XP, BTG e Bank of America",
-    "fonte": "Money Times",
-    "publicado": "31/08 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recuperação das ações do agronegócio, impulsionada pela alta das commodities, sugere um cenário positivo para o setor. As recomendações de compra de instituições financeiras renomadas reforçam essa perspectiva, mas o desempenho futuro dependerá da continuidade da valorização das commodities e das condições macroeconômicas gerais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788175865.758059,
-    "titulo": "Day Trade hoje (29): Ibovespa acumula 8 altas; resistência será rompida?",
-    "titulo_original": "Day Trade hoje (29): Ibovespa acumula 8 altas; resistência será rompida? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "31/08 07:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A sequência de altas do Ibovespa sugere um momento de otimismo no mercado de ações brasileiro. O ponto de atenção agora é o rompimento da resistência, que, se ocorrer, pode indicar uma continuação da tendência de alta; caso contrário, pode haver uma correção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788175865.7585585,
-    "titulo": "Agenda do dia: Dados fiscais, Durigan e Moretti são destaque",
-    "titulo_original": "Agenda do dia: Dados fiscais, Durigan e Moretti são destaque",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 07:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Os dados fiscais e a discussão sobre a 'taxa das blusinhas' são importantes para avaliar a saúde das contas públicas e possíveis mudanças tributárias. A participação dos ministros Durigan e Moretti em um evento do BTG Pactual pode gerar insights sobre as políticas econômicas em andamento e futuras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788175865.7590542,
-    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "31/08 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Acompanhar os fatores que movimentam a Bolsa, o Dólar e os Juros é essencial para entender o comportamento do mercado financeiro. A interconexão entre esses ativos sugere que decisões sobre juros, tanto domésticos quanto internacionais, terão impacto direto no desempenho da bolsa e na cotação da moeda.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788182143.5629349,
     "titulo": "Dívida bruta brasileira atinge 82,5% do PIB em julho, maior patamar em cinco anos",
     "titulo_original": "Dívida bruta brasileira atinge 82,5% do PIB em julho, maior patamar em cinco anos",
@@ -1178,6 +981,76 @@
     ],
     "origem": "externa",
     "leitura_critica": "O PMI de manufatura é um indicador de atividade econômica. Um resultado acima do esperado sugere resiliência no setor, o que pode ser positivo para a demanda global. No entanto, a notícia aponta para desaceleração na produção e declínio em novos pedidos de exportação, indicando nuances no quadro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788287441.7822483,
+    "titulo": "PIB cresce 0,5% no segundo trimestre e reforça cenário de desaceleração no país",
+    "titulo_original": "PIB cresce 0,5% no segundo trimestre e reforça cenário de desaceleração no país",
+    "fonte": "InvestNews",
+    "publicado": "01/09 10:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O dado de PIB sugere uma desaceleração econômica, com o consumo das famílias sendo impactado negativamente por juros altos. Se a tendência de desaceleração se confirmar nos próximos trimestres, o Banco Central pode ter mais espaço para reduzir a taxa Selic; caso contrário, a persistência da inflação pode forçar a manutenção dos juros em patamares elevados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788287445.6201847,
+    "titulo": "Sustentado por investimento e estoques, PIB mostra fraqueza, mesmo com alta de 0,5%, apontam economistas",
+    "titulo_original": "Sustentado por investimento e estoques, PIB mostra fraqueza, mesmo com alta de 0,5%, apontam economistas",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 14:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise dos economistas sugere que o crescimento do PIB, embora positivo, é frágil e sustentado por fatores não relacionados ao consumo. Se os investimentos e estoques não mantiverem o ritmo, a economia pode desacelerar ainda mais; caso contrário, a resiliência desses componentes pode sustentar o crescimento, apesar da fraqueza no consumo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788287449.439057,
+    "titulo": "Análise: PIB preserva corte da Selic, mas não autoriza pressa",
+    "titulo_original": "Análise: PIB preserva corte da Selic, mas não autoriza pressa - cnnbrasil.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/09 11:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise sobre o PIB indica que o cenário atual não justifica pressa na redução da Selic. Se os próximos dados de atividade econômica mostrarem fraqueza adicional, o Banco Central pode se sentir mais confortável para acelerar o corte de juros; caso contrário, a manutenção de um ritmo mais cauteloso pode ser mantida.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788287453.2842028,
+    "titulo": "Soja e carnes puxam PIB da agropecuária, mas próximos resultados devem desacelerar",
+    "titulo_original": "Soja e carnes puxam PIB da agropecuária, mas próximos resultados devem desacelerar - Globo Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "01/09 11:39",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aponta para um desempenho positivo recente do agronegócio, mas com expectativa de desaceleração futura. Se a desaceleração se concretizar, isso pode impactar negativamente o crescimento geral do PIB; caso contrário, a força do setor pode continuar a sustentar a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788287457.8090317,
+    "titulo": "Petróleo amplia valorização com novos ataques no Oriente Médio",
+    "titulo_original": "Petróleo amplia valorização com novos ataques no Oriente Médio",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 15:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A valorização do petróleo, impulsionada por tensões geopolíticas no Oriente Médio, pode gerar pressões inflacionárias globais. Se a situação se agravar, o aumento nos custos de energia pode impactar o consumo e a produção; se as tensões diminuírem, os preços do petróleo podem recuar, aliviando pressões inflacionárias.",
     "is_stocks": true
   }
 ]
