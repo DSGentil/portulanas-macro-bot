@@ -1,133 +1,5 @@
 [
   {
-    "_timestamp": 1788194741.0429993,
-    "titulo": "Durigan promete ajuste fiscal sem novos impostos e corte de gastos obrigatórios para abrir espaço no Orçamento",
-    "titulo_original": "Durigan promete ajuste fiscal sem novos impostos e corte de gastos obrigatórios para abrir espaço no Orçamento",
-    "fonte": "Money Times",
-    "publicado": "31/08 13:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A promessa de ajuste fiscal sem aumento de impostos, focando em cortes de gastos obrigatórios, sugere uma estratégia de controle de despesas mais rigorosa. Se a redução do ritmo de crescimento das despesas obrigatórias for efetiva, isso pode contribuir para a melhora das contas públicas e a abertura de espaço no orçamento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788194744.579358,
-    "titulo": "Durigan defende regra fiscal reforçada e sugere controles de fluxo para políticas sociais",
-    "titulo_original": "Durigan defende regra fiscal reforçada e sugere controles de fluxo para políticas sociais",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 11:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A defesa de Durigan por um reforço na regra fiscal e a sugestão de controle de fluxo para políticas sociais indicam uma busca por maior flexibilidade orçamentária. Se essa proposta for implementada, pode haver uma readequação de gastos públicos, com potencial impacto na alocação de recursos para áreas sociais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788194748.0794337,
-    "titulo": "Durigan diz que Brasil precisa de juros civilizados e promete superávits a partir de 2027",
-    "titulo_original": "Durigan diz que Brasil precisa de juros civilizados e promete superávits a partir de 2027",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 11:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A promessa de superávits primários a partir de 2027, aliada à defesa por 'juros civilizados', sugere um plano de longo prazo para a estabilização fiscal e monetária do país. Se o governo conseguir cumprir as metas de superávit, isso pode criar um ambiente mais favorável para a redução da taxa de juros no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788194751.5641327,
-    "titulo": "Aporte não é Pix de R$ 6 bilhões aos Correios, diz ministro do Planejamento",
-    "titulo_original": "Aporte não é Pix de R$ 6 bilhões aos Correios, diz ministro do Planejamento",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 12:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro indica que o aporte aos Correios não é uma simples transferência de recursos, mas sim condicionado a melhorias na gestão e saúde financeira da empresa. Se as contrapartidas não forem cumpridas, o aporte pode ser revisto, impactando o planejamento orçamentário.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788194756.279136,
-    "titulo": "Bolsas da Europa recuam com avanço do petróleo e pressão de juros",
-    "titulo_original": "Bolsas da Europa recuam com avanço do petróleo e pressão de juros",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 13:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A pressão combinada da alta nos juros e nos preços do petróleo pode indicar um cenário de stagflation na Europa, caso a tendência se mantenha. Se os bancos centrais europeus optarem por combater a inflação com juros mais altos, isso pode desacelerar ainda mais a atividade econômica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788194756.2800782,
-    "titulo": "El-Erian diz que intervenção do Tesouro dos EUA em Treasuries mostra fraqueza e critica erros do Fed",
-    "titulo_original": "El-Erian diz que intervenção do Tesouro dos EUA em Treasuries mostra fraqueza e critica erros do Fed",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 13:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A crítica de El-Erian à intervenção do Tesouro americano e aos erros do Fed sugere que a política fiscal e monetária dos EUA pode estar em um caminho instável. Se os compradores de títulos americanos se tornarem menos confiáveis, isso pode pressionar os rendimentos dos Treasuries e afetar o custo de capital globalmente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788194756.2809207,
-    "titulo": "Ibovespa avança 1,5% impulsionado por Petrobras e cenário eleitoral mais acirrado",
-    "titulo_original": "Ibovespa avança 1,5% impulsionado por Petrobras e cenário eleitoral mais acirrado - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "31/08 10:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O avanço do Ibovespa, influenciado pela Petrobras e pelo cenário eleitoral, sugere que o mercado está precificando um ambiente de maior volatilidade política. Se o cenário eleitoral se tornar mais definido, isso pode gerar novas ondas de movimentação no mercado acionário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788194756.2817802,
-    "titulo": "Ibovespa Futuro sobe mais de 1% após novas pesquisas eleitorais",
-    "titulo_original": "Ibovespa Futuro sobe mais de 1% após novas pesquisas eleitorais - infomoney.com.br",
-    "fonte": "Google News Acoes",
-    "publicado": "31/08 09:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa Futuro, reagindo a novas pesquisas eleitorais, indica que o mercado está precificando um cenário político mais favorável ou com menor incerteza. Se as pesquisas continuarem a apontar para um resultado que o mercado considera positivo, isso pode sustentar a tendência de alta no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788194756.282646,
-    "titulo": "Compre Santander (SANB11), Vibra (VBBR3) e outras 3 ações para ganhar mais de 6% nesta semana, segundo Itaú BBA",
-    "titulo_original": "Compre Santander (SANB11), Vibra (VBBR3) e outras 3 ações para ganhar mais de 6% nesta semana, segundo Itaú BBA",
-    "fonte": "Money Times",
-    "publicado": "31/08 12:27",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de compra de ações pelo Itaú BBA sugere que o banco identifica oportunidades de valorização no mercado no curto prazo. Se as ações recomendadas apresentarem o desempenho esperado, isso pode ser um indicativo de força em setores específicos da economia ou de movimentos pontuais no mercado acionário.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788201116.5320246,
     "titulo": "Dólar recua para R$ 5,18 com disputa presidencial acirrada",
     "titulo_original": "Dólar recua para R$ 5,18 com disputa presidencial acirrada - ISTOÉ DINHEIRO",
@@ -1105,6 +977,70 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A notícia trata de uma análise do Cade sobre uma operação de mercado específica, sem indicar uma decisão final ou impacto macroeconômico amplo. Se o Cade aprovar a operação, isso pode ser visto como um sinal de que o ambiente regulatório para fusões e aquisições está funcionando. Contudo, a relevância para o mercado em geral depende do porte da operação e de possíveis implicações setoriais que não são detalhadas no resumo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788305438.4837608,
+    "titulo": "Senado aprova projeto que cria o Redata",
+    "titulo_original": "Senado aprova projeto que cria o Redata",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 20:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do Redata representa um incentivo fiscal concreto para o setor de data centers no Brasil. Se a sanção presidencial ocorrer sem vetos, o impacto na atração de investimentos para infraestrutura de TI pode ser significativo; caso contrário, a postergação ou alteração das regras pode adiar esses efeitos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788305442.2918725,
+    "titulo": "Cada real adicionado no combustível de aviação reduz 225 mil passageiros, diz entidade que reúne aéreas",
+    "titulo_original": "Cada real adicionado no combustível de aviação reduz 225 mil passageiros, diz entidade que reúne aéreas",
+    "fonte": "Folha Mercado",
+    "publicado": "01/09 20:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do custo do combustível de aviação impacta diretamente o setor aéreo, reduzindo o número de passageiros e elevando os gastos das companhias. Se essa tendência de alta nos custos persistir, pode haver pressão inflacionária em serviços relacionados ao transporte aéreo e uma contração na atividade do setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788305446.0859208,
+    "titulo": "Dólar cai 0,47%, a R$ 5,15, em sessão positiva para ativos brasileiros",
+    "titulo_original": "Dólar cai 0,47%, a R$ 5,15, em sessão positiva para ativos brasileiros - infomoney.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/09 17:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar e a sessão positiva para ativos brasileiros sugerem um cenário de maior apetite por risco no mercado doméstico. Se essa tendência se mantiver, pode indicar um fluxo de capital favorável ao Brasil; caso contrário, reversões rápidas podem ocorrer dependendo de fatores externos ou domésticos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788305449.9067118,
+    "titulo": "Dólar pode subir com qualquer resultado da eleição; entenda o que está em jogo",
+    "titulo_original": "Dólar pode subir com qualquer resultado da eleição; entenda o que está em jogo - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/09 18:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A possibilidade de o dólar subir com qualquer resultado eleitoral sugere que o mercado precifica um risco político elevado no Brasil. Se a eleição gerar instabilidade ou incertezas sobre a condução econômica futura, o dólar tende a se valorizar; se um resultado trouxer maior clareza e previsibilidade, a pressão de alta pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788305454.5424924,
+    "titulo": "B3 (B3SA3) vence disputa bilionária com a Receita Federal; confira valor",
+    "titulo_original": "B3 (B3SA3) vence disputa bilionária com a Receita Federal; confira valor",
+    "fonte": "Money Times",
+    "publicado": "01/09 19:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A vitória da B3 em processos tributários no CARF representa uma redução de passivos fiscais para a empresa. Se decisões semelhantes ocorrerem em outros casos de grande vulto, isso pode indicar uma tendência de maior flexibilidade ou revisão em certas cobranças fiscais; caso contrário, a manutenção da postura rigorosa da Receita Federal pode prevalecer.",
     "is_stocks": true
   }
 ]
