@@ -1,81 +1,5 @@
 [
   {
-    "_timestamp": 1788189344.6821902,
-    "titulo": "Mercado do etanol exige mudanças no modelo tributário e na forma de fiscalização",
-    "titulo_original": "Mercado do etanol exige mudanças no modelo tributário e na forma de fiscalização",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 11:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A demanda por mudanças tributárias e de fiscalização no setor de etanol reflete a busca por maior eficiência e integridade. Se essas mudanças forem implementadas, podem impactar a competitividade e o desenvolvimento do mercado de biocombustíveis e seus derivados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788189348.6893117,
-    "titulo": "Bitcoin cai abaixo de US$ 78 mil em meio à escalada do Irã e receios com juros",
-    "titulo_original": "Bitcoin dips below $78k amid Iran escalation, rate jitters",
-    "fonte": "Investing.com",
-    "publicado": "31/08 10:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Bitcoin pode ser interpretada como uma reação a eventos externos que aumentam a aversão ao risco. Se as tensões geopolíticas diminuírem e as expectativas de juros se estabilizarem, o ativo pode recuperar seu valor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788189352.7042007,
-    "titulo": "Secretário do Tesouro dos EUA Bessent no G20: Irã leva sanções a sério",
-    "titulo_original": "Treas. Sec Bessent at the G20: Iran taking sanctions seriously",
-    "fonte": "ForexLive",
-    "publicado": "31/08 10:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Bessent sugere que as sanções econômicas estão tendo o efeito desejado sobre o Irã, levando a reações militares. Se o Irã continuar a sentir a pressão econômica, pode haver uma escalada de conflitos ou uma busca por negociação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788189356.6994464,
-    "titulo": "Espanha culpa Rússia e Israel por desinformação em crise migratória de Ceuta",
-    "titulo_original": "Espanha culpa Rússia e Israel por desinformação em crise migratória de Ceuta",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 11:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A acusação da Espanha contra Rússia e Israel por desinformação em uma crise migratória pode ter implicações diplomáticas e geopolíticas. Se as evidências forem confirmadas, isso pode gerar tensões entre os países envolvidos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788189361.6232803,
-    "titulo": "Marinho promete nova âncora fiscal e reforma administrativa no primeiro ano de eventual governo Flávio Bolsonaro",
-    "titulo_original": "Marinho promete nova âncora fiscal e reforma administrativa no primeiro ano de eventual governo Flávio Bolsonaro",
-    "fonte": "Money Times",
-    "publicado": "31/08 12:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A promessa de uma nova âncora fiscal e reforma administrativa indica uma intenção de mudança na política econômica. Se eleito, a implementação dessas propostas pode impactar o cenário fiscal do país; a ausência de detalhes concretos no momento gera incerteza.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788189361.6238227,
-    "titulo": "Empresas como Chevron e GE Vernova estão a caminho de assinar acordos definitivos na Venezuela, dizem fontes",
-    "titulo_original": "Empresas como Chevron e GE Vernova estão a caminho de assinar acordos definitivos na Venezuela, dizem fontes",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 11:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A aproximação de acordos energéticos na Venezuela por empresas ocidentais pode sinalizar uma mudança no cenário de investimentos no país. Se os acordos forem concretizados, isso pode indicar uma maior estabilidade e abertura para o setor de energia venezuelano.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788194741.0429993,
     "titulo": "Durigan promete ajuste fiscal sem novos impostos e corte de gastos obrigatórios para abrir espaço no Orçamento",
     "titulo_original": "Durigan promete ajuste fiscal sem novos impostos e corte de gastos obrigatórios para abrir espaço no Orçamento",
@@ -1043,6 +967,144 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A alteração na carteira de small caps recomendada pela Genial pode direcionar o fluxo de capital para as ações incluídas. Se essas small caps tiverem bom desempenho, podem atrair mais investidores e gerar volatilidade em seus preços.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788300060.7845483,
+    "titulo": "Bolsa Família não deve ter aumento, e reajuste de servidores será limitado em 2027; entenda",
+    "titulo_original": "Bolsa Família não deve ter aumento, e reajuste de servidores será limitado em 2027; entenda",
+    "fonte": "Folha Mercado",
+    "publicado": "01/09 15:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A limitação de gastos com programas sociais e reajustes de servidores em um cenário orçamentário restrito pode indicar um esforço do governo em controlar o déficit fiscal. Se essa política for mantida, pode contribuir para a estabilidade das contas públicas, o que seria positivo para a percepção de risco do país. No entanto, a ausência de aumento para o Bolsa Família pode ter implicações sociais e de consumo que precisam ser monitoradas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788300066.1731071,
+    "titulo": "Trigo atinge máxima desde fevereiro de 2023 por tensões no Mar Negro; milho e soja arrancam em Chicago",
+    "titulo_original": "Trigo atinge máxima desde fevereiro de 2023 por tensões no Mar Negro; milho e soja arrancam em Chicago",
+    "fonte": "Money Times",
+    "publicado": "01/09 18:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tensões no Mar Negro e os ataques a infraestruturas portuárias podem impactar o fornecimento global de trigo, elevando seus preços. Esse aumento no custo de commodities agrícolas pode se refletir em pressões inflacionárias nos preços dos alimentos em diversos países. Se a situação se agravar, pode haver um impacto mais significativo na inflação global, levando os bancos centrais a reavaliar suas políticas monetárias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788300071.6479342,
+    "titulo": "EUA terão preferência sobre petróleo da Venezuela e poderão comprar a preço de custo",
+    "titulo_original": "EUA terão preferência sobre petróleo da Venezuela e poderão comprar a preço de custo - Bloomberg Línea Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "01/09 14:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de os EUA terem acesso preferencial ao petróleo venezuelano a preço de custo pode aumentar a oferta global e, potencialmente, mitigar pressões inflacionárias nos preços do petróleo. Se essa política for efetivada e resultar em maior disponibilidade de petróleo, pode influenciar positivamente o cenário inflacionário global. No entanto, a extensão desse impacto dependerá do volume de petróleo negociado e das condições específicas do acordo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788300076.89232,
+    "titulo": "Pentágono controla 21% do petróleo da Venezuela via empresa",
+    "titulo_original": "Pentágono controla 21% do petróleo da Venezuela via empresa - Correio do Povo",
+    "fonte": "Google News Commodities",
+    "publicado": "01/09 17:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O controle do Pentágono sobre uma parcela significativa do petróleo venezuelano pode influenciar a oferta global e, consequentemente, os preços. Se essa participação resultar em maior estabilidade no fornecimento ou em um aumento da oferta, pode ajudar a moderar pressões inflacionárias no mercado de petróleo. A notícia sugere uma intervenção estratégica que pode ter implicações para a dinâmica do mercado de energia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788300083.8265185,
+    "titulo": "Notícias de FX das Américas da Investing.com em 1º de Setembro: Acabou, mas não para a Guerra do Irã. Combates recomeçam.",
+    "titulo_original": "investingLive Americas FX news wrap 1 Sept: It's a wrap but not for the Iran War.  Fighting resumes.",
+    "fonte": "ForexLive",
+    "publicado": "01/09 18:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tensões no Oriente Médio, com ataques e ameaças de retaliação, tende a pressionar os preços do petróleo, o que pode gerar efeitos inflacionários globais. Se essa pressão inflacionária se materializar, pode levar os bancos centrais a manterem uma postura mais restritiva em relação aos juros. A volatilidade nos mercados de renda variável e fixa reflete a aversão ao risco em cenários de instabilidade geopolítica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788300083.8279033,
+    "titulo": "Citi, Bank of America e outros bancos globais se unem para criar empresa de stablecoin",
+    "titulo_original": "Citi, Bank of America e outros bancos globais se unem para criar empresa de stablecoin",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 18:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A iniciativa de grandes bancos globais em criar uma empresa para emissão de stablecoins sinaliza uma maior integração do sistema financeiro tradicional com ativos digitais. Se essa empresa for bem-sucedida e lançar stablecoins lastreadas em moedas fortes, isso pode facilitar transações internacionais e reduzir custos. O sucesso dessa empreitada pode influenciar a adoção de criptoativos no mercado financeiro e a forma como as moedas digitais são regulamentadas no futuro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788300083.829179,
+    "titulo": "É isso de novo. Trump diz \"o Irã será totalmente aniquilado como país\". Petróleo bruto negocia a US$ 90,50",
+    "titulo_original": "Here we go again.  Trump says \"Iran will be totally wiped out as a country\". Crude oil trades at $90.50",
+    "fonte": "ForexLive",
+    "publicado": "01/09 15:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As declarações de Trump sobre a aniquilação do Irã e a escalada das tensões geopolíticas elevam o risco de conflito, o que tende a impulsionar os preços do petróleo e gerar incertezas nos mercados globais. Se o conflito se intensificar, o petróleo pode subir ainda mais, alimentando a inflação e levando os bancos centrais a considerar aumentos de juros. A queda nos índices de ações reflete a aversão ao risco em um cenário de instabilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788300083.8304489,
+    "titulo": "Ibovespa B3 sobe 1,30% e fecha perto dos 180 mil pontos; dólar cai a R$ 5,15",
+    "titulo_original": "Ibovespa B3 sobe 1,30% e fecha perto dos 180 mil pontos; dólar cai a R$ 5,15 - borainvestir.b3.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/09 18:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa e a queda do dólar indicam um dia positivo para o mercado brasileiro, com maior apetite por risco. Se essa tendência de valorização da bolsa e desvalorização da moeda se mantiver, pode ser um sinal de melhora na confiança dos investidores no cenário doméstico. No entanto, é importante observar se essa movimentação é sustentada por fatores macroeconômicos concretos ou por movimentos pontuais de fluxo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788300083.831753,
+    "titulo": "Dividendos: por que distribuir todo o lucro da empresa no fim do ano pode resultar em imposto a mais",
+    "titulo_original": "Dividendos: por que distribuir todo o lucro da empresa no fim do ano pode resultar em imposto a mais",
+    "fonte": "InvestNews",
+    "publicado": "01/09 17:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa sobre uma mudança na tributação de dividendos, com um novo limite de isenção. Se os empresários não se planejarem adequadamente, isso pode resultar em um aumento da carga tributária sobre seus lucros. Essa alteração fiscal pode influenciar as decisões de distribuição de lucros das empresas e, consequentemente, o fluxo de caixa disponível para reinvestimento ou distribuição aos acionistas. É importante monitorar como as empresas se adaptarão a essa nova regra.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788300083.833075,
+    "titulo": "O que o Cade analisa na compra da CRDC pela B3",
+    "titulo_original": "O que o Cade analisa na compra da CRDC pela B3 - NeoFeed",
+    "fonte": "Google News Acoes",
+    "publicado": "01/09 14:08",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata de uma análise do Cade sobre uma operação de mercado específica, sem indicar uma decisão final ou impacto macroeconômico amplo. Se o Cade aprovar a operação, isso pode ser visto como um sinal de que o ambiente regulatório para fusões e aquisições está funcionando. Contudo, a relevância para o mercado em geral depende do porte da operação e de possíveis implicações setoriais que não são detalhadas no resumo.",
     "is_stocks": true
   }
 ]
