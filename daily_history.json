@@ -913,5 +913,86 @@
     "origem": "domestica",
     "leitura_critica": "A alta do Ibovespa sugere que o cenário político doméstico tem sido percebido como favorável pelos investidores no curto prazo. Se a estabilidade política se mantiver e houver sinais de avanços em pautas econômicas importantes, o índice pode continuar a apresentar desempenho positivo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788268546.433761,
+    "titulo": "Orçamento de 2027 não traz alívio fiscal e possui ‘metas ousadas’, avaliam economistas",
+    "titulo_original": "Orçamento de 2027 não traz alívio fiscal e possui ‘metas ousadas’, avaliam economistas",
+    "fonte": "Money Times",
+    "publicado": "01/09 10:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação de que o orçamento de 2027 não oferece alívio fiscal e depende de metas de arrecadação ousadas sugere um cenário de pressão contínua sobre as contas públicas. Se as metas de arrecadação não forem atingidas, o governo pode ter que recorrer a cortes de gastos ou aumento de impostos, impactando a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788268551.7147284,
+    "titulo": "Governo derruba liminar e restabelece imposto de exportação de petróleo",
+    "titulo_original": "Governo derruba liminar e restabelece imposto de exportação de petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 09:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de restabelecer o imposto de exportação de petróleo, com alíquota de 12%, pode aumentar os custos para as empresas exportadoras e impactar a arrecadação governamental. Se a liminar tivesse permanecido, poderia criar um precedente para outras suspensões fiscais; sua derrubada reforça a capacidade do governo de implementar sua política tributária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788268557.1693366,
+    "titulo": "Instituições financeiras digitais geraram R$ 1,6 trilhão na economia brasileira em dez anos",
+    "titulo_original": "Instituições financeiras digitais geraram R$ 1,6 trilhão na economia brasileira em dez anos",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 09:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O estudo do Reglab aponta um impacto significativo das IFDs no PIB brasileiro, sugerindo um aumento na eficiência e na oferta de serviços financeiros. Se essa tendência se mantiver, pode impulsionar a atividade econômica e a competição no setor financeiro. A ausência desses players reduziria o PIB em 2,2% no primeiro trimestre de 2026, indicando sua relevância para o crescimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788268562.966263,
+    "titulo": "Fitch reitera ratings da Votorantim e coloca Nexa sob observação negativa",
+    "titulo_original": "Fitch reitera ‘ratings’ da Votorantim e coloca Nexa sob observação negativa",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 09:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Fitch de manter os ratings da Votorantim, apesar da venda de participação em uma subsidiária, sugere que a agência considera a transação neutra para a saúde financeira do grupo. Se a observação negativa sobre a Nexa Resources se traduzir em rebaixamento de rating, isso pode impactar a percepção de risco do setor de mineração.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788268569.7487972,
+    "titulo": "Notícia O que precisa acontecer para a Selic cair? BTG aponta ajuste fiscal como único caminho",
+    "titulo_original": "Notícia O que precisa acontecer para a Selic cair? BTG aponta ajuste fiscal como único caminho - kinvo.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/09 08:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão do BTG de que o ajuste fiscal é o único caminho para a queda da Selic reforça a importância da responsabilidade fiscal para a condução da política monetária. Se o governo não apresentar um plano de ajuste fiscal crível, o Banco Central pode se ver impedido de reduzir os juros, mantendo um cenário de custo de capital elevado para a economia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788268569.7503693,
+    "titulo": "Santander avança para comprar ações restantes da unidade brasileira; o que muda na B3?",
+    "titulo_original": "Santander avança para comprar ações restantes da unidade brasileira; o que muda na B3? - estadao.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "01/09 10:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sobre a compra de ações restantes da unidade brasileira pelo Santander é um evento corporativo que pode ter implicações para a B3, mas não afeta diretamente os canais macroeconômicos de juros, inflação, atividade ou fiscal. A relevância é limitada ao setor financeiro e à bolsa.",
+    "is_stocks": true
   }
 ]
