@@ -1,102 +1,5 @@
 [
   {
-    "_timestamp": 1788182143.5629349,
-    "titulo": "Dívida bruta brasileira atinge 82,5% do PIB em julho, maior patamar em cinco anos",
-    "titulo_original": "Dívida bruta brasileira atinge 82,5% do PIB em julho, maior patamar em cinco anos",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 09:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da dívida bruta para 82,5% do PIB representa um desafio fiscal para o país. Se o governo não conseguir reverter essa trajetória, pode haver pressão por cortes de gastos ou aumento de impostos no futuro, impactando a confiança dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788182148.6224432,
-    "titulo": "Estatais federais têm déficit de R$ 8,277 bilhões de janeiro a julho, mostra BC",
-    "titulo_original": "Estatais federais têm déficit de R$ 8,277 bilhões de janeiro a julho, mostra BC",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 09:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O déficit recorde das estatais federais indica uma deterioração da saúde financeira dessas empresas. Se essa situação não for corrigida, pode haver necessidade de aportes do Tesouro Nacional, pressionando ainda mais as contas públicas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788182153.337482,
-    "titulo": "Economistas reduzem previsão da inflação e do PIB neste ano",
-    "titulo_original": "Economistas reduzem previsão da inflação e do PIB neste ano",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 09:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução das projeções de inflação e PIB para este ano sugere um cenário de desaceleração econômica, mas a expectativa de inflação maior em 2027 pode indicar preocupações com a sustentabilidade fiscal ou choques de oferta futuros. Se a inflação em 2027 se concretizar, pode haver pressão por juros mais altos no médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788182158.1183517,
-    "titulo": "Focus: dólar no fim de 2026 permaneceu em R$ 5,20 pela 11ª semana consecutiva - UOL Economia",
-    "titulo_original": "Focus: dólar no fim de 2026 permaneceu em R$ 5,20 pela 11ª semana consecutiva - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "31/08 09:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade na projeção do dólar em R$ 5,20 por 11 semanas seguidas pode indicar uma percepção de equilíbrio no mercado de câmbio, ou uma falta de catalisadores para grandes movimentos. Se houver mudanças significativas na política monetária ou fiscal, essa projeção pode ser alterada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788182164.004861,
-    "titulo": "Mercados europeus fecham: petróleo mantém alta, rendimentos regionais sobem",
-    "titulo_original": "investingLive European markets wrap: Oil holds higher, regional yields push up",
-    "fonte": "ForexLive",
-    "publicado": "31/08 08:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do petróleo, impulsionada por conflitos geopolíticos, pode gerar pressões inflacionárias que, por sua vez, podem levar os bancos centrais a manterem ou aumentarem as taxas de juros. Se a escalada de tensões se intensificar, o cenário de juros mais altos por mais tempo se fortalece globalmente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788182164.0054293,
-    "titulo": "Setor público consolidado tem superávit primário de R$ 1,36 bilhão em julho",
-    "titulo_original": "Setor público consolidado tem superávit primário de R$ 1,36 bilhão em julho",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 08:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O superávit primário de R$ 1,36 bilhão em julho, apesar de positivo, é ofuscado pelo déficit nominal de R$ 97,602 bilhões, impulsionado pela conta de juros. Se a conta de juros continuar elevada, o déficit nominal pode persistir, exigindo atenção à trajetória da dívida pública.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788182164.0062242,
-    "titulo": "Esteves: controle da dívida pública levaria juros a um dígito e teria efeito de ’30 vezes qualquer programa social’",
-    "titulo_original": "Esteves: controle da dívida pública levaria juros a um dígito e teria efeito de ’30 vezes qualquer programa social’",
-    "fonte": "Money Times",
-    "publicado": "31/08 09:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de André Esteves sugere que a consolidação fiscal é um caminho mais eficaz para o desenvolvimento econômico do que programas sociais isolados. Se a dívida pública for controlada, a expectativa é de que as taxas de juros caiam, o que poderia estimular o investimento e o consumo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788189344.6821902,
     "titulo": "Mercado do etanol exige mudanças no modelo tributário e na forma de fiscalização",
     "titulo_original": "Mercado do etanol exige mudanças no modelo tributário e na forma de fiscalização",
@@ -1051,6 +954,95 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A valorização do petróleo, impulsionada por tensões geopolíticas no Oriente Médio, pode gerar pressões inflacionárias globais. Se a situação se agravar, o aumento nos custos de energia pode impactar o consumo e a produção; se as tensões diminuírem, os preços do petróleo podem recuar, aliviando pressões inflacionárias.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788294647.609343,
+    "titulo": "O que esperar do dólar em setembro? Veja até onde a moeda pode ir",
+    "titulo_original": "O que esperar do dólar em setembro? Veja até onde a moeda pode ir - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "01/09 15:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise sobre o comportamento do dólar em setembro é crucial para operadores de câmbio e investidores. Se as projeções indicarem uma valorização acentuada, isso pode impactar as exportações e importações brasileiras, além de influenciar decisões de investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788294652.988881,
+    "titulo": "Campos Neto elogia medidas do Banco Central para conter fraudes no Pix",
+    "titulo_original": "Campos Neto elogia medidas do Banco Central para conter fraudes no Pix",
+    "fonte": "Folha Mercado",
+    "publicado": "01/09 16:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O elogio de Campos Neto às medidas de segurança do Pix reforça a confiança no sistema de pagamentos digitais. Se as medidas forem eficazes, podem reduzir o risco de fraudes e aumentar a adoção do Pix, com potenciais impactos na eficiência do sistema financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788294658.2659173,
+    "titulo": "Eventual problema em uma prestadora de serviços de IA relevante poderia colocar estabilidade financeira em risco, diz BC",
+    "titulo_original": "Eventual problema em uma prestadora de serviços de IA relevante poderia colocar estabilidade financeira em risco, diz BC",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 16:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A preocupação do Banco Central com a concentração de serviços de IA no setor financeiro aponta para riscos emergentes na digitalização. Se o BC implementar regulamentações mais rigorosas, isso pode afetar o desenvolvimento e a adoção de tecnologias de IA no mercado financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788294663.4686172,
+    "titulo": "Calendário econômico e de eventos na Ásia Quarta-feira, 2 de Setembro de 2026 - alta da taxa RBZN esperada",
+    "titulo_original": "Economic and event calendar in Asia Wednesday, September 2, 2026 - RBZN rate hike expected",
+    "fonte": "ForexLive",
+    "publicado": "01/09 17:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do RBNZ sobre a taxa de juros é um ponto crucial para o mercado asiático. Se a alta for confirmada, pode sinalizar um aperto monetário mais agressivo na região; caso contrário, pode indicar cautela por parte do banco central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788294669.5124495,
+    "titulo": "Bolsas de NY fecham em queda com alta do petróleo e dos juros dos Treasuries",
+    "titulo_original": "Bolsas de NY fecham em queda com alta do petróleo e dos juros dos Treasuries",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 17:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos preços do petróleo eleva os temores inflacionários, o que pode levar o Federal Reserve a manter uma política monetária mais restritiva. Se os dados de inflação futuros vierem abaixo do esperado, isso poderia reabrir espaço para discussões sobre cortes de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788294669.5140839,
+    "titulo": "Ações recomendadas: Petrobras (PETR4) domina setembro; veja quem corre por fora",
+    "titulo_original": "Ações recomendadas: Petrobras (PETR4) domina setembro; veja quem corre por fora - suno.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "01/09 14:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de ações específicas, como a Petrobras, pode influenciar o desempenho do setor de petróleo e gás na bolsa. Se a recomendação for amplamente seguida, pode gerar um fluxo de compra para PETR4 e impactar o Ibovespa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788294669.5156817,
+    "titulo": "Genial faz limpa na carteira de small caps: veja as 8 ações escolhidas para setembro",
+    "titulo_original": "Genial faz limpa na carteira de small caps: veja as 8 ações escolhidas para setembro",
+    "fonte": "Money Times",
+    "publicado": "01/09 16:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alteração na carteira de small caps recomendada pela Genial pode direcionar o fluxo de capital para as ações incluídas. Se essas small caps tiverem bom desempenho, podem atrair mais investidores e gerar volatilidade em seus preços.",
     "is_stocks": true
   }
 ]
