@@ -994,5 +994,84 @@
     "origem": "domestica",
     "leitura_critica": "A notícia sobre a compra de ações restantes da unidade brasileira pelo Santander é um evento corporativo que pode ter implicações para a B3, mas não afeta diretamente os canais macroeconômicos de juros, inflação, atividade ou fiscal. A relevância é limitada ao setor financeiro e à bolsa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788275778.524802,
+    "titulo": "Diretor do BC diz que órgão lançará novas medidas para combater endividamento",
+    "titulo_original": "Diretor do BC diz que órgão lançará novas medidas para combater endividamento",
+    "fonte": "Folha Mercado",
+    "publicado": "01/09 11:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "As novas medidas do Banco Central para combater o endividamento, especialmente no cartão de crédito e crédito não consignado, podem trazer mais segurança para o sistema financeiro e para os consumidores. Se essas medidas forem eficazes, podem reduzir a inadimplência e melhorar a qualidade do crédito no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788275783.204983,
+    "titulo": "Quadro macroeconômico pode ter influenciado consumo das famílias no trimestre, diz IBGE",
+    "titulo_original": "Quadro macroeconômico pode ter influenciado consumo das famílias no trimestre, diz IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 10:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta taxa de juros e o endividamento das famílias, conforme apontado pelo IBGE, podem ter restringido o consumo, impactando a atividade econômica. Se as taxas de juros começarem a cair e o endividamento for controlado, o consumo das famílias pode se recuperar, impulsionando o crescimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788275787.9270916,
+    "titulo": "Crédito mais caro: temor global de inflação e dívida faz investidores venderem títulos",
+    "titulo_original": "Crédito mais caro: temor global de inflação e dívida faz investidores venderem títulos",
+    "fonte": "InvestNews",
+    "publicado": "01/09 10:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento do preço do petróleo, ao alimentar temores de inflação, pressiona os bancos centrais a manterem ou elevarem as taxas de juros, o que encarece o crédito e pode desacelerar a atividade econômica. Se os preços do petróleo estabilizarem ou caírem, a pressão inflacionária pode diminuir, permitindo que os bancos centrais reconsiderem a trajetória de alta dos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788275792.642049,
+    "titulo": "Ataques aéreos da Rússia matam 12 na região de Kiev no sexto dia de ofensiva",
+    "titulo_original": "Ataques aéreos da Rússia matam 12 na região de Kiev no sexto dia de ofensiva",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 11:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A intensificação dos ataques russos na Ucrânia, com foco em Kiev, eleva o risco de escalada do conflito e pode gerar novas ondas de refugiados e instabilidade geopolítica. Se as negociações entre Ucrânia e Rússia avançarem em setembro, como sugerido, isso poderia trazer um alívio temporário, mas a situação permanece volátil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788275798.0378275,
+    "titulo": "Bolsas caem em NY com peso de avanço nos juros dos Treasuries e nos preços do petróleo",
+    "titulo_original": "Bolsas caem em NY com peso de avanço nos juros dos Treasuries e nos preços do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 10:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas em Nova York, influenciada pela alta dos juros dos Treasuries e do petróleo, reflete um cenário de aversão ao risco nos mercados globais. Se os rendimentos dos títulos americanos estabilizarem e os preços do petróleo recuarem, as bolsas podem apresentar recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788275798.0396142,
+    "titulo": "Petrobras reajusta preços do querosene de aviação em 13,9%, em média",
+    "titulo_original": "Petrobras reajusta preços do querosene de aviação em 13,9%, em média",
+    "fonte": "Valor Economico",
+    "publicado": "01/09 11:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento no preço do QAV pode impactar os custos das companhias aéreas, o que, em um cenário de tensões geopolíticas persistentes, pode se refletir em repasses para as tarifas de passagens. Se as cotações internacionais do petróleo recuarem significativamente, a Petrobras poderá ajustar os preços para baixo, aliviando a pressão sobre o setor aéreo.",
+    "is_stocks": true
   }
 ]
