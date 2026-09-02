@@ -882,5 +882,87 @@
     "origem": "externa",
     "leitura_critica": "A volatilidade nos preços do petróleo pode ter implicações significativas para a inflação global e para os custos de produção em diversos setores. Se os preços continuarem a subir, isso pode pressionar as margens de empresas e impactar o poder de compra dos consumidores.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788362152.629278,
+    "titulo": "Ações globais recuam com escalada no Oriente Médio e temor de juros mais altos",
+    "titulo_original": "Ações globais recuam com escalada no Oriente Médio e temor de juros mais altos - Bloomberg Línea Brasil",
+    "fonte": "Google News Acoes",
+    "publicado": "02/09 06:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A instabilidade geopolítica no Oriente Médio pode afetar os preços do petróleo e, consequentemente, a inflação global, o que pode levar os bancos centrais a manterem juros elevados. Se a escalada no Oriente Médio se intensificar, o risco para a atividade econômica global aumentará, impactando o fluxo de capital para mercados emergentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788362158.9727392,
+    "titulo": "Tarifaço e guerra no Oriente Médio afetam indústria, mas desaceleração doméstica tem impacto maior, aponta IBGE",
+    "titulo_original": "Tarifaço e guerra no Oriente Médio afetam indústria, mas desaceleração doméstica tem impacto maior, aponta IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 12:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A indústria brasileira enfrenta desafios tanto externos quanto internos, com a desaceleração doméstica sendo o fator de maior peso. Se a desaceleração interna persistir, o crescimento da atividade econômica e do emprego pode ser comprometido. A combinação de tarifas e conflitos externos pode agravar a situação da indústria, caso não haja medidas de mitigação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788362164.7940984,
+    "titulo": "Bitcoin cai para US$ 77,3 mil com luta EUA-Irã e receio de juros pesando",
+    "titulo_original": "Bitcoin dips to $77.3k as U.S.-Iran fighting, rate jitters weigh",
+    "fonte": "Investing.com",
+    "publicado": "02/09 10:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A volatilidade do Bitcoin pode aumentar se as tensões geopolíticas se intensificarem, levando a uma busca por ativos de refúgio. Se os dados de inflação nos EUA indicarem uma necessidade de juros mais altos por mais tempo, isso pode pressionar ainda mais as criptomoedas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788362171.1706088,
+    "titulo": "Venda de títulos globais eleva juros às máximas de anos, mas fica longe do tombo de 2022",
+    "titulo_original": "Venda de títulos globais eleva juros às máximas de anos, mas fica longe do tombo de 2022",
+    "fonte": "InvestNews",
+    "publicado": "02/09 12:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos juros globais pode pressionar o Banco Central a manter uma política monetária mais restritiva no Brasil para evitar fuga de capitais. Se a tendência de alta nos juros globais se mantiver, o custo de captação para o Brasil pode aumentar, impactando a dívida pública.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788362181.6030548,
+    "titulo": "Produção industrial no Brasil reverte quedas e volta a crescer em julho, indica IBGE",
+    "titulo_original": "Produção industrial no Brasil reverte quedas e volta a crescer em julho, indica IBGE",
+    "fonte": "Folha Mercado",
+    "publicado": "02/09 10:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento da produção industrial em julho é um sinal positivo para a atividade econômica, mas o desempenho abaixo do esperado no trimestre sugere cautela. Se essa recuperação se consolidar, pode haver um impacto positivo no emprego e na confiança do consumidor. No entanto, a persistência de fatores que limitam o crescimento pode reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788362181.6046114,
+    "titulo": "Usiminas vai paralisar planta e cortar 30% da produção de minério de ferro",
+    "titulo_original": "Usiminas vai paralisar planta e cortar 30% da produção de minério de ferro - O Fator",
+    "fonte": "Google News Commodities",
+    "publicado": "02/09 10:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Usiminas de reduzir a produção de minério de ferro pode impactar a oferta e os preços desse commodity, afetando a balança comercial e a atividade econômica do setor. Se essa paralisação for prolongada, pode haver reflexos na produção industrial e no emprego do setor.",
+    "is_stocks": true
   }
 ]
