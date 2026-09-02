@@ -1,86 +1,5 @@
 [
   {
-    "_timestamp": 1788268546.433761,
-    "titulo": "Orçamento de 2027 não traz alívio fiscal e possui ‘metas ousadas’, avaliam economistas",
-    "titulo_original": "Orçamento de 2027 não traz alívio fiscal e possui ‘metas ousadas’, avaliam economistas",
-    "fonte": "Money Times",
-    "publicado": "01/09 10:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação de que o orçamento de 2027 não oferece alívio fiscal e depende de metas de arrecadação ousadas sugere um cenário de pressão contínua sobre as contas públicas. Se as metas de arrecadação não forem atingidas, o governo pode ter que recorrer a cortes de gastos ou aumento de impostos, impactando a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788268551.7147284,
-    "titulo": "Governo derruba liminar e restabelece imposto de exportação de petróleo",
-    "titulo_original": "Governo derruba liminar e restabelece imposto de exportação de petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 09:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão de restabelecer o imposto de exportação de petróleo, com alíquota de 12%, pode aumentar os custos para as empresas exportadoras e impactar a arrecadação governamental. Se a liminar tivesse permanecido, poderia criar um precedente para outras suspensões fiscais; sua derrubada reforça a capacidade do governo de implementar sua política tributária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788268557.1693366,
-    "titulo": "Instituições financeiras digitais geraram R$ 1,6 trilhão na economia brasileira em dez anos",
-    "titulo_original": "Instituições financeiras digitais geraram R$ 1,6 trilhão na economia brasileira em dez anos",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 09:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O estudo do Reglab aponta um impacto significativo das IFDs no PIB brasileiro, sugerindo um aumento na eficiência e na oferta de serviços financeiros. Se essa tendência se mantiver, pode impulsionar a atividade econômica e a competição no setor financeiro. A ausência desses players reduziria o PIB em 2,2% no primeiro trimestre de 2026, indicando sua relevância para o crescimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788268562.966263,
-    "titulo": "Fitch reitera ratings da Votorantim e coloca Nexa sob observação negativa",
-    "titulo_original": "Fitch reitera ‘ratings’ da Votorantim e coloca Nexa sob observação negativa",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 09:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Fitch de manter os ratings da Votorantim, apesar da venda de participação em uma subsidiária, sugere que a agência considera a transação neutra para a saúde financeira do grupo. Se a observação negativa sobre a Nexa Resources se traduzir em rebaixamento de rating, isso pode impactar a percepção de risco do setor de mineração.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788268569.7487972,
-    "titulo": "Notícia O que precisa acontecer para a Selic cair? BTG aponta ajuste fiscal como único caminho",
-    "titulo_original": "Notícia O que precisa acontecer para a Selic cair? BTG aponta ajuste fiscal como único caminho - kinvo.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 08:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A visão do BTG de que o ajuste fiscal é o único caminho para a queda da Selic reforça a importância da responsabilidade fiscal para a condução da política monetária. Se o governo não apresentar um plano de ajuste fiscal crível, o Banco Central pode se ver impedido de reduzir os juros, mantendo um cenário de custo de capital elevado para a economia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788268569.7503693,
-    "titulo": "Santander avança para comprar ações restantes da unidade brasileira; o que muda na B3?",
-    "titulo_original": "Santander avança para comprar ações restantes da unidade brasileira; o que muda na B3? - estadao.com.br",
-    "fonte": "Google News Acoes",
-    "publicado": "01/09 10:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia sobre a compra de ações restantes da unidade brasileira pelo Santander é um evento corporativo que pode ter implicações para a B3, mas não afeta diretamente os canais macroeconômicos de juros, inflação, atividade ou fiscal. A relevância é limitada ao setor financeiro e à bolsa.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788275778.524802,
     "titulo": "Diretor do BC diz que órgão lançará novas medidas para combater endividamento",
     "titulo_original": "Diretor do BC diz que órgão lançará novas medidas para combater endividamento",
@@ -1055,5 +974,87 @@
     "origem": "externa",
     "leitura_critica": "A diversidade de temas abordados indica um cenário político complexo em Washington, com a administração buscando equilibrar diferentes interesses. A eficácia dessas políticas em se traduzir em resultados concretos será crucial para o cenário econômico.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1788381050.8188462,
+    "titulo": "Juros futuros despencam com expectativa de eleição mais acirrada",
+    "titulo_original": "Juros futuros despencam com expectativa de eleição mais acirrada",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 17:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos juros futuros reflete uma precificação de risco político com potencial impacto na política econômica futura. Se a percepção de acirramento eleitoral se confirmar em pesquisas futuras, a curva de juros pode continuar a precificar um cenário de maior incerteza fiscal e monetária. Contudo, se uma das candidaturas consolidar uma vantagem clara, a curva pode se ajustar rapidamente, reduzindo o prêmio de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788381055.777307,
+    "titulo": "Entidades pedirão à Justiça que CVM retome exigência de dados de sustentabilidade às empresas",
+    "titulo_original": "Entidades pedirão à Justiça que CVM retome exigência de dados de sustentabilidade às empresas",
+    "fonte": "Folha Mercado",
+    "publicado": "02/09 15:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica uma ação judicial que pode levar à retomada de uma exigência regulatória pela CVM. Se a decisão judicial for favorável, isso pode implicar novas obrigações para as empresas listadas em bolsa. A relevância é média pois depende de uma decisão judicial e afeta a governança corporativa e a divulgação de informações, mas não é uma decisão fiscal ou macroeconômica direta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788381061.0209868,
+    "titulo": "MPF pede explicações do Ibama por divergências em licenciamento de petróleo na Foz do Amazonas",
+    "titulo_original": "MPF pede explicações do Ibama por divergências em licenciamento de petróleo na Foz do Amazonas - G1",
+    "fonte": "Google News Commodities",
+    "publicado": "02/09 16:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A solicitação do MPF ao Ibama sobre o licenciamento de petróleo na Foz do Amazonas pode indicar um escrutínio maior sobre a atividade, com potencial para impactar decisões futuras de licenciamento. Se as divergências resultarem em restrições ou novas exigências regulatórias, isso pode afetar o setor de exploração de petróleo. A relevância é média pois se trata de um pedido de explicações, e não uma decisão final.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788381066.0543418,
+    "titulo": "Nagel sinaliza alta de juros pelo BCE na próxima semana, mas é cauteloso sobre próximos passos",
+    "titulo_original": "Nagel sinaliza alta de juros pelo BCE na próxima semana, mas é cauteloso sobre próximos passos",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 16:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A sinalização de alta de juros pelo BCE, mesmo que com cautela, reforça o cenário de aperto monetário global. Se a inflação na zona do euro persistir elevada, o BCE pode ser forçado a manter uma postura mais agressiva por mais tempo. Caso os dados de inflação cedam mais rapidamente do que o esperado, o banco central pode antecipar o fim do ciclo de alta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788381071.885813,
+    "titulo": "Inflação puxa renda fixa da B3: índice ligado ao IPCA sobe 1,78% em agosto; veja ranking",
+    "titulo_original": "Inflação puxa renda fixa da B3: índice ligado ao IPCA sobe 1,78% em agosto; veja ranking - suno.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "02/09 16:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho da renda fixa atrelada ao IPCA reflete diretamente o comportamento da inflação. Se a inflação continuar a pressionar, o Banco Central pode manter juros mais altos por mais tempo, impactando a curva de juros. Caso os índices de inflação mostrem desaceleração, isso pode abrir espaço para cortes na taxa Selic.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788381071.8872275,
+    "titulo": "Petrobras não descarta perfurações simultâneas em bloco na Foz do Amazonas",
+    "titulo_original": "Petrobras não descarta perfurações simultâneas em bloco na Foz do Amazonas - Agência iNFRA",
+    "fonte": "Google News Acoes",
+    "publicado": "02/09 16:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa sobre uma decisão operacional da Petrobras em um bloco específico. Embora o setor de petróleo seja relevante para a economia, a notícia em si não aborda decisões fiscais, regulatórias ou macroeconômicas que afetem o mercado de forma ampla. A relevância é média por se tratar de uma grande empresa estatal com potencial impacto setorial, mas sem conexão explícita com os canais definidos.",
+    "is_stocks": true
   }
 ]
