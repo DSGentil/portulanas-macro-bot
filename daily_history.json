@@ -1,111 +1,5 @@
 [
   {
-    "_timestamp": 1788281141.3629467,
-    "titulo": "Caiado quer trava temporária em aposentadorias para fazer ajuste, diz coordenador de plano político",
-    "titulo_original": "Caiado quer trava temporária em aposentadorias para fazer ajuste, diz coordenador de plano político",
-    "fonte": "Folha Mercado",
-    "publicado": "01/09 13:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de travas temporárias em gastos obrigatórios, se implementada, poderia sinalizar um esforço de ajuste fiscal. A viabilidade e o impacto real dependerão da aprovação e dos detalhes da PEC, mas a intenção declarada já aponta para um cenário de controle de despesas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788281145.295655,
-    "titulo": "Sócio da Cordier chama atenção à ‘premissa por trás do PLOA 2027’; superávit pequeno pode virar déficit?",
-    "titulo_original": "Sócio da Cordier chama atenção à ‘premissa por trás do PLOA 2027’; superávit pequeno pode virar déficit?",
-    "fonte": "Money Times",
-    "publicado": "01/09 13:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise sobre a fragilidade do superávit primário previsto para 2027 levanta preocupações sobre a sustentabilidade fiscal. Se a projeção se mostrar otimista demais, o governo pode enfrentar dificuldades em cumprir metas e precisar de medidas adicionais de ajuste, impactando a percepção de risco do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788281149.1878397,
-    "titulo": "Comissão aprova 20% dos royalties do petróleo para a preservação da Amazônia - Senado Federal",
-    "titulo_original": "Comissão aprova 20% dos royalties do petróleo para a preservação da Amazônia - Senado Federal",
-    "fonte": "Google News Commodities",
-    "publicado": "01/09 12:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação da destinação de royalties para a preservação da Amazônia representa uma decisão regulatória com potencial impacto fiscal. A magnitude do impacto dependerá da regulamentação e execução da medida, mas a decisão em si já altera a alocação de recursos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788281153.0978732,
-    "titulo": "Dólar à vista sobe em linha com fortalecimento global da moeda americana - Valor Econômico",
-    "titulo_original": "Dólar à vista sobe em linha com fortalecimento global da moeda americana - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 09:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "O fortalecimento global do dólar tende a pressionar o câmbio em economias emergentes. Se este movimento se consolidar, pode haver impacto na inflação importada e nas decisões de política monetária doméstica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788281158.1402013,
-    "titulo": "Petróleo sobe. Ações caem com relatos de ataque americano ao Irã",
-    "titulo_original": "Crude oil moves higher. Stocks move lower as reports of an American attack on Iran",
-    "fonte": "ForexLive",
-    "publicado": "01/09 13:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões geopolíticas no Oriente Médio tende a pressionar os preços do petróleo para cima e gerar aversão ao risco nos mercados globais. Se a situação se agravar, pode haver impacto no fluxo de capital para mercados emergentes e, consequentemente, no câmbio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788281158.141994,
-    "titulo": "Carf afasta tributação bilionária da B3 por variação cambial",
-    "titulo_original": "Carf afasta tributação bilionária da B3 por variação cambial",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 12:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Carf de cancelar uma autuação bilionária sobre variação cambial para a B3 representa uma decisão fiscal com impacto direto para a empresa e potencialmente para o mercado financeiro. Se essa decisão abrir precedentes, pode afetar a tributação de outras operações cambiais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788281158.1439917,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e volta aos 180 mil pontos - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe e volta aos 180 mil pontos - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "01/09 11:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa indica um sentimento positivo no mercado de ações doméstico. Sem uma justificativa explícita na notícia para essa alta (como dados econômicos específicos ou decisões de política), a leitura se limita ao movimento do índice.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788281158.1457381,
-    "titulo": "PMI de manufatura global S&P para agosto 53,9 contra 53,2 preliminar",
-    "titulo_original": "S&P global manufacturing PMI final for August 53.9 versus 53.2 preliminary",
-    "fonte": "ForexLive",
-    "publicado": "01/09 10:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O PMI de manufatura é um indicador de atividade econômica. Um resultado acima do esperado sugere resiliência no setor, o que pode ser positivo para a demanda global. No entanto, a notícia aponta para desaceleração na produção e declínio em novos pedidos de exportação, indicando nuances no quadro.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788287441.7822483,
     "titulo": "PIB cresce 0,5% no segundo trimestre e reforça cenário de desaceleração no país",
     "titulo_original": "PIB cresce 0,5% no segundo trimestre e reforça cenário de desaceleração no país",
@@ -1122,6 +1016,102 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "A divergência entre o desempenho das bolsas europeias e o Ibovespa sugere que fatores específicos de cada mercado estão em jogo. A pressão sobre os títulos soberanos na Europa pode indicar preocupações com a dívida pública ou com a política monetária na região, enquanto o Ibovespa pode estar sendo impulsionado por fatores domésticos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788391848.9934745,
+    "titulo": "Orquestração é o ‘próximo novo’ do setor financeiro",
+    "titulo_original": "Orquestração é o ‘próximo novo’ do setor financeiro",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 19:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O investimento em IA e Big Data no setor financeiro brasileiro visa otimizar operações e aprimorar a experiência do cliente. Se essas tecnologias trouxerem os resultados esperados, podem gerar maior competitividade e novas oportunidades de negócios no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788391854.302783,
+    "titulo": "Preço da soja no mercado disponível e futuro ficam em baixa; confira as cotações",
+    "titulo_original": "Preço da soja no mercado disponível e futuro ficam em baixa; confira as cotações - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "02/09 19:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos preços da soja pode ser influenciada por diversos fatores, como a oferta global, a demanda internacional e as condições climáticas. Se essa tendência de baixa se mantiver, pode afetar a rentabilidade dos produtores e as exportações brasileiras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788391859.7033606,
+    "titulo": "Petróleo fecha em alta em meio a aumento das hostilidades entre EUA e Irã",
+    "titulo_original": "Petróleo fecha em alta em meio a aumento das hostilidades entre EUA e Irã - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "02/09 16:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento das hostilidades entre EUA e Irã impacta diretamente o preço do petróleo, podendo gerar volatilidade nos mercados globais. Se o conflito se intensificar, o petróleo pode atingir patamares mais elevados, afetando custos de produção e transporte em diversos setores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788391865.1011608,
+    "titulo": "EIA: Estoques de petróleo bruto dos EUA caem em 4,5 milhões de barris",
+    "titulo_original": "EIA: Estoques de petróleo bruto dos EUA caem em 4,5 milhões de barris - ADVFN",
+    "fonte": "Google News Commodities",
+    "publicado": "02/09 14:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nos estoques de petróleo bruto dos EUA é um indicador de demanda aquecida ou de oferta restrita, o que tende a pressionar os preços para cima. Se essa tendência de queda nos estoques se mantiver, o preço do petróleo pode continuar a subir, impactando a inflação global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788391891.9962564,
+    "titulo": "Bradesco (BBDC), Vale (VALE), Itaú (ITUB4) e mais: BofA indica papéis para comprar agora",
+    "titulo_original": "Bradesco (BBDC), Vale (VALE), Itaú (ITUB4) e mais: BofA indica papéis para comprar agora",
+    "fonte": "Money Times",
+    "publicado": "02/09 19:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A atualização de carteira pelo BofA sugere uma reavaliação de setores e empresas com base em potenciais de valorização e catalisadores de mercado. Se a estratégia do banco se mostrar acertada, pode indicar um movimento de capital para os setores e empresas recomendados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788391891.9980102,
+    "titulo": "Como a Netflix planeja fazer a publicidade chegar a 10% da receita até 2030",
+    "titulo_original": "Como a Netflix planeja fazer a publicidade chegar a 10% da receita até 2030",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 19:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A estratégia da Netflix de expandir seu negócio de publicidade indica uma busca por novas fontes de receita e diversificação. Se a meta for atingida, isso pode representar uma nova dinâmica no mercado de streaming e publicidade digital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788391891.9996974,
+    "titulo": "Microsoft passará a divulgar resultados da divisão de computação em nuvem Azure",
+    "titulo_original": "Microsoft passará a divulgar resultados da divisão de computação em nuvem Azure",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 19:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão da Microsoft de divulgar resultados da Azure aumenta a transparência e permite comparações diretas com concorrentes. Se os resultados da unidade forem positivos, pode impulsionar as ações da empresa e indicar força no setor de nuvem.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788391892.001441,
+    "titulo": "Gasto global com data centers deve ir a US$ 31,6 trilhões até 2050, diz PwC",
+    "titulo_original": "Gasto global com data centers deve ir a US$ 31,6 trilhões até 2050, diz PwC",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 19:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O projection de gastos com data centers até 2050, impulsionada pela IA, demonstra o potencial de crescimento do setor de tecnologia. Se essa demanda se concretizar, pode haver um aumento significativo nos investimentos em infraestrutura digital e em empresas ligadas ao setor.",
     "is_stocks": true
   }
 ]
