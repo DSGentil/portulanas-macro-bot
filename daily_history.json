@@ -964,5 +964,144 @@
     "origem": "domestica",
     "leitura_critica": "A decisão da Usiminas de reduzir a produção de minério de ferro pode impactar a oferta e os preços desse commodity, afetando a balança comercial e a atividade econômica do setor. Se essa paralisação for prolongada, pode haver reflexos na produção industrial e no emprego do setor.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788367562.7036417,
+    "titulo": "Williams, do Fed, vê alta dos juros dos Treasuries como reflexo de economia forte, e não de temor inflacionário - Valor Econômico",
+    "titulo_original": "Williams, do Fed, vê alta dos juros dos Treasuries como reflexo de economia forte, e não de temor inflacionário - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/09 11:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A visão de Williams sugere que o Fed pode não sentir a mesma urgência em combater a inflação, interpretando a alta dos juros como um sinal de saúde econômica. Se essa perspectiva prevalecer, o Fed pode manter uma postura menos agressiva em relação a aumentos futuros de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788367566.934192,
+    "titulo": "Arábia Saudita diz que Irã atacou navio em Ormuz e matou dois tripulantes - Valor Econômico",
+    "titulo_original": "Arábia Saudita diz que Irã atacou navio em Ormuz e matou dois tripulantes - Valor Econômico",
+    "fonte": "Google News Geopolitica",
+    "publicado": "02/09 11:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A acusação de ataque no Estreito de Ormuz eleva as tensões geopolíticas na região, com potencial impacto nos preços do petróleo. Se o incidente escalar, pode haver repercussões significativas no mercado global de energia e nas relações internacionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788367571.1633162,
+    "titulo": "Governo Trump avalia aumentar tarifas sobre chips, diz secretário de Comércio",
+    "titulo_original": "Governo Trump avalia aumentar tarifas sobre chips, diz secretário de Comércio",
+    "fonte": "Folha Mercado",
+    "publicado": "02/09 12:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A possível elevação de tarifas sobre chips pelos EUA pode impactar a cadeia global de suprimentos e a competitividade de empresas do setor. Se a medida for implementada, pode levar a um aumento de custos para fabricantes e consumidores, além de gerar retaliações comerciais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788367577.1753163,
+    "titulo": "Tribunal do Cade vai contra área técnica e aprova compra de central de registros pela B3",
+    "titulo_original": "Tribunal do Cade vai contra área técnica e aprova compra de central de registros pela B3",
+    "fonte": "Folha Mercado",
+    "publicado": "02/09 12:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Cade de aprovar a compra pela B3, mesmo contra a recomendação de sua área técnica, representa uma consolidação no mercado de registros. Se essa aprovação levar a uma concentração excessiva de poder, pode haver discussões futuras sobre regulação e concorrência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788367577.177019,
+    "titulo": "Bolsas da Europa recuam pressionadas por juros e preço do petróleo elevados",
+    "titulo_original": "Bolsas da Europa recuam pressionadas por juros e preço do petróleo elevados",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 13:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A combinação de juros em alta e petróleo elevado cria um cenário de aversão ao risco na Europa, impactando negativamente as bolsas. Se os juros continuarem a subir e o petróleo mantiver preços altos, a pressão sobre os mercados europeus pode se intensificar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788367577.1786518,
+    "titulo": "B3 (B3SA3) sobe mais de 3% com decisão do Carf anular R$ 2,2 bi em atuações - InfoMoney",
+    "titulo_original": "B3 (B3SA3) sobe mais de 3% com decisão do Carf anular R$ 2,2 bi em atuações - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "02/09 11:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A anulação de autuações fiscais pelo Carf representa um alívio para a B3, impactando positivamente suas ações. Se decisões semelhantes ocorrerem em outros casos, pode haver um efeito cascata positivo para empresas com passivos fiscais semelhantes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788367577.1802616,
+    "titulo": "Ibovespa em alta de 3%: É hora de comprar ou vender ações? Veja o que dizem os gráficos, segundo este analista da Empiricus",
+    "titulo_original": "Ibovespa em alta de 3%: É hora de comprar ou vender ações? Veja o que dizem os gráficos, segundo este analista da Empiricus",
+    "fonte": "Money Times",
+    "publicado": "02/09 13:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa pode ser um indicativo de otimismo momentâneo no mercado acionário. Se a análise gráfica do especialista se confirmar, uma reversão de tendência pode ocorrer, exigindo cautela dos investidores em relação a novas compras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788367577.181918,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa dispara e chega aos 184 mil com nova pesquisa eleitoral - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa dispara e chega aos 184 mil com nova pesquisa eleitoral - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/09 11:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reação positiva do Ibovespa a uma pesquisa eleitoral sugere que o mercado está precificando um cenário político específico. Se a disputa eleitoral se mantiver acirrada, a volatilidade do mercado pode persistir, com movimentos influenciados por novas pesquisas e declarações políticas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788367577.183552,
+    "titulo": "Ibovespa sobe após Quaest reforçar disputa mais acirrada entre Lula e Flávio Bolsonaro - Valor Econômico",
+    "titulo_original": "Ibovespa sobe após Quaest reforçar disputa mais acirrada entre Lula e Flávio Bolsonaro - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "02/09 10:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa em resposta a uma pesquisa eleitoral indica que o mercado pode estar reagindo à incerteza política. Se a disputa eleitoral se intensificar, a volatilidade do mercado acionário pode aumentar, com movimentos influenciados por novas pesquisas e eventos políticos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788367577.1851735,
+    "titulo": "Alerta Estratégia Radar | Oportunidade Swing Trade Compra iShares Ibovespa (BOVA11) – start – 2/9/2026 - InvesTalk",
+    "titulo_original": "Alerta Estratégia Radar | Oportunidade Swing Trade Compra iShares Ibovespa (BOVA11) – start – 2/9/2026 - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "02/09 09:15",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de compra do BOVA11 sugere uma expectativa de valorização do índice Ibovespa no curto prazo. Se o cenário gráfico se mantiver favorável, a estratégia de swing trade pode se concretizar com ganhos para os investidores.",
+    "is_stocks": true
   }
 ]
