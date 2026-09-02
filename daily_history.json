@@ -1,117 +1,5 @@
 [
   {
-    "_timestamp": 1788262257.2936046,
-    "titulo": "Sem ajuste fiscal, dólar pode testar novos picos",
-    "titulo_original": "Sem ajuste fiscal, dólar pode testar novos picos - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 05:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para um risco de desvalorização do real caso não haja um ajuste fiscal. Se o governo não apresentar medidas concretas para controlar as contas públicas, a confiança dos investidores pode diminuir, pressionando o dólar para cima. A ausência de um ajuste fiscal pode gerar incertezas sobre a trajetória da dívida pública.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788262262.7803757,
-    "titulo": "Eneva (ENEV3) vende Pecém II por R$ 748,4 milhões e pode receber mais R$ 149 milhões",
-    "titulo_original": "Eneva (ENEV3) vende Pecém II por R$ 748,4 milhões e pode receber mais R$ 149 milhões",
-    "fonte": "Money Times",
-    "publicado": "01/09 08:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A venda do complexo Pecém II pela Eneva representa uma operação de desinvestimento significativa, com impacto direto no balanço da empresa. O valor da transação, superior a R$ 800 milhões, sugere uma avaliação positiva do ativo pelo comprador. A conclusão da venda pode liberar capital para a Eneva focar em outras áreas de negócio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788262268.155679,
-    "titulo": "Agenda do dia: PIB do Brasil e relatório de emprego Jolts nos EUA são destaque",
-    "titulo_original": "Agenda do dia: PIB do Brasil e relatório de emprego Jolts nos EUA são destaque",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 07:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divulgação do PIB brasileiro e do relatório de emprego dos EUA são dados macroeconômicos cruciais que podem influenciar as decisões de política monetária e o sentimento do mercado. Se o PIB do Brasil vier abaixo do esperado, pode indicar uma desaceleração da economia; se o Jolts mostrar um mercado de trabalho aquecido, pode reforçar a pressão por juros mais altos nos EUA.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788262273.5024369,
-    "titulo": "Inflação da zona do euro sobe acima de 3% em agosto com preços de energia mais altos",
-    "titulo_original": "Euro area inflation climbs above 3% in August on higher energy prices",
-    "fonte": "ForexLive",
-    "publicado": "01/09 06:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O retorno da inflação da zona do euro acima de 3% em agosto, com forte influência dos preços de energia, pode reforçar a postura cautelosa do Banco Central Europeu em relação a cortes de juros. Se a pressão inflacionária persistir, especialmente nos componentes de energia, o BCE pode adiar o início de um ciclo de flexibilização monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788262280.1295578,
-    "titulo": "Dow Jones Futuro recua com temores sobre inflação, Irã e juros do Fed",
-    "titulo_original": "Dow Jones Futuro recua com temores sobre inflação, Irã e juros do Fed - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 05:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda do Dow Jones Futuro reflete a aversão ao risco nos mercados globais, alimentada por preocupações com a inflação e a política monetária do Fed. Se os dados de inflação continuarem a surpreender para cima, o Fed pode manter uma postura mais restritiva, impactando negativamente o crescimento econômico e os ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788262280.131023,
-    "titulo": "Dólar cai e fecha a R$ 5,17; Ibovespa sobe, mas saída de estrangeiros em agosto é a maior de 2026",
-    "titulo_original": "Dólar cai e fecha a R$ 5,17; Ibovespa sobe, mas saída de estrangeiros em agosto é a maior de 2026 - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 06:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a alta do Ibovespa, em um cenário de saída de capital estrangeiro, sugerem que fatores domésticos, como o cenário político, podem estar impulsionando o mercado local. Se a saída de estrangeiros se intensificar, isso pode pressionar o câmbio e o mercado de ações no médio prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788262280.1323953,
-    "titulo": "Agenda de empresas: Suzano compra fatia em terminal portuário; Heringer obtém cautelar contra cobrança de dívidas",
-    "titulo_original": "Agenda de empresas: Suzano compra fatia em terminal portuário; Heringer obtém cautelar contra cobrança de dívidas",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 08:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As movimentações empresariais indicam atividade no setor corporativo brasileiro, com aquisições e reestruturações. A venda de ativos pela Eneva e a aquisição da Suzano demonstram estratégias de otimização de portfólio. A obtenção da tutela cautelar pela Heringer sugere um cenário de dificuldades financeiras que pode demandar atenção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788262280.1337824,
-    "titulo": "Ibovespa sobe 1% com cenário político",
-    "titulo_original": "Ibovespa sobe 1% com cenário político - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "01/09 05:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa sugere que o cenário político doméstico tem sido percebido como favorável pelos investidores no curto prazo. Se a estabilidade política se mantiver e houver sinais de avanços em pautas econômicas importantes, o índice pode continuar a apresentar desempenho positivo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788268546.433761,
     "titulo": "Orçamento de 2027 não traz alívio fiscal e possui ‘metas ousadas’, avaliam economistas",
     "titulo_original": "Orçamento de 2027 não traz alívio fiscal e possui ‘metas ousadas’, avaliam economistas",
@@ -1103,5 +991,69 @@
     "origem": "domestica",
     "leitura_critica": "A recomendação de compra do BOVA11 sugere uma expectativa de valorização do índice Ibovespa no curto prazo. Se o cenário gráfico se mantiver favorável, a estratégia de swing trade pode se concretizar com ganhos para os investidores.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788373871.6468453,
+    "titulo": "Trabalhadores podem ter até 10 folgas no mês com fim da 6x1; veja como será",
+    "titulo_original": "Trabalhadores podem ter até 10 folgas no mês com fim da 6x1; veja como será",
+    "fonte": "Folha Mercado",
+    "publicado": "02/09 15:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação na CCJ do Senado representa um avanço na discussão sobre a jornada de trabalho, com potencial impacto nas condições laborais. Se a proposta for mantida e aprovada em sua totalidade, poderá alterar significativamente a rotina de muitos trabalhadores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788373875.545562,
+    "titulo": "Dólar fica estável em R$ 5,15 com mercado atento ao petróleo e cenário eleitoral",
+    "titulo_original": "Dólar fica estável em R$ 5,15 com mercado atento ao petróleo e cenário eleitoral - Vero Notícias",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/09 10:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar sugere um equilíbrio momentâneo entre fatores de oferta e demanda, com o mercado aguardando novos desenvolvimentos tanto no âmbito internacional (petróleo) quanto doméstico (eleições).",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788373879.406734,
+    "titulo": "Dólar se mantém perto da estabilidade antes de nova pesquisa eleitoral",
+    "titulo_original": "Dólar se mantém perto da estabilidade antes de nova pesquisa eleitoral - Notícias Agrícolas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/09 09:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A proximidade da divulgação de novas pesquisas eleitorais sugere que o mercado cambial está em compasso de espera. Resultados que alterem significativamente as expectativas políticas podem gerar volatilidade no dólar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788373883.3070498,
+    "titulo": "Governistas ignoram oposição e mantêm votação de fim da 6x1 na CCJ do Senado",
+    "titulo_original": "Governistas ignoram oposição e mantêm votação de fim da 6x1 na CCJ do Senado",
+    "fonte": "Folha Mercado",
+    "publicado": "02/09 14:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de manter a votação demonstra a força da base governista em avançar com a proposta de fim da escala 6x1. Se aprovada, a medida terá implicações diretas nas relações de trabalho e na jornada dos empregados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788373887.2517238,
+    "titulo": "As manchetes políticas estão rápidas e furiosas saindo de Washington",
+    "titulo_original": "The political headlines are fast and furious coming out of Washington",
+    "fonte": "ForexLive",
+    "publicado": "02/09 15:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A diversidade de temas abordados indica um cenário político complexo em Washington, com a administração buscando equilibrar diferentes interesses. A eficácia dessas políticas em se traduzir em resultados concretos será crucial para o cenário econômico.",
+    "is_stocks": false
   }
 ]
