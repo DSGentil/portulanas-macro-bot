@@ -806,5 +806,81 @@
     "origem": "domestica",
     "leitura_critica": "A sequência de altas do Ibovespa sugere um momento positivo para a bolsa brasileira. Se o ímpeto de compra se mantiver, o índice pode testar novos patamares; uma realização de lucros pode levar a uma correção no curto prazo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788354948.4391856,
+    "titulo": "Dólar à vista ronda a estabilidade, em linha com tendência global, antes de pesquisa eleitoral",
+    "titulo_original": "Dólar à vista ronda a estabilidade, em linha com tendência global, antes de pesquisa eleitoral",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 09:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar, atrelada a um cenário global e à expectativa de pesquisas eleitorais, sugere que o mercado está precificando incertezas políticas domésticas. Se a pesquisa confirmar uma tendência de vitória da oposição, isso pode gerar volatilidade no câmbio e na renda fixa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788354952.6354766,
+    "titulo": "Endividamento e comprometimento de renda nas alturas acendem alerta no BC",
+    "titulo_original": "Endividamento e comprometimento de renda nas alturas acendem alerta no BC",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 09:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A preocupação do Banco Central com o endividamento elevado pode levar a medidas que restrinjam o crédito ou aumentem seu custo, impactando o consumo e o investimento. Se o BC adotar medidas mais restritivas, isso pode desacelerar a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788354956.7938423,
+    "titulo": "BC diz que endividamento das famílias é alto e reforça necessidade de novas medidas",
+    "titulo_original": "BC diz que endividamento das famílias é alto e reforça necessidade de novas medidas",
+    "fonte": "Folha Mercado",
+    "publicado": "02/09 08:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O Banco Central reforça a preocupação com o alto endividamento das famílias, sinalizando a iminência de novas medidas no mercado de crédito. A natureza dessas medidas determinará seu impacto na oferta de crédito e na atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788354960.9456,
+    "titulo": "Kanczuk diz como ‘consertar’ as projeções do Copom",
+    "titulo_original": "Kanczuk diz como ‘consertar’ as projeções do Copom - valor.globo.com",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/09 05:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre como 'consertar' as projeções do Copom sugere que há uma percepção de que as estimativas atuais podem não estar refletindo adequadamente o cenário econômico. Se as projeções forem revisadas para cima, isso pode indicar uma postura mais cautelosa do Banco Central em relação à inflação e, consequentemente, manter as taxas de juros mais elevadas por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788354966.351813,
+    "titulo": "Sessão Europeia do investingLive: Rendimentos mais altos dos títulos continuam a deixar os mercados tensos",
+    "titulo_original": "investingLive European session wrap: Higher bond yields continue to keep markets on edge",
+    "fonte": "ForexLive",
+    "publicado": "02/09 08:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos rendimentos de títulos na Europa sugere um cenário de juros mais altos, o que tende a pressionar ativos de risco como ações. Se as expectativas de um Fed mais 'hawkish' se confirmarem, o dólar pode se fortalecer, impactando mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788354966.3532968,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "02/09 06:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade nos preços do petróleo pode ter implicações significativas para a inflação global e para os custos de produção em diversos setores. Se os preços continuarem a subir, isso pode pressionar as margens de empresas e impactar o poder de compra dos consumidores.",
+    "is_stocks": true
   }
 ]
