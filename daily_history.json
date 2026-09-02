@@ -1,310 +1,5 @@
 [
   {
-    "_timestamp": 1788201116.5320246,
-    "titulo": "Dólar recua para R$ 5,18 com disputa presidencial acirrada",
-    "titulo_original": "Dólar recua para R$ 5,18 com disputa presidencial acirrada - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "31/08 13:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar para R$ 5,18, associada à disputa presidencial acirrada, sugere que a incerteza política está influenciando o câmbio. Se a disputa se intensificar, isso pode gerar mais volatilidade no mercado de câmbio e impactar as expectativas de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788201121.2170773,
-    "titulo": "Safra projeta inflação de 3,9% e Selic a 11% em 2027",
-    "titulo_original": "Safra projeta inflação de 3,9% e Selic a 11% em 2027 - Safra",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "31/08 14:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As projeções da Safra para inflação e Selic em 2027 indicam uma perspectiva de convergência para níveis mais baixos. Se a inflação se mantiver controlada, o Banco Central pode ter espaço para manter a Selic em patamares mais baixos no médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788201125.8823962,
-    "titulo": "Títulos de dívida e iene do Japão sofrem pressão após discurso de Warsh em Jackson Hole",
-    "titulo_original": "Títulos de dívida e iene do Japão sofrem pressão após discurso de Warsh em Jackson Hole",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 14:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A pressão sobre os títulos de dívida e o iene japonês sugere uma expectativa de aumento de juros no Japão, o que pode afetar o fluxo de capital global. Se o Banco do Japão realmente elevar os juros, isso pode levar a uma valorização do iene e impactar outros mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788201131.7679117,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "31/08 15:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento ao vivo da cotação do dólar é crucial para entender a dinâmica do mercado de câmbio. Se a moeda apresentar volatilidade significativa, isso pode indicar pressões de juros ou fluxo de capital.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788201131.7690198,
-    "titulo": "Julgamento do STF sobre lucros no exterior pode afetar a Vale (VALE3): entenda",
-    "titulo_original": "Julgamento do STF sobre lucros no exterior pode afetar a Vale (VALE3): entenda - InvesTalk",
-    "fonte": "Google News Acoes",
-    "publicado": "31/08 12:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do STF sobre a tributação de lucros no exterior pode ter implicações fiscais significativas para empresas com operações internacionais. Se a decisão for desfavorável à Vale, isso pode afetar seus resultados e dividendos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788201131.770526,
-    "titulo": "Ações de petrolíferas brasileiras sobem em bloco com avanço do petróleo",
-    "titulo_original": "Ações de petrolíferas brasileiras sobem em bloco com avanço do petróleo",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 14:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta das ações de petrolíferas brasileiras reflete diretamente o aumento dos preços do petróleo no mercado internacional. Se o petróleo continuar em trajetória de alta, isso pode beneficiar os resultados dessas empresas e o desempenho do Ibovespa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788208246.4881244,
-    "titulo": "Na reta final do mês, dólar cai a R$ 5,18, enquanto Bolsa e petróleo sobem",
-    "titulo_original": "Na reta final do mês, dólar cai a R$ 5,18, enquanto Bolsa e petróleo sobem - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "31/08 13:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar em R$ 5,18 pode indicar um fluxo de capital mais favorável ao Brasil ou uma menor demanda pela moeda americana. Se essa tendência se mantiver, pode haver um alívio na pressão inflacionária importada; se o dólar voltar a subir, isso pode reverter parte desse efeito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788208252.910929,
-    "titulo": "Crédito do BNDES está perto da meta de 2% do PIB e não pode ser menor, diz Mercadante",
-    "titulo_original": "Crédito do BNDES está perto da meta de 2% do PIB e não pode ser menor, diz Mercadante",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 16:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Mercadante sobre a meta de crédito do BNDES indica uma política de expansão do financiamento pelo banco público. Se o BNDES atingir e mantiver essa meta, isso pode estimular o investimento em setores específicos da economia; se houver dificuldades em alcançar ou manter esse patamar, o impacto no crédito pode ser menor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788208258.2052114,
-    "titulo": "Juros futuros têm leve alta em dia de pressão externa na renda fixa local",
-    "titulo_original": "Juros futuros têm leve alta em dia de pressão externa na renda fixa local",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 17:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A pressão externa sobre os juros futuros sugere que o mercado local pode reagir a movimentos globais, mesmo sem dados domésticos relevantes. Se o cenário externo se agravar, a tendência de alta nos juros pode se intensificar; caso contrário, a atenção pode retornar para os fatores domésticos, incluindo as perspectivas eleitorais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788208264.2488706,
-    "titulo": "Calendário econômico e de eventos na Ásia 01 de setembro de 2026 - PMI de Manufatura da China previsto",
-    "titulo_original": "Economic and event calendar in Asia 01 September 2026 - China Manufacturing PMI due",
-    "fonte": "ForexLive",
-    "publicado": "31/08 17:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O PMI de manufatura da China, mesmo em contração, apresentar uma leve melhora pode ser interpretado como um sinal de estabilização da atividade industrial. Se o PMI privado divulgado hoje confirmar essa tendência, isso pode indicar uma recuperação gradual na segunda maior economia do mundo, com potenciais reflexos em cadeias de suprimentos globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788208270.8951504,
-    "titulo": "Wall Street avança mais 1% em agosto, apesar de Oriente Médio; Nasdaq salta 3%",
-    "titulo_original": "Wall Street avança mais 1% em agosto, apesar de Oriente Médio; Nasdaq salta 3%",
-    "fonte": "Money Times",
-    "publicado": "31/08 17:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo reacende preocupações com a inflação, o que pode levar a uma postura mais cautelosa dos bancos centrais. Se os preços do petróleo continuarem em trajetória ascendente, isso pode pressionar a inflação e afetar o ritmo de cortes de juros em economias desenvolvidas; caso contrário, o cenário inflacionário pode se estabilizar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788208270.8958795,
-    "titulo": "Trump anunciará novo acordo de precificação de medicamentos.",
-    "titulo_original": "Trump to announce new drug pricing agreement.",
-    "fonte": "ForexLive",
-    "publicado": "31/08 16:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A implementação de acordos de precificação de medicamentos por parte do governo Trump pode ter implicações para o setor farmacêutico global, impactando custos e lucros. Se esses acordos resultarem em redução de preços, isso pode ter um efeito desinflacionário em alguns setores; caso contrário, pode gerar pressão sobre as empresas envolvidas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788213643.3608222,
-    "titulo": "Governo Lula reserva R$ 44,8 bi para emendas parlamentares no Orçamento de 2027",
-    "titulo_original": "Governo Lula reserva R$ 44,8 bi para emendas parlamentares no Orçamento de 2027",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 17:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A destinação de R$ 44,8 bilhões para emendas parlamentares no orçamento de 2027 indica um planejamento fiscal que pode impactar as despesas públicas. Se essa verba for utilizada para financiar projetos que aumentem o déficit, isso pode pressionar a dívida pública. Caso contrário, se for alocada de forma eficiente, pode ter um impacto neutro ou positivo na economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788213647.329915,
-    "titulo": "Orçamento de 2027 acionou quatro gatilhos de contenção de gastos",
-    "titulo_original": "Orçamento de 2027 acionou quatro gatilhos de contenção de gastos",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 18:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ativação de gatilhos de contenção de gastos no orçamento de 2027 indica uma tentativa de controle fiscal, com a vedação de novos benefícios tributários e limitação no crescimento de despesas de pessoal. Se essas medidas forem eficazes em reduzir o déficit, isso pode melhorar a percepção de risco fiscal do país. Caso contrário, se o déficit persistir apesar dessas travas, a pressão sobre as contas públicas pode continuar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788213651.3168616,
-    "titulo": "Proposta de Orçamento indica salário mínimo de R$ 1.741 em 2027",
-    "titulo_original": "Proposta de Orçamento indica salário mínimo de R$ 1.741 em 2027",
-    "fonte": "Folha Mercado",
-    "publicado": "31/08 17:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A previsão de um salário mínimo de R$ 1.741 em 2027, apresentada no projeto orçamentário, indica uma política de reajuste que pode impactar o poder de compra e os custos para as empresas. Se este valor estiver alinhado com a inflação e o crescimento da produtividade, o impacto pode ser moderado. Caso contrário, um aumento real expressivo pode gerar pressões inflacionárias e sobre os gastos públicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788213655.5987108,
-    "titulo": "Guerra entre Irã e EUA cada vez mais deixa de ser bilateral, afirma jornalista especializada",
-    "titulo_original": "Guerra entre Irã e EUA cada vez mais deixa de ser bilateral, afirma jornalista especializada - Brasil de Fato",
-    "fonte": "Google News Geopolitica",
-    "publicado": "31/08 17:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A afirmação de que o conflito entre Irã e EUA está se tornando menos bilateral sugere uma potencial escalada e envolvimento de outros atores regionais ou globais. Se essa dinâmica se confirmar, o risco de instabilidade geopolítica global aumentaria, o que poderia afetar mercados de commodities e fluxos de capital. É importante acompanhar os desdobramentos para entender o alcance dessa expansão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788213661.153762,
-    "titulo": "Isaac Sidney deixará presidência-executiva da Febraban; Leandro Vilain assume",
-    "titulo_original": "Isaac Sidney deixará presidência-executiva da Febraban; Leandro Vilain assume",
-    "fonte": "Valor Economico",
-    "publicado": "31/08 18:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A mudança na liderança da Febraban representa uma transição institucional no setor bancário brasileiro. Se a nova gestão focar em pautas que impactem a regulamentação ou a política monetária, isso pode ter reflexos no mercado financeiro. No entanto, a notícia descreve a mudança como planejada e harmoniosa, sem indicar alterações abruptas de rumo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788213661.1551383,
-    "titulo": "Ibovespa B3 sobe 1%, com ações da Petrobras em destaque; dólar vai a R$ 5,18",
-    "titulo_original": "Ibovespa B3 sobe 1%, com ações da Petrobras em destaque; dólar vai a R$ 5,18 - Bora Investir",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "31/08 18:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa, com destaque para Petrobras, sugere um otimismo pontual no mercado acionário brasileiro. Se a valorização das ações da Petrobras estiver atrelada a notícias específicas da empresa, o movimento pode ser isolado. Caso contrário, se refletir um sentimento geral de melhora no setor de commodities, pode indicar uma tendência mais ampla.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788213661.1563628,
-    "titulo": "Ibovespa consegue 9ª alta seguida, mas mês não sai do negativo; Petrobras dispara 3%",
-    "titulo_original": "Ibovespa consegue 9ª alta seguida, mas mês não sai do negativo; Petrobras dispara 3% - infomoney.com.br",
-    "fonte": "Google News Acoes",
-    "publicado": "31/08 17:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A sequência de altas do Ibovespa, apesar de um fechamento mensal negativo, indica volatilidade e recuperação pontual. Se a força das ações da Petrobras continuar, isso pode sustentar o índice no curto prazo. No entanto, a persistência da queda mensal sugere que fatores macroeconômicos mais amplos podem estar limitando a recuperação geral do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788213661.1576118,
-    "titulo": "Banco do Brasil (BBSA3) tem ‘pernada’ de 16% em dias; o que está por trás da alta?",
-    "titulo_original": "Banco do Brasil (BBSA3) tem ‘pernada’ de 16% em dias; o que está por trás da alta?",
-    "fonte": "Money Times",
-    "publicado": "31/08 18:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte valorização das ações do Banco do Brasil pode estar ligada à recuperação geral do Ibovespa ou a fatores específicos da empresa. Se a alta for sustentada por fundamentos sólidos da companhia, como resultados positivos ou melhora na gestão, o movimento pode continuar. Caso contrário, se for apenas um reflexo de movimentos de curto prazo do mercado, a tendência pode se reverter.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788213661.158851,
-    "titulo": "Ibovespa sobe 1% com Petrobras e disputa mais apertada entre Lula e Flávio Bolsonaro",
-    "titulo_original": "Ibovespa sobe 1% com Petrobras e disputa mais apertada entre Lula e Flávio Bolsonaro - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "31/08 14:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa, associada à Petrobras e à disputa eleitoral mais apertada, indica que o mercado está reagindo a fatores corporativos e políticos. Se a Petrobras continuar a apresentar bons resultados, isso pode sustentar o índice. No entanto, a incerteza política gerada pela disputa eleitoral pode limitar a recuperação do mercado, especialmente se houver sinais de instabilidade ou mudanças abruptas nas políticas econômicas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788213661.1600919,
-    "titulo": "Ibovespa sobe 1% e encerra agosto perto da estabilidade; dólar recua a R$ 5,19",
-    "titulo_original": "Ibovespa sobe 1% e encerra agosto perto da estabilidade; dólar recua a R$ 5,19 - Bloomberg Línea Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "31/08 18:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O encerramento de agosto com o Ibovespa próximo da estabilidade e o dólar em recuo sugere um alívio pontual no mercado brasileiro. Se a tendência de recuo do dólar se mantiver, isso pode ser positivo para a inflação e para a atratividade de ativos locais. No entanto, a proximidade da estabilidade do Ibovespa indica que os fatores que pressionaram o índice no mês ainda podem persistir, exigindo cautela.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788219042.6289158,
-    "titulo": "Inflação? Você quer inflação? Preços de lojas do Reino Unido sobem no ritmo mais rápido desde 2024",
-    "titulo_original": "Inflation? You want inflation? UK shop prices rise at fastest pace since 2024",
-    "fonte": "ForexLive",
-    "publicado": "31/08 20:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento mais rápido nos preços das lojas no Reino Unido sugere que a inflação pode ser mais persistente do que o esperado, o que pode levar o Banco da Inglaterra a manter uma postura mais restritiva em relação aos juros. Se os dados de inflação subsequentes continuarem elevados, as expectativas de corte de juros no Reino Unido podem ser adiadas.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1788262257.2936046,
     "titulo": "Sem ajuste fiscal, dólar pode testar novos picos",
     "titulo_original": "Sem ajuste fiscal, dólar pode testar novos picos - Valor Econômico",
@@ -1041,6 +736,75 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A vitória da B3 em processos tributários no CARF representa uma redução de passivos fiscais para a empresa. Se decisões semelhantes ocorrerem em outros casos de grande vulto, isso pode indicar uma tendência de maior flexibilidade ou revisão em certas cobranças fiscais; caso contrário, a manutenção da postura rigorosa da Receita Federal pode prevalecer.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788348667.6906924,
+    "titulo": "Desconfiança de investidor com títulos privados afeta o mercado até de empresas saudáveis",
+    "titulo_original": "Desconfiança de investidor com títulos privados afeta o mercado até de empresas saudáveis",
+    "fonte": "InvestNews",
+    "publicado": "02/09 06:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desconfiança em títulos privados eleva o custo de capital para as empresas. Se a percepção de risco aumentar, as taxas de juros de mercado podem continuar subindo; uma melhora na confiança dos investidores poderia reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788348672.4325593,
+    "titulo": "Juros em queda mudam cenário dos investimentos; veja as apostas para 2027 - Estadão",
+    "titulo_original": "Juros em queda mudam cenário dos investimentos; veja as apostas para 2027 - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/09 05:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de queda nos juros pode impulsionar a busca por ativos de maior risco. Se a tendência de queda se confirmar, investimentos em renda variável podem se tornar mais atrativos; se os juros permanecerem altos por mais tempo, a renda fixa continuará dominante.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788348677.1105306,
+    "titulo": "Durigan: É evidente que é preciso fazer mais ajuste fiscal, trajetória tem gradualidade",
+    "titulo_original": "Durigan: É evidente que é preciso fazer mais ajuste fiscal, trajetória tem gradualidade",
+    "fonte": "Money Times",
+    "publicado": "02/09 07:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Durigan indica uma admissão da necessidade de ajuste fiscal, mas com ressalvas sobre a trajetória. Se as medidas de ajuste forem implementadas de forma mais robusta, a confiança fiscal pode aumentar; se a 'gradualidade' for excessiva, pode haver pressão sobre as contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788348681.8198025,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "02/09 03:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A decisão do Banco do Canadá de manter os juros inalterados, em um contexto de preocupações com o comércio, sugere cautela. Se os dados de emprego nos EUA vierem significativamente abaixo do esperado, o Fed pode ajustar sua postura; caso contrário, a atenção permanecerá na inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788348687.3696752,
+    "titulo": "Day Trade hoje (02): Ibovespa testa 181 mil após 10 altas; pode subir mais? - InfoMoney",
+    "titulo_original": "Day Trade hoje (02): Ibovespa testa 181 mil após 10 altas; pode subir mais? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "02/09 07:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A sequência de altas do Ibovespa sugere um momento positivo para a bolsa brasileira. Se o ímpeto de compra se mantiver, o índice pode testar novos patamares; uma realização de lucros pode levar a uma correção no curto prazo.",
     "is_stocks": true
   }
 ]
