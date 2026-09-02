@@ -1,84 +1,5 @@
 [
   {
-    "_timestamp": 1788275778.524802,
-    "titulo": "Diretor do BC diz que órgão lançará novas medidas para combater endividamento",
-    "titulo_original": "Diretor do BC diz que órgão lançará novas medidas para combater endividamento",
-    "fonte": "Folha Mercado",
-    "publicado": "01/09 11:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "As novas medidas do Banco Central para combater o endividamento, especialmente no cartão de crédito e crédito não consignado, podem trazer mais segurança para o sistema financeiro e para os consumidores. Se essas medidas forem eficazes, podem reduzir a inadimplência e melhorar a qualidade do crédito no país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788275783.204983,
-    "titulo": "Quadro macroeconômico pode ter influenciado consumo das famílias no trimestre, diz IBGE",
-    "titulo_original": "Quadro macroeconômico pode ter influenciado consumo das famílias no trimestre, diz IBGE",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 10:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta taxa de juros e o endividamento das famílias, conforme apontado pelo IBGE, podem ter restringido o consumo, impactando a atividade econômica. Se as taxas de juros começarem a cair e o endividamento for controlado, o consumo das famílias pode se recuperar, impulsionando o crescimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788275787.9270916,
-    "titulo": "Crédito mais caro: temor global de inflação e dívida faz investidores venderem títulos",
-    "titulo_original": "Crédito mais caro: temor global de inflação e dívida faz investidores venderem títulos",
-    "fonte": "InvestNews",
-    "publicado": "01/09 10:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento do preço do petróleo, ao alimentar temores de inflação, pressiona os bancos centrais a manterem ou elevarem as taxas de juros, o que encarece o crédito e pode desacelerar a atividade econômica. Se os preços do petróleo estabilizarem ou caírem, a pressão inflacionária pode diminuir, permitindo que os bancos centrais reconsiderem a trajetória de alta dos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788275792.642049,
-    "titulo": "Ataques aéreos da Rússia matam 12 na região de Kiev no sexto dia de ofensiva",
-    "titulo_original": "Ataques aéreos da Rússia matam 12 na região de Kiev no sexto dia de ofensiva",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 11:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A intensificação dos ataques russos na Ucrânia, com foco em Kiev, eleva o risco de escalada do conflito e pode gerar novas ondas de refugiados e instabilidade geopolítica. Se as negociações entre Ucrânia e Rússia avançarem em setembro, como sugerido, isso poderia trazer um alívio temporário, mas a situação permanece volátil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788275798.0378275,
-    "titulo": "Bolsas caem em NY com peso de avanço nos juros dos Treasuries e nos preços do petróleo",
-    "titulo_original": "Bolsas caem em NY com peso de avanço nos juros dos Treasuries e nos preços do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 10:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda das bolsas em Nova York, influenciada pela alta dos juros dos Treasuries e do petróleo, reflete um cenário de aversão ao risco nos mercados globais. Se os rendimentos dos títulos americanos estabilizarem e os preços do petróleo recuarem, as bolsas podem apresentar recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788275798.0396142,
-    "titulo": "Petrobras reajusta preços do querosene de aviação em 13,9%, em média",
-    "titulo_original": "Petrobras reajusta preços do querosene de aviação em 13,9%, em média",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 11:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento no preço do QAV pode impactar os custos das companhias aéreas, o que, em um cenário de tensões geopolíticas persistentes, pode se refletir em repasses para as tarifas de passagens. Se as cotações internacionais do petróleo recuarem significativamente, a Petrobras poderá ajustar os preços para baixo, aliviando a pressão sobre o setor aéreo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788281141.3629467,
     "titulo": "Caiado quer trava temporária em aposentadorias para fazer ajuste, diz coordenador de plano político",
     "titulo_original": "Caiado quer trava temporária em aposentadorias para fazer ajuste, diz coordenador de plano político",
@@ -1055,6 +976,152 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A notícia informa sobre uma decisão operacional da Petrobras em um bloco específico. Embora o setor de petróleo seja relevante para a economia, a notícia em si não aborda decisões fiscais, regulatórias ou macroeconômicas que afetem o mercado de forma ampla. A relevância é média por se tratar de uma grande empresa estatal com potencial impacto setorial, mas sem conexão explícita com os canais definidos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788386515.7044554,
+    "titulo": "Câmara aprova urgência de projeto que muda regras orçamentárias para viabilizar Redata",
+    "titulo_original": "Câmara aprova urgência de projeto que muda regras orçamentárias para viabilizar Redata",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 18:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação da urgência para o projeto indica um avanço na flexibilização das regras fiscais para despesas específicas. Se o projeto for aprovado em sua totalidade, poderá abrir precedentes para futuras concessões de benefícios sem a necessidade de compensação fiscal imediata, o que pode gerar preocupações com a sustentabilidade fiscal a longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788386520.0426085,
+    "titulo": "O hedge eleitoral da Faria Lima: dólar se Lula ganhar, opções se Flávio vencer",
+    "titulo_original": "O hedge eleitoral da Faria Lima: dólar se Lula ganhar, opções se Flávio vencer - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/09 14:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia descreve as estratégias de hedge do mercado financeiro brasileiro em relação aos resultados eleitorais. Isso indica que a volatilidade do dólar e o desempenho de ativos de renda variável podem ser significativamente influenciados pelo desfecho da eleição, dependendo do candidato vencedor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788386524.4748461,
+    "titulo": "Curva de juros recua com ‘trade eleitoral’ e alívio nos Treasuries",
+    "titulo_original": "Curva de juros recua com ‘trade eleitoral’ e alívio nos Treasuries",
+    "fonte": "Money Times",
+    "publicado": "02/09 18:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de um cenário eleitoral doméstico mais incerto e o alívio nos Treasuries americanos está levando a uma queda nos juros futuros no Brasil. Se a percepção de risco eleitoral se mantiver ou aumentar, isso pode continuar a pressionar a curva de juros para baixo, refletindo expectativas de menor volatilidade futura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788386528.9135342,
+    "titulo": "A correlação quebrada entre juros e ações: até quando?",
+    "titulo_original": "A correlação quebrada entre juros e ações: até quando?",
+    "fonte": "Folha Mercado",
+    "publicado": "02/09 18:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A persistência da alta nos juros de longo prazo globalmente pode indicar um cenário de taxas mais elevadas por um período prolongado. Se essa tendência se mantiver, pode continuar a pressionar as avaliações de ativos de risco, como ações, e influenciar as decisões de política monetária em diversos países.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788386535.0326886,
+    "titulo": "Ibovespa dispara e dólar cai a R$ 5,10 com perspectiva de disputa eleitoral mais acirrada",
+    "titulo_original": "Ibovespa dispara e dólar cai a R$ 5,10 com perspectiva de disputa eleitoral mais acirrada",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 17:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de uma disputa eleitoral mais acirrada está impactando positivamente o mercado, com o Ibovespa em alta e o dólar em queda. Se a pesquisa eleitoral se confirmar e indicar um cenário de maior alternância de poder, isso pode sustentar o otimismo no mercado e pressionar ainda mais os juros futuros para baixo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788386535.0344775,
+    "titulo": "Com impulso de nova pesquisa Quaest, Ibovespa registrou a 11ª alta seguida",
+    "titulo_original": "Com impulso de nova pesquisa Quaest, Ibovespa registrou a 11ª alta seguida",
+    "fonte": "InvestNews",
+    "publicado": "02/09 14:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade das altas do Ibovespa demonstra a forte reação do mercado a pesquisas eleitorais que indicam maior competitividade e a possibilidade de um candidato pró-mercado ganhar espaço. Se novas pesquisas mantiverem essa tendência, o otimismo no mercado de ações pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788386535.0361838,
+    "titulo": "Ibovespa sobe 3%, na maior alta desde março, com eleições no radar",
+    "titulo_original": "Ibovespa sobe 3%, na maior alta desde março, com eleições no radar",
+    "fonte": "Valor Economico",
+    "publicado": "02/09 17:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A pesquisa eleitoral que indica maior disputa e os desdobramentos do caso Master estão influenciando positivamente o Ibovespa. Se a percepção de um cenário eleitoral mais competitivo se consolidar, o mercado pode continuar a precificar um risco menor de políticas mais intervencionistas, sustentando a alta do índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788386535.0378652,
+    "titulo": "Eleição faz preço, Ibovespa salta 3% e engata 11ª alta consecutiva; dólar cai a R$ 5,10",
+    "titulo_original": "Eleição faz preço, Ibovespa salta 3% e engata 11ª alta consecutiva; dólar cai a R$ 5,10",
+    "fonte": "Money Times",
+    "publicado": "02/09 17:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte valorização do Ibovespa e a queda do dólar refletem o otimismo do mercado com o cenário eleitoral, que sugere maior probabilidade de um resultado que favoreça políticas pró-mercado. Se essa tendência de pesquisas eleitorais se mantiver, o 'trade eleitoral' pode continuar a impulsionar o mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788386535.0395827,
+    "titulo": "investingLive Americas FX news wrap 2 Sept: USD mixed, stocks rise as Iran tensions simmer",
+    "titulo_original": "investingLive Americas FX news wrap 2 Sept: USD mixed, stocks rise as Iran tensions simmer",
+    "fonte": "ForexLive",
+    "publicado": "02/09 17:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O Livro Bege do Fed sugere um cenário de crescimento moderado com inflação controlada, o que pode influenciar as decisões futuras do banco central americano sobre juros. A menção a tensões no Irã adiciona um elemento de risco geopolítico que pode afetar o apetite por risco global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788386535.0412483,
+    "titulo": "Hora de vender? BofA vê 2 riscos para bolsa",
+    "titulo_original": "Hora de vender? BofA vê 2 riscos para bolsa",
+    "fonte": "Money Times",
+    "publicado": "02/09 18:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão do BofA sugere que a incerteza fiscal e as perspectivas para os juros podem limitar o desempenho da bolsa brasileira. Se a incerteza fiscal persistir ou se as taxas de juros se mantiverem elevadas, isso pode continuar a afetar negativamente os resultados corporativos e o apetite dos investidores por ativos brasileiros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788386535.0429904,
+    "titulo": "Mercado agora | Bolsas da Europa recuam, sob pressão títulos soberanos; Ibovespa segue em alta",
+    "titulo_original": "Mercado agora | Bolsas da Europa recuam, sob pressão títulos soberanos; Ibovespa segue em alta - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "02/09 14:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A divergência entre o desempenho das bolsas europeias e o Ibovespa sugere que fatores específicos de cada mercado estão em jogo. A pressão sobre os títulos soberanos na Europa pode indicar preocupações com a dívida pública ou com a política monetária na região, enquanto o Ibovespa pode estar sendo impulsionado por fatores domésticos.",
     "is_stocks": true
   }
 ]
