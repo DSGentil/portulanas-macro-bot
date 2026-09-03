@@ -1,366 +1,5 @@
 [
   {
-    "_timestamp": 1788287441.7822483,
-    "titulo": "PIB cresce 0,5% no segundo trimestre e reforça cenário de desaceleração no país",
-    "titulo_original": "PIB cresce 0,5% no segundo trimestre e reforça cenário de desaceleração no país",
-    "fonte": "InvestNews",
-    "publicado": "01/09 10:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O dado de PIB sugere uma desaceleração econômica, com o consumo das famílias sendo impactado negativamente por juros altos. Se a tendência de desaceleração se confirmar nos próximos trimestres, o Banco Central pode ter mais espaço para reduzir a taxa Selic; caso contrário, a persistência da inflação pode forçar a manutenção dos juros em patamares elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788287445.6201847,
-    "titulo": "Sustentado por investimento e estoques, PIB mostra fraqueza, mesmo com alta de 0,5%, apontam economistas",
-    "titulo_original": "Sustentado por investimento e estoques, PIB mostra fraqueza, mesmo com alta de 0,5%, apontam economistas",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 14:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise dos economistas sugere que o crescimento do PIB, embora positivo, é frágil e sustentado por fatores não relacionados ao consumo. Se os investimentos e estoques não mantiverem o ritmo, a economia pode desacelerar ainda mais; caso contrário, a resiliência desses componentes pode sustentar o crescimento, apesar da fraqueza no consumo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788287449.439057,
-    "titulo": "Análise: PIB preserva corte da Selic, mas não autoriza pressa",
-    "titulo_original": "Análise: PIB preserva corte da Selic, mas não autoriza pressa - cnnbrasil.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 11:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise sobre o PIB indica que o cenário atual não justifica pressa na redução da Selic. Se os próximos dados de atividade econômica mostrarem fraqueza adicional, o Banco Central pode se sentir mais confortável para acelerar o corte de juros; caso contrário, a manutenção de um ritmo mais cauteloso pode ser mantida.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788287453.2842028,
-    "titulo": "Soja e carnes puxam PIB da agropecuária, mas próximos resultados devem desacelerar",
-    "titulo_original": "Soja e carnes puxam PIB da agropecuária, mas próximos resultados devem desacelerar - Globo Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "01/09 11:39",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para um desempenho positivo recente do agronegócio, mas com expectativa de desaceleração futura. Se a desaceleração se concretizar, isso pode impactar negativamente o crescimento geral do PIB; caso contrário, a força do setor pode continuar a sustentar a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788287457.8090317,
-    "titulo": "Petróleo amplia valorização com novos ataques no Oriente Médio",
-    "titulo_original": "Petróleo amplia valorização com novos ataques no Oriente Médio",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 15:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A valorização do petróleo, impulsionada por tensões geopolíticas no Oriente Médio, pode gerar pressões inflacionárias globais. Se a situação se agravar, o aumento nos custos de energia pode impactar o consumo e a produção; se as tensões diminuírem, os preços do petróleo podem recuar, aliviando pressões inflacionárias.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788294647.609343,
-    "titulo": "O que esperar do dólar em setembro? Veja até onde a moeda pode ir",
-    "titulo_original": "O que esperar do dólar em setembro? Veja até onde a moeda pode ir - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 15:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A análise sobre o comportamento do dólar em setembro é crucial para operadores de câmbio e investidores. Se as projeções indicarem uma valorização acentuada, isso pode impactar as exportações e importações brasileiras, além de influenciar decisões de investimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788294652.988881,
-    "titulo": "Campos Neto elogia medidas do Banco Central para conter fraudes no Pix",
-    "titulo_original": "Campos Neto elogia medidas do Banco Central para conter fraudes no Pix",
-    "fonte": "Folha Mercado",
-    "publicado": "01/09 16:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O elogio de Campos Neto às medidas de segurança do Pix reforça a confiança no sistema de pagamentos digitais. Se as medidas forem eficazes, podem reduzir o risco de fraudes e aumentar a adoção do Pix, com potenciais impactos na eficiência do sistema financeiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788294658.2659173,
-    "titulo": "Eventual problema em uma prestadora de serviços de IA relevante poderia colocar estabilidade financeira em risco, diz BC",
-    "titulo_original": "Eventual problema em uma prestadora de serviços de IA relevante poderia colocar estabilidade financeira em risco, diz BC",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 16:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A preocupação do Banco Central com a concentração de serviços de IA no setor financeiro aponta para riscos emergentes na digitalização. Se o BC implementar regulamentações mais rigorosas, isso pode afetar o desenvolvimento e a adoção de tecnologias de IA no mercado financeiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788294663.4686172,
-    "titulo": "Calendário econômico e de eventos na Ásia Quarta-feira, 2 de Setembro de 2026 - alta da taxa RBZN esperada",
-    "titulo_original": "Economic and event calendar in Asia Wednesday, September 2, 2026 - RBZN rate hike expected",
-    "fonte": "ForexLive",
-    "publicado": "01/09 17:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do RBNZ sobre a taxa de juros é um ponto crucial para o mercado asiático. Se a alta for confirmada, pode sinalizar um aperto monetário mais agressivo na região; caso contrário, pode indicar cautela por parte do banco central.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788294669.5124495,
-    "titulo": "Bolsas de NY fecham em queda com alta do petróleo e dos juros dos Treasuries",
-    "titulo_original": "Bolsas de NY fecham em queda com alta do petróleo e dos juros dos Treasuries",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 17:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento dos preços do petróleo eleva os temores inflacionários, o que pode levar o Federal Reserve a manter uma política monetária mais restritiva. Se os dados de inflação futuros vierem abaixo do esperado, isso poderia reabrir espaço para discussões sobre cortes de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788294669.5140839,
-    "titulo": "Ações recomendadas: Petrobras (PETR4) domina setembro; veja quem corre por fora",
-    "titulo_original": "Ações recomendadas: Petrobras (PETR4) domina setembro; veja quem corre por fora - suno.com.br",
-    "fonte": "Google News Acoes",
-    "publicado": "01/09 14:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de ações específicas, como a Petrobras, pode influenciar o desempenho do setor de petróleo e gás na bolsa. Se a recomendação for amplamente seguida, pode gerar um fluxo de compra para PETR4 e impactar o Ibovespa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788294669.5156817,
-    "titulo": "Genial faz limpa na carteira de small caps: veja as 8 ações escolhidas para setembro",
-    "titulo_original": "Genial faz limpa na carteira de small caps: veja as 8 ações escolhidas para setembro",
-    "fonte": "Money Times",
-    "publicado": "01/09 16:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alteração na carteira de small caps recomendada pela Genial pode direcionar o fluxo de capital para as ações incluídas. Se essas small caps tiverem bom desempenho, podem atrair mais investidores e gerar volatilidade em seus preços.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788300060.7845483,
-    "titulo": "Bolsa Família não deve ter aumento, e reajuste de servidores será limitado em 2027; entenda",
-    "titulo_original": "Bolsa Família não deve ter aumento, e reajuste de servidores será limitado em 2027; entenda",
-    "fonte": "Folha Mercado",
-    "publicado": "01/09 15:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A limitação de gastos com programas sociais e reajustes de servidores em um cenário orçamentário restrito pode indicar um esforço do governo em controlar o déficit fiscal. Se essa política for mantida, pode contribuir para a estabilidade das contas públicas, o que seria positivo para a percepção de risco do país. No entanto, a ausência de aumento para o Bolsa Família pode ter implicações sociais e de consumo que precisam ser monitoradas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788300066.1731071,
-    "titulo": "Trigo atinge máxima desde fevereiro de 2023 por tensões no Mar Negro; milho e soja arrancam em Chicago",
-    "titulo_original": "Trigo atinge máxima desde fevereiro de 2023 por tensões no Mar Negro; milho e soja arrancam em Chicago",
-    "fonte": "Money Times",
-    "publicado": "01/09 18:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões no Mar Negro e os ataques a infraestruturas portuárias podem impactar o fornecimento global de trigo, elevando seus preços. Esse aumento no custo de commodities agrícolas pode se refletir em pressões inflacionárias nos preços dos alimentos em diversos países. Se a situação se agravar, pode haver um impacto mais significativo na inflação global, levando os bancos centrais a reavaliar suas políticas monetárias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788300071.6479342,
-    "titulo": "EUA terão preferência sobre petróleo da Venezuela e poderão comprar a preço de custo",
-    "titulo_original": "EUA terão preferência sobre petróleo da Venezuela e poderão comprar a preço de custo - Bloomberg Línea Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "01/09 14:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A possibilidade de os EUA terem acesso preferencial ao petróleo venezuelano a preço de custo pode aumentar a oferta global e, potencialmente, mitigar pressões inflacionárias nos preços do petróleo. Se essa política for efetivada e resultar em maior disponibilidade de petróleo, pode influenciar positivamente o cenário inflacionário global. No entanto, a extensão desse impacto dependerá do volume de petróleo negociado e das condições específicas do acordo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788300076.89232,
-    "titulo": "Pentágono controla 21% do petróleo da Venezuela via empresa",
-    "titulo_original": "Pentágono controla 21% do petróleo da Venezuela via empresa - Correio do Povo",
-    "fonte": "Google News Commodities",
-    "publicado": "01/09 17:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O controle do Pentágono sobre uma parcela significativa do petróleo venezuelano pode influenciar a oferta global e, consequentemente, os preços. Se essa participação resultar em maior estabilidade no fornecimento ou em um aumento da oferta, pode ajudar a moderar pressões inflacionárias no mercado de petróleo. A notícia sugere uma intervenção estratégica que pode ter implicações para a dinâmica do mercado de energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788300083.8265185,
-    "titulo": "Notícias de FX das Américas da Investing.com em 1º de Setembro: Acabou, mas não para a Guerra do Irã. Combates recomeçam.",
-    "titulo_original": "investingLive Americas FX news wrap 1 Sept: It's a wrap but not for the Iran War.  Fighting resumes.",
-    "fonte": "ForexLive",
-    "publicado": "01/09 18:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões no Oriente Médio, com ataques e ameaças de retaliação, tende a pressionar os preços do petróleo, o que pode gerar efeitos inflacionários globais. Se essa pressão inflacionária se materializar, pode levar os bancos centrais a manterem uma postura mais restritiva em relação aos juros. A volatilidade nos mercados de renda variável e fixa reflete a aversão ao risco em cenários de instabilidade geopolítica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788300083.8279033,
-    "titulo": "Citi, Bank of America e outros bancos globais se unem para criar empresa de stablecoin",
-    "titulo_original": "Citi, Bank of America e outros bancos globais se unem para criar empresa de stablecoin",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 18:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A iniciativa de grandes bancos globais em criar uma empresa para emissão de stablecoins sinaliza uma maior integração do sistema financeiro tradicional com ativos digitais. Se essa empresa for bem-sucedida e lançar stablecoins lastreadas em moedas fortes, isso pode facilitar transações internacionais e reduzir custos. O sucesso dessa empreitada pode influenciar a adoção de criptoativos no mercado financeiro e a forma como as moedas digitais são regulamentadas no futuro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788300083.829179,
-    "titulo": "É isso de novo. Trump diz \"o Irã será totalmente aniquilado como país\". Petróleo bruto negocia a US$ 90,50",
-    "titulo_original": "Here we go again.  Trump says \"Iran will be totally wiped out as a country\". Crude oil trades at $90.50",
-    "fonte": "ForexLive",
-    "publicado": "01/09 15:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "As declarações de Trump sobre a aniquilação do Irã e a escalada das tensões geopolíticas elevam o risco de conflito, o que tende a impulsionar os preços do petróleo e gerar incertezas nos mercados globais. Se o conflito se intensificar, o petróleo pode subir ainda mais, alimentando a inflação e levando os bancos centrais a considerar aumentos de juros. A queda nos índices de ações reflete a aversão ao risco em um cenário de instabilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788300083.8304489,
-    "titulo": "Ibovespa B3 sobe 1,30% e fecha perto dos 180 mil pontos; dólar cai a R$ 5,15",
-    "titulo_original": "Ibovespa B3 sobe 1,30% e fecha perto dos 180 mil pontos; dólar cai a R$ 5,15 - borainvestir.b3.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 18:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa e a queda do dólar indicam um dia positivo para o mercado brasileiro, com maior apetite por risco. Se essa tendência de valorização da bolsa e desvalorização da moeda se mantiver, pode ser um sinal de melhora na confiança dos investidores no cenário doméstico. No entanto, é importante observar se essa movimentação é sustentada por fatores macroeconômicos concretos ou por movimentos pontuais de fluxo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788300083.831753,
-    "titulo": "Dividendos: por que distribuir todo o lucro da empresa no fim do ano pode resultar em imposto a mais",
-    "titulo_original": "Dividendos: por que distribuir todo o lucro da empresa no fim do ano pode resultar em imposto a mais",
-    "fonte": "InvestNews",
-    "publicado": "01/09 17:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre uma mudança na tributação de dividendos, com um novo limite de isenção. Se os empresários não se planejarem adequadamente, isso pode resultar em um aumento da carga tributária sobre seus lucros. Essa alteração fiscal pode influenciar as decisões de distribuição de lucros das empresas e, consequentemente, o fluxo de caixa disponível para reinvestimento ou distribuição aos acionistas. É importante monitorar como as empresas se adaptarão a essa nova regra.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788300083.833075,
-    "titulo": "O que o Cade analisa na compra da CRDC pela B3",
-    "titulo_original": "O que o Cade analisa na compra da CRDC pela B3 - NeoFeed",
-    "fonte": "Google News Acoes",
-    "publicado": "01/09 14:08",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia trata de uma análise do Cade sobre uma operação de mercado específica, sem indicar uma decisão final ou impacto macroeconômico amplo. Se o Cade aprovar a operação, isso pode ser visto como um sinal de que o ambiente regulatório para fusões e aquisições está funcionando. Contudo, a relevância para o mercado em geral depende do porte da operação e de possíveis implicações setoriais que não são detalhadas no resumo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788305438.4837608,
-    "titulo": "Senado aprova projeto que cria o Redata",
-    "titulo_original": "Senado aprova projeto que cria o Redata",
-    "fonte": "Valor Economico",
-    "publicado": "01/09 20:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do Redata representa um incentivo fiscal concreto para o setor de data centers no Brasil. Se a sanção presidencial ocorrer sem vetos, o impacto na atração de investimentos para infraestrutura de TI pode ser significativo; caso contrário, a postergação ou alteração das regras pode adiar esses efeitos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788305442.2918725,
-    "titulo": "Cada real adicionado no combustível de aviação reduz 225 mil passageiros, diz entidade que reúne aéreas",
-    "titulo_original": "Cada real adicionado no combustível de aviação reduz 225 mil passageiros, diz entidade que reúne aéreas",
-    "fonte": "Folha Mercado",
-    "publicado": "01/09 20:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do custo do combustível de aviação impacta diretamente o setor aéreo, reduzindo o número de passageiros e elevando os gastos das companhias. Se essa tendência de alta nos custos persistir, pode haver pressão inflacionária em serviços relacionados ao transporte aéreo e uma contração na atividade do setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788305446.0859208,
-    "titulo": "Dólar cai 0,47%, a R$ 5,15, em sessão positiva para ativos brasileiros",
-    "titulo_original": "Dólar cai 0,47%, a R$ 5,15, em sessão positiva para ativos brasileiros - infomoney.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 17:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a sessão positiva para ativos brasileiros sugerem um cenário de maior apetite por risco no mercado doméstico. Se essa tendência se mantiver, pode indicar um fluxo de capital favorável ao Brasil; caso contrário, reversões rápidas podem ocorrer dependendo de fatores externos ou domésticos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788305449.9067118,
-    "titulo": "Dólar pode subir com qualquer resultado da eleição; entenda o que está em jogo",
-    "titulo_original": "Dólar pode subir com qualquer resultado da eleição; entenda o que está em jogo - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/09 18:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A possibilidade de o dólar subir com qualquer resultado eleitoral sugere que o mercado precifica um risco político elevado no Brasil. Se a eleição gerar instabilidade ou incertezas sobre a condução econômica futura, o dólar tende a se valorizar; se um resultado trouxer maior clareza e previsibilidade, a pressão de alta pode diminuir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788305454.5424924,
-    "titulo": "B3 (B3SA3) vence disputa bilionária com a Receita Federal; confira valor",
-    "titulo_original": "B3 (B3SA3) vence disputa bilionária com a Receita Federal; confira valor",
-    "fonte": "Money Times",
-    "publicado": "01/09 19:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A vitória da B3 em processos tributários no CARF representa uma redução de passivos fiscais para a empresa. Se decisões semelhantes ocorrerem em outros casos de grande vulto, isso pode indicar uma tendência de maior flexibilidade ou revisão em certas cobranças fiscais; caso contrário, a manutenção da postura rigorosa da Receita Federal pode prevalecer.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788348667.6906924,
     "titulo": "Desconfiança de investidor com títulos privados afeta o mercado até de empresas saudáveis",
     "titulo_original": "Desconfiança de investidor com títulos privados afeta o mercado até de empresas saudáveis",
@@ -1112,6 +751,121 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O projection de gastos com data centers até 2050, impulsionada pela IA, demonstra o potencial de crescimento do setor de tecnologia. Se essa demanda se concretizar, pode haver um aumento significativo nos investimentos em infraestrutura digital e em empresas ligadas ao setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788435055.389392,
+    "titulo": "Brasil pode estar na antessala de uma crise de crédito no mercado imobiliário, diz gestor de fundos",
+    "titulo_original": "Brasil pode estar na antessala de uma crise de crédito no mercado imobiliário, diz gestor de fundos",
+    "fonte": "Folha Mercado",
+    "publicado": "03/09 07:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de uma crise de crédito no mercado imobiliário brasileiro levanta preocupações sobre a saúde financeira do setor e o acesso a financiamento. Se essa crise se materializar, pode haver um impacto negativo na construção civil e no consumo, além de potenciais efeitos em cascata no sistema financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788435060.6933293,
+    "titulo": "BC decreta liquidação extrajudicial de duas distribuidoras de títulos e valores mobiliários",
+    "titulo_original": "BC decreta liquidação extrajudicial de duas distribuidoras de títulos e valores mobiliários",
+    "fonte": "Valor Economico",
+    "publicado": "03/09 08:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A intervenção do Banco Central em duas distribuidoras de TVMs, motivada por violações legais, sinaliza a atuação da autoridade monetária na fiscalização do mercado financeiro. Se essas violações forem mais extensas ou envolverem outras instituições, pode haver um impacto na confiança do mercado e na regulamentação do setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788435066.148958,
+    "titulo": "Fim da Moratória da Soja amplia pressão sobre frigoríficos e fábricas de ração",
+    "titulo_original": "Fim da Moratória da Soja amplia pressão sobre frigoríficos e fábricas de ração - feedfood.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "03/09 07:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O fim da moratória da soja impacta diretamente a cadeia produtiva do agronegócio, afetando custos e operações de frigoríficos e fábricas de ração. Se essa pressão se traduzir em aumento de preços, pode haver reflexos na inflação de alimentos e na competitividade do setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788435071.4975848,
+    "titulo": "Irã diz ter atacado bases dos EUA no Kuwait e nos Emirados Árabes",
+    "titulo_original": "Irã diz ter atacado bases dos EUA no Kuwait e nos Emirados Árabes - g1.globo.com",
+    "fonte": "Google News Geopolitica",
+    "publicado": "03/09 05:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alegação de ataque do Irã a bases dos EUA no Oriente Médio eleva significativamente as tensões geopolíticas na região. Se confirmados, esses ataques podem gerar uma escalada de conflito, impactando os preços do petróleo, a estabilidade regional e a confiança dos investidores globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788435079.1977243,
+    "titulo": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores",
+    "titulo_original": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores",
+    "fonte": "Money Times",
+    "publicado": "03/09 08:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise sobre FIIs de papel ressalta a importância de considerar a inflação (IPCA) além da taxa de juros (CDI) para uma avaliação completa. Se a inflação persistir em patamares elevados, FIIs atrelados ao IPCA podem apresentar melhor performance, enquanto um cenário de queda de juros pode favorecer os atrelados ao CDI.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788435079.1990983,
+    "titulo": "UE barra carne, ministros na Expointer, Datafolha, dólar, Ibovespa e mais economia 03.09",
+    "titulo_original": "UE barra carne, ministros na Expointer, Datafolha, dólar, Ibovespa e mais economia 03.09 - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/09 08:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A diversidade de temas abordados nesta notícia indica um cenário complexo, com fatores externos (UE barra carne) e internos (Expointer, Datafolha, dólar, Ibovespa) influenciando a economia. A análise conjunta desses elementos é crucial para entender o quadro macroeconômico atual e suas potenciais evoluções.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788435079.2004533,
+    "titulo": "Ibovespa mira 200 mil: quais ações podem pegar carona no rali?",
+    "titulo_original": "Ibovespa mira 200 mil: quais ações podem pegar carona no rali? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "03/09 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de alta do Ibovespa para 200 mil pontos sugere um cenário otimista para o mercado acionário brasileiro. Se o rali se concretizar, a seleção de ações com potencial de valorização será fundamental para os investidores que buscam lucros no curto e médio prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788435079.2017975,
+    "titulo": "Dow Jones hoje: dólar tomba, petróleo avança e payroll entra no radar de Wall Street",
+    "titulo_original": "Dow Jones hoje: dólar tomba, petróleo avança e payroll entra no radar de Wall Street - estadao.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/09 08:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do dólar e a alta do petróleo, com o payroll no radar, indicam um cenário de volatilidade nos mercados globais. Se os dados de payroll vierem fortes, isso pode reforçar a política monetária mais restritiva do Fed, impactando o dólar e os mercados acionários. Se vierem fracos, pode haver alívio e reversão dessas tendências.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788435079.203125,
+    "titulo": "Day Trade hoje (03): Ibovespa dispara aos 185 mil; alta pode continuar?",
+    "titulo_original": "Day Trade hoje (03): Ibovespa dispara aos 185 mil; alta pode continuar? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "03/09 07:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa para 185 mil pontos sugere um momento de otimismo no mercado acionário brasileiro. A continuidade dessa alta dependerá de fatores macroeconômicos internos e externos, bem como da percepção dos investidores sobre o cenário futuro e a ausência de gatilhos negativos.",
     "is_stocks": true
   }
 ]
