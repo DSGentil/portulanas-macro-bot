@@ -1,81 +1,5 @@
 [
   {
-    "_timestamp": 1788354948.4391856,
-    "titulo": "Dólar à vista ronda a estabilidade, em linha com tendência global, antes de pesquisa eleitoral",
-    "titulo_original": "Dólar à vista ronda a estabilidade, em linha com tendência global, antes de pesquisa eleitoral",
-    "fonte": "Valor Economico",
-    "publicado": "02/09 09:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade do dólar, atrelada a um cenário global e à expectativa de pesquisas eleitorais, sugere que o mercado está precificando incertezas políticas domésticas. Se a pesquisa confirmar uma tendência de vitória da oposição, isso pode gerar volatilidade no câmbio e na renda fixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788354952.6354766,
-    "titulo": "Endividamento e comprometimento de renda nas alturas acendem alerta no BC",
-    "titulo_original": "Endividamento e comprometimento de renda nas alturas acendem alerta no BC",
-    "fonte": "Valor Economico",
-    "publicado": "02/09 09:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A preocupação do Banco Central com o endividamento elevado pode levar a medidas que restrinjam o crédito ou aumentem seu custo, impactando o consumo e o investimento. Se o BC adotar medidas mais restritivas, isso pode desacelerar a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788354956.7938423,
-    "titulo": "BC diz que endividamento das famílias é alto e reforça necessidade de novas medidas",
-    "titulo_original": "BC diz que endividamento das famílias é alto e reforça necessidade de novas medidas",
-    "fonte": "Folha Mercado",
-    "publicado": "02/09 08:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O Banco Central reforça a preocupação com o alto endividamento das famílias, sinalizando a iminência de novas medidas no mercado de crédito. A natureza dessas medidas determinará seu impacto na oferta de crédito e na atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788354960.9456,
-    "titulo": "Kanczuk diz como ‘consertar’ as projeções do Copom",
-    "titulo_original": "Kanczuk diz como ‘consertar’ as projeções do Copom - valor.globo.com",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/09 05:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre como 'consertar' as projeções do Copom sugere que há uma percepção de que as estimativas atuais podem não estar refletindo adequadamente o cenário econômico. Se as projeções forem revisadas para cima, isso pode indicar uma postura mais cautelosa do Banco Central em relação à inflação e, consequentemente, manter as taxas de juros mais elevadas por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788354966.351813,
-    "titulo": "Sessão Europeia do investingLive: Rendimentos mais altos dos títulos continuam a deixar os mercados tensos",
-    "titulo_original": "investingLive European session wrap: Higher bond yields continue to keep markets on edge",
-    "fonte": "ForexLive",
-    "publicado": "02/09 08:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento dos rendimentos de títulos na Europa sugere um cenário de juros mais altos, o que tende a pressionar ativos de risco como ações. Se as expectativas de um Fed mais 'hawkish' se confirmarem, o dólar pode se fortalecer, impactando mercados globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788354966.3532968,
-    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Commodities",
-    "publicado": "02/09 06:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A volatilidade nos preços do petróleo pode ter implicações significativas para a inflação global e para os custos de produção em diversos setores. Se os preços continuarem a subir, isso pode pressionar as margens de empresas e impactar o poder de compra dos consumidores.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788362152.629278,
     "titulo": "Ações globais recuam com escalada no Oriente Médio e temor de juros mais altos",
     "titulo_original": "Ações globais recuam com escalada no Oriente Médio e temor de juros mais altos - Bloomberg Línea Brasil",
@@ -1233,6 +1157,110 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A mudança na liderança da CSN gerou uma reação positiva imediata no mercado acionário. Se a nova gestão conseguir implementar as melhorias esperadas, a ação pode continuar a se valorizar; caso contrário, o caminho para recuperar o valor perdido pode ser longo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788467454.5092797,
+    "titulo": "Relator de projeto sobre data centers propõe afrouxar lei para facilitar envio de emendas a municípios",
+    "titulo_original": "Relator de projeto sobre data centers propõe afrouxar lei para facilitar envio de emendas a municípios",
+    "fonte": "Folha Mercado",
+    "publicado": "03/09 15:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de afrouxar a LRF para facilitar o envio de emendas pode ter implicações fiscais para os municípios. Se aprovada, pode aumentar a discricionariedade dos gastos municipais, mas também levanta questões sobre a sustentabilidade fiscal a longo prazo. O impacto dependerá do volume de emendas e da capacidade de gestão dos municípios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788467458.9313006,
+    "titulo": "Dólar à vista encerra perto da estabilidade e real não se beneficia de ambiente externo",
+    "titulo_original": "Dólar à vista encerra perto da estabilidade e real não se beneficia de ambiente externo",
+    "fonte": "Valor Economico",
+    "publicado": "03/09 17:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divergência entre o desempenho do dólar globalmente e no Brasil sugere que fatores domésticos, como a incerteza eleitoral, estão exercendo uma influência significativa sobre o real. Se a incerteza eleitoral diminuir, o real pode ter espaço para uma valorização mais consistente, dependendo do cenário externo de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788467463.2973397,
+    "titulo": "Dólar cai a R$ 5,10 e Bolsa perde força, com petróleo e política no radar",
+    "titulo_original": "Dólar cai a R$ 5,10 e Bolsa perde força, com petróleo e política no radar - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/09 13:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar para R$ 5,10 pode ser um reflexo de fatores externos favoráveis, mas a perda de força da Bolsa indica cautela com o cenário doméstico. Se a política doméstica apresentar sinais de maior estabilidade, a Bolsa pode recuperar o fôlego. Caso contrário, a volatilidade tende a persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788467467.7000794,
+    "titulo": "Dólar recua com petróleo em alta, Treasuries em baixa e foco eleitoral",
+    "titulo_original": "Dólar recua com petróleo em alta, Treasuries em baixa e foco eleitoral - jornaldocomercio.com",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/09 16:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar é influenciada por uma combinação de fatores externos positivos (petróleo em alta, Treasuries em baixa) e a atenção voltada para o cenário eleitoral doméstico. Se o cenário eleitoral se tornar mais claro e previsível, isso pode dar suporte ao real. A persistência da alta do petróleo também pode ser um fator de suporte.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788467473.5745947,
+    "titulo": "MP cita Rumo, Comgás e Cosan como supostas beneficiadas do esquema de corrupção na Fazenda de SP",
+    "titulo_original": "MP cita Rumo, Comgás e Cosan como supostas beneficiadas do esquema de corrupção na Fazenda de SP",
+    "fonte": "Valor Economico",
+    "publicado": "03/09 16:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A investigação sobre corrupção na Fazenda de SP pode gerar desdobramentos regulatórios e fiscais para as empresas citadas. Se as acusações forem comprovadas, as companhias podem enfrentar multas e sanções, impactando seus resultados e a confiança dos investidores. A extensão do impacto dependerá da profundidade da investigação e das decisões judiciais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788467473.57598,
+    "titulo": "Preview: August non-farm payrolls by the numbers",
+    "titulo_original": "Preview: August non-farm payrolls by the numbers",
+    "fonte": "ForexLive",
+    "publicado": "03/09 14:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de payroll é crucial para as decisões de política monetária do Federal Reserve. Se o número vier significativamente abaixo do esperado, pode reforçar a visão de desaceleração econômica e aumentar as apostas em cortes de juros. Se vier acima do consenso, pode indicar resiliência e manter o Fed em compasso de espera.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788467473.5771627,
+    "titulo": "Wall Street sobe 1% de olho em títulos antes do payroll",
+    "titulo_original": "Wall Street sobe 1% de olho em títulos antes do payroll",
+    "fonte": "Money Times",
+    "publicado": "03/09 17:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta em Wall Street reflete um otimismo cauteloso antes da divulgação do payroll, com investidores reagindo à queda nos rendimentos dos Treasuries. Se os dados de emprego vierem fortes, podem reverter essa tendência de queda nos rendimentos e pressionar as bolsas. Se vierem fracos, o alívio pode se estender.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788467473.6430717,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/09 15:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento ao vivo da cotação do dólar é essencial para entender as flutuações diárias do mercado. A evolução do câmbio será influenciada por fatores internos, como o cenário eleitoral e decisões de política monetária, e externos, como o comportamento dos juros nos EUA e o apetite por risco global.",
     "is_stocks": true
   }
 ]
