@@ -976,5 +976,96 @@
     "origem": "domestica",
     "leitura_critica": "A recomendação de analistas sobre ações específicas como Petrobras e Vale reflete as expectativas do mercado para o desempenho dessas empresas no curto prazo. A relevância para o WDO dependeria de como esses movimentos de ações se correlacionam com o humor geral do mercado e o fluxo de capital.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788448548.3382547,
+    "titulo": "Títulos públicos e ETFs disparam no 1º semestre; investimentos chegam a R$ 9,1 trilhões",
+    "titulo_original": "Títulos públicos e ETFs disparam no 1º semestre; investimentos chegam a R$ 9,1 trilhões",
+    "fonte": "Money Times",
+    "publicado": "03/09 12:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O forte crescimento em títulos públicos, associado a juros elevados, sugere que a renda fixa continua atraindo investidores em busca de segurança e rentabilidade. Se o cenário de juros altos se mantiver, essa tendência pode se consolidar; caso contrário, uma queda nos juros poderia levar a uma migração de volta para a renda variável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788448553.5398993,
+    "titulo": "Governo prorroga por 60 dias imposto de 12% sobre exportação de petróleo - Vero Notícias",
+    "titulo_original": "Governo prorroga por 60 dias imposto de 12% sobre exportação de petróleo - Vero Notícias",
+    "fonte": "Google News Commodities",
+    "publicado": "03/09 10:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação do imposto sobre exportação de petróleo pode ter impactos na receita do governo e na competitividade das empresas do setor. Se a prorrogação for acompanhada de outras medidas fiscais, pode sinalizar uma estratégia de longo prazo; caso contrário, pode ser apenas uma medida temporária para aumentar a arrecadação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788448558.5578308,
+    "titulo": "Dólar hoje recua com petróleo em alta, Treasuries em baixa e foco eleitoral - InfoMoney",
+    "titulo_original": "Dólar hoje recua com petróleo em alta, Treasuries em baixa e foco eleitoral - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "03/09 10:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar, influenciada pela alta do petróleo e baixa dos Treasuries, sugere um movimento de aversão ao risco em ativos americanos e busca por commodities. Se o foco eleitoral no Brasil intensificar a volatilidade, o dólar pode voltar a subir; caso contrário, a tendência de recuo pode se manter se os fatores externos persistirem.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788448563.613966,
+    "titulo": "PMI não manufatureiro ISM para agosto 55.4 versus estimativa de 54.2. Mais forte que o esperado",
+    "titulo_original": "ISM non manufacturing PMI for August 55.4 versus 54.2 estimate. Stronger than expectations",
+    "fonte": "ForexLive",
+    "publicado": "03/09 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O PMI não manufatureiro mais forte que o esperado nos EUA sugere uma atividade econômica resiliente, mas a alta nos preços pagos pode manter o Federal Reserve em alerta quanto à inflação. Se os próximos dados de inflação confirmarem essa tendência de alta nos custos, o Fed pode adiar cortes de juros; caso contrário, a força da atividade pode sustentar a expectativa de uma política monetária mais restritiva por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788448570.193012,
+    "titulo": "Ações da Shein despencam mais de 13% dois dias após estreia na Bolsa",
+    "titulo_original": "Ações da Shein despencam mais de 13% dois dias após estreia na Bolsa",
+    "fonte": "Folha Mercado",
+    "publicado": "03/09 10:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte desvalorização das ações da Shein logo após sua estreia na bolsa pode indicar uma reavaliação do mercado sobre as perspectivas de crescimento da empresa ou sobre o valuation inicial. Se essa tendência de queda persistir, pode afetar o apetite por IPOs de outras empresas de varejo de tecnologia; caso contrário, pode ser apenas uma volatilidade inicial pós-oferta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788448570.1947036,
+    "titulo": "Taesa cadastra projetos, mas aguarda regras para definir participação em para leilão de baterias",
+    "titulo_original": "Taesa cadastra projetos, mas aguarda regras para definir participação em para leilão de baterias",
+    "fonte": "Valor Economico",
+    "publicado": "03/09 11:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A participação da Taesa no leilão de baterias dependerá das regras finais a serem definidas pelo governo. Se as regras forem favoráveis à empresa, sua participação pode gerar novas oportunidades de negócio; caso contrário, a companhia pode optar por não participar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788448570.1963224,
+    "titulo": "Embalada por pesquisa eleitoral, Bolsa segue em alta nesta quinta",
+    "titulo_original": "Embalada por pesquisa eleitoral, Bolsa segue em alta nesta quinta",
+    "fonte": "Folha Mercado",
+    "publicado": "03/09 10:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta da Bolsa impulsionada por pesquisas eleitorais sugere que o mercado está precificando um cenário político específico. Se as pesquisas continuarem favoráveis ao cenário atual, a Bolsa pode manter a tendência de alta; caso contrário, uma mudança nas pesquisas pode gerar volatilidade e reversão de movimentos.",
+    "is_stocks": true
   }
 ]
