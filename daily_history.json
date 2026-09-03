@@ -1,74 +1,5 @@
 [
   {
-    "_timestamp": 1788348667.6906924,
-    "titulo": "Desconfiança de investidor com títulos privados afeta o mercado até de empresas saudáveis",
-    "titulo_original": "Desconfiança de investidor com títulos privados afeta o mercado até de empresas saudáveis",
-    "fonte": "InvestNews",
-    "publicado": "02/09 06:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desconfiança em títulos privados eleva o custo de capital para as empresas. Se a percepção de risco aumentar, as taxas de juros de mercado podem continuar subindo; uma melhora na confiança dos investidores poderia reverter essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788348672.4325593,
-    "titulo": "Juros em queda mudam cenário dos investimentos; veja as apostas para 2027 - Estadão",
-    "titulo_original": "Juros em queda mudam cenário dos investimentos; veja as apostas para 2027 - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/09 05:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de queda nos juros pode impulsionar a busca por ativos de maior risco. Se a tendência de queda se confirmar, investimentos em renda variável podem se tornar mais atrativos; se os juros permanecerem altos por mais tempo, a renda fixa continuará dominante.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788348677.1105306,
-    "titulo": "Durigan: É evidente que é preciso fazer mais ajuste fiscal, trajetória tem gradualidade",
-    "titulo_original": "Durigan: É evidente que é preciso fazer mais ajuste fiscal, trajetória tem gradualidade",
-    "fonte": "Money Times",
-    "publicado": "02/09 07:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Durigan indica uma admissão da necessidade de ajuste fiscal, mas com ressalvas sobre a trajetória. Se as medidas de ajuste forem implementadas de forma mais robusta, a confiança fiscal pode aumentar; se a 'gradualidade' for excessiva, pode haver pressão sobre as contas públicas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788348681.8198025,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "02/09 03:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A decisão do Banco do Canadá de manter os juros inalterados, em um contexto de preocupações com o comércio, sugere cautela. Se os dados de emprego nos EUA vierem significativamente abaixo do esperado, o Fed pode ajustar sua postura; caso contrário, a atenção permanecerá na inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788348687.3696752,
-    "titulo": "Day Trade hoje (02): Ibovespa testa 181 mil após 10 altas; pode subir mais? - InfoMoney",
-    "titulo_original": "Day Trade hoje (02): Ibovespa testa 181 mil após 10 altas; pode subir mais? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "02/09 07:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A sequência de altas do Ibovespa sugere um momento positivo para a bolsa brasileira. Se o ímpeto de compra se mantiver, o índice pode testar novos patamares; uma realização de lucros pode levar a uma correção no curto prazo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788354948.4391856,
     "titulo": "Dólar à vista ronda a estabilidade, em linha com tendência global, antes de pesquisa eleitoral",
     "titulo_original": "Dólar à vista ronda a estabilidade, em linha com tendência global, antes de pesquisa eleitoral",
@@ -1194,6 +1125,114 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A alta do Ibovespa, impulsionada pelo cenário eleitoral e pela expectativa de uma pesquisa Datafolha, sugere que o mercado está precificando possíveis desfechos. Se a pesquisa apresentar resultados que gerem incerteza, o índice pode sofrer volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788460252.2854705,
+    "titulo": "Quem é Mauricio Quadrado, da Trustee, e qual a relação do empresário com o Master",
+    "titulo_original": "Quem é Mauricio Quadrado, da Trustee, e qual a relação do empresário com o Master",
+    "fonte": "Folha Mercado",
+    "publicado": "03/09 11:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A intervenção do Banco Central em distribuidoras de títulos pode gerar desconfiança no mercado financeiro, especialmente em relação a fundos geridos por essas empresas. Se a liquidação se estender a outras instituições, o apetite por risco no setor financeiro pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788460257.185256,
+    "titulo": "Liquidação da Trustee DTVM: fundos ficam congelados para saques até escolha de novo administrador",
+    "titulo_original": "Liquidação da Trustee DTVM: fundos ficam congelados para saques até escolha de novo administrador",
+    "fonte": "InvestNews",
+    "publicado": "03/09 12:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A liquidação de distribuidoras e o consequente congelamento de fundos podem gerar preocupação entre investidores que possuem recursos nessas instituições. Se a situação se agravar ou se estender a outros fundos, pode haver uma corrida por resgates em outras gestoras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788460262.081579,
+    "titulo": "XP projeta Selic mais baixa e eleva recomendação para títulos prefixados",
+    "titulo_original": "XP projeta Selic mais baixa e eleva recomendação para títulos prefixados - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/09 14:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de Selic mais baixa pela XP sugere uma expectativa de corte nos juros pelo Banco Central. Se essa projeção se concretizar, títulos prefixados tendem a se valorizar, enquanto títulos pós-fixados podem ter menor atratividade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788460267.354945,
+    "titulo": "Instituições financeiras têm maior preocupação com riscos fiscais e inadimplência, mostra pesquisa do BC",
+    "titulo_original": "Instituições financeiras têm maior preocupação com riscos fiscais e inadimplência, mostra pesquisa do BC",
+    "fonte": "Valor Economico",
+    "publicado": "03/09 15:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de risco fiscal elevada pelas instituições financeiras pode levar a uma maior cautela na concessão de crédito e a um aumento do custo de capital para o governo e empresas. Se as políticas fiscais não forem ajustadas, a inadimplência pode crescer, afetando a estabilidade financeira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788460279.6114776,
+    "titulo": "O almoço que ‘entregou’ Assaí, Casas Bahia e Dia ao MP; a propina de 1% a 2,5%",
+    "titulo_original": "O almoço que ‘entregou’ Assaí, Casas Bahia e Dia ao MP; a propina de 1% a 2,5%",
+    "fonte": "Valor Economico",
+    "publicado": "03/09 13:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O envolvimento da Assaí em investigações de propina para agilizar ressarcimentos fiscais pode gerar desconfiança sobre a integridade das operações tributárias. Se a investigação avançar e outras empresas forem implicadas, pode haver maior rigor na fiscalização e impacto nas operações das varejistas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788460279.613052,
+    "titulo": "Fatores que fizeram câmbio descolar dos juros neste ano estão perdendo força, diz Itaú",
+    "titulo_original": "Fatores que fizeram câmbio descolar dos juros neste ano estão perdendo força, diz Itaú",
+    "fonte": "Valor Economico",
+    "publicado": "03/09 15:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Se a perda de força desses fatores se confirmar, o câmbio pode passar a reagir de forma mais direta às decisões de política monetária doméstica. Caso contrário, outros elementos podem continuar ditando o ritmo de desvalorização da moeda brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788460279.6145382,
+    "titulo": "Nvidia comprará site invadido por IA por US$ 12,9 bi em aposta em modelos abertos",
+    "titulo_original": "Nvidia comprará site invadido por IA por US$ 12,9 bi em aposta em modelos abertos",
+    "fonte": "Folha Mercado",
+    "publicado": "03/09 10:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A aquisição da Hugging Face pela Nvidia demonstra um movimento estratégico em direção a modelos de IA abertos. Se essa aposta se concretizar, pode haver um avanço na democratização da tecnologia de IA e um aumento na competitividade do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788460279.6160133,
+    "titulo": "Análise: Saída de Steinbruch impulsiona CSN; ainda há um longo caminho para recuperar o valor perdido",
+    "titulo_original": "Análise: Saída de Steinbruch impulsiona CSN; ainda há um longo caminho para recuperar o valor perdido",
+    "fonte": "Valor Economico",
+    "publicado": "03/09 13:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A mudança na liderança da CSN gerou uma reação positiva imediata no mercado acionário. Se a nova gestão conseguir implementar as melhorias esperadas, a ação pode continuar a se valorizar; caso contrário, o caminho para recuperar o valor perdido pode ser longo.",
     "is_stocks": true
   }
 ]
