@@ -998,5 +998,81 @@
     "origem": "externa",
     "leitura_critica": "O forte resultado do payroll americano, com criação de vagas bem acima do esperado, reforça a possibilidade de o Federal Reserve manter uma postura mais restritiva em relação aos juros. Se a inflação subjacente continuar a mostrar resiliência, o Fed pode adiar ou reduzir os cortes nas taxas de juros, impactando mercados globais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788534963.3704405,
+    "titulo": "Juros futuros têm rali estendido mesmo com megaleilão do Tesouro",
+    "titulo_original": "Juros futuros têm rali estendido mesmo com megaleilão do Tesouro",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 12:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda firme nos juros futuros sugere um otimismo do mercado em relação ao cenário eleitoral e à gestão da dívida pública. Se a percepção de risco político se mantiver baixa, o movimento de descompressão dos prêmios pode continuar, favorecendo a renda fixa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788534968.438088,
+    "titulo": "BC liquida mais duas instituições ligadas ao Master",
+    "titulo_original": "BC liquida mais duas instituições ligadas ao Master",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 12:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A intervenção do Banco Central em mais instituições financeiras indica uma continuidade na fiscalização e na busca por estabilidade no sistema. Se a situação se agravar, pode haver um impacto na confiança do mercado e no fluxo de crédito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788534972.5099103,
+    "titulo": "Ant International recebe licença do BC para atuar como instituição de pagamento",
+    "titulo_original": "Ant International recebe licença do BC para atuar como instituição de pagamento",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 11:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A concessão da licença à Ant International pelo Banco Central do Brasil indica uma abertura do mercado de pagamentos brasileiro para novos players internacionais. Isso pode intensificar a concorrência e impulsionar a inovação no setor, beneficiando os consumidores com mais opções e possivelmente menores custos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788534976.5011957,
+    "titulo": "Trump diz à Fed: Abaixe a taxa ou pararei de negociar com países com os quais temos um déficit",
+    "titulo_original": "Trump tells Fed: Lower the rate or I'll stop trading with countries with which we have a deficit",
+    "fonte": "ForexLive",
+    "publicado": "04/09 10:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump adiciona pressão política sobre o Federal Reserve, que historicamente busca independência em suas decisões de política monetária. Se o Fed ceder à pressão, isso pode sinalizar um viés mais expansionista, mas se mantiver sua autonomia, a retórica pode gerar volatilidade no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788534981.2810178,
+    "titulo": "Ibama autoriza Petrobras (PETR4) a perfurar mais poços na Foz do Amazonas",
+    "titulo_original": "Ibama autoriza Petrobras (PETR4) a perfurar mais poços na Foz do Amazonas",
+    "fonte": "Money Times",
+    "publicado": "04/09 11:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A autorização para perfuração de novos poços pela Petrobras pode impulsionar a produção de petróleo no Brasil, com potencial impacto nos resultados da empresa e no setor energético. A decisão do Ibama também levanta questões ambientais que podem gerar debates e possíveis restrições futuras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788534981.2827802,
+    "titulo": "Vale suspende IPO de minerais críticos, diz jornal",
+    "titulo_original": "Vale suspende IPO de minerais críticos, diz jornal",
+    "fonte": "InvestNews",
+    "publicado": "04/09 09:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão do IPO da Vale Base Metals pode indicar cautela do mercado em relação a novos investimentos em minerais críticos, ou dificuldades específicas da operação. Se a suspensão for prolongada, pode afetar os planos de expansão da Vale e a oferta de minerais essenciais para a transição energética.",
+    "is_stocks": true
   }
 ]
