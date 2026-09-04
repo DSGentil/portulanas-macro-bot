@@ -927,5 +927,76 @@
     "origem": "domestica",
     "leitura_critica": "A perda de fôlego do Ibovespa após uma sequência de altas sugere uma possível realização de lucros ou a busca por novos catalisadores. Se o mercado encontrar novos motivos para otimismo, a tendência de alta pode ser retomada; caso contrário, uma correção pode ocorrer.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788527977.479682,
+    "titulo": "IBGE: Renda de trabalhadores por apps de transporte ou entrega cresce 1% entre 2022 e 2025, ante alta de 10,6% de ocupados",
+    "titulo_original": "IBGE: Renda de trabalhadores por apps transporte ou entrega cresce 1% entre 2022 e 2025, ante alta de 10,6% de ocupados",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 10:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O ritmo de crescimento da renda para trabalhadores de aplicativos de transporte e entrega ser inferior ao de outros ocupados pode indicar uma saturação ou menor poder de barganha nesse segmento específico. Se a tendência de desaceleração da renda se mantiver, isso pode afetar a capacidade de consumo desse grupo no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788527982.6612406,
+    "titulo": "Dólar e juros sobem com dados fortes do 'payroll', enquanto mercado monitora eleições no Brasil e crise no STF",
+    "titulo_original": "Dólar e juros sobem com dados fortes do 'payroll', enquanto mercado monitora eleições no Brasil e crise no STF",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 09:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A força do payroll americano aumenta a probabilidade de o Federal Reserve manter juros mais altos por mais tempo, o que pressiona os juros futuros no Brasil. Paralelamente, a instabilidade política doméstica, com a crise no STF e o monitoramento das eleições, adiciona um fator de risco adicional para os ativos brasileiros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788527987.7753196,
+    "titulo": "Dólar tem variação modesta após pesquisa Datafolha e antes de dados de emprego nos EUA",
+    "titulo_original": "Dólar tem variação modesta após pesquisa Datafolha e antes de dados de emprego nos EUA Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/09 09:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A modesta variação do dólar sugere que o mercado está em compasso de espera por dados econômicos importantes, tanto domésticos quanto internacionais. Se os dados de emprego nos EUA vierem fortes, isso pode pressionar o dólar para cima; caso contrário, pode haver uma valorização do real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788527992.9391835,
+    "titulo": "Dólar abre estável a R$ 5,11, com dados de trabalho e petróleo no radar",
+    "titulo_original": "Dólar abre estável a R$ 5,11, com dados de trabalho e petróleo no radar - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/09 09:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A estabilidade do dólar reflete a cautela do mercado antes da divulgação de dados econômicos importantes, tanto nos EUA quanto em relação ao petróleo. Se os dados de emprego dos EUA forem fortes, o dólar pode se fortalecer; um preço do petróleo em alta pode pressionar a inflação e, consequentemente, as decisões de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788527998.7861595,
+    "titulo": "Folha de pagamento não agrícola dos EUA em agosto +162K vs Estimativa de +56K",
+    "titulo_original": "US August non-farm payrolls +162K vs +56K expected",
+    "fonte": "ForexLive",
+    "publicado": "04/09 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte resultado do payroll americano, com criação de vagas bem acima do esperado, reforça a possibilidade de o Federal Reserve manter uma postura mais restritiva em relação aos juros. Se a inflação subjacente continuar a mostrar resiliência, o Fed pode adiar ou reduzir os cortes nas taxas de juros, impactando mercados globais.",
+    "is_stocks": true
   }
 ]
