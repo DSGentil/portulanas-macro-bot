@@ -1,114 +1,5 @@
 [
   {
-    "_timestamp": 1788441344.1422064,
-    "titulo": "Liquidadas pelo BC, Trustee e Banvox foram alvo da Operação Carbono Oculto e dono entrou na mira da Compliance Zero",
-    "titulo_original": "Liquidadas pelo BC, Trustee e Banvox foram alvo da Operação Carbono Oculto e dono entrou na mira da Compliance Zero",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 09:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A liquidação de DTVMs pelo Banco Central indica uma ação de fiscalização e regulação do mercado financeiro. Se as investigações em curso revelarem fraudes sistêmicas, isso pode levar a um endurecimento das regras para o setor e aumentar a desconfiança em instituições financeiras menores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788441348.079382,
-    "titulo": "Juros futuros operam em queda com expectativa de eleição acirrada",
-    "titulo_original": "Juros futuros operam em queda com expectativa de eleição acirrada",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 09:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nos juros futuros sugere que o mercado precifica um cenário de maior incerteza política, o que pode levar a uma postura mais cautelosa do Banco Central em futuras decisões de política monetária. Se as pesquisas eleitorais indicarem um resultado mais claro e favorável a um candidato com agenda econômica previsível, os juros podem reagir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788441351.9896612,
-    "titulo": "Quem é 'Mineiro', o empresário que fez repasses de Vorcaro a 'Dark Horse' e fechou acordo de delação com a PGR",
-    "titulo_original": "Quem é 'Mineiro', o empresário que fez repasses de Vorcaro a 'Dark Horse e fechou acordo de delação com a PGR",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 09:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O acordo de delação premiada de Antonio Carlos Freixo Junior pode trazer novas informações sobre esquemas de fraudes financeiras e manipulação de mercado. Se as revelações confirmarem irregularidades em larga escala, isso pode levar a novas investigações e sanções por parte de órgãos reguladores como o BC e a CVM.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788441355.9190185,
-    "titulo": "BC liquida distribuidoras de títulos Trustee e Banvox, ligadas a ex-sócio do Master",
-    "titulo_original": "BC liquida distribuidoras de títulos Trustee e Banvox, ligadas a ex-sócio do Master",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 09:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intervenção do Banco Central na liquidação de distribuidoras de títulos sinaliza uma atuação de fiscalização e controle do mercado financeiro. A ligação dessas empresas com um ex-sócio do Banco Master pode indicar a continuidade de investigações sobre irregularidades no setor financeiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788441361.5165677,
-    "titulo": "Nvidia comprará Hugging Face por quase US$ 13 bi em aposta em modelos abertos de IA",
-    "titulo_original": "Nvidia comprará Hugging Face por quase US$ 13 bi em aposta em modelos abertos de IA",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 09:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A aquisição da Hugging Face pela Nvidia demonstra uma estratégia de longo prazo da empresa em apostar em modelos abertos de IA, o que pode impulsionar a demanda por seus produtos e serviços. Se essa aposta se concretizar, pode haver um impacto significativo no desenvolvimento e adoção de tecnologias de IA no mercado global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788441361.5181847,
-    "titulo": "Juros em queda mudam apostas de bancos; veja ações de dividendos recomendadas para setembro",
-    "titulo_original": "Juros em queda mudam apostas de bancos; veja ações de dividendos recomendadas para setembro - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "03/09 07:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A mudança nas apostas dos bancos em função da queda dos juros, com foco em ações de dividendos, sugere uma busca por rentabilidade em um cenário de menor custo de capital. Se a queda dos juros se confirmar e se mantiver, isso pode impulsionar o mercado de ações, especialmente os setores mais sensíveis a essa dinâmica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788441361.5197432,
-    "titulo": "Mercados europeus fecham: iene japonês dispara pelo segundo dia consecutivo",
-    "titulo_original": "investingLive European markets wrap: Japanese yen surges higher for second straight day",
-    "fonte": "ForexLive",
-    "publicado": "03/09 09:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A valorização do iene e a queda nos rendimentos de títulos globais podem indicar um movimento de aversão ao risco ou busca por ativos mais seguros. A inflação suíça em alta e as expectativas sobre o CPI dos EUA e decisões de juros do Fed continuam sendo fatores de atenção para os mercados globais, com potencial impacto em moedas e commodities.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788441361.5212557,
-    "titulo": "Analistas elegem Petrobras (PETR4) e Vale (VALE3) para investir em setembro; confira o ranking completo",
-    "titulo_original": "Analistas elegem Petrobras (PETR4) e Vale (VALE3) para investir em setembro; confira o ranking completo - Seu Dinheiro",
-    "fonte": "Google News Acoes",
-    "publicado": "03/09 06:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de analistas sobre ações específicas como Petrobras e Vale reflete as expectativas do mercado para o desempenho dessas empresas no curto prazo. A relevância para o WDO dependeria de como esses movimentos de ações se correlacionam com o humor geral do mercado e o fluxo de capital.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788448548.3382547,
     "titulo": "Títulos públicos e ETFs disparam no 1º semestre; investimentos chegam a R$ 9,1 trilhões",
     "titulo_original": "Títulos públicos e ETFs disparam no 1º semestre; investimentos chegam a R$ 9,1 trilhões",
@@ -1167,5 +1058,85 @@
     "origem": "ambas",
     "leitura_critica": "A eletrificação veicular representa uma mudança estrutural com potencial de impactar diversos setores da economia. Se a tendência se consolidar, pode haver demanda por novas tecnologias e infraestrutura, gerando oportunidades de investimento. A influência da China na produção e exportação de veículos elétricos é um fator a ser observado.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1788553848.224232,
+    "titulo": "Decisão de Fux sobre depósitos judiciais da Bahia aumenta insegurança de bancos para socorrer BRB",
+    "titulo_original": "Decisão de Fux sobre depósitos judiciais da Bahia aumenta insegurança de bancos para socorrer BRB",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 16:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF sobre os depósitos judiciais cria um precedente que pode afetar a disposição de bancos em conceder empréstimos a instituições financeiras estaduais em crise. Se a insegurança jurídica se mantiver, o BRB pode ter dificuldades em obter o socorro necessário, aumentando o risco de intervenção do Banco Central. A notícia não especifica o valor dos depósitos judiciais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788553865.1495228,
+    "titulo": "Exportação brasileira de carne bovina perde força em agosto com redução de vendas à China",
+    "titulo_original": "Exportação brasileira de carne bovina perde força em agosto com redução de vendas à China",
+    "fonte": "Folha Mercado",
+    "publicado": "04/09 15:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas exportações de carne bovina, especialmente para a China, pode impactar o saldo da balança comercial brasileira. Se a demanda chinesa continuar retraída, isso pode pressionar os preços internos e a produção do setor. A notícia não especifica um impacto direto nos canais de juros, inflação, atividade/emprego ou decisão fiscal/regulatória.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788553869.139843,
+    "titulo": "Moratória da Soja e Constituição: os limites da intervenção do STF em acordos privados",
+    "titulo_original": "Moratória da Soja e Constituição: os limites da intervenção do STF em acordos privados - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "04/09 16:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre a intervenção do STF em acordos privados pode gerar incerteza jurídica para contratos e transações comerciais. Se o STF decidir por uma intervenção mais ampla, isso pode afetar a previsibilidade de investimentos e acordos no agronegócio. A notícia não detalha qual foi a decisão específica do STF sobre a Moratória da Soja.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788553873.1848497,
+    "titulo": "Óleo cru e soja puxam saldo comercial em agosto",
+    "titulo_original": "Óleo cru e soja puxam saldo comercial em agosto - poder360.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "04/09 16:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "As exportações de commodities como óleo cru e soja são importantes para o saldo da balança comercial brasileira. Se a demanda global por esses produtos se mantiver forte, isso pode continuar a sustentar o superávit comercial. A notícia não detalha o valor do saldo comercial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788553878.001473,
+    "titulo": "Wall Street fecha em queda após payroll e apostas de alta nos juros pelo Fed",
+    "titulo_original": "Wall Street fecha em queda após payroll e apostas de alta nos juros pelo Fed",
+    "fonte": "Money Times",
+    "publicado": "04/09 17:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O payroll mais forte que o esperado nos EUA aumenta a probabilidade de o Fed manter uma postura mais restritiva em relação aos juros. Se o Fed de fato sinalizar novas altas ou manutenção de juros elevados, isso pode gerar aversão a risco global e impactar mercados emergentes. A notícia não detalha o percentual de alta esperado nos juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788553878.0033402,
+    "titulo": "Justiça condena Samarco e três ex-gerentes por tragédia em Mariana",
+    "titulo_original": "Justiça condena Samarco e três ex-gerentes por tragédia em Mariana",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 16:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Esta é a primeira condenação criminal relacionada ao rompimento da barragem de Fundão, o que pode gerar um precedente para futuras responsabilidades em desastres ambientais. A decisão pode aumentar a percepção de risco para empresas do setor de mineração e suas gestões. A notícia não detalha o valor das indenizações ou multas.",
+    "is_stocks": true
   }
 ]
