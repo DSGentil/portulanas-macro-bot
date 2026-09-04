@@ -1,133 +1,5 @@
 [
   {
-    "_timestamp": 1788453969.9887316,
-    "titulo": "Incentivo a data centers depende de manobra orçamentária do Congresso para sanção",
-    "titulo_original": "Incentivo a data centers depende de manobra orçamentária do Congresso para sanção",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 13:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação da manobra orçamentária é crucial para a sanção do incentivo a data centers. Se a exceção orçamentária for aprovada, o setor de data centers no Brasil poderá receber um impulso regulatório e fiscal significativo. Caso contrário, a implementação do incentivo ficará comprometida.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788453973.9424367,
-    "titulo": "Taxas de juros recuam com dólar fraco e eleições no radar",
-    "titulo_original": "Taxas de juros recuam com dólar fraco e eleições no radar - cnnbrasil.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/09 10:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas de juros, associada a um dólar fraco e ao cenário eleitoral, pode indicar uma antecipação de movimentos de mercado em relação a futuras decisões de política monetária e fiscal. Se o cenário eleitoral se mostrar mais claro, pode haver maior volatilidade nas taxas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788453977.8683605,
-    "titulo": "Com olho na disputa EUA-China, Brasil reforça controle sobre terras raras",
-    "titulo_original": "Com olho na disputa EUA-China, Brasil reforça controle sobre terras raras",
-    "fonte": "InvestNews",
-    "publicado": "03/09 12:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O reforço no controle brasileiro sobre terras raras, em um contexto de disputa EUA-China, pode sinalizar uma estratégia de maior valorização e gestão desses recursos estratégicos. Se essa política se intensificar, pode haver impacto na oferta global e nas relações comerciais desses minerais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788453981.8272827,
-    "titulo": "Japão eleva alerta sobre iene e reacende temor de nova intervenção no câmbio",
-    "titulo_original": "Japão eleva alerta sobre iene e reacende temor de nova intervenção no câmbio",
-    "fonte": "Money Times",
-    "publicado": "03/09 13:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração do Japão eleva a probabilidade de intervenção cambial para conter a valorização do iene. Se o Japão intervir, isso pode gerar volatilidade nos mercados globais de câmbio e afetar fluxos de capital, especialmente em moedas emergentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788453987.0976908,
-    "titulo": "Abertura | Alta das commodities pode impulsionar Ibovespa para 12º ganho seguido",
-    "titulo_original": "Abertura | Alta das commodities pode impulsionar Ibovespa para 12º ganho seguido - InvesTalk",
-    "fonte": "Google News Acoes",
-    "publicado": "03/09 09:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade da alta do Ibovespa, impulsionada pelas commodities, sugere um momento favorável para o mercado de ações brasileiro. Se essa tendência se mantiver, pode atrair mais capital estrangeiro para a bolsa, mas a dependência das commodities expõe o índice a volatilidades externas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788453987.0999131,
-    "titulo": "Alta do Ibovespa vai continuar? Estrategista diz que futuro não é só “céu de brigadeiro”",
-    "titulo_original": "Alta do Ibovespa vai continuar? Estrategista diz que futuro não é só “céu de brigadeiro”",
-    "fonte": "Money Times",
-    "publicado": "03/09 13:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A cautela de um estrategista sobre a continuidade da alta do Ibovespa sugere que o mercado pode estar precificando um cenário otimista que não se sustenta a longo prazo. Se os riscos apontados se materializarem, o índice pode enfrentar correções.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788453987.1017544,
-    "titulo": "Ibovespa sobe pela 12ª sessão seguida com commodities e eleição no foco",
-    "titulo_original": "Ibovespa sobe pela 12ª sessão seguida com commodities e eleição no foco - Canal Rural",
-    "fonte": "Google News Acoes",
-    "publicado": "03/09 12:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A sequência de altas do Ibovespa, atrelada a commodities e ao cenário eleitoral, sugere um otimismo pontual no mercado. Se os resultados eleitorais ou as condições das commodities mudarem, essa tendência de alta pode ser interrompida.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788453987.1035428,
-    "titulo": "Bolsas da Europa têm leve alta com alívio nos juros dos títulos soberanos",
-    "titulo_original": "Bolsas da Europa têm leve alta com alívio nos juros dos títulos soberanos",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 13:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O alívio nos juros dos títulos soberanos europeus pode indicar uma melhora na percepção de risco da região, favorecendo as bolsas. Se os indicadores de atividade econômica continuarem positivos, isso pode sustentar a recuperação dos mercados europeus.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788453987.1053784,
-    "titulo": "Trump tenta baixar preço da carne e desagrada pecuaristas",
-    "titulo_original": "Trump tenta baixar preço da carne e desagrada pecuaristas",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 12:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "As ações do governo Trump para baixar o preço da carne podem ter impacto no setor pecuário dos EUA e nas relações comerciais de importação. Se essas medidas forem eficazes, podem influenciar os preços globais de carne, mas também gerar tensões com produtores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788453987.1071973,
-    "titulo": "Ibovespa sobe 1,5% com foco em quadro eleitoral e à espera da pesquisa Datafolha",
-    "titulo_original": "Ibovespa sobe 1,5% com foco em quadro eleitoral e à espera da pesquisa Datafolha - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "03/09 10:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa, impulsionada pelo cenário eleitoral e pela expectativa de uma pesquisa Datafolha, sugere que o mercado está precificando possíveis desfechos. Se a pesquisa apresentar resultados que gerem incerteza, o índice pode sofrer volatilidade.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788460252.2854705,
     "titulo": "Quem é Mauricio Quadrado, da Trustee, e qual a relação do empresário com o Master",
     "titulo_original": "Quem é Mauricio Quadrado, da Trustee, e qual a relação do empresário com o Master",
@@ -1168,6 +1040,68 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O aumento nas renegociações de CRIs pode ser um sinal de alerta para investidores de Fundos de Investimento Imobiliário (FIIs) que possuem exposição a esses ativos. Se a tendência de renegociação se intensificar, pode haver impacto na rentabilidade dos FIIs; caso contrário, a situação pode se estabilizar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788564637.6833026,
+    "titulo": "Com preços em alta, petróleo e combustíveis ajudam a elevar exportações em agosto",
+    "titulo_original": "Com preços em alta, petróleo e combustíveis ajudam a elevar exportações em agosto",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 19:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do superávit comercial, liderado por commodities, sugere um fluxo de capital positivo para o país através das exportações. Se a tendência de alta nos preços do petróleo se mantiver, o saldo comercial pode continuar a apresentar números robustos nos próximos meses.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788564641.5505075,
+    "titulo": "Davi celebra licença do Ibama para poços exploratórios de petróleo no Amapá",
+    "titulo_original": "Davi celebra licença do Ibama para poços exploratórios de petróleo no Amapá - Senado Federal",
+    "fonte": "Google News Commodities",
+    "publicado": "04/09 17:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A licença para exploração de petróleo no Amapá representa um avanço em projetos energéticos no país. Se a exploração for bem-sucedida e os volumes esperados forem alcançados, isso pode impactar a oferta de petróleo e, consequentemente, os preços no mercado internacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788564645.4676073,
+    "titulo": "Petróleo sobe 9% em semana marcada por novos ataques no Oriente Médio",
+    "titulo_original": "Petróleo sobe 9% em semana marcada por novos ataques no Oriente Médio - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "04/09 16:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio e os consequentes ataques ao setor de petróleo elevam o risco geopolítico e pressionam os preços do barril para cima. Se os conflitos se intensificarem, o petróleo pode continuar sua trajetória de alta, impactando custos de produção e inflação globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788564649.357993,
+    "titulo": "Petróleo da Venezuela vira novo campo de batalha entre Trump e Xi",
+    "titulo_original": "Petróleo da Venezuela vira novo campo de batalha entre Trump e Xi - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "04/09 17:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A disputa geopolítica envolvendo o petróleo venezuelano entre potências como EUA e China pode gerar volatilidade nos mercados de energia. Se as tensões aumentarem, isso pode afetar a oferta global e os preços do petróleo, dependendo das decisões tomadas por esses atores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788564674.09285,
+    "titulo": "Bloqueio europeu a carnes brasileiras pesa sobre ações de JBS e MBRF, com Minerva \"poupada\" pelo investidor",
+    "titulo_original": "Bloqueio europeu a carnes brasileiras pesa sobre ações de JBS e MBRF, com Minerva \"poupada\" pelo investidor - AgFeed",
+    "fonte": "Google News Acoes",
+    "publicado": "04/09 19:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão europeia de bloquear carnes brasileiras afeta diretamente empresas do setor, gerando volatilidade em suas ações. Se o bloqueio se estender ou for ampliado, o impacto sobre os resultados dessas companhias pode se intensificar, refletindo-se em movimentos mais amplos no mercado acionário.",
     "is_stocks": true
   }
 ]
