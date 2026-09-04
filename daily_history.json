@@ -1,96 +1,5 @@
 [
   {
-    "_timestamp": 1788448548.3382547,
-    "titulo": "Títulos públicos e ETFs disparam no 1º semestre; investimentos chegam a R$ 9,1 trilhões",
-    "titulo_original": "Títulos públicos e ETFs disparam no 1º semestre; investimentos chegam a R$ 9,1 trilhões",
-    "fonte": "Money Times",
-    "publicado": "03/09 12:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O forte crescimento em títulos públicos, associado a juros elevados, sugere que a renda fixa continua atraindo investidores em busca de segurança e rentabilidade. Se o cenário de juros altos se mantiver, essa tendência pode se consolidar; caso contrário, uma queda nos juros poderia levar a uma migração de volta para a renda variável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788448553.5398993,
-    "titulo": "Governo prorroga por 60 dias imposto de 12% sobre exportação de petróleo - Vero Notícias",
-    "titulo_original": "Governo prorroga por 60 dias imposto de 12% sobre exportação de petróleo - Vero Notícias",
-    "fonte": "Google News Commodities",
-    "publicado": "03/09 10:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A prorrogação do imposto sobre exportação de petróleo pode ter impactos na receita do governo e na competitividade das empresas do setor. Se a prorrogação for acompanhada de outras medidas fiscais, pode sinalizar uma estratégia de longo prazo; caso contrário, pode ser apenas uma medida temporária para aumentar a arrecadação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788448558.5578308,
-    "titulo": "Dólar hoje recua com petróleo em alta, Treasuries em baixa e foco eleitoral - InfoMoney",
-    "titulo_original": "Dólar hoje recua com petróleo em alta, Treasuries em baixa e foco eleitoral - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "03/09 10:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do dólar, influenciada pela alta do petróleo e baixa dos Treasuries, sugere um movimento de aversão ao risco em ativos americanos e busca por commodities. Se o foco eleitoral no Brasil intensificar a volatilidade, o dólar pode voltar a subir; caso contrário, a tendência de recuo pode se manter se os fatores externos persistirem.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788448563.613966,
-    "titulo": "PMI não manufatureiro ISM para agosto 55.4 versus estimativa de 54.2. Mais forte que o esperado",
-    "titulo_original": "ISM non manufacturing PMI for August 55.4 versus 54.2 estimate. Stronger than expectations",
-    "fonte": "ForexLive",
-    "publicado": "03/09 11:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O PMI não manufatureiro mais forte que o esperado nos EUA sugere uma atividade econômica resiliente, mas a alta nos preços pagos pode manter o Federal Reserve em alerta quanto à inflação. Se os próximos dados de inflação confirmarem essa tendência de alta nos custos, o Fed pode adiar cortes de juros; caso contrário, a força da atividade pode sustentar a expectativa de uma política monetária mais restritiva por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788448570.193012,
-    "titulo": "Ações da Shein despencam mais de 13% dois dias após estreia na Bolsa",
-    "titulo_original": "Ações da Shein despencam mais de 13% dois dias após estreia na Bolsa",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 10:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte desvalorização das ações da Shein logo após sua estreia na bolsa pode indicar uma reavaliação do mercado sobre as perspectivas de crescimento da empresa ou sobre o valuation inicial. Se essa tendência de queda persistir, pode afetar o apetite por IPOs de outras empresas de varejo de tecnologia; caso contrário, pode ser apenas uma volatilidade inicial pós-oferta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788448570.1947036,
-    "titulo": "Taesa cadastra projetos, mas aguarda regras para definir participação em para leilão de baterias",
-    "titulo_original": "Taesa cadastra projetos, mas aguarda regras para definir participação em para leilão de baterias",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 11:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A participação da Taesa no leilão de baterias dependerá das regras finais a serem definidas pelo governo. Se as regras forem favoráveis à empresa, sua participação pode gerar novas oportunidades de negócio; caso contrário, a companhia pode optar por não participar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788448570.1963224,
-    "titulo": "Embalada por pesquisa eleitoral, Bolsa segue em alta nesta quinta",
-    "titulo_original": "Embalada por pesquisa eleitoral, Bolsa segue em alta nesta quinta",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 10:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta da Bolsa impulsionada por pesquisas eleitorais sugere que o mercado está precificando um cenário político específico. Se as pesquisas continuarem favoráveis ao cenário atual, a Bolsa pode manter a tendência de alta; caso contrário, uma mudança nas pesquisas pode gerar volatilidade e reversão de movimentos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788453969.9887316,
     "titulo": "Incentivo a data centers depende de manobra orçamentária do Congresso para sanção",
     "titulo_original": "Incentivo a data centers depende de manobra orçamentária do Congresso para sanção",
@@ -1137,6 +1046,128 @@
     ],
     "origem": "domestica",
     "leitura_critica": "Esta é a primeira condenação criminal relacionada ao rompimento da barragem de Fundão, o que pode gerar um precedente para futuras responsabilidades em desastres ambientais. A decisão pode aumentar a percepção de risco para empresas do setor de mineração e suas gestões. A notícia não detalha o valor das indenizações ou multas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788559275.017457,
+    "titulo": "Verde vê maior risco de repressão financeira e aumenta posição em ações brasileiras em meio a ciclo eleitoral ‘caótico’",
+    "titulo_original": "Verde vê maior risco de repressão financeira e aumenta posição em ações brasileiras em meio a ciclo eleitoral ‘caótico’",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 17:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da posição em ações brasileiras pelo fundo Verde, em um cenário eleitoral descrito como 'caótico', sugere uma aposta em recuperação ou valorização apesar dos riscos. Se o cenário político se estabilizar, a posição pode se beneficiar; caso contrário, o fundo pode ter que reavaliar sua estratégia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788559280.3786447,
+    "titulo": "Ministro do Planejamento prevê ajuste fiscal com desaceleração de gastos",
+    "titulo_original": "Ministro do Planejamento prevê ajuste fiscal com desaceleração de gastos",
+    "fonte": "Folha Mercado",
+    "publicado": "04/09 14:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A previsão de ajuste fiscal com desaceleração de gastos, sem cortes profundos, sugere uma abordagem gradual para a saúde das contas públicas. Se essa estratégia for implementada com sucesso, pode sinalizar maior previsibilidade fiscal; caso contrário, a necessidade de medidas mais drásticas pode surgir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788559286.2787318,
+    "titulo": "Juros futuros recuam com fatores domésticos no radar",
+    "titulo_original": "Juros futuros recuam com fatores domésticos no radar",
+    "fonte": "Money Times",
+    "publicado": "04/09 18:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recuo dos juros futuros no Brasil, apesar da tendência nos Treasuries americanos, sugere que fatores domésticos estão influenciando a precificação. Se a percepção de risco doméstico diminuir, a queda dos juros pode se aprofundar; caso contrário, a convergência com os juros externos pode ocorrer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788559292.3004858,
+    "titulo": "Notícias do mercado das Américas: Grande surpresa para o payroll não agrícola",
+    "titulo_original": "investingLive Americas market news wrap: Big beat for non-farm payrolls",
+    "fonte": "ForexLive",
+    "publicado": "04/09 17:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte resultado do payroll nos EUA, combinado com a postura 'hawkish' de uma dirigente do Fed, aumenta a probabilidade de o Banco Central americano manter juros elevados por mais tempo. Se os próximos dados de inflação nos EUA confirmarem essa tendência, o cenário de juros altos pode se estender, impactando mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788559319.4614632,
+    "titulo": "Ibovespa fecha estável com apoio de bancos e Vale, mas tem maior alta semanal desde janeiro",
+    "titulo_original": "Ibovespa fecha estável com apoio de bancos e Vale, mas tem maior alta semanal desde janeiro",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 17:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A reação inicial do Ibovespa ao payroll mais forte nos EUA indica que o mercado está atento a sinais que possam levar a uma manutenção ou aumento de juros nos EUA. Se os próximos dados de emprego americano reforçarem essa tendência, o fluxo de capital para mercados emergentes pode ser afetado negativamente; caso contrário, a tendência de alta semanal pode se sustentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788559319.463245,
+    "titulo": "Estrangeiro reduz aposta contra o real em US$ 11,4 bilhões em apenas dois dias",
+    "titulo_original": "Estrangeiro reduz aposta contra o real em US$ 11,4 bilhões em apenas dois dias",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 16:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expressiva redução da aposta contra o real por investidores estrangeiros em um curto período pode indicar uma mudança de sentimento em relação à moeda brasileira. Se essa tendência de saída de capital se mantiver, pode pressionar o câmbio; caso contrário, a reversão pode ser rápida.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788559319.4649513,
+    "titulo": "Moody’s Local reitera classificação ‘AAA.br’ para Itaúsa",
+    "titulo_original": "Moody’s Local reitera classificação ‘AAA.br’ para Itaúsa",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 16:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A reiterada classificação 'AAA.br' pela Moody's Local para a Itaúsa reforça a percepção de solidez financeira da empresa, especialmente devido à sua forte ligação com o Itaú Unibanco. Se os proventos das investidas não financeiras da Itaúsa continuarem a crescer gradualmente, a diversificação de suas receitas pode se fortalecer.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788559319.4666412,
+    "titulo": "BB, Caixa e cooperativas firmam acordo para tokenizar crédito imobiliário",
+    "titulo_original": "BB, Caixa e cooperativas firmam acordo para tokenizar crédito imobiliário",
+    "fonte": "Money Times",
+    "publicado": "04/09 17:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa de tokenizar crédito imobiliário por grandes instituições financeiras pode simplificar e agilizar o processo de financiamento. Se a tecnologia for implementada com sucesso e gerar a redução de burocracia esperada, pode impulsionar o mercado imobiliário; caso contrário, a adoção pode ser mais lenta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788559319.4687233,
+    "titulo": "Renegociações de CRIs em alta: um sinal de alerta para investidores de FIIs",
+    "titulo_original": "Renegociações de CRIs em alta: um sinal de alerta para investidores de FIIs",
+    "fonte": "InvestNews",
+    "publicado": "04/09 13:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento nas renegociações de CRIs pode ser um sinal de alerta para investidores de Fundos de Investimento Imobiliário (FIIs) que possuem exposição a esses ativos. Se a tendência de renegociação se intensificar, pode haver impacto na rentabilidade dos FIIs; caso contrário, a situação pode se estabilizar.",
     "is_stocks": true
   }
 ]
