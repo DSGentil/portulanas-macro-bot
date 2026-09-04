@@ -1074,5 +1074,149 @@
     "origem": "domestica",
     "leitura_critica": "A suspensão do IPO da Vale Base Metals pode indicar cautela do mercado em relação a novos investimentos em minerais críticos, ou dificuldades específicas da operação. Se a suspensão for prolongada, pode afetar os planos de expansão da Vale e a oferta de minerais essenciais para a transição energética.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788540347.3010104,
+    "titulo": "TCU determina que governo projete dívida pública com base no limite inferior do arcabouço",
+    "titulo_original": "TCU determina que governo projete dívida pública com base no limite inferior do arcabouço",
+    "fonte": "Folha Mercado",
+    "publicado": "04/09 13:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A determinação do TCU pode forçar uma projeção de dívida pública mais conservadora, o que pode influenciar as discussões sobre o cumprimento das metas fiscais. Se o governo não conseguir atingir o resultado primário mínimo, a projeção do TCU pode expor um cenário de endividamento mais acelerado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788540351.9902802,
+    "titulo": "Novas regras do BC permitem ao cliente anexar provas em contestação de Pix fraudulentos",
+    "titulo_original": "Novas regras do BC permitem ao cliente anexar provas em contestação de Pix fraudulentos",
+    "fonte": "Folha Mercado",
+    "publicado": "04/09 12:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As novas regras do Banco Central visam aumentar a segurança e a eficiência na contestação de fraudes no Pix. Se essas mudanças reduzirem o número de fraudes e aumentarem a confiança dos usuários, isso pode fortalecer a adoção do sistema de pagamentos instantâneos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788540356.219761,
+    "titulo": "Ministro extremista de Israel apresenta plano para expulsar todos palestinos de Gaza",
+    "titulo_original": "Ministro extremista de Israel apresenta plano para expulsar todos palestinos de Gaza - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "04/09 10:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia descreve um evento geopolítico com potencial para aumentar a instabilidade regional. Se a situação escalar, isso pode gerar volatilidade nos mercados globais de energia e impactar o sentimento de risco, mas a notícia não especifica essa conexão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788540360.3470795,
+    "titulo": "Alemanha sofre terceira tentativa de sabotagem ao sistema elétrico em uma semana",
+    "titulo_original": "Alemanha sofre terceira tentativa de sabotagem ao sistema elétrico em uma semana",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 13:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As tentativas de sabotagem à infraestrutura elétrica na Alemanha aumentam o alerta de segurança e podem ter implicações geopolíticas. Se houver uma escalada de tensões ou se esses incidentes forem associados a conflitos internacionais, isso pode gerar incertezas nos mercados de energia e segurança.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788540495.9572604,
+    "titulo": "Bolsas da Europa fecham sem direção única após payroll e antes de decisão do BCE",
+    "titulo_original": "Bolsas da Europa fecham sem direção única após payroll e antes de decisão do BCE",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 13:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O payroll mais forte que o esperado nos EUA tende a reforçar a expectativa de juros mais altos por mais tempo, o que pode pressionar mercados de risco globalmente. Se a decisão do BCE na sequência indicar um tom mais cauteloso, isso pode acentuar a volatilidade nos mercados europeus.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788540495.9591756,
+    "titulo": "Sinal de alerta: renegociações de CRIs expõem vulnerabilidade de FIIs",
+    "titulo_original": "Sinal de alerta: renegociações de CRIs expõem vulnerabilidade de FIIs",
+    "fonte": "InvestNews",
+    "publicado": "04/09 13:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento nas renegociações de CRIs pode indicar um estresse no mercado de crédito imobiliário, afetando a performance de FIIs atrelados a esses ativos. Se essa tendência se mantiver, pode haver uma pressão vendedora em cotas de FIIs de crédito.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788540495.9609704,
+    "titulo": "Ibovespa passa a subir na contramão de NY após 'payroll' forte; dólar avança",
+    "titulo_original": "Ibovespa passa a subir na contramão de NY após 'payroll' forte; dólar avança - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/09 13:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divergência entre o Ibovespa e os mercados americanos após o payroll forte sugere que o mercado local pode estar reagindo a outros fatores ou antecipando movimentos específicos. Se o dólar continuar a avançar, isso pode pressionar a inflação doméstica e influenciar decisões futuras de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788540495.9627523,
+    "titulo": "Ibovespa Futuro acelera perdas após payroll acima do esperado",
+    "titulo_original": "Ibovespa Futuro acelera perdas após payroll acima do esperado - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "04/09 09:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A aceleração das perdas no Ibovespa Futuro após o payroll forte nos EUA reforça a correlação com o sentimento de aversão ao risco global. Se o Federal Reserve sinalizar uma postura mais dura em relação aos juros, isso pode manter a pressão sobre os ativos de risco no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788540495.9645386,
+    "titulo": "‘Prefira shoppings’, diz Morgan Stanley, que eleva Multiplan (MULT3) para compra",
+    "titulo_original": "‘Prefira shoppings’, diz Morgan Stanley, que eleva Multiplan (MULT3) para compra",
+    "fonte": "Money Times",
+    "publicado": "04/09 12:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação do Morgan Stanley reflete uma visão defensiva no setor imobiliário brasileiro, associada a incertezas fiscais e eleitorais. Se as incertezas fiscais se materializarem em decisões que afetem o setor, isso pode impactar o desempenho de outras empresas do ramo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788540495.9663389,
+    "titulo": "Moody's vê melhora gradual na CSN, mas diz que avanço ainda é insuficiente para reduzir risco",
+    "titulo_original": "Moody's vê melhora gradual na CSN, mas diz que avanço ainda é insuficiente para reduzir risco",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 13:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação da Moody's sobre a CSN indica que a empresa ainda enfrenta desafios para reequilibrar sua estrutura de capital, apesar de melhorias operacionais. Se a CSN não conseguir executar seu plano de venda de ativos, isso pode levar a um rebaixamento de rating, afetando o acesso da empresa a crédito.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788540495.9681506,
+    "titulo": "Crédito rural em alerta: operações problemáticas atingem recorde de R$ 207 bilhões e já representam 23,5% da carteira",
+    "titulo_original": "Crédito rural em alerta: operações problemáticas atingem recorde de R$ 207 bilhões e já representam 23,5% da carteira",
+    "fonte": "Money Times",
+    "publicado": "04/09 12:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo das operações problemáticas no crédito rural indica um estresse significativo no setor, possivelmente ligado a fatores climáticos ou de mercado. Se essa tendência persistir, pode haver um impacto na capacidade de investimento e produção do agronegócio brasileiro.",
+    "is_stocks": true
   }
 ]
