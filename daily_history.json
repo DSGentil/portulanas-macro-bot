@@ -1,120 +1,5 @@
 [
   {
-    "_timestamp": 1788435055.389392,
-    "titulo": "Brasil pode estar na antessala de uma crise de crédito no mercado imobiliário, diz gestor de fundos",
-    "titulo_original": "Brasil pode estar na antessala de uma crise de crédito no mercado imobiliário, diz gestor de fundos",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 07:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de uma crise de crédito no mercado imobiliário brasileiro levanta preocupações sobre a saúde financeira do setor e o acesso a financiamento. Se essa crise se materializar, pode haver um impacto negativo na construção civil e no consumo, além de potenciais efeitos em cascata no sistema financeiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788435060.6933293,
-    "titulo": "BC decreta liquidação extrajudicial de duas distribuidoras de títulos e valores mobiliários",
-    "titulo_original": "BC decreta liquidação extrajudicial de duas distribuidoras de títulos e valores mobiliários",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 08:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A intervenção do Banco Central em duas distribuidoras de TVMs, motivada por violações legais, sinaliza a atuação da autoridade monetária na fiscalização do mercado financeiro. Se essas violações forem mais extensas ou envolverem outras instituições, pode haver um impacto na confiança do mercado e na regulamentação do setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788435066.148958,
-    "titulo": "Fim da Moratória da Soja amplia pressão sobre frigoríficos e fábricas de ração",
-    "titulo_original": "Fim da Moratória da Soja amplia pressão sobre frigoríficos e fábricas de ração - feedfood.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "03/09 07:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O fim da moratória da soja impacta diretamente a cadeia produtiva do agronegócio, afetando custos e operações de frigoríficos e fábricas de ração. Se essa pressão se traduzir em aumento de preços, pode haver reflexos na inflação de alimentos e na competitividade do setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788435071.4975848,
-    "titulo": "Irã diz ter atacado bases dos EUA no Kuwait e nos Emirados Árabes",
-    "titulo_original": "Irã diz ter atacado bases dos EUA no Kuwait e nos Emirados Árabes - g1.globo.com",
-    "fonte": "Google News Geopolitica",
-    "publicado": "03/09 05:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alegação de ataque do Irã a bases dos EUA no Oriente Médio eleva significativamente as tensões geopolíticas na região. Se confirmados, esses ataques podem gerar uma escalada de conflito, impactando os preços do petróleo, a estabilidade regional e a confiança dos investidores globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788435079.1977243,
-    "titulo": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores",
-    "titulo_original": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores",
-    "fonte": "Money Times",
-    "publicado": "03/09 08:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise sobre FIIs de papel ressalta a importância de considerar a inflação (IPCA) além da taxa de juros (CDI) para uma avaliação completa. Se a inflação persistir em patamares elevados, FIIs atrelados ao IPCA podem apresentar melhor performance, enquanto um cenário de queda de juros pode favorecer os atrelados ao CDI.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788435079.1990983,
-    "titulo": "UE barra carne, ministros na Expointer, Datafolha, dólar, Ibovespa e mais economia 03.09",
-    "titulo_original": "UE barra carne, ministros na Expointer, Datafolha, dólar, Ibovespa e mais economia 03.09 - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/09 08:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A diversidade de temas abordados nesta notícia indica um cenário complexo, com fatores externos (UE barra carne) e internos (Expointer, Datafolha, dólar, Ibovespa) influenciando a economia. A análise conjunta desses elementos é crucial para entender o quadro macroeconômico atual e suas potenciais evoluções.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788435079.2004533,
-    "titulo": "Ibovespa mira 200 mil: quais ações podem pegar carona no rali?",
-    "titulo_original": "Ibovespa mira 200 mil: quais ações podem pegar carona no rali? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "03/09 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de alta do Ibovespa para 200 mil pontos sugere um cenário otimista para o mercado acionário brasileiro. Se o rali se concretizar, a seleção de ações com potencial de valorização será fundamental para os investidores que buscam lucros no curto e médio prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788435079.2017975,
-    "titulo": "Dow Jones hoje: dólar tomba, petróleo avança e payroll entra no radar de Wall Street",
-    "titulo_original": "Dow Jones hoje: dólar tomba, petróleo avança e payroll entra no radar de Wall Street - estadao.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/09 08:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda do dólar e a alta do petróleo, com o payroll no radar, indicam um cenário de volatilidade nos mercados globais. Se os dados de payroll vierem fortes, isso pode reforçar a política monetária mais restritiva do Fed, impactando o dólar e os mercados acionários. Se vierem fracos, pode haver alívio e reversão dessas tendências.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788435079.203125,
-    "titulo": "Day Trade hoje (03): Ibovespa dispara aos 185 mil; alta pode continuar?",
-    "titulo_original": "Day Trade hoje (03): Ibovespa dispara aos 185 mil; alta pode continuar? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "03/09 07:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte alta do Ibovespa para 185 mil pontos sugere um momento de otimismo no mercado acionário brasileiro. A continuidade dessa alta dependerá de fatores macroeconômicos internos e externos, bem como da percepção dos investidores sobre o cenário futuro e a ausência de gatilhos negativos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788441344.1422064,
     "titulo": "Liquidadas pelo BC, Trustee e Banvox foram alvo da Operação Carbono Oculto e dono entrou na mira da Compliance Zero",
     "titulo_original": "Liquidadas pelo BC, Trustee e Banvox foram alvo da Operação Carbono Oculto e dono entrou na mira da Compliance Zero",
@@ -1218,5 +1103,69 @@
     "origem": "domestica",
     "leitura_critica": "O aumento expressivo das operações problemáticas no crédito rural indica um estresse significativo no setor, possivelmente ligado a fatores climáticos ou de mercado. Se essa tendência persistir, pode haver um impacto na capacidade de investimento e produção do agronegócio brasileiro.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788546654.033507,
+    "titulo": "Balança comercial registra superávit de US$ 7,39 bi em agosto, alta de 23,8%",
+    "titulo_original": "Balança comercial registra superávit de US$ 7,39 bi em agosto, alta de 23,8%",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 15:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do superávit comercial pode indicar uma melhora na competitividade das exportações brasileiras. Se a tendência de crescimento das exportações se mantiver, isso pode contribuir positivamente para o PIB. No entanto, a queda nas exportações para a China merece atenção, pois representa um dos principais destinos dos produtos brasileiros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788546657.9629552,
+    "titulo": "Boletim Cambial (04/09): Euro e Dólar PTAX",
+    "titulo_original": "Boletim Cambial (04/09): Euro e Dólar PTAX - trademap.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/09 13:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Acompanhar as taxas PTAX do dólar e do euro é fundamental para entender a dinâmica do câmbio no Brasil. Se o dólar apresentar volatilidade significativa, isso pode impactar a inflação e o custo de importação. A relação entre as moedas estrangeiras e o real é um indicador importante para o planejamento de empresas e investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788546662.0453835,
+    "titulo": "Poucos terrenos, Selic e ciclo longo: por que novos shoppings são raros no Brasil?",
+    "titulo_original": "Poucos terrenos, Selic e ciclo longo: por que novos shoppings são raros no Brasil? - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/09 12:30",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A taxa Selic elevada impacta diretamente o custo de capital para novos empreendimentos, como shoppings. Se a Selic permanecer alta por um período prolongado, isso pode desestimular investimentos de longo prazo. A escassez de terrenos e o ciclo de construção longo são fatores estruturais que também contribuem para a dificuldade de novos shoppings.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788546665.9567893,
+    "titulo": "Alta de juros nos EUA e tensão na Selic; Entenda",
+    "titulo_original": "Alta de juros nos EUA e tensão na Selic; Entenda - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/09 11:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A dinâmica dos juros nos EUA tem influência direta nas decisões de política monetária no Brasil. Se a taxa de juros americana subir de forma mais acentuada, o Banco Central do Brasil pode ter sua margem de manobra para cortes da Selic reduzida. A tensão na Selic pode indicar incertezas sobre o futuro da política monetária doméstica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788546670.0488465,
+    "titulo": "Eletrificação veicular avança e abre oportunidades além do setor automotivo, diz Scotiabank",
+    "titulo_original": "Eletrificação veicular avança e abre oportunidades além do setor automotivo, diz Scotiabank",
+    "fonte": "Valor Economico",
+    "publicado": "04/09 14:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A eletrificação veicular representa uma mudança estrutural com potencial de impactar diversos setores da economia. Se a tendência se consolidar, pode haver demanda por novas tecnologias e infraestrutura, gerando oportunidades de investimento. A influência da China na produção e exportação de veículos elétricos é um fator a ser observado.",
+    "is_stocks": false
   }
 ]
