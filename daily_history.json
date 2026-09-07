@@ -591,5 +591,93 @@
     "origem": "domestica",
     "leitura_critica": "O acompanhamento da cotação do dólar é fundamental para entender o comportamento do câmbio em tempo real. Se houver volatilidade significativa, isso pode indicar reações do mercado a notícias econômicas ou eventos de risco.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788818443.6650987,
+    "titulo": "Capturar o Estado é mais rentável?",
+    "titulo_original": "Capturar o Estado é mais rentável?",
+    "fonte": "Folha Mercado",
+    "publicado": "07/09 18:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O caso do Banco Master levanta preocupações sobre a governança corporativa e a supervisão regulatória no setor financeiro brasileiro. Se investigações futuras revelarem falhas sistêmicas, isso pode levar a um aperto regulatório mais rigoroso por parte do Banco Central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788818447.717025,
+    "titulo": "Trump ameaça impedir Bombardier de vender aviões nos EUA se empresa canadense não passar a produzir no país",
+    "titulo_original": "Trump ameaça impedir Bombardier de vender aviões nos EUA se empresa canadense não passar a produzir no país - g1.globo.com",
+    "fonte": "Google News Geopolitica",
+    "publicado": "07/09 16:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de Trump pode intensificar as tensões comerciais entre EUA e Canadá. Se a Bombardier não atender à exigência, isso pode impactar sua cadeia de suprimentos e vendas, abrindo espaço para concorrentes como a Embraer em segmentos específicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788818451.665358,
+    "titulo": "Canadá prepara retaliação às tarifas de Trump e arrisca ampliar guerra comercial",
+    "titulo_original": "Canadá prepara retaliação às tarifas de Trump e arrisca ampliar guerra comercial - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "07/09 14:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A iminente retaliação do Canadá às tarifas dos EUA pode escalar a guerra comercial entre os países. Se as medidas se concretizarem, isso pode afetar cadeias de suprimentos e gerar incertezas para empresas que operam em ambos os mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788818455.6441486,
+    "titulo": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
+    "titulo_original": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
+    "fonte": "ForexLive",
+    "publicado": "07/09 16:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A expectativa de aumento de juros pelo BOJ tende a fortalecer o iene, o que pode pressionar o dólar. Se o BOJ de fato sinalizar uma política monetária mais restritiva, isso pode sustentar a valorização do iene e impactar fluxos de capital globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788818460.4051096,
+    "titulo": "Na escalada da disputa comercial entre EUA e Canadá, Embraer pode se beneficiar em jatos executivos",
+    "titulo_original": "Na escalada da disputa comercial entre EUA e Canadá, Embraer pode se beneficiar em jatos executivos",
+    "fonte": "InvestNews",
+    "publicado": "07/09 17:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A disputa comercial entre EUA e Canadá pode criar oportunidades para a Embraer, caso a Bombardier enfrente restrições de mercado. Se as tarifas e barreiras comerciais se intensificarem, a demanda por aeronaves de fabricantes não afetados diretamente pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788818460.4063148,
+    "titulo": "O ataque de Trump a concorrente da Embraer (EMBR3); ‘não são bons o suficiente’",
+    "titulo_original": "O ataque de Trump a concorrente da Embraer (EMBR3); ‘não são bons o suficiente’",
+    "fonte": "Money Times",
+    "publicado": "07/09 15:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "As críticas de Trump à Bombardier podem criar um ambiente favorável para a Embraer no mercado americano. Se as restrições comerciais se concretizarem, a empresa brasileira pode se beneficiar da disputa, aumentando sua participação no segmento de jatos executivos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788818460.4074175,
+    "titulo": "TGAR11 ou Selic a 14%: o que aconteceu nos últimos 12 meses?",
+    "titulo_original": "TGAR11 ou Selic a 14%: o que aconteceu nos últimos 12 meses? - - Fiis",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/09 15:10",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A comparação entre o desempenho de um fundo imobiliário e a taxa básica de juros é relevante para investidores de renda variável e fixa. Se a taxa Selic permanecer alta, fundos imobiliários com alta alavancagem ou dependentes de crédito podem enfrentar desafios.",
+    "is_stocks": true
   }
 ]
