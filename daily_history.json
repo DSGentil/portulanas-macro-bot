@@ -455,5 +455,79 @@
     "origem": "domestica",
     "leitura_critica": "A recomendação de manter o foco em qualidade e solidez reflete um cenário de juros elevados que penaliza empresas com balanços mais frágeis. Se os juros começarem a cair de forma consistente, essa estratégia pode precisar de ajustes para capturar oportunidades em ativos mais sensíveis à queda de taxa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788805848.0310383,
+    "titulo": "Combater poluição e mudança climática pode elevar PIB global em 2,8% até 2035, diz ONU",
+    "titulo_original": "Combater poluição e mudança climática pode elevar PIB global em 2,8% até 2035, diz ONU",
+    "fonte": "Folha Mercado",
+    "publicado": "07/09 10:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia apresenta uma projeção da ONU sobre o impacto positivo de ações ambientais no PIB global. Se tais ações forem implementadas e gerarem crescimento, isso pode ter reflexos em cenários econômicos globais. No entanto, a notícia não detalha mecanismos ou prazos específicos para a economia brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788805853.3336523,
+    "titulo": "Mudança nas reservas globais para longe do dólar é superestimada, diz estudo do Fed de Nova York",
+    "titulo_original": "Mudança nas reservas globais para longe do dólar é superestimada, diz estudo do Fed de Nova York - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/09 11:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia apresenta a visão do Fed de Nova York sobre a alocação de reservas globais. Se a predominância do dólar se mantiver, isso pode influenciar a estabilidade cambial e as decisões de política monetária de outros países. A notícia não especifica o destino do capital, mas a discussão sobre reservas globais é explícita.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788805858.6820443,
+    "titulo": "Iene atinge maior valor em 6 meses contra o dólar; veja o que faz a moeda japonesa subir",
+    "titulo_original": "Iene atinge maior valor em 6 meses contra o dólar; veja o que faz a moeda japonesa subir - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/09 12:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A valorização do iene em relação ao dólar pode indicar uma mudança no fluxo de capital ou no sentimento de risco global. Se essa tendência se consolidar, pode afetar a competitividade de exportações e importações de diferentes economias. A notícia não especifica o destino do capital, mas a movimentação cambial é explícita.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788805863.8078856,
+    "titulo": "BC da China registra maior aumento nas reservas de ouro desde 2023, mesmo com alta dos preços",
+    "titulo_original": "BC da China registra maior aumento nas reservas de ouro desde 2023, mesmo com alta dos preços - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "07/09 11:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento das reservas de ouro pelo Banco Central da China pode indicar uma estratégia de diversificação de ativos ou uma busca por segurança em um cenário de incertezas. Se essa tendência se mantiver, pode influenciar a demanda global por ouro e, indiretamente, o comportamento de outras moedas e ativos. A notícia não especifica o destino do capital, mas a movimentação em reservas de ouro é explícita.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788805870.2243578,
+    "titulo": "Ações de mercados emergentes sobem ao nível mais alto desde junho",
+    "titulo_original": "Ações de mercados emergentes sobem ao nível mais alto desde junho",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 15:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta em mercados emergentes, impulsionada por otimismo em tecnologia, pode indicar um apetite a risco global. Se essa tendência se mantiver, pode haver um fluxo de capital para ativos de risco em outras economias. Contudo, a notícia menciona que a alta do petróleo atuou como contraponto, sugerindo que fatores de custo ainda podem pesar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788805870.2252107,
+    "titulo": "China retoma compras de petróleo e quadro ajuda Petrobras",
+    "titulo_original": "China retoma compras de petróleo e quadro ajuda Petrobras - InvestNews",
+    "fonte": "Google News Acoes",
+    "publicado": "07/09 14:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A retomada das compras de petróleo pela China pode indicar uma melhora na demanda global por commodities energéticas. Se essa demanda se sustentar, pode haver pressão positiva sobre os preços do petróleo, o que, por sua vez, pode impactar positivamente empresas como a Petrobras. A notícia não especifica o destino do capital, mas a conexão com commodities é explícita.",
+    "is_stocks": true
   }
 ]
