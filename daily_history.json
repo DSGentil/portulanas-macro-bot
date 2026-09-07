@@ -199,5 +199,103 @@
     "origem": "externa",
     "leitura_critica": "A revisão positiva do PIB da Zona do Euro no segundo trimestre, impulsionada pelo comércio, é um sinal encorajador para os formuladores de políticas. Se o crescimento das exportações se mantiver forte e a demanda doméstica apresentar sinais de recuperação, isso pode sustentar a trajetória de crescimento da região; caso contrário, a dependência do comércio exterior pode expor a economia a choques externos.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1788787206.0771592,
+    "titulo": "Petróleo supera US$ 97 após ataques a petroleiros e refinaria no Oriente Médio",
+    "titulo_original": "Petróleo supera US$ 97 após ataques a petroleiros e refinaria no Oriente Médio",
+    "fonte": "Folha Mercado",
+    "publicado": "07/09 07:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de ataques no Oriente Médio elevando o preço do petróleo acima de US$ 97 pode gerar pressões inflacionárias globais. Se os conflitos se intensificarem, o custo de energia mais alto pode impactar a atividade econômica e a política monetária de diversos países.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788787210.5458663,
+    "titulo": "Iene atinge máxima de sete meses ante o dólar",
+    "titulo_original": "Iene atinge máxima de sete meses ante o dólar - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/09 10:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A valorização do iene a máximas de sete meses frente ao dólar pode indicar uma mudança nas expectativas de política monetária do Banco do Japão ou um fluxo de capital para ativos considerados mais seguros. Se o Banco do Japão sinalizar um aperto monetário, isso pode sustentar a força do iene e impactar fluxos globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788787214.919118,
+    "titulo": "Dólar recua no exterior com política monetária no radar e avanço do iene",
+    "titulo_original": "Dólar recua no exterior com política monetária no radar e avanço do iene",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A desvalorização do dólar no exterior, atrelada à expectativa de decisões de política monetária e à força do iene, sugere um movimento de aversão ao risco ou busca por outras moedas. Se os bancos centrais sinalizarem um aperto monetário mais agressivo, isso pode continuar pressionando o dólar, enquanto a valorização do iene pode indicar um fluxo de capital para o Japão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788787219.2419639,
+    "titulo": "PIB da zona do euro cresce 0,6% no 2º trimestre",
+    "titulo_original": "PIB da zona do euro cresce 0,6% no 2º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O crescimento de 0,6% do PIB da zona do euro no segundo trimestre, após estagnação no anterior, indica uma recuperação da atividade econômica. Se essa tendência de aceleração se mantiver, pode influenciar as decisões de política monetária do Banco Central Europeu e a percepção de risco global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788787224.7147126,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/09 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento em tempo real da cotação do dólar é crucial para quem opera no mercado financeiro. Se houver volatilidade significativa, isso pode indicar reações a notícias econômicas ou eventos geopolíticos que afetam o fluxo de capitais e a precificação de ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788787224.7150917,
+    "titulo": "Homem mais rico da África planeja maior IPO do continente",
+    "titulo_original": "Homem mais rico da África planeja maior IPO do continente",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 09:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O planejamento do maior IPO da África pela refinaria de Aliko Dangote representa um movimento significativo para o mercado de capitais do continente. Se a oferta for bem-sucedida, pode atrair mais investimentos estrangeiros e impulsionar o desenvolvimento de outros setores na Nigéria e em países vizinhos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788787224.716036,
+    "titulo": "Bancos ampliam cardápio de criptomoedas para clientes com avanço da regulação",
+    "titulo_original": "Bancos ampliam cardápio de criptomoedas para clientes com avanço da regulação",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 09:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expansão da oferta de criptoativos por bancos no Brasil, impulsionada pela regulamentação, indica uma maior integração desses ativos ao sistema financeiro tradicional. Se a regulamentação se consolidar e a volatilidade dos criptoativos for gerenciada, isso pode atrair mais investidores institucionais e de varejo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788787224.7176123,
+    "titulo": "OpenAI envia relatório à Comissão Europeia sobre ataque de agentes autônomos de IA a site alemão",
+    "titulo_original": "OpenAI envia relatório à Comissão Europeia sobre ataque de agentes autônomos de IA a site alemão",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 09:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O envio de um relatório pela OpenAI à Comissão Europeia sobre um incidente com agentes autônomos de IA destaca os desafios de segurança e controle na área. Se a Comissão Europeia avançar com regulamentações mais rigorosas para IA em resposta a tais eventos, isso pode impactar o desenvolvimento e a adoção dessas tecnologias globalmente.",
+    "is_stocks": true
   }
 ]
