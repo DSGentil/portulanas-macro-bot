@@ -133,5 +133,71 @@
     "origem": "domestica",
     "leitura_critica": "O aumento do investimento em FIIs por investidores seniores, mesmo com juros altos, pode indicar uma busca por diversificação e renda. Se a taxa de juros começar a cair, o interesse em FIIs pode se manter ou até aumentar, beneficiando o setor imobiliário.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788780853.7369223,
+    "titulo": "Num ano de eleição presidencial, desaceleração da economia se acentua no segundo semestre",
+    "titulo_original": "Num ano de eleição presidencial, desaceleração da economia se acentua no segundo semestre",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 08:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração econômica em ano eleitoral pode intensificar a pressão sobre o governo, especialmente se os dados de alta frequência continuarem a apontar para um desempenho fraco. Se o governo conseguir implementar medidas que reativem o consumo e o investimento, a trajetória de crescimento pode ser alterada; caso contrário, a estagnação pode se consolidar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788780857.6335888,
+    "titulo": "Depois do EWZ, eleição mais apertada já aparece nas opções de dólar",
+    "titulo_original": "Depois do EWZ, eleição mais apertada já aparece nas opções de dólar",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 08:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A volatilidade observada no mercado de opções de dólar sugere que o cenário eleitoral está gerando incertezas quanto ao futuro da moeda. Se a disputa eleitoral se mostrar ainda mais acirrada nas próximas semanas, isso pode levar a uma maior pressão sobre o câmbio e a um aumento da volatilidade no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788780861.5497346,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "07/09 03:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A ausência de dados econômicos relevantes nos EUA pode levar a um período de consolidação nos mercados, com os investidores focados nos próximos indicadores. Se o CPI dos EUA vier acima do esperado, isso pode aumentar as chances de uma nova alta de juros pelo Fed; caso contrário, a probabilidade de manutenção da taxa pode crescer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788780865.4597828,
+    "titulo": "Instalação da Saudi Aramco atacada novamente; extensão dos danos ainda está sendo avaliada",
+    "titulo_original": "Saudi Aramco facility attacked again; extent of the damage still being assessed",
+    "fonte": "ForexLive",
+    "publicado": "07/09 08:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A repetição de ataques a instalações petrolíferas sauditas aumenta o risco geopolítico em um mercado de petróleo já fragilizado. Se os danos forem mais significativos do que o relatado anteriormente, isso pode levar a um aumento nas cotações do petróleo; caso contrário, o mercado pode absorver o evento como mais um incidente pontual.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788780869.4408603,
+    "titulo": "PIB da Zona do Euro no 2º trimestre tem impulso comercial com crescimento acelerado para 0,6%",
+    "titulo_original": "Eurozone Q2 GDP gets a trade boost as growth accelerates to 0.6%",
+    "fonte": "ForexLive",
+    "publicado": "07/09 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A revisão positiva do PIB da Zona do Euro no segundo trimestre, impulsionada pelo comércio, é um sinal encorajador para os formuladores de políticas. Se o crescimento das exportações se mantiver forte e a demanda doméstica apresentar sinais de recuperação, isso pode sustentar a trajetória de crescimento da região; caso contrário, a dependência do comércio exterior pode expor a economia a choques externos.",
+    "is_stocks": false
   }
 ]
