@@ -1,1107 +1,137 @@
 [
   {
-    "_timestamp": 1788460252.2854705,
-    "titulo": "Quem é Mauricio Quadrado, da Trustee, e qual a relação do empresário com o Master",
-    "titulo_original": "Quem é Mauricio Quadrado, da Trustee, e qual a relação do empresário com o Master",
+    "_timestamp": 1788778856.5546553,
+    "titulo": "Endividamento e crédito caro reduzem empolgação do brasileiro com mercado de trabalho e renda em alta",
+    "titulo_original": "Endividamento e crédito caro reduzem empolgação do brasileiro com mercado de trabalho e renda em alta",
     "fonte": "Folha Mercado",
-    "publicado": "03/09 11:27",
-    "relevancia": "ALTA",
+    "publicado": "06/09 23:00",
+    "relevancia": "MEDIA",
     "canais_afetados": [
-      "decisao_fiscal_regulatoria"
+      "atividade_emprego"
     ],
     "origem": "domestica",
-    "leitura_critica": "A intervenção do Banco Central em distribuidoras de títulos pode gerar desconfiança no mercado financeiro, especialmente em relação a fundos geridos por essas empresas. Se a liquidação se estender a outras instituições, o apetite por risco no setor financeiro pode diminuir.",
+    "leitura_critica": "O cenário de crédito caro e endividamento pode limitar o consumo, mesmo com indicadores de emprego positivos. Se as condições de crédito piorarem, a demanda interna pode desacelerar, impactando o crescimento econômico e a confiança do consumidor no curto prazo.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1788460257.185256,
-    "titulo": "Liquidação da Trustee DTVM: fundos ficam congelados para saques até escolha de novo administrador",
-    "titulo_original": "Liquidação da Trustee DTVM: fundos ficam congelados para saques até escolha de novo administrador",
-    "fonte": "InvestNews",
-    "publicado": "03/09 12:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A liquidação de distribuidoras e o consequente congelamento de fundos podem gerar preocupação entre investidores que possuem recursos nessas instituições. Se a situação se agravar ou se estender a outros fundos, pode haver uma corrida por resgates em outras gestoras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788460262.081579,
-    "titulo": "XP projeta Selic mais baixa e eleva recomendação para títulos prefixados",
-    "titulo_original": "XP projeta Selic mais baixa e eleva recomendação para títulos prefixados - InfoMoney",
+    "_timestamp": 1788778861.464403,
+    "titulo": "O varejo espera a Selic cair — mas o ponto de partida mudou",
+    "titulo_original": "O varejo espera a Selic cair — mas o ponto de partida mudou - InfoMoney",
     "fonte": "Google News Cambio Juros",
-    "publicado": "03/09 14:35",
-    "relevancia": "ALTA",
+    "publicado": "06/09 14:00",
+    "relevancia": "MEDIA",
     "canais_afetados": [
       "juros"
     ],
     "origem": "domestica",
-    "leitura_critica": "A projeção de Selic mais baixa pela XP sugere uma expectativa de corte nos juros pelo Banco Central. Se essa projeção se concretizar, títulos prefixados tendem a se valorizar, enquanto títulos pós-fixados podem ter menor atratividade.",
+    "leitura_critica": "A mudança no ponto de partida para a expectativa de queda da Selic pode indicar que o ciclo de afrouxamento monetário pode ser mais lento ou começar em patamares diferentes do que o mercado esperava. Isso pode afetar o planejamento de investimentos e o consumo no setor varejista.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1788460267.354945,
-    "titulo": "Instituições financeiras têm maior preocupação com riscos fiscais e inadimplência, mostra pesquisa do BC",
-    "titulo_original": "Instituições financeiras têm maior preocupação com riscos fiscais e inadimplência, mostra pesquisa do BC",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 15:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A percepção de risco fiscal elevada pelas instituições financeiras pode levar a uma maior cautela na concessão de crédito e a um aumento do custo de capital para o governo e empresas. Se as políticas fiscais não forem ajustadas, a inadimplência pode crescer, afetando a estabilidade financeira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788460279.6114776,
-    "titulo": "O almoço que ‘entregou’ Assaí, Casas Bahia e Dia ao MP; a propina de 1% a 2,5%",
-    "titulo_original": "O almoço que ‘entregou’ Assaí, Casas Bahia e Dia ao MP; a propina de 1% a 2,5%",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 13:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O envolvimento da Assaí em investigações de propina para agilizar ressarcimentos fiscais pode gerar desconfiança sobre a integridade das operações tributárias. Se a investigação avançar e outras empresas forem implicadas, pode haver maior rigor na fiscalização e impacto nas operações das varejistas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788460279.613052,
-    "titulo": "Fatores que fizeram câmbio descolar dos juros neste ano estão perdendo força, diz Itaú",
-    "titulo_original": "Fatores que fizeram câmbio descolar dos juros neste ano estão perdendo força, diz Itaú",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 15:15",
+    "_timestamp": 1788778866.550828,
+    "titulo": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic",
+    "titulo_original": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/09 21:07",
     "relevancia": "MEDIA",
     "canais_afetados": [
       "juros"
     ],
-    "origem": "ambas",
-    "leitura_critica": "Se a perda de força desses fatores se confirmar, o câmbio pode passar a reagir de forma mais direta às decisões de política monetária doméstica. Caso contrário, outros elementos podem continuar ditando o ritmo de desvalorização da moeda brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788460279.6145382,
-    "titulo": "Nvidia comprará site invadido por IA por US$ 12,9 bi em aposta em modelos abertos",
-    "titulo_original": "Nvidia comprará site invadido por IA por US$ 12,9 bi em aposta em modelos abertos",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 10:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A aquisição da Hugging Face pela Nvidia demonstra um movimento estratégico em direção a modelos de IA abertos. Se essa aposta se concretizar, pode haver um avanço na democratização da tecnologia de IA e um aumento na competitividade do setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788460279.6160133,
-    "titulo": "Análise: Saída de Steinbruch impulsiona CSN; ainda há um longo caminho para recuperar o valor perdido",
-    "titulo_original": "Análise: Saída de Steinbruch impulsiona CSN; ainda há um longo caminho para recuperar o valor perdido",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 13:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
     "origem": "domestica",
-    "leitura_critica": "A mudança na liderança da CSN gerou uma reação positiva imediata no mercado acionário. Se a nova gestão conseguir implementar as melhorias esperadas, a ação pode continuar a se valorizar; caso contrário, o caminho para recuperar o valor perdido pode ser longo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788467454.5092797,
-    "titulo": "Relator de projeto sobre data centers propõe afrouxar lei para facilitar envio de emendas a municípios",
-    "titulo_original": "Relator de projeto sobre data centers propõe afrouxar lei para facilitar envio de emendas a municípios",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 15:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de afrouxar a LRF para facilitar o envio de emendas pode ter implicações fiscais para os municípios. Se aprovada, pode aumentar a discricionariedade dos gastos municipais, mas também levanta questões sobre a sustentabilidade fiscal a longo prazo. O impacto dependerá do volume de emendas e da capacidade de gestão dos municípios.",
+    "leitura_critica": "A manutenção do ciclo de queda da Selic pelo Copom sugere uma continuidade na política monetária expansionista. Se essa tendência se confirmar nas próximas reuniões, pode haver um estímulo ao crédito e ao investimento, impactando positivamente a atividade econômica.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1788467458.9313006,
-    "titulo": "Dólar à vista encerra perto da estabilidade e real não se beneficia de ambiente externo",
-    "titulo_original": "Dólar à vista encerra perto da estabilidade e real não se beneficia de ambiente externo",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 17:19",
-    "relevancia": "MEDIA",
+    "_timestamp": 1788778871.4501162,
+    "titulo": "IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores",
+    "titulo_original": "IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores",
+    "fonte": "Money Times",
+    "publicado": "06/09 11:50",
+    "relevancia": "ALTA",
     "canais_afetados": [
+      "inflacao",
       "juros"
     ],
     "origem": "ambas",
-    "leitura_critica": "A divergência entre o desempenho do dólar globalmente e no Brasil sugere que fatores domésticos, como a incerteza eleitoral, estão exercendo uma influência significativa sobre o real. Se a incerteza eleitoral diminuir, o real pode ter espaço para uma valorização mais consistente, dependendo do cenário externo de juros.",
+    "leitura_critica": "Os dados de inflação e a decisão de juros do BCE são cruciais para a definição do cenário macroeconômico global. Se a inflação nos EUA vier acima do esperado, o Fed pode adiar cortes de juros; se o BCE mantiver a taxa de juros ou sinalizar aperto, isso pode impactar o fluxo de capital para mercados emergentes.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1788467463.2973397,
-    "titulo": "Dólar cai a R$ 5,10 e Bolsa perde força, com petróleo e política no radar",
-    "titulo_original": "Dólar cai a R$ 5,10 e Bolsa perde força, com petróleo e política no radar - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/09 13:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do dólar para R$ 5,10 pode ser um reflexo de fatores externos favoráveis, mas a perda de força da Bolsa indica cautela com o cenário doméstico. Se a política doméstica apresentar sinais de maior estabilidade, a Bolsa pode recuperar o fôlego. Caso contrário, a volatilidade tende a persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788467467.7000794,
-    "titulo": "Dólar recua com petróleo em alta, Treasuries em baixa e foco eleitoral",
-    "titulo_original": "Dólar recua com petróleo em alta, Treasuries em baixa e foco eleitoral - jornaldocomercio.com",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/09 16:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do dólar é influenciada por uma combinação de fatores externos positivos (petróleo em alta, Treasuries em baixa) e a atenção voltada para o cenário eleitoral doméstico. Se o cenário eleitoral se tornar mais claro e previsível, isso pode dar suporte ao real. A persistência da alta do petróleo também pode ser um fator de suporte.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788467473.5745947,
-    "titulo": "MP cita Rumo, Comgás e Cosan como supostas beneficiadas do esquema de corrupção na Fazenda de SP",
-    "titulo_original": "MP cita Rumo, Comgás e Cosan como supostas beneficiadas do esquema de corrupção na Fazenda de SP",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 16:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A investigação sobre corrupção na Fazenda de SP pode gerar desdobramentos regulatórios e fiscais para as empresas citadas. Se as acusações forem comprovadas, as companhias podem enfrentar multas e sanções, impactando seus resultados e a confiança dos investidores. A extensão do impacto dependerá da profundidade da investigação e das decisões judiciais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788467473.57598,
-    "titulo": "Preview: August non-farm payrolls by the numbers",
-    "titulo_original": "Preview: August non-farm payrolls by the numbers",
+    "_timestamp": 1788778882.6470392,
+    "titulo": "Irã adverte sobre resposta mais dura: petróleo, ouro e ações para acompanhar no fim de semana",
+    "titulo_original": "Iran warns of tougher response: Oil, gold and stocks to watch over the holiday weekend",
     "fonte": "ForexLive",
-    "publicado": "03/09 14:52",
+    "publicado": "06/09 09:49",
     "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de payroll é crucial para as decisões de política monetária do Federal Reserve. Se o número vier significativamente abaixo do esperado, pode reforçar a visão de desaceleração econômica e aumentar as apostas em cortes de juros. Se vier acima do consenso, pode indicar resiliência e manter o Fed em compasso de espera.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788467473.5771627,
-    "titulo": "Wall Street sobe 1% de olho em títulos antes do payroll",
-    "titulo_original": "Wall Street sobe 1% de olho em títulos antes do payroll",
-    "fonte": "Money Times",
-    "publicado": "03/09 17:14",
-    "relevancia": "MEDIA",
     "canais_afetados": [],
     "origem": "externa",
-    "leitura_critica": "A alta em Wall Street reflete um otimismo cauteloso antes da divulgação do payroll, com investidores reagindo à queda nos rendimentos dos Treasuries. Se os dados de emprego vierem fortes, podem reverter essa tendência de queda nos rendimentos e pressionar as bolsas. Se vierem fracos, o alívio pode se estender.",
+    "leitura_critica": "A retórica do Irã sugere uma escalada nas tensões geopolíticas, o que pode aumentar a volatilidade nos mercados de commodities, especialmente petróleo. Se os ataques se intensificarem, o preço do barril pode subir, afetando a inflação global e o custo de energia para empresas e consumidores.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1788467473.6430717,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/09 15:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento ao vivo da cotação do dólar é essencial para entender as flutuações diárias do mercado. A evolução do câmbio será influenciada por fatores internos, como o cenário eleitoral e decisões de política monetária, e externos, como o comportamento dos juros nos EUA e o apetite por risco global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788472848.0027194,
-    "titulo": "MPSP aponta Farma Conde, Ipiranga e Sony Mobile em esquema de propina na Sefaz-SP",
-    "titulo_original": "MPSP aponta Farma Conde, Ipiranga e Sony Mobile em esquema de propina na Sefaz-SP",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 18:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A investigação aponta para possíveis irregularidades fiscais e tributárias com impacto em empresas específicas e na administração pública estadual. Se comprovada a fraude, pode haver revisão de decisões tributárias e multas, afetando a arrecadação e a conformidade fiscal das empresas envolvidas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788472853.3581796,
-    "titulo": "Senado aprova fim da ‘taxa das blusinhas’",
-    "titulo_original": "Senado aprova fim da ‘taxa das blusinhas’",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 18:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do fim da 'taxa das blusinhas' representa uma mudança na política tributária de importação, com potencial impacto no varejo e nos setores de têxteis, vestuário e calçados. Se as contrapartidas forem efetivas, podem mitigar os efeitos negativos sobre a indústria nacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788472858.6308162,
-    "titulo": "Como o juro alto lá fora faz você perder dinheiro aqui no Brasil",
-    "titulo_original": "Como o juro alto lá fora faz você perder dinheiro aqui no Brasil",
-    "fonte": "InvestNews",
-    "publicado": "03/09 17:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O cenário de juros globais elevados tende a manter a pressão sobre as taxas de juros domésticas, limitando o espaço para cortes pelo Banco Central. Se as taxas internacionais começarem a cair, isso pode abrir espaço para uma política monetária mais frouxa no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788472863.8718743,
-    "titulo": "Déficit comercial dos EUA cresce 24,4% em julho, com recorde nas importações de bens de capital",
-    "titulo_original": "Déficit comercial dos EUA cresce 24,4% em julho, com recorde nas importações de bens de capital",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 13:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento do déficit comercial dos EUA, com recorde nas importações de bens de capital, pode indicar uma demanda interna robusta, mas também um peso maior no crescimento econômico. Se essa tendência se mantiver, pode influenciar a política monetária americana e, consequentemente, os fluxos de capital globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788472870.047632,
-    "titulo": "Atividade de serviços no Brasil volta a crescer em agosto, mostra PMI",
-    "titulo_original": "Atividade de serviços no Brasil volta a crescer em agosto, mostra PMI",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 14:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento da atividade de serviços é um indicador positivo para a economia brasileira, sugerindo resiliência apesar do cenário de juros elevados. Se essa tendência se mantiver, pode reforçar a percepção de que o Banco Central não precisará de cortes de juros mais agressivos no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788472870.0496285,
-    "titulo": "Escritório que defende Ambev vira alvo de nova ofensiva contra corrupção no uso de créditos de ICMS",
-    "titulo_original": "Escritório que defende Ambev vira alvo de nova ofensiva contra corrupção no uso de créditos de ICMS",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 17:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A investigação sobre o uso fraudulento de créditos de ICMS pode gerar implicações fiscais e legais para as empresas envolvidas, incluindo a Ambev. Se comprovada a fraude, pode haver revisão de decisões tributárias e multas, afetando a conformidade fiscal e a arrecadação estadual.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788478268.5500627,
-    "titulo": "Durigan diz que governo não debate nova reforma da Previdência",
-    "titulo_original": "Durigan diz que governo não debate nova reforma da Previdência",
-    "fonte": "Valor Economico",
-    "publicado": "03/09 19:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro indica que não há uma decisão concreta sobre reforma da Previdência em pauta imediata, o que pode trazer um certo alívio fiscal no curto prazo. Se o governo decidir discutir o tema no futuro, o debate sobre a sustentabilidade do sistema previdenciário poderá gerar novas expectativas sobre o cenário fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788478273.531352,
-    "titulo": "Governos regionais também devem dar contribuição para o ajuste fiscal",
-    "titulo_original": "Governos regionais também devem dar contribuição para o ajuste fiscal",
-    "fonte": "Folha Mercado",
-    "publicado": "03/09 19:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para a necessidade de governos regionais contribuírem para o ajuste fiscal, indicando um potencial foco futuro em cortes de gastos ou aumento de receitas em níveis subnacionais. Se houver decisões concretas de ajuste fiscal por parte de estados e municípios, isso poderá impactar o quadro fiscal geral do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788478278.4893994,
-    "titulo": "Bolsas de NY sobem mais de 1% com alívio nos juros e redução de apostas de alta pelo Fed",
-    "titulo_original": "Bolsas de NY sobem mais de 1% com alívio nos juros e redução de apostas de alta pelo Fed - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/09 17:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A notícia indica um movimento positivo nos mercados de Nova York devido a expectativas de juros mais baixos ou estabilidade por parte do Fed. Se o Fed de fato sinalizar uma pausa ou corte nos juros, isso pode influenciar o fluxo de capital global e, consequentemente, mercados emergentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788478286.1003869,
-    "titulo": "Ibovespa anda de lado, mas perde sequência de altas, em dia de correção; Vale cai",
-    "titulo_original": "Ibovespa anda de lado, mas perde sequência de altas, em dia de correção; Vale cai - InfoMoney",
+    "_timestamp": 1788778882.647312,
+    "titulo": "Cobertor curto: 7 ações do Ibovespa mais expostas ao impacto dos juros altos em seus resultados",
+    "titulo_original": "Cobertor curto: 7 ações do Ibovespa mais expostas ao impacto dos juros altos em seus resultados - InvestNews",
     "fonte": "Google News Acoes",
-    "publicado": "03/09 17:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia descreve um dia de correção para o Ibovespa e queda na ação da Vale, após uma sequência de altas. A menção a 'correção' sugere uma realização de lucros ou ajuste técnico. Se a queda da Vale estiver associada a dados de produção ou demanda, isso pode indicar um cenário de atividade econômica mais fraca.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788478286.1019418,
-    "titulo": "Ibovespa passa por realização de lucros e termina estável após subir por 11 pregões seguidos",
-    "titulo_original": "Ibovespa passa por realização de lucros e termina estável após subir por 11 pregões seguidos - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "03/09 17:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia descreve uma pausa na alta do Ibovespa, com realização de lucros após um período de valorização. O movimento de realização de lucros é comum em mercados após períodos de forte alta e não indica, por si só, uma mudança estrutural no cenário macroeconômico.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788521654.2626204,
-    "titulo": "Um terceiro fator para os juros altos",
-    "titulo_original": "Um terceiro fator para os juros altos",
-    "fonte": "Folha Mercado",
-    "publicado": "04/09 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistência de juros altos no Brasil, associada a fatores fiscais, pode indicar que o Banco Central continuará com uma postura cautelosa. Se o governo não apresentar um plano fiscal crível para reduzir o gasto, a pressão sobre os juros pode se manter elevada, limitando o crescimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788521658.2012818,
-    "titulo": "Queda da Selic não é sinal para esperar, é sinal para agir",
-    "titulo_original": "Queda da Selic não é sinal para esperar, é sinal para agir - Movimento Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/09 05:42",
+    "publicado": "06/09 18:30",
     "relevancia": "MEDIA",
     "canais_afetados": [
       "juros"
     ],
     "origem": "domestica",
-    "leitura_critica": "A mensagem de 'agir' diante da queda da Selic pode ser interpretada como um incentivo a investimentos ou decisões de consumo. Se a queda dos juros for sustentada, isso pode estimular a economia; caso contrário, a inação pode levar a oportunidades perdidas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788521662.176984,
-    "titulo": "Minidólar (WDOV26) hoje: cenário eleitoral e dólar externo no radar",
-    "titulo_original": "Minidólar (WDOV26) hoje: cenário eleitoral e dólar externo no radar - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/09 07:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A volatilidade do minidólar está ligada a fatores internos (cenário eleitoral) e externos (dólar no exterior). Se o cenário eleitoral brasileiro gerar incertezas, isso pode pressionar o dólar para cima; a força do dólar internacional também pode influenciar a cotação local.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788521666.1225026,
-    "titulo": "Grécia anunciará pacote superior a 2 bilhões de euros em cortes de impostos e salários",
-    "titulo_original": "Grécia anunciará pacote superior a 2 bi de euros em cortes de impostos e salários",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 08:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Este pacote fiscal, equivalente a 1% do PIB grego, visa impulsionar a popularidade do governo antes das eleições. Se as medidas surtirem o efeito desejado na economia e na aprovação popular, isso pode servir de modelo para outros governos europeus em busca de estímulo econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788521671.4720595,
-    "titulo": "Mercado aguarda payroll com apostas divididas sobre os juros; Ibovespa em dólar sobe nesta sexta-feira (4)",
-    "titulo_original": "Mercado aguarda payroll com apostas divididas sobre os juros; Ibovespa em dólar sobe nesta sexta-feira (4) - Money Times",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/09 06:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa em torno do payroll pode gerar volatilidade nos mercados, com apostas divididas sobre os próximos passos do Banco Central em relação aos juros. Se o dado de emprego vier forte, pode reforçar a tese de juros mais altos por mais tempo; se vier fraco, pode abrir espaço para cortes.",
+    "leitura_critica": "A exposição de empresas aos juros altos pode afetar seus resultados e, consequentemente, seus preços no mercado de ações. Se a taxa Selic permanecer elevada por mais tempo, essas ações podem apresentar desempenho inferior em comparação com empresas menos sensíveis a esse fator.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1788521671.4736693,
-    "titulo": "Ibovespa sobe ou corrige? Payroll pode definir o próximo movimento da Bolsa",
-    "titulo_original": "Ibovespa sobe ou corrige? Payroll pode definir o próximo movimento da Bolsa - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "04/09 05:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A dependência do Ibovespa em relação ao payroll indica a sensibilidade do mercado de ações a dados de emprego. Se o payroll vier forte, pode sustentar a alta da bolsa; se vier fraco, pode gerar correção, especialmente se o mercado já precificou um cenário positivo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788521671.4751568,
-    "titulo": "Taesa diz se preparar para o pior diante de ameaça do El Niño na transmissão de energia",
-    "titulo_original": "Taesa diz se preparar para o pior diante de ameaça do El Niño na transmissão de energia",
+    "_timestamp": 1788778882.6476946,
+    "titulo": "BlackRock e JPMorgan apostam em mercados emergentes",
+    "titulo_original": "BlackRock e JPMorgan apostam em mercados emergentes",
     "fonte": "Folha Mercado",
-    "publicado": "04/09 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A preparação da Taesa para os impactos do El Niño na transmissão de energia sugere um cenário de incerteza climática. Se o fenômeno se manifestar com força, pode haver interrupções no fornecimento de energia, afetando a receita da empresa e a estabilidade do setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788521671.4765902,
-    "titulo": "Ibovespa de volta aos 200 mil pontos? O que especialistas esperam para o índice no fim de 2026",
-    "titulo_original": "Ibovespa de volta aos 200 mil pontos? O que especialistas esperam para o índice no fim de 2026",
-    "fonte": "Money Times",
-    "publicado": "04/09 07:00",
+    "publicado": "06/09 15:42",
     "relevancia": "MEDIA",
     "canais_afetados": [
       "fluxo_capital"
     ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de 200 mil pontos para o Ibovespa está atrelada ao fluxo de capital estrangeiro. Se a entrada de recursos externos se mantiver robusta, o índice pode atingir esse patamar; caso contrário, a falta de capital pode limitar o potencial de alta da bolsa brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788521671.4780388,
-    "titulo": "Day Trade hoje (04): Ibovespa perde fôlego após 11 altas; e agora?",
-    "titulo_original": "Day Trade hoje (04): Ibovespa perde fôlego após 11 altas; e agora? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "04/09 07:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A perda de fôlego do Ibovespa após uma sequência de altas sugere uma possível realização de lucros ou a busca por novos catalisadores. Se o mercado encontrar novos motivos para otimismo, a tendência de alta pode ser retomada; caso contrário, uma correção pode ocorrer.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788527977.479682,
-    "titulo": "IBGE: Renda de trabalhadores por apps de transporte ou entrega cresce 1% entre 2022 e 2025, ante alta de 10,6% de ocupados",
-    "titulo_original": "IBGE: Renda de trabalhadores por apps transporte ou entrega cresce 1% entre 2022 e 2025, ante alta de 10,6% de ocupados",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 10:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O ritmo de crescimento da renda para trabalhadores de aplicativos de transporte e entrega ser inferior ao de outros ocupados pode indicar uma saturação ou menor poder de barganha nesse segmento específico. Se a tendência de desaceleração da renda se mantiver, isso pode afetar a capacidade de consumo desse grupo no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788527982.6612406,
-    "titulo": "Dólar e juros sobem com dados fortes do 'payroll', enquanto mercado monitora eleições no Brasil e crise no STF",
-    "titulo_original": "Dólar e juros sobem com dados fortes do 'payroll', enquanto mercado monitora eleições no Brasil e crise no STF",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 09:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A força do payroll americano aumenta a probabilidade de o Federal Reserve manter juros mais altos por mais tempo, o que pressiona os juros futuros no Brasil. Paralelamente, a instabilidade política doméstica, com a crise no STF e o monitoramento das eleições, adiciona um fator de risco adicional para os ativos brasileiros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788527987.7753196,
-    "titulo": "Dólar tem variação modesta após pesquisa Datafolha e antes de dados de emprego nos EUA",
-    "titulo_original": "Dólar tem variação modesta após pesquisa Datafolha e antes de dados de emprego nos EUA Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/09 09:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A modesta variação do dólar sugere que o mercado está em compasso de espera por dados econômicos importantes, tanto domésticos quanto internacionais. Se os dados de emprego nos EUA vierem fortes, isso pode pressionar o dólar para cima; caso contrário, pode haver uma valorização do real.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788527992.9391835,
-    "titulo": "Dólar abre estável a R$ 5,11, com dados de trabalho e petróleo no radar",
-    "titulo_original": "Dólar abre estável a R$ 5,11, com dados de trabalho e petróleo no radar - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/09 09:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A estabilidade do dólar reflete a cautela do mercado antes da divulgação de dados econômicos importantes, tanto nos EUA quanto em relação ao petróleo. Se os dados de emprego dos EUA forem fortes, o dólar pode se fortalecer; um preço do petróleo em alta pode pressionar a inflação e, consequentemente, as decisões de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788527998.7861595,
-    "titulo": "Folha de pagamento não agrícola dos EUA em agosto +162K vs Estimativa de +56K",
-    "titulo_original": "US August non-farm payrolls +162K vs +56K expected",
-    "fonte": "ForexLive",
-    "publicado": "04/09 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
     "origem": "externa",
-    "leitura_critica": "O forte resultado do payroll americano, com criação de vagas bem acima do esperado, reforça a possibilidade de o Federal Reserve manter uma postura mais restritiva em relação aos juros. Se a inflação subjacente continuar a mostrar resiliência, o Fed pode adiar ou reduzir os cortes nas taxas de juros, impactando mercados globais.",
+    "leitura_critica": "O interesse de grandes gestoras em mercados emergentes pode indicar um fluxo de capital para essas regiões. Se essa tendência se confirmar, pode haver valorização de ativos em países emergentes, incluindo o Brasil, especialmente se as condições macroeconômicas locais forem favoráveis.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1788534963.3704405,
-    "titulo": "Juros futuros têm rali estendido mesmo com megaleilão do Tesouro",
-    "titulo_original": "Juros futuros têm rali estendido mesmo com megaleilão do Tesouro",
+    "_timestamp": 1788778882.6479743,
+    "titulo": "AMD pretende entrar na lista de fornecedores para supercomputador de IA do Brasil",
+    "titulo_original": "AMD pretende entrar na lista de fornecedores para supercomputador de IA do Brasil",
     "fonte": "Valor Economico",
-    "publicado": "04/09 12:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda firme nos juros futuros sugere um otimismo do mercado em relação ao cenário eleitoral e à gestão da dívida pública. Se a percepção de risco político se mantiver baixa, o movimento de descompressão dos prêmios pode continuar, favorecendo a renda fixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788534968.438088,
-    "titulo": "BC liquida mais duas instituições ligadas ao Master",
-    "titulo_original": "BC liquida mais duas instituições ligadas ao Master",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 12:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A intervenção do Banco Central em mais instituições financeiras indica uma continuidade na fiscalização e na busca por estabilidade no sistema. Se a situação se agravar, pode haver um impacto na confiança do mercado e no fluxo de crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788534972.5099103,
-    "titulo": "Ant International recebe licença do BC para atuar como instituição de pagamento",
-    "titulo_original": "Ant International recebe licença do BC para atuar como instituição de pagamento",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 11:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A concessão da licença à Ant International pelo Banco Central do Brasil indica uma abertura do mercado de pagamentos brasileiro para novos players internacionais. Isso pode intensificar a concorrência e impulsionar a inovação no setor, beneficiando os consumidores com mais opções e possivelmente menores custos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788534976.5011957,
-    "titulo": "Trump diz à Fed: Abaixe a taxa ou pararei de negociar com países com os quais temos um déficit",
-    "titulo_original": "Trump tells Fed: Lower the rate or I'll stop trading with countries with which we have a deficit",
-    "fonte": "ForexLive",
-    "publicado": "04/09 10:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump adiciona pressão política sobre o Federal Reserve, que historicamente busca independência em suas decisões de política monetária. Se o Fed ceder à pressão, isso pode sinalizar um viés mais expansionista, mas se mantiver sua autonomia, a retórica pode gerar volatilidade no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788534981.2810178,
-    "titulo": "Ibama autoriza Petrobras (PETR4) a perfurar mais poços na Foz do Amazonas",
-    "titulo_original": "Ibama autoriza Petrobras (PETR4) a perfurar mais poços na Foz do Amazonas",
-    "fonte": "Money Times",
-    "publicado": "04/09 11:49",
+    "publicado": "06/09 19:11",
     "relevancia": "MEDIA",
     "canais_afetados": [],
     "origem": "domestica",
-    "leitura_critica": "A autorização para perfuração de novos poços pela Petrobras pode impulsionar a produção de petróleo no Brasil, com potencial impacto nos resultados da empresa e no setor energético. A decisão do Ibama também levanta questões ambientais que podem gerar debates e possíveis restrições futuras.",
+    "leitura_critica": "O investimento em um supercomputador de IA pelo governo federal pode impulsionar o setor de tecnologia e inovação no Brasil. Se a AMD for selecionada, isso pode gerar um fluxo de capital para o país e estimular o desenvolvimento de novas aplicações de IA.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1788534981.2827802,
-    "titulo": "Vale suspende IPO de minerais críticos, diz jornal",
-    "titulo_original": "Vale suspende IPO de minerais críticos, diz jornal",
-    "fonte": "InvestNews",
-    "publicado": "04/09 09:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A suspensão do IPO da Vale Base Metals pode indicar cautela do mercado em relação a novos investimentos em minerais críticos, ou dificuldades específicas da operação. Se a suspensão for prolongada, pode afetar os planos de expansão da Vale e a oferta de minerais essenciais para a transição energética.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788540347.3010104,
-    "titulo": "TCU determina que governo projete dívida pública com base no limite inferior do arcabouço",
-    "titulo_original": "TCU determina que governo projete dívida pública com base no limite inferior do arcabouço",
+    "_timestamp": 1788778882.6483092,
+    "titulo": "Nvidia desafia Apple, Intel e AMD com PCs equipados com superchip de IA e preços altos",
+    "titulo_original": "Nvidia desafia Apple, Intel e AMD com PCs equipados com superchip de IA e preços altos",
     "fonte": "Folha Mercado",
-    "publicado": "04/09 13:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A determinação do TCU pode forçar uma projeção de dívida pública mais conservadora, o que pode influenciar as discussões sobre o cumprimento das metas fiscais. Se o governo não conseguir atingir o resultado primário mínimo, a projeção do TCU pode expor um cenário de endividamento mais acelerado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788540351.9902802,
-    "titulo": "Novas regras do BC permitem ao cliente anexar provas em contestação de Pix fraudulentos",
-    "titulo_original": "Novas regras do BC permitem ao cliente anexar provas em contestação de Pix fraudulentos",
-    "fonte": "Folha Mercado",
-    "publicado": "04/09 12:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As novas regras do Banco Central visam aumentar a segurança e a eficiência na contestação de fraudes no Pix. Se essas mudanças reduzirem o número de fraudes e aumentarem a confiança dos usuários, isso pode fortalecer a adoção do sistema de pagamentos instantâneos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788540356.219761,
-    "titulo": "Ministro extremista de Israel apresenta plano para expulsar todos palestinos de Gaza",
-    "titulo_original": "Ministro extremista de Israel apresenta plano para expulsar todos palestinos de Gaza - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "04/09 10:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia descreve um evento geopolítico com potencial para aumentar a instabilidade regional. Se a situação escalar, isso pode gerar volatilidade nos mercados globais de energia e impactar o sentimento de risco, mas a notícia não especifica essa conexão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788540360.3470795,
-    "titulo": "Alemanha sofre terceira tentativa de sabotagem ao sistema elétrico em uma semana",
-    "titulo_original": "Alemanha sofre terceira tentativa de sabotagem ao sistema elétrico em uma semana",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 13:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "As tentativas de sabotagem à infraestrutura elétrica na Alemanha aumentam o alerta de segurança e podem ter implicações geopolíticas. Se houver uma escalada de tensões ou se esses incidentes forem associados a conflitos internacionais, isso pode gerar incertezas nos mercados de energia e segurança.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788540495.9572604,
-    "titulo": "Bolsas da Europa fecham sem direção única após payroll e antes de decisão do BCE",
-    "titulo_original": "Bolsas da Europa fecham sem direção única após payroll e antes de decisão do BCE",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 13:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O payroll mais forte que o esperado nos EUA tende a reforçar a expectativa de juros mais altos por mais tempo, o que pode pressionar mercados de risco globalmente. Se a decisão do BCE na sequência indicar um tom mais cauteloso, isso pode acentuar a volatilidade nos mercados europeus.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788540495.9591756,
-    "titulo": "Sinal de alerta: renegociações de CRIs expõem vulnerabilidade de FIIs",
-    "titulo_original": "Sinal de alerta: renegociações de CRIs expõem vulnerabilidade de FIIs",
-    "fonte": "InvestNews",
-    "publicado": "04/09 13:38",
+    "publicado": "06/09 04:00",
     "relevancia": "MEDIA",
     "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento nas renegociações de CRIs pode indicar um estresse no mercado de crédito imobiliário, afetando a performance de FIIs atrelados a esses ativos. Se essa tendência se mantiver, pode haver uma pressão vendedora em cotas de FIIs de crédito.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788540495.9609704,
-    "titulo": "Ibovespa passa a subir na contramão de NY após 'payroll' forte; dólar avança",
-    "titulo_original": "Ibovespa passa a subir na contramão de NY após 'payroll' forte; dólar avança - Valor Investe",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/09 13:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divergência entre o Ibovespa e os mercados americanos após o payroll forte sugere que o mercado local pode estar reagindo a outros fatores ou antecipando movimentos específicos. Se o dólar continuar a avançar, isso pode pressionar a inflação doméstica e influenciar decisões futuras de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788540495.9627523,
-    "titulo": "Ibovespa Futuro acelera perdas após payroll acima do esperado",
-    "titulo_original": "Ibovespa Futuro acelera perdas após payroll acima do esperado - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "04/09 09:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
     "origem": "externa",
-    "leitura_critica": "A aceleração das perdas no Ibovespa Futuro após o payroll forte nos EUA reforça a correlação com o sentimento de aversão ao risco global. Se o Federal Reserve sinalizar uma postura mais dura em relação aos juros, isso pode manter a pressão sobre os ativos de risco no Brasil.",
+    "leitura_critica": "O lançamento de novos hardwares com foco em IA, como o RTX Spark, pode impulsionar o setor de tecnologia e a demanda por componentes. Se esses produtos tiverem boa aceitação no mercado, podem gerar um impacto positivo nas empresas envolvidas e no setor como um todo.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1788540495.9645386,
-    "titulo": "‘Prefira shoppings’, diz Morgan Stanley, que eleva Multiplan (MULT3) para compra",
-    "titulo_original": "‘Prefira shoppings’, diz Morgan Stanley, que eleva Multiplan (MULT3) para compra",
+    "_timestamp": 1788778882.6486213,
+    "titulo": "Preferência entre os seniores? Parcela que investe em FIIs salta para 60% em 6 anos, mostra pesquisa",
+    "titulo_original": "Preferência entre os seniores? Parcela que investe em FIIs salta para 60% em 6 anos, mostra pesquisa",
     "fonte": "Money Times",
-    "publicado": "04/09 12:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação do Morgan Stanley reflete uma visão defensiva no setor imobiliário brasileiro, associada a incertezas fiscais e eleitorais. Se as incertezas fiscais se materializarem em decisões que afetem o setor, isso pode impactar o desempenho de outras empresas do ramo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788540495.9663389,
-    "titulo": "Moody's vê melhora gradual na CSN, mas diz que avanço ainda é insuficiente para reduzir risco",
-    "titulo_original": "Moody's vê melhora gradual na CSN, mas diz que avanço ainda é insuficiente para reduzir risco",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 13:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação da Moody's sobre a CSN indica que a empresa ainda enfrenta desafios para reequilibrar sua estrutura de capital, apesar de melhorias operacionais. Se a CSN não conseguir executar seu plano de venda de ativos, isso pode levar a um rebaixamento de rating, afetando o acesso da empresa a crédito.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788540495.9681506,
-    "titulo": "Crédito rural em alerta: operações problemáticas atingem recorde de R$ 207 bilhões e já representam 23,5% da carteira",
-    "titulo_original": "Crédito rural em alerta: operações problemáticas atingem recorde de R$ 207 bilhões e já representam 23,5% da carteira",
-    "fonte": "Money Times",
-    "publicado": "04/09 12:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento expressivo das operações problemáticas no crédito rural indica um estresse significativo no setor, possivelmente ligado a fatores climáticos ou de mercado. Se essa tendência persistir, pode haver um impacto na capacidade de investimento e produção do agronegócio brasileiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788546654.033507,
-    "titulo": "Balança comercial registra superávit de US$ 7,39 bi em agosto, alta de 23,8%",
-    "titulo_original": "Balança comercial registra superávit de US$ 7,39 bi em agosto, alta de 23,8%",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 15:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do superávit comercial pode indicar uma melhora na competitividade das exportações brasileiras. Se a tendência de crescimento das exportações se mantiver, isso pode contribuir positivamente para o PIB. No entanto, a queda nas exportações para a China merece atenção, pois representa um dos principais destinos dos produtos brasileiros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788546657.9629552,
-    "titulo": "Boletim Cambial (04/09): Euro e Dólar PTAX",
-    "titulo_original": "Boletim Cambial (04/09): Euro e Dólar PTAX - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/09 13:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Acompanhar as taxas PTAX do dólar e do euro é fundamental para entender a dinâmica do câmbio no Brasil. Se o dólar apresentar volatilidade significativa, isso pode impactar a inflação e o custo de importação. A relação entre as moedas estrangeiras e o real é um indicador importante para o planejamento de empresas e investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788546662.0453835,
-    "titulo": "Poucos terrenos, Selic e ciclo longo: por que novos shoppings são raros no Brasil?",
-    "titulo_original": "Poucos terrenos, Selic e ciclo longo: por que novos shoppings são raros no Brasil? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/09 12:30",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A taxa Selic elevada impacta diretamente o custo de capital para novos empreendimentos, como shoppings. Se a Selic permanecer alta por um período prolongado, isso pode desestimular investimentos de longo prazo. A escassez de terrenos e o ciclo de construção longo são fatores estruturais que também contribuem para a dificuldade de novos shoppings.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788546665.9567893,
-    "titulo": "Alta de juros nos EUA e tensão na Selic; Entenda",
-    "titulo_original": "Alta de juros nos EUA e tensão na Selic; Entenda - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/09 11:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A dinâmica dos juros nos EUA tem influência direta nas decisões de política monetária no Brasil. Se a taxa de juros americana subir de forma mais acentuada, o Banco Central do Brasil pode ter sua margem de manobra para cortes da Selic reduzida. A tensão na Selic pode indicar incertezas sobre o futuro da política monetária doméstica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788546670.0488465,
-    "titulo": "Eletrificação veicular avança e abre oportunidades além do setor automotivo, diz Scotiabank",
-    "titulo_original": "Eletrificação veicular avança e abre oportunidades além do setor automotivo, diz Scotiabank",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 14:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A eletrificação veicular representa uma mudança estrutural com potencial de impactar diversos setores da economia. Se a tendência se consolidar, pode haver demanda por novas tecnologias e infraestrutura, gerando oportunidades de investimento. A influência da China na produção e exportação de veículos elétricos é um fator a ser observado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788553848.224232,
-    "titulo": "Decisão de Fux sobre depósitos judiciais da Bahia aumenta insegurança de bancos para socorrer BRB",
-    "titulo_original": "Decisão de Fux sobre depósitos judiciais da Bahia aumenta insegurança de bancos para socorrer BRB",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 16:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do STF sobre os depósitos judiciais cria um precedente que pode afetar a disposição de bancos em conceder empréstimos a instituições financeiras estaduais em crise. Se a insegurança jurídica se mantiver, o BRB pode ter dificuldades em obter o socorro necessário, aumentando o risco de intervenção do Banco Central. A notícia não especifica o valor dos depósitos judiciais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788553865.1495228,
-    "titulo": "Exportação brasileira de carne bovina perde força em agosto com redução de vendas à China",
-    "titulo_original": "Exportação brasileira de carne bovina perde força em agosto com redução de vendas à China",
-    "fonte": "Folha Mercado",
-    "publicado": "04/09 15:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas exportações de carne bovina, especialmente para a China, pode impactar o saldo da balança comercial brasileira. Se a demanda chinesa continuar retraída, isso pode pressionar os preços internos e a produção do setor. A notícia não especifica um impacto direto nos canais de juros, inflação, atividade/emprego ou decisão fiscal/regulatória.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788553869.139843,
-    "titulo": "Moratória da Soja e Constituição: os limites da intervenção do STF em acordos privados",
-    "titulo_original": "Moratória da Soja e Constituição: os limites da intervenção do STF em acordos privados - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "04/09 16:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre a intervenção do STF em acordos privados pode gerar incerteza jurídica para contratos e transações comerciais. Se o STF decidir por uma intervenção mais ampla, isso pode afetar a previsibilidade de investimentos e acordos no agronegócio. A notícia não detalha qual foi a decisão específica do STF sobre a Moratória da Soja.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788553873.1848497,
-    "titulo": "Óleo cru e soja puxam saldo comercial em agosto",
-    "titulo_original": "Óleo cru e soja puxam saldo comercial em agosto - poder360.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "04/09 16:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "As exportações de commodities como óleo cru e soja são importantes para o saldo da balança comercial brasileira. Se a demanda global por esses produtos se mantiver forte, isso pode continuar a sustentar o superávit comercial. A notícia não detalha o valor do saldo comercial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788553878.001473,
-    "titulo": "Wall Street fecha em queda após payroll e apostas de alta nos juros pelo Fed",
-    "titulo_original": "Wall Street fecha em queda após payroll e apostas de alta nos juros pelo Fed",
-    "fonte": "Money Times",
-    "publicado": "04/09 17:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O payroll mais forte que o esperado nos EUA aumenta a probabilidade de o Fed manter uma postura mais restritiva em relação aos juros. Se o Fed de fato sinalizar novas altas ou manutenção de juros elevados, isso pode gerar aversão a risco global e impactar mercados emergentes. A notícia não detalha o percentual de alta esperado nos juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788553878.0033402,
-    "titulo": "Justiça condena Samarco e três ex-gerentes por tragédia em Mariana",
-    "titulo_original": "Justiça condena Samarco e três ex-gerentes por tragédia em Mariana",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 16:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Esta é a primeira condenação criminal relacionada ao rompimento da barragem de Fundão, o que pode gerar um precedente para futuras responsabilidades em desastres ambientais. A decisão pode aumentar a percepção de risco para empresas do setor de mineração e suas gestões. A notícia não detalha o valor das indenizações ou multas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788559275.017457,
-    "titulo": "Verde vê maior risco de repressão financeira e aumenta posição em ações brasileiras em meio a ciclo eleitoral ‘caótico’",
-    "titulo_original": "Verde vê maior risco de repressão financeira e aumenta posição em ações brasileiras em meio a ciclo eleitoral ‘caótico’",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 17:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da posição em ações brasileiras pelo fundo Verde, em um cenário eleitoral descrito como 'caótico', sugere uma aposta em recuperação ou valorização apesar dos riscos. Se o cenário político se estabilizar, a posição pode se beneficiar; caso contrário, o fundo pode ter que reavaliar sua estratégia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788559280.3786447,
-    "titulo": "Ministro do Planejamento prevê ajuste fiscal com desaceleração de gastos",
-    "titulo_original": "Ministro do Planejamento prevê ajuste fiscal com desaceleração de gastos",
-    "fonte": "Folha Mercado",
-    "publicado": "04/09 14:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A previsão de ajuste fiscal com desaceleração de gastos, sem cortes profundos, sugere uma abordagem gradual para a saúde das contas públicas. Se essa estratégia for implementada com sucesso, pode sinalizar maior previsibilidade fiscal; caso contrário, a necessidade de medidas mais drásticas pode surgir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788559286.2787318,
-    "titulo": "Juros futuros recuam com fatores domésticos no radar",
-    "titulo_original": "Juros futuros recuam com fatores domésticos no radar",
-    "fonte": "Money Times",
-    "publicado": "04/09 18:55",
+    "publicado": "06/09 11:15",
     "relevancia": "MEDIA",
     "canais_afetados": [
       "juros"
     ],
     "origem": "domestica",
-    "leitura_critica": "O recuo dos juros futuros no Brasil, apesar da tendência nos Treasuries americanos, sugere que fatores domésticos estão influenciando a precificação. Se a percepção de risco doméstico diminuir, a queda dos juros pode se aprofundar; caso contrário, a convergência com os juros externos pode ocorrer.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788559292.3004858,
-    "titulo": "Notícias do mercado das Américas: Grande surpresa para o payroll não agrícola",
-    "titulo_original": "investingLive Americas market news wrap: Big beat for non-farm payrolls",
-    "fonte": "ForexLive",
-    "publicado": "04/09 17:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O forte resultado do payroll nos EUA, combinado com a postura 'hawkish' de uma dirigente do Fed, aumenta a probabilidade de o Banco Central americano manter juros elevados por mais tempo. Se os próximos dados de inflação nos EUA confirmarem essa tendência, o cenário de juros altos pode se estender, impactando mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788559319.4614632,
-    "titulo": "Ibovespa fecha estável com apoio de bancos e Vale, mas tem maior alta semanal desde janeiro",
-    "titulo_original": "Ibovespa fecha estável com apoio de bancos e Vale, mas tem maior alta semanal desde janeiro",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 17:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A reação inicial do Ibovespa ao payroll mais forte nos EUA indica que o mercado está atento a sinais que possam levar a uma manutenção ou aumento de juros nos EUA. Se os próximos dados de emprego americano reforçarem essa tendência, o fluxo de capital para mercados emergentes pode ser afetado negativamente; caso contrário, a tendência de alta semanal pode se sustentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788559319.463245,
-    "titulo": "Estrangeiro reduz aposta contra o real em US$ 11,4 bilhões em apenas dois dias",
-    "titulo_original": "Estrangeiro reduz aposta contra o real em US$ 11,4 bilhões em apenas dois dias",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 16:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expressiva redução da aposta contra o real por investidores estrangeiros em um curto período pode indicar uma mudança de sentimento em relação à moeda brasileira. Se essa tendência de saída de capital se mantiver, pode pressionar o câmbio; caso contrário, a reversão pode ser rápida.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788559319.4649513,
-    "titulo": "Moody’s Local reitera classificação ‘AAA.br’ para Itaúsa",
-    "titulo_original": "Moody’s Local reitera classificação ‘AAA.br’ para Itaúsa",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 16:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A reiterada classificação 'AAA.br' pela Moody's Local para a Itaúsa reforça a percepção de solidez financeira da empresa, especialmente devido à sua forte ligação com o Itaú Unibanco. Se os proventos das investidas não financeiras da Itaúsa continuarem a crescer gradualmente, a diversificação de suas receitas pode se fortalecer.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788559319.4666412,
-    "titulo": "BB, Caixa e cooperativas firmam acordo para tokenizar crédito imobiliário",
-    "titulo_original": "BB, Caixa e cooperativas firmam acordo para tokenizar crédito imobiliário",
-    "fonte": "Money Times",
-    "publicado": "04/09 17:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A iniciativa de tokenizar crédito imobiliário por grandes instituições financeiras pode simplificar e agilizar o processo de financiamento. Se a tecnologia for implementada com sucesso e gerar a redução de burocracia esperada, pode impulsionar o mercado imobiliário; caso contrário, a adoção pode ser mais lenta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788559319.4687233,
-    "titulo": "Renegociações de CRIs em alta: um sinal de alerta para investidores de FIIs",
-    "titulo_original": "Renegociações de CRIs em alta: um sinal de alerta para investidores de FIIs",
-    "fonte": "InvestNews",
-    "publicado": "04/09 13:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento nas renegociações de CRIs pode ser um sinal de alerta para investidores de Fundos de Investimento Imobiliário (FIIs) que possuem exposição a esses ativos. Se a tendência de renegociação se intensificar, pode haver impacto na rentabilidade dos FIIs; caso contrário, a situação pode se estabilizar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788564637.6833026,
-    "titulo": "Com preços em alta, petróleo e combustíveis ajudam a elevar exportações em agosto",
-    "titulo_original": "Com preços em alta, petróleo e combustíveis ajudam a elevar exportações em agosto",
-    "fonte": "Valor Economico",
-    "publicado": "04/09 19:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do superávit comercial, liderado por commodities, sugere um fluxo de capital positivo para o país através das exportações. Se a tendência de alta nos preços do petróleo se mantiver, o saldo comercial pode continuar a apresentar números robustos nos próximos meses.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788564641.5505075,
-    "titulo": "Davi celebra licença do Ibama para poços exploratórios de petróleo no Amapá",
-    "titulo_original": "Davi celebra licença do Ibama para poços exploratórios de petróleo no Amapá - Senado Federal",
-    "fonte": "Google News Commodities",
-    "publicado": "04/09 17:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A licença para exploração de petróleo no Amapá representa um avanço em projetos energéticos no país. Se a exploração for bem-sucedida e os volumes esperados forem alcançados, isso pode impactar a oferta de petróleo e, consequentemente, os preços no mercado internacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788564645.4676073,
-    "titulo": "Petróleo sobe 9% em semana marcada por novos ataques no Oriente Médio",
-    "titulo_original": "Petróleo sobe 9% em semana marcada por novos ataques no Oriente Médio - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "04/09 16:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões no Oriente Médio e os consequentes ataques ao setor de petróleo elevam o risco geopolítico e pressionam os preços do barril para cima. Se os conflitos se intensificarem, o petróleo pode continuar sua trajetória de alta, impactando custos de produção e inflação globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788564649.357993,
-    "titulo": "Petróleo da Venezuela vira novo campo de batalha entre Trump e Xi",
-    "titulo_original": "Petróleo da Venezuela vira novo campo de batalha entre Trump e Xi - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "04/09 17:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A disputa geopolítica envolvendo o petróleo venezuelano entre potências como EUA e China pode gerar volatilidade nos mercados de energia. Se as tensões aumentarem, isso pode afetar a oferta global e os preços do petróleo, dependendo das decisões tomadas por esses atores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788564674.09285,
-    "titulo": "Bloqueio europeu a carnes brasileiras pesa sobre ações de JBS e MBRF, com Minerva \"poupada\" pelo investidor",
-    "titulo_original": "Bloqueio europeu a carnes brasileiras pesa sobre ações de JBS e MBRF, com Minerva \"poupada\" pelo investidor - AgFeed",
-    "fonte": "Google News Acoes",
-    "publicado": "04/09 19:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A decisão europeia de bloquear carnes brasileiras afeta diretamente empresas do setor, gerando volatilidade em suas ações. Se o bloqueio se estender ou for ampliado, o impacto sobre os resultados dessas companhias pode se intensificar, refletindo-se em movimentos mais amplos no mercado acionário.",
+    "leitura_critica": "O aumento do investimento em FIIs por investidores seniores, mesmo com juros altos, pode indicar uma busca por diversificação e renda. Se a taxa de juros começar a cair, o interesse em FIIs pode se manter ou até aumentar, beneficiando o setor imobiliário.",
     "is_stocks": true
   }
 ]
