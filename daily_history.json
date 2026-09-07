@@ -529,5 +529,67 @@
     "origem": "ambas",
     "leitura_critica": "A retomada das compras de petróleo pela China pode indicar uma melhora na demanda global por commodities energéticas. Se essa demanda se sustentar, pode haver pressão positiva sobre os preços do petróleo, o que, por sua vez, pode impactar positivamente empresas como a Petrobras. A notícia não especifica o destino do capital, mas a conexão com commodities é explícita.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788813045.189696,
+    "titulo": "Empresariado e Faria Lima se mobilizam após crise do Judiciário",
+    "titulo_original": "Empresariado e Faria Lima se mobilizam após crise do Judiciário",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 16:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A mobilização do setor empresarial em torno da crise do Judiciário pode indicar preocupações com a estabilidade institucional e o ambiente de negócios no Brasil. Se o manifesto ganhar tração e gerar pressão pública, pode haver um debate sobre a independência e a atuação dos poderes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788813050.5747495,
+    "titulo": "Petróleo fecha em alta e volta a se aproximar de US$ 100 em pregão de menor liquidez",
+    "titulo_original": "Petróleo fecha em alta e volta a se aproximar de US$ 100 em pregão de menor liquidez",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 16:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio adiciona um prêmio de risco ao preço do petróleo, que pode se manter elevado enquanto o conflito persistir. Se os ataques se intensificarem ou afetarem a oferta, o Brent pode testar a marca de US$ 100, impactando custos de produção e transporte globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788813056.0237901,
+    "titulo": "Ataques israelenses no sul do Líbano deixam 12 mortos em meio a temores de escalada",
+    "titulo_original": "Ataques israelenses no sul do Líbano deixam 12 mortos em meio a temores de escalada",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 12:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A intensificação dos ataques entre Israel e Líbano eleva o risco geopolítico na região, com potencial para afetar o fornecimento de energia e a estabilidade global. Se o conflito se expandir, pode haver um impacto nos preços de commodities e na confiança dos investidores internacionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788813061.510159,
+    "titulo": "Petróleo encosta nos US$ 100 com novo fator de risco no Oriente Médio; entenda",
+    "titulo_original": "Petróleo encosta nos US$ 100 com novo fator de risco no Oriente Médio; entenda - Money Times",
+    "fonte": "Google News Commodities",
+    "publicado": "07/09 15:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento do preço do petróleo, impulsionado por tensões geopolíticas no Oriente Médio, pode gerar pressões inflacionárias globais e afetar os custos de produção e transporte. Se a instabilidade persistir, o Brent pode ultrapassar os US$ 100, impactando o cenário macroeconômico internacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788813067.425667,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/09 17:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento da cotação do dólar é fundamental para entender o comportamento do câmbio em tempo real. Se houver volatilidade significativa, isso pode indicar reações do mercado a notícias econômicas ou eventos de risco.",
+    "is_stocks": true
   }
 ]
