@@ -679,5 +679,46 @@
     "origem": "domestica",
     "leitura_critica": "A comparação entre o desempenho de um fundo imobiliário e a taxa básica de juros é relevante para investidores de renda variável e fixa. Se a taxa Selic permanecer alta, fundos imobiliários com alta alavancagem ou dependentes de crédito podem enfrentar desafios.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788823885.2762837,
+    "titulo": "Coreia do Sul 2º Trimestre PIB, final, +0.6% (vs. esperado +0.6%, anterior +1.8%)",
+    "titulo_original": "South Korea Q2 GDP, final, +0.6% (vs. expected +0.6%, prior +1.8%)",
+    "fonte": "ForexLive",
+    "publicado": "07/09 20:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de PIB final da Coreia do Sul confirmou as expectativas, indicando uma desaceleração em relação ao trimestre anterior. Se os próximos indicadores de atividade econômica da região apresentarem sinais de fraqueza, isso pode sinalizar um cenário global com menor dinamismo, impactando a demanda por commodities e, consequentemente, ativos de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788823889.3668623,
+    "titulo": "Dados BRC mostram impulso de varejo de verão desaparecendo rapidamente enquanto a libra observa sinais do consumidor",
+    "titulo_original": "BRC data shows summer retail boost fading fast as GBP watches consumer signals",
+    "fonte": "ForexLive",
+    "publicado": "07/09 20:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração no varejo do Reino Unido, evidenciada pelos dados BRC e Barclays, sugere que o consumidor está perdendo fôlego. Se essa tendência se confirmar, o Banco da Inglaterra pode ter menos justificativas para manter uma postura de juros altos por um período prolongado, o que poderia ser interpretado como um sinal de alívio inflacionário futuro. No entanto, um único mês de dados de consumo dificilmente alterará as expectativas de política monetária no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788823893.530334,
+    "titulo": "Moedas globais: dólar cai com força do iene em sessão limitada por feriado",
+    "titulo_original": "Moedas globais: dólar cai com força do iene em sessão limitada por feriado - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/09 18:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do dólar frente ao iene, em um dia com menor volume de negociação, pode ser interpretada como um movimento técnico pontual, influenciado pela força da moeda japonesa. Se essa tendência de valorização do iene se mantiver em sessões com maior liquidez, pode indicar uma mudança no apetite por risco global, com investidores buscando ativos considerados mais seguros, o que, por sua vez, poderia impactar fluxos de capital para economias emergentes.",
+    "is_stocks": false
   }
 ]
