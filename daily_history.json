@@ -362,5 +362,98 @@
     "origem": "domestica",
     "leitura_critica": "A redução nas importações de diesel pode indicar uma menor demanda ou uma tentativa de adequação à oferta global mais restrita. Se a Petrobras continuar a suprir parte da demanda com produção própria, isso pode impactar seus resultados operacionais; a persistência da alta nos preços internacionais do petróleo pode pressionar a defasagem em relação às cotações internacionais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788799548.4544818,
+    "titulo": "Com Selic a 14%, despesas financeiras das empresas saltam 12% no 2º trimestre e somam R$ 99 bilhões",
+    "titulo_original": "Com Selic a 14%, despesas financeiras das empresas saltam 12% no 2º trimestre e somam R$ 99 bilhões - Brasil 247",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "07/09 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo das despesas financeiras das empresas com a Selic em 14% evidencia o custo do crédito no Brasil. Se a taxa Selic permanecer elevada, a pressão sobre os resultados das empresas continuará, podendo afetar investimentos e geração de empregos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788799553.381379,
+    "titulo": "Sessão europeia: petróleo sobe, iene dispara com feriado nos EUA",
+    "titulo_original": "investingLive European session wrap: Oil climbs, yen surges amid US holiday",
+    "fonte": "ForexLive",
+    "publicado": "07/09 09:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio e os ataques a instalações petrolíferas elevam o risco geopolítico e podem sustentar preços de commodities. A força do iene, em um dia de menor liquidez nos EUA, pode indicar movimentos de aversão ao risco ou ajustes de posições.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788799558.3144555,
+    "titulo": "Cobre dispara para máxima histórica enquanto turbulência tarifária pressiona mercado",
+    "titulo_original": "Cobre dispara para máxima histórica enquanto turbulência tarifária pressiona mercado - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "07/09 13:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O disparo do cobre para máxima histórica pode indicar forte demanda por commodities industriais ou preocupações com a oferta. Se a turbulência tarifária se intensificar, pode afetar cadeias de suprimentos e a produção de bens que utilizam cobre.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788799563.2668805,
+    "titulo": "Trump diz que carne importada dos EUA virá sobretudo de Brasil e Argentina",
+    "titulo_original": "Trump diz que carne importada dos EUA virá sobretudo de Brasil e Argentina - CNN Brasil",
+    "fonte": "Google News Geopolitica",
+    "publicado": "07/09 10:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre a origem da carne importada pelos EUA pode ter implicações comerciais para o agronegócio brasileiro e argentino. Se essa política for implementada, pode aumentar a demanda por carne desses países no mercado americano.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788799569.2632074,
+    "titulo": "Bolsas da Europa fecham sem direção única com petróleo em alta e BCE no radar",
+    "titulo_original": "Bolsas da Europa fecham sem direção única com petróleo em alta e BCE no radar",
+    "fonte": "Valor Economico",
+    "publicado": "07/09 13:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo adiciona pressão inflacionária, o que pode levar o BCE a manter uma postura mais restritiva em sua decisão de juros. Se a decisão do BCE for mais dura do que o esperado, isso pode impactar negativamente os índices europeus; caso contrário, pode haver um alívio no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788799569.2641728,
+    "titulo": "Brasil tem pelo menos 19 milhões de nanoempreendedores, diz estudo",
+    "titulo_original": "Brasil tem pelo menos 19 milhões de nanoempreendedores, diz estudo",
+    "fonte": "Folha Mercado",
+    "publicado": "07/09 11:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A identificação de um número expressivo de nanoempreendedores pode indicar o impacto da reforma tributária na formalização de pequenos negócios. Se essa categoria se consolidar e gerar dados econômicos consistentes, pode influenciar futuras políticas de incentivo ao empreendedorismo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788799569.2653086,
+    "titulo": "Empiricus mantém ‘estratégia 60/25/15’ para setembro — carteira com 12 ativos busca gerar renda passiva",
+    "titulo_original": "Empiricus mantém ‘estratégia 60/25/15’ para setembro — carteira com 12 ativos busca gerar renda passiva",
+    "fonte": "Money Times",
+    "publicado": "07/09 11:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de manter o foco em qualidade e solidez reflete um cenário de juros elevados que penaliza empresas com balanços mais frágeis. Se os juros começarem a cair de forma consistente, essa estratégia pode precisar de ajustes para capturar oportunidades em ativos mais sensíveis à queda de taxa.",
+    "is_stocks": true
   }
 ]
