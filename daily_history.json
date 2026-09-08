@@ -1,103 +1,5 @@
 [
   {
-    "_timestamp": 1788787206.0771592,
-    "titulo": "Petróleo supera US$ 97 após ataques a petroleiros e refinaria no Oriente Médio",
-    "titulo_original": "Petróleo supera US$ 97 após ataques a petroleiros e refinaria no Oriente Médio",
-    "fonte": "Folha Mercado",
-    "publicado": "07/09 07:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de ataques no Oriente Médio elevando o preço do petróleo acima de US$ 97 pode gerar pressões inflacionárias globais. Se os conflitos se intensificarem, o custo de energia mais alto pode impactar a atividade econômica e a política monetária de diversos países.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788787210.5458663,
-    "titulo": "Iene atinge máxima de sete meses ante o dólar",
-    "titulo_original": "Iene atinge máxima de sete meses ante o dólar - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/09 10:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A valorização do iene a máximas de sete meses frente ao dólar pode indicar uma mudança nas expectativas de política monetária do Banco do Japão ou um fluxo de capital para ativos considerados mais seguros. Se o Banco do Japão sinalizar um aperto monetário, isso pode sustentar a força do iene e impactar fluxos globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788787214.919118,
-    "titulo": "Dólar recua no exterior com política monetária no radar e avanço do iene",
-    "titulo_original": "Dólar recua no exterior com política monetária no radar e avanço do iene",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A desvalorização do dólar no exterior, atrelada à expectativa de decisões de política monetária e à força do iene, sugere um movimento de aversão ao risco ou busca por outras moedas. Se os bancos centrais sinalizarem um aperto monetário mais agressivo, isso pode continuar pressionando o dólar, enquanto a valorização do iene pode indicar um fluxo de capital para o Japão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788787219.2419639,
-    "titulo": "PIB da zona do euro cresce 0,6% no 2º trimestre",
-    "titulo_original": "PIB da zona do euro cresce 0,6% no 2º trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O crescimento de 0,6% do PIB da zona do euro no segundo trimestre, após estagnação no anterior, indica uma recuperação da atividade econômica. Se essa tendência de aceleração se mantiver, pode influenciar as decisões de política monetária do Banco Central Europeu e a percepção de risco global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788787224.7147126,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/09 09:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento em tempo real da cotação do dólar é crucial para quem opera no mercado financeiro. Se houver volatilidade significativa, isso pode indicar reações a notícias econômicas ou eventos geopolíticos que afetam o fluxo de capitais e a precificação de ativos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788787224.7150917,
-    "titulo": "Homem mais rico da África planeja maior IPO do continente",
-    "titulo_original": "Homem mais rico da África planeja maior IPO do continente",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 09:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O planejamento do maior IPO da África pela refinaria de Aliko Dangote representa um movimento significativo para o mercado de capitais do continente. Se a oferta for bem-sucedida, pode atrair mais investimentos estrangeiros e impulsionar o desenvolvimento de outros setores na Nigéria e em países vizinhos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788787224.716036,
-    "titulo": "Bancos ampliam cardápio de criptomoedas para clientes com avanço da regulação",
-    "titulo_original": "Bancos ampliam cardápio de criptomoedas para clientes com avanço da regulação",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 09:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A expansão da oferta de criptoativos por bancos no Brasil, impulsionada pela regulamentação, indica uma maior integração desses ativos ao sistema financeiro tradicional. Se a regulamentação se consolidar e a volatilidade dos criptoativos for gerenciada, isso pode atrair mais investidores institucionais e de varejo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788787224.7176123,
-    "titulo": "OpenAI envia relatório à Comissão Europeia sobre ataque de agentes autônomos de IA a site alemão",
-    "titulo_original": "OpenAI envia relatório à Comissão Europeia sobre ataque de agentes autônomos de IA a site alemão",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 09:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O envio de um relatório pela OpenAI à Comissão Europeia sobre um incidente com agentes autônomos de IA destaca os desafios de segurança e controle na área. Se a Comissão Europeia avançar com regulamentações mais rigorosas para IA em resposta a tais eventos, isso pode impactar o desenvolvimento e a adoção dessas tecnologias globalmente.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788794148.492387,
     "titulo": "Hospitais entram na mira: projeto aprovado prevê multa diária de R$ 5 mil e sanções de até R$ 500 mil",
     "titulo_original": "Hospitais entram na mira: projeto aprovado prevê multa diária de R$ 5 mil e sanções de até R$ 500 mil",
@@ -849,5 +751,69 @@
     "origem": "domestica",
     "leitura_critica": "A mudança na recomendação do BofA para ações brasileiras, de neutra para compra, sugere uma visão mais otimista sobre o cenário econômico doméstico. Se a inflação continuar a ceder e o ciclo de corte de juros se aprofundar, isso pode sustentar um desempenho positivo do mercado acionário.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788899442.8333244,
+    "titulo": "Petróleo avança ao maior nível desde junho com espraiamento da guerra no Golfo",
+    "titulo_original": "Petróleo avança ao maior nível desde junho com espraiamento da guerra no Golfo",
+    "fonte": "Valor Economico",
+    "publicado": "08/09 16:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos preços do petróleo, impulsionado por tensões geopolíticas no Golfo Pérsico, pode pressionar a inflação global e afetar os custos de energia. Se o conflito se intensificar e houver interrupções significativas no fornecimento, os preços podem continuar subindo, impactando a atividade econômica mundial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788899448.0990827,
+    "titulo": "Calendário econômico e de eventos na Ásia Quarta-feira, 9 de setembro de 2026 - Dados de inflação da China",
+    "titulo_original": "Economic and event calendar in Asia Wednesday, September 9, 2026 - China inflation data",
+    "fonte": "ForexLive",
+    "publicado": "08/09 17:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A divulgação dos dados de inflação da China é um indicador importante para a economia global. Se a inflação vier acima do esperado, isso pode sinalizar pressões de demanda ou custos que podem afetar cadeias de suprimentos e preços de commodities. Se a demanda interna continuar fraca, isso pode impactar o crescimento chinês e, por extensão, a economia mundial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788899453.6609876,
+    "titulo": "Várias explosões ouvidas na Ilha Kharg - relatório",
+    "titulo_original": "Several explosions heard on Kharg Island - report",
+    "fonte": "ForexLive",
+    "publicado": "08/09 15:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Explosões na Ilha Kharg, um ponto crucial para a exportação de petróleo iraniano, e relatos de ataques americanos a petroleiros aumentam o risco de interrupção do fornecimento de petróleo. Se houver um impacto significativo na produção ou exportação iraniana, isso poderá levar a um aumento acentuado nos preços do petróleo e a uma maior volatilidade no mercado energético global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788899458.9779797,
+    "titulo": "Calor e El Niño afetam preços globais da alimentação, aponta FAO",
+    "titulo_original": "Calor e El Niño afetam preços globais da alimentação, aponta FAO",
+    "fonte": "Folha Mercado",
+    "publicado": "08/09 15:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento nos preços globais dos alimentos, atribuído a fatores climáticos como o El Niño e a eventos geopolíticos, contribui para pressões inflacionárias. Se esses fatores persistirem, o custo dos alimentos pode continuar a subir, impactando o poder de compra dos consumidores e a inflação geral em diversas economias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788899464.35386,
+    "titulo": "Petróleo fecha em alta após encostar em US$ 100 o barril",
+    "titulo_original": "Petróleo fecha em alta após encostar em US$ 100 o barril",
+    "fonte": "Money Times",
+    "publicado": "08/09 17:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo, com o Brent testando US$ 100 o barril, reflete a crescente tensão geopolítica no Oriente Médio e potenciais interrupções no fornecimento. Se os ataques e as incertezas sobre a oferta se mantiverem, os preços podem continuar a subir, exercendo pressão sobre a inflação global e os custos de produção em diversos setores.",
+    "is_stocks": false
   }
 ]
