@@ -1,70 +1,5 @@
 [
   {
-    "_timestamp": 1788794148.492387,
-    "titulo": "Hospitais entram na mira: projeto aprovado prevê multa diária de R$ 5 mil e sanções de até R$ 500 mil",
-    "titulo_original": "Hospitais entram na mira: projeto aprovado prevê multa diária de R$ 5 mil e sanções de até R$ 500 mil",
-    "fonte": "Money Times",
-    "publicado": "07/09 11:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do projeto de lei que impõe multas e sanções a hospitais pode aumentar os custos operacionais do setor de saúde. Se a sanção presidencial ocorrer, as instituições precisarão se adequar às novas regras para evitar penalidades financeiras; caso contrário, a proposta pode ser vetada ou alterada, mantendo o status quo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788794153.8555517,
-    "titulo": "Ataques de Israel matam nove no sul do Líbano em nova escalada nesta segunda",
-    "titulo_original": "Ataques de Israel matam nove no sul do Líbano em nova escalada nesta segunda - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "07/09 10:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada do conflito no Oriente Médio pode gerar instabilidade regional e impactar os preços do petróleo, caso haja interrupções no fornecimento. Se a tensão aumentar, pode haver um aumento na aversão ao risco global; caso contrário, o mercado pode absorver o evento sem grandes repercussões macroeconômicas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788794159.20311,
-    "titulo": "Traders estão errados sobre taxas de juros ou preços, diz estrategista do Deutsche Bank",
-    "titulo_original": "Traders estão errados sobre taxas de juros ou preços, diz estrategista do Deutsche Bank",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 11:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A visão do Deutsche Bank sugere que o mercado pode estar otimista demais quanto ao controle da inflação e à manutenção de juros baixos. Se a inflação persistir em patamares elevados, os bancos centrais podem ser forçados a aumentar os juros mais do que o esperado, impactando negativamente os ativos de risco; caso contrário, uma queda na inflação pode permitir a manutenção ou até redução dos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788794164.5079095,
-    "titulo": "Brent se aproxima de US$ 100 com escalada militar no Estreito de Ormuz",
-    "titulo_original": "Brent se aproxima de US$ 100 com escalada militar no Estreito de Ormuz - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "07/09 10:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A tensão no Estreito de Ormuz representa um risco de interrupção no fornecimento de petróleo, o que pode levar a um aumento significativo nos preços da commodity. Se o conflito se intensificar, o Brent pode ultrapassar os US$ 100, impactando a inflação global e as decisões de política monetária; caso contrário, uma desescalada diplomática pode trazer os preços para baixo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788794170.5221374,
-    "titulo": "Importações de diesel têm menor nível para agosto desde 2020, diz Citi",
-    "titulo_original": "Importações de diesel têm menor nível para agosto desde 2020, diz Citi",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 12:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A redução nas importações de diesel pode indicar uma menor demanda ou uma tentativa de adequação à oferta global mais restrita. Se a Petrobras continuar a suprir parte da demanda com produção própria, isso pode impactar seus resultados operacionais; a persistência da alta nos preços internacionais do petróleo pode pressionar a defasagem em relação às cotações internacionais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788799548.4544818,
     "titulo": "Com Selic a 14%, despesas financeiras das empresas saltam 12% no 2º trimestre e somam R$ 99 bilhões",
     "titulo_original": "Com Selic a 14%, despesas financeiras das empresas saltam 12% no 2º trimestre e somam R$ 99 bilhões - Brasil 247",
@@ -815,5 +750,76 @@
     "origem": "externa",
     "leitura_critica": "A alta do petróleo, com o Brent testando US$ 100 o barril, reflete a crescente tensão geopolítica no Oriente Médio e potenciais interrupções no fornecimento. Se os ataques e as incertezas sobre a oferta se mantiverem, os preços podem continuar a subir, exercendo pressão sobre a inflação global e os custos de produção em diversos setores.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1788904855.0354962,
+    "titulo": "Juros futuros recuam com eleições em foco",
+    "titulo_original": "Juros futuros recuam com eleições em foco",
+    "fonte": "Money Times",
+    "publicado": "08/09 18:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos juros futuros brasileiros, impulsionada pelo cenário eleitoral, sugere que o mercado precifica uma maior probabilidade de um governo com políticas fiscais mais flexíveis. Se o resultado eleitoral confirmar essa percepção, a curva de juros pode continuar a cair; se houver surpresas, pode haver reversão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788904860.5133314,
+    "titulo": "Juros futuros têm forte queda de olho em eleição presidencial acirrada",
+    "titulo_original": "Juros futuros têm forte queda de olho em eleição presidencial acirrada",
+    "fonte": "Valor Economico",
+    "publicado": "08/09 17:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte queda nos juros futuros, associada à percepção de uma eleição presidencial acirrada e potencial vitória da oposição, indica que o mercado precifica um cenário de maior risco fiscal ou de políticas econômicas distintas. Se o resultado eleitoral confirmar essa expectativa, a curva de juros pode continuar a se achatar; caso contrário, pode haver reversão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788904866.087985,
+    "titulo": "Expectativas de inflação para daqui a um ano ficam estáveis nos EUA em agosto, mostra Fed/NY - valor.globo.com",
+    "titulo_original": "Expectativas de inflação para daqui a um ano ficam estáveis nos EUA em agosto, mostra Fed/NY - valor.globo.com",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 13:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A estabilidade nas expectativas de inflação nos EUA em agosto pode sinalizar que o mercado percebe um controle sobre a alta de preços no médio prazo. Se essa estabilidade se mantiver e os dados de inflação confirmarem, isso pode abrir espaço para o Fed considerar cortes de juros, impactando mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788904871.5705328,
+    "titulo": "Bitcoin cai quase 1% com apostas em alta de juros do Fed ainda elevadas, preços do petróleo sobem",
+    "titulo_original": "Bitcoin falls nearly 1% as Fed rate hike bets remain elevated, oil prices rise",
+    "fonte": "Investing.com",
+    "publicado": "08/09 17:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A persistência de apostas em altas de juros pelo Fed sugere que o mercado ainda precifica um cenário de aperto monetário nos EUA. Se o Fed sinalizar uma pausa ou corte em suas próximas reuniões, isso pode impulsionar o Bitcoin. Caso contrário, a pressão de baixa sobre criptoativos pode continuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788904878.0003283,
+    "titulo": "Resumo de notícias de FX das Américas da investingLive em 8 de setembro: USD misto, rendimentos sobem. Traders aguardam dados de inflação.",
+    "titulo_original": "investingLive Americas FX news wrap 8 Sept: USD mixed, yields rise. Trader await inflation data.",
+    "fonte": "ForexLive",
+    "publicado": "08/09 17:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa por dados de inflação nos EUA é o principal fator de atenção, pois pode influenciar as decisões futuras do Fed sobre juros. Se os dados de inflação vierem acima do esperado, isso pode sustentar a alta dos rendimentos e pressionar o dólar. Caso contrário, uma inflação mais baixa pode levar a uma reversão desses movimentos.",
+    "is_stocks": true
   }
 ]
