@@ -785,5 +785,74 @@
     "origem": "externa",
     "leitura_critica": "A paralisação de instalações de energia na Arábia Saudita pode impactar a oferta global de petróleo, potencialmente elevando os preços. Se os ataques se intensificarem ou se estenderem a outras infraestruturas críticas, o cenário de oferta e demanda de energia pode se tornar mais volátil, afetando mercados globais.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1788873418.683084,
+    "titulo": "LFTB11 ou Tesouro Selic: qual escolher?",
+    "titulo_original": "LFTB11 ou Tesouro Selic: qual escolher? - suno.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 08:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A comparação entre LFTB11 e Tesouro Selic é relevante para investidores que buscam alocar recursos em renda fixa atrelada à taxa Selic. A escolha entre eles dependerá de fatores como liquidez, custos e a visão do investidor sobre a trajetória futura dos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788873423.0785375,
+    "titulo": "Economistas sobem previsão do PIB pela primeira vez após dois meses",
+    "titulo_original": "Economistas sobem previsão do PIB pela primeira vez após dois meses",
+    "fonte": "Folha Mercado",
+    "publicado": "08/09 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão para cima do PIB e para baixo da inflação sugere um cenário econômico doméstico mais favorável. Se essa tendência se mantiver, pode sinalizar um ambiente propício para decisões de política monetária menos restritivas no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788873427.575282,
+    "titulo": "Mercado financeiro reduz previsão da inflação para 5% este ano",
+    "titulo_original": "Mercado financeiro reduz previsão da inflação para 5% este ano - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 10:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na previsão de inflação pelo mercado financeiro pode indicar uma percepção de maior controle sobre os preços. Se essa tendência se confirmar, pode abrir espaço para o Banco Central considerar uma política monetária menos apertada em futuras decisões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788873431.9668663,
+    "titulo": "Mercados hoje: tensão no Oriente Médio e dados de inflação estão no radar dos investidores",
+    "titulo_original": "Mercados hoje: tensão no Oriente Médio e dados de inflação estão no radar dos investidores - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "08/09 09:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de fatores geopolíticos e dados econômicos como a inflação molda o comportamento dos mercados. Se a tensão no Oriente Médio impactar a oferta de petróleo, isso pode gerar pressões inflacionárias adicionais, influenciando decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788873459.1078823,
+    "titulo": "Ibovespa volta do feriado com eleição no radar; petróleo se aproxima de US$ 100 por barril",
+    "titulo_original": "Ibovespa volta do feriado com eleição no radar; petróleo se aproxima de US$ 100 por barril - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "08/09 06:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A combinação da proximidade das eleições com a alta do petróleo cria um cenário de incerteza para o mercado. Se os preços do petróleo continuarem a subir, isso pode pressionar a inflação e influenciar as decisões de política econômica, impactando o desempenho do Ibovespa.",
+    "is_stocks": true
   }
 ]
