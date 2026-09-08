@@ -1,206 +1,5 @@
 [
   {
-    "_timestamp": 1788778856.5546553,
-    "titulo": "Endividamento e crédito caro reduzem empolgação do brasileiro com mercado de trabalho e renda em alta",
-    "titulo_original": "Endividamento e crédito caro reduzem empolgação do brasileiro com mercado de trabalho e renda em alta",
-    "fonte": "Folha Mercado",
-    "publicado": "06/09 23:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cenário de crédito caro e endividamento pode limitar o consumo, mesmo com indicadores de emprego positivos. Se as condições de crédito piorarem, a demanda interna pode desacelerar, impactando o crescimento econômico e a confiança do consumidor no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788778861.464403,
-    "titulo": "O varejo espera a Selic cair — mas o ponto de partida mudou",
-    "titulo_original": "O varejo espera a Selic cair — mas o ponto de partida mudou - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "06/09 14:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A mudança no ponto de partida para a expectativa de queda da Selic pode indicar que o ciclo de afrouxamento monetário pode ser mais lento ou começar em patamares diferentes do que o mercado esperava. Isso pode afetar o planejamento de investimentos e o consumo no setor varejista.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788778866.550828,
-    "titulo": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic",
-    "titulo_original": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "06/09 21:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção do ciclo de queda da Selic pelo Copom sugere uma continuidade na política monetária expansionista. Se essa tendência se confirmar nas próximas reuniões, pode haver um estímulo ao crédito e ao investimento, impactando positivamente a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788778871.4501162,
-    "titulo": "IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores",
-    "titulo_original": "IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores",
-    "fonte": "Money Times",
-    "publicado": "06/09 11:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os dados de inflação e a decisão de juros do BCE são cruciais para a definição do cenário macroeconômico global. Se a inflação nos EUA vier acima do esperado, o Fed pode adiar cortes de juros; se o BCE mantiver a taxa de juros ou sinalizar aperto, isso pode impactar o fluxo de capital para mercados emergentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788778882.6470392,
-    "titulo": "Irã adverte sobre resposta mais dura: petróleo, ouro e ações para acompanhar no fim de semana",
-    "titulo_original": "Iran warns of tougher response: Oil, gold and stocks to watch over the holiday weekend",
-    "fonte": "ForexLive",
-    "publicado": "06/09 09:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A retórica do Irã sugere uma escalada nas tensões geopolíticas, o que pode aumentar a volatilidade nos mercados de commodities, especialmente petróleo. Se os ataques se intensificarem, o preço do barril pode subir, afetando a inflação global e o custo de energia para empresas e consumidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788778882.647312,
-    "titulo": "Cobertor curto: 7 ações do Ibovespa mais expostas ao impacto dos juros altos em seus resultados",
-    "titulo_original": "Cobertor curto: 7 ações do Ibovespa mais expostas ao impacto dos juros altos em seus resultados - InvestNews",
-    "fonte": "Google News Acoes",
-    "publicado": "06/09 18:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A exposição de empresas aos juros altos pode afetar seus resultados e, consequentemente, seus preços no mercado de ações. Se a taxa Selic permanecer elevada por mais tempo, essas ações podem apresentar desempenho inferior em comparação com empresas menos sensíveis a esse fator.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788778882.6476946,
-    "titulo": "BlackRock e JPMorgan apostam em mercados emergentes",
-    "titulo_original": "BlackRock e JPMorgan apostam em mercados emergentes",
-    "fonte": "Folha Mercado",
-    "publicado": "06/09 15:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O interesse de grandes gestoras em mercados emergentes pode indicar um fluxo de capital para essas regiões. Se essa tendência se confirmar, pode haver valorização de ativos em países emergentes, incluindo o Brasil, especialmente se as condições macroeconômicas locais forem favoráveis.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788778882.6479743,
-    "titulo": "AMD pretende entrar na lista de fornecedores para supercomputador de IA do Brasil",
-    "titulo_original": "AMD pretende entrar na lista de fornecedores para supercomputador de IA do Brasil",
-    "fonte": "Valor Economico",
-    "publicado": "06/09 19:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O investimento em um supercomputador de IA pelo governo federal pode impulsionar o setor de tecnologia e inovação no Brasil. Se a AMD for selecionada, isso pode gerar um fluxo de capital para o país e estimular o desenvolvimento de novas aplicações de IA.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788778882.6483092,
-    "titulo": "Nvidia desafia Apple, Intel e AMD com PCs equipados com superchip de IA e preços altos",
-    "titulo_original": "Nvidia desafia Apple, Intel e AMD com PCs equipados com superchip de IA e preços altos",
-    "fonte": "Folha Mercado",
-    "publicado": "06/09 04:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O lançamento de novos hardwares com foco em IA, como o RTX Spark, pode impulsionar o setor de tecnologia e a demanda por componentes. Se esses produtos tiverem boa aceitação no mercado, podem gerar um impacto positivo nas empresas envolvidas e no setor como um todo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788778882.6486213,
-    "titulo": "Preferência entre os seniores? Parcela que investe em FIIs salta para 60% em 6 anos, mostra pesquisa",
-    "titulo_original": "Preferência entre os seniores? Parcela que investe em FIIs salta para 60% em 6 anos, mostra pesquisa",
-    "fonte": "Money Times",
-    "publicado": "06/09 11:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do investimento em FIIs por investidores seniores, mesmo com juros altos, pode indicar uma busca por diversificação e renda. Se a taxa de juros começar a cair, o interesse em FIIs pode se manter ou até aumentar, beneficiando o setor imobiliário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788780853.7369223,
-    "titulo": "Num ano de eleição presidencial, desaceleração da economia se acentua no segundo semestre",
-    "titulo_original": "Num ano de eleição presidencial, desaceleração da economia se acentua no segundo semestre",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 08:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração econômica em ano eleitoral pode intensificar a pressão sobre o governo, especialmente se os dados de alta frequência continuarem a apontar para um desempenho fraco. Se o governo conseguir implementar medidas que reativem o consumo e o investimento, a trajetória de crescimento pode ser alterada; caso contrário, a estagnação pode se consolidar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788780857.6335888,
-    "titulo": "Depois do EWZ, eleição mais apertada já aparece nas opções de dólar",
-    "titulo_original": "Depois do EWZ, eleição mais apertada já aparece nas opções de dólar",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 08:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A volatilidade observada no mercado de opções de dólar sugere que o cenário eleitoral está gerando incertezas quanto ao futuro da moeda. Se a disputa eleitoral se mostrar ainda mais acirrada nas próximas semanas, isso pode levar a uma maior pressão sobre o câmbio e a um aumento da volatilidade no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788780861.5497346,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "07/09 03:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A ausência de dados econômicos relevantes nos EUA pode levar a um período de consolidação nos mercados, com os investidores focados nos próximos indicadores. Se o CPI dos EUA vier acima do esperado, isso pode aumentar as chances de uma nova alta de juros pelo Fed; caso contrário, a probabilidade de manutenção da taxa pode crescer.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788780865.4597828,
-    "titulo": "Instalação da Saudi Aramco atacada novamente; extensão dos danos ainda está sendo avaliada",
-    "titulo_original": "Saudi Aramco facility attacked again; extent of the damage still being assessed",
-    "fonte": "ForexLive",
-    "publicado": "07/09 08:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A repetição de ataques a instalações petrolíferas sauditas aumenta o risco geopolítico em um mercado de petróleo já fragilizado. Se os danos forem mais significativos do que o relatado anteriormente, isso pode levar a um aumento nas cotações do petróleo; caso contrário, o mercado pode absorver o evento como mais um incidente pontual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788780869.4408603,
-    "titulo": "PIB da Zona do Euro no 2º trimestre tem impulso comercial com crescimento acelerado para 0,6%",
-    "titulo_original": "Eurozone Q2 GDP gets a trade boost as growth accelerates to 0.6%",
-    "fonte": "ForexLive",
-    "publicado": "07/09 06:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A revisão positiva do PIB da Zona do Euro no segundo trimestre, impulsionada pelo comércio, é um sinal encorajador para os formuladores de políticas. Se o crescimento das exportações se mantiver forte e a demanda doméstica apresentar sinais de recuperação, isso pode sustentar a trajetória de crescimento da região; caso contrário, a dependência do comércio exterior pode expor a economia a choques externos.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1788787206.0771592,
     "titulo": "Petróleo supera US$ 97 após ataques a petroleiros e refinaria no Oriente Médio",
     "titulo_original": "Petróleo supera US$ 97 após ataques a petroleiros e refinaria no Oriente Médio",
@@ -966,6 +765,89 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A elevação da recomendação para ações brasileiras pelo BofA, baseada na expectativa de afrouxamento monetário, sugere um cenário positivo para o mercado acionário. Se o ciclo de corte de juros se confirmar, isso pode atrair mais fluxo de capital estrangeiro em busca de maior rentabilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788892256.6274877,
+    "titulo": "Boletim Focus reduz novamente previsão da inflação para 2026",
+    "titulo_original": "Boletim Focus reduz novamente previsão da inflação para 2026 - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 12:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na projeção de inflação no Boletim Focus é um indicativo de que o mercado antecipa um cenário de preços mais controlado. Se essa tendência de queda nas expectativas inflacionárias se confirmar, isso pode abrir espaço para uma política monetária mais flexível no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788892260.8161826,
+    "titulo": "PIB mais fraco e Selic menor mudam o jogo para ações financeiras; veja as preferidas do BofA - Estadão",
+    "titulo_original": "PIB mais fraco e Selic menor mudam o jogo para ações financeiras; veja as preferidas do BofA - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 15:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A combinação de um PIB mais fraco com uma Selic em queda pode favorecer ações de setores mais sensíveis à taxa de juros. Se a política monetária continuar a se tornar mais flexível, isso pode impulsionar o setor financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788892265.0640192,
+    "titulo": "Bolsa sobe 2% e passa dos 188 mil pontos; dólar recua",
+    "titulo_original": "Bolsa sobe 2% e passa dos 188 mil pontos; dólar recua - Poder360",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 12:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta da bolsa e a queda do dólar em um mesmo dia podem indicar um aumento na confiança dos investidores no cenário doméstico. Se essa tendência se mantiver, pode sinalizar um fluxo de capital mais favorável ao mercado brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788892269.3209238,
+    "titulo": "U.S. Treasury sells $58 billion of 3 or notes at a high yield of 4.474%",
+    "titulo_original": "U.S. Treasury sells $58 billion of 3 or notes at a high yield of 4.474%",
+    "fonte": "ForexLive",
+    "publicado": "08/09 14:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A venda de títulos do Tesouro dos EUA com um rendimento específico pode influenciar as expectativas sobre a política monetária do Federal Reserve. Se os rendimentos continuarem a subir, isso pode indicar que o mercado antecipa juros mais altos por mais tempo; se caírem, pode sinalizar uma expectativa de corte de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788892344.2891433,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com eleição e Focus no radar - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com eleição e Focus no radar - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "08/09 12:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A movimentação do Ibovespa, especialmente em dias de divulgação de dados econômicos ou eventos políticos, pode refletir a percepção do mercado sobre o futuro cenário econômico. Se os resultados eleitorais forem vistos como favoráveis à estabilidade, isso pode sustentar a alta da bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788892344.290585,
+    "titulo": "Com perda de espaço da inteligência artificial, Brasil volta a ser compra para o BofA: O que mais mudou?",
+    "titulo_original": "Com perda de espaço da inteligência artificial, Brasil volta a ser compra para o BofA: O que mais mudou?",
+    "fonte": "Money Times",
+    "publicado": "08/09 15:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A mudança na recomendação do BofA para ações brasileiras, de neutra para compra, sugere uma visão mais otimista sobre o cenário econômico doméstico. Se a inflação continuar a ceder e o ciclo de corte de juros se aprofundar, isso pode sustentar um desempenho positivo do mercado acionário.",
     "is_stocks": true
   }
 ]
