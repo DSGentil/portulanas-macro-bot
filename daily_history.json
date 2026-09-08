@@ -1,98 +1,5 @@
 [
   {
-    "_timestamp": 1788799548.4544818,
-    "titulo": "Com Selic a 14%, despesas financeiras das empresas saltam 12% no 2º trimestre e somam R$ 99 bilhões",
-    "titulo_original": "Com Selic a 14%, despesas financeiras das empresas saltam 12% no 2º trimestre e somam R$ 99 bilhões - Brasil 247",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/09 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento expressivo das despesas financeiras das empresas com a Selic em 14% evidencia o custo do crédito no Brasil. Se a taxa Selic permanecer elevada, a pressão sobre os resultados das empresas continuará, podendo afetar investimentos e geração de empregos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788799553.381379,
-    "titulo": "Sessão europeia: petróleo sobe, iene dispara com feriado nos EUA",
-    "titulo_original": "investingLive European session wrap: Oil climbs, yen surges amid US holiday",
-    "fonte": "ForexLive",
-    "publicado": "07/09 09:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões no Oriente Médio e os ataques a instalações petrolíferas elevam o risco geopolítico e podem sustentar preços de commodities. A força do iene, em um dia de menor liquidez nos EUA, pode indicar movimentos de aversão ao risco ou ajustes de posições.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788799558.3144555,
-    "titulo": "Cobre dispara para máxima histórica enquanto turbulência tarifária pressiona mercado",
-    "titulo_original": "Cobre dispara para máxima histórica enquanto turbulência tarifária pressiona mercado - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "07/09 13:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O disparo do cobre para máxima histórica pode indicar forte demanda por commodities industriais ou preocupações com a oferta. Se a turbulência tarifária se intensificar, pode afetar cadeias de suprimentos e a produção de bens que utilizam cobre.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788799563.2668805,
-    "titulo": "Trump diz que carne importada dos EUA virá sobretudo de Brasil e Argentina",
-    "titulo_original": "Trump diz que carne importada dos EUA virá sobretudo de Brasil e Argentina - CNN Brasil",
-    "fonte": "Google News Geopolitica",
-    "publicado": "07/09 10:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre a origem da carne importada pelos EUA pode ter implicações comerciais para o agronegócio brasileiro e argentino. Se essa política for implementada, pode aumentar a demanda por carne desses países no mercado americano.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788799569.2632074,
-    "titulo": "Bolsas da Europa fecham sem direção única com petróleo em alta e BCE no radar",
-    "titulo_original": "Bolsas da Europa fecham sem direção única com petróleo em alta e BCE no radar",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 13:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo adiciona pressão inflacionária, o que pode levar o BCE a manter uma postura mais restritiva em sua decisão de juros. Se a decisão do BCE for mais dura do que o esperado, isso pode impactar negativamente os índices europeus; caso contrário, pode haver um alívio no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788799569.2641728,
-    "titulo": "Brasil tem pelo menos 19 milhões de nanoempreendedores, diz estudo",
-    "titulo_original": "Brasil tem pelo menos 19 milhões de nanoempreendedores, diz estudo",
-    "fonte": "Folha Mercado",
-    "publicado": "07/09 11:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A identificação de um número expressivo de nanoempreendedores pode indicar o impacto da reforma tributária na formalização de pequenos negócios. Se essa categoria se consolidar e gerar dados econômicos consistentes, pode influenciar futuras políticas de incentivo ao empreendedorismo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788799569.2653086,
-    "titulo": "Empiricus mantém ‘estratégia 60/25/15’ para setembro — carteira com 12 ativos busca gerar renda passiva",
-    "titulo_original": "Empiricus mantém ‘estratégia 60/25/15’ para setembro — carteira com 12 ativos busca gerar renda passiva",
-    "fonte": "Money Times",
-    "publicado": "07/09 11:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de manter o foco em qualidade e solidez reflete um cenário de juros elevados que penaliza empresas com balanços mais frágeis. Se os juros começarem a cair de forma consistente, essa estratégia pode precisar de ajustes para capturar oportunidades em ativos mais sensíveis à queda de taxa.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788805848.0310383,
     "titulo": "Combater poluição e mudança climática pode elevar PIB global em 2,8% até 2035, diz ONU",
     "titulo_original": "Combater poluição e mudança climática pode elevar PIB global em 2,8% até 2035, diz ONU",
@@ -820,6 +727,84 @@
     ],
     "origem": "ambas",
     "leitura_critica": "A expectativa por dados de inflação nos EUA é o principal fator de atenção, pois pode influenciar as decisões futuras do Fed sobre juros. Se os dados de inflação vierem acima do esperado, isso pode sustentar a alta dos rendimentos e pressionar o dólar. Caso contrário, uma inflação mais baixa pode levar a uma reversão desses movimentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788910246.6613102,
+    "titulo": "BC anuncia ‘casadão’ para quinta-feira com oferta total de US$ 1 bilhão",
+    "titulo_original": "BC anuncia ‘casadão’ para quinta-feira com oferta total de US$ 1 bilhão",
+    "fonte": "Valor Economico",
+    "publicado": "08/09 19:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A operação de swap reverso visa gerenciar a liquidez e o cupom cambial, sem alterar a cotação do dólar. Se a demanda por dólares no mercado futuro for significativamente maior que a oferta, o BC pode precisar intervir com mais força. A ausência de impacto direto no câmbio sugere um foco em estabilidade de taxas de juros em dólar no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788910251.034337,
+    "titulo": "Dólar cai a R$5,08, com avanço de Flávio Bolsonaro em pesquisas eleitorais",
+    "titulo_original": "Dólar cai a R$5,08, com avanço de Flávio Bolsonaro em pesquisas eleitorais - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 17:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar para R$5,08, associada ao avanço de Flávio Bolsonaro em pesquisas eleitorais, sugere que o mercado pode estar reagindo a um cenário político percebido como mais favorável. Se a tendência de avanço se confirmar, o dólar pode continuar em trajetória de queda. Caso contrário, a moeda pode voltar a se valorizar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788910255.4018059,
+    "titulo": "Dólar recua e real é uma das moedas mais fortes do dia com eleições no radar",
+    "titulo_original": "Dólar recua e real é uma das moedas mais fortes do dia com eleições no radar - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 17:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do real e a consequente queda do dólar, em meio ao cenário eleitoral, sugerem que o mercado pode estar precificando um resultado político específico. Se as expectativas eleitorais se confirmarem, o real pode manter sua força; caso contrário, a moeda pode sofrer volatilidade. A notícia aponta para uma influência política direta na cotação do câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788910259.7999833,
+    "titulo": "BC do Chile mantém taxa de juros de referência em 4,50% ao ano",
+    "titulo_original": "BC do Chile mantém taxa de juros de referência em 4,50% ao ano",
+    "fonte": "Valor Economico",
+    "publicado": "08/09 18:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A manutenção da taxa de juros pelo BC do Chile, em um cenário de incertezas globais e fraqueza doméstica, pode indicar um viés conservador na política monetária da região. Se os riscos macroeconômicos se intensificarem, o BC chileno pode adiar cortes futuros; caso contrário, a melhora na atividade pode abrir espaço para flexibilização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788910264.9896584,
+    "titulo": "Humor da fábrica japonesa atinge pico de quase 5 anos com demanda de chips impulsionando Reuters Tankan",
+    "titulo_original": "Japan factory mood hits near 5-year high as chip demand lifts Reuters Tankan",
+    "fonte": "ForexLive",
+    "publicado": "08/09 20:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O otimismo na indústria japonesa, impulsionado pela demanda de chips, pode ser um indicador de recuperação econômica na Ásia. Se essa tendência se mantiver, pode haver um impacto positivo nas exportações japonesas e, consequentemente, na demanda global por componentes. A leitura também pode influenciar as decisões futuras do Banco do Japão sobre normalização de política monetária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788910264.9910517,
+    "titulo": "Embraer (EMBJ3): Proposta de Imposto Seletivo pode elevar em 6,5% custo de aquisição de aeronaves",
+    "titulo_original": "Embraer (EMBJ3): Proposta de Imposto Seletivo pode elevar em 6,5% custo de aquisição de aeronaves",
+    "fonte": "Money Times",
+    "publicado": "08/09 19:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da Embraer sobre o potencial aumento de 6,5% no custo de aeronaves devido ao Imposto Seletivo indica um impacto fiscal relevante para o setor. Se o imposto for implementado sem as isenções atuais, pode haver um desincentivo à compra de aeronaves no Brasil. A decisão final sobre a regulamentação definirá o alcance desse impacto.",
     "is_stocks": true
   }
 ]
