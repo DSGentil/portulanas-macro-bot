@@ -720,5 +720,70 @@
     "origem": "externa",
     "leitura_critica": "A queda do dólar frente ao iene, em um dia com menor volume de negociação, pode ser interpretada como um movimento técnico pontual, influenciado pela força da moeda japonesa. Se essa tendência de valorização do iene se mantiver em sessões com maior liquidez, pode indicar uma mudança no apetite por risco global, com investidores buscando ativos considerados mais seguros, o que, por sua vez, poderia impactar fluxos de capital para economias emergentes.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1788867053.4871957,
+    "titulo": "STF decide que INSS pode definir teto de juros do consignado; entenda",
+    "titulo_original": "STF decide que INSS pode definir teto de juros do consignado; entenda",
+    "fonte": "Folha Mercado",
+    "publicado": "08/09 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF sobre o teto de juros do consignado pode afetar a rentabilidade de instituições financeiras que operam nesse segmento. Se o INSS definir tetos mais baixos, isso pode reduzir a margem de lucro dos bancos; se a definição for flexível, pode manter o cenário atual.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788867058.2276425,
+    "titulo": "Agenda do dia: IGP-DI e leilão de NTN-B são destaque",
+    "titulo_original": "Agenda do dia: IGP-DI e leilão de NTN-B são destaque",
+    "fonte": "Valor Economico",
+    "publicado": "08/09 07:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação do IGP-DI de agosto, com alta acumulada no ano, fornece um dado importante sobre a inflação ao produtor. Se o índice vier acima das expectativas, pode reforçar a pressão inflacionária e influenciar decisões futuras do Banco Central. O leilão de títulos públicos é um indicador da demanda por dívida soberana e das condições de financiamento do governo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788867063.0337925,
+    "titulo": "Ações defensivas viram refúgio dos investidores de bolsa; descubra quais são as favoritas",
+    "titulo_original": "Ações defensivas viram refúgio dos investidores de bolsa; descubra quais são as favoritas - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "08/09 06:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A busca por ações defensivas sugere um cenário de maior aversão ao risco no mercado. Se essa tendência se intensificar, pode indicar que os investidores estão antecipando um período de maior volatilidade ou desaceleração econômica. A identificação das ações favoritas pode ser um indicador de setores considerados mais resilientes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788867067.8013823,
+    "titulo": "Petróleo perto de US$ 100, Focus, dados da China e mais destaques desta terça-feira",
+    "titulo_original": "Petróleo perto de US$ 100, Focus, dados da China e mais destaques desta terça-feira - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "08/09 06:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A proximidade do petróleo a US$ 100 o barril é um fator de atenção para a inflação global e para a política monetária. Dados da China, como principal consumidor de commodities, e a pesquisa Focus, que reflete as expectativas do mercado brasileiro, complementam o quadro de incertezas econômicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788867072.590337,
+    "titulo": "Ataque dos Houthis paralisa instalações de energia na Arábia Saudita e deixa dezenas de feridos",
+    "titulo_original": "Ataque dos houthis paralisa instalações de energia na Arábia Saudita e deixa dezenas de feridos",
+    "fonte": "Valor Economico",
+    "publicado": "08/09 08:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A paralisação de instalações de energia na Arábia Saudita pode impactar a oferta global de petróleo, potencialmente elevando os preços. Se os ataques se intensificarem ou se estenderem a outras infraestruturas críticas, o cenário de oferta e demanda de energia pode se tornar mais volátil, afetando mercados globais.",
+    "is_stocks": false
   }
 ]
