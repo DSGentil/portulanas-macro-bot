@@ -854,5 +854,118 @@
     "origem": "domestica",
     "leitura_critica": "A combinação da proximidade das eleições com a alta do petróleo cria um cenário de incerteza para o mercado. Se os preços do petróleo continuarem a subir, isso pode pressionar a inflação e influenciar as decisões de política econômica, impactando o desempenho do Ibovespa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788885970.2044127,
+    "titulo": "Eleições 2026: como a disputa eleitoral afeta bolsa, juros e câmbio?",
+    "titulo_original": "Eleições 2026: como a disputa eleitoral afeta bolsa, juros e câmbio?",
+    "fonte": "InvestNews",
+    "publicado": "08/09 10:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A incerteza eleitoral pode gerar volatilidade nos mercados de bolsa, juros e câmbio. Se as pesquisas indicarem um cenário político que gere apreensão sobre a condução da política econômica, isso pode levar a uma fuga de capitais e pressionar a taxa de câmbio e os juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788885975.4323454,
+    "titulo": "Dólar recua abaixo de R$ 5,10 com disputa acirrada entre Lula e Flávio",
+    "titulo_original": "Dólar recua abaixo de R$ 5,10 com disputa acirrada entre Lula e Flávio - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 11:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar abaixo de R$ 5,10, associada à disputa eleitoral, sugere que o mercado pode estar precificando um cenário político que considera menos arriscado para o fluxo de capital. Se a percepção de risco político diminuir, isso pode atrair mais investimentos estrangeiros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788885982.5263486,
+    "titulo": "Dólar hoje: Moeda cai com eleições e dados dos EUA",
+    "titulo_original": "Dólar hoje: Moeda cai com eleições e dados dos EUA - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "08/09 10:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar pode ser interpretada como um reflexo de um cenário eleitoral percebido como menos arriscado ou de dados econômicos americanos que sugerem uma política monetária menos agressiva. Se os dados dos EUA forem fracos, isso pode diminuir o apelo do dólar e favorecer moedas de mercados emergentes como o real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788885987.8651474,
+    "titulo": "Pesquisa do Fed de NY: expectativas de desemprego sobem ao maior nível desde abril de 2020",
+    "titulo_original": "NY Fed survey: Expectations for rising unemployment rise to highest since April 2020",
+    "fonte": "ForexLive",
+    "publicado": "08/09 12:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento nas expectativas de desemprego pode sinalizar uma desaceleração futura da atividade econômica nos EUA. Se as expectativas de inflação permanecerem contidas, isso pode dar ao Fed mais margem para não aumentar os juros, mas a alta no desemprego é um contraponto a ser observado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788886055.4188612,
+    "titulo": "Goldman Sachs eleva projeções para o petróleo e vê Brent acima de US$ 120",
+    "titulo_original": "Goldman Sachs eleva projeções para o petróleo e vê Brent acima de US$ 120",
+    "fonte": "Money Times",
+    "publicado": "08/09 12:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A elevação das projeções para o petróleo pode indicar um cenário de preços mais altos no futuro, o que pode impactar a inflação global e, consequentemente, as decisões de política monetária de diversos países. Se o petróleo subir significativamente, pode pressionar a inflação e afetar o fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788886055.4203532,
+    "titulo": "Bolsas da Europa fecham em direções opostas com alta petróleo no radar",
+    "titulo_original": "Bolsas da Europa fecham em direções opostas com alta petróleo no radar",
+    "fonte": "Valor Economico",
+    "publicado": "08/09 13:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo pode pressionar a inflação na Europa, que é dependente de importação de energia. Se a inflação acelerar, os bancos centrais europeus podem ter que reconsiderar suas políticas monetárias, o que pode afetar o cenário global de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788886055.4217901,
+    "titulo": "Estrangeiros aportam R$ 1,7 bilhão em ações na B3 em 3 de setembro",
+    "titulo_original": "Estrangeiros aportam R$ 1,7 bilhão em ações na B3 em 3 de setembro - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "08/09 10:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O ingresso de R$ 1,7 bilhão em ações por investidores estrangeiros indica um aumento no fluxo de capital para a bolsa brasileira. Se essa tendência se mantiver, pode sustentar a valorização do mercado acionário e influenciar a taxa de câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788886055.4232442,
+    "titulo": "BofA eleva recomendação para ações brasileiras para ‘overweight’",
+    "titulo_original": "BofA eleva recomendação para ações brasileiras para ‘overweight’",
+    "fonte": "Valor Economico",
+    "publicado": "08/09 13:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A elevação da recomendação para ações brasileiras pelo BofA, baseada na expectativa de afrouxamento monetário, sugere um cenário positivo para o mercado acionário. Se o ciclo de corte de juros se confirmar, isso pode atrair mais fluxo de capital estrangeiro em busca de maior rentabilidade.",
+    "is_stocks": true
   }
 ]
