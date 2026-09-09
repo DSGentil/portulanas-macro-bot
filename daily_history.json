@@ -841,5 +841,93 @@
     "origem": "domestica",
     "leitura_critica": "A recuperação das ações da PetroReconcavo, zerando perdas em 2026, é influenciada positivamente pelo preço do petróleo e por seus dados operacionais. Se o preço do petróleo se mantiver em patamares elevados e os resultados operacionais continuarem favoráveis, o desempenho da ação pode ser sustentado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788972372.9964454,
+    "titulo": "Crise no STF: entenda a sequência de decisões que elevou a tensão entre os ministros",
+    "titulo_original": "Crise no STF: entenda a sequência de decisões que elevou a tensão entre os ministros",
+    "fonte": "Valor Economico",
+    "publicado": "09/09 12:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A instabilidade institucional no STF pode gerar incertezas sobre o ambiente regulatório e a previsibilidade jurídica no Brasil. Se a crise persistir e impactar a confiança dos investidores nas instituições, isso poderia se refletir em maior volatilidade no mercado e potencial fuga de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788972377.758978,
+    "titulo": "Boletim Cambial (09/09): Euro e Dólar PTAX - trademap.com.br",
+    "titulo_original": "Boletim Cambial (09/09): Euro e Dólar PTAX - trademap.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/09 13:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O boletim cambial informa as cotações do Euro e Dólar PTAX, dados importantes para o acompanhamento do câmbio. A relevância reside na observação da tendência e volatilidade dessas moedas, que podem ser influenciadas por fatores domésticos e externos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788972382.9774196,
+    "titulo": "Dólar sobe a R$ 5,09 e Bolsa abre em baixa, com petróleo acima de US$ 100 - UOL Economia",
+    "titulo_original": "Dólar sobe a R$ 5,09 e Bolsa abre em baixa, com petróleo acima de US$ 100 - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/09 13:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar e a queda da bolsa, associadas à valorização do petróleo, indicam um cenário de aversão ao risco e potenciais pressões inflacionárias. Se o petróleo continuar em patamares elevados, isso pode pressionar o Banco Central a manter uma postura mais restritiva em relação aos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788972387.7626352,
+    "titulo": "Dólar hoje avança com exterior e crise no STF no foco - InfoMoney",
+    "titulo_original": "Dólar hoje avança com exterior e crise no STF no foco - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/09 11:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A valorização do dólar, influenciada por fatores externos e pela crise no STF, sugere um aumento da percepção de risco no Brasil. A instabilidade institucional pode afetar a confiança dos investidores e, consequentemente, o fluxo de capital para o país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788972414.6943421,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "09/09 11:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O acompanhamento em tempo real do preço do petróleo é crucial, pois sua volatilidade pode indicar mudanças no cenário geopolítico e ter impacto direto na inflação global. Se o preço continuar a subir, isso pode pressionar bancos centrais a manterem juros mais altos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788972414.6959362,
+    "titulo": "Petróleo supera US$ 100: até onde brent pode ir, segundo Goldman Sachs e JPMorgan - InfoMoney",
+    "titulo_original": "Petróleo supera US$ 100: até onde brent pode ir, segundo Goldman Sachs e JPMorgan - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "09/09 13:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A análise de bancos de investimento como Goldman Sachs e JPMorgan sobre a trajetória do petróleo Brent acima de US$ 100 reforça a expectativa de persistência de pressões inflacionárias. Se as projeções se confirmarem, o cenário de juros elevados pode se estender, impactando o custo do crédito e a atividade econômica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788972414.6974204,
+    "titulo": "Banco do Brasil atualiza valor por ação de JCP corrigido pela Selic; provento será pago nesta sexta-feira - ADVFN",
+    "titulo_original": "Banco do Brasil atualiza valor por ação de JCP corrigido pela Selic; provento será pago nesta sexta-feira - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/09 10:24",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa sobre o pagamento de proventos do Banco do Brasil, com valor corrigido pela Selic. Embora mencione a taxa básica de juros, o foco principal é a distribuição de dividendos por uma empresa específica, com impacto limitado ao setor bancário e acionistas.",
+    "is_stocks": true
   }
 ]
