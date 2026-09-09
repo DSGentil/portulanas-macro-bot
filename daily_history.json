@@ -611,5 +611,107 @@
     "origem": "ambas",
     "leitura_critica": "A expectativa de um aumento de 25 bps nos juros pelo BCE amanhã pode influenciar as decisões de política monetária em outras regiões. Se os dados de emprego ADP nos EUA vierem significativamente abaixo do esperado, isso pode reforçar a visão de que o Fed pode precisar manter uma política monetária mais acomodatícia.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1788960064.6575205,
+    "titulo": "El Niño aumenta incertezas sobre safra 2026/27 e impulsiona preços da soja em setembro",
+    "titulo_original": "El Niño aumenta incertezas sobre safra 2026/27 e impulsiona preços da soja em setembro - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "09/09 09:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "As incertezas geradas pelo El Niño sobre a safra 2026/27 e o consequente aumento nos preços da soja podem impactar o agronegócio brasileiro. Se o fenômeno climático for mais severo do que o esperado, isso pode levar a perdas na produção e a uma valorização ainda maior das commodities agrícolas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788960068.5709438,
+    "titulo": "Proposta de Warsh de reduzir as reuniões de decisão de juros ganha força no Fed",
+    "titulo_original": "Proposta de Warsh de reduzir as reuniões de decisão de juros ganha força no Fed - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/09 08:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A potencial redução nas reuniões de decisão de juros do Fed pode diminuir a previsibilidade da política monetária americana. Se a proposta for aprovada, o mercado pode reagir com maior volatilidade a cada comunicado, pois as oportunidades de ajuste de rota seriam menos frequentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788960072.4711952,
+    "titulo": "Cotação do petróleo alcança US$ 100 com agravamento da situação no Oriente Médio",
+    "titulo_original": "Cotação do petróleo alcança US$ 100 com agravamento da situação no Oriente Médio - CartaCapital",
+    "fonte": "Google News Commodities",
+    "publicado": "09/09 06:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O patamar de US$ 100 para o petróleo Brent representa um ponto de atenção para a inflação global e pode aumentar os custos de produção em diversos setores. Se as tensões no Oriente Médio persistirem ou escalarem, o preço do petróleo pode continuar a subir, impactando negativamente o crescimento econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788960076.4805934,
+    "titulo": "Irã diz ter capturado drone submarino dos EUA no Estreito de Ormuz",
+    "titulo_original": "Irã diz ter capturado drone submarino dos EUA no Estreito de Ormuz",
+    "fonte": "Valor Economico",
+    "publicado": "09/09 09:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A captura de um drone submarino dos EUA pelo Irã no Estreito de Ormuz eleva as tensões geopolíticas na região. Se este incidente levar a uma escalada militar, isso pode impactar o fluxo de petróleo e aumentar a volatilidade nos mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788960215.1035311,
+    "titulo": "European markets wrap: Brent crude hits $100, equities fall",
+    "titulo_original": "investingLive European markets wrap: Brent crude hits $100, equities fall",
+    "fonte": "ForexLive",
+    "publicado": "09/09 08:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo para US$ 100 pode intensificar as pressões inflacionárias na Europa, levando o Banco Central Europeu a adotar uma postura mais cautelosa em suas decisões de juros. Se o CPI dos EUA vier acima do esperado, isso pode reforçar a tendência de queda nas bolsas globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788960215.104692,
+    "titulo": "Ibovespa cai com aversão a risco global de olho em petróleo acima de US$ 100; 5 coisas para saber antes de investir hoje (9)",
+    "titulo_original": "Ibovespa cai com aversão a risco global de olho em petróleo acima de US$ 100; 5 coisas para saber antes de investir hoje (9)",
+    "fonte": "Money Times",
+    "publicado": "09/09 10:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A aversão ao risco global, impulsionada pelo petróleo a US$ 100, tende a pressionar o Ibovespa para baixo. Se as pesquisas eleitorais brasileiras indicarem um cenário de maior incerteza, isso pode agravar a queda do índice; caso contrário, a divulgação de dados de emprego positivos nos EUA poderia oferecer algum alívio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788960215.1058755,
+    "titulo": "Ibovespa futuro recua com petróleo a US$ 100 e alta dos juros",
+    "titulo_original": "Ibovespa futuro recua com petróleo a US$ 100 e alta dos juros - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "09/09 09:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de petróleo a US$ 100 e a perspectiva de alta de juros pressiona o Ibovespa futuro. Se as taxas de juros subirem de forma mais acentuada do que o esperado, isso pode desestimular investimentos em renda variável, levando a um recuo mais expressivo do índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788960215.1069658,
+    "titulo": "O gargalo da infraestrutura agora é gente",
+    "titulo_original": "O gargalo da infraestrutura agora é gente",
+    "fonte": "Folha Mercado",
+    "publicado": "09/09 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A transição do gargalo de financiamento para a escassez de mão de obra qualificada na infraestrutura brasileira sugere que o ritmo de investimento pode ser limitado pela capacidade de execução. Se o país não investir em capacitação profissional, o potencial de desenvolvimento de projetos pode ser comprometido.",
+    "is_stocks": true
   }
 ]
