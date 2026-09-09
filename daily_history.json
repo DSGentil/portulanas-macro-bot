@@ -967,5 +967,99 @@
     "origem": "externa",
     "leitura_critica": "A ausência de dados econômicos relevantes na Ásia sugere que os mercados podem continuar focados em eventos externos, como os dados de inflação dos EUA. Se os números de inflação vierem acima do esperado, isso pode reforçar a postura mais cautelosa dos bancos centrais globais; se vierem em linha ou abaixo, pode abrir espaço para um tom mais dovish.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788991252.1231868,
+    "titulo": "Subsídios à gasolina e ao diesel são ampliados após alta do petróleo - Agência Brasil",
+    "titulo_original": "Subsídios à gasolina e ao diesel são ampliados após alta do petróleo - Agência Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "09/09 16:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ampliação dos subsídios demonstra a preocupação do governo em gerenciar os impactos da alta do petróleo nos combustíveis. Se a alta do petróleo persistir, a sustentabilidade fiscal desses subsídios pode ser questionada, exigindo avaliações contínuas sobre o impacto no orçamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788991256.5530436,
+    "titulo": "Benesse eleitoral: com petróleo a US$ 100, Lula reduz impostos de combustíveis - PlatôBR",
+    "titulo_original": "Benesse eleitoral: com petróleo a US$ 100, Lula reduz impostos de combustíveis - PlatôBR",
+    "fonte": "Google News Commodities",
+    "publicado": "09/09 16:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução de impostos sobre combustíveis, em um cenário de alta do petróleo e próximo a eleições, sugere uma priorização da política de preços de curto prazo. Se essa medida impactar significativamente a arrecadação fiscal, pode haver repercussões no equilíbrio das contas públicas no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788991261.0516322,
+    "titulo": "Instituto Barla afirma que alíquota de 12% sobre exportação de petróleo atinge elo errado da cadeia",
+    "titulo_original": "Instituto Barla afirma que alíquota de 12% sobre exportação de petróleo atinge elo errado da cadeia",
+    "fonte": "Folha Mercado",
+    "publicado": "09/09 15:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A crítica do Instituto Barla questiona a eficácia da alíquota de exportação de petróleo como medida para controlar a alta do diesel. Se a análise do instituto for correta, a política fiscal pode precisar de ajustes para atingir o problema na origem, possivelmente no refino ou na logística.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788991265.459848,
+    "titulo": "Dólar avança e real é pior entre 33 moedas com ajustes e cenário externo adverso",
+    "titulo_original": "Dólar avança e real é pior entre 33 moedas com ajustes e cenário externo adverso",
+    "fonte": "Valor Economico",
+    "publicado": "09/09 17:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar e a desvalorização do real refletem a aversão ao risco global e fatores domésticos. Se o cenário externo de tensões geopolíticas e alta do petróleo se intensificar, o dólar pode continuar pressionando o câmbio brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788991291.5932646,
+    "titulo": "Com defasagem recorde da Petrobras, subsídio não zera diferença em relação ao diesel importado",
+    "titulo_original": "Com defasagem recorde da Petrobras, subsídio não zera diferença em relação ao diesel importado",
+    "fonte": "Valor Economico",
+    "publicado": "09/09 18:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A medida de subsídio busca mitigar o impacto da alta do petróleo nos combustíveis domésticos. Se a defasagem persistir apesar dos subsídios, pode haver pressão por novas intervenções fiscais ou ajustes nos preços da Petrobras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788991291.5944142,
+    "titulo": "Defasagem no preço do diesel dispara, e governo Lula lança novo pacote para conter alta",
+    "titulo_original": "Defasagem no preço do diesel dispara, e governo Lula lança novo pacote para conter alta",
+    "fonte": "Folha Mercado",
+    "publicado": "09/09 15:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica uma ação governamental direta para conter a alta dos combustíveis, possivelmente com impacto fiscal. Se o pacote for insuficiente para estabilizar os preços, a pressão sobre a Petrobras e o governo pode aumentar, especialmente no contexto eleitoral.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788991291.6194768,
+    "titulo": "investingLive Americas FX news wrap 9 Sept: Oil is a problem as war likely to continue",
+    "titulo_original": "investingLive Americas FX news wrap 9 Sept: Oil is a problem as war likely to continue",
+    "fonte": "ForexLive",
+    "publicado": "09/09 18:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia reforça a percepção de que a alta do petróleo e as tensões geopolíticas continuarão a influenciar os mercados globais. A declaração de Trump sobre os preços do petróleo sugere uma possível influência política nas decisões futuras.",
+    "is_stocks": true
   }
 ]
