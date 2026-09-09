@@ -1,74 +1,5 @@
 [
   {
-    "_timestamp": 1788873418.683084,
-    "titulo": "LFTB11 ou Tesouro Selic: qual escolher?",
-    "titulo_original": "LFTB11 ou Tesouro Selic: qual escolher? - suno.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/09 08:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A comparação entre LFTB11 e Tesouro Selic é relevante para investidores que buscam alocar recursos em renda fixa atrelada à taxa Selic. A escolha entre eles dependerá de fatores como liquidez, custos e a visão do investidor sobre a trajetória futura dos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788873423.0785375,
-    "titulo": "Economistas sobem previsão do PIB pela primeira vez após dois meses",
-    "titulo_original": "Economistas sobem previsão do PIB pela primeira vez após dois meses",
-    "fonte": "Folha Mercado",
-    "publicado": "08/09 09:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão para cima do PIB e para baixo da inflação sugere um cenário econômico doméstico mais favorável. Se essa tendência se mantiver, pode sinalizar um ambiente propício para decisões de política monetária menos restritivas no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788873427.575282,
-    "titulo": "Mercado financeiro reduz previsão da inflação para 5% este ano",
-    "titulo_original": "Mercado financeiro reduz previsão da inflação para 5% este ano - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/09 10:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução na previsão de inflação pelo mercado financeiro pode indicar uma percepção de maior controle sobre os preços. Se essa tendência se confirmar, pode abrir espaço para o Banco Central considerar uma política monetária menos apertada em futuras decisões.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788873431.9668663,
-    "titulo": "Mercados hoje: tensão no Oriente Médio e dados de inflação estão no radar dos investidores",
-    "titulo_original": "Mercados hoje: tensão no Oriente Médio e dados de inflação estão no radar dos investidores - Bora Investir",
-    "fonte": "Google News Acoes",
-    "publicado": "08/09 09:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de fatores geopolíticos e dados econômicos como a inflação molda o comportamento dos mercados. Se a tensão no Oriente Médio impactar a oferta de petróleo, isso pode gerar pressões inflacionárias adicionais, influenciando decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788873459.1078823,
-    "titulo": "Ibovespa volta do feriado com eleição no radar; petróleo se aproxima de US$ 100 por barril",
-    "titulo_original": "Ibovespa volta do feriado com eleição no radar; petróleo se aproxima de US$ 100 por barril - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "08/09 06:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A combinação da proximidade das eleições com a alta do petróleo cria um cenário de incerteza para o mercado. Se os preços do petróleo continuarem a subir, isso pode pressionar a inflação e influenciar as decisões de política econômica, impactando o desempenho do Ibovespa.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788885970.2044127,
     "titulo": "Eleições 2026: como a disputa eleitoral afeta bolsa, juros e câmbio?",
     "titulo_original": "Eleições 2026: como a disputa eleitoral afeta bolsa, juros e câmbio?",
@@ -951,6 +882,90 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A forte queda nas ações da Tenda, uma empresa do segmento de baixa renda, pode indicar preocupações específicas do setor imobiliário ou da própria companhia. Se a queda persistir, isso pode afetar a confiança dos investidores em empresas do mesmo segmento e gerar um efeito cascata no Ibovespa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788985850.0873115,
+    "titulo": "Vale pode emitir ‘Panda Bonds’ na China ainda em 2026",
+    "titulo_original": "Vale pode emitir ‘Panda Bonds’ na China ainda em 2026",
+    "fonte": "InvestNews",
+    "publicado": "09/09 15:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A potencial emissão de Panda Bonds pela Vale na China, em paralelo aos esforços de captação do governo brasileiro, indica um movimento de busca por financiamento em mercados asiáticos. Se essa emissão se concretizar, pode representar uma diversificação das fontes de capital para a empresa e para o Brasil; a contrapartida seria a exposição a riscos cambiais e regulatórios do mercado chinês.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788985853.9996622,
+    "titulo": "Juros futuros têm forte alta em dia de pressão externa e realização de lucros",
+    "titulo_original": "Juros futuros têm forte alta em dia de pressão externa e realização de lucros",
+    "fonte": "Valor Economico",
+    "publicado": "09/09 17:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A forte alta nos juros futuros, influenciada por fatores externos como o petróleo e a recompra de Treasuries, sugere um cenário de maior volatilidade no curto prazo. Se a pressão externa se mantiver, o Banco Central pode ter seu espaço para cortes de juros mais agressivos limitado; caso contrário, a reversão para patamares mais baixos pode ser retomada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788985858.0857604,
+    "titulo": "Taxas dos DIs sobem em dia de realização de lucros e petróleo acima de US$100 - InfoMoney",
+    "titulo_original": "Taxas dos DIs sobem em dia de realização de lucros e petróleo acima de US$100 - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "09/09 16:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nas taxas dos DIs, associada à realização de lucros e à escalada do petróleo, sinaliza um ambiente de maior incerteza e aversão a risco. Se o cenário de petróleo elevado persistir, a pressão inflacionária pode aumentar, levando o Banco Central a manter uma postura mais restritiva; a reversão desse quadro dependerá de uma desaceleração nos conflitos geopolíticos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788985862.012102,
+    "titulo": "Plano de austeridade radical da Colômbia enfrenta caminho difícil no Congresso",
+    "titulo_original": "Plano de austeridade radical da Colômbia enfrenta caminho difícil no Congresso",
+    "fonte": "Valor Economico",
+    "publicado": "09/09 17:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A dificuldade na aprovação do plano de austeridade na Colômbia pode indicar um cenário de instabilidade fiscal e política. Se o plano não for aprovado em sua totalidade, o país pode enfrentar maior pressão sobre suas contas públicas; a negociação e possíveis concessões no Congresso determinarão o grau de impacto fiscal final.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788985866.8623612,
+    "titulo": "PF intima Galípolo, Campos Neto, Aquino e André Esteves a deporem no caso Master",
+    "titulo_original": "PF intima Galípolo, Campos Neto, Aquino e André Esteves a deporem no caso Master",
+    "fonte": "Valor Economico",
+    "publicado": "09/09 17:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A intimação de autoridades do Banco Central e de um banqueiro para depor na PF sobre o caso Master levanta questões sobre a integridade e a atuação de servidores públicos. Se as investigações revelarem irregularidades, isso pode abalar a confiança nas instituições financeiras e reguladoras; a transparência e a rigorosidade na apuração dos fatos serão determinantes para a percepção do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1788985866.8639789,
+    "titulo": "Calendário econômico e de eventos na Ásia Quinta-feira, 10 de setembro de 2026 ... m'eh",
+    "titulo_original": "Economic and event calendar in Asia Thursday, September 10, 2026 ... m'eh",
+    "fonte": "ForexLive",
+    "publicado": "09/09 17:25",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A ausência de dados econômicos relevantes na Ásia sugere que os mercados podem continuar focados em eventos externos, como os dados de inflação dos EUA. Se os números de inflação vierem acima do esperado, isso pode reforçar a postura mais cautelosa dos bancos centrais globais; se vierem em linha ou abaixo, pode abrir espaço para um tom mais dovish.",
     "is_stocks": true
   }
 ]
