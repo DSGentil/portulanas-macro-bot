@@ -1,270 +1,5 @@
 [
   {
-    "_timestamp": 1788805848.0310383,
-    "titulo": "Combater poluição e mudança climática pode elevar PIB global em 2,8% até 2035, diz ONU",
-    "titulo_original": "Combater poluição e mudança climática pode elevar PIB global em 2,8% até 2035, diz ONU",
-    "fonte": "Folha Mercado",
-    "publicado": "07/09 10:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A notícia apresenta uma projeção da ONU sobre o impacto positivo de ações ambientais no PIB global. Se tais ações forem implementadas e gerarem crescimento, isso pode ter reflexos em cenários econômicos globais. No entanto, a notícia não detalha mecanismos ou prazos específicos para a economia brasileira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788805853.3336523,
-    "titulo": "Mudança nas reservas globais para longe do dólar é superestimada, diz estudo do Fed de Nova York",
-    "titulo_original": "Mudança nas reservas globais para longe do dólar é superestimada, diz estudo do Fed de Nova York - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/09 11:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia apresenta a visão do Fed de Nova York sobre a alocação de reservas globais. Se a predominância do dólar se mantiver, isso pode influenciar a estabilidade cambial e as decisões de política monetária de outros países. A notícia não especifica o destino do capital, mas a discussão sobre reservas globais é explícita.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788805858.6820443,
-    "titulo": "Iene atinge maior valor em 6 meses contra o dólar; veja o que faz a moeda japonesa subir",
-    "titulo_original": "Iene atinge maior valor em 6 meses contra o dólar; veja o que faz a moeda japonesa subir - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/09 12:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A valorização do iene em relação ao dólar pode indicar uma mudança no fluxo de capital ou no sentimento de risco global. Se essa tendência se consolidar, pode afetar a competitividade de exportações e importações de diferentes economias. A notícia não especifica o destino do capital, mas a movimentação cambial é explícita.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788805863.8078856,
-    "titulo": "BC da China registra maior aumento nas reservas de ouro desde 2023, mesmo com alta dos preços",
-    "titulo_original": "BC da China registra maior aumento nas reservas de ouro desde 2023, mesmo com alta dos preços - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "07/09 11:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento das reservas de ouro pelo Banco Central da China pode indicar uma estratégia de diversificação de ativos ou uma busca por segurança em um cenário de incertezas. Se essa tendência se mantiver, pode influenciar a demanda global por ouro e, indiretamente, o comportamento de outras moedas e ativos. A notícia não especifica o destino do capital, mas a movimentação em reservas de ouro é explícita.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788805870.2243578,
-    "titulo": "Ações de mercados emergentes sobem ao nível mais alto desde junho",
-    "titulo_original": "Ações de mercados emergentes sobem ao nível mais alto desde junho",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 15:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta em mercados emergentes, impulsionada por otimismo em tecnologia, pode indicar um apetite a risco global. Se essa tendência se mantiver, pode haver um fluxo de capital para ativos de risco em outras economias. Contudo, a notícia menciona que a alta do petróleo atuou como contraponto, sugerindo que fatores de custo ainda podem pesar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788805870.2252107,
-    "titulo": "China retoma compras de petróleo e quadro ajuda Petrobras",
-    "titulo_original": "China retoma compras de petróleo e quadro ajuda Petrobras - InvestNews",
-    "fonte": "Google News Acoes",
-    "publicado": "07/09 14:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A retomada das compras de petróleo pela China pode indicar uma melhora na demanda global por commodities energéticas. Se essa demanda se sustentar, pode haver pressão positiva sobre os preços do petróleo, o que, por sua vez, pode impactar positivamente empresas como a Petrobras. A notícia não especifica o destino do capital, mas a conexão com commodities é explícita.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788813045.189696,
-    "titulo": "Empresariado e Faria Lima se mobilizam após crise do Judiciário",
-    "titulo_original": "Empresariado e Faria Lima se mobilizam após crise do Judiciário",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 16:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A mobilização do setor empresarial em torno da crise do Judiciário pode indicar preocupações com a estabilidade institucional e o ambiente de negócios no Brasil. Se o manifesto ganhar tração e gerar pressão pública, pode haver um debate sobre a independência e a atuação dos poderes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788813050.5747495,
-    "titulo": "Petróleo fecha em alta e volta a se aproximar de US$ 100 em pregão de menor liquidez",
-    "titulo_original": "Petróleo fecha em alta e volta a se aproximar de US$ 100 em pregão de menor liquidez",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 16:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões no Oriente Médio adiciona um prêmio de risco ao preço do petróleo, que pode se manter elevado enquanto o conflito persistir. Se os ataques se intensificarem ou afetarem a oferta, o Brent pode testar a marca de US$ 100, impactando custos de produção e transporte globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788813056.0237901,
-    "titulo": "Ataques israelenses no sul do Líbano deixam 12 mortos em meio a temores de escalada",
-    "titulo_original": "Ataques israelenses no sul do Líbano deixam 12 mortos em meio a temores de escalada",
-    "fonte": "Valor Economico",
-    "publicado": "07/09 12:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A intensificação dos ataques entre Israel e Líbano eleva o risco geopolítico na região, com potencial para afetar o fornecimento de energia e a estabilidade global. Se o conflito se expandir, pode haver um impacto nos preços de commodities e na confiança dos investidores internacionais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788813061.510159,
-    "titulo": "Petróleo encosta nos US$ 100 com novo fator de risco no Oriente Médio; entenda",
-    "titulo_original": "Petróleo encosta nos US$ 100 com novo fator de risco no Oriente Médio; entenda - Money Times",
-    "fonte": "Google News Commodities",
-    "publicado": "07/09 15:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento do preço do petróleo, impulsionado por tensões geopolíticas no Oriente Médio, pode gerar pressões inflacionárias globais e afetar os custos de produção e transporte. Se a instabilidade persistir, o Brent pode ultrapassar os US$ 100, impactando o cenário macroeconômico internacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788813067.425667,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/09 17:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento da cotação do dólar é fundamental para entender o comportamento do câmbio em tempo real. Se houver volatilidade significativa, isso pode indicar reações do mercado a notícias econômicas ou eventos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788818443.6650987,
-    "titulo": "Capturar o Estado é mais rentável?",
-    "titulo_original": "Capturar o Estado é mais rentável?",
-    "fonte": "Folha Mercado",
-    "publicado": "07/09 18:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O caso do Banco Master levanta preocupações sobre a governança corporativa e a supervisão regulatória no setor financeiro brasileiro. Se investigações futuras revelarem falhas sistêmicas, isso pode levar a um aperto regulatório mais rigoroso por parte do Banco Central.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788818447.717025,
-    "titulo": "Trump ameaça impedir Bombardier de vender aviões nos EUA se empresa canadense não passar a produzir no país",
-    "titulo_original": "Trump ameaça impedir Bombardier de vender aviões nos EUA se empresa canadense não passar a produzir no país - g1.globo.com",
-    "fonte": "Google News Geopolitica",
-    "publicado": "07/09 16:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração de Trump pode intensificar as tensões comerciais entre EUA e Canadá. Se a Bombardier não atender à exigência, isso pode impactar sua cadeia de suprimentos e vendas, abrindo espaço para concorrentes como a Embraer em segmentos específicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788818451.665358,
-    "titulo": "Canadá prepara retaliação às tarifas de Trump e arrisca ampliar guerra comercial",
-    "titulo_original": "Canadá prepara retaliação às tarifas de Trump e arrisca ampliar guerra comercial - O GLOBO",
-    "fonte": "Google News Geopolitica",
-    "publicado": "07/09 14:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A iminente retaliação do Canadá às tarifas dos EUA pode escalar a guerra comercial entre os países. Se as medidas se concretizarem, isso pode afetar cadeias de suprimentos e gerar incertezas para empresas que operam em ambos os mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788818455.6441486,
-    "titulo": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
-    "titulo_original": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
-    "fonte": "ForexLive",
-    "publicado": "07/09 16:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A expectativa de aumento de juros pelo BOJ tende a fortalecer o iene, o que pode pressionar o dólar. Se o BOJ de fato sinalizar uma política monetária mais restritiva, isso pode sustentar a valorização do iene e impactar fluxos de capital globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788818460.4051096,
-    "titulo": "Na escalada da disputa comercial entre EUA e Canadá, Embraer pode se beneficiar em jatos executivos",
-    "titulo_original": "Na escalada da disputa comercial entre EUA e Canadá, Embraer pode se beneficiar em jatos executivos",
-    "fonte": "InvestNews",
-    "publicado": "07/09 17:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A disputa comercial entre EUA e Canadá pode criar oportunidades para a Embraer, caso a Bombardier enfrente restrições de mercado. Se as tarifas e barreiras comerciais se intensificarem, a demanda por aeronaves de fabricantes não afetados diretamente pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788818460.4063148,
-    "titulo": "O ataque de Trump a concorrente da Embraer (EMBR3); ‘não são bons o suficiente’",
-    "titulo_original": "O ataque de Trump a concorrente da Embraer (EMBR3); ‘não são bons o suficiente’",
-    "fonte": "Money Times",
-    "publicado": "07/09 15:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "As críticas de Trump à Bombardier podem criar um ambiente favorável para a Embraer no mercado americano. Se as restrições comerciais se concretizarem, a empresa brasileira pode se beneficiar da disputa, aumentando sua participação no segmento de jatos executivos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788818460.4074175,
-    "titulo": "TGAR11 ou Selic a 14%: o que aconteceu nos últimos 12 meses?",
-    "titulo_original": "TGAR11 ou Selic a 14%: o que aconteceu nos últimos 12 meses? - - Fiis",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/09 15:10",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A comparação entre o desempenho de um fundo imobiliário e a taxa básica de juros é relevante para investidores de renda variável e fixa. Se a taxa Selic permanecer alta, fundos imobiliários com alta alavancagem ou dependentes de crédito podem enfrentar desafios.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788823885.2762837,
-    "titulo": "Coreia do Sul 2º Trimestre PIB, final, +0.6% (vs. esperado +0.6%, anterior +1.8%)",
-    "titulo_original": "South Korea Q2 GDP, final, +0.6% (vs. expected +0.6%, prior +1.8%)",
-    "fonte": "ForexLive",
-    "publicado": "07/09 20:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de PIB final da Coreia do Sul confirmou as expectativas, indicando uma desaceleração em relação ao trimestre anterior. Se os próximos indicadores de atividade econômica da região apresentarem sinais de fraqueza, isso pode sinalizar um cenário global com menor dinamismo, impactando a demanda por commodities e, consequentemente, ativos de risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788823889.3668623,
-    "titulo": "Dados BRC mostram impulso de varejo de verão desaparecendo rapidamente enquanto a libra observa sinais do consumidor",
-    "titulo_original": "BRC data shows summer retail boost fading fast as GBP watches consumer signals",
-    "fonte": "ForexLive",
-    "publicado": "07/09 20:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração no varejo do Reino Unido, evidenciada pelos dados BRC e Barclays, sugere que o consumidor está perdendo fôlego. Se essa tendência se confirmar, o Banco da Inglaterra pode ter menos justificativas para manter uma postura de juros altos por um período prolongado, o que poderia ser interpretado como um sinal de alívio inflacionário futuro. No entanto, um único mês de dados de consumo dificilmente alterará as expectativas de política monetária no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788823893.530334,
-    "titulo": "Moedas globais: dólar cai com força do iene em sessão limitada por feriado",
-    "titulo_original": "Moedas globais: dólar cai com força do iene em sessão limitada por feriado - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "07/09 18:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda do dólar frente ao iene, em um dia com menor volume de negociação, pode ser interpretada como um movimento técnico pontual, influenciado pela força da moeda japonesa. Se essa tendência de valorização do iene se mantiver em sessões com maior liquidez, pode indicar uma mudança no apetite por risco global, com investidores buscando ativos considerados mais seguros, o que, por sua vez, poderia impactar fluxos de capital para economias emergentes.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1788867053.4871957,
     "titulo": "STF decide que INSS pode definir teto de juros do consignado; entenda",
     "titulo_original": "STF decide que INSS pode definir teto de juros do consignado; entenda",
@@ -806,5 +541,75 @@
     "origem": "domestica",
     "leitura_critica": "A declaração da Embraer sobre o potencial aumento de 6,5% no custo de aeronaves devido ao Imposto Seletivo indica um impacto fiscal relevante para o setor. Se o imposto for implementado sem as isenções atuais, pode haver um desincentivo à compra de aeronaves no Brasil. A decisão final sobre a regulamentação definirá o alcance desse impacto.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1788953484.1543455,
+    "titulo": "Dólar vira aposta tática para as eleições; entenda o que está por trás da estratégia - Estadão",
+    "titulo_original": "Dólar vira aposta tática para as eleições; entenda o que está por trás da estratégia - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/09 05:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A utilização do dólar como aposta tática para as eleições sugere que investidores podem estar buscando proteção ou especulando sobre os resultados eleitorais. Se a volatilidade do dólar aumentar significativamente, isso pode indicar uma percepção de risco elevada no cenário político doméstico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788953488.0481443,
+    "titulo": "IPCA e serviços testarão cortes graduais da Selic pelo Copom - guaiba.com.br",
+    "titulo_original": "IPCA e serviços testarão cortes graduais da Selic pelo Copom - guaiba.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/09 07:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação dos dados de IPCA e serviços será determinante para a próxima decisão do Copom sobre a Selic. Se a inflação de serviços vier acima do esperado, isso pode sinalizar a necessidade de um ritmo mais lento nos cortes de juros; caso contrário, cortes mais acentuados podem ser considerados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788953492.051922,
+    "titulo": "Estatal PPSA está sem verba e há risco para contratos de petróleo da União, diz ministério ao TCU",
+    "titulo_original": "Estatal PPSA está sem verba e há risco para contratos de petróleo da União, diz ministério ao TCU",
+    "fonte": "Folha Mercado",
+    "publicado": "09/09 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A comunicação do Ministério de Minas e Energia ao TCU sobre a falta de verba da PPSA e o risco para contratos de petróleo da União representa uma potencial decisão regulatória com impacto fiscal. Se o TCU decidir de forma desfavorável à PPSA, isso pode afetar a arrecadação e a gestão de ativos de petróleo do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788953495.946256,
+    "titulo": "Manhã no mercado: Petróleo a US$ 100 impõe cautela, mas quadro eleitoral pode sustentar ativos locais",
+    "titulo_original": "Manhã no mercado: Petróleo a US$ 100 impõe cautela, mas quadro eleitoral pode sustentar ativos locais",
+    "fonte": "Valor Economico",
+    "publicado": "09/09 08:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A escalada do petróleo para acima de US$ 100 o barril eleva os temores sobre a inflação global, o que pode levar a uma postura mais cautelosa dos bancos centrais. No entanto, um cenário eleitoral doméstico mais incerto pode criar volatilidade nos ativos locais, com potencial para movimentos táticos de investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1788953499.8002515,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "09/09 03:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa de um aumento de 25 bps nos juros pelo BCE amanhã pode influenciar as decisões de política monetária em outras regiões. Se os dados de emprego ADP nos EUA vierem significativamente abaixo do esperado, isso pode reforçar a visão de que o Fed pode precisar manter uma política monetária mais acomodatícia.",
+    "is_stocks": false
   }
 ]
