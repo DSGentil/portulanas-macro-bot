@@ -888,5 +888,100 @@
     "origem": "ambas",
     "leitura_critica": "A alta nos juros futuros reflete a convergência de fatores externos que aumentam o risco inflacionário e a percepção de que o Banco Central pode precisar manter uma política monetária mais restritiva. Se os preços do petróleo continuarem a subir e o BCE mantiver o tom hawkish, os juros locais podem permanecer pressionados.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1789053353.1459644,
+    "titulo": "Fux dá 15 dias para governo Lula, Banco Central e FGC se manifestarem sobre socorro ao BRB",
+    "titulo_original": "Fux dá 15 dias para governo Lula, Banco Central e FGC se manifestarem sobre socorro ao BRB",
+    "fonte": "Folha Mercado",
+    "publicado": "10/09 11:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do ministro Fux de dar prazo para manifestação sobre o socorro ao BRB envolve potenciais garantias da União e a participação do Banco Central e FGC. Se a União for acionada como fiadora, isso pode ter implicações fiscais e de dívida pública. A decisão final sobre a concessão do socorro e suas condições será crucial para avaliar o impacto no sistema financeiro e nas contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789053357.9271836,
+    "titulo": "Dólar hoje acompanha exterior e opera em alta antes de leilões do BC",
+    "titulo_original": "Dólar hoje acompanha exterior e opera em alta antes de leilões do BC - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/09 09:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar, influenciada pelo exterior e pela expectativa dos leilões de câmbio do Banco Central, sugere uma busca por segurança em meio a incertezas globais. Se os leilões do BC visarem conter a volatilidade, isso pode trazer algum alívio; caso contrário, a tendência de alta do dólar pode persistir, refletindo um cenário de aversão ao risco e possíveis pressões sobre a política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789053362.616363,
+    "titulo": "Taxas dos DIs sobem com influência dos Treasuries e petróleo acima de US$ 105",
+    "titulo_original": "Taxas dos DIs sobem com influência dos Treasuries e petróleo acima de US$ 105 - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "10/09 10:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta nas taxas dos DIs, impulsionada pelos Treasuries e pelo petróleo acima de US$ 105, indica um cenário de juros mais elevados e potenciais pressões inflacionárias. Se os Treasuries continuarem a subir, isso pode levar a um aperto monetário global, o que, por sua vez, pode influenciar as decisões do Banco Central em relação à Selic e impactar a inflação doméstica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789053367.4761217,
+    "titulo": "Escassez de óleo para motores compromete geradores de hospitais e residências em Gaza",
+    "titulo_original": "Escassez de óleo para motores compromete geradores de hospitais e residências em Gaza",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 11:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A crise humanitária em Gaza, com a falta de suprimentos essenciais como óleo para motores, pode gerar instabilidade em regiões de conflito. Embora a notícia não aponte diretamente para um canal de análise macroeconômica, a escalada de tensões em áreas de instabilidade geopolítica pode, em cenários mais amplos, impactar o sentimento do mercado global e, consequentemente, o fluxo de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789053464.3957896,
+    "titulo": "Opep reduz de novo a previsão de crescimento da demanda de petróleo para 2026",
+    "titulo_original": "Opep reduz de novo a previsão de crescimento da demanda de petróleo para 2026",
+    "fonte": "Folha Mercado",
+    "publicado": "10/09 11:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A redução na previsão de crescimento da demanda de petróleo pela Opep indica uma perspectiva de menor consumo global. Se essa tendência se confirmar, pode haver pressão sobre os preços do petróleo, o que, por sua vez, pode afetar a inflação e a atividade econômica em países dependentes da commodity.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789053464.3975682,
+    "titulo": "Com possível revisão para baixo do IPCA, invista no ETF de prefixado LTNB11",
+    "titulo_original": "Com possível revisão para baixo do IPCA, invista no ETF de prefixado LTNB11",
+    "fonte": "Money Times",
+    "publicado": "10/09 12:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O novo subsídio governamental de R$ 7 bilhões por mês para impostos sobre combustíveis, após o anúncio de aumento de preços pela Petrobras, pode ter um impacto direto na inflação. Se o subsídio for suficiente para mitigar o aumento dos preços dos combustíveis, isso pode ajudar a conter a inflação; caso contrário, pode pressionar o IPCA para cima, influenciando as decisões de política monetária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789053464.3992743,
+    "titulo": "Estoques no atacado dos EUA +1,3% em linha com as expectativas",
+    "titulo_original": "US wholesale inventories +1.3% in line with expectations",
+    "fonte": "ForexLive",
+    "publicado": "10/09 11:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos estoques no atacado dos EUA, em linha com as expectativas, sugere uma antecipação de demanda futura por parte dos atacadistas. Se os estoques continuarem a crescer mais rapidamente do que as vendas, isso pode indicar um acúmulo de bens nos armazéns, o que, em um cenário de desaceleração econômica, poderia pressionar a produção e a atividade econômica.",
+    "is_stocks": true
   }
 ]
