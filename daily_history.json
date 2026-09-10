@@ -821,5 +821,72 @@
     "origem": "domestica",
     "leitura_critica": "A reversão do anúncio de aumento da gasolina pela Petrobras indica uma possível interferência externa ou uma reavaliação interna da política de preços. Essa instabilidade na comunicação pode gerar incertezas sobre a previsibilidade da política de preços da estatal e seu impacto na inflação de combustíveis.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789046166.1902857,
+    "titulo": "BC realiza ‘casadão’ e injeta US$ 1 bilhão no mercado à vista",
+    "titulo_original": "BC realiza ‘casadão’ e injeta US$ 1 bilhão no mercado à vista",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 10:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A operação visa a gestão da liquidez em dólar e do cupom cambial, sem impacto direto na taxa de câmbio. Se o cupom cambial apresentar volatilidade, o BC pode intervir novamente com instrumentos similares.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789046170.3656538,
+    "titulo": "Governo propõe primeiro leilão de gás pela PPSA em outubro",
+    "titulo_original": "Governo propõe primeiro leilão de gás pela PPSA em outubro",
+    "fonte": "Folha Mercado",
+    "publicado": "10/09 09:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de leilão de gás pela PPSA representa um passo na regulamentação do setor energético e pode ter implicações na oferta e precificação do gás natural. Se o leilão for bem-sucedido e atrair investimentos, pode impulsionar a indústria petroquímica e outros setores dependentes de gás.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789046174.3322473,
+    "titulo": "Saques da poupança superam depósitos em R$ 10,572 bilhões em agosto",
+    "titulo_original": "Saques da poupança superam depósitos em R$ 10,572 bilhões em agosto",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 09:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A saída líquida da poupança indica uma busca por investimentos com maior rentabilidade ou a necessidade de liquidez por parte dos poupadores, o que pode refletir um cenário de juros elevados ou incertezas econômicas. Se essa tendência se mantiver, pode impactar o fluxo de crédito imobiliário via SBPE.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789046178.3269253,
+    "titulo": "SPIC Brasil firma contrato para expandir hidrelétrica São Simão por R$ 1,4 bilhão",
+    "titulo_original": "SPIC Brasil firma contrato para expandir hidrelétrica São Simão por R$ 1,4 bilhão",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 09:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expansão da usina hidrelétrica São Simão, viabilizada por um leilão governamental, representa um investimento em infraestrutura energética com potencial de impacto na oferta de energia e na economia. Se o projeto for concluído dentro do prazo e orçamento, pode contribuir para a segurança energética do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789046182.296271,
+    "titulo": "Juros futuros sobem e se alinham ao exterior diante de avanço forte do petróleo",
+    "titulo_original": "Juros futuros sobem e se alinham ao exterior diante de avanço forte do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 09:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta nos juros futuros reflete a convergência de fatores externos que aumentam o risco inflacionário e a percepção de que o Banco Central pode precisar manter uma política monetária mais restritiva. Se os preços do petróleo continuarem a subir e o BCE mantiver o tom hawkish, os juros locais podem permanecer pressionados.",
+    "is_stocks": false
   }
 ]
