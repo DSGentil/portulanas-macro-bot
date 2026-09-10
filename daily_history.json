@@ -1,93 +1,5 @@
 [
   {
-    "_timestamp": 1788972372.9964454,
-    "titulo": "Crise no STF: entenda a sequência de decisões que elevou a tensão entre os ministros",
-    "titulo_original": "Crise no STF: entenda a sequência de decisões que elevou a tensão entre os ministros",
-    "fonte": "Valor Economico",
-    "publicado": "09/09 12:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A instabilidade institucional no STF pode gerar incertezas sobre o ambiente regulatório e a previsibilidade jurídica no Brasil. Se a crise persistir e impactar a confiança dos investidores nas instituições, isso poderia se refletir em maior volatilidade no mercado e potencial fuga de capital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788972377.758978,
-    "titulo": "Boletim Cambial (09/09): Euro e Dólar PTAX - trademap.com.br",
-    "titulo_original": "Boletim Cambial (09/09): Euro e Dólar PTAX - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/09 13:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O boletim cambial informa as cotações do Euro e Dólar PTAX, dados importantes para o acompanhamento do câmbio. A relevância reside na observação da tendência e volatilidade dessas moedas, que podem ser influenciadas por fatores domésticos e externos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788972382.9774196,
-    "titulo": "Dólar sobe a R$ 5,09 e Bolsa abre em baixa, com petróleo acima de US$ 100 - UOL Economia",
-    "titulo_original": "Dólar sobe a R$ 5,09 e Bolsa abre em baixa, com petróleo acima de US$ 100 - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/09 13:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar e a queda da bolsa, associadas à valorização do petróleo, indicam um cenário de aversão ao risco e potenciais pressões inflacionárias. Se o petróleo continuar em patamares elevados, isso pode pressionar o Banco Central a manter uma postura mais restritiva em relação aos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788972387.7626352,
-    "titulo": "Dólar hoje avança com exterior e crise no STF no foco - InfoMoney",
-    "titulo_original": "Dólar hoje avança com exterior e crise no STF no foco - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/09 11:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A valorização do dólar, influenciada por fatores externos e pela crise no STF, sugere um aumento da percepção de risco no Brasil. A instabilidade institucional pode afetar a confiança dos investidores e, consequentemente, o fluxo de capital para o país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788972414.6943421,
-    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Commodities",
-    "publicado": "09/09 11:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O acompanhamento em tempo real do preço do petróleo é crucial, pois sua volatilidade pode indicar mudanças no cenário geopolítico e ter impacto direto na inflação global. Se o preço continuar a subir, isso pode pressionar bancos centrais a manterem juros mais altos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788972414.6959362,
-    "titulo": "Petróleo supera US$ 100: até onde brent pode ir, segundo Goldman Sachs e JPMorgan - InfoMoney",
-    "titulo_original": "Petróleo supera US$ 100: até onde brent pode ir, segundo Goldman Sachs e JPMorgan - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "09/09 13:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A análise de bancos de investimento como Goldman Sachs e JPMorgan sobre a trajetória do petróleo Brent acima de US$ 100 reforça a expectativa de persistência de pressões inflacionárias. Se as projeções se confirmarem, o cenário de juros elevados pode se estender, impactando o custo do crédito e a atividade econômica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788972414.6974204,
-    "titulo": "Banco do Brasil atualiza valor por ação de JCP corrigido pela Selic; provento será pago nesta sexta-feira - ADVFN",
-    "titulo_original": "Banco do Brasil atualiza valor por ação de JCP corrigido pela Selic; provento será pago nesta sexta-feira - ADVFN",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/09 10:24",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre o pagamento de proventos do Banco do Brasil, com valor corrigido pela Selic. Embora mencione a taxa básica de juros, o foco principal é a distribuição de dividendos por uma empresa específica, com impacto limitado ao setor bancário e acionistas.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788978651.6804116,
     "titulo": "Fluxo cambial tem pior saída semanal em 2026, o que justifica ‘casadão’ do BC",
     "titulo_original": "Fluxo cambial tem pior saída semanal em 2026, o que justifica ‘casadão’ do BC",
@@ -1061,6 +973,70 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O crescimento do Pix Automático indica uma digitalização e eficiência crescente no sistema de pagamentos brasileiro. Embora não afete diretamente os canais de juros ou inflação, uma maior eficiência nas transações pode ter um impacto positivo na atividade econômica. A notícia é voltada para o setor financeiro e não para o mercado de WDO em si.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789083167.4914348,
+    "titulo": "A democracia vai às urnas nos EUA e em Israel; veja o que está em jogo",
+    "titulo_original": "A democracia vai às urnas nos EUA e em Israel; veja o que está em jogo - Estadão",
+    "fonte": "Google News Geopolitica",
+    "publicado": "10/09 18:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "As eleições nos EUA e em Israel podem ter repercussões significativas na política global e nas relações internacionais. Se os resultados eleitorais levarem a mudanças nas políticas governamentais, isso pode impactar os mercados financeiros, os fluxos de comércio e a estabilidade geopolítica, dependendo das agendas dos novos governos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789083172.0694025,
+    "titulo": "Tesouro americano recompra menos que o esperado em títulos e frustra ainda mais o mercado",
+    "titulo_original": "Tesouro americano recompra menos que esperado em títulos e frustra ainda mais o mercado",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 16:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A menor recompra de títulos pelo Tesouro americano pode indicar uma menor necessidade de liquidez ou uma estratégia de gestão da dívida que não visa reduzir imediatamente os rendimentos. Se essa tendência se mantiver, os juros de longo prazo nos EUA podem continuar pressionados para cima, o que, por sua vez, pode influenciar as taxas de juros globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789083176.4305623,
+    "titulo": "Petróleo salta 6% e Brent bate US$ 107 com aumento das hostilidades no Oriente Médio",
+    "titulo_original": "Petróleo salta 6% e brent bate US$ 107 com aumento das hostilidades no Oriente Médio - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "10/09 16:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tensões no Oriente Médio tem um impacto direto nos preços do petróleo, que por sua vez podem influenciar a inflação global e os custos de produção em diversos setores. Se as hostilidades se intensificarem, o preço do petróleo pode continuar a subir, gerando pressões inflacionárias adicionais e impactando a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789083180.7686167,
+    "titulo": "Petróleo dispara, fecha a US$ 107 e atinge maior nível desde maio",
+    "titulo_original": "Petróleo dispara, fecha a US$ 107 e atinge maior nível desde maio - G1",
+    "fonte": "Google News Commodities",
+    "publicado": "10/09 17:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta expressiva no preço do petróleo, atingindo um pico de vários meses, sugere um aumento na percepção de risco no mercado de energia. Se essa tendência de alta se mantiver, pode haver um impacto significativo nos custos de transporte e produção, potencialmente alimentando pressões inflacionárias e afetando o poder de compra dos consumidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789083206.0042586,
+    "titulo": "Crescimento da manufatura da Nova Zelândia desacelera em agosto, mas permanece acima da média de longo prazo",
+    "titulo_original": "NZ manufacturing growth slows in August but stays above long-term average",
+    "fonte": "ForexLive",
+    "publicado": "10/09 19:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração do crescimento manufatureiro, embora ainda positiva, pode ser um sinal para o Banco de Reserva da Nova Zelândia (RBNZ) em sua análise da atividade doméstica. Se o índice de emprego cair abaixo da marca de 50, isso indicaria perdas reais de empregos no setor, o que poderia influenciar futuras decisões de política monetária.",
     "is_stocks": true
   }
 ]
