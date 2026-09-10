@@ -983,5 +983,126 @@
     "origem": "externa",
     "leitura_critica": "O aumento dos estoques no atacado dos EUA, em linha com as expectativas, sugere uma antecipação de demanda futura por parte dos atacadistas. Se os estoques continuarem a crescer mais rapidamente do que as vendas, isso pode indicar um acúmulo de bens nos armazéns, o que, em um cenário de desaceleração econômica, poderia pressionar a produção e a atividade econômica.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789058749.388809,
+    "titulo": "Prefixados do Tesouro sobem pelo 2º dia com petróleo e caso Dark Horse no radar",
+    "titulo_original": "Prefixados do Tesouro sobem pelo 2º dia com petróleo e caso Dark Horse no radar - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "10/09 10:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta dos prefixados do Tesouro pode indicar uma expectativa de juros mais altos ou uma maior percepção de risco no mercado. Se o caso 'Dark Horse' gerar incertezas fiscais, isso pode pressionar os rendimentos de títulos públicos para cima.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789058754.6944005,
+    "titulo": "Às vésperas de Fed e Copom, BCE sobe juros na Europa citando petróleo caro",
+    "titulo_original": "Às vésperas de Fed e Copom, BCE sobe juros na Europa citando petróleo caro - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/09 13:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do BCE de subir juros, motivada pela inflação via petróleo, reforça a tendência global de aperto monetário. Isso pode influenciar as decisões do Fed e do Copom, que também enfrentam pressões inflacionárias, indicando um cenário de juros mais altos por mais tempo globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789058761.7027578,
+    "titulo": "Mercados europeus fecham com petróleo e rendimentos de títulos em alta enquanto decisão do BCE se aproxima",
+    "titulo_original": "investingLive European markets wrap: Oil and bond yields push higher as ECB decision looms",
+    "fonte": "ForexLive",
+    "publicado": "10/09 09:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo e o consequente aumento dos rendimentos de títulos indicam um cenário de inflação persistente, o que pode levar o BCE a adotar uma postura mais restritiva em sua decisão. Se o BCE sinalizar novas altas, isso pode pressionar ainda mais os mercados acionários europeus.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789058761.7044463,
+    "titulo": "Ibovespa passa a subir forte com noticiário político; dólar cai abaixo de R$ 5,10",
+    "titulo_original": "Ibovespa passa a subir forte com noticiário político; dólar cai abaixo de R$ 5,10 - Exame",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/09 13:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa e a queda do dólar sugerem um aumento da confiança do investidor doméstico, possivelmente influenciado por desenvolvimentos políticos. Se o cenário político se mantiver favorável, isso pode sustentar a valorização do mercado acionário brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789058761.7062058,
+    "titulo": "Ibovespa passa a subir com apoio de Petrobras (PETR4) e bancos, na contramão de NY",
+    "titulo_original": "Ibovespa passa a subir com apoio de Petrobras (PETR4) e bancos, na contramão de NY - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "10/09 09:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa, mesmo com mercados externos em queda, indica uma força específica do mercado brasileiro, impulsionada por setores chave como petróleo e financeiro. Se Petrobras e bancos continuarem a apresentar bom desempenho, isso pode sustentar o índice mesmo em um cenário global adverso.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789058761.7078438,
+    "titulo": "Bolsas caem na Europa com maior percepção de risco e tom mais duro do BCE",
+    "titulo_original": "Bolsas caem na Europa com maior percepção de risco e tom mais duro do BCE",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 13:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas europeias, combinada com o aumento dos juros pelo BCE, sinaliza um cenário de aversão ao risco e aperto monetário. Se o BCE mantiver um tom duro, isso pode continuar a pressionar os mercados acionários e aumentar a volatilidade global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789058761.7095068,
+    "titulo": "Ibovespa ignora cautela do exterior, inverte tendência e salta mais de 1% com eleições em foco",
+    "titulo_original": "Ibovespa ignora cautela do exterior, inverte tendência e salta mais de 1% com eleições em foco",
+    "fonte": "Money Times",
+    "publicado": "10/09 12:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa, descolada do exterior e impulsionada por notícias eleitorais, demonstra a sensibilidade do mercado brasileiro a fatores políticos internos. Se a pesquisa AtlasIntel indicar um cenário eleitoral mais estável ou favorável a determinados candidatos, isso pode sustentar a alta do índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789058761.7111657,
+    "titulo": "Correios formalizam pedido de novo empréstimo de R$ 7 bi com quatro bancos",
+    "titulo_original": "Correios formalizam pedido de novo empréstimo de R$ 7 bi com quatro bancos",
+    "fonte": "Folha Mercado",
+    "publicado": "10/09 13:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A necessidade de um empréstimo de R$ 7 bilhões pelos Correios, com custo elevado, pode indicar dificuldades financeiras da estatal. Se a garantia soberana for aprovada, isso representa um potencial ônus para o Tesouro Nacional; a alternativa seria a empresa arcar com custos de captação mais altos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789058761.7128341,
+    "titulo": "Petróleo em US$ 104: Petrobras (PETR4) poderia estar capturando ‘muito mais’ a alta da commodity, diz analista",
+    "titulo_original": "Petróleo em US$ 104: Petrobras (PETR4) poderia estar capturando ‘muito mais’ a alta da commodity, diz analista",
+    "fonte": "Money Times",
+    "publicado": "10/09 13:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A observação de que a Petrobras poderia capturar mais da alta do petróleo sugere uma potencial ineficiência na precificação ou na estratégia da empresa. Se a empresa ajustar sua política de preços, isso poderia impactar seus resultados e, consequentemente, o Ibovespa.",
+    "is_stocks": true
   }
 ]
