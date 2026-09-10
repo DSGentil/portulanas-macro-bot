@@ -1,75 +1,5 @@
 [
   {
-    "_timestamp": 1788953484.1543455,
-    "titulo": "Dólar vira aposta tática para as eleições; entenda o que está por trás da estratégia - Estadão",
-    "titulo_original": "Dólar vira aposta tática para as eleições; entenda o que está por trás da estratégia - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/09 05:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A utilização do dólar como aposta tática para as eleições sugere que investidores podem estar buscando proteção ou especulando sobre os resultados eleitorais. Se a volatilidade do dólar aumentar significativamente, isso pode indicar uma percepção de risco elevada no cenário político doméstico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788953488.0481443,
-    "titulo": "IPCA e serviços testarão cortes graduais da Selic pelo Copom - guaiba.com.br",
-    "titulo_original": "IPCA e serviços testarão cortes graduais da Selic pelo Copom - guaiba.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/09 07:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação dos dados de IPCA e serviços será determinante para a próxima decisão do Copom sobre a Selic. Se a inflação de serviços vier acima do esperado, isso pode sinalizar a necessidade de um ritmo mais lento nos cortes de juros; caso contrário, cortes mais acentuados podem ser considerados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788953492.051922,
-    "titulo": "Estatal PPSA está sem verba e há risco para contratos de petróleo da União, diz ministério ao TCU",
-    "titulo_original": "Estatal PPSA está sem verba e há risco para contratos de petróleo da União, diz ministério ao TCU",
-    "fonte": "Folha Mercado",
-    "publicado": "09/09 04:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A comunicação do Ministério de Minas e Energia ao TCU sobre a falta de verba da PPSA e o risco para contratos de petróleo da União representa uma potencial decisão regulatória com impacto fiscal. Se o TCU decidir de forma desfavorável à PPSA, isso pode afetar a arrecadação e a gestão de ativos de petróleo do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788953495.946256,
-    "titulo": "Manhã no mercado: Petróleo a US$ 100 impõe cautela, mas quadro eleitoral pode sustentar ativos locais",
-    "titulo_original": "Manhã no mercado: Petróleo a US$ 100 impõe cautela, mas quadro eleitoral pode sustentar ativos locais",
-    "fonte": "Valor Economico",
-    "publicado": "09/09 08:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A escalada do petróleo para acima de US$ 100 o barril eleva os temores sobre a inflação global, o que pode levar a uma postura mais cautelosa dos bancos centrais. No entanto, um cenário eleitoral doméstico mais incerto pode criar volatilidade nos ativos locais, com potencial para movimentos táticos de investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788953499.8002515,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "09/09 03:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A expectativa de um aumento de 25 bps nos juros pelo BCE amanhã pode influenciar as decisões de política monetária em outras regiões. Se os dados de emprego ADP nos EUA vierem significativamente abaixo do esperado, isso pode reforçar a visão de que o Fed pode precisar manter uma política monetária mais acomodatícia.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1788960064.6575205,
     "titulo": "El Niño aumenta incertezas sobre safra 2026/27 e impulsiona preços da soja em setembro",
     "titulo_original": "El Niño aumenta incertezas sobre safra 2026/27 e impulsiona preços da soja em setembro - Canal Rural",
@@ -1103,6 +1033,87 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A observação de que a Petrobras poderia capturar mais da alta do petróleo sugere uma potencial ineficiência na precificação ou na estratégia da empresa. Se a empresa ajustar sua política de preços, isso poderia impactar seus resultados e, consequentemente, o Ibovespa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789065159.0941226,
+    "titulo": "Buy side já aposta em até três cortes da Selic e deixa Focus para trás",
+    "titulo_original": "Buy side já aposta em até três cortes da Selic e deixa Focus para trás - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/09 14:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre as apostas do mercado e as projeções do Focus sugere que os investidores podem estar antecipando um cenário de inflação mais controlada ou uma desaceleração econômica mais acentuada. Se o Banco Central sinalizar um tom mais dovish nas próximas reuniões, essa aposta do mercado pode se confirmar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789065163.5204444,
+    "titulo": "Governo reduz tributos sobre gasolina e etanol para conter alta do petróleo",
+    "titulo_original": "Governo reduz tributos sobre gasolina e etanol para conter alta do petróleo - PT no Senado",
+    "fonte": "Google News Commodities",
+    "publicado": "10/09 15:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de reduzir tributos sobre combustíveis é uma medida fiscal que visa conter a inflação. Se essa redução for significativa, pode aliviar a pressão sobre os preços ao consumidor e impactar a arrecadação do governo. A eficácia da medida dependerá da magnitude da alta do petróleo e da extensão do corte de impostos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789065167.9462342,
+    "titulo": "Aposta em vitória de Flávio Bolsonaro ganha força e derruba busca por proteção em dólar",
+    "titulo_original": "Aposta em vitória de Flávio Bolsonaro ganha força e derruba busca por proteção em dólar - bloomberglinea.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/09 13:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de um cenário político doméstico mais favorável a um determinado candidato pode influenciar o comportamento do mercado de câmbio. Se a tendência de menor busca por dólar se mantiver, isso pode indicar uma maior confiança dos investidores no cenário econômico local.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789065172.3765094,
+    "titulo": "Poupança tem saque líquido de R$ 10,57 bilhões em agosto, diz BC",
+    "titulo_original": "Poupança tem saque líquido de R$ 10,57 bilhões em agosto, diz BC",
+    "fonte": "Folha Mercado",
+    "publicado": "10/09 11:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O volume de saques na poupança pode indicar uma busca por investimentos com maior rentabilidade ou uma necessidade de liquidez por parte dos poupadores. Se essa tendência se mantiver, pode sinalizar uma mudança no comportamento dos investidores de varejo e impactar a disponibilidade de recursos para crédito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789065187.6335452,
+    "titulo": "Tesouro dos EUA vende US$ 22 bilhões em títulos de 30 anos com alto rendimento de 5,308%",
+    "titulo_original": "US treasury sells $22 billion of 30 year bonds at a high yield of 5.308%",
+    "fonte": "ForexLive",
+    "publicado": "10/09 14:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta demanda internacional por títulos do Tesouro dos EUA, especialmente em um momento de rendimentos elevados, pode indicar um fluxo de capital para a renda fixa americana. A baixa participação dos dealers pode sugerir uma menor aversão ao risco por parte de outros participantes do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789065187.6347437,
+    "titulo": "El Niño pode apertar balanço de soja e milho e trazer alta nos preços na safra 2026/2027, diz XP",
+    "titulo_original": "El Niño pode apertar balanço de soja e milho e trazer alta nos preços na safra 2026/2027, diz XP - AgFeed",
+    "fonte": "Google News Commodities",
+    "publicado": "10/09 14:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O impacto do El Niño na produção agrícola pode gerar pressões inflacionárias em commodities essenciais. Se as previsões se confirmarem e a oferta for reduzida, os preços da soja e do milho tendem a subir, afetando cadeias produtivas e o custo de alimentos.",
     "is_stocks": true
   }
 ]
