@@ -1,133 +1,5 @@
 [
   {
-    "_timestamp": 1788966965.416639,
-    "titulo": "Acompanhe a cotação do dólar nesta quarta-feira (9) - Folha de S.Paulo",
-    "titulo_original": "Acompanhe a cotação do dólar nesta quarta-feira (9) - Folha de S.Paulo",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/09 09:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento da cotação do dólar é um indicador de mercado. Se houver volatilidade significativa, pode indicar reações a eventos macroeconômicos ou fluxos de capital. A notícia em si é um chamado para acompanhar, sem apresentar um fato concreto de impacto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788966970.940373,
-    "titulo": "Alegria durou pouco? Taxas do Tesouro têm forte alta após petróleo bater US$ 100",
-    "titulo_original": "Alegria durou pouco? Taxas do Tesouro têm forte alta após petróleo bater US$ 100 - infomoney.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "09/09 10:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo para US$ 100 pode pressionar a inflação global, levando a uma expectativa de juros mais altos por parte dos bancos centrais. Se essa tendência de alta nas taxas do Tesouro se mantiver, pode impactar o custo de capital e o apetite por risco em diversos mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788966976.8565145,
-    "titulo": "Trump celebra vitória da extrema direita na Alemanha, e ligação com Merz é adiada - Folha de S.Paulo",
-    "titulo_original": "Trump celebra vitória da extrema direita na Alemanha, e ligação com Merz é adiada - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "09/09 09:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A celebração de Trump e o adiamento de uma ligação com Merz indicam um cenário político europeu em ebulição. Se essa tendência de fortalecimento da extrema direita se consolidar, pode haver reconfigurações nas políticas econômicas e comerciais da região, impactando fluxos de capital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788966982.2478175,
-    "titulo": "Sobrevivente do Holocausto se diz ‘chocada’ com vitória da ultradireita em Estado da Alemanha",
-    "titulo_original": "Sobrevivente do Holocausto se diz ‘chocada’ com vitória da ultradireita em Estado da Alemanha",
-    "fonte": "Valor Economico",
-    "publicado": "09/09 11:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A ascensão da ultradireita na Alemanha, evidenciada pela vitória em Saxônia-Anhalt, pode gerar incertezas políticas e econômicas na Europa. Se essa tendência se expandir, pode haver impactos no apetite por risco global e nas relações comerciais da União Europeia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788967016.387908,
-    "titulo": "Inflação na China acelera em agosto impulsionada por custos de energia",
-    "titulo_original": "Inflação na China acelera em agosto impulsionada por custos de energia",
-    "fonte": "Folha Mercado",
-    "publicado": "09/09 09:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A aceleração da inflação na China, especialmente por custos de energia, pode pressionar as políticas monetárias do país e ter reflexos globais em commodities. Se essa tendência inflacionária persistir, pode levar a um aperto monetário chinês, afetando a demanda global por bens e serviços.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788967016.3892543,
-    "titulo": "Gringo volta à B3 após pior mês desde 2020 e 3 fatores ajudam o movimento, segundo a XP",
-    "titulo_original": "Gringo volta à B3 após pior mês desde 2020 e 3 fatores ajudam o movimento, segundo a XP",
-    "fonte": "Money Times",
-    "publicado": "09/09 11:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A retirada de capital estrangeiro em agosto, a maior desde março de 2020, indica uma aversão ao risco no mercado brasileiro. Se os fatores que impulsionaram essa saída persistirem, como a retomada global do interesse em IA ou resultados corporativos fracos, o fluxo de capital para o Brasil pode continuar restrito.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788967016.3905237,
-    "titulo": "Amazon pode captar quase US$ 6 bilhões em 1ª emissão de títulos em libras esterlinas",
-    "titulo_original": "Amazon pode captar quase US$ 6 bilhões em 1ª emissão de títulos em libras esterlinas",
-    "fonte": "Valor Economico",
-    "publicado": "09/09 11:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A emissão de títulos da Amazon em libras esterlinas, no valor de US$ 5,8 bilhões, representa um movimento significativo de captação de recursos no mercado internacional. Se essa operação for bem-sucedida, pode indicar apetite por dívida corporativa em moedas fortes, com potenciais reflexos em outros mercados de capitais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788967016.3917594,
-    "titulo": "Equatorial (EQTL3) e Energisa (ENGI11): Apenas uma é compra para o Bradesco BBI; veja",
-    "titulo_original": "Equatorial (EQTL3) e Energisa (ENGI11): Apenas uma é compra para o Bradesco BBI; veja",
-    "fonte": "Money Times",
-    "publicado": "09/09 12:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A análise do Bradesco BBI sobre as ações de energia elétrica pode influenciar o desempenho desses papéis no curto prazo. Se as projeções de maiores volumes vendidos se confirmarem, isso pode sustentar a performance das empresas; caso contrário, a recomendação pode ser revista.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788967016.3929992,
-    "titulo": "SLC Agrícola (SLCE3) vira top pick do JP Morgan e lidera altas da B3; para analistas, agro se aproxima do fim da crise",
-    "titulo_original": "SLC Agrícola (SLCE3) vira top pick do JP Morgan e lidera altas da B3; para analistas, agro se aproxima do fim da crise",
-    "fonte": "Money Times",
-    "publicado": "09/09 12:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A elevação da recomendação do JP Morgan para a SLC Agrícola pode impulsionar o desempenho das ações da empresa. Se a percepção de que o setor de agronegócio está saindo de uma crise se confirmar, isso pode atrair mais capital para o setor na B3.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788967016.3942807,
-    "titulo": "Ação da PetroReconcavo (RECV3) zera perdas em 2026 com petróleo e dados operacionais",
-    "titulo_original": "Ação da PetroReconcavo (RECV3) zera perdas em 2026 com petróleo e dados operacionais",
-    "fonte": "Money Times",
-    "publicado": "09/09 11:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recuperação das ações da PetroReconcavo, zerando perdas em 2026, é influenciada positivamente pelo preço do petróleo e por seus dados operacionais. Se o preço do petróleo se mantiver em patamares elevados e os resultados operacionais continuarem favoráveis, o desempenho da ação pode ser sustentado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788972372.9964454,
     "titulo": "Crise no STF: entenda a sequência de decisões que elevou a tensão entre os ministros",
     "titulo_original": "Crise no STF: entenda a sequência de decisões que elevou a tensão entre os ministros",
@@ -1078,6 +950,117 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O acompanhamento em tempo real da cotação do dólar permite identificar movimentos de curto prazo e volatilidade. Se houver oscilações bruscas, isso pode indicar reações a notícias específicas ou mudanças no sentimento do mercado. A análise contínua da cotação é essencial para quem opera com câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789077648.8462605,
+    "titulo": "IPCA deve registrar deflação em agosto, mas alívio pode ser temporário; veja o que esperar",
+    "titulo_original": "IPCA deve registrar deflação em agosto, mas alívio pode ser temporário; veja o que esperar",
+    "fonte": "Money Times",
+    "publicado": "10/09 18:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Uma deflação pontual no IPCA pode trazer alívio no curto prazo, mas a persistência da inflação de serviços e a perspectiva de alta nos alimentos sugerem que o Banco Central pode manter cautela em suas decisões futuras de política monetária. Se os preços de alimentos e serviços continuarem a pressionar o índice, o Copom pode ter que adiar cortes de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789077653.002153,
+    "titulo": "Expectativa para a próxima reunião do Copom - Monitor Mercantil",
+    "titulo_original": "Expectativa para a próxima reunião do Copom - Monitor Mercantil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/09 17:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa para a próxima reunião do Copom é um indicador importante para o mercado. Se a expectativa geral for de manutenção da taxa Selic, o mercado reagirá de forma diferente do que se houver uma expectativa de corte. A divulgação de dados econômicos relevantes antes da reunião pode influenciar significativamente essa expectativa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789077656.9959376,
+    "titulo": "Keynes e o Copom - CartaCapital",
+    "titulo_original": "Keynes e o Copom - CartaCapital",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/09 18:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A conexão entre as teorias keynesianas e a política monetária do Copom pode oferecer uma perspectiva teórica sobre as decisões de juros. Se a análise sugerir que as ações do Copom estão alinhadas ou divergentes de princípios keynesianos que visam estabilizar a economia, isso pode influenciar a interpretação do mercado sobre a condução da política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789077660.941818,
+    "titulo": "Bitcoin cai para US$ 77,1 mil com dados de PPI impulsionando apostas de alta de juros do Fed, preços do petróleo disparam",
+    "titulo_original": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
+    "fonte": "Investing.com",
+    "publicado": "10/09 18:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nas apostas de elevação de juros pelo Fed, impulsionada pelo PPI, pode pressionar ativos de risco como o Bitcoin. Se os próximos dados de inflação nos EUA continuarem elevados, o Fed pode manter uma postura mais restritiva por mais tempo, o que tenderia a sustentar a queda do Bitcoin e a valorização do dólar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789077686.484375,
+    "titulo": "Ibovespa B3 sobe 1,42% e vai aos 188 mil pontos, com Petrobras e eleições no radar; dólar cai a R$ 5,10",
+    "titulo_original": "Ibovespa B3 sobe 1,42% e vai aos 188 mil pontos, com Petrobras e eleições no radar; dólar cai a R$ 5,10 - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/09 17:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa e a queda do dólar podem ser influenciadas por diversos fatores, incluindo o desempenho da Petrobras e o cenário eleitoral. Se a percepção de risco político diminuir ou se houver expectativas de políticas econômicas favoráveis, isso pode atrair capital estrangeiro e impulsionar a bolsa. A queda do dólar pode indicar um fluxo de entrada de capital ou uma menor demanda por proteção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789077686.4859571,
+    "titulo": "Bolsas de NY caem com disparada do petróleo e dos juros dos Treasuries",
+    "titulo_original": "Bolsas de NY caem com disparada do petróleo e dos juros dos Treasuries",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 17:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas de Nova York, motivada pela alta do petróleo e dos juros dos Treasuries, reflete um cenário de preocupações inflacionárias e aperto monetário nos EUA. Se o PPI continuar a indicar pressões inflacionárias, o Federal Reserve pode adiar ou reduzir cortes de juros, o que tenderia a manter as bolsas sob pressão e o dólar fortalecido.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789077686.4875357,
+    "titulo": "Promessa de ‘dividendo Trump’, de US$ 5 mil, atrai ceticismo de republicanos",
+    "titulo_original": "Promessa de ‘dividendo Trump’, de US$ 5 mil, atrai ceticismo de republicanos",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 17:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A promessa de Trump, se implementada, pode ter implicações fiscais e inflacionárias significativas. Se os republicanos mantiverem a maioria e a promessa for levada adiante, isso pode pressionar o déficit público e a inflação nos EUA. A reação cética dos republicanos indica que a concretização dessa promessa pode enfrentar obstáculos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789077686.4890537,
+    "titulo": "Itaú vê crescimento do Pix Automático e projeta forte expansão da modalidade",
+    "titulo_original": "Itaú vê crescimento do Pix Automático e projeta forte expansão da modalidade",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 17:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento do Pix Automático indica uma digitalização e eficiência crescente no sistema de pagamentos brasileiro. Embora não afete diretamente os canais de juros ou inflação, uma maior eficiência nas transações pode ter um impacto positivo na atividade econômica. A notícia é voltada para o setor financeiro e não para o mercado de WDO em si.",
     "is_stocks": true
   }
 ]
