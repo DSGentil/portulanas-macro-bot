@@ -1,301 +1,5 @@
 [
   {
-    "_timestamp": 1788892256.6274877,
-    "titulo": "Boletim Focus reduz novamente previsão da inflação para 2026",
-    "titulo_original": "Boletim Focus reduz novamente previsão da inflação para 2026 - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/09 12:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução na projeção de inflação no Boletim Focus é um indicativo de que o mercado antecipa um cenário de preços mais controlado. Se essa tendência de queda nas expectativas inflacionárias se confirmar, isso pode abrir espaço para uma política monetária mais flexível no futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788892260.8161826,
-    "titulo": "PIB mais fraco e Selic menor mudam o jogo para ações financeiras; veja as preferidas do BofA - Estadão",
-    "titulo_original": "PIB mais fraco e Selic menor mudam o jogo para ações financeiras; veja as preferidas do BofA - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/09 15:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A combinação de um PIB mais fraco com uma Selic em queda pode favorecer ações de setores mais sensíveis à taxa de juros. Se a política monetária continuar a se tornar mais flexível, isso pode impulsionar o setor financeiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788892265.0640192,
-    "titulo": "Bolsa sobe 2% e passa dos 188 mil pontos; dólar recua",
-    "titulo_original": "Bolsa sobe 2% e passa dos 188 mil pontos; dólar recua - Poder360",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/09 12:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta da bolsa e a queda do dólar em um mesmo dia podem indicar um aumento na confiança dos investidores no cenário doméstico. Se essa tendência se mantiver, pode sinalizar um fluxo de capital mais favorável ao mercado brasileiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788892269.3209238,
-    "titulo": "U.S. Treasury sells $58 billion of 3 or notes at a high yield of 4.474%",
-    "titulo_original": "U.S. Treasury sells $58 billion of 3 or notes at a high yield of 4.474%",
-    "fonte": "ForexLive",
-    "publicado": "08/09 14:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A venda de títulos do Tesouro dos EUA com um rendimento específico pode influenciar as expectativas sobre a política monetária do Federal Reserve. Se os rendimentos continuarem a subir, isso pode indicar que o mercado antecipa juros mais altos por mais tempo; se caírem, pode sinalizar uma expectativa de corte de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788892344.2891433,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com eleição e Focus no radar - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com eleição e Focus no radar - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "08/09 12:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A movimentação do Ibovespa, especialmente em dias de divulgação de dados econômicos ou eventos políticos, pode refletir a percepção do mercado sobre o futuro cenário econômico. Se os resultados eleitorais forem vistos como favoráveis à estabilidade, isso pode sustentar a alta da bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788892344.290585,
-    "titulo": "Com perda de espaço da inteligência artificial, Brasil volta a ser compra para o BofA: O que mais mudou?",
-    "titulo_original": "Com perda de espaço da inteligência artificial, Brasil volta a ser compra para o BofA: O que mais mudou?",
-    "fonte": "Money Times",
-    "publicado": "08/09 15:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A mudança na recomendação do BofA para ações brasileiras, de neutra para compra, sugere uma visão mais otimista sobre o cenário econômico doméstico. Se a inflação continuar a ceder e o ciclo de corte de juros se aprofundar, isso pode sustentar um desempenho positivo do mercado acionário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788899442.8333244,
-    "titulo": "Petróleo avança ao maior nível desde junho com espraiamento da guerra no Golfo",
-    "titulo_original": "Petróleo avança ao maior nível desde junho com espraiamento da guerra no Golfo",
-    "fonte": "Valor Economico",
-    "publicado": "08/09 16:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento dos preços do petróleo, impulsionado por tensões geopolíticas no Golfo Pérsico, pode pressionar a inflação global e afetar os custos de energia. Se o conflito se intensificar e houver interrupções significativas no fornecimento, os preços podem continuar subindo, impactando a atividade econômica mundial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788899448.0990827,
-    "titulo": "Calendário econômico e de eventos na Ásia Quarta-feira, 9 de setembro de 2026 - Dados de inflação da China",
-    "titulo_original": "Economic and event calendar in Asia Wednesday, September 9, 2026 - China inflation data",
-    "fonte": "ForexLive",
-    "publicado": "08/09 17:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A divulgação dos dados de inflação da China é um indicador importante para a economia global. Se a inflação vier acima do esperado, isso pode sinalizar pressões de demanda ou custos que podem afetar cadeias de suprimentos e preços de commodities. Se a demanda interna continuar fraca, isso pode impactar o crescimento chinês e, por extensão, a economia mundial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788899453.6609876,
-    "titulo": "Várias explosões ouvidas na Ilha Kharg - relatório",
-    "titulo_original": "Several explosions heard on Kharg Island - report",
-    "fonte": "ForexLive",
-    "publicado": "08/09 15:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Explosões na Ilha Kharg, um ponto crucial para a exportação de petróleo iraniano, e relatos de ataques americanos a petroleiros aumentam o risco de interrupção do fornecimento de petróleo. Se houver um impacto significativo na produção ou exportação iraniana, isso poderá levar a um aumento acentuado nos preços do petróleo e a uma maior volatilidade no mercado energético global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788899458.9779797,
-    "titulo": "Calor e El Niño afetam preços globais da alimentação, aponta FAO",
-    "titulo_original": "Calor e El Niño afetam preços globais da alimentação, aponta FAO",
-    "fonte": "Folha Mercado",
-    "publicado": "08/09 15:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento nos preços globais dos alimentos, atribuído a fatores climáticos como o El Niño e a eventos geopolíticos, contribui para pressões inflacionárias. Se esses fatores persistirem, o custo dos alimentos pode continuar a subir, impactando o poder de compra dos consumidores e a inflação geral em diversas economias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788899464.35386,
-    "titulo": "Petróleo fecha em alta após encostar em US$ 100 o barril",
-    "titulo_original": "Petróleo fecha em alta após encostar em US$ 100 o barril",
-    "fonte": "Money Times",
-    "publicado": "08/09 17:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo, com o Brent testando US$ 100 o barril, reflete a crescente tensão geopolítica no Oriente Médio e potenciais interrupções no fornecimento. Se os ataques e as incertezas sobre a oferta se mantiverem, os preços podem continuar a subir, exercendo pressão sobre a inflação global e os custos de produção em diversos setores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788904855.0354962,
-    "titulo": "Juros futuros recuam com eleições em foco",
-    "titulo_original": "Juros futuros recuam com eleições em foco",
-    "fonte": "Money Times",
-    "publicado": "08/09 18:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nos juros futuros brasileiros, impulsionada pelo cenário eleitoral, sugere que o mercado precifica uma maior probabilidade de um governo com políticas fiscais mais flexíveis. Se o resultado eleitoral confirmar essa percepção, a curva de juros pode continuar a cair; se houver surpresas, pode haver reversão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788904860.5133314,
-    "titulo": "Juros futuros têm forte queda de olho em eleição presidencial acirrada",
-    "titulo_original": "Juros futuros têm forte queda de olho em eleição presidencial acirrada",
-    "fonte": "Valor Economico",
-    "publicado": "08/09 17:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda nos juros futuros, associada à percepção de uma eleição presidencial acirrada e potencial vitória da oposição, indica que o mercado precifica um cenário de maior risco fiscal ou de políticas econômicas distintas. Se o resultado eleitoral confirmar essa expectativa, a curva de juros pode continuar a se achatar; caso contrário, pode haver reversão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788904866.087985,
-    "titulo": "Expectativas de inflação para daqui a um ano ficam estáveis nos EUA em agosto, mostra Fed/NY - valor.globo.com",
-    "titulo_original": "Expectativas de inflação para daqui a um ano ficam estáveis nos EUA em agosto, mostra Fed/NY - valor.globo.com",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/09 13:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A estabilidade nas expectativas de inflação nos EUA em agosto pode sinalizar que o mercado percebe um controle sobre a alta de preços no médio prazo. Se essa estabilidade se mantiver e os dados de inflação confirmarem, isso pode abrir espaço para o Fed considerar cortes de juros, impactando mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788904871.5705328,
-    "titulo": "Bitcoin cai quase 1% com apostas em alta de juros do Fed ainda elevadas, preços do petróleo sobem",
-    "titulo_original": "Bitcoin falls nearly 1% as Fed rate hike bets remain elevated, oil prices rise",
-    "fonte": "Investing.com",
-    "publicado": "08/09 17:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A persistência de apostas em altas de juros pelo Fed sugere que o mercado ainda precifica um cenário de aperto monetário nos EUA. Se o Fed sinalizar uma pausa ou corte em suas próximas reuniões, isso pode impulsionar o Bitcoin. Caso contrário, a pressão de baixa sobre criptoativos pode continuar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788904878.0003283,
-    "titulo": "Resumo de notícias de FX das Américas da investingLive em 8 de setembro: USD misto, rendimentos sobem. Traders aguardam dados de inflação.",
-    "titulo_original": "investingLive Americas FX news wrap 8 Sept: USD mixed, yields rise. Trader await inflation data.",
-    "fonte": "ForexLive",
-    "publicado": "08/09 17:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A expectativa por dados de inflação nos EUA é o principal fator de atenção, pois pode influenciar as decisões futuras do Fed sobre juros. Se os dados de inflação vierem acima do esperado, isso pode sustentar a alta dos rendimentos e pressionar o dólar. Caso contrário, uma inflação mais baixa pode levar a uma reversão desses movimentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788910246.6613102,
-    "titulo": "BC anuncia ‘casadão’ para quinta-feira com oferta total de US$ 1 bilhão",
-    "titulo_original": "BC anuncia ‘casadão’ para quinta-feira com oferta total de US$ 1 bilhão",
-    "fonte": "Valor Economico",
-    "publicado": "08/09 19:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A operação de swap reverso visa gerenciar a liquidez e o cupom cambial, sem alterar a cotação do dólar. Se a demanda por dólares no mercado futuro for significativamente maior que a oferta, o BC pode precisar intervir com mais força. A ausência de impacto direto no câmbio sugere um foco em estabilidade de taxas de juros em dólar no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788910251.034337,
-    "titulo": "Dólar cai a R$5,08, com avanço de Flávio Bolsonaro em pesquisas eleitorais",
-    "titulo_original": "Dólar cai a R$5,08, com avanço de Flávio Bolsonaro em pesquisas eleitorais - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/09 17:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar para R$5,08, associada ao avanço de Flávio Bolsonaro em pesquisas eleitorais, sugere que o mercado pode estar reagindo a um cenário político percebido como mais favorável. Se a tendência de avanço se confirmar, o dólar pode continuar em trajetória de queda. Caso contrário, a moeda pode voltar a se valorizar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788910255.4018059,
-    "titulo": "Dólar recua e real é uma das moedas mais fortes do dia com eleições no radar",
-    "titulo_original": "Dólar recua e real é uma das moedas mais fortes do dia com eleições no radar - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/09 17:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do real e a consequente queda do dólar, em meio ao cenário eleitoral, sugerem que o mercado pode estar precificando um resultado político específico. Se as expectativas eleitorais se confirmarem, o real pode manter sua força; caso contrário, a moeda pode sofrer volatilidade. A notícia aponta para uma influência política direta na cotação do câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788910259.7999833,
-    "titulo": "BC do Chile mantém taxa de juros de referência em 4,50% ao ano",
-    "titulo_original": "BC do Chile mantém taxa de juros de referência em 4,50% ao ano",
-    "fonte": "Valor Economico",
-    "publicado": "08/09 18:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A manutenção da taxa de juros pelo BC do Chile, em um cenário de incertezas globais e fraqueza doméstica, pode indicar um viés conservador na política monetária da região. Se os riscos macroeconômicos se intensificarem, o BC chileno pode adiar cortes futuros; caso contrário, a melhora na atividade pode abrir espaço para flexibilização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1788910264.9896584,
-    "titulo": "Humor da fábrica japonesa atinge pico de quase 5 anos com demanda de chips impulsionando Reuters Tankan",
-    "titulo_original": "Japan factory mood hits near 5-year high as chip demand lifts Reuters Tankan",
-    "fonte": "ForexLive",
-    "publicado": "08/09 20:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O otimismo na indústria japonesa, impulsionado pela demanda de chips, pode ser um indicador de recuperação econômica na Ásia. Se essa tendência se mantiver, pode haver um impacto positivo nas exportações japonesas e, consequentemente, na demanda global por componentes. A leitura também pode influenciar as decisões futuras do Banco do Japão sobre normalização de política monetária.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1788910264.9910517,
-    "titulo": "Embraer (EMBJ3): Proposta de Imposto Seletivo pode elevar em 6,5% custo de aquisição de aeronaves",
-    "titulo_original": "Embraer (EMBJ3): Proposta de Imposto Seletivo pode elevar em 6,5% custo de aquisição de aeronaves",
-    "fonte": "Money Times",
-    "publicado": "08/09 19:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da Embraer sobre o potencial aumento de 6,5% no custo de aeronaves devido ao Imposto Seletivo indica um impacto fiscal relevante para o setor. Se o imposto for implementado sem as isenções atuais, pode haver um desincentivo à compra de aeronaves no Brasil. A decisão final sobre a regulamentação definirá o alcance desse impacto.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1788953484.1543455,
     "titulo": "Dólar vira aposta tática para as eleições; entenda o que está por trás da estratégia - Estadão",
     "titulo_original": "Dólar vira aposta tática para as eleições; entenda o que está por trás da estratégia - Estadão",
@@ -1001,6 +705,121 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A elevação do rating da Embraer pela Fitch indica uma melhora na percepção de risco da empresa por agências de classificação. Isso pode facilitar o acesso da companhia a financiamentos mais baratos no futuro, mas o impacto direto nos canais macroeconômicos listados é limitado, a menos que a notícia detalhe efeitos setoriais ou de fluxo de capital mais amplos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789039859.184896,
+    "titulo": "IGP-M sobe 0,93% na primeira prévia de setembro, informa FGV",
+    "titulo_original": "IGP-M sobe 0,93% na primeira prévia de setembro, informa FGV",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 08:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aceleração do IGP-M, especialmente no componente de preços ao produtor, indica uma pressão inflacionária crescente na economia brasileira. Se essa tendência se mantiver, pode pressionar o Banco Central a manter uma postura mais cautelosa em relação aos juros. Acompanhar a evolução do IPC será crucial para entender o impacto no consumidor final.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789039864.145667,
+    "titulo": "Petróleo está impulsionando a alta nos rendimentos de longo prazo; todo o resto é apenas ruído",
+    "titulo_original": "Oil is driving the rise in long-term yields; Everything else is just noise",
+    "fonte": "ForexLive",
+    "publicado": "10/09 08:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A escalada do preço do petróleo, ligada ao conflito no Irã, está diretamente impactando os rendimentos de títulos de longo prazo ao alimentar expectativas inflacionárias. Se o preço do petróleo continuar a subir, isso pode forçar os bancos centrais a manterem uma postura mais restritiva em relação aos juros, afetando o custo do crédito globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789039869.1112425,
+    "titulo": "Fed se aproxima de decisão dividido e com foco em CPI",
+    "titulo_original": "Fed se aproxima de decisão dividido e com foco em CPI - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/09 05:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A divisão no Fed em relação à próxima decisão de política monetária, com foco no CPI, sugere incertezas sobre o futuro da inflação nos EUA. Se o CPI vier acima do esperado, a pressão por juros mais altos pode aumentar, impactando os mercados globais. Caso contrário, uma leitura mais branda pode abrir espaço para discussões sobre cortes de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789039874.0393198,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "10/09 03:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão de juros do BCE é um evento chave para o mercado europeu e global, com expectativas de um aperto monetário adicional. Se o BCE sinalizar um tom mais hawkish do que o esperado, isso pode fortalecer o euro, mas a atenção se volta para os dados de inflação dos EUA e a decisão do FOMC. A divulgação do PPI americano pode fornecer pistas sobre a trajetória da inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789039880.4934952,
+    "titulo": "Agenda de empresas: Petrobras ajusta preço da gasolina após nova subvenção; Light encerra recuperação judicial",
+    "titulo_original": "Agenda de empresas: Petrobras ajusta preço da gasolina após nova subvenção; Light encerra recuperação judicial",
+    "fonte": "Valor Economico",
+    "publicado": "10/09 08:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Petrobras de reduzir o preço da gasolina, impulsionada por uma nova subvenção governamental, pode aliviar temporariamente a pressão inflacionária sobre os combustíveis. O encerramento da recuperação judicial da Light indica uma melhora na sua situação financeira, o que pode ter implicações para o setor de energia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789039880.4950333,
+    "titulo": "Onde investir além do Ibovespa? Confira 2 recomendações do chefe de investimentos do ASA",
+    "titulo_original": "Onde investir além do Ibovespa? Confira 2 recomendações do chefe de investimentos do ASA",
+    "fonte": "Money Times",
+    "publicado": "10/09 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta dos rendimentos dos títulos americanos, em um cenário de inflação persistente, sugere que os investidores estão buscando retornos mais elevados em detrimento de ativos de menor risco. A recomendação de assumir mais risco pode indicar uma expectativa de que a inflação se mantenha elevada, exigindo estratégias de investimento mais ativas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789039880.4964302,
+    "titulo": "Petrobras retira desconto da gasolina, mas impacto para consumidor será nulo",
+    "titulo_original": "Petrobras retira desconto da gasolina, mas impacto para consumidor será nulo - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "10/09 06:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Petrobras de retirar o desconto da gasolina, apesar de não impactar o consumidor final, pode sinalizar uma mudança na política de preços da estatal, possivelmente em resposta a pressões fiscais ou de mercado. A ausência de impacto direto no consumidor sugere que outros fatores, como a nova subvenção, estão compensando o reajuste.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789039880.4976707,
+    "titulo": "Após anunciar aumento da gasolina, Petrobras volta atrás e cancela reajuste",
+    "titulo_original": "Após anunciar aumento da gasolina, Petrobras volta atrás e cancela reajuste - O GLOBO",
+    "fonte": "Google News Acoes",
+    "publicado": "10/09 07:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reversão do anúncio de aumento da gasolina pela Petrobras indica uma possível interferência externa ou uma reavaliação interna da política de preços. Essa instabilidade na comunicação pode gerar incertezas sobre a previsibilidade da política de preços da estatal e seu impacto na inflação de combustíveis.",
     "is_stocks": true
   }
 ]
