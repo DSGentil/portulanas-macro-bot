@@ -990,5 +990,100 @@
     "origem": "externa",
     "leitura_critica": "A alta em Wall Street e a queda no preço do petróleo são movimentos de mercado que podem ter diversas causas. A notícia não especifica uma conexão direta com dados de inflação, juros ou decisões fiscais que justifiquem uma relevância maior.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789145139.0811214,
+    "titulo": "México e EUA correm para fechar acordo comercial bilateral antes de eleições de meio de mandato",
+    "titulo_original": "México e EUA correm para fechar acordo comercial bilateral antes de eleições de meio de mandato",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 13:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A conclusão de um acordo comercial bilateral antes das eleições de meio de mandato nos EUA pode trazer estabilidade para as relações comerciais entre os dois países. Caso as negociações falhem, a incerteza sobre tarifas e regras comerciais pode persistir, impactando fluxos de comércio e investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789145142.9707658,
+    "titulo": "Mercado firma apostas de alta de juros pelo Fed na próxima reunião após dados de inflação",
+    "titulo_original": "Mercado firma apostas de alta de juros pelo Fed na próxima reunião após dados de inflação - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/09 11:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Dados de inflação persistentes nos EUA aumentam a probabilidade de o Fed adotar uma política monetária mais restritiva, com elevação de juros. Se a inflação começar a ceder nas próximas leituras, o mercado pode rever suas apostas, abrindo espaço para uma postura menos agressiva do Fed.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789145146.9178863,
+    "titulo": "Nagel sinaliza que BCE pode precisar elevar juros novamente para conter a inflação",
+    "titulo_original": "Nagel sinaliza que BCE pode precisar elevar juros novamente para conter a inflação",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 13:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de novas altas de juros pelo BCE, como sinalizado por Joachim Nagel, indica que a inflação na zona do euro pode permanecer elevada, exigindo uma política monetária mais restritiva. Se os preços de energia continuarem a subir, o BCE pode ser forçado a aumentar os juros, impactando o crescimento econômico da região.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789145150.9881365,
+    "titulo": "Agência de energia descarta retomada da navegação em Hormuz neste ano devido à guerra",
+    "titulo_original": "Agência de energia descarta retomada da navegação em Hormuz neste ano devido à guerra",
+    "fonte": "Folha Mercado",
+    "publicado": "11/09 12:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A persistência do bloqueio no estreito de Hormuz pode continuar a gerar volatilidade nos preços do petróleo, impactando custos de energia globalmente. Se a situação se prolongar, pode haver uma reavaliação das projeções de demanda e oferta de petróleo para os próximos anos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789145156.5822704,
+    "titulo": "Juros de 9% e dólar abaixo de R$ 4? A condição fiscal que poderia levar o Ibovespa aos 300 mil pontos, segundo analistas",
+    "titulo_original": "Juros de 9% e dólar abaixo de R$ 4? A condição fiscal que poderia levar o Ibovespa aos 300 mil pontos, segundo analistas - Seu Dinheiro",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/09 09:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A convergência de juros mais baixos e um câmbio mais estável, atrelada a uma melhora na condição fiscal, é apresentada como cenário para um forte rali do Ibovespa. Se as políticas fiscais não forem consistentes com a redução da dívida pública, o cenário de juros em 9% e dólar abaixo de R$ 4 pode se tornar menos provável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789145156.5839398,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com dados de inflação, eleições e STF",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai com dados de inflação, eleições e STF - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "11/09 11:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A combinação de dados de inflação desfavoráveis, incertezas eleitorais e decisões judiciais impactantes pode gerar volatilidade no mercado acionário brasileiro. Se os próximos dados de inflação vierem mais controlados e o cenário eleitoral se estabilizar, a bolsa pode encontrar suporte para recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789145156.5855746,
+    "titulo": "Após rali, Ibovespa realiza lucros e opera em queda",
+    "titulo_original": "Após rali, Ibovespa realiza lucros e opera em queda - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "11/09 10:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A realização de lucros após um rali é um movimento natural do mercado, indicando que a tendência de alta pode estar perdendo força no curto prazo. Se os fatores que impulsionaram o rali anterior se mantiverem, a queda pode ser temporária, mas se houver novas incertezas, a correção pode se aprofundar.",
+    "is_stocks": true
   }
 ]
