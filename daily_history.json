@@ -908,5 +908,87 @@
     "origem": "domestica",
     "leitura_critica": "A mudança na perspectiva do rating da Compass pela Fitch indica uma avaliação de risco crescente para a empresa. Se a perspectiva negativa se materializar em um rebaixamento de nota, pode haver impacto nos custos de captação da empresa e em sua capacidade de investimento.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789139882.112971,
+    "titulo": "Servidor do BC atuou para acelerar compra do Voiter pelo Master ‘em tempo recorde’, diz PF",
+    "titulo_original": "Servidor do BC atuou para acelerar compra do Voiter pelo Master  ‘em tempo recorde’, diz PF",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 11:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A atuação de um servidor do Banco Central em uma negociação privada, descrita como 'em tempo recorde', levanta questionamentos sobre a conduta e possíveis irregularidades no setor financeiro. Se a investigação confirmar influência indevida, isso pode gerar desdobramentos regulatórios e de confiança no sistema.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789139887.0595255,
+    "titulo": "IPCA cai 0,32% com bônus de Itaipu em agosto e tem maior deflação em quatro anos",
+    "titulo_original": "IPCA cai 0,32% com bônus de Itaipu em agosto e tem maior deflação em quatro anos",
+    "fonte": "Folha Mercado",
+    "publicado": "11/09 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A deflação de <b>-0,32%</b> em agosto, a maior em quatro anos, sugere uma desaceleração significativa da inflação, o que pode influenciar as decisões futuras do Banco Central sobre a taxa de juros. Se essa tendência de queda se confirmar, pode abrir espaço para cortes mais agressivos na Selic.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789139892.0931497,
+    "titulo": "Denúncia anônima levou PF a buscar provas contra Master em operação de 2020",
+    "titulo_original": "Denúncia anônima levou PF a buscar provas contra Master em operação de 2020",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 11:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A investigação da PF sobre o Banco Master, iniciada a partir de uma denúncia anônima, levanta preocupações sobre a integridade de operações financeiras e a captação de recursos de fundos de previdência. Se a investigação confirmar irregularidades, pode haver impacto regulatório e na confiança do mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789139897.0890076,
+    "titulo": "Lula 3 acumula menor inflação às vésperas das eleições no Plano Real",
+    "titulo_original": "Lula 3 acumula menor inflação às vésperas das eleições no Plano Real",
+    "fonte": "Folha Mercado",
+    "publicado": "11/09 11:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia apresenta um dado comparativo de inflação em diferentes governos, situando o período atual em um contexto histórico. Se a trajetória de desaceleração inflacionária se mantiver, isso pode sustentar o poder de compra e a confiança do consumidor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789139903.0842528,
+    "titulo": "Governador da Califórnia sanciona leis para limitar riscos das redes sociais para menores",
+    "titulo_original": "Governador da Califórnia sanciona leis para limitar riscos das redes sociais para menores",
+    "fonte": "Folha Mercado",
+    "publicado": "11/09 10:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A sanção de leis regulatórias sobre redes sociais na Califórnia pode estabelecer precedentes para outras jurisdições e impactar o modelo de negócios de grandes empresas de tecnologia. Se tais regulamentações se expandirem, podem afetar o setor de tecnologia globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789139903.0855353,
+    "titulo": "Wall Street tem alta firme na abertura e petróleo cai após superar US$ 109 - UOL Economia",
+    "titulo_original": "Wall Street tem alta firme na abertura e petróleo cai após superar US$ 109 - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "11/09 06:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta em Wall Street e a queda no preço do petróleo são movimentos de mercado que podem ter diversas causas. A notícia não especifica uma conexão direta com dados de inflação, juros ou decisões fiscais que justifiquem uma relevância maior.",
+    "is_stocks": true
   }
 ]
