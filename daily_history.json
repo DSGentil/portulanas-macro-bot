@@ -1,120 +1,5 @@
 [
   {
-    "_timestamp": 1789039859.184896,
-    "titulo": "IGP-M sobe 0,93% na primeira prévia de setembro, informa FGV",
-    "titulo_original": "IGP-M sobe 0,93% na primeira prévia de setembro, informa FGV",
-    "fonte": "Valor Economico",
-    "publicado": "10/09 08:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aceleração do IGP-M, especialmente no componente de preços ao produtor, indica uma pressão inflacionária crescente na economia brasileira. Se essa tendência se mantiver, pode pressionar o Banco Central a manter uma postura mais cautelosa em relação aos juros. Acompanhar a evolução do IPC será crucial para entender o impacto no consumidor final.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789039864.145667,
-    "titulo": "Petróleo está impulsionando a alta nos rendimentos de longo prazo; todo o resto é apenas ruído",
-    "titulo_original": "Oil is driving the rise in long-term yields; Everything else is just noise",
-    "fonte": "ForexLive",
-    "publicado": "10/09 08:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A escalada do preço do petróleo, ligada ao conflito no Irã, está diretamente impactando os rendimentos de títulos de longo prazo ao alimentar expectativas inflacionárias. Se o preço do petróleo continuar a subir, isso pode forçar os bancos centrais a manterem uma postura mais restritiva em relação aos juros, afetando o custo do crédito globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789039869.1112425,
-    "titulo": "Fed se aproxima de decisão dividido e com foco em CPI",
-    "titulo_original": "Fed se aproxima de decisão dividido e com foco em CPI - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/09 05:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A divisão no Fed em relação à próxima decisão de política monetária, com foco no CPI, sugere incertezas sobre o futuro da inflação nos EUA. Se o CPI vier acima do esperado, a pressão por juros mais altos pode aumentar, impactando os mercados globais. Caso contrário, uma leitura mais branda pode abrir espaço para discussões sobre cortes de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789039874.0393198,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "10/09 03:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão de juros do BCE é um evento chave para o mercado europeu e global, com expectativas de um aperto monetário adicional. Se o BCE sinalizar um tom mais hawkish do que o esperado, isso pode fortalecer o euro, mas a atenção se volta para os dados de inflação dos EUA e a decisão do FOMC. A divulgação do PPI americano pode fornecer pistas sobre a trajetória da inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789039880.4934952,
-    "titulo": "Agenda de empresas: Petrobras ajusta preço da gasolina após nova subvenção; Light encerra recuperação judicial",
-    "titulo_original": "Agenda de empresas: Petrobras ajusta preço da gasolina após nova subvenção; Light encerra recuperação judicial",
-    "fonte": "Valor Economico",
-    "publicado": "10/09 08:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Petrobras de reduzir o preço da gasolina, impulsionada por uma nova subvenção governamental, pode aliviar temporariamente a pressão inflacionária sobre os combustíveis. O encerramento da recuperação judicial da Light indica uma melhora na sua situação financeira, o que pode ter implicações para o setor de energia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789039880.4950333,
-    "titulo": "Onde investir além do Ibovespa? Confira 2 recomendações do chefe de investimentos do ASA",
-    "titulo_original": "Onde investir além do Ibovespa? Confira 2 recomendações do chefe de investimentos do ASA",
-    "fonte": "Money Times",
-    "publicado": "10/09 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta dos rendimentos dos títulos americanos, em um cenário de inflação persistente, sugere que os investidores estão buscando retornos mais elevados em detrimento de ativos de menor risco. A recomendação de assumir mais risco pode indicar uma expectativa de que a inflação se mantenha elevada, exigindo estratégias de investimento mais ativas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789039880.4964302,
-    "titulo": "Petrobras retira desconto da gasolina, mas impacto para consumidor será nulo",
-    "titulo_original": "Petrobras retira desconto da gasolina, mas impacto para consumidor será nulo - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "10/09 06:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Petrobras de retirar o desconto da gasolina, apesar de não impactar o consumidor final, pode sinalizar uma mudança na política de preços da estatal, possivelmente em resposta a pressões fiscais ou de mercado. A ausência de impacto direto no consumidor sugere que outros fatores, como a nova subvenção, estão compensando o reajuste.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789039880.4976707,
-    "titulo": "Após anunciar aumento da gasolina, Petrobras volta atrás e cancela reajuste",
-    "titulo_original": "Após anunciar aumento da gasolina, Petrobras volta atrás e cancela reajuste - O GLOBO",
-    "fonte": "Google News Acoes",
-    "publicado": "10/09 07:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A reversão do anúncio de aumento da gasolina pela Petrobras indica uma possível interferência externa ou uma reavaliação interna da política de preços. Essa instabilidade na comunicação pode gerar incertezas sobre a previsibilidade da política de preços da estatal e seu impacto na inflação de combustíveis.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789046166.1902857,
     "titulo": "BC realiza ‘casadão’ e injeta US$ 1 bilhão no mercado à vista",
     "titulo_original": "BC realiza ‘casadão’ e injeta US$ 1 bilhão no mercado à vista",
@@ -1084,6 +969,76 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A realização de lucros após um rali é um movimento natural do mercado, indicando que a tendência de alta pode estar perdendo força no curto prazo. Se os fatores que impulsionaram o rali anterior se mantiverem, a queda pode ser temporária, mas se houver novas incertezas, a correção pode se aprofundar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789151446.0442395,
+    "titulo": "Superquarta: Safra projeta Selic a 13,75%",
+    "titulo_original": "Superquarta: Safra projeta Selic a 13,75% - Safra",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/09 15:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção da Safra para a Selic em 13,75% oferece uma expectativa de mercado para a próxima decisão do Copom. Se a decisão do Banco Central divergir dessa projeção, pode haver reações no mercado de juros e câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789151450.233958,
+    "titulo": "Vorcaro acionou ex-diretor do BC, seu 'anjo na vida', contra mudança em fundo de pensão, mostra PF",
+    "titulo_original": "Vorcaro acionou ex-diretor do BC, seu 'anjo na vida', contra mudança em fundo de pensão, mostra PF",
+    "fonte": "Folha Mercado",
+    "publicado": "11/09 13:41",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sugere uma possível influência indevida em regras de fundos de pensão, envolvendo um ex-diretor do Banco Central. Se as investigações da PF confirmarem irregularidades, isso pode gerar desconfiança sobre a governança de fundos de previdência e a integridade de processos regulatórios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789151454.4446561,
+    "titulo": "PF: ex-chefe de supervisão do BC recebeu R$ 500 mil mensais de Vorcaro",
+    "titulo_original": "PF: ex-chefe de supervisão do BC recebeu R$ 500 mil mensais de Vorcaro",
+    "fonte": "Money Times",
+    "publicado": "11/09 14:44",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A acusação da PF sobre pagamentos recorrentes a um ex-chefe de supervisão do BC por informações sigilosas levanta sérias questões sobre a integridade de processos regulatórios. Se comprovado, isso pode minar a confiança nas instituições e na transparência das decisões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789151458.5894568,
+    "titulo": "Déficit orçamentário de agosto nos EUA foi de US$ 167 bilhões, contra US$ 404 bilhões esperados",
+    "titulo_original": "US August Federal budget deficit $167 billion vs $404 billion expected",
+    "fonte": "ForexLive",
+    "publicado": "11/09 15:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um déficit orçamentário menor que o esperado nos EUA pode aliviar a pressão sobre os Treasuries. No entanto, a volatilidade nos números mensais devido a deslocamentos de gastos dificulta uma leitura definitiva sobre a trajetória fiscal de longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789151463.3965852,
+    "titulo": "Opções de Copom da B3 indicam 95% de chance de corte de 0,25 p.p. na Selic em setembro",
+    "titulo_original": "Opções de Copom da B3 indicam 95% de chance de corte de 0,25 p.p. na Selic em setembro - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/09 11:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta probabilidade de corte de 0,25 p.p. na Selic em setembro, indicada pelas opções de Copom, sugere que o mercado já precificou essa decisão. Se o Copom optar por um corte diferente, isso poderá gerar volatilidade no mercado.",
     "is_stocks": true
   }
 ]
