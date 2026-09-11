@@ -826,5 +826,87 @@
     "origem": "domestica",
     "leitura_critica": "A combinação de fatores como o preço do petróleo, dados de inflação e pesquisas eleitorais no Brasil cria um cenário de incerteza para o mercado. Se os dados de inflação vierem desfavoráveis e a pesquisa Datafolha indicar instabilidade política, o Ibovespa pode continuar sob pressão; caso contrário, uma melhora nesses indicadores pode impulsionar o índice.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789132769.3516097,
+    "titulo": "STJ mantém IRPJ e CSLL sobre Selic de depósitos compulsórios - Migalhas",
+    "titulo_original": "STJ mantém IRPJ e CSLL sobre Selic de depósitos compulsórios - Migalhas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/09 07:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STJ sobre a tributação de depósitos compulsórios pode impactar a rentabilidade de instituições financeiras. Se a decisão for amplamente disseminada, pode gerar um precedente para outras interpretações sobre a tributação de rendimentos de ativos compulsórios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789132773.6142395,
+    "titulo": "Opções indicam 95% de chance de corte da Selic pelo Copom - Associação Comercial e Industrial de Araçatuba",
+    "titulo_original": "Opções indicam 95% de chance de corte da Selic pelo Copom - Associação Comercial e Industrial de Araçatuba",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/09 08:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta probabilidade de corte na Selic, indicada pelas opções, sugere que o mercado já precifica essa decisão. Se o Copom de fato cortar os juros, o foco se voltará para a magnitude do corte e o comunicado que o acompanhará, buscando sinais sobre os próximos passos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789132777.512616,
+    "titulo": "Inflação medida pelo Índice Nacional da Construção Civil fica em 0,44% em agosto",
+    "titulo_original": "Inflação medida pelo Índice Nacional da Construção Civil fica em 0,44% em agosto",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 09:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade da inflação na construção civil em agosto, repetindo a taxa de julho, sugere uma persistência em patamares elevados para o setor. A variação regional mostra uma concentração de altas na Região Sul, o que pode indicar pressões específicas em certas áreas da economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789132781.454208,
+    "titulo": "INPC registra queda de 0,32% em agosto",
+    "titulo_original": "INPC registra queda de 0,32% em agosto",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda no INPC em agosto, espelhando o IPCA, sugere um cenário de desinflação em bens de consumo para famílias de menor renda. Se essa tendência se mantiver, pode reforçar expectativas de flexibilização da política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789132786.5498214,
+    "titulo": "US August CPI 3.4% vs 3.4% expected",
+    "titulo_original": "US August CPI 3.4% vs 3.4% expected",
+    "fonte": "ForexLive",
+    "publicado": "11/09 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A inflação em linha com as expectativas pode reforçar a postura do Federal Reserve em relação às taxas de juros. Se o núcleo da inflação continuar a mostrar resiliência, o mercado pode precificar uma maior probabilidade de manutenção das taxas elevadas por mais tempo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789132786.551393,
+    "titulo": "Fitch altera para negativa perspectiva de rating da Compass e reafirma nota",
+    "titulo_original": "Fitch altera para negativa perspectiva de rating da Compass e reafirma nota",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 09:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A mudança na perspectiva do rating da Compass pela Fitch indica uma avaliação de risco crescente para a empresa. Se a perspectiva negativa se materializar em um rebaixamento de nota, pode haver impacto nos custos de captação da empresa e em sua capacidade de investimento.",
+    "is_stocks": true
   }
 ]
