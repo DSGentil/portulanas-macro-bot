@@ -1,72 +1,5 @@
 [
   {
-    "_timestamp": 1789046166.1902857,
-    "titulo": "BC realiza ‘casadão’ e injeta US$ 1 bilhão no mercado à vista",
-    "titulo_original": "BC realiza ‘casadão’ e injeta US$ 1 bilhão no mercado à vista",
-    "fonte": "Valor Economico",
-    "publicado": "10/09 10:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A operação visa a gestão da liquidez em dólar e do cupom cambial, sem impacto direto na taxa de câmbio. Se o cupom cambial apresentar volatilidade, o BC pode intervir novamente com instrumentos similares.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789046170.3656538,
-    "titulo": "Governo propõe primeiro leilão de gás pela PPSA em outubro",
-    "titulo_original": "Governo propõe primeiro leilão de gás pela PPSA em outubro",
-    "fonte": "Folha Mercado",
-    "publicado": "10/09 09:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de leilão de gás pela PPSA representa um passo na regulamentação do setor energético e pode ter implicações na oferta e precificação do gás natural. Se o leilão for bem-sucedido e atrair investimentos, pode impulsionar a indústria petroquímica e outros setores dependentes de gás.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789046174.3322473,
-    "titulo": "Saques da poupança superam depósitos em R$ 10,572 bilhões em agosto",
-    "titulo_original": "Saques da poupança superam depósitos em R$ 10,572 bilhões em agosto",
-    "fonte": "Valor Economico",
-    "publicado": "10/09 09:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A saída líquida da poupança indica uma busca por investimentos com maior rentabilidade ou a necessidade de liquidez por parte dos poupadores, o que pode refletir um cenário de juros elevados ou incertezas econômicas. Se essa tendência se mantiver, pode impactar o fluxo de crédito imobiliário via SBPE.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789046178.3269253,
-    "titulo": "SPIC Brasil firma contrato para expandir hidrelétrica São Simão por R$ 1,4 bilhão",
-    "titulo_original": "SPIC Brasil firma contrato para expandir hidrelétrica São Simão por R$ 1,4 bilhão",
-    "fonte": "Valor Economico",
-    "publicado": "10/09 09:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expansão da usina hidrelétrica São Simão, viabilizada por um leilão governamental, representa um investimento em infraestrutura energética com potencial de impacto na oferta de energia e na economia. Se o projeto for concluído dentro do prazo e orçamento, pode contribuir para a segurança energética do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789046182.296271,
-    "titulo": "Juros futuros sobem e se alinham ao exterior diante de avanço forte do petróleo",
-    "titulo_original": "Juros futuros sobem e se alinham ao exterior diante de avanço forte do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "10/09 09:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta nos juros futuros reflete a convergência de fatores externos que aumentam o risco inflacionário e a percepção de que o Banco Central pode precisar manter uma política monetária mais restritiva. Se os preços do petróleo continuarem a subir e o BCE mantiver o tom hawkish, os juros locais podem permanecer pressionados.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1789053353.1459644,
     "titulo": "Fux dá 15 dias para governo Lula, Banco Central e FGC se manifestarem sobre socorro ao BRB",
     "titulo_original": "Fux dá 15 dias para governo Lula, Banco Central e FGC se manifestarem sobre socorro ao BRB",
@@ -1039,6 +972,81 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A alta probabilidade de corte de 0,25 p.p. na Selic em setembro, indicada pelas opções de Copom, sugere que o mercado já precificou essa decisão. Se o Copom optar por um corte diferente, isso poderá gerar volatilidade no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789158648.4825616,
+    "titulo": "Dólar avança a R$ 5,12 com risco político; divisa acumula leve desvalorização na semana",
+    "titulo_original": "Dólar avança a R$ 5,12 com risco político; divisa acumula leve desvalorização na semana",
+    "fonte": "Money Times",
+    "publicado": "11/09 17:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O avanço do dólar com risco político indica uma aversão ao risco local, o que pode se intensificar se novas incertezas políticas surgirem. Se o cenário político se estabilizar, o dólar pode voltar a cair, especialmente se o cenário externo for favorável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789158654.5112538,
+    "titulo": "Tombo na soja: USDA surpreende, CBOT derrete e saca perde até R$ 5 no Mato Grosso",
+    "titulo_original": "Tombo na soja: USDA surpreende, CBOT derrete e saca perde até R$ 5 no Mato Grosso - Notícias Agrícolas",
+    "fonte": "Google News Commodities",
+    "publicado": "11/09 15:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada na soja, após surpresa do USDA e derretimento do CBOT, indica um forte movimento de baixa para a commodity. Se os fatores que levaram a essa queda persistirem, o preço da soja pode continuar a cair, impactando a rentabilidade dos produtores; caso contrário, uma recuperação pode ocorrer se houver novas informações que sustentem os preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789158659.8368056,
+    "titulo": "Possibilidade de Pix internacional está sendo acompanhada pelo BC, diz chefe de gabinete",
+    "titulo_original": "Possibilidade de Pix internacional está sendo acompanhada pelo BC, diz chefe de gabinete",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 16:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa de um Pix internacional pode facilitar transações transfronteiriças, mas a complexidade regulatória é um desafio. Se o BC conseguir superar os obstáculos de governança e regulação, a funcionalidade pode ser implementada, reduzindo custos e tempo em pagamentos internacionais; caso contrário, o projeto pode demorar a sair do papel.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789158665.2036874,
+    "titulo": "Oferta de petróleo saudita atinge nível mais baixo em mais de 3 décadas",
+    "titulo_original": "Oferta de petróleo saudita atinge nível mais baixo em mais de 3 décadas - infomoney.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "11/09 11:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A redução na oferta de petróleo saudita pode impactar os preços globais da commodity, potencialmente elevando-os. Se essa redução for mantida ou aprofundada, pode haver pressão inflacionária global; caso contrário, a oferta pode se normalizar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789158672.2908707,
+    "titulo": "Bolsas de NY sobem, apesar do aumento nas apostas de alta nos juros",
+    "titulo_original": "Bolsas de NY sobem, apesar do aumento nas apostas de alta nos juros",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 17:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O movimento das bolsas de NY sugere que o mercado está precificando um cenário de juros mais altos, o que pode pressionar ativos de risco. Se os próximos dados de inflação vierem mais baixos, o Fed pode ter espaço para suavizar sua postura, o que seria positivo para as bolsas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789158672.2925725,
+    "titulo": "IA matará antes de ser contida, diz executivo da Bridgewater",
+    "titulo_original": "IA matará antes de ser contida, diz executivo da Bridgewater",
+    "fonte": "Valor Economico",
+    "publicado": "11/09 16:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O alerta do executivo da Bridgewater sobre os riscos da IA sugere a necessidade de uma abordagem proativa para a sua regulamentação. Se as preocupações de Jensen se materializarem, pode haver um impacto significativo na sociedade e na economia; caso contrário, o desenvolvimento da IA pode seguir um caminho mais controlado.",
     "is_stocks": true
   }
 ]
