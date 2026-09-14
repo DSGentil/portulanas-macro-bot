@@ -451,5 +451,146 @@
     "origem": "domestica",
     "leitura_critica": "A preocupação com o ambiente institucional e a gestão de empresas, mencionada por André Esteves, aponta para um risco percebido na governança corporativa e na regulação. Se essa percepção se generalizar, pode afetar a confiança dos investidores e o fluxo de capital, mas a notícia em si não detalha uma decisão fiscal ou regulatória concreta.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789410647.7357771,
+    "titulo": "Banco Master, dólar na eleição e aposentadoria com renda: o que bombou entre investidores na semana",
+    "titulo_original": "Banco Master, dólar na eleição e aposentadoria com renda: o que bombou entre investidores na semana - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/09 14:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A atenção dos investidores a temas como o dólar em período eleitoral e a aposentadoria indica um cenário de busca por segurança e planejamento financeiro. Se as eleições trouxerem maior clareza sobre o futuro econômico, a confiança dos investidores pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789410653.0834384,
+    "titulo": "Dólar hoje sobe com exterior e política no radar",
+    "titulo_original": "Dólar hoje sobe com exterior e política no radar - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/09 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A valorização do dólar pode ser atribuída a fatores externos, como a política monetária de outros países, e a fatores internos, como incertezas políticas. Se o cenário externo se agravar ou as tensões políticas internas aumentarem, o dólar pode continuar sua trajetória de alta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789410658.5015833,
+    "titulo": "Ouro recua com avanço do dólar e alta de juros americanos no horizonte",
+    "titulo_original": "Ouro recua com avanço do dólar e alta de juros americanos no horizonte",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 15:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de novos aumentos nas taxas de juros pelos principais bancos centrais pode manter o ouro sob pressão. Se a reunião do Fed sinalizar um aperto monetário mais agressivo do que o esperado, o ouro pode continuar em trajetória de queda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789410663.85443,
+    "titulo": "Juros de 10 anos nos EUA atingem maior nível desde 2023; por que isso importa?",
+    "titulo_original": "Juros de 10 anos nos EUA atingem maior nível desde 2023; por que isso importa?",
+    "fonte": "Money Times",
+    "publicado": "14/09 14:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos juros de longo prazo nos EUA pode indicar expectativas de inflação persistente ou de uma política monetária mais restritiva. Se essa tendência se mantiver, pode pressionar outros mercados globais e aumentar o custo do crédito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789410671.0237486,
+    "titulo": "Não é só o temor com IA: o que faz o Ibovespa cair forte e o dólar subir nesta 2ª",
+    "titulo_original": "Não é só o temor com IA: o que faz o Ibovespa cair forte e o dólar subir nesta 2ª - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "14/09 11:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa e a alta do dólar indicam um cenário de aversão ao risco. Se os temores relacionados à IA se intensificarem ou se as incertezas políticas domésticas aumentarem, o mercado pode continuar a precificar um cenário de maior volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789410671.0247335,
+    "titulo": "Ameaça à humanidade ou expectativas frustradas? Entenda o alerta do fundador da Anthropic e o ‘efeito cascata’ nas ações de inteligência artificial",
+    "titulo_original": "Ameaça à humanidade ou expectativas frustradas? Entenda o alerta do fundador da Anthropic e o ‘efeito cascata’ nas ações de inteligência artificial",
+    "fonte": "Money Times",
+    "publicado": "14/09 14:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A preocupação com os riscos da IA pode levar a uma desaceleração no desenvolvimento e investimento neste setor. Se essa tendência se confirmar, pode haver um impacto negativo em empresas de tecnologia e em índices como o Nasdaq.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789410671.025771,
+    "titulo": "Ibovespa cai mais de 1% com aversão a risco no exterior, eleições e caso Master no radar",
+    "titulo_original": "Ibovespa cai mais de 1% com aversão a risco no exterior, eleições e caso Master no radar - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "14/09 10:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa reflete um cenário de incerteza, combinando fatores externos e internos. Se as eleições trouxerem maior clareza ou se o caso Master for resolvido rapidamente, o mercado pode reagir positivamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789410671.0266643,
+    "titulo": "Ibovespa hoje: Bolsa cai mais de 1,5% com petróleo, guerra e eleições; veja os destaques",
+    "titulo_original": "Ibovespa hoje: Bolsa cai mais de 1,5% com petróleo, guerra e eleições; veja os destaques - suno.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "14/09 14:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de fatores como a alta do petróleo, conflitos geopolíticos e incertezas eleitorais pressiona o mercado acionário. Se houver uma resolução para os conflitos ou um cenário eleitoral mais definido, a bolsa pode se recuperar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789410671.0275707,
+    "titulo": "Sangria na bolsa: Ibovespa perde mais de 3 mil pontos e dólar sobe; Treasury passa de 5%",
+    "titulo_original": "Sangria na bolsa: Ibovespa perde mais de 3 mil pontos e dólar sobe; Treasury passa de 5% - seudinheiro.com",
+    "fonte": "Google News Acoes",
+    "publicado": "14/09 12:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A forte queda do Ibovespa e a alta do dólar, em conjunto com o aumento dos juros nos EUA, sinalizam um cenário de aversão ao risco global. Se os juros americanos continuarem a subir, isso pode atrair capital para os EUA, pressionando mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789410671.0284863,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/09 12:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento em tempo real da cotação do dólar é crucial para entender as dinâmicas de curto prazo do mercado de câmbio. Se houver volatilidade significativa, isso pode indicar reações a notícias ou eventos específicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789410671.029419,
+    "titulo": "Mercadante cutuca oposição e diz que ‘essa coisinha de motosserra' é boa só para fazer campanha",
+    "titulo_original": "Mercadante cutuca oposição e diz que ‘essa coisinha de motosserra' é boa só para fazer campanha",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 14:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Mercadante sobre a política fiscal sugere que há espaço para ajustes, mas com foco em manter o crescimento. Se as propostas de melhoria fiscal forem concretizadas, isso pode trazer mais previsibilidade ao cenário econômico brasileiro.",
+    "is_stocks": true
   }
 ]
