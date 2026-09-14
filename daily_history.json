@@ -241,5 +241,107 @@
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa Futuro demonstra a sensibilidade do mercado brasileiro a fatores externos e a eventos domésticos de instabilidade política. Se a crise no STF se agravar, isso pode intensificar a pressão vendedora sobre os ativos brasileiros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789398938.312287,
+    "titulo": "Durigan sugere nova rodada de redução linear dos benefícios tributários infraconstitucionais",
+    "titulo_original": "Durigan sugere nova rodada de redução linear dos benefícios tributários infraconstitucionais",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 11:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A sugestão de Durigan para uma nova redução nos benefícios tributários pode impactar diretamente a carga tributária de diversas empresas. Se essa proposta for implementada, empresas que dependem desses incentivos podem ter seus resultados afetados, enquanto o governo busca aumentar a arrecadação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789398942.2018986,
+    "titulo": "Ataques de Israel contra cidade no sul do Líbano matam 13 em meio a temores de escalada",
+    "titulo_original": "Ataques de Israel contra cidade no sul do Líbano matam 13 em meio a temores de escalada",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 11:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de violência no Oriente Médio pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas. Se os conflitos se estenderem e afetarem rotas de transporte de petróleo, o preço do barril tende a subir; caso contrário, a pressão sobre os preços pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789398946.2215354,
+    "titulo": "Órgão de inteligência da China vê avanço da IA como risco à segurança política e social",
+    "titulo_original": "Órgão de inteligência da China vê avanço da IA como risco à segurança política e social",
+    "fonte": "Folha Mercado",
+    "publicado": "14/09 11:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A preocupação da China com a IA pode levar a um endurecimento das regulamentações internas sobre a tecnologia, impactando o desenvolvimento e a adoção de novas soluções no país. Se a China implementar restrições significativas, isso pode afetar empresas globais que dependem do mercado chinês para expansão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789398950.1464818,
+    "titulo": "Irã nega envolvimento em conflito dos Houthis com o governo do Iêmen e Arábia Saudita",
+    "titulo_original": "Irã nega envolvimento em conflito dos Houthis com o governo do Iêmen e Arábia Saudita - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "14/09 06:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A negação do Irã sobre seu envolvimento no conflito iemenita pode ter implicações na dinâmica geopolítica da região. Se a tensão persistir sem uma resolução clara, isso pode continuar a afetar a estabilidade regional e os mercados de commodities.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789399134.0708153,
+    "titulo": "Trump: A única proteção que a IA precisa é um Presidente com alto QI",
+    "titulo_original": "Trump: The only guradrail that AI needs is a high IQ President",
+    "fonte": "ForexLive",
+    "publicado": "14/09 11:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sugere uma postura menos intervencionista em relação à regulamentação da IA nos EUA, o que pode ser interpretado como um sinal positivo para o setor de tecnologia, especialmente para empresas listadas no Nasdaq. Se essa abordagem se mantiver, o desenvolvimento da IA pode avançar com menos barreiras regulatórias no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789399134.0714731,
+    "titulo": "Nvidia e Broadcom recuam com temores sobre desaceleração da inteligência artificial",
+    "titulo_original": "Nvidia e Broadcom recuam com temores sobre desaceleração da inteligência artificial",
+    "fonte": "InvestNews",
+    "publicado": "14/09 11:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A preocupação com a segurança e o ritmo de desenvolvimento da IA pode levar a uma reavaliação das perspectivas de crescimento de empresas de tecnologia, impactando seus valores de mercado. Se as grandes empresas de tecnologia continuarem a sinalizar cautela, isso pode resultar em uma correção mais acentuada nas ações do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789399134.07224,
+    "titulo": "Ministério dos Transportes apresenta modelo inédito de chamamento público para ferrovias nesta terça (15), na B3, em SP",
+    "titulo_original": "Ministério dos Transportes apresenta modelo inédito de chamamento público para ferrovias nesta terça (15), na B3, em SP - www.gov.br",
+    "fonte": "Google News Acoes",
+    "publicado": "14/09 11:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A apresentação de um novo modelo para chamamento público de ferrovias pode indicar um avanço na infraestrutura de transportes do país. Se o modelo for bem recebido e atrair investimentos, isso pode impulsionar o setor ferroviário e gerar oportunidades de negócio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789399134.072872,
+    "titulo": "Ações de empresas ligadas à IA desabam após big techs pedirem desaceleração",
+    "titulo_original": "Ações de empresas ligadas à IA desabam após big techs pedirem desaceleração",
+    "fonte": "Folha Mercado",
+    "publicado": "14/09 10:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas ações de empresas de IA reflete a incerteza do mercado em relação ao futuro do desenvolvimento da tecnologia. Se as preocupações com a segurança persistirem e levarem a regulamentações mais rígidas, isso pode impactar negativamente o crescimento e a lucratividade dessas empresas.",
+    "is_stocks": true
   }
 ]
