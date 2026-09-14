@@ -680,5 +680,73 @@
     "origem": "externa",
     "leitura_critica": "A previsão de queda na receita de banco de investimento do BofA pode indicar um cenário de menor atividade no mercado financeiro global. Se essa tendência se confirmar em outras instituições, pode haver um reflexo na liquidez e no volume de negócios. A estabilidade na receita de 'sales and trading' sugere que, apesar da queda em outras áreas, a atividade de negociação pode se manter resiliente.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789423257.4976926,
+    "titulo": "Lula sanciona linha de crédito para compra de carros com juros reduzidos para taxistas e motoristas de app",
+    "titulo_original": "Lula sanciona linha de crédito para compra de carros com juros reduzidos para taxistas e motoristas de app",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 17:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A sanção do programa \"Move Brasil\" representa uma intervenção direta na política de crédito, com juros subsidiados para um segmento específico. Se a demanda por crédito se mostrar forte e o programa for amplamente utilizado, pode haver um impacto marginal na inflação de bens duráveis e no endividamento das famílias, mas o foco principal é a política de juros direcionada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789423262.8683834,
+    "titulo": "Senadores defendem redução da Selic e cobram juros mais baixos - PT no Senado",
+    "titulo_original": "Senadores defendem redução da Selic e cobram juros mais baixos - PT no Senado",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/09 15:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia reporta a defesa da redução da taxa Selic por parte de senadores. Se essa pressão política se intensificar e influenciar decisões futuras do Banco Central, isso poderia levar a cortes de juros mais rápidos do que o esperado pelo mercado. A ausência de uma decisão concreta do Copom torna a leitura condicional, mas a pressão política é um fator a ser observado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789423268.2843022,
+    "titulo": "Mercado projeta corte da Selic para 13,75% - Sindifiscalms",
+    "titulo_original": "Mercado projeta corte da Selic para 13,75% - Sindifiscalms",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/09 13:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de corte da Selic para 13,75% reflete a expectativa do mercado em relação à política monetária. Se essa projeção se concretizar, indicará uma continuidade do ciclo de afrouxamento monetário. Caso a inflação futura apresente surpresas altistas, essa projeção pode ser revista para cima, com o Banco Central mantendo a taxa em patamares mais elevados por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789423273.6825802,
+    "titulo": "BofA vê Selic a 11,25% em 2027 e aponta ações que podem ganhar com cortes - InfoMoney",
+    "titulo_original": "BofA vê Selic a 11,25% em 2027 e aponta ações que podem ganhar com cortes - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/09 14:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Bank of America para a Selic em 2027 indica uma expectativa de queda significativa nos juros no médio prazo. Se o cenário de controle inflacionário se mantiver e o Banco Central conseguir atingir essa meta, isso abriria espaço para investimentos em ativos de maior risco, como ações. Caso contrário, se a inflação persistir, a meta de juros pode ser adiada, impactando o desempenho dessas ações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789423283.7552502,
+    "titulo": "Bolsas de NY têm leve queda com incertezas sobre o desenvolvimento de IA",
+    "titulo_original": "Bolsas de NY têm leve queda com incertezas sobre o desenvolvimento de IA",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 17:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia aponta incertezas no setor de tecnologia relacionadas à inteligência artificial como fator de pressão para as bolsas americanas. Se essas incertezas se aprofundarem e afetarem o investimento em tecnologia, isso poderia ter um impacto indireto no fluxo de capital global, mas a notícia em si não faz essa conexão explícita.",
+    "is_stocks": true
   }
 ]
