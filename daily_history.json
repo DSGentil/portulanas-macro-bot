@@ -94,5 +94,88 @@
     "origem": "externa",
     "leitura_critica": "O CPI dos EUA acima do esperado reforça a possibilidade de o Fed aumentar os juros, o que pode impactar negativamente os mercados de ações e criptomoedas. A projeção do JPMorgan de duas altas adicionais de juros reforça essa perspectiva. Se a inflação persistir, o Fed pode ter que manter uma postura mais agressiva, afetando o cenário econômico global.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789385449.7100682,
+    "titulo": "Mercado diz por que aposta em mais um corte da taxa básica de juros - UOL Economia",
+    "titulo_original": "Mercado diz por que aposta em mais um corte da taxa básica de juros - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/09 07:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aposta do mercado em mais um corte da taxa básica de juros sugere uma expectativa de continuidade da política monetária expansionista. Se o Banco Central confirmar esse corte, isso pode estimular o crédito e o consumo; caso contrário, a surpresa pode gerar volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789385453.7630134,
+    "titulo": "Empresas não financeiras e bancos projetam inflação de formas diferentes, mostra estudo",
+    "titulo_original": "Empresas não financeiras e bancos projetam inflação de formas diferentes, mostra estudo",
+    "fonte": "Folha Mercado",
+    "publicado": "14/09 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência nas projeções de inflação entre empresas não financeiras e o mercado financeiro pode indicar diferentes percepções sobre os riscos inflacionários. Se as empresas não financeiras estiverem subestimando a inflação, isso pode levar a decisões de precificação e investimento inadequadas. Se estiverem superestimando, pode haver cautela excessiva.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789385457.7630787,
+    "titulo": "Inflação da Índia sobe ainda mais para 4,82% em agosto, reforçando expectativas de aumento de juros",
+    "titulo_original": "India's inflation rises further to 4.82% in August, reinforcing rate hike expectations",
+    "fonte": "ForexLive",
+    "publicado": "14/09 07:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento da inflação na Índia, especialmente no setor de alimentos, pressiona o Reserve Bank of India a considerar um aperto monetário. Se o banco central decidir por um aumento de juros, isso pode desacelerar a economia indiana e ter repercussões em mercados emergentes. A manutenção da inflação dentro da banda de tolerância, porém, pode dar margens para cautela.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789385461.9876792,
+    "titulo": "Bitcoin enfrenta semana decisiva nos EUA",
+    "titulo_original": "Bitcoin enfrenta semana decisiva nos EUA",
+    "fonte": "InvestNews",
+    "publicado": "14/09 07:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão de política monetária do Fed nesta semana é crucial para o Bitcoin, pois um aumento nas taxas de juros nos EUA tende a reduzir o apetite por ativos de risco. Se o Fed sinalizar um aperto monetário mais agressivo, o Bitcoin pode sofrer pressão vendedora; caso contrário, pode haver um alívio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789385466.6265826,
+    "titulo": "Bolsas da Ásia fecham em baixa com IA, petróleo e perspectiva de aumento de juros",
+    "titulo_original": "Bolsas da Ásia fecham em baixa com IA, petróleo e perspectiva de aumento de juros",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 07:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O fechamento em baixa das bolsas asiáticas reflete um sentimento de aversão ao risco global, impulsionado por preocupações com IA, petróleo e juros. Se os bancos centrais dos EUA e Japão confirmarem aumentos nas taxas de juros, isso pode intensificar a pressão sobre os mercados acionários globais. A queda das ações de IA pode indicar uma reavaliação do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789385466.627068,
+    "titulo": "Petrobras recebe R$ 2,6 bi em subsídios ao diesel e total chega a R$ 9,5 bi - InfoMoney",
+    "titulo_original": "Petrobras recebe R$ 2,6 bi em subsídios ao diesel e total chega a R$ 9,5 bi - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "14/09 07:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recebimento de subsídios pela Petrobras pode impactar seus resultados financeiros e a percepção de intervenção governamental. Se esses subsídios forem recorrentes, isso pode distorcer a concorrência no setor de combustíveis e afetar a precificação do diesel no longo prazo.",
+    "is_stocks": true
   }
 ]
