@@ -748,5 +748,45 @@
     "origem": "externa",
     "leitura_critica": "A notícia aponta incertezas no setor de tecnologia relacionadas à inteligência artificial como fator de pressão para as bolsas americanas. Se essas incertezas se aprofundarem e afetarem o investimento em tecnologia, isso poderia ter um impacto indireto no fluxo de capital global, mas a notícia em si não faz essa conexão explícita.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789428643.1438355,
+    "titulo": "CMN amplia em R$ 2 bilhões limite para que Estados e municípios contratem crédito",
+    "titulo_original": "CMN amplia em R$ 2 bilhões limite para que Estados e municípios contratem crédito",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 19:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ampliação do limite de crédito para entes subnacionais visa atender à demanda por mais recursos, o que pode estimular a atividade econômica local. Se essa demanda se traduzir em investimentos produtivos, o impacto no PIB pode ser positivo; caso contrário, pode haver apenas um aumento do endividamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789428647.8115063,
+    "titulo": "Taxas longas sobem em sessão de alta do petróleo e novas pesquisas eleitorais",
+    "titulo_original": "Taxas longas sobem em sessão de alta do petróleo e novas pesquisas eleitorais - infomoney.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "14/09 17:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta nas taxas de juros de longo prazo, associada à elevação do preço do petróleo e a novas pesquisas eleitorais, sugere um cenário de maior incerteza e potencial pressão inflacionária. Se as pesquisas eleitorais indicarem um cenário político que gere receio fiscal, isso pode manter as taxas longas pressionadas; caso contrário, a queda do petróleo poderia aliviar essa pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789428652.401747,
+    "titulo": "Petróleo fecha em alta com paralisação em oleoduto saudita e preocupações com a oferta",
+    "titulo_original": "Petróleo fecha em alta com paralisação em oleoduto saudita e preocupações com a oferta - Agência eixos",
+    "fonte": "Google News Commodities",
+    "publicado": "14/09 18:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo, impulsionada por problemas na oferta, pode gerar pressões inflacionárias globais e impactar custos de produção em diversos setores. Se a paralisação no oleoduto saudita for prolongada, isso pode sustentar os preços do petróleo em patamares elevados no curto prazo.",
+    "is_stocks": false
   }
 ]
