@@ -343,5 +343,113 @@
     "origem": "externa",
     "leitura_critica": "A queda nas ações de empresas de IA reflete a incerteza do mercado em relação ao futuro do desenvolvimento da tecnologia. Se as preocupações com a segurança persistirem e levarem a regulamentações mais rígidas, isso pode impactar negativamente o crescimento e a lucratividade dessas empresas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789404342.3640938,
+    "titulo": "Economistas preveem inflação abaixo de 5% no fim do ano e corte na Selic nesta semana",
+    "titulo_original": "Economistas preveem inflação abaixo de 5% no fim do ano e corte na Selic nesta semana",
+    "fonte": "Folha Mercado",
+    "publicado": "14/09 08:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de corte na Selic e inflação abaixo de 5% sugere um cenário de política monetária mais flexível. Se o Copom confirmar o corte de juros, isso pode estimular a atividade econômica; se a inflação continuar em trajetória de queda, isso reforça a possibilidade de novos cortes. Acompanhar a decisão do Copom e os dados de inflação subsequentes será crucial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789404346.2625697,
+    "titulo": "Esquenta do Copom: Fatores domésticos devem permitir a continuação do ciclo",
+    "titulo_original": "Esquenta do Copom: Fatores domésticos devem permitir a continuação do ciclo - XP Investimentos",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "14/09 11:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sugere que fatores domésticos favorecem a continuidade do ciclo de cortes de juros pelo Copom. Se essa tendência se confirmar, pode indicar que o Banco Central está confortável com a trajetória da inflação e da atividade econômica para prosseguir com a política monetária expansionista. Acompanhar os próximos comunicados do Copom será fundamental.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789404350.1948338,
+    "titulo": "‘Tenho certeza que a eleição vai ser 51% a 49%’, afirma fundador do Market Makers",
+    "titulo_original": "‘Tenho certeza que a eleição vai ser 51% a 49%’, afirma fundador do Market Makers",
+    "fonte": "Money Times",
+    "publicado": "14/09 13:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração sobre o cenário eleitoral e a alta do petróleo, embora mencione um fator de pressão, não detalha um impacto direto em canais específicos de análise macroeconômica sem que a notícia estabeleça essa conexão. A projeção de um resultado eleitoral apertado pode indicar volatilidade política, mas sem detalhamento de políticas específicas, a relevância para os canais é limitada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789404354.0739698,
+    "titulo": "Flávio Bolsonaro cresce entre eleitores do Sudeste, mulheres e católicos",
+    "titulo_original": "Flávio Bolsonaro cresce entre eleitores do Sudeste, mulheres e católicos",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 13:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia apresenta dados de pesquisa eleitoral, indicando crescimento de um candidato em segmentos específicos. Sem detalhamento de propostas fiscais ou regulatórias concretas que afetem a economia, a relevância para os canais macroeconômicos é limitada, embora o cenário político possa influenciar a percepção de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789404359.5631542,
+    "titulo": "Estrangeiros aportam R$ 1,2 bi em ações na B3 em 10 de setembro",
+    "titulo_original": "Estrangeiros aportam R$ 1,2 bi em ações na B3 em 10 de setembro - valor.globo.com",
+    "fonte": "Google News Acoes",
+    "publicado": "14/09 11:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada de capital estrangeiro na bolsa brasileira é um indicativo de fluxo de capital para renda variável. Se essa tendência de entrada se mantiver, pode sinalizar um aumento no apetite por risco no mercado local; se houver uma reversão, pode indicar um movimento de aversão ao risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789404359.564,
+    "titulo": "Mercados europeus fecham: Petróleo dispara, apostas em alta de juros do Fed aumentam com temores de IA atingindo ações",
+    "titulo_original": "investingLive European markets wrap: Oil surges, Fed rate hike bets rise as AI fears hit stocks",
+    "fonte": "ForexLive",
+    "publicado": "14/09 08:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo e o aumento das apostas em elevação de juros pelo Fed indicam um cenário de pressão inflacionária e possível aperto monetário. Se o Fed realmente elevar os juros, isso pode ter um impacto significativo nas taxas de câmbio e no custo de capital globalmente, afetando mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789404359.5649564,
+    "titulo": "Fim da reeleição, pacote fiscal e 'revogaço' são prioridades dos primeiros 100 dias de Flavio, diz coordenadora",
+    "titulo_original": "Fim da reeleição, pacote fiscal e 'revogaço' são prioridades dos primeiros 100 dias de Flavio, diz coordenadora",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 13:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de prioridades para um futuro governo, sem que as medidas já tenham sido decididas ou propostas formalmente em texto, indica um cenário de intenções. Se essas propostas forem concretizadas em projetos de lei ou emendas constitucionais, o impacto fiscal e regulatório poderá ser significativo, mas a relevância atual reside na sinalização de agenda.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789404359.5657504,
+    "titulo": "‘Como é que você olha empresas inexpressivas criando rombos de dezenas de bilhões?’, questiona Esteves, do BTG",
+    "titulo_original": "‘Como é que você olha empresas inexpressivas criando rombos de dezenas de bilhões?’, questiona Esteves, do BTG",
+    "fonte": "Money Times",
+    "publicado": "14/09 13:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A preocupação com o ambiente institucional e a gestão de empresas, mencionada por André Esteves, aponta para um risco percebido na governança corporativa e na regulação. Se essa percepção se generalizar, pode afetar a confiança dos investidores e o fluxo de capital, mas a notícia em si não detalha uma decisão fiscal ou regulatória concreta.",
+    "is_stocks": true
   }
 ]
