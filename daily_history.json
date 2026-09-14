@@ -592,5 +592,93 @@
     "origem": "domestica",
     "leitura_critica": "A declaração de Mercadante sobre a política fiscal sugere que há espaço para ajustes, mas com foco em manter o crescimento. Se as propostas de melhoria fiscal forem concretizadas, isso pode trazer mais previsibilidade ao cenário econômico brasileiro.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789417852.2290928,
+    "titulo": "‘Apocalipse da IA’ pode ajudar a bolsa brasileira no médio prazo",
+    "titulo_original": "‘Apocalipse da IA’ pode ajudar a bolsa brasileira no médio prazo",
+    "fonte": "InvestNews",
+    "publicado": "14/09 15:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A notícia sugere um potencial redirecionamento de capital para a bolsa brasileira caso haja um freio no desenvolvimento de IA. Se essa tendência de busca por ativos menos voláteis se confirmar, o fluxo de capital para o Brasil pode aumentar, impulsionando o mercado local. No entanto, a magnitude desse fluxo dependerá da extensão das restrições à IA e da atratividade de outros mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789417857.1434152,
+    "titulo": "Calendário econômico e de eventos Ásia Terça-feira, 15 de Setembro de 2026: China divulgará atividade de agosto",
+    "titulo_original": "Economic & event calendar Asia Tuesday, September 15, 2026: China set to report August activity",
+    "fonte": "ForexLive",
+    "publicado": "14/09 17:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Os dados de atividade econômica da China são cruciais para o cenário global. Se a produção industrial e as vendas no varejo vierem acima do esperado, isso pode sinalizar uma recuperação mais robusta na segunda maior economia do mundo, impactando positivamente as commodities e o sentimento de risco global. Caso contrário, uma desaceleração pode reforçar preocupações com a demanda mundial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789417862.0731506,
+    "titulo": "Trump pede à Ucrânia para cessar ataques a refinarias russas de petróleo",
+    "titulo_original": "Trump pede à Ucrânia para cessar ataques a refinarias russas de petróleo - Brasil de Fato",
+    "fonte": "Google News Commodities",
+    "publicado": "14/09 17:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre os ataques ucranianos a refinarias russas pode impactar a oferta global de petróleo. Se a Ucrânia acatar o pedido, a pressão sobre os preços do petróleo pode diminuir. Caso contrário, a continuidade dos ataques pode manter a volatilidade e a incerteza no mercado de energia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789417867.208721,
+    "titulo": "Trump diz que ataques ucranianos ao diesel russo agravam crise global de combustíveis",
+    "titulo_original": "Trump diz que ataques ucranianos ao diesel russo agravam crise global de combustíveis - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "14/09 16:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre o agravamento da crise de combustíveis devido aos ataques ucranianos ao diesel russo reforça a preocupação com a oferta global. Se essa situação persistir, os preços do petróleo e derivados podem continuar sob pressão de alta. A ausência de uma ação concreta para mitigar o conflito pode manter a volatilidade no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789417873.0725822,
+    "titulo": "Wall Street cai com temor sobre IA e petróleo acima de US$ 100",
+    "titulo_original": "Wall Street cai com temor sobre IA e petróleo acima de US$ 100",
+    "fonte": "Money Times",
+    "publicado": "14/09 17:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda em Wall Street, associada a temores sobre IA e petróleo, sugere um aumento da aversão ao risco. Se a expectativa por decisão de juros se concretizar em um cenário de aperto monetário, isso pode intensificar a pressão vendedora nos mercados de renda variável. Por outro lado, se a decisão de juros for mais branda do que o esperado, pode haver uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789417873.073544,
+    "titulo": "Negociações de risco se recuperam gradualmente com falas de Trump sobre IA e energia",
+    "titulo_original": "Risk trades steadily rebound on Trump's talk about AI and energy",
+    "fonte": "ForexLive",
+    "publicado": "14/09 14:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As falas de Trump sobre não regular a IA e um possível acordo entre Rússia e Ucrânia para não atacar infraestrutura energética trouxeram alívio aos mercados de risco. Se a percepção de menor risco geopolítico e de maior apoio à tecnologia se consolidar, isso pode sustentar a recuperação dos ativos de risco. No entanto, a negação de Zelensky sobre o acordo com a Rússia introduz incerteza, o que pode reverter o sentimento positivo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789417873.0743787,
+    "titulo": "CEO do BofA prevê queda de pelo menos 10% na receita de banco de investimento no 3º trimestre",
+    "titulo_original": "CEO do BofA prevê queda de pelo menos 10% na receita de banco de investimento no 3º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "14/09 16:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A previsão de queda na receita de banco de investimento do BofA pode indicar um cenário de menor atividade no mercado financeiro global. Se essa tendência se confirmar em outras instituições, pode haver um reflexo na liquidez e no volume de negócios. A estabilidade na receita de 'sales and trading' sugere que, apesar da queda em outras áreas, a atividade de negociação pode se manter resiliente.",
+    "is_stocks": true
   }
 ]
