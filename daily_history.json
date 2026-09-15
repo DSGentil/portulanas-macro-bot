@@ -1,113 +1,5 @@
 [
   {
-    "_timestamp": 1789404342.3640938,
-    "titulo": "Economistas preveem inflação abaixo de 5% no fim do ano e corte na Selic nesta semana",
-    "titulo_original": "Economistas preveem inflação abaixo de 5% no fim do ano e corte na Selic nesta semana",
-    "fonte": "Folha Mercado",
-    "publicado": "14/09 08:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de corte na Selic e inflação abaixo de 5% sugere um cenário de política monetária mais flexível. Se o Copom confirmar o corte de juros, isso pode estimular a atividade econômica; se a inflação continuar em trajetória de queda, isso reforça a possibilidade de novos cortes. Acompanhar a decisão do Copom e os dados de inflação subsequentes será crucial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789404346.2625697,
-    "titulo": "Esquenta do Copom: Fatores domésticos devem permitir a continuação do ciclo",
-    "titulo_original": "Esquenta do Copom: Fatores domésticos devem permitir a continuação do ciclo - XP Investimentos",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 11:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia sugere que fatores domésticos favorecem a continuidade do ciclo de cortes de juros pelo Copom. Se essa tendência se confirmar, pode indicar que o Banco Central está confortável com a trajetória da inflação e da atividade econômica para prosseguir com a política monetária expansionista. Acompanhar os próximos comunicados do Copom será fundamental.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789404350.1948338,
-    "titulo": "‘Tenho certeza que a eleição vai ser 51% a 49%’, afirma fundador do Market Makers",
-    "titulo_original": "‘Tenho certeza que a eleição vai ser 51% a 49%’, afirma fundador do Market Makers",
-    "fonte": "Money Times",
-    "publicado": "14/09 13:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração sobre o cenário eleitoral e a alta do petróleo, embora mencione um fator de pressão, não detalha um impacto direto em canais específicos de análise macroeconômica sem que a notícia estabeleça essa conexão. A projeção de um resultado eleitoral apertado pode indicar volatilidade política, mas sem detalhamento de políticas específicas, a relevância para os canais é limitada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789404354.0739698,
-    "titulo": "Flávio Bolsonaro cresce entre eleitores do Sudeste, mulheres e católicos",
-    "titulo_original": "Flávio Bolsonaro cresce entre eleitores do Sudeste, mulheres e católicos",
-    "fonte": "Valor Economico",
-    "publicado": "14/09 13:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia apresenta dados de pesquisa eleitoral, indicando crescimento de um candidato em segmentos específicos. Sem detalhamento de propostas fiscais ou regulatórias concretas que afetem a economia, a relevância para os canais macroeconômicos é limitada, embora o cenário político possa influenciar a percepção de risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789404359.5631542,
-    "titulo": "Estrangeiros aportam R$ 1,2 bi em ações na B3 em 10 de setembro",
-    "titulo_original": "Estrangeiros aportam R$ 1,2 bi em ações na B3 em 10 de setembro - valor.globo.com",
-    "fonte": "Google News Acoes",
-    "publicado": "14/09 11:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada de capital estrangeiro na bolsa brasileira é um indicativo de fluxo de capital para renda variável. Se essa tendência de entrada se mantiver, pode sinalizar um aumento no apetite por risco no mercado local; se houver uma reversão, pode indicar um movimento de aversão ao risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789404359.564,
-    "titulo": "Mercados europeus fecham: Petróleo dispara, apostas em alta de juros do Fed aumentam com temores de IA atingindo ações",
-    "titulo_original": "investingLive European markets wrap: Oil surges, Fed rate hike bets rise as AI fears hit stocks",
-    "fonte": "ForexLive",
-    "publicado": "14/09 08:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo e o aumento das apostas em elevação de juros pelo Fed indicam um cenário de pressão inflacionária e possível aperto monetário. Se o Fed realmente elevar os juros, isso pode ter um impacto significativo nas taxas de câmbio e no custo de capital globalmente, afetando mercados emergentes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789404359.5649564,
-    "titulo": "Fim da reeleição, pacote fiscal e 'revogaço' são prioridades dos primeiros 100 dias de Flavio, diz coordenadora",
-    "titulo_original": "Fim da reeleição, pacote fiscal e 'revogaço' são prioridades dos primeiros 100 dias de Flavio, diz coordenadora",
-    "fonte": "Valor Economico",
-    "publicado": "14/09 13:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de prioridades para um futuro governo, sem que as medidas já tenham sido decididas ou propostas formalmente em texto, indica um cenário de intenções. Se essas propostas forem concretizadas em projetos de lei ou emendas constitucionais, o impacto fiscal e regulatório poderá ser significativo, mas a relevância atual reside na sinalização de agenda.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789404359.5657504,
-    "titulo": "‘Como é que você olha empresas inexpressivas criando rombos de dezenas de bilhões?’, questiona Esteves, do BTG",
-    "titulo_original": "‘Como é que você olha empresas inexpressivas criando rombos de dezenas de bilhões?’, questiona Esteves, do BTG",
-    "fonte": "Money Times",
-    "publicado": "14/09 13:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A preocupação com o ambiente institucional e a gestão de empresas, mencionada por André Esteves, aponta para um risco percebido na governança corporativa e na regulação. Se essa percepção se generalizar, pode afetar a confiança dos investidores e o fluxo de capital, mas a notícia em si não detalha uma decisão fiscal ou regulatória concreta.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789410647.7357771,
     "titulo": "Banco Master, dólar na eleição e aposentadoria com renda: o que bombou entre investidores na semana",
     "titulo_original": "Banco Master, dólar na eleição e aposentadoria com renda: o que bombou entre investidores na semana - Estadão",
@@ -1124,5 +1016,65 @@
     "origem": "domestica",
     "leitura_critica": "A atratividade do Brasil para capital estrangeiro está condicionada a fatores macroeconômicos cruciais. Se as contas públicas apresentarem deterioração ou o câmbio se mostrar volátil, o fluxo de capital pode ser afetado negativamente, impactando o mercado local.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789515036.4202561,
+    "titulo": "Produtores do RS relatam falta de diesel e temem impacto no plantio",
+    "titulo_original": "Produtores do RS relatam falta de diesel e temem impacto no plantio",
+    "fonte": "Folha Mercado",
+    "publicado": "15/09 19:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A falta de diesel pode afetar a produção agrícola, impactando a oferta de commodities e potencialmente gerando pressões inflacionárias em alimentos. Se a questão logística não for resolvida rapidamente, o cenário de safra pode ser comprometido.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789515040.3478305,
+    "titulo": "Petróleo acima de US$ 155 amplia risco para diesel",
+    "titulo_original": "Petróleo acima de US$ 155 amplia risco para diesel - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "15/09 17:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento do preço do petróleo tem potencial de impactar os custos de transporte e produção, o que pode se refletir em pressões inflacionárias, especialmente em setores que dependem de diesel. Se os preços do petróleo se mantiverem elevados, o custo do diesel pode pressionar a inflação de bens e serviços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789515044.270971,
+    "titulo": "Mercado projeta demanda chinesa por soja ainda mais alta e cotações sobem em Chicago",
+    "titulo_original": "Mercado projeta demanda chinesa por soja ainda mais alta e cotações sobem em Chicago - Notícias Agrícolas",
+    "fonte": "Google News Commodities",
+    "publicado": "15/09 16:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento da demanda chinesa por soja e a consequente alta nas cotações em Chicago podem impactar os preços da commodity no mercado internacional. Se essa tendência se mantiver, pode haver um efeito positivo para os exportadores brasileiros de soja.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789515048.1862383,
+    "titulo": "Soja encerra em alta em Chicago, com impulso do farelo após dados de processamento nos EUA",
+    "titulo_original": "Soja encerra em alta em Chicago, com impulso do farelo após dados de processamento nos EUA - Money Times",
+    "fonte": "Google News Commodities",
+    "publicado": "15/09 17:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta da soja em Chicago, influenciada por dados de processamento nos EUA, pode ter reflexos nos preços da commodity no mercado internacional. Se os dados de processamento continuarem fortes, isso pode sustentar a demanda por soja e seus derivados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789515052.0374436,
+    "titulo": "Guerra com Irã custou US$ 38 bilhões aos EUA, diz Escritório do Orçamento do Congresso",
+    "titulo_original": "Guerra com Irã custou US$ 38 bilhões aos EUA, diz Escritório do Orçamento do Congresso - CartaCapital",
+    "fonte": "Google News Geopolitica",
+    "publicado": "15/09 19:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O custo da guerra para os EUA pode ter implicações fiscais e orçamentárias para o país. Se esses gastos se mantiverem ou aumentarem, podem influenciar as decisões de política econômica americana.",
+    "is_stocks": false
   }
 ]
