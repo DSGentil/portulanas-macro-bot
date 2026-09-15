@@ -1,184 +1,5 @@
 [
   {
-    "_timestamp": 1789383648.333185,
-    "titulo": "PIS e Cofins incidem sobre Selic em empréstimo compulsório ao Bacen",
-    "titulo_original": "PIS e Cofins incidem sobre Selic em empréstimo compulsório ao Bacen - Consultor Jurídico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/09 14:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A incidência de PIS e Cofins sobre a Selic em operações de empréstimo compulsório ao Bacen pode ter implicações na rentabilidade dessas operações e, indiretamente, no custo de captação para o sistema financeiro. Se essa tributação aumentar os custos para os bancos, isso pode se refletir em taxas de juros mais altas para o consumidor final.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789383652.213832,
-    "titulo": "Juros: o Copom ainda tem de lidar com uma política fiscal expansionista que alimenta a inflação",
-    "titulo_original": "Juros: o Copom ainda tem de lidar com uma política fiscal expansionista que alimenta a inflação - estadao.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/09 17:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia destaca o conflito entre a política monetária e a política fiscal no Brasil, onde o Copom precisa combater a inflação enquanto o governo adota medidas expansionistas. Se a política fiscal continuar expansionista, o Copom pode ter que manter os juros em patamares elevados por mais tempo para controlar a inflação, impactando o crescimento econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789383656.1592517,
-    "titulo": "Contas da Bahia pioram sob Jerônimo Rodrigues (PT), mas investimentos aumentam",
-    "titulo_original": "Contas da Bahia pioram sob Jerônimo Rodrigues (PT), mas investimentos aumentam",
-    "fonte": "Folha Mercado",
-    "publicado": "13/09 23:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A deterioração das contas fiscais da Bahia, mesmo com aumento de investimentos, levanta questões sobre a sustentabilidade fiscal do estado. Se essa tendência de piora se mantiver, pode haver pressão por ajustes fiscais futuros ou impacto na capacidade de investimento a longo prazo. A análise dos indicadores orçamentários é crucial para entender a trajetória fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789383660.034543,
-    "titulo": "Agenda de mercados: Fed, Copom e BoJ no foco dos investidores",
-    "titulo_original": "Agenda de mercados: Fed, Copom e BoJ no foco dos investidores - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/09 07:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "As reuniões de política monetária do Fed, Copom e BoJ nesta semana são cruciais para definir os rumos das taxas de juros globais. Se o Fed e o Copom sinalizarem manutenção ou aumento de juros, isso pode pressionar os mercados de risco. Uma postura mais dovish do BoJ, por outro lado, pode ter efeitos diversos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789383664.969156,
-    "titulo": "Anthropic, OpenAI e Google realizaram conversas sobre órgão de segurança de IA, diz relatório",
-    "titulo_original": "Anthropic, OpenAI and Google held talks on AI safety body, report says",
-    "fonte": "ForexLive",
-    "publicado": "13/09 23:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": null,
-    "leitura_critica": "A iniciativa de colaboração entre as gigantes de IA pode ser vista como uma tentativa de antecipar a regulamentação governamental, o que poderia ser positivo para o setor. No entanto, a concentração de poder e os custos associados a um órgão de padrões podem criar barreiras de entrada, afetando a concorrência no longo prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789383664.9694226,
-    "titulo": "Anthropic diz a investidores que terá lucro pelo segundo trimestre consecutivo",
-    "titulo_original": "Anthropic diz a investidores que terá lucro pelo segundo trimestre consecutivo",
-    "fonte": "Folha Mercado",
-    "publicado": "13/09 23:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": null,
-    "leitura_critica": "A notícia indica uma melhora na saúde financeira da Anthropic, o que pode aumentar a confiança dos investidores em sua futura oferta pública inicial. Se a empresa conseguir manter essa trajetória de lucratividade, isso pode influenciar positivamente as avaliações de outras empresas do setor de IA.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789383664.9697967,
-    "titulo": "Notícias de FX das Américas da investingLive 11 de Setembro: CPI dos EUA aumenta chances de alta de juros do Fed",
-    "titulo_original": "investingLive Americas FX news wrap 11 Sept: US CPI raises odds for Fed rate hike",
-    "fonte": "ForexLive",
-    "publicado": "11/09 18:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O CPI dos EUA acima do esperado reforça a possibilidade de o Fed aumentar os juros, o que pode impactar negativamente os mercados de ações e criptomoedas. A projeção do JPMorgan de duas altas adicionais de juros reforça essa perspectiva. Se a inflação persistir, o Fed pode ter que manter uma postura mais agressiva, afetando o cenário econômico global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789385449.7100682,
-    "titulo": "Mercado diz por que aposta em mais um corte da taxa básica de juros - UOL Economia",
-    "titulo_original": "Mercado diz por que aposta em mais um corte da taxa básica de juros - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 07:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aposta do mercado em mais um corte da taxa básica de juros sugere uma expectativa de continuidade da política monetária expansionista. Se o Banco Central confirmar esse corte, isso pode estimular o crédito e o consumo; caso contrário, a surpresa pode gerar volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789385453.7630134,
-    "titulo": "Empresas não financeiras e bancos projetam inflação de formas diferentes, mostra estudo",
-    "titulo_original": "Empresas não financeiras e bancos projetam inflação de formas diferentes, mostra estudo",
-    "fonte": "Folha Mercado",
-    "publicado": "14/09 07:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divergência nas projeções de inflação entre empresas não financeiras e o mercado financeiro pode indicar diferentes percepções sobre os riscos inflacionários. Se as empresas não financeiras estiverem subestimando a inflação, isso pode levar a decisões de precificação e investimento inadequadas. Se estiverem superestimando, pode haver cautela excessiva.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789385457.7630787,
-    "titulo": "Inflação da Índia sobe ainda mais para 4,82% em agosto, reforçando expectativas de aumento de juros",
-    "titulo_original": "India's inflation rises further to 4.82% in August, reinforcing rate hike expectations",
-    "fonte": "ForexLive",
-    "publicado": "14/09 07:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento da inflação na Índia, especialmente no setor de alimentos, pressiona o Reserve Bank of India a considerar um aperto monetário. Se o banco central decidir por um aumento de juros, isso pode desacelerar a economia indiana e ter repercussões em mercados emergentes. A manutenção da inflação dentro da banda de tolerância, porém, pode dar margens para cautela.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789385461.9876792,
-    "titulo": "Bitcoin enfrenta semana decisiva nos EUA",
-    "titulo_original": "Bitcoin enfrenta semana decisiva nos EUA",
-    "fonte": "InvestNews",
-    "publicado": "14/09 07:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão de política monetária do Fed nesta semana é crucial para o Bitcoin, pois um aumento nas taxas de juros nos EUA tende a reduzir o apetite por ativos de risco. Se o Fed sinalizar um aperto monetário mais agressivo, o Bitcoin pode sofrer pressão vendedora; caso contrário, pode haver um alívio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789385466.6265826,
-    "titulo": "Bolsas da Ásia fecham em baixa com IA, petróleo e perspectiva de aumento de juros",
-    "titulo_original": "Bolsas da Ásia fecham em baixa com IA, petróleo e perspectiva de aumento de juros",
-    "fonte": "Valor Economico",
-    "publicado": "14/09 07:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O fechamento em baixa das bolsas asiáticas reflete um sentimento de aversão ao risco global, impulsionado por preocupações com IA, petróleo e juros. Se os bancos centrais dos EUA e Japão confirmarem aumentos nas taxas de juros, isso pode intensificar a pressão sobre os mercados acionários globais. A queda das ações de IA pode indicar uma reavaliação do setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789385466.627068,
-    "titulo": "Petrobras recebe R$ 2,6 bi em subsídios ao diesel e total chega a R$ 9,5 bi - InfoMoney",
-    "titulo_original": "Petrobras recebe R$ 2,6 bi em subsídios ao diesel e total chega a R$ 9,5 bi - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "14/09 07:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O recebimento de subsídios pela Petrobras pode impactar seus resultados financeiros e a percepção de intervenção governamental. Se esses subsídios forem recorrentes, isso pode distorcer a concorrência no setor de combustíveis e afetar a precificação do diesel no longo prazo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789391744.8624194,
     "titulo": "Dólar opera em alta e vai a R$ 5,16, à espera de novas decisões de juros e de olho em quadro político brasileiro",
     "titulo_original": "Dólar opera em alta e vai a R$ 5,16, à espera de novas decisões de juros e de olho em quadro político brasileiro - g1.globo.com",
@@ -1180,6 +1001,118 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "A combinação de um preço de minério de ferro em US$ 95 e o aumento dos fretes marítimos representa um desafio para as mineradoras brasileiras. Se os fretes continuarem elevados, isso pode corroer as margens de lucro das empresas, mesmo com o preço do minério em patamares favoráveis; caso os fretes se estabilizem, as empresas podem ter um alívio nas suas operações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789497044.1201575,
+    "titulo": "Dólar à vista tem leve queda após avanço na véspera, de olho em quadro eleitoral",
+    "titulo_original": "Dólar à vista tem leve queda após avanço na véspera, de olho em quadro eleitoral - valor.globo.com",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 09:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A volatilidade do dólar reflete a atenção do mercado ao cenário eleitoral doméstico. Se o quadro eleitoral se tornar mais definido ou incerto, isso pode gerar novas pressões sobre a moeda, impactando o câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789497048.047603,
+    "titulo": "Empresários dizem esperar que STF solucione crise",
+    "titulo_original": "Empresários dizem esperar que STF solucione crise",
+    "fonte": "Folha Mercado",
+    "publicado": "15/09 12:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa do setor empresarial em relação ao STF reflete a importância da estabilidade institucional para a confiança econômica. Se o STF tomar decisões que gerem incerteza, isso pode impactar o ambiente de negócios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789497051.994233,
+    "titulo": "Boletim Cambial (15/09): Euro e Dólar PTAX",
+    "titulo_original": "Boletim Cambial (15/09): Euro e Dólar PTAX - trademap.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 13:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Notícia de acompanhamento de cotações cambiais. A PTAX é uma referência importante para contratos futuros e derivativos, mas a notícia não detalha os fatores que influenciaram as cotações do dia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789497055.9391575,
+    "titulo": "Ouro fecha em baixa, pressionado por avanço do petróleo e de juros dos Treasuries",
+    "titulo_original": "Ouro fecha em baixa, pressionado por avanço do petróleo e de juros dos Treasuries - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "15/09 14:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do ouro demonstra a influência dos juros dos Treasuries e do preço do petróleo em ativos de refúgio. Se os juros dos EUA continuarem a subir, isso tende a desfavorecer o ouro, tornando aplicações em renda fixa mais atrativas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789497061.1898804,
+    "titulo": "Por que o Ibovespa avançou mais de 1% nesta terça-feira (15)",
+    "titulo_original": "Por que o Ibovespa avançou mais de 1% nesta terça-feira (15)",
+    "fonte": "Money Times",
+    "publicado": "15/09 15:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa, apesar do cenário externo adverso, sugere que fatores domésticos, como o desempenho de commodities, tiveram maior peso. Se os rendimentos dos Treasuries continuarem a subir, isso pode pressionar o índice brasileiro no futuro, caso o fluxo de capital externo se retraia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789497061.1917052,
+    "titulo": "Área técnica do TCU sugere alertar governo sobre previsão de receitas com taxação de dividendos",
+    "titulo_original": "Área técnica do TCU sugere alertar governo sobre previsão de receitas com taxação de dividendos",
+    "fonte": "Folha Mercado",
+    "publicado": "15/09 14:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação do TCU aponta para uma possível revisão da meta de arrecadação fiscal relacionada à tributação de dividendos. Se o governo ajustar suas projeções ou a política tributária, isso pode afetar o cenário fiscal e a percepção de risco do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789497061.1934514,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 12:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Notícia de acompanhamento de cotação, sem informações sobre os fatores que movem o dólar. A volatilidade do câmbio pode ser influenciada por diversos fatores macroeconômicos e políticos, mas a notícia não os especifica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789497061.1951656,
+    "titulo": "Ibovespa sobe com apoio de Petrobras (PETR4), na contramão de NY, e sessão do STF no radar",
+    "titulo_original": "Ibovespa sobe com apoio de Petrobras (PETR4), na contramão de NY, e sessão do STF no radar - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "15/09 14:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, apesar do desempenho negativo em Nova York, indica a influência de fatores domésticos, como a Petrobras e a expectativa sobre decisões do STF. Se o STF tomar decisões com impacto fiscal ou regulatório, isso pode afetar o mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789497061.196902,
+    "titulo": "Novo CEO da B3 diz que manutenção da confiança é a prioridade de sua gestão",
+    "titulo_original": "Novo CEO da B3 diz que manutenção da confiança é a prioridade de sua gestão",
+    "fonte": "Valor Economico",
+    "publicado": "15/09 14:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do CEO da B3 enfatiza a importância da confiança para o mercado de capitais. Se a confiança no mercado for abalada, isso pode impactar o fluxo de capital e a atividade de negociação, mas a notícia não detalha como essa confiança será protegida na prática.",
     "is_stocks": true
   }
 ]
