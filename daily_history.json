@@ -963,5 +963,113 @@
     "origem": "domestica",
     "leitura_critica": "A previsão do BTG de um corte de 0,25 ponto na Selic e uma pausa no ciclo de juros sugere que o mercado pode estar precificando um fim iminente para o ciclo de flexibilização monetária. Se a decisão do Copom amanhã confirmar esse corte e a comunicação indicar uma pausa, isso pode reforçar a tendência de juros mais baixos no curto prazo, mas também sinalizar que o Banco Central vê os juros em patamares adequados para o controle da inflação; se houver qualquer desvio dessa expectativa, o mercado pode reagir com volatilidade.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789485341.6574237,
+    "titulo": "Na montanha-russa dos juros, Tesouro IPCA+ 2040 rende 460% do CDI em 6 semanas",
+    "titulo_original": "Na montanha-russa dos juros, Tesouro IPCA+ 2040 rende 460% do CDI em 6 semanas",
+    "fonte": "InvestNews",
+    "publicado": "15/09 11:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O alto rendimento do Tesouro IPCA+ 2040 reflete a sensibilidade de títulos de longo prazo às oscilações da taxa de juros. Se a trajetória de queda dos juros se confirmar, títulos indexados à inflação com vencimentos mais longos podem continuar a se valorizar, mas a volatilidade pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789485345.8719409,
+    "titulo": "Gestoras reduzem posição comprada em dólar e aumentam aposta na Bolsa brasileira, mostra pesquisa",
+    "titulo_original": "Gestoras reduzem posição comprada em dólar e aumentam aposta na Bolsa brasileira, mostra pesquisa - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução da posição comprada em dólar e o aumento da aposta na Bolsa brasileira por gestoras indicam uma percepção de melhora no cenário doméstico ou uma diminuição da aversão ao risco. Se essa tendência se mantiver, pode haver um fluxo de capital mais robusto para o mercado de ações local.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789485350.1408272,
+    "titulo": "Varejo está 1,5% abaixo do recorde da série histórica e resultado pode refletir efeito defasado de juros, diz IBGE",
+    "titulo_original": "Varejo está 1,5% abaixo do recorde da série histórica e resultado pode refletir efeito defasado de juros, diz IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "15/09 11:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas vendas do varejo, mesmo com fatores macroeconômicos positivos no mês, sugere que o impacto defasado dos juros altos ainda pode estar afetando o consumo. Se a taxa de juros começar a cair de forma consistente, o varejo pode apresentar recuperação mais robusta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789485354.687606,
+    "titulo": "Carney: Canadá permitirá depreciação imediata para a maioria dos novos investimentos de capital",
+    "titulo_original": "Carney: Canada to allow immediate expensing for most new capital investment",
+    "fonte": "ForexLive",
+    "publicado": "15/09 10:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A medida de depreciação imediata para investimentos de capital no Canadá pode incentivar a entrada de recursos no país. Se a iniciativa gerar um fluxo de capital significativo para o mercado canadense, isso pode ser um indicativo de apetite a risco em economias desenvolvidas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789485359.7985039,
+    "titulo": "Ações descontadas e juros altos aceleram êxodo de empresas da B3",
+    "titulo_original": "Ações descontadas e juros altos aceleram êxodo de empresas da B3 - bloomberglinea.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "15/09 10:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A combinação de ações descontadas e juros elevados pode tornar a B3 menos atrativa para empresas que buscam financiamento ou que avaliam o custo de oportunidade de permanecer listadas. Se as taxas de juros permanecerem altas por um período prolongado, o êxodo de empresas pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789485359.8003151,
+    "titulo": "Banco de pequeno porte recebe resgate de US$ 834 milhões após baixas contábeis",
+    "titulo_original": "Banco de pequeno porte recebe resgate de US$ 834 milhões após baixas contábeis",
+    "fonte": "Valor Economico",
+    "publicado": "15/09 11:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O resgate do banco cooperativo alemão pode indicar fragilidades em setores específicos do mercado financeiro europeu, como o imobiliário ou de crédito. Se outros bancos apresentarem problemas semelhantes, isso pode gerar preocupações sobre a estabilidade do sistema financeiro da região.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789485359.8020532,
+    "titulo": "VIX: Índice que mede percepção de risco do mercado atinge recorde na B3",
+    "titulo_original": "VIX: Índice que mede percepção de risco do mercado atinge recorde na B3 - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "15/09 10:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde do VIX na B3 sinaliza um pico de aversão ao risco no mercado brasileiro. Se esse índice se mantiver elevado, pode indicar um período de maior volatilidade e cautela por parte dos investidores, impactando o fluxo de capital para a renda variável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789485359.8037531,
+    "titulo": "Bradesco BBI aponta as ações favoritas para navegar o cenário atual e vê potencial de até 35% de alta",
+    "titulo_original": "Bradesco BBI aponta as ações favoritas para navegar o cenário atual e vê potencial de até 35% de alta",
+    "fonte": "Money Times",
+    "publicado": "15/09 11:28",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A seleção de ações pelo Bradesco BBI sugere que, mesmo em um cenário de juros elevados e desaceleração da atividade, existem setores e empresas com potencial de valorização. Se as empresas recomendadas apresentarem resultados consistentes, isso pode atrair mais investidores para essas ações.",
+    "is_stocks": true
   }
 ]
