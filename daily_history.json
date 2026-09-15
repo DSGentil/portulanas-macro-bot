@@ -881,5 +881,87 @@
     "origem": "ambas",
     "leitura_critica": "As notícias sobre a Petrobras e a Telefônica Brasil indicam movimentos corporativos relevantes. O contrato de GNL da Petrobras pode impactar a segurança energética do país, enquanto a aprovação de proventos pela Telefônica pode ser um sinal de confiança na geração de caixa. A concentração de operações do Itaú na Europa sugere uma estratégia de otimização global.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789478165.9962404,
+    "titulo": "Cortes da taxa Selic proporcionam alívio bilionário à dívida pública - UOL Economia",
+    "titulo_original": "Cortes da taxa Selic proporcionam alívio bilionário à dívida pública - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 05:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia destaca o impacto positivo dos cortes na Selic sobre o custo da dívida pública. Se o ciclo de cortes de juros continuar, o alívio na dívida pública tende a se acentuar, o que pode liberar recursos para outras áreas do orçamento; no entanto, a sustentabilidade desse alívio dependerá da trajetória futura da taxa de juros e do crescimento da economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789478170.339145,
+    "titulo": "Dólar hoje opera perto da estabilidade antes de leilões cambiais do BC - InfoMoney",
+    "titulo_original": "Dólar hoje opera perto da estabilidade antes de leilões cambiais do BC - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 09:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica que o dólar está operando com pouca variação antes de leilões cambiais do Banco Central. Se os leilões forem significativos e o BC intervir de forma a alterar a oferta de moeda, isso pode impactar a taxa de câmbio; no entanto, a notícia em si não detalha o objetivo ou o impacto esperado dessas operações, limitando a leitura a um cenário de estabilidade no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789478174.5677917,
+    "titulo": "Dólar abre em alta, com julgamento Moraes-Vorcaro e Superquarta no radar - G1",
+    "titulo_original": "Dólar abre em alta, com julgamento Moraes-Vorcaro e Superquarta no radar - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar, em meio a um julgamento no STF e à proximidade da \"Superquarta\" com decisões de juros, sugere que o mercado está precificando incertezas tanto políticas quanto monetárias. Se o julgamento no STF gerar volatilidade política adicional, isso pode sustentar o dólar mais forte; se as decisões de juros futuras indicarem um ciclo de cortes mais agressivo do que o esperado, o real pode se fortalecer e pressionar o dólar para baixo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789478178.872572,
+    "titulo": "Combustíveis caem em agosto apesar de petróleo caro; veja preços por região - UOL Economia",
+    "titulo_original": "Combustíveis caem em agosto apesar de petróleo caro; veja preços por região - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "15/09 08:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Os preços dos combustíveis no Brasil caíram em agosto, mesmo com o petróleo em patamares elevados, indicando outros fatores influenciando os custos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789478184.2407029,
+    "titulo": "Ibovespa sobe com petróleo, pesquisas eleitorais e STF no radar; 5 coisas para saber antes de investir hoje (15)",
+    "titulo_original": "Ibovespa sobe com petróleo, pesquisas eleitorais  e STF no radar; 5 coisas para saber antes de investir hoje (15)",
+    "fonte": "Money Times",
+    "publicado": "15/09 10:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa, influenciada pela expectativa de corte na Selic e por fatores políticos como o julgamento no STF, indica que o mercado está reagindo a múltiplos gatilhos. Se a decisão do Copom amanhã confirmar a expectativa de corte de juros, isso pode sustentar a alta da bolsa; se houver alguma surpresa na decisão ou na comunicação do BC, ou se o julgamento no STF gerar instabilidade política, o cenário para a bolsa pode mudar rapidamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789478184.2423942,
+    "titulo": "BTG prevê corte de 0,25 ponto na Selic e pausa no ciclo de juros - UOL Economia",
+    "titulo_original": "BTG prevê corte de 0,25 ponto na Selic e pausa no ciclo de juros - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 09:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A previsão do BTG de um corte de 0,25 ponto na Selic e uma pausa no ciclo de juros sugere que o mercado pode estar precificando um fim iminente para o ciclo de flexibilização monetária. Se a decisão do Copom amanhã confirmar esse corte e a comunicação indicar uma pausa, isso pode reforçar a tendência de juros mais baixos no curto prazo, mas também sinalizar que o Banco Central vê os juros em patamares adequados para o controle da inflação; se houver qualquer desvio dessa expectativa, o mercado pode reagir com volatilidade.",
+    "is_stocks": true
   }
 ]
