@@ -1,69 +1,5 @@
 [
   {
-    "_timestamp": 1789391744.8624194,
-    "titulo": "Dólar opera em alta e vai a R$ 5,16, à espera de novas decisões de juros e de olho em quadro político brasileiro",
-    "titulo_original": "Dólar opera em alta e vai a R$ 5,16, à espera de novas decisões de juros e de olho em quadro político brasileiro - g1.globo.com",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar para R$ 5,16 reflete a incerteza gerada pelas expectativas em torno das decisões de juros e pelo cenário político no Brasil. Se as decisões de juros forem mais restritivas do que o esperado, isso pode sustentar a valorização do dólar; caso contrário, pode haver uma reversão desse movimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789391749.4579058,
-    "titulo": "Futuros de ações caem com a alta do petróleo e proposta para desacelerar o avanço da IA",
-    "titulo_original": "Futuros de ações caem com a alta do petróleo e proposta para desacelerar o avanço da IA - Bloomberg Línea Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "14/09 05:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda nos futuros de ações reflete uma combinação de fatores de risco global, incluindo a tensão no mercado de petróleo e as preocupações regulatórias em torno da inteligência artificial. Se a proposta de desaceleração da IA for adiante, isso pode impactar o setor de tecnologia e as expectativas de crescimento futuro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789391754.0891652,
-    "titulo": "Dólar hoje avança sobre real com exterior e política brasileira no radar",
-    "titulo_original": "Dólar hoje avança sobre real com exterior e política brasileira no radar - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 09:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A valorização do dólar frente ao real, impulsionada por fatores externos e domésticos, indica um ambiente de aversão ao risco. Se as incertezas políticas no Brasil persistirem, isso pode manter o dólar em patamares elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789391758.681665,
-    "titulo": "Mercados hoje: semana começa com Super Quarta, eleições e guerra no radar",
-    "titulo_original": "Mercados hoje: semana começa com Super Quarta, eleições e guerra no radar - Bora Investir",
-    "fonte": "Google News Acoes",
-    "publicado": "14/09 09:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A convergência de eventos como a 'Super Quarta', eleições e tensões geopolíticas cria um ambiente de volatilidade para os mercados. A decisão de juros do Banco Central será crucial para direcionar o comportamento do mercado nas próximas semanas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789391764.0117095,
-    "titulo": "Ibovespa Futuro cai mais de 1% com exterior negativo e de olho na crise do STF",
-    "titulo_original": "Ibovespa Futuro cai mais de 1% com exterior negativo e de olho na crise do STF - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "14/09 09:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa Futuro demonstra a sensibilidade do mercado brasileiro a fatores externos e a eventos domésticos de instabilidade política. Se a crise no STF se agravar, isso pode intensificar a pressão vendedora sobre os ativos brasileiros.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789398938.312287,
     "titulo": "Durigan sugere nova rodada de redução linear dos benefícios tributários infraconstitucionais",
     "titulo_original": "Durigan sugere nova rodada de redução linear dos benefícios tributários infraconstitucionais",
@@ -1113,6 +1049,70 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A declaração do CEO da B3 enfatiza a importância da confiança para o mercado de capitais. Se a confiança no mercado for abalada, isso pode impactar o fluxo de capital e a atividade de negociação, mas a notícia não detalha como essa confiança será protegida na prática.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789504316.4335573,
+    "titulo": "MacroSector vê receita agrícola em queda, soja firme e relação de troca piorando para o produtor em 2026",
+    "titulo_original": "MacroSector vê receita agrícola em queda, soja firme e relação de troca piorando para o produtor em 2026 - AgFeed",
+    "fonte": "Google News Commodities",
+    "publicado": "15/09 17:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de piora na relação de troca para o produtor agrícola em 2026 sugere um cenário desafiador para o setor. Se os custos de produção aumentarem mais que os preços recebidos pelas commodities, a rentabilidade pode ser afetada. A firmeza da soja, no entanto, pode oferecer algum alívio em partes do mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789504321.1376524,
+    "titulo": "Banco Central injeta US$ 1 bilhão no mercado à vista em meio a saída de dólares",
+    "titulo_original": "Banco Central injeta US$ 1 bilhão no mercado à vista em meio a saída de dólares",
+    "fonte": "Folha Mercado",
+    "publicado": "15/09 13:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A injeção de US$ 1 bilhão pelo Banco Central no mercado de câmbio visa mitigar a saída de dólares. Se a saída de capital persistir, o BC pode precisar de novas intervenções para estabilizar a moeda. A ação do BC indica uma tentativa de controlar a volatilidade cambial e manter a liquidez no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789504325.9395907,
+    "titulo": "Câmbio sustenta derivados da soja no mercado brasileiro",
+    "titulo_original": "Câmbio sustenta derivados da soja no mercado brasileiro - agrolink.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "15/09 13:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A influência do câmbio na sustentação dos derivados da soja no Brasil sugere que a desvalorização do real pode estar tornando esses produtos mais competitivos no mercado internacional. Se o câmbio continuar favorável, pode impulsionar as exportações e a produção desses derivados. A relação entre câmbio e commodities agrícolas é um ponto chave para o agronegócio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789504330.6145751,
+    "titulo": "Kalil defende renegociação do Propag e fim de isenção fiscal para empresas",
+    "titulo_original": "Kalil defende renegociação do Propag e fim de isenção fiscal para empresas",
+    "fonte": "Valor Economico",
+    "publicado": "15/09 16:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de Alexandre Kalil de renegociar o Propag e acabar com isenções fiscais para empresas visa aumentar a arrecadação estadual. Se eleito, a implementação dessas medidas pode impactar o ambiente de negócios e a dívida pública de Minas Gerais. A renegociação da dívida com a União dependerá de articulação política com outros entes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789504336.1007028,
+    "titulo": "Ações de petrolíferas brasileiras sobem em bloco com avanço do petróleo",
+    "titulo_original": "Ações de petrolíferas brasileiras sobem em bloco com avanço do petróleo",
+    "fonte": "Folha Mercado",
+    "publicado": "15/09 13:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta das ações de petrolíferas brasileiras reflete diretamente o movimento de alta do preço do petróleo no mercado internacional. Se o petróleo continuar a subir, essas ações tendem a se beneficiar. A correlação direta entre o preço do barril e o desempenho dessas empresas é um fator chave a ser observado.",
     "is_stocks": true
   }
 ]
