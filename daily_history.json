@@ -788,5 +788,98 @@
     "origem": "externa",
     "leitura_critica": "A alta do petróleo, impulsionada por problemas na oferta, pode gerar pressões inflacionárias globais e impactar custos de produção em diversos setores. Se a paralisação no oleoduto saudita for prolongada, isso pode sustentar os preços do petróleo em patamares elevados no curto prazo.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1789471857.0184073,
+    "titulo": "Copom Deve Cortar Juros, Mas Inflação Futura e Fiscal Estreitam Espaço para Novas Quedas - Forbes Brasil",
+    "titulo_original": "Copom Deve Cortar Juros, Mas Inflação Futura e Fiscal Estreitam Espaço para Novas Quedas - Forbes Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de corte de juros pelo Copom, mas com espaço limitado por inflação e fiscal, aponta para um ciclo de afrouxamento monetário mais cauteloso. Se os indicadores de inflação e o quadro fiscal se deteriorarem, o Copom pode pausar ou reduzir o ritmo dos cortes; caso contrário, e se a inflação ceder de forma consistente, o espaço para novas quedas pode se ampliar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789471862.2784765,
+    "titulo": "Fed de Warsh deverá elevar juros em desafio às pressões de Trump - Valor Econômico",
+    "titulo_original": "Fed de Warsh deverá elevar juros em desafio às pressões de Trump - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "15/09 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do Fed de elevar os juros, mesmo diante de pressões políticas, sugere uma prioridade em controlar a inflação. Se a inflação continuar alta, o Fed pode prosseguir com aumentos mais agressivos; caso contrário, e se a economia mostrar sinais de desaceleração, o ritmo de aperto pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789471867.6203907,
+    "titulo": "Rendimentos dos títulos dos EUA atingem maior patamar desde 2007 com conflito no Irã",
+    "titulo_original": "Rendimentos dos títulos dos EUA atingem maior patamar desde 2007 com conflito no Irã",
+    "fonte": "Folha Mercado",
+    "publicado": "15/09 07:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento nos rendimentos dos títulos dos EUA reflete a aversão ao risco e as expectativas de inflação impulsionadas pelo petróleo. Se as tensões no Oriente Médio persistirem e os bancos centrais sinalizarem aperto monetário, os rendimentos podem continuar subindo; caso contrário, uma desescalada do conflito e um tom mais dovish dos bancos centrais poderiam reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789471873.0681298,
+    "titulo": "Petróleo sobe pelo segundo dia com escalada no Oriente Médio e interrupções na oferta",
+    "titulo_original": "Petróleo sobe pelo segundo dia com escalada no Oriente Médio e interrupções na oferta",
+    "fonte": "Valor Economico",
+    "publicado": "15/09 08:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A persistência da escalada de tensões no Oriente Médio e as interrupções na oferta de petróleo tendem a manter os preços elevados. Se o conflito se intensificar, o Brent pode testar patamares ainda maiores; caso contrário, uma resolução diplomática ou a normalização do fornecimento podem levar a uma correção nos preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789471879.6304855,
+    "titulo": "Mercado de trabalho do Reino Unido esfria ainda mais com queda de empregos e desaceleração do crescimento salarial",
+    "titulo_original": "UK labour market cools further as payrolls fall and wage growth slows",
+    "fonte": "ForexLive",
+    "publicado": "15/09 03:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração no mercado de trabalho do Reino Unido pode reforçar a expectativa de que o Banco da Inglaterra mantenha uma postura cautelosa em relação a aumentos de juros. Se os dados de inflação futuros continuarem moderados, isso pode abrir espaço para discussões sobre cortes, mas a persistência de pressões salariais pode limitar essa possibilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789471879.6319358,
+    "titulo": "Petrobras fecha acordo para importação de gás natural liquefeito dos EUA por duas décadas - Agência eixos",
+    "titulo_original": "Petrobras fecha acordo para importação de gás natural liquefeito dos EUA por duas décadas - Agência eixos",
+    "fonte": "Google News Acoes",
+    "publicado": "15/09 07:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O acordo de importação de GNL pela Petrobras com os EUA visa garantir o suprimento de energia a longo prazo. Se a demanda por gás natural continuar crescendo e os preços se mantiverem competitivos, esse contrato pode ser vantajoso para o Brasil; caso contrário, a volatilidade dos preços internacionais pode impactar a rentabilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789471879.6333363,
+    "titulo": "Agenda de empresas: Petrobras assina contrato para compra de gás nos EUA; Telefônica aprova proventos",
+    "titulo_original": "Agenda de empresas: Petrobras assina contrato para compra de gás nos EUA; Telefônica aprova proventos",
+    "fonte": "Valor Economico",
+    "publicado": "15/09 08:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "As notícias sobre a Petrobras e a Telefônica Brasil indicam movimentos corporativos relevantes. O contrato de GNL da Petrobras pode impactar a segurança energética do país, enquanto a aprovação de proventos pela Telefônica pode ser um sinal de confiança na geração de caixa. A concentração de operações do Itaú na Europa sugere uma estratégia de otimização global.",
+    "is_stocks": true
   }
 ]
