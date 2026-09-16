@@ -1,115 +1,5 @@
 [
   {
-    "_timestamp": 1789490754.7039824,
-    "titulo": "Lula sanciona lei que suspende tributos federais sobre equipamentos de Datacenter",
-    "titulo_original": "Lula sanciona lei que suspende tributos federais sobre equipamentos  de Datacenter",
-    "fonte": "Valor Economico",
-    "publicado": "15/09 13:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A sanção da lei Redata representa um incentivo fiscal para o setor de datacenter no Brasil, com um impacto fiscal estimado em R$ 5,2 bilhões em 2026. Se a medida for eficaz em atrair investimentos, pode impulsionar o desenvolvimento da infraestrutura digital do país; caso contrário, o impacto fiscal pode ser menor do que o projetado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789490759.0852692,
-    "titulo": "Economistas veem déficit primário menor e dívida mais alta em 2026 e 2027, mostra Prisma",
-    "titulo_original": "Economistas veem déficit primário menor e dívida mais alta em 2026 e 2027, mostra Prisma",
-    "fonte": "Money Times",
-    "publicado": "15/09 12:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A melhora nas projeções do déficit primário, aliada a uma expectativa de aumento da dívida pública, indica um cenário fiscal complexo para os próximos anos. Se o governo conseguir manter o controle das despesas e impulsionar a arrecadação, a trajetória da dívida pode ser estabilizada; caso contrário, o endividamento pode se tornar um ponto de atenção para a economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789490763.6906564,
-    "titulo": "Super Quarta: Copom e Fed vão mexer com os juros? Veja o que esperar",
-    "titulo_original": "Super Quarta: Copom e Fed vão mexer com os juros? Veja o que esperar - InvesTalk",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 10:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A \"Super Quarta\", com decisões de juros do Copom e do Fed, é um evento de alta relevância para os mercados. Se o Copom decidir por um corte de juros mais agressivo do que o esperado, isso pode impulsionar a bolsa brasileira; se o Fed sinalizar mais altas de juros, isso pode pressionar o câmbio e os ativos de risco no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789490768.6915152,
-    "titulo": "Produtores menores de minério de ferro do Brasil são prejudicados pela alta do frete marítimo",
-    "titulo_original": "Produtores menores de minério de ferro do Brasil são prejudicados pela alta do frete marítimo",
-    "fonte": "InvestNews",
-    "publicado": "15/09 09:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do frete marítimo, impulsionada por conflitos geopolíticos e custos de combustível, impacta negativamente os produtores de minério de ferro de menor porte no Brasil. Se essa tendência de fretes elevados persistir, pode haver uma consolidação no setor, com empresas menores sendo forçadas a sair do mercado ou a serem adquiridas por concorrentes maiores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789490908.691956,
-    "titulo": "Bolsas europeias recuam em meio ao avanço do petróleo e dos títulos soberanos",
-    "titulo_original": "Bolsas europeias recuam em meio ao avanço do petróleo e dos títulos soberanos",
-    "fonte": "Valor Economico",
-    "publicado": "15/09 13:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda das bolsas europeias, impulsionada pela alta do petróleo e pela pressão sobre os juros, reflete um cenário de aversão ao risco e preocupações inflacionárias. Se o preço do petróleo continuar a subir e os juros dos títulos soberanos aumentarem, isso pode levar a uma desaceleração econômica na Europa e afetar o desempenho de outros mercados globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789490908.693274,
-    "titulo": "Estrangeiros retiram R$ 100,8 milhões na B3 em 11 de setembro",
-    "titulo_original": "Estrangeiros retiram R$ 100,8 milhões na B3 em 11 de setembro - valor.globo.com",
-    "fonte": "Google News Acoes",
-    "publicado": "15/09 11:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A retirada de capital estrangeiro da B3 em R$ 100,8 milhões em 11 de setembro pode indicar uma cautela dos investidores com o mercado brasileiro. Se essa tendência de saída de capital se mantiver, pode pressionar o Ibovespa e o câmbio; caso contrário, uma reversão desse fluxo pode impulsionar os ativos locais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789490908.694634,
-    "titulo": "BofA melhora projeção para o S&P 500, mas alerta para inflação, Fed e crédito",
-    "titulo_original": "BofA melhora projeção para o S&P 500, mas alerta para inflação, Fed e crédito - estadao.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 13:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A melhora na projeção para o S&P 500 pelo BofA, contrastada com alertas sobre inflação e o Fed, sugere um cenário de otimismo cauteloso para o mercado de ações americano. Se as preocupações com inflação e a política monetária do Fed se materializarem, o desempenho do S&P 500 pode ser afetado negativamente; caso contrário, a projeção otimista pode se concretizar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789490908.695916,
-    "titulo": "Minério a US$ 95 desafia setor em meio à alta dos fretes: VALE3 e CMIN3 sob pressão?",
-    "titulo_original": "Minério a US$ 95 desafia setor em meio à alta dos fretes: VALE3 e CMIN3 sob pressão? - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "15/09 13:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de um preço de minério de ferro em US$ 95 e o aumento dos fretes marítimos representa um desafio para as mineradoras brasileiras. Se os fretes continuarem elevados, isso pode corroer as margens de lucro das empresas, mesmo com o preço do minério em patamares favoráveis; caso os fretes se estabilizem, as empresas podem ter um alívio nas suas operações.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789497044.1201575,
     "titulo": "Dólar à vista tem leve queda após avanço na véspera, de olho em quadro eleitoral",
     "titulo_original": "Dólar à vista tem leve queda após avanço na véspera, de olho em quadro eleitoral - valor.globo.com",
@@ -1100,6 +990,88 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A notícia sugere que a combinação da Selic em patamar ainda elevado e a queda nos preços do petróleo criam um ambiente desafiador para a bolsa brasileira. Se o petróleo apresentar uma recuperação significativa, isso pode aliviar a pressão sobre o IBOV, mas a taxa de juros ainda pode ser um fator limitante para o desempenho das ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789601446.860838,
+    "titulo": "Copom mantém projeção para o IPCA no horizonte relevante em 3,2% - Valor Econômico",
+    "titulo_original": "Copom mantém projeção para o IPCA no horizonte relevante em 3,2% - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/09 19:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da projeção de inflação em 3,2% pelo Copom sugere que o comitê avalia que as pressões inflacionárias estão sob controle. Se os próximos dados de inflação vierem acima dessa projeção, o Banco Central pode ter que rever sua postura em relação à política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789601451.8207014,
+    "titulo": "Análise: Copom mantém decisão de novembro em aberto, à espera dos dados - Valor Econômico",
+    "titulo_original": "Análise: Copom mantém decisão de novembro em aberto, à espera dos dados - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/09 20:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A incerteza em torno da decisão do Copom em novembro indica que os dados econômicos futuros terão um peso significativo na definição da política monetária. Se os indicadores vierem desfavoráveis, o Banco Central pode adiar ou reduzir o ritmo de cortes na Selic.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789601456.7555013,
+    "titulo": "Juros longos sustentam queda, mas curtos sobem após decisão do Fed",
+    "titulo_original": "Juros longos sustentam queda, mas curtos sobem após decisão do Fed",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 17:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divergência nos juros futuros reflete a incerteza do mercado em relação à política monetária doméstica e externa. Se o Copom confirmar o corte de 0,25 ponto percentual, o foco se voltará para os próximos passos e o cenário fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789601461.7549987,
+    "titulo": "Fed eleva juros pela 1ª vez desde julho de 2023 apesar das pressões de Trump - Valor Econômico",
+    "titulo_original": "Fed eleva juros pela 1ª vez desde julho de 2023 apesar das pressões de Trump - Valor Econômico",
+    "fonte": "Google News Geopolitica",
+    "publicado": "16/09 15:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do Fed de aumentar os juros, mesmo sob pressão política, demonstra a prioridade do banco central em combater a inflação. Se as pressões políticas persistirem, isso pode criar volatilidade nas decisões futuras do Fed.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789601467.5369036,
+    "titulo": "Ibovespa amplia perdas após tom mais agressivo do Fed",
+    "titulo_original": "Ibovespa amplia perdas após tom mais agressivo do Fed",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 17:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O tom mais agressivo do Fed impactou negativamente o Ibovespa, demonstrando a sensibilidade do mercado local a decisões de política monetária externa. A queda nas ações da Petrobras, ligada ao preço do petróleo, também contribuiu para o desempenho negativo do índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789601467.5382838,
+    "titulo": "Bradesco levanta R$ 6,5 bi na primeira fase de aumento de capital e fará rateio de sobras",
+    "titulo_original": "Bradesco levanta R$ 6,5 bi na primeira fase de aumento de capital e fará rateio de sobras",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 20:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A captação de recursos pelo Bradesco indica uma estratégia para fortalecer sua base de capital. O sucesso dessa operação pode ser um indicativo da confiança do mercado na instituição financeira.",
     "is_stocks": true
   }
 ]
