@@ -1,87 +1,5 @@
 [
   {
-    "_timestamp": 1789478165.9962404,
-    "titulo": "Cortes da taxa Selic proporcionam alívio bilionário à dívida pública - UOL Economia",
-    "titulo_original": "Cortes da taxa Selic proporcionam alívio bilionário à dívida pública - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 05:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia destaca o impacto positivo dos cortes na Selic sobre o custo da dívida pública. Se o ciclo de cortes de juros continuar, o alívio na dívida pública tende a se acentuar, o que pode liberar recursos para outras áreas do orçamento; no entanto, a sustentabilidade desse alívio dependerá da trajetória futura da taxa de juros e do crescimento da economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789478170.339145,
-    "titulo": "Dólar hoje opera perto da estabilidade antes de leilões cambiais do BC - InfoMoney",
-    "titulo_original": "Dólar hoje opera perto da estabilidade antes de leilões cambiais do BC - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 09:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica que o dólar está operando com pouca variação antes de leilões cambiais do Banco Central. Se os leilões forem significativos e o BC intervir de forma a alterar a oferta de moeda, isso pode impactar a taxa de câmbio; no entanto, a notícia em si não detalha o objetivo ou o impacto esperado dessas operações, limitando a leitura a um cenário de estabilidade no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789478174.5677917,
-    "titulo": "Dólar abre em alta, com julgamento Moraes-Vorcaro e Superquarta no radar - G1",
-    "titulo_original": "Dólar abre em alta, com julgamento Moraes-Vorcaro e Superquarta no radar - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar, em meio a um julgamento no STF e à proximidade da \"Superquarta\" com decisões de juros, sugere que o mercado está precificando incertezas tanto políticas quanto monetárias. Se o julgamento no STF gerar volatilidade política adicional, isso pode sustentar o dólar mais forte; se as decisões de juros futuras indicarem um ciclo de cortes mais agressivo do que o esperado, o real pode se fortalecer e pressionar o dólar para baixo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789478178.872572,
-    "titulo": "Combustíveis caem em agosto apesar de petróleo caro; veja preços por região - UOL Economia",
-    "titulo_original": "Combustíveis caem em agosto apesar de petróleo caro; veja preços por região - UOL Economia",
-    "fonte": "Google News Commodities",
-    "publicado": "15/09 08:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os preços dos combustíveis no Brasil caíram em agosto, mesmo com o petróleo em patamares elevados, indicando outros fatores influenciando os custos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789478184.2407029,
-    "titulo": "Ibovespa sobe com petróleo, pesquisas eleitorais e STF no radar; 5 coisas para saber antes de investir hoje (15)",
-    "titulo_original": "Ibovespa sobe com petróleo, pesquisas eleitorais  e STF no radar; 5 coisas para saber antes de investir hoje (15)",
-    "fonte": "Money Times",
-    "publicado": "15/09 10:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa, influenciada pela expectativa de corte na Selic e por fatores políticos como o julgamento no STF, indica que o mercado está reagindo a múltiplos gatilhos. Se a decisão do Copom amanhã confirmar a expectativa de corte de juros, isso pode sustentar a alta da bolsa; se houver alguma surpresa na decisão ou na comunicação do BC, ou se o julgamento no STF gerar instabilidade política, o cenário para a bolsa pode mudar rapidamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789478184.2423942,
-    "titulo": "BTG prevê corte de 0,25 ponto na Selic e pausa no ciclo de juros - UOL Economia",
-    "titulo_original": "BTG prevê corte de 0,25 ponto na Selic e pausa no ciclo de juros - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 09:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A previsão do BTG de um corte de 0,25 ponto na Selic e uma pausa no ciclo de juros sugere que o mercado pode estar precificando um fim iminente para o ciclo de flexibilização monetária. Se a decisão do Copom amanhã confirmar esse corte e a comunicação indicar uma pausa, isso pode reforçar a tendência de juros mais baixos no curto prazo, mas também sinalizar que o Banco Central vê os juros em patamares adequados para o controle da inflação; se houver qualquer desvio dessa expectativa, o mercado pode reagir com volatilidade.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789485341.6574237,
     "titulo": "Na montanha-russa dos juros, Tesouro IPCA+ 2040 rende 460% do CDI em 6 semanas",
     "titulo_original": "Na montanha-russa dos juros, Tesouro IPCA+ 2040 rende 460% do CDI em 6 semanas",
@@ -1121,6 +1039,89 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A abertura de vagas de estágio por grandes empresas indica um movimento no mercado de trabalho, mas o impacto macroeconômico imediato é limitado. Se esse movimento se generalizar e for acompanhado por contratações em larga escala, pode sinalizar uma melhora na atividade econômica e no emprego.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789590649.9334018,
+    "titulo": "Preview do PIB do 2º trimestre da Nova Zelândia enquanto o RBNZ pondera o momento do próximo aumento da taxa de juros",
+    "titulo_original": "New Zealand Q2 GDP preview as RBNZ weighs timing of its next rate hike",
+    "fonte": "ForexLive",
+    "publicado": "16/09 17:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O resultado do PIB da Nova Zelândia é crucial para as decisões futuras do RBNZ sobre a taxa de juros. Se o dado vier abaixo do esperado, pode reforçar a expectativa de um adiamento no próximo aumento de juros, pressionando a moeda local. Caso contrário, o impacto pode ser neutro nas expectativas de juros, mas positivo para a percepção de recuperação econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789590655.6004705,
+    "titulo": "Warsh alerta sobre ‘o ativo mais importante do mundo’ após juros chegarem a 5%",
+    "titulo_original": "Warsh faz alerta sobre ‘o ativo mais importante do mundo’ após juros chegarem a 5%",
+    "fonte": "Money Times",
+    "publicado": "16/09 16:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A fala de Warsh e a decisão do Fed sobre os juros indicam um cenário de aperto monetário contínuo nos EUA. Se a economia americana continuar forte, a pressão por mais aumentos de juros pode persistir, impactando o fluxo de capital global e a precificação de ativos de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789590660.9078126,
+    "titulo": "Calendário econômico e de eventos na Ásia Quinta-feira, 17 de Setembro de 2026. FOMC concluído, seguindo em frente!",
+    "titulo_original": "Economic and event calendar in Asia Thursday, September 17, 2026. FOMC done, moving on!",
+    "fonte": "ForexLive",
+    "publicado": "16/09 17:12",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia menciona o aumento de juros do FOMC, o que é relevante para o canal 'juros'. No entanto, a descrição de 'chata' e 'nada inesperado aconteceu' sugere que o evento já estava precificado pelo mercado, limitando seu impacto como gatilho de movimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789590667.4246664,
+    "titulo": "Assaí (ASAI3): O que está por trás da alta desta quarta-feira (16) e do avanço de 36% no ano?",
+    "titulo_original": "Assaí (ASAI3): O que está por trás da alta desta quarta-feira (16) e do avanço de 36% no ano?",
+    "fonte": "Money Times",
+    "publicado": "16/09 16:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão de preço-alvo do Assaí pelo BofA, associada à perspectiva de juros mais baixos e inflação crescente, sugere um cenário favorável para o setor varejista. Se a expectativa de juros mais baixos se concretizar, isso pode impulsionar o consumo e, consequentemente, o desempenho de empresas como o Assaí.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789590667.426497,
+    "titulo": "Ações da Braskem caem até 14,6%; UBS BB rebaixa recomendação do papel - UOL Economia",
+    "titulo_original": "Ações da Braskem caem até 14,6%; UBS BB rebaixa recomendação do papel - UOL Economia",
+    "fonte": "Google News Acoes",
+    "publicado": "16/09 14:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata de uma recomendação de analista e a consequente queda no preço das ações de uma empresa específica. Por não afetar o mercado como um todo ou um setor de forma ampla, sua relevância macroeconômica é limitada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789590667.428161,
+    "titulo": "CEO do Goldman alerta para custos mais altos e desempenho mais fraco em renda fixa",
+    "titulo_original": "CEO do Goldman alerta para custos mais altos e desempenho mais fraco em renda fixa",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 16:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do CEO do Goldman Sachs sobre o desempenho de renda fixa e custos mais altos é uma informação relevante sobre o setor financeiro. No entanto, por se tratar de uma empresa específica e não de uma decisão macroeconômica, sua relevância para o mercado de WDO é indireta e não especificada no texto.",
     "is_stocks": true
   }
 ]
