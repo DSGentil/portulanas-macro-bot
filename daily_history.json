@@ -1,98 +1,5 @@
 [
   {
-    "_timestamp": 1789471857.0184073,
-    "titulo": "Copom Deve Cortar Juros, Mas Inflação Futura e Fiscal Estreitam Espaço para Novas Quedas - Forbes Brasil",
-    "titulo_original": "Copom Deve Cortar Juros, Mas Inflação Futura e Fiscal Estreitam Espaço para Novas Quedas - Forbes Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de corte de juros pelo Copom, mas com espaço limitado por inflação e fiscal, aponta para um ciclo de afrouxamento monetário mais cauteloso. Se os indicadores de inflação e o quadro fiscal se deteriorarem, o Copom pode pausar ou reduzir o ritmo dos cortes; caso contrário, e se a inflação ceder de forma consistente, o espaço para novas quedas pode se ampliar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789471862.2784765,
-    "titulo": "Fed de Warsh deverá elevar juros em desafio às pressões de Trump - Valor Econômico",
-    "titulo_original": "Fed de Warsh deverá elevar juros em desafio às pressões de Trump - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do Fed de elevar os juros, mesmo diante de pressões políticas, sugere uma prioridade em controlar a inflação. Se a inflação continuar alta, o Fed pode prosseguir com aumentos mais agressivos; caso contrário, e se a economia mostrar sinais de desaceleração, o ritmo de aperto pode diminuir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789471867.6203907,
-    "titulo": "Rendimentos dos títulos dos EUA atingem maior patamar desde 2007 com conflito no Irã",
-    "titulo_original": "Rendimentos dos títulos dos EUA atingem maior patamar desde 2007 com conflito no Irã",
-    "fonte": "Folha Mercado",
-    "publicado": "15/09 07:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento nos rendimentos dos títulos dos EUA reflete a aversão ao risco e as expectativas de inflação impulsionadas pelo petróleo. Se as tensões no Oriente Médio persistirem e os bancos centrais sinalizarem aperto monetário, os rendimentos podem continuar subindo; caso contrário, uma desescalada do conflito e um tom mais dovish dos bancos centrais poderiam reverter essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789471873.0681298,
-    "titulo": "Petróleo sobe pelo segundo dia com escalada no Oriente Médio e interrupções na oferta",
-    "titulo_original": "Petróleo sobe pelo segundo dia com escalada no Oriente Médio e interrupções na oferta",
-    "fonte": "Valor Economico",
-    "publicado": "15/09 08:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A persistência da escalada de tensões no Oriente Médio e as interrupções na oferta de petróleo tendem a manter os preços elevados. Se o conflito se intensificar, o Brent pode testar patamares ainda maiores; caso contrário, uma resolução diplomática ou a normalização do fornecimento podem levar a uma correção nos preços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789471879.6304855,
-    "titulo": "Mercado de trabalho do Reino Unido esfria ainda mais com queda de empregos e desaceleração do crescimento salarial",
-    "titulo_original": "UK labour market cools further as payrolls fall and wage growth slows",
-    "fonte": "ForexLive",
-    "publicado": "15/09 03:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração no mercado de trabalho do Reino Unido pode reforçar a expectativa de que o Banco da Inglaterra mantenha uma postura cautelosa em relação a aumentos de juros. Se os dados de inflação futuros continuarem moderados, isso pode abrir espaço para discussões sobre cortes, mas a persistência de pressões salariais pode limitar essa possibilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789471879.6319358,
-    "titulo": "Petrobras fecha acordo para importação de gás natural liquefeito dos EUA por duas décadas - Agência eixos",
-    "titulo_original": "Petrobras fecha acordo para importação de gás natural liquefeito dos EUA por duas décadas - Agência eixos",
-    "fonte": "Google News Acoes",
-    "publicado": "15/09 07:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "O acordo de importação de GNL pela Petrobras com os EUA visa garantir o suprimento de energia a longo prazo. Se a demanda por gás natural continuar crescendo e os preços se mantiverem competitivos, esse contrato pode ser vantajoso para o Brasil; caso contrário, a volatilidade dos preços internacionais pode impactar a rentabilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789471879.6333363,
-    "titulo": "Agenda de empresas: Petrobras assina contrato para compra de gás nos EUA; Telefônica aprova proventos",
-    "titulo_original": "Agenda de empresas: Petrobras assina contrato para compra de gás nos EUA; Telefônica aprova proventos",
-    "fonte": "Valor Economico",
-    "publicado": "15/09 08:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "As notícias sobre a Petrobras e a Telefônica Brasil indicam movimentos corporativos relevantes. O contrato de GNL da Petrobras pode impactar a segurança energética do país, enquanto a aprovação de proventos pela Telefônica pode ser um sinal de confiança na geração de caixa. A concentração de operações do Itaú na Europa sugere uma estratégia de otimização global.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789478165.9962404,
     "titulo": "Cortes da taxa Selic proporcionam alívio bilionário à dívida pública - UOL Economia",
     "titulo_original": "Cortes da taxa Selic proporcionam alívio bilionário à dívida pública - UOL Economia",
@@ -1146,6 +1053,74 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A movimentação mista do Ibovespa, com queda em Petrobras e alta no varejo, reflete a cautela do mercado em antecipação às decisões de juros. Se as decisões forem favoráveis ao mercado, ações de varejo podem se beneficiar de um cenário de consumo mais aquecido; se forem restritivas, o setor pode sofrer.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789583455.4029503,
+    "titulo": "Patrus Ananias propõe alongar dívida com União em dez anos e elevar tributação",
+    "titulo_original": "Patrus Ananias propõe alongar dívida com União em dez anos e elevar tributação",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 14:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de alongamento da dívida e redução de juros por um candidato ao governo estadual pode sinalizar uma renegociação fiscal significativa se eleita. Se a proposta for implementada, isso poderia aliviar a pressão fiscal do estado, mas a elevação da tributação mencionada pode impactar a atividade econômica local.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789583460.471377,
+    "titulo": "Fluxo cambial registra entrada de US$ 706 milhões entre os dias 8 e 11 de setembro",
+    "titulo_original": "Fluxo cambial registra entrada de US$ 706 milhões entre os dias 8 e 11 de setembro",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 14:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada líquida de capital estrangeiro, mesmo que modesta no período recente, contribui para a liquidez do mercado. Se essa tendência se mantiver, pode sustentar o real e influenciar a dinâmica de juros e inflação; caso contrário, uma reversão pode pressionar a moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789583465.7827733,
+    "titulo": "Contas públicas e falta de mão de obra desafiam crescimento do agronegócio",
+    "titulo_original": "Contas públicas e falta de mão de obra desafiam crescimento do agronegócio",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 14:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O desequilíbrio das contas públicas é um fator que pode levar a decisões fiscais e regulatórias futuras. Se a escassez de mão de obra persistir, pode impactar a produção e, consequentemente, a atividade econômica do setor, exigindo possíveis intervenções governamentais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789583470.9064338,
+    "titulo": "Alta do petróleo e dos combustíveis pressiona governos e economias pelo mundo",
+    "titulo_original": "Alta do petróleo e dos combustíveis pressiona governos e economias pelo mundo",
+    "fonte": "Folha Mercado",
+    "publicado": "16/09 14:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo e combustíveis tem impacto direto na inflação global e pode afetar a atividade econômica em diversos países, incluindo o Brasil, através do aumento dos custos de produção e transporte. Se essa pressão inflacionária se mantiver, pode levar a decisões de política monetária mais restritivas em diversas economias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789583477.4717476,
+    "titulo": "Reckitt, Samsung, Toyota e outras grandes empresas abrem vagas de estágio",
+    "titulo_original": "Reckitt, Samsung, Toyota e outras grandes empresas abrem vagas de estágio",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 14:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A abertura de vagas de estágio por grandes empresas indica um movimento no mercado de trabalho, mas o impacto macroeconômico imediato é limitado. Se esse movimento se generalizar e for acompanhado por contratações em larga escala, pode sinalizar uma melhora na atividade econômica e no emprego.",
     "is_stocks": true
   }
 ]
