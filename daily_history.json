@@ -1,342 +1,5 @@
 [
   {
-    "_timestamp": 1789410647.7357771,
-    "titulo": "Banco Master, dólar na eleição e aposentadoria com renda: o que bombou entre investidores na semana",
-    "titulo_original": "Banco Master, dólar na eleição e aposentadoria com renda: o que bombou entre investidores na semana - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 14:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A atenção dos investidores a temas como o dólar em período eleitoral e a aposentadoria indica um cenário de busca por segurança e planejamento financeiro. Se as eleições trouxerem maior clareza sobre o futuro econômico, a confiança dos investidores pode aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789410653.0834384,
-    "titulo": "Dólar hoje sobe com exterior e política no radar",
-    "titulo_original": "Dólar hoje sobe com exterior e política no radar - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 11:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A valorização do dólar pode ser atribuída a fatores externos, como a política monetária de outros países, e a fatores internos, como incertezas políticas. Se o cenário externo se agravar ou as tensões políticas internas aumentarem, o dólar pode continuar sua trajetória de alta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789410658.5015833,
-    "titulo": "Ouro recua com avanço do dólar e alta de juros americanos no horizonte",
-    "titulo_original": "Ouro recua com avanço do dólar e alta de juros americanos no horizonte",
-    "fonte": "Valor Economico",
-    "publicado": "14/09 15:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A possibilidade de novos aumentos nas taxas de juros pelos principais bancos centrais pode manter o ouro sob pressão. Se a reunião do Fed sinalizar um aperto monetário mais agressivo do que o esperado, o ouro pode continuar em trajetória de queda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789410663.85443,
-    "titulo": "Juros de 10 anos nos EUA atingem maior nível desde 2023; por que isso importa?",
-    "titulo_original": "Juros de 10 anos nos EUA atingem maior nível desde 2023; por que isso importa?",
-    "fonte": "Money Times",
-    "publicado": "14/09 14:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento dos juros de longo prazo nos EUA pode indicar expectativas de inflação persistente ou de uma política monetária mais restritiva. Se essa tendência se mantiver, pode pressionar outros mercados globais e aumentar o custo do crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789410671.0237486,
-    "titulo": "Não é só o temor com IA: o que faz o Ibovespa cair forte e o dólar subir nesta 2ª",
-    "titulo_original": "Não é só o temor com IA: o que faz o Ibovespa cair forte e o dólar subir nesta 2ª - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "14/09 11:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa e a alta do dólar indicam um cenário de aversão ao risco. Se os temores relacionados à IA se intensificarem ou se as incertezas políticas domésticas aumentarem, o mercado pode continuar a precificar um cenário de maior volatilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789410671.0247335,
-    "titulo": "Ameaça à humanidade ou expectativas frustradas? Entenda o alerta do fundador da Anthropic e o ‘efeito cascata’ nas ações de inteligência artificial",
-    "titulo_original": "Ameaça à humanidade ou expectativas frustradas? Entenda o alerta do fundador da Anthropic e o ‘efeito cascata’ nas ações de inteligência artificial",
-    "fonte": "Money Times",
-    "publicado": "14/09 14:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A preocupação com os riscos da IA pode levar a uma desaceleração no desenvolvimento e investimento neste setor. Se essa tendência se confirmar, pode haver um impacto negativo em empresas de tecnologia e em índices como o Nasdaq.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789410671.025771,
-    "titulo": "Ibovespa cai mais de 1% com aversão a risco no exterior, eleições e caso Master no radar",
-    "titulo_original": "Ibovespa cai mais de 1% com aversão a risco no exterior, eleições e caso Master no radar - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "14/09 10:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa reflete um cenário de incerteza, combinando fatores externos e internos. Se as eleições trouxerem maior clareza ou se o caso Master for resolvido rapidamente, o mercado pode reagir positivamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789410671.0266643,
-    "titulo": "Ibovespa hoje: Bolsa cai mais de 1,5% com petróleo, guerra e eleições; veja os destaques",
-    "titulo_original": "Ibovespa hoje: Bolsa cai mais de 1,5% com petróleo, guerra e eleições; veja os destaques - suno.com.br",
-    "fonte": "Google News Acoes",
-    "publicado": "14/09 14:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de fatores como a alta do petróleo, conflitos geopolíticos e incertezas eleitorais pressiona o mercado acionário. Se houver uma resolução para os conflitos ou um cenário eleitoral mais definido, a bolsa pode se recuperar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789410671.0275707,
-    "titulo": "Sangria na bolsa: Ibovespa perde mais de 3 mil pontos e dólar sobe; Treasury passa de 5%",
-    "titulo_original": "Sangria na bolsa: Ibovespa perde mais de 3 mil pontos e dólar sobe; Treasury passa de 5% - seudinheiro.com",
-    "fonte": "Google News Acoes",
-    "publicado": "14/09 12:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A forte queda do Ibovespa e a alta do dólar, em conjunto com o aumento dos juros nos EUA, sinalizam um cenário de aversão ao risco global. Se os juros americanos continuarem a subir, isso pode atrair capital para os EUA, pressionando mercados emergentes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789410671.0284863,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 12:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento em tempo real da cotação do dólar é crucial para entender as dinâmicas de curto prazo do mercado de câmbio. Se houver volatilidade significativa, isso pode indicar reações a notícias ou eventos específicos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789410671.029419,
-    "titulo": "Mercadante cutuca oposição e diz que ‘essa coisinha de motosserra' é boa só para fazer campanha",
-    "titulo_original": "Mercadante cutuca oposição e diz que ‘essa coisinha de motosserra' é boa só para fazer campanha",
-    "fonte": "Valor Economico",
-    "publicado": "14/09 14:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Mercadante sobre a política fiscal sugere que há espaço para ajustes, mas com foco em manter o crescimento. Se as propostas de melhoria fiscal forem concretizadas, isso pode trazer mais previsibilidade ao cenário econômico brasileiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789417852.2290928,
-    "titulo": "‘Apocalipse da IA’ pode ajudar a bolsa brasileira no médio prazo",
-    "titulo_original": "‘Apocalipse da IA’ pode ajudar a bolsa brasileira no médio prazo",
-    "fonte": "InvestNews",
-    "publicado": "14/09 15:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A notícia sugere um potencial redirecionamento de capital para a bolsa brasileira caso haja um freio no desenvolvimento de IA. Se essa tendência de busca por ativos menos voláteis se confirmar, o fluxo de capital para o Brasil pode aumentar, impulsionando o mercado local. No entanto, a magnitude desse fluxo dependerá da extensão das restrições à IA e da atratividade de outros mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789417857.1434152,
-    "titulo": "Calendário econômico e de eventos Ásia Terça-feira, 15 de Setembro de 2026: China divulgará atividade de agosto",
-    "titulo_original": "Economic & event calendar Asia Tuesday, September 15, 2026: China set to report August activity",
-    "fonte": "ForexLive",
-    "publicado": "14/09 17:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Os dados de atividade econômica da China são cruciais para o cenário global. Se a produção industrial e as vendas no varejo vierem acima do esperado, isso pode sinalizar uma recuperação mais robusta na segunda maior economia do mundo, impactando positivamente as commodities e o sentimento de risco global. Caso contrário, uma desaceleração pode reforçar preocupações com a demanda mundial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789417862.0731506,
-    "titulo": "Trump pede à Ucrânia para cessar ataques a refinarias russas de petróleo",
-    "titulo_original": "Trump pede à Ucrânia para cessar ataques a refinarias russas de petróleo - Brasil de Fato",
-    "fonte": "Google News Commodities",
-    "publicado": "14/09 17:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre os ataques ucranianos a refinarias russas pode impactar a oferta global de petróleo. Se a Ucrânia acatar o pedido, a pressão sobre os preços do petróleo pode diminuir. Caso contrário, a continuidade dos ataques pode manter a volatilidade e a incerteza no mercado de energia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789417867.208721,
-    "titulo": "Trump diz que ataques ucranianos ao diesel russo agravam crise global de combustíveis",
-    "titulo_original": "Trump diz que ataques ucranianos ao diesel russo agravam crise global de combustíveis - O GLOBO",
-    "fonte": "Google News Geopolitica",
-    "publicado": "14/09 16:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre o agravamento da crise de combustíveis devido aos ataques ucranianos ao diesel russo reforça a preocupação com a oferta global. Se essa situação persistir, os preços do petróleo e derivados podem continuar sob pressão de alta. A ausência de uma ação concreta para mitigar o conflito pode manter a volatilidade no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789417873.0725822,
-    "titulo": "Wall Street cai com temor sobre IA e petróleo acima de US$ 100",
-    "titulo_original": "Wall Street cai com temor sobre IA e petróleo acima de US$ 100",
-    "fonte": "Money Times",
-    "publicado": "14/09 17:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda em Wall Street, associada a temores sobre IA e petróleo, sugere um aumento da aversão ao risco. Se a expectativa por decisão de juros se concretizar em um cenário de aperto monetário, isso pode intensificar a pressão vendedora nos mercados de renda variável. Por outro lado, se a decisão de juros for mais branda do que o esperado, pode haver uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789417873.073544,
-    "titulo": "Negociações de risco se recuperam gradualmente com falas de Trump sobre IA e energia",
-    "titulo_original": "Risk trades steadily rebound on Trump's talk about AI and energy",
-    "fonte": "ForexLive",
-    "publicado": "14/09 14:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "As falas de Trump sobre não regular a IA e um possível acordo entre Rússia e Ucrânia para não atacar infraestrutura energética trouxeram alívio aos mercados de risco. Se a percepção de menor risco geopolítico e de maior apoio à tecnologia se consolidar, isso pode sustentar a recuperação dos ativos de risco. No entanto, a negação de Zelensky sobre o acordo com a Rússia introduz incerteza, o que pode reverter o sentimento positivo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789417873.0743787,
-    "titulo": "CEO do BofA prevê queda de pelo menos 10% na receita de banco de investimento no 3º trimestre",
-    "titulo_original": "CEO do BofA prevê queda de pelo menos 10% na receita de banco de investimento no 3º trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "14/09 16:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A previsão de queda na receita de banco de investimento do BofA pode indicar um cenário de menor atividade no mercado financeiro global. Se essa tendência se confirmar em outras instituições, pode haver um reflexo na liquidez e no volume de negócios. A estabilidade na receita de 'sales and trading' sugere que, apesar da queda em outras áreas, a atividade de negociação pode se manter resiliente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789423257.4976926,
-    "titulo": "Lula sanciona linha de crédito para compra de carros com juros reduzidos para taxistas e motoristas de app",
-    "titulo_original": "Lula sanciona linha de crédito para compra de carros com juros reduzidos para taxistas e motoristas de app",
-    "fonte": "Valor Economico",
-    "publicado": "14/09 17:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A sanção do programa \"Move Brasil\" representa uma intervenção direta na política de crédito, com juros subsidiados para um segmento específico. Se a demanda por crédito se mostrar forte e o programa for amplamente utilizado, pode haver um impacto marginal na inflação de bens duráveis e no endividamento das famílias, mas o foco principal é a política de juros direcionada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789423262.8683834,
-    "titulo": "Senadores defendem redução da Selic e cobram juros mais baixos - PT no Senado",
-    "titulo_original": "Senadores defendem redução da Selic e cobram juros mais baixos - PT no Senado",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 15:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia reporta a defesa da redução da taxa Selic por parte de senadores. Se essa pressão política se intensificar e influenciar decisões futuras do Banco Central, isso poderia levar a cortes de juros mais rápidos do que o esperado pelo mercado. A ausência de uma decisão concreta do Copom torna a leitura condicional, mas a pressão política é um fator a ser observado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789423268.2843022,
-    "titulo": "Mercado projeta corte da Selic para 13,75% - Sindifiscalms",
-    "titulo_original": "Mercado projeta corte da Selic para 13,75% - Sindifiscalms",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 13:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de corte da Selic para 13,75% reflete a expectativa do mercado em relação à política monetária. Se essa projeção se concretizar, indicará uma continuidade do ciclo de afrouxamento monetário. Caso a inflação futura apresente surpresas altistas, essa projeção pode ser revista para cima, com o Banco Central mantendo a taxa em patamares mais elevados por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789423273.6825802,
-    "titulo": "BofA vê Selic a 11,25% em 2027 e aponta ações que podem ganhar com cortes - InfoMoney",
-    "titulo_original": "BofA vê Selic a 11,25% em 2027 e aponta ações que podem ganhar com cortes - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/09 14:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Bank of America para a Selic em 2027 indica uma expectativa de queda significativa nos juros no médio prazo. Se o cenário de controle inflacionário se mantiver e o Banco Central conseguir atingir essa meta, isso abriria espaço para investimentos em ativos de maior risco, como ações. Caso contrário, se a inflação persistir, a meta de juros pode ser adiada, impactando o desempenho dessas ações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789423283.7552502,
-    "titulo": "Bolsas de NY têm leve queda com incertezas sobre o desenvolvimento de IA",
-    "titulo_original": "Bolsas de NY têm leve queda com incertezas sobre o desenvolvimento de IA",
-    "fonte": "Valor Economico",
-    "publicado": "14/09 17:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia aponta incertezas no setor de tecnologia relacionadas à inteligência artificial como fator de pressão para as bolsas americanas. Se essas incertezas se aprofundarem e afetarem o investimento em tecnologia, isso poderia ter um impacto indireto no fluxo de capital global, mas a notícia em si não faz essa conexão explícita.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789428643.1438355,
-    "titulo": "CMN amplia em R$ 2 bilhões limite para que Estados e municípios contratem crédito",
-    "titulo_original": "CMN amplia em R$ 2 bilhões limite para que Estados e municípios contratem crédito",
-    "fonte": "Valor Economico",
-    "publicado": "14/09 19:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ampliação do limite de crédito para entes subnacionais visa atender à demanda por mais recursos, o que pode estimular a atividade econômica local. Se essa demanda se traduzir em investimentos produtivos, o impacto no PIB pode ser positivo; caso contrário, pode haver apenas um aumento do endividamento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789428647.8115063,
-    "titulo": "Taxas longas sobem em sessão de alta do petróleo e novas pesquisas eleitorais",
-    "titulo_original": "Taxas longas sobem em sessão de alta do petróleo e novas pesquisas eleitorais - infomoney.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "14/09 17:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta nas taxas de juros de longo prazo, associada à elevação do preço do petróleo e a novas pesquisas eleitorais, sugere um cenário de maior incerteza e potencial pressão inflacionária. Se as pesquisas eleitorais indicarem um cenário político que gere receio fiscal, isso pode manter as taxas longas pressionadas; caso contrário, a queda do petróleo poderia aliviar essa pressão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789428652.401747,
-    "titulo": "Petróleo fecha em alta com paralisação em oleoduto saudita e preocupações com a oferta",
-    "titulo_original": "Petróleo fecha em alta com paralisação em oleoduto saudita e preocupações com a oferta - Agência eixos",
-    "fonte": "Google News Commodities",
-    "publicado": "14/09 18:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo, impulsionada por problemas na oferta, pode gerar pressões inflacionárias globais e impactar custos de produção em diversos setores. Se a paralisação no oleoduto saudita for prolongada, isso pode sustentar os preços do petróleo em patamares elevados no curto prazo.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1789471857.0184073,
     "titulo": "Copom Deve Cortar Juros, Mas Inflação Futura e Fiscal Estreitam Espaço para Novas Quedas - Forbes Brasil",
     "titulo_original": "Copom Deve Cortar Juros, Mas Inflação Futura e Fiscal Estreitam Espaço para Novas Quedas - Forbes Brasil",
@@ -1076,5 +739,112 @@
     "origem": "externa",
     "leitura_critica": "O custo da guerra para os EUA pode ter implicações fiscais e orçamentárias para o país. Se esses gastos se mantiverem ou aumentarem, podem influenciar as decisões de política econômica americana.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1789558257.9418185,
+    "titulo": "‘Corte é a parte fácil, o que importa é a trajetória’: O que esperar da decisão do Copom?",
+    "titulo_original": "‘Corte é a parte fácil, o que importa é a trajetória’: O que esperar da decisão do Copom?",
+    "fonte": "Money Times",
+    "publicado": "16/09 07:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A confirmação do corte de 0,25 ponto percentual na Selic, como esperado, reforça a trajetória de flexibilização monetária. O foco agora se volta para a comunicação do Copom sobre a continuidade dessa trajetória e os fatores que podem influenciar futuras decisões, como inflação e cenário externo. Se a comunicação indicar um ritmo mais lento de cortes, isso pode impactar as expectativas de juros futuros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789558263.3622649,
+    "titulo": "Corte na Selic ajuda União e grandes empresas, mas não chega às famílias",
+    "titulo_original": "Corte na Selic ajuda União e grandes empresas, mas não chega às famílias - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/09 07:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sugere que os benefícios do corte na Selic estão concentrados em esferas específicas da economia, o que pode indicar uma transmissão de política monetária menos eficaz para o consumidor. Se essa tendência se mantiver, pode ser um fator a ser considerado em futuras decisões de política monetária, especialmente se o objetivo for estimular o consumo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789558268.7431724,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "16/09 03:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A inflação do Reino Unido, embora em linha, sugere que o Banco da Inglaterra pode manter uma postura de aperto monetário. A decisão do FOMC é crucial; se a alta de juros for confirmada e o dot plot indicar mais elevações, isso pode sustentar um dólar mais forte e pressionar mercados globais. A ausência de novas altas no curto prazo, se confirmada, poderia ser interpretada como um sinal de pico da política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789558274.331115,
+    "titulo": "Fed e Copom decidem juros nesta quarta com apostas em rumos opostos",
+    "titulo_original": "Fed e Copom decidem juros nesta quarta com apostas em rumos opostos - cnnbrasil.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/09 08:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divergência nas decisões de juros entre o Fed e o Copom pode gerar volatilidade nos mercados. Se o Fed subir juros e o Copom cortar, isso pode pressionar o câmbio e impactar o fluxo de capital. Acompanhar as justificativas e projeções de ambos os bancos centrais será fundamental para entender os próximos passos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789558280.7197657,
+    "titulo": "B3 (B3SA3) registra alta de 26,1% no volume negociado em agosto",
+    "titulo_original": "B3 (B3SA3) registra alta de 26,1% no volume negociado em agosto - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "16/09 08:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento no volume negociado na B3 pode indicar maior atividade do mercado financeiro, mas a notícia não especifica as causas. Se essa alta estiver associada a um aumento de fluxo de capital estrangeiro ou a um maior interesse em renda variável, pode ser um sinal positivo para a bolsa. Caso contrário, pode ser apenas reflexo de volatilidade pontual.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789558280.721193,
+    "titulo": "Bancos e escritórios de advocacia reforçam áreas que cuidam de créditos na UTI",
+    "titulo_original": "Bancos e escritórios de advocacia reforçam áreas que cuidam de créditos na UTI",
+    "fonte": "Folha Mercado",
+    "publicado": "16/09 06:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica um aumento na atenção do setor financeiro e jurídico a empresas com dificuldades, refletindo um cenário de maior risco de crédito. Isso pode sugerir um ambiente de negócios mais desafiador para algumas empresas, mas não aponta para uma decisão fiscal ou regulatória específica que afete o mercado de forma ampla. A relevância está na percepção de risco do mercado de crédito.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789558280.7225356,
+    "titulo": "Super Quarta, prévia do PIB, dólar, Ibovespa, mais agenda e pílulas da economia 17.09",
+    "titulo_original": "Super Quarta, prévia do PIB, dólar, Ibovespa, mais agenda e pílulas da economia 17.09 - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/09 08:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A 'Super Quarta' concentra eventos de alta relevância, com destaque para as decisões de juros do Fed e Copom. A divergência esperada entre essas decisões pode influenciar significativamente o câmbio e o desempenho dos ativos de risco. A prévia do PIB fornecerá um indicativo da atividade econômica, que também será um fator a ser considerado nas análises futuras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789558280.7238817,
+    "titulo": "BNDES libera R$ 466,4 milhões para saúde e educação em cinco cidades",
+    "titulo_original": "BNDES libera R$ 466,4 milhões para saúde e educação em cinco cidades",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 08:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O financiamento do BNDES para infraestrutura social representa um investimento público que pode ter impacto na atividade econômica local e na geração de empregos. Embora não seja uma decisão fiscal direta de corte de gastos ou aumento de impostos, é um movimento de alocação de recursos que pode ser monitorado. A relevância é moderada, pois se trata de um programa específico e não de uma política fiscal ampla.",
+    "is_stocks": true
   }
 ]
