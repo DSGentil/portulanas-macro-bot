@@ -927,5 +927,112 @@
     "origem": "domestica",
     "leitura_critica": "A decisão do Banco Central de cancelar a licença de uma DTVM específica representa um ato regulatório pontual. Se este tipo de ação se tornar mais frequente, pode indicar um endurecimento na fiscalização do setor financeiro.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789571780.4677653,
+    "titulo": "Atividade econômica cai mais do que o esperado em julho, segundo o BC",
+    "titulo_original": "Atividade econômica cai mais do que o esperado em julho, segundo o BC",
+    "fonte": "Folha Mercado",
+    "publicado": "16/09 09:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda na atividade econômica em julho, superior às expectativas, sugere uma desaceleração mais forte do que o previsto, o que pode impactar as projeções de crescimento do PIB. Se essa tendência de retração se mantiver nos próximos meses, o Banco Central pode ter que reavaliar suas projeções e políticas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789571785.4988513,
+    "titulo": "Lula reconhece ‘custo de vida caro’, mas destaca ‘menor inflação acumulada em quatro anos’",
+    "titulo_original": "Lula reconhece ‘custo de vida caro’, mas destaca ‘menor inflação acumulada em quatro anos’",
+    "fonte": "Money Times",
+    "publicado": "16/09 12:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente busca equilibrar o reconhecimento das dificuldades econômicas da população com a defesa de indicadores positivos. Se a percepção de melhora no custo de vida não se concretizar para o cidadão comum, isso pode continuar a ser um ponto de atenção no cenário político e econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789571790.5159888,
+    "titulo": "A nova pesquisa Quaest para presidente que vai testar o movimento de alta de Flávio Bolsonaro",
+    "titulo_original": "A nova pesquisa Quaest para presidente que vai testar o movimento de alta de Flávio Bolsonaro",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 11:34",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pesquisa Quaest fornecerá um termômetro da opinião pública em relação aos candidatos presidenciais e aos fatores que influenciam o eleitorado, como a inflação. Os resultados podem indicar mudanças nas tendências de voto e no cenário eleitoral, especialmente se os eventos mencionados tiverem um impacto significativo na percepção dos eleitores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789571795.4321404,
+    "titulo": "Estoques de petróleo dos EUA caem menos do que o esperado na semana de 11 de setembro",
+    "titulo_original": "Estoques de petróleo dos EUA caem menos do que o esperado na semana de 11 de setembro",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 11:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda menor que o esperado nos estoques de petróleo pode indicar uma demanda ligeiramente mais fraca do que projetado, o que, se persistir, poderia pressionar os preços do petróleo. Se os dados de demanda futura confirmarem essa tendência, o cenário para as cotações pode se tornar mais desafiador.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789571863.3064191,
+    "titulo": "A small cap que pode disparar com a queda dos juros, segundo o Itaú BBA; veja potencial",
+    "titulo_original": "A small cap que pode disparar com a queda dos juros, segundo o Itaú BBA; veja potencial",
+    "fonte": "Money Times",
+    "publicado": "16/09 11:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação do Itaú BBA para LOGG3 sugere que o setor logístico pode ser um beneficiário de um cenário de juros em queda. Se as taxas de juros realmente diminuírem, empresas com forte exposição a esse setor podem apresentar desempenho positivo, mas a concretização desse potencial dependerá também da performance operacional da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789571863.3073633,
+    "titulo": "Compras por BCs e demanda asiática sustentam preços do ouro, diz Itaú BBA",
+    "titulo_original": "Compras por BCs e demanda asiática sustentam preços do ouro, diz Itaú BBA",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 11:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A análise do Itaú BBA sugere que fatores macroeconômicos e geopolíticos, como as compras de bancos centrais e a demanda de economias asiáticas, são determinantes para o preço do ouro. Se as tensões geopolíticas aumentarem ou a demanda asiática se fortalecer, o ouro pode continuar a ser um ativo de refúgio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789571863.308321,
+    "titulo": "Mini índice mira 190 mil pontos e mini dólar testa R$ 5,20; veja análise do BTG Pactual",
+    "titulo_original": "Mini índice mira 190 mil pontos e mini dólar testa R$ 5,20; veja análise do BTG Pactual",
+    "fonte": "Money Times",
+    "publicado": "16/09 11:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise técnica do BTG Pactual sugere que o mini índice pode ter espaço para valorização, enquanto o mini dólar encontra resistência em R$ 5,20. A continuidade dessas tendências dependerá de fatores macroeconômicos e de fluxo de capital que possam influenciar os ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789571863.3091788,
+    "titulo": "Estrangeiros retiram R$ 324,7 milhões em ações da B3 em 14 de setembro",
+    "titulo_original": "Estrangeiros retiram R$ 324,7 milhões em ações da B3 em 14 de setembro",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 11:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de recursos estrangeiros da B3 em um dia específico, apesar do saldo positivo no mês e no ano, pode indicar um ajuste tático ou uma cautela pontual. Se essa tendência de saída se intensificar, pode sinalizar uma mudança no apetite por risco em relação ao mercado brasileiro.",
+    "is_stocks": true
   }
 ]
