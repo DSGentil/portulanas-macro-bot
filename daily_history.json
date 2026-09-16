@@ -846,5 +846,86 @@
     "origem": "domestica",
     "leitura_critica": "O financiamento do BNDES para infraestrutura social representa um investimento público que pode ter impacto na atividade econômica local e na geração de empregos. Embora não seja uma decisão fiscal direta de corte de gastos ou aumento de impostos, é um movimento de alocação de recursos que pode ser monitorado. A relevância é moderada, pois se trata de um programa específico e não de uma política fiscal ampla.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789564539.0480113,
+    "titulo": "Há assimetria no repasse cambial?",
+    "titulo_original": "Há assimetria no repasse cambial?",
+    "fonte": "Folha Mercado",
+    "publicado": "16/09 08:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre a assimetria no repasse cambial sugere que a inflação pode ser mais sensível a desvalorizações do que a valorizações do câmbio. Se essa assimetria for confirmada, o Banco Central pode ter que considerar esse fator em suas decisões de política monetária para controlar a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789564543.0300605,
+    "titulo": "Prédio desaba em Gaza e mata ao menos 20; ministro de Israel ameaça retomar guerra e expulsar palestinos",
+    "titulo_original": "Prédio desaba em Gaza e mata ao menos 20; ministro de Israel ameaça retomar guerra e expulsar palestinos - folha.uol.com.br",
+    "fonte": "Google News Geopolitica",
+    "publicado": "16/09 09:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de violência em Gaza, com a morte de civis e ameaças de retomada da guerra por Israel, aumenta a instabilidade na região. Se as tensões se aprofundarem, isso pode gerar volatilidade nos mercados globais e impactar o preço do petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789564546.9523005,
+    "titulo": "Vendas no varejo dos EUA em agosto +1,2% vs +0,8% esperado",
+    "titulo_original": "US August advance retail sales +1.2% vs +0.8% expected",
+    "fonte": "ForexLive",
+    "publicado": "16/09 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte desempenho das vendas no varejo dos EUA em agosto, acima das expectativas, sugere uma economia resiliente e pode reforçar a justificativa para o Federal Reserve manter uma política monetária mais restritiva. Se o Fed interpretar este dado como sinal de aquecimento excessivo, pode haver maior pressão por aumentos de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789564550.8474364,
+    "titulo": "Arábia Saudita chama tentativa de ataque a Meca de ‘linha vermelha’; houthis negam autoria",
+    "titulo_original": "Arábia Saudita chama tentativa de ataque a Meca de ‘linha vermelha’; houthis negam autoria",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 09:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração da Arábia Saudita sobre a tentativa de ataque a Meca como 'linha vermelha' eleva o tom do conflito no Oriente Médio. Se os houthis ou seus aliados persistirem em ações contra alvos sauditas, isso pode levar a uma escalada militar significativa na região.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789564555.7539706,
+    "titulo": "A conta chegou? Juros altos e saúde dos lojistas acendem alerta para FIIs de shoppings em 2027, apontam gestores",
+    "titulo_original": "A conta chegou? Juros altos e saúde dos lojistas acendem alerta para FIIs de shoppings em 2027, apontam gestores",
+    "fonte": "Money Times",
+    "publicado": "16/09 10:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de juros altos impactando o consumo e a saúde dos lojistas em 2027 levanta preocupações para os fundos imobiliários de shoppings. Se as taxas de juros permanecerem elevadas por mais tempo, a pressão sobre o setor pode se intensificar, afetando a rentabilidade desses fundos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789564555.7551837,
+    "titulo": "BC cancela licença de tradicional corretora de valores mobiliários",
+    "titulo_original": "BC cancela licença de tradicional corretora de valores mobiliários",
+    "fonte": "Valor Economico",
+    "publicado": "16/09 09:47",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Banco Central de cancelar a licença de uma DTVM específica representa um ato regulatório pontual. Se este tipo de ação se tornar mais frequente, pode indicar um endurecimento na fiscalização do setor financeiro.",
+    "is_stocks": true
   }
 ]
