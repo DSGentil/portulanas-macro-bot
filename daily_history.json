@@ -815,5 +815,69 @@
     "origem": "domestica",
     "leitura_critica": "A notícia detalha que, apesar de um reajuste interno, o subsídio ao diesel manterá o preço estável para as distribuidoras. Isso sugere que o governo está atuando para mitigar o impacto do reajuste nos custos finais. Se o subsídio for mantido e eficaz, isso pode ajudar a controlar a inflação de transportes e bens, mas a sustentabilidade fiscal desse subsídio a longo prazo é um ponto a ser observado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789650941.1363118,
+    "titulo": "Soja bate recorde de safra e responde por um terço da receita agrícola no Brasil em 2025",
+    "titulo_original": "Soja bate recorde de safra e responde por um terço da receita agrícola no Brasil em 2025",
+    "fonte": "Folha Mercado",
+    "publicado": "17/09 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Um recorde na safra de soja é um indicador positivo para o agronegócio brasileiro e pode ter impacto na balança comercial. A sustentabilidade deste desempenho dependerá de fatores como demanda internacional e condições climáticas futuras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789650945.1076453,
+    "titulo": "Sorriso, em Mato Grosso, perde liderança de ranking de produção agrícola após seis anos",
+    "titulo_original": "Sorriso, em Mato Grosso, perde liderança de ranking de produção agrícola após seis anos",
+    "fonte": "Folha Mercado",
+    "publicado": "17/09 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A mudança na liderança da produção agrícola em Sorriso pode indicar uma diversificação ou realocação de atividades agrícolas no país. A análise do IBGE sobre os motivos dessa mudança seria crucial para entender o impacto econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789650948.986826,
+    "titulo": "Dólar à vista tem queda firme com apoio externo e quadro eleitoral",
+    "titulo_original": "Dólar à vista tem queda firme com apoio externo e quadro eleitoral",
+    "fonte": "Valor Economico",
+    "publicado": "17/09 09:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar, impulsionada por fatores externos e pelo cenário eleitoral doméstico, pode ter implicações para a inflação e para o fluxo de capital. Se a percepção eleitoral continuar a favorecer um candidato com propostas fiscais específicas, isso pode influenciar a trajetória do câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789650952.9821575,
+    "titulo": "Pedidos iniciais de seguro-desemprego nos EUA vêm em 196K vs estimativa de 208K",
+    "titulo_original": "US initial jobless claims come in at 196K vs 208K estimate",
+    "fonte": "ForexLive",
+    "publicado": "17/09 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nos pedidos de seguro-desemprego sugere um mercado de trabalho americano mais resiliente do que o esperado. Se este cenário de melhora no emprego se mantiver, pode reforçar a postura do Federal Reserve em manter juros mais altos por mais tempo; caso contrário, dados futuros mais fracos poderiam abrir espaço para discussões sobre cortes de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789650956.8932118,
+    "titulo": "Pedidos iniciais de seguro-desemprego nos EUA somam 196 mil na semana até 12 de setembro",
+    "titulo_original": "Pedidos iniciais de seguro-desemprego nos EUA somam 196 mil na semana até 12 de setembro",
+    "fonte": "Valor Economico",
+    "publicado": "17/09 09:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nos pedidos de seguro-desemprego nos EUA sugere um mercado de trabalho robusto, o que pode influenciar as decisões futuras de política monetária do Federal Reserve. Se os dados continuarem a surpreender positivamente, o Fed pode manter uma postura mais restritiva por mais tempo.",
+    "is_stocks": false
   }
 ]
