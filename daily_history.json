@@ -879,5 +879,104 @@
     "origem": "externa",
     "leitura_critica": "A queda nos pedidos de seguro-desemprego nos EUA sugere um mercado de trabalho robusto, o que pode influenciar as decisões futuras de política monetária do Federal Reserve. Se os dados continuarem a surpreender positivamente, o Fed pode manter uma postura mais restritiva por mais tempo.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1789658147.6966271,
+    "titulo": "Superávit de R$ 18,6 bilhões ou rombo de R$ 86,1 bilhões? Governo e IFI divergem sobre contas de 2027",
+    "titulo_original": "Superávit de R$ 18,6 bilhões ou rombo de R$ 86,1 bilhões? Governo e IFI divergem sobre contas de 2027",
+    "fonte": "Money Times",
+    "publicado": "17/09 11:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre o governo e a IFI sobre as contas públicas de 2027 aponta para incertezas na trajetória fiscal do país. Se o Congresso aprovar o orçamento com as projeções do governo, isso pode sinalizar otimismo fiscal, mas se as projeções da IFI se mostrarem mais realistas, o país pode enfrentar pressões de gastos e dívida maiores do que o esperado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789658153.0733275,
+    "titulo": "Reajuste do Bolsa Família é publicado em edição extra do Diário Oficial da União",
+    "titulo_original": "Reajuste do Bolsa Família é publicado em edição extra do Diário Oficial da União",
+    "fonte": "Valor Economico",
+    "publicado": "17/09 11:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O reajuste do Bolsa Família impacta diretamente o orçamento das famílias beneficiadas e as contas públicas. Se o aumento do benefício for acompanhado por uma melhora na arrecadação ou por cortes em outras áreas, o impacto fiscal pode ser gerenciado; caso contrário, pode haver pressão adicional sobre o déficit público, especialmente se a inflação continuar a corroer o poder de compra.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789658158.390532,
+    "titulo": "Economia recua 0,4% em julho ante junho, aponta Monitor do PIB da FGV",
+    "titulo_original": "Economia recua 0,4% em julho ante junho, aponta Monitor do PIB da FGV",
+    "fonte": "Valor Economico",
+    "publicado": "17/09 11:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retração de 0,4% na economia em julho, segundo o Monitor do PIB da FGV, reforça a trajetória de desaceleração e a dificuldade em manter altas taxas de crescimento. Se essa desaceleração persistir nos próximos meses, o Banco Central pode ter mais espaço para discutir cortes de juros; caso contrário, se houver uma recuperação rápida, a pressão por juros mais altos pode retornar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789658163.8541253,
+    "titulo": "BC discute evolução da lei de cripto diante de novos ativos e participantes",
+    "titulo_original": "BC discute evolução da lei de cripto diante de novos ativos e participantes",
+    "fonte": "Valor Economico",
+    "publicado": "17/09 11:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão do Banco Central sobre a evolução da lei de criptoativos indica um movimento em direção a uma regulamentação mais abrangente e adaptada às novas dinâmicas do mercado. Se as novas regras forem claras e proporcionarem segurança jurídica, isso pode atrair mais investimentos e participantes institucionais para o setor; uma regulamentação excessivamente restritiva, por outro lado, pode inibir o desenvolvimento do mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789658180.491894,
+    "titulo": "Estrangeiros aportam R$ 249,5 milhões em ações na B3 em 15 de setembro",
+    "titulo_original": "Estrangeiros aportam R$ 249,5 milhões em ações na B3 em 15 de setembro",
+    "fonte": "Valor Economico",
+    "publicado": "17/09 11:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada líquida de capital estrangeiro em ações sugere um fluxo positivo para a renda variável brasileira, o que pode sustentar o Ibovespa. Se essa tendência de aportes se mantiver nos próximos dias, o mercado pode interpretar como um sinal de confiança na economia doméstica; uma reversão abrupta desse fluxo, no entanto, indicaria cautela renovada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789658180.49286,
+    "titulo": "Sessão europeia de investimento: Mercados sobem com alívio no petróleo e rendimentos de títulos após Fed e BOE manterem juros",
+    "titulo_original": "investingLive European session wrap: Markets rise as oil and bond yields ease after Fed, BOE holds rates",
+    "fonte": "ForexLive",
+    "publicado": "17/09 09:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A manutenção das taxas de juros pelo Fed e BOE, juntamente com a queda nos rendimentos de títulos e petróleo, sugere um alívio temporário nas pressões inflacionárias globais. Se os próximos dados de inflação vierem consistentemente mais baixos, isso pode abrir espaço para discussões sobre cortes de juros no futuro; caso contrário, o risco de novas altas ou manutenção prolongada de juros elevados persiste.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789658180.4937468,
+    "titulo": "Wall Street avança após ‘sell-off’ com Fed; tecnologia lidera ganhos",
+    "titulo_original": "Wall Street avança após ‘sell-off’ com Fed; tecnologia lidera ganhos",
+    "fonte": "Money Times",
+    "publicado": "17/09 11:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A recuperação de Wall Street após a decisão do Fed, com recuo nos rendimentos dos Treasuries, sugere que o mercado pode ter precificado o aumento de juros de forma mais branda do que o esperado. Se os próximos dados econômicos dos EUA confirmarem uma desaceleração controlada, isso pode sustentar a alta dos mercados acionários; uma inflação persistente, no entanto, pode forçar o Fed a manter uma postura mais agressiva, revertendo os ganhos.",
+    "is_stocks": true
   }
 ]
