@@ -978,5 +978,90 @@
     "origem": "externa",
     "leitura_critica": "A recuperação de Wall Street após a decisão do Fed, com recuo nos rendimentos dos Treasuries, sugere que o mercado pode ter precificado o aumento de juros de forma mais branda do que o esperado. Se os próximos dados econômicos dos EUA confirmarem uma desaceleração controlada, isso pode sustentar a alta dos mercados acionários; uma inflação persistente, no entanto, pode forçar o Fed a manter uma postura mais agressiva, revertendo os ganhos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789663543.3438425,
+    "titulo": "Selic cai para 13,75%: vale a pena tentar renegociar dívidas?",
+    "titulo_original": "Selic cai para 13,75%: vale a pena tentar renegociar dívidas? - economia.uol.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/09 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda da Selic para 13,75% pode tornar a renegociação de dívidas mais vantajosa para os tomadores de crédito. Se a taxa continuar em trajetória de queda, a pressão sobre os juros de empréstimos e financiamentos pode diminuir. Caso a Selic se estabilize ou volte a subir, o cenário para renegociação pode se tornar menos favorável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789663548.3152983,
+    "titulo": "Pressão no dólar casado faz mercado cogitar nova atuação do BC - Valor Econômico",
+    "titulo_original": "Pressão no dólar casado faz mercado cogitar nova atuação do BC - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/09 13:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pressão no dólar casado pode indicar volatilidade cambial que leva o mercado a antecipar intervenções do Banco Central. Se o BC atuar para conter a valorização do dólar, isso pode ter implicações na política de juros. Caso a pressão persista sem intervenção, o dólar pode continuar a se fortalecer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789663552.7320237,
+    "titulo": "Taxas do Tesouro Direto abrem em queda após Copom reduzir Selic para 13,75%",
+    "titulo_original": "Taxas do Tesouro Direto abrem em queda após Copom reduzir Selic para 13,75%",
+    "fonte": "InvestNews",
+    "publicado": "17/09 09:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas taxas do Tesouro Direto após a redução da Selic indica que os investidores estão precificando um cenário de juros menores. Se a tendência de queda nas taxas se mantiver, isso pode tornar os títulos públicos menos atrativos para quem busca rentabilidade. Caso a Selic volte a subir, as taxas podem se recuperar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789663557.3693123,
+    "titulo": "Manhã no mercado: Investidores repercutem sinais do Copom e mantêm eleições no radar - Valor Econômico",
+    "titulo_original": "Manhã no mercado: Investidores repercutem sinais do Copom e mantêm eleições no radar - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/09 08:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A repercussão dos sinais do Copom e a atenção às eleições indicam que o mercado está atento aos desdobramentos da política monetária e ao cenário político. Se os próximos comunicados do Copom reforçarem a trajetória de queda de juros, isso pode impulsionar o mercado. Caso o cenário eleitoral gere incertezas, pode haver volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789663562.9872735,
+    "titulo": "BC da Inglaterra mantém taxa de juros e aumenta previsão da inflação",
+    "titulo_original": "BC da Inglaterra mantém taxa de juros e aumenta previsão da inflação",
+    "fonte": "Folha Mercado",
+    "publicado": "17/09 09:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A manutenção da taxa de juros pelo Banco da Inglaterra, aliada ao aumento da previsão de inflação, sugere um cenário de cautela. Se a inflação continuar a pressionar, o banco central pode ser forçado a considerar aumentos futuros na taxa de juros. Caso a inflação ceda, a possibilidade de cortes futuros pode ser reavaliada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789663562.9933934,
+    "titulo": "ANP nega pedido de formuladora de gasolina em São Paulo",
+    "titulo_original": "ANP nega pedido de formuladora de gasolina em São Paulo",
+    "fonte": "Folha Mercado",
+    "publicado": "17/09 13:30",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da ANP de negar a autorização para a formuladora de gasolina pode indicar uma política de controle ou direcionamento do mercado de combustíveis. Se a agência continuar a negar pedidos semelhantes, isso pode limitar a entrada de novos players no setor. Por outro lado, se houver uma revisão dessa postura no futuro, o cenário competitivo pode mudar.",
+    "is_stocks": true
   }
 ]
