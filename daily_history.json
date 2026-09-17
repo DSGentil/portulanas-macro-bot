@@ -1,112 +1,5 @@
 [
   {
-    "_timestamp": 1789558257.9418185,
-    "titulo": "‘Corte é a parte fácil, o que importa é a trajetória’: O que esperar da decisão do Copom?",
-    "titulo_original": "‘Corte é a parte fácil, o que importa é a trajetória’: O que esperar da decisão do Copom?",
-    "fonte": "Money Times",
-    "publicado": "16/09 07:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A confirmação do corte de 0,25 ponto percentual na Selic, como esperado, reforça a trajetória de flexibilização monetária. O foco agora se volta para a comunicação do Copom sobre a continuidade dessa trajetória e os fatores que podem influenciar futuras decisões, como inflação e cenário externo. Se a comunicação indicar um ritmo mais lento de cortes, isso pode impactar as expectativas de juros futuros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789558263.3622649,
-    "titulo": "Corte na Selic ajuda União e grandes empresas, mas não chega às famílias",
-    "titulo_original": "Corte na Selic ajuda União e grandes empresas, mas não chega às famílias - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/09 07:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia sugere que os benefícios do corte na Selic estão concentrados em esferas específicas da economia, o que pode indicar uma transmissão de política monetária menos eficaz para o consumidor. Se essa tendência se mantiver, pode ser um fator a ser considerado em futuras decisões de política monetária, especialmente se o objetivo for estimular o consumo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789558268.7431724,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "16/09 03:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A inflação do Reino Unido, embora em linha, sugere que o Banco da Inglaterra pode manter uma postura de aperto monetário. A decisão do FOMC é crucial; se a alta de juros for confirmada e o dot plot indicar mais elevações, isso pode sustentar um dólar mais forte e pressionar mercados globais. A ausência de novas altas no curto prazo, se confirmada, poderia ser interpretada como um sinal de pico da política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789558274.331115,
-    "titulo": "Fed e Copom decidem juros nesta quarta com apostas em rumos opostos",
-    "titulo_original": "Fed e Copom decidem juros nesta quarta com apostas em rumos opostos - cnnbrasil.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/09 08:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divergência nas decisões de juros entre o Fed e o Copom pode gerar volatilidade nos mercados. Se o Fed subir juros e o Copom cortar, isso pode pressionar o câmbio e impactar o fluxo de capital. Acompanhar as justificativas e projeções de ambos os bancos centrais será fundamental para entender os próximos passos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789558280.7197657,
-    "titulo": "B3 (B3SA3) registra alta de 26,1% no volume negociado em agosto",
-    "titulo_original": "B3 (B3SA3) registra alta de 26,1% no volume negociado em agosto - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "16/09 08:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento no volume negociado na B3 pode indicar maior atividade do mercado financeiro, mas a notícia não especifica as causas. Se essa alta estiver associada a um aumento de fluxo de capital estrangeiro ou a um maior interesse em renda variável, pode ser um sinal positivo para a bolsa. Caso contrário, pode ser apenas reflexo de volatilidade pontual.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789558280.721193,
-    "titulo": "Bancos e escritórios de advocacia reforçam áreas que cuidam de créditos na UTI",
-    "titulo_original": "Bancos e escritórios de advocacia reforçam áreas que cuidam de créditos na UTI",
-    "fonte": "Folha Mercado",
-    "publicado": "16/09 06:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica um aumento na atenção do setor financeiro e jurídico a empresas com dificuldades, refletindo um cenário de maior risco de crédito. Isso pode sugerir um ambiente de negócios mais desafiador para algumas empresas, mas não aponta para uma decisão fiscal ou regulatória específica que afete o mercado de forma ampla. A relevância está na percepção de risco do mercado de crédito.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789558280.7225356,
-    "titulo": "Super Quarta, prévia do PIB, dólar, Ibovespa, mais agenda e pílulas da economia 17.09",
-    "titulo_original": "Super Quarta, prévia do PIB, dólar, Ibovespa, mais agenda e pílulas da economia 17.09 - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/09 08:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A 'Super Quarta' concentra eventos de alta relevância, com destaque para as decisões de juros do Fed e Copom. A divergência esperada entre essas decisões pode influenciar significativamente o câmbio e o desempenho dos ativos de risco. A prévia do PIB fornecerá um indicativo da atividade econômica, que também será um fator a ser considerado nas análises futuras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789558280.7238817,
-    "titulo": "BNDES libera R$ 466,4 milhões para saúde e educação em cinco cidades",
-    "titulo_original": "BNDES libera R$ 466,4 milhões para saúde e educação em cinco cidades",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 08:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O financiamento do BNDES para infraestrutura social representa um investimento público que pode ter impacto na atividade econômica local e na geração de empregos. Embora não seja uma decisão fiscal direta de corte de gastos ou aumento de impostos, é um movimento de alocação de recursos que pode ser monitorado. A relevância é moderada, pois se trata de um programa específico e não de uma política fiscal ampla.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789564539.0480113,
     "titulo": "Há assimetria no repasse cambial?",
     "titulo_original": "Há assimetria no repasse cambial?",
@@ -1062,6 +955,66 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A decisão da ANP de negar a autorização para a formuladora de gasolina pode indicar uma política de controle ou direcionamento do mercado de combustíveis. Se a agência continuar a negar pedidos semelhantes, isso pode limitar a entrada de novos players no setor. Por outro lado, se houver uma revisão dessa postura no futuro, o cenário competitivo pode mudar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789669842.8719592,
+    "titulo": "NEGOCIAÇÕES DIPLOMÁTICAS 🇺🇲🇧🇷 O governo Trump exigiu do governo Lula, durante negociações diplomáticas sigilosas após o tarifaço de 50% imposto ao País, que “dissidentes políticos” no Brasil não fossem detidos, presos ou impedidos “arbitraria",
+    "titulo_original": "NEGOCIAÇÕES DIPLOMÁTICAS 🇺🇲🇧🇷 O governo Trump exigiu do governo Lula, durante negociações diplomáticas sigilosas após o tarifaço de 50% imposto ao País, que “dissidentes políticos” no Brasil não fossem detidos, presos ou impedidos “arbitraria - instagram.com",
+    "fonte": "Google News Geopolitica",
+    "publicado": "17/09 13:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A exigência do governo Trump sobre a detenção de \"dissidentes políticos\" no Brasil, após um tarifaço, indica uma interferência em assuntos internos brasileiros e pode gerar tensões diplomáticas. Se essa pressão se intensificar, pode afetar as relações comerciais e a percepção de risco do Brasil no cenário internacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789669846.7882192,
+    "titulo": "Trump diz que enfrenta uma “grande decisão” sobre lançar novos ataques ao Irã",
+    "titulo_original": "Trump says he faces a “big decision” on whether to launch new attacks on Iran",
+    "fonte": "ForexLive",
+    "publicado": "17/09 14:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A iminência de uma decisão sobre escalada militar no Oriente Médio pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas. Se a decisão for por escalada, o preço do petróleo tende a subir; se houver um caminho alternativo para o fim do conflito, isso poderia trazer alívio e estabilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789669850.7090716,
+    "titulo": "Trump diz ter falado diretamente com Irã e acredita no fim da guerra",
+    "titulo_original": "Trump diz ter falado diretamente com Irã e acredita no fim da guerra - UOL Notícias",
+    "fonte": "Google News Geopolitica",
+    "publicado": "17/09 10:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre comunicação direta com o Irã e a crença no fim da guerra pode sinalizar uma desescalada de tensões na região. Se essa comunicação levar a um acordo de paz, isso tenderia a reduzir a volatilidade nos mercados de commodities e a aumentar o apetite por risco global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789669854.6187754,
+    "titulo": "Um ETF avançou mais de 3.600% neste ano com a guerra no Irã. E em dólar",
+    "titulo_original": "Um ETF avançou mais de 3.600% neste ano com a guerra no Irã. E em dólar",
+    "fonte": "InvestNews",
+    "publicado": "17/09 13:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A expressiva valorização de ETFs associados ao conflito no Irã evidencia a volatilidade e as oportunidades de investimento em cenários de instabilidade geopolítica. Se a guerra se intensificar, esses ETFs podem continuar a subir; se houver resolução pacífica, a tendência pode se inverter.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789669859.0290399,
+    "titulo": "Rei Charles alerta líderes do setor de tecnologia sobre ‘perigos existenciais’ da inteligência artificial",
+    "titulo_original": "Rei Charles alerta líderes do setor de tecnologia sobre ‘perigos existenciais’ da inteligência artificial",
+    "fonte": "Valor Economico",
+    "publicado": "17/09 14:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O alerta do Rei Charles sobre os perigos existenciais da IA, vindo de uma figura proeminente, pode intensificar o debate sobre a regulamentação da tecnologia. Se houver um consenso global sobre a necessidade de salvaguardas, isso pode moldar o futuro desenvolvimento e aplicação da IA, com implicações para o setor de tecnologia e a economia.",
     "is_stocks": true
   }
 ]
