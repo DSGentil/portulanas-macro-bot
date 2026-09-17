@@ -1,353 +1,5 @@
 [
   {
-    "_timestamp": 1789497044.1201575,
-    "titulo": "Dólar à vista tem leve queda após avanço na véspera, de olho em quadro eleitoral",
-    "titulo_original": "Dólar à vista tem leve queda após avanço na véspera, de olho em quadro eleitoral - valor.globo.com",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 09:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A volatilidade do dólar reflete a atenção do mercado ao cenário eleitoral doméstico. Se o quadro eleitoral se tornar mais definido ou incerto, isso pode gerar novas pressões sobre a moeda, impactando o câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789497048.047603,
-    "titulo": "Empresários dizem esperar que STF solucione crise",
-    "titulo_original": "Empresários dizem esperar que STF solucione crise",
-    "fonte": "Folha Mercado",
-    "publicado": "15/09 12:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa do setor empresarial em relação ao STF reflete a importância da estabilidade institucional para a confiança econômica. Se o STF tomar decisões que gerem incerteza, isso pode impactar o ambiente de negócios.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789497051.994233,
-    "titulo": "Boletim Cambial (15/09): Euro e Dólar PTAX",
-    "titulo_original": "Boletim Cambial (15/09): Euro e Dólar PTAX - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 13:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Notícia de acompanhamento de cotações cambiais. A PTAX é uma referência importante para contratos futuros e derivativos, mas a notícia não detalha os fatores que influenciaram as cotações do dia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789497055.9391575,
-    "titulo": "Ouro fecha em baixa, pressionado por avanço do petróleo e de juros dos Treasuries",
-    "titulo_original": "Ouro fecha em baixa, pressionado por avanço do petróleo e de juros dos Treasuries - UOL Economia",
-    "fonte": "Google News Commodities",
-    "publicado": "15/09 14:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda do ouro demonstra a influência dos juros dos Treasuries e do preço do petróleo em ativos de refúgio. Se os juros dos EUA continuarem a subir, isso tende a desfavorecer o ouro, tornando aplicações em renda fixa mais atrativas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789497061.1898804,
-    "titulo": "Por que o Ibovespa avançou mais de 1% nesta terça-feira (15)",
-    "titulo_original": "Por que o Ibovespa avançou mais de 1% nesta terça-feira (15)",
-    "fonte": "Money Times",
-    "publicado": "15/09 15:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa, apesar do cenário externo adverso, sugere que fatores domésticos, como o desempenho de commodities, tiveram maior peso. Se os rendimentos dos Treasuries continuarem a subir, isso pode pressionar o índice brasileiro no futuro, caso o fluxo de capital externo se retraia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789497061.1917052,
-    "titulo": "Área técnica do TCU sugere alertar governo sobre previsão de receitas com taxação de dividendos",
-    "titulo_original": "Área técnica do TCU sugere alertar governo sobre previsão de receitas com taxação de dividendos",
-    "fonte": "Folha Mercado",
-    "publicado": "15/09 14:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação do TCU aponta para uma possível revisão da meta de arrecadação fiscal relacionada à tributação de dividendos. Se o governo ajustar suas projeções ou a política tributária, isso pode afetar o cenário fiscal e a percepção de risco do país.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789497061.1934514,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 12:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Notícia de acompanhamento de cotação, sem informações sobre os fatores que movem o dólar. A volatilidade do câmbio pode ser influenciada por diversos fatores macroeconômicos e políticos, mas a notícia não os especifica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789497061.1951656,
-    "titulo": "Ibovespa sobe com apoio de Petrobras (PETR4), na contramão de NY, e sessão do STF no radar",
-    "titulo_original": "Ibovespa sobe com apoio de Petrobras (PETR4), na contramão de NY, e sessão do STF no radar - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "15/09 14:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa, apesar do desempenho negativo em Nova York, indica a influência de fatores domésticos, como a Petrobras e a expectativa sobre decisões do STF. Se o STF tomar decisões com impacto fiscal ou regulatório, isso pode afetar o mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789497061.196902,
-    "titulo": "Novo CEO da B3 diz que manutenção da confiança é a prioridade de sua gestão",
-    "titulo_original": "Novo CEO da B3 diz que manutenção da confiança é a prioridade de sua gestão",
-    "fonte": "Valor Economico",
-    "publicado": "15/09 14:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do CEO da B3 enfatiza a importância da confiança para o mercado de capitais. Se a confiança no mercado for abalada, isso pode impactar o fluxo de capital e a atividade de negociação, mas a notícia não detalha como essa confiança será protegida na prática.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789504316.4335573,
-    "titulo": "MacroSector vê receita agrícola em queda, soja firme e relação de troca piorando para o produtor em 2026",
-    "titulo_original": "MacroSector vê receita agrícola em queda, soja firme e relação de troca piorando para o produtor em 2026 - AgFeed",
-    "fonte": "Google News Commodities",
-    "publicado": "15/09 17:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de piora na relação de troca para o produtor agrícola em 2026 sugere um cenário desafiador para o setor. Se os custos de produção aumentarem mais que os preços recebidos pelas commodities, a rentabilidade pode ser afetada. A firmeza da soja, no entanto, pode oferecer algum alívio em partes do mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789504321.1376524,
-    "titulo": "Banco Central injeta US$ 1 bilhão no mercado à vista em meio a saída de dólares",
-    "titulo_original": "Banco Central injeta US$ 1 bilhão no mercado à vista em meio a saída de dólares",
-    "fonte": "Folha Mercado",
-    "publicado": "15/09 13:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A injeção de US$ 1 bilhão pelo Banco Central no mercado de câmbio visa mitigar a saída de dólares. Se a saída de capital persistir, o BC pode precisar de novas intervenções para estabilizar a moeda. A ação do BC indica uma tentativa de controlar a volatilidade cambial e manter a liquidez no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789504325.9395907,
-    "titulo": "Câmbio sustenta derivados da soja no mercado brasileiro",
-    "titulo_original": "Câmbio sustenta derivados da soja no mercado brasileiro - agrolink.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "15/09 13:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A influência do câmbio na sustentação dos derivados da soja no Brasil sugere que a desvalorização do real pode estar tornando esses produtos mais competitivos no mercado internacional. Se o câmbio continuar favorável, pode impulsionar as exportações e a produção desses derivados. A relação entre câmbio e commodities agrícolas é um ponto chave para o agronegócio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789504330.6145751,
-    "titulo": "Kalil defende renegociação do Propag e fim de isenção fiscal para empresas",
-    "titulo_original": "Kalil defende renegociação do Propag e fim de isenção fiscal para empresas",
-    "fonte": "Valor Economico",
-    "publicado": "15/09 16:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de Alexandre Kalil de renegociar o Propag e acabar com isenções fiscais para empresas visa aumentar a arrecadação estadual. Se eleito, a implementação dessas medidas pode impactar o ambiente de negócios e a dívida pública de Minas Gerais. A renegociação da dívida com a União dependerá de articulação política com outros entes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789504336.1007028,
-    "titulo": "Ações de petrolíferas brasileiras sobem em bloco com avanço do petróleo",
-    "titulo_original": "Ações de petrolíferas brasileiras sobem em bloco com avanço do petróleo",
-    "fonte": "Folha Mercado",
-    "publicado": "15/09 13:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta das ações de petrolíferas brasileiras reflete diretamente o movimento de alta do preço do petróleo no mercado internacional. Se o petróleo continuar a subir, essas ações tendem a se beneficiar. A correlação direta entre o preço do barril e o desempenho dessas empresas é um fator chave a ser observado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789509652.5462759,
-    "titulo": "Economistas reduzem previsão de déficit do governo em 2026 e 2027",
-    "titulo_original": "Economistas reduzem previsão de déficit do governo em 2026 e 2027",
-    "fonte": "Folha Mercado",
-    "publicado": "15/09 18:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução na previsão de déficit primário pode ser interpretada como um sinal de melhora na gestão fiscal, mas o aumento projetado da dívida pública levanta preocupações sobre a sustentabilidade fiscal a longo prazo. Se as projeções de dívida se confirmarem, o governo pode enfrentar desafios para cumprir metas fiscais futuras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789509657.1098325,
-    "titulo": "Copom deve cortar Selic para 13,75%, mas manter cautela; veja o que está no radar",
-    "titulo_original": "Copom deve cortar Selic para 13,75%, mas manter cautela; veja o que está no radar - suno.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 16:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de um corte na Selic, embora já precificada, reforça a tendência de flexibilização monetária no Brasil. A cautela mencionada no comunicado do Copom sugere que a trajetória futura dos juros dependerá da evolução da inflação e do cenário fiscal, o que pode gerar volatilidade nas decisões subsequentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789509661.6888978,
-    "titulo": "Copom deve cortar os juros nesta quarta, mas o próximo passo ficou mais difícil",
-    "titulo_original": "Copom deve cortar os juros nesta quarta, mas o próximo passo ficou mais difícil",
-    "fonte": "Folha Mercado",
-    "publicado": "15/09 18:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de um corte na Selic é clara, mas a dificuldade em definir os próximos passos indica que o Copom pode adotar uma postura mais dependente dos dados futuros. Se a inflação apresentar sinais de persistência ou o cenário fiscal se deteriorar, o ritmo de cortes pode ser mais lento do que o esperado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789509666.2819114,
-    "titulo": "Copom inicia reunião com expectativa de novo corte da taxa básica de juros",
-    "titulo_original": "Copom inicia reunião com expectativa de novo corte da taxa básica de juros - Jornal do Comércio",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "15/09 17:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de um novo corte na Selic reforça a tendência de afrouxamento monetário no Brasil. A magnitude do corte e o comunicado do Copom serão determinantes para as próximas sinalizações sobre a trajetória futura da taxa de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789509672.2760067,
-    "titulo": "Bolsas de NY caem com petróleo em alta e juro de 10 anos na máxima desde 2007",
-    "titulo_original": "Bolsas de NY caem com petróleo em alta e juro de 10 anos na máxima desde 2007",
-    "fonte": "Valor Economico",
-    "publicado": "15/09 17:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo e a elevação dos juros de longo prazo nos EUA criam um cenário de pressão sobre os ativos de risco. Se o Federal Reserve sinalizar manutenção da política monetária restritiva, a tendência de queda nas bolsas pode se acentuar; caso contrário, uma postura mais branda poderia impulsionar uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789509672.2778106,
-    "titulo": "Selic abaixo de 10%? Economista-chefe do Bradesco (BBDC4) revela quando juros podem voltar a um dígito",
-    "titulo_original": "Selic abaixo de 10%? Economista-chefe do Bradesco (BBDC4) revela quando juros podem voltar a um dígito",
-    "fonte": "Money Times",
-    "publicado": "15/09 17:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A possibilidade de a Selic retornar a um dígito está diretamente ligada à evolução da política fiscal brasileira. Se o governo conseguir apresentar um plano fiscal crível e sustentável, o Banco Central terá mais margens para reduzir os juros; caso contrário, a meta de juros baixos pode se tornar mais distante.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789509672.279546,
-    "titulo": "OpenAI, Anthropic e Google DeepMind articulam órgão para supervisionar riscos da IA",
-    "titulo_original": "OpenAI, Anthropic e Google DeepMind articulam órgão para supervisionar riscos da IA",
-    "fonte": "Folha Mercado",
-    "publicado": "15/09 18:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A iniciativa de grandes empresas de IA em criar um órgão de supervisão demonstra uma preocupação com a regulação e os riscos da tecnologia. Se este órgão conseguir estabelecer diretrizes eficazes, pode influenciar o desenvolvimento futuro da IA e sua integração com o sistema financeiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789509672.2812536,
-    "titulo": "Brasil ganha espaço lá fora; o que falta para atrair ainda mais dinheiro estrangeiro?",
-    "titulo_original": "Brasil ganha espaço lá fora; o que falta para atrair ainda mais dinheiro estrangeiro?",
-    "fonte": "Money Times",
-    "publicado": "15/09 17:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A atratividade do Brasil para capital estrangeiro está condicionada a fatores macroeconômicos cruciais. Se as contas públicas apresentarem deterioração ou o câmbio se mostrar volátil, o fluxo de capital pode ser afetado negativamente, impactando o mercado local.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789515036.4202561,
-    "titulo": "Produtores do RS relatam falta de diesel e temem impacto no plantio",
-    "titulo_original": "Produtores do RS relatam falta de diesel e temem impacto no plantio",
-    "fonte": "Folha Mercado",
-    "publicado": "15/09 19:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A falta de diesel pode afetar a produção agrícola, impactando a oferta de commodities e potencialmente gerando pressões inflacionárias em alimentos. Se a questão logística não for resolvida rapidamente, o cenário de safra pode ser comprometido.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789515040.3478305,
-    "titulo": "Petróleo acima de US$ 155 amplia risco para diesel",
-    "titulo_original": "Petróleo acima de US$ 155 amplia risco para diesel - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "15/09 17:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento do preço do petróleo tem potencial de impactar os custos de transporte e produção, o que pode se refletir em pressões inflacionárias, especialmente em setores que dependem de diesel. Se os preços do petróleo se mantiverem elevados, o custo do diesel pode pressionar a inflação de bens e serviços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789515044.270971,
-    "titulo": "Mercado projeta demanda chinesa por soja ainda mais alta e cotações sobem em Chicago",
-    "titulo_original": "Mercado projeta demanda chinesa por soja ainda mais alta e cotações sobem em Chicago - Notícias Agrícolas",
-    "fonte": "Google News Commodities",
-    "publicado": "15/09 16:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento da demanda chinesa por soja e a consequente alta nas cotações em Chicago podem impactar os preços da commodity no mercado internacional. Se essa tendência se mantiver, pode haver um efeito positivo para os exportadores brasileiros de soja.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789515048.1862383,
-    "titulo": "Soja encerra em alta em Chicago, com impulso do farelo após dados de processamento nos EUA",
-    "titulo_original": "Soja encerra em alta em Chicago, com impulso do farelo após dados de processamento nos EUA - Money Times",
-    "fonte": "Google News Commodities",
-    "publicado": "15/09 17:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta da soja em Chicago, influenciada por dados de processamento nos EUA, pode ter reflexos nos preços da commodity no mercado internacional. Se os dados de processamento continuarem fortes, isso pode sustentar a demanda por soja e seus derivados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789515052.0374436,
-    "titulo": "Guerra com Irã custou US$ 38 bilhões aos EUA, diz Escritório do Orçamento do Congresso",
-    "titulo_original": "Guerra com Irã custou US$ 38 bilhões aos EUA, diz Escritório do Orçamento do Congresso - CartaCapital",
-    "fonte": "Google News Geopolitica",
-    "publicado": "15/09 19:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O custo da guerra para os EUA pode ter implicações fiscais e orçamentárias para o país. Se esses gastos se mantiverem ou aumentarem, podem influenciar as decisões de política econômica americana.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1789558257.9418185,
     "titulo": "‘Corte é a parte fácil, o que importa é a trajetória’: O que esperar da decisão do Copom?",
     "titulo_original": "‘Corte é a parte fácil, o que importa é a trajetória’: O que esperar da decisão do Copom?",
@@ -1072,6 +724,96 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A captação de recursos pelo Bradesco indica uma estratégia para fortalecer sua base de capital. O sucesso dessa operação pode ser um indicativo da confiança do mercado na instituição financeira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789644659.2374365,
+    "titulo": "STJ conclui que incidem PIS e Cofins sobre a Selic nos depósitos compulsórios dos bancos",
+    "titulo_original": "STJ conclui que incidem PIS e Cofins sobre a Selic nos depósitos compulsórios dos bancos - valor.globo.com",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/09 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STJ sobre a incidência de PIS e Cofins sobre a Selic nos depósitos compulsórios dos bancos representa uma mudança regulatória com potencial impacto financeiro para o setor bancário. Se essa decisão gerar custos adicionais significativos para os bancos, isso pode, em tese, ser repassado de alguma forma, influenciando o custo do crédito ou a rentabilidade do setor, o que pode ter reflexos no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789644664.0014322,
+    "titulo": "Mercado reage ao pós-Copom em meio ao recuo do petróleo",
+    "titulo_original": "Mercado reage ao pós-Copom em meio ao recuo do petróleo",
+    "fonte": "Valor Economico",
+    "publicado": "17/09 08:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Copom de cortar a Selic em 0,25 p.p. e a sinalização de que novos cortes podem ocorrer abrem espaço para uma política monetária mais expansionista no Brasil. Se a inflação continuar sob controle, a continuidade desses cortes pode estimular a atividade econômica. Por outro lado, o recuo do petróleo mencionado na notícia pode ter um impacto misto, reduzindo pressões inflacionárias em alguns setores, mas afetando a receita de exportações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789644668.7209823,
+    "titulo": "Carney diz que Canadá e UE são mais fortes juntos após Trump criticar possível aliança",
+    "titulo_original": "Carney diz que Canadá e UE são mais fortes juntos após Trump criticar possível aliança",
+    "fonte": "Valor Economico",
+    "publicado": "17/09 08:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de Carney sugere um fortalecimento de laços entre Canadá e UE, o que pode ser interpretado como uma busca por alternativas comerciais diante das tensões com os EUA. Se essa aproximação resultar em acordos comerciais concretos que alterem fluxos de comércio globais, isso poderá ter repercussões indiretas em commodities e, consequentemente, no cenário macroeconômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789644673.5009344,
+    "titulo": "Trump ameaça aumentar tarifas contra UE se Canadá for integrado ao bloco",
+    "titulo_original": "Trump ameaça aumentar tarifas contra UE se Canadá for integrado ao bloco",
+    "fonte": "Folha Mercado",
+    "publicado": "17/09 08:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A ameaça de tarifas por parte dos EUA em resposta à aproximação entre Canadá e UE pode gerar incertezas nas relações comerciais globais. Se essas tarifas forem de fato implementadas, isso poderá impactar cadeias de suprimentos e o custo de bens, afetando indiretamente o cenário de inflação e atividade econômica em diversas regiões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789644679.2344568,
+    "titulo": "Mercado digere ‘Super Quarta’ e aguarda novas decisões de juros na semana; Ibovespa em dólar sobe nesta quinta-feira (17)",
+    "titulo_original": "Mercado digere ‘Super Quarta’ e aguarda novas decisões de juros na semana; Ibovespa em dólar sobe nesta quinta-feira (17)",
+    "fonte": "Money Times",
+    "publicado": "17/09 07:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia resume as decisões de política monetária do Brasil (Copom) e dos EUA (Fed) na 'Super Quarta'. A redução da Selic no Brasil e a alta nos EUA criam um diferencial de juros que pode influenciar o fluxo de capitais. A alta do Ibovespa em dólar sugere um movimento de valorização em moeda estrangeira, o que pode ser um reflexo da precificação dessas decisões de juros e do cenário macroeconômico global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789644679.2358205,
+    "titulo": "Petrobras ajusta diesel e confirma adesão a subsídio, mas aguarda regras para operacionalização",
+    "titulo_original": "Petrobras ajusta diesel e confirma adesão a subsídio, mas aguarda regras para operacionalização - Agência eixos",
+    "fonte": "Google News Acoes",
+    "publicado": "17/09 07:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica que a Petrobras está se preparando para aderir a um subsídio de diesel, aguardando a regulamentação. Se esse subsídio for implementado e tiver um impacto significativo nos custos de transporte e logística, isso poderá influenciar a inflação de forma indireta. A confirmação e regulamentação do subsídio serão pontos chave a serem observados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789644679.2372737,
+    "titulo": "Petrobras reajusta diesel, mas subsídio mantém preço para distribuidoras",
+    "titulo_original": "Petrobras reajusta diesel, mas subsídio mantém preço para distribuidoras - economia.uol.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "17/09 06:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia detalha que, apesar de um reajuste interno, o subsídio ao diesel manterá o preço estável para as distribuidoras. Isso sugere que o governo está atuando para mitigar o impacto do reajuste nos custos finais. Se o subsídio for mantido e eficaz, isso pode ajudar a controlar a inflação de transportes e bens, mas a sustentabilidade fiscal desse subsídio a longo prazo é um ponto a ser observado.",
     "is_stocks": true
   }
 ]
