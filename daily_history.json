@@ -879,5 +879,136 @@
     "origem": "externa",
     "leitura_critica": "O avanço dos rendimentos dos Treasuries para acima de 5% pode indicar uma expectativa de juros mais altos por mais tempo nos EUA. Se essa tendência se mantiver, pode haver uma migração de capital para ativos de renda fixa, pressionando as bolsas de valores.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789749948.453751,
+    "titulo": "Taxas do Tesouro Direto recuam e devolvem a alta provocada pelo Bolsa Família",
+    "titulo_original": "Taxas do Tesouro Direto recuam e devolvem a alta provocada pelo Bolsa Família",
+    "fonte": "InvestNews",
+    "publicado": "18/09 10:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica que a pressão fiscal associada ao Bolsa Família e ao cenário eleitoral impactou as taxas do Tesouro Direto. Se o governo conseguir gerenciar a questão fiscal de forma eficaz, as taxas podem se estabilizar; se a pressão fiscal persistir, pode haver novas altas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789749953.4304214,
+    "titulo": "Redução de R$ 11,5 bi em gasto com Previdência abriu caminho para reajuste do Bolsa Família, diz governo",
+    "titulo_original": "Redução de R$ 11,5 bi em gasto com Previdência abriu caminho para reajuste do Bolsa Família, diz governo",
+    "fonte": "Folha Mercado",
+    "publicado": "18/09 11:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia detalha uma manobra fiscal que permitiu o reajuste do Bolsa Família, com a redução de gastos previdenciários. Se essa redução se concretizar e for sustentável, pode aliviar a pressão fiscal; caso contrário, o reajuste pode gerar um impacto maior do que o previsto no orçamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789749958.4307563,
+    "titulo": "Lula diz que foi procurado por Vorcaro: 'meu banco está quebrando, estou sendo perseguido'",
+    "titulo_original": "Lula diz que foi procurado por Vorcaro: 'meu banco está quebrando, estou sendo perseguido'",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 13:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente sobre a investigação de um caso envolvendo um banco pode gerar atenção sobre a saúde do sistema financeiro. Se a investigação apontar irregularidades graves, isso pode aumentar a percepção de risco para instituições financeiras menores; caso contrário, pode ser apenas um episódio isolado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789749963.4696536,
+    "titulo": "Lula diz que governo terá PAC 4 e reserva de royalties do petróleo para investir em educação",
+    "titulo_original": "Lula diz que governo terá PAC 4 e reserva de royalties do petróleo para investir em educação",
+    "fonte": "Money Times",
+    "publicado": "18/09 12:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O anúncio do PAC 4 e a intenção de usar royalties do petróleo para educação indicam planos de investimento público. Se esses programas forem bem executados e financiados, podem impulsionar a infraestrutura e a educação; a sustentabilidade do financiamento e a eficácia dos investimentos serão cruciais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789749982.346198,
+    "titulo": "O que está por trás da ‘bolha de lucros’ do S&P 500 e por que vale ficar de olho, segundo o Goldman Sachs",
+    "titulo_original": "O que está por trás da ‘bolha de lucros’ do S&P 500 e por que vale ficar de olho, segundo o Goldman Sachs",
+    "fonte": "Money Times",
+    "publicado": "18/09 13:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A análise do Goldman Sachs sobre a \"bolha de lucros\" do S&P 500 sugere um otimismo cauteloso. Se os lucros continuarem a crescer acima do esperado, o índice pode atingir as projeções; se houver uma desaceleração abrupta, a percepção de \"bolha\" pode se intensificar, levando a correções.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789749982.348137,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai em dia de vencimento de opções - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai em dia de vencimento de opções - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "18/09 12:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa em um dia de vencimento de opções sugere volatilidade no mercado acionário. Se o vencimento de opções gerar maior liquidez e pressão vendedora, a bolsa pode continuar em baixa; se a pressão diminuir após o vencimento, pode haver uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789749982.3500679,
+    "titulo": "Além do Digimais: Veja as 10 instituições financeiras com maiores prejuízos no 1º semestre",
+    "titulo_original": "Além do Digimais: Veja as 10 instituições financeiras com maiores prejuízos no 1º semestre",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 12:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia expõe um cenário de prejuízos em diversas instituições financeiras brasileiras, com o Digimais liderando as perdas. Se esses prejuízos se generalizarem ou aumentarem, isso pode gerar preocupações sobre a solidez do sistema financeiro; se forem casos pontuais e isolados, o impacto pode ser menor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789749982.351556,
+    "titulo": "CSN recebe ofertas de R$ 11 bi pela unidade de cimento: Votorantim, Huaxin e Polimix estão na disputa",
+    "titulo_original": "CSN recebe ofertas de R$ 11 bi pela unidade de cimento: Votorantim, Huaxin e Polimix estão na disputa",
+    "fonte": "InvestNews",
+    "publicado": "18/09 09:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica um processo de venda de ativos pela CSN, com ofertas substanciais pela unidade de cimento. Se a venda for concretizada por um valor próximo ao esperado, isso pode fortalecer a posição financeira da CSN; se o processo se arrastar ou o valor for menor, pode indicar desafios no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789749982.3530087,
+    "titulo": "Petrobras vai ao Governo contra ANP para manter poder no mercado de gás - Brazil Journal",
+    "titulo_original": "Petrobras vai ao Governo contra ANP para manter poder no mercado de gás - Brazil Journal",
+    "fonte": "Google News Acoes",
+    "publicado": "18/09 12:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A disputa entre Petrobras e ANP sobre o mercado de gás pode ter implicações regulatórias e de concorrência. Se a Petrobras conseguir reverter as decisões da ANP, isso pode manter a concentração do mercado; se a ANP mantiver suas decisões, pode haver maior abertura e concorrência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789749982.3544686,
+    "titulo": "Estrangeiros retiram R$ 964 milhões em ações da B3 em 16 de setembro - Valor Econômico",
+    "titulo_original": "Estrangeiros retiram R$ 964 milhões em ações da B3 em 16 de setembro - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "18/09 11:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de capital estrangeiro do mercado de ações brasileiro indica uma possível aversão ao risco ou realocação de portfólio. Se essa tendência de saída de capital se mantiver, pode pressionar o mercado acionário; se for um movimento pontual, o impacto pode ser limitado.",
+    "is_stocks": true
   }
 ]
