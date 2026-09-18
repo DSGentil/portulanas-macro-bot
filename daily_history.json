@@ -1,95 +1,5 @@
 [
   {
-    "_timestamp": 1789644659.2374365,
-    "titulo": "STJ conclui que incidem PIS e Cofins sobre a Selic nos depósitos compulsórios dos bancos",
-    "titulo_original": "STJ conclui que incidem PIS e Cofins sobre a Selic nos depósitos compulsórios dos bancos - valor.globo.com",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/09 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do STJ sobre a incidência de PIS e Cofins sobre a Selic nos depósitos compulsórios dos bancos representa uma mudança regulatória com potencial impacto financeiro para o setor bancário. Se essa decisão gerar custos adicionais significativos para os bancos, isso pode, em tese, ser repassado de alguma forma, influenciando o custo do crédito ou a rentabilidade do setor, o que pode ter reflexos no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789644664.0014322,
-    "titulo": "Mercado reage ao pós-Copom em meio ao recuo do petróleo",
-    "titulo_original": "Mercado reage ao pós-Copom em meio ao recuo do petróleo",
-    "fonte": "Valor Economico",
-    "publicado": "17/09 08:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Copom de cortar a Selic em 0,25 p.p. e a sinalização de que novos cortes podem ocorrer abrem espaço para uma política monetária mais expansionista no Brasil. Se a inflação continuar sob controle, a continuidade desses cortes pode estimular a atividade econômica. Por outro lado, o recuo do petróleo mencionado na notícia pode ter um impacto misto, reduzindo pressões inflacionárias em alguns setores, mas afetando a receita de exportações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789644668.7209823,
-    "titulo": "Carney diz que Canadá e UE são mais fortes juntos após Trump criticar possível aliança",
-    "titulo_original": "Carney diz que Canadá e UE são mais fortes juntos após Trump criticar possível aliança",
-    "fonte": "Valor Economico",
-    "publicado": "17/09 08:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração de Carney sugere um fortalecimento de laços entre Canadá e UE, o que pode ser interpretado como uma busca por alternativas comerciais diante das tensões com os EUA. Se essa aproximação resultar em acordos comerciais concretos que alterem fluxos de comércio globais, isso poderá ter repercussões indiretas em commodities e, consequentemente, no cenário macroeconômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789644673.5009344,
-    "titulo": "Trump ameaça aumentar tarifas contra UE se Canadá for integrado ao bloco",
-    "titulo_original": "Trump ameaça aumentar tarifas contra UE se Canadá for integrado ao bloco",
-    "fonte": "Folha Mercado",
-    "publicado": "17/09 08:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A ameaça de tarifas por parte dos EUA em resposta à aproximação entre Canadá e UE pode gerar incertezas nas relações comerciais globais. Se essas tarifas forem de fato implementadas, isso poderá impactar cadeias de suprimentos e o custo de bens, afetando indiretamente o cenário de inflação e atividade econômica em diversas regiões.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789644679.2344568,
-    "titulo": "Mercado digere ‘Super Quarta’ e aguarda novas decisões de juros na semana; Ibovespa em dólar sobe nesta quinta-feira (17)",
-    "titulo_original": "Mercado digere ‘Super Quarta’ e aguarda novas decisões de juros na semana; Ibovespa em dólar sobe nesta quinta-feira (17)",
-    "fonte": "Money Times",
-    "publicado": "17/09 07:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A notícia resume as decisões de política monetária do Brasil (Copom) e dos EUA (Fed) na 'Super Quarta'. A redução da Selic no Brasil e a alta nos EUA criam um diferencial de juros que pode influenciar o fluxo de capitais. A alta do Ibovespa em dólar sugere um movimento de valorização em moeda estrangeira, o que pode ser um reflexo da precificação dessas decisões de juros e do cenário macroeconômico global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789644679.2358205,
-    "titulo": "Petrobras ajusta diesel e confirma adesão a subsídio, mas aguarda regras para operacionalização",
-    "titulo_original": "Petrobras ajusta diesel e confirma adesão a subsídio, mas aguarda regras para operacionalização - Agência eixos",
-    "fonte": "Google News Acoes",
-    "publicado": "17/09 07:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica que a Petrobras está se preparando para aderir a um subsídio de diesel, aguardando a regulamentação. Se esse subsídio for implementado e tiver um impacto significativo nos custos de transporte e logística, isso poderá influenciar a inflação de forma indireta. A confirmação e regulamentação do subsídio serão pontos chave a serem observados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789644679.2372737,
-    "titulo": "Petrobras reajusta diesel, mas subsídio mantém preço para distribuidoras",
-    "titulo_original": "Petrobras reajusta diesel, mas subsídio mantém preço para distribuidoras - economia.uol.com.br",
-    "fonte": "Google News Acoes",
-    "publicado": "17/09 06:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia detalha que, apesar de um reajuste interno, o subsídio ao diesel manterá o preço estável para as distribuidoras. Isso sugere que o governo está atuando para mitigar o impacto do reajuste nos custos finais. Se o subsídio for mantido e eficaz, isso pode ajudar a controlar a inflação de transportes e bens, mas a sustentabilidade fiscal desse subsídio a longo prazo é um ponto a ser observado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789650941.1363118,
     "titulo": "Soja bate recorde de safra e responde por um terço da receita agrícola no Brasil em 2025",
     "titulo_original": "Soja bate recorde de safra e responde por um terço da receita agrícola no Brasil em 2025",
@@ -1009,6 +919,102 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A retirada de capital estrangeiro do mercado de ações brasileiro indica uma possível aversão ao risco ou realocação de portfólio. Se essa tendência de saída de capital se mantiver, pode pressionar o mercado acionário; se for um movimento pontual, o impacto pode ser limitado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789756245.0476184,
+    "titulo": "Selic pode cair a 13%, mas eleições ameaçam ações brasileiras, diz executivo da EQI",
+    "titulo_original": "Selic pode cair a 13%, mas eleições ameaçam ações brasileiras, diz executivo da EQI",
+    "fonte": "Money Times",
+    "publicado": "18/09 13:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de queda da Selic para 13% indica uma expectativa de flexibilização da política monetária, o que seria positivo para a renda variável. Contudo, a menção às incertezas eleitorais como ameaça às ações sugere que o cenário político pode ofuscar os benefícios de juros mais baixos, demandando atenção a pesquisas e movimentações eleitorais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789756249.4941182,
+    "titulo": "BC libera Pix automático em conta-salário e prevê exclusão imediata de instituições; veja mudanças",
+    "titulo_original": "BC libera Pix automático em conta-salário e prevê exclusão imediata de instituições; veja mudanças",
+    "fonte": "Folha Mercado",
+    "publicado": "18/09 11:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Banco Central de liberar o Pix automático para contas-salário representa uma mudança regulatória no sistema de pagamentos brasileiro. Essa alteração pode impactar a dinâmica de fluxo de recursos e a eficiência das transações financeiras, com potenciais efeitos sobre o mercado financeiro em geral.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789756253.5410752,
+    "titulo": "Mercado financeiro projeta corte da Selic para 13,75% - diariodigital.com.br",
+    "titulo_original": "Mercado financeiro projeta corte da Selic para 13,75% - diariodigital.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/09 12:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de corte da Selic para 13,75% indica uma expectativa de continuidade do ciclo de afrouxamento monetário no Brasil. Se essa projeção se concretizar, pode haver um impacto positivo na renda variável e uma pressão de baixa sobre o dólar, dependendo da comunicação do Banco Central sobre o ritmo e a magnitude dos cortes futuros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789756257.5068736,
+    "titulo": "FOMC (Set/26): Fed eleva juros por unanimidade e reforça foco no combate à inflação - Genial Analisa",
+    "titulo_original": "FOMC (Set/26): Fed eleva juros por unanimidade e reforça foco no combate à inflação - Genial Analisa",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/09 15:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão unânime do Fed de elevar os juros e o reforço no combate à inflação indicam uma postura monetária restritiva contínua nos Estados Unidos. Isso pode manter a pressão sobre ativos de risco globais e sustentar um dólar forte, impactando fluxos de capital para economias emergentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789756262.4578023,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/09 15:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento em tempo real da cotação do dólar é fundamental para quem opera WDO. Movimentações significativas na moeda podem indicar mudanças no fluxo de capital ou reações a eventos macroeconômicos, exigindo atenção constante aos dados divulgados ao longo do dia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789756262.4594722,
+    "titulo": "Ouro avança com alívio do petróleo e estabilização do dólar",
+    "titulo_original": "Ouro avança com alívio do petróleo e estabilização do dólar",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 15:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A estabilização do dólar, influenciada por ações do Japão, pode oferecer um suporte temporário para o ouro. No entanto, a persistência da alta nos juros dos Treasuries americanos continuará a ser um fator de pressão para a commodity. Se o Federal Reserve sinalizar uma pausa ou reversão no ciclo de alta de juros, o ouro pode encontrar espaço para valorização mais expressiva.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789756262.461111,
+    "titulo": "Sindicatos de trabalhadores de energia pedem suspensão de pagamento de R$ 2,3 bi a acionistas da Axia",
+    "titulo_original": "Sindicatos de trabalhadores de energia pedem suspensão de pagamento de R$ 2,3 bi a acionistas da Axia",
+    "fonte": "Folha Mercado",
+    "publicado": "18/09 14:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata de uma disputa judicial envolvendo o pagamento a acionistas de uma empresa do setor de energia. Embora envolva valores significativos, o impacto macroeconômico direto ou a conexão com decisões de política monetária ou fiscal não são explícitos, limitando sua relevância imediata para o mercado de WDO.",
     "is_stocks": true
   }
 ]
