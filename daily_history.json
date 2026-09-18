@@ -1,69 +1,5 @@
 [
   {
-    "_timestamp": 1789650941.1363118,
-    "titulo": "Soja bate recorde de safra e responde por um terço da receita agrícola no Brasil em 2025",
-    "titulo_original": "Soja bate recorde de safra e responde por um terço da receita agrícola no Brasil em 2025",
-    "fonte": "Folha Mercado",
-    "publicado": "17/09 10:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Um recorde na safra de soja é um indicador positivo para o agronegócio brasileiro e pode ter impacto na balança comercial. A sustentabilidade deste desempenho dependerá de fatores como demanda internacional e condições climáticas futuras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789650945.1076453,
-    "titulo": "Sorriso, em Mato Grosso, perde liderança de ranking de produção agrícola após seis anos",
-    "titulo_original": "Sorriso, em Mato Grosso, perde liderança de ranking de produção agrícola após seis anos",
-    "fonte": "Folha Mercado",
-    "publicado": "17/09 10:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A mudança na liderança da produção agrícola em Sorriso pode indicar uma diversificação ou realocação de atividades agrícolas no país. A análise do IBGE sobre os motivos dessa mudança seria crucial para entender o impacto econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789650948.986826,
-    "titulo": "Dólar à vista tem queda firme com apoio externo e quadro eleitoral",
-    "titulo_original": "Dólar à vista tem queda firme com apoio externo e quadro eleitoral",
-    "fonte": "Valor Economico",
-    "publicado": "17/09 09:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do dólar, impulsionada por fatores externos e pelo cenário eleitoral doméstico, pode ter implicações para a inflação e para o fluxo de capital. Se a percepção eleitoral continuar a favorecer um candidato com propostas fiscais específicas, isso pode influenciar a trajetória do câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789650952.9821575,
-    "titulo": "Pedidos iniciais de seguro-desemprego nos EUA vêm em 196K vs estimativa de 208K",
-    "titulo_original": "US initial jobless claims come in at 196K vs 208K estimate",
-    "fonte": "ForexLive",
-    "publicado": "17/09 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nos pedidos de seguro-desemprego sugere um mercado de trabalho americano mais resiliente do que o esperado. Se este cenário de melhora no emprego se mantiver, pode reforçar a postura do Federal Reserve em manter juros mais altos por mais tempo; caso contrário, dados futuros mais fracos poderiam abrir espaço para discussões sobre cortes de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789650956.8932118,
-    "titulo": "Pedidos iniciais de seguro-desemprego nos EUA somam 196 mil na semana até 12 de setembro",
-    "titulo_original": "Pedidos iniciais de seguro-desemprego nos EUA somam 196 mil na semana até 12 de setembro",
-    "fonte": "Valor Economico",
-    "publicado": "17/09 09:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nos pedidos de seguro-desemprego nos EUA sugere um mercado de trabalho robusto, o que pode influenciar as decisões futuras de política monetária do Federal Reserve. Se os dados continuarem a surpreender positivamente, o Fed pode manter uma postura mais restritiva por mais tempo.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1789658147.6966271,
     "titulo": "Superávit de R$ 18,6 bilhões ou rombo de R$ 86,1 bilhões? Governo e IFI divergem sobre contas de 2027",
     "titulo_original": "Superávit de R$ 18,6 bilhões ou rombo de R$ 86,1 bilhões? Governo e IFI divergem sobre contas de 2027",
@@ -1015,6 +951,98 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A notícia trata de uma disputa judicial envolvendo o pagamento a acionistas de uma empresa do setor de energia. Embora envolva valores significativos, o impacto macroeconômico direto ou a conexão com decisões de política monetária ou fiscal não são explícitos, limitando sua relevância imediata para o mercado de WDO.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789763442.4447699,
+    "titulo": "Juros futuros ficam perto da estabilidade, apesar de pressão externa",
+    "titulo_original": "Juros futuros ficam perto da estabilidade, apesar de pressão externa",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 17:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade dos juros futuros no Brasil, mesmo diante da pressão externa por aperto monetário, sugere que o mercado local está precificando um cenário eleitoral favorável à oposição, o que pode ser interpretado como um fator de menor risco fiscal. Se a oposição vencer e mantiver uma postura fiscal prudente, isso pode sustentar a queda dos juros no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789763446.4345703,
+    "titulo": "Trump deve aprovar novas sanções contra Rússia nesta sexta, diz autoridade",
+    "titulo_original": "Trump deve aprovar novas sanções contra Rússia nesta sexta, diz autoridade - CNN Brasil",
+    "fonte": "Google News Geopolitica",
+    "publicado": "18/09 16:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A imposição de novas sanções contra a Rússia por parte dos EUA pode gerar tensões geopolíticas e impactar mercados globais, especialmente os de commodities energéticas. Se as sanções forem significativas, podem afetar o fluxo de capital e a atividade econômica em países dependentes do comércio com a Rússia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789763450.42638,
+    "titulo": "Iene enfraquece mesmo com juros no maior nível em mais de três décadas",
+    "titulo_original": "Iene enfraquece mesmo com juros no maior nível em mais de três décadas",
+    "fonte": "Money Times",
+    "publicado": "18/09 15:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O enfraquecimento do iene, mesmo com a elevação de juros no Japão, indica que o mercado esperava uma postura ainda mais agressiva do Banco Central do Japão. Essa divergência entre a ação do BC e a reação do mercado pode gerar volatilidade nas moedas globais e impactar fluxos de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789763454.416167,
+    "titulo": "Presidente do México diz que trabalha para fechar acordo comercial com Trump",
+    "titulo_original": "Presidente do México diz que trabalha para fechar acordo comercial com Trump - valor.globo.com",
+    "fonte": "Google News Geopolitica",
+    "publicado": "18/09 15:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia sobre o México buscando um acordo comercial com os EUA pode ter implicações para o fluxo de comércio e investimento na América do Norte. Se um acordo for alcançado, pode trazer mais previsibilidade para as cadeias de suprimentos e impactar positivamente a atividade econômica na região.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789763459.5945525,
+    "titulo": "Bolsas de NY encerram sem sinal único com suporte de ‘techs’ e avanço dos juros",
+    "titulo_original": "Bolsas de NY encerram sem sinal único com suporte de ‘techs’ e avanço dos juros",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 17:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O avanço dos juros dos Treasuries nos EUA, impulsionado pela expectativa de novas altas pelo Fed, tende a pressionar os mercados de renda variável globalmente. Se o Fed sinalizar o fim do ciclo de aperto monetário em suas próximas comunicações, isso pode aliviar a pressão sobre as bolsas e favorecer um movimento de alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789763459.596254,
+    "titulo": "B3 registra crescimento nos mercados de listados e renda fixa em agosto",
+    "titulo_original": "B3 registra crescimento nos mercados de listados e renda fixa em agosto - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "18/09 15:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento da B3 em agosto, tanto em mercados listados quanto em renda fixa, pode indicar um aumento na atividade de investimento no país. Se esse crescimento se mantiver, pode sinalizar um ambiente mais favorável para o fluxo de capital doméstico e, potencialmente, internacional, dependendo de outros fatores macroeconômicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789763459.597898,
+    "titulo": "Banco do Brasil (BBSA3), Bradesco (BBDC4) e Itaú (ITUB4): Safra reajusta preço-alvo e diz qual banco comprar agora; veja",
+    "titulo_original": "Banco do Brasil (BBSA3), Bradesco (BBDC4) e Itaú (ITUB4): Safra reajusta preço-alvo e diz qual banco comprar agora; veja",
+    "fonte": "Money Times",
+    "publicado": "18/09 15:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise do Safra sobre o setor bancário, com reajuste de preços-alvo e menção a um cenário de crédito piorado, pode influenciar o desempenho das ações de bancos. Se a deterioração do crédito for mais generalizada do que o esperado, pode haver um impacto na atividade econômica e na confiança do investidor.",
     "is_stocks": true
   }
 ]
