@@ -1,104 +1,5 @@
 [
   {
-    "_timestamp": 1789658147.6966271,
-    "titulo": "Superávit de R$ 18,6 bilhões ou rombo de R$ 86,1 bilhões? Governo e IFI divergem sobre contas de 2027",
-    "titulo_original": "Superávit de R$ 18,6 bilhões ou rombo de R$ 86,1 bilhões? Governo e IFI divergem sobre contas de 2027",
-    "fonte": "Money Times",
-    "publicado": "17/09 11:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divergência entre o governo e a IFI sobre as contas públicas de 2027 aponta para incertezas na trajetória fiscal do país. Se o Congresso aprovar o orçamento com as projeções do governo, isso pode sinalizar otimismo fiscal, mas se as projeções da IFI se mostrarem mais realistas, o país pode enfrentar pressões de gastos e dívida maiores do que o esperado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789658153.0733275,
-    "titulo": "Reajuste do Bolsa Família é publicado em edição extra do Diário Oficial da União",
-    "titulo_original": "Reajuste do Bolsa Família é publicado em edição extra do Diário Oficial da União",
-    "fonte": "Valor Economico",
-    "publicado": "17/09 11:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O reajuste do Bolsa Família impacta diretamente o orçamento das famílias beneficiadas e as contas públicas. Se o aumento do benefício for acompanhado por uma melhora na arrecadação ou por cortes em outras áreas, o impacto fiscal pode ser gerenciado; caso contrário, pode haver pressão adicional sobre o déficit público, especialmente se a inflação continuar a corroer o poder de compra.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789658158.390532,
-    "titulo": "Economia recua 0,4% em julho ante junho, aponta Monitor do PIB da FGV",
-    "titulo_original": "Economia recua 0,4% em julho ante junho, aponta Monitor do PIB da FGV",
-    "fonte": "Valor Economico",
-    "publicado": "17/09 11:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A retração de 0,4% na economia em julho, segundo o Monitor do PIB da FGV, reforça a trajetória de desaceleração e a dificuldade em manter altas taxas de crescimento. Se essa desaceleração persistir nos próximos meses, o Banco Central pode ter mais espaço para discutir cortes de juros; caso contrário, se houver uma recuperação rápida, a pressão por juros mais altos pode retornar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789658163.8541253,
-    "titulo": "BC discute evolução da lei de cripto diante de novos ativos e participantes",
-    "titulo_original": "BC discute evolução da lei de cripto diante de novos ativos e participantes",
-    "fonte": "Valor Economico",
-    "publicado": "17/09 11:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão do Banco Central sobre a evolução da lei de criptoativos indica um movimento em direção a uma regulamentação mais abrangente e adaptada às novas dinâmicas do mercado. Se as novas regras forem claras e proporcionarem segurança jurídica, isso pode atrair mais investimentos e participantes institucionais para o setor; uma regulamentação excessivamente restritiva, por outro lado, pode inibir o desenvolvimento do mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789658180.491894,
-    "titulo": "Estrangeiros aportam R$ 249,5 milhões em ações na B3 em 15 de setembro",
-    "titulo_original": "Estrangeiros aportam R$ 249,5 milhões em ações na B3 em 15 de setembro",
-    "fonte": "Valor Economico",
-    "publicado": "17/09 11:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada líquida de capital estrangeiro em ações sugere um fluxo positivo para a renda variável brasileira, o que pode sustentar o Ibovespa. Se essa tendência de aportes se mantiver nos próximos dias, o mercado pode interpretar como um sinal de confiança na economia doméstica; uma reversão abrupta desse fluxo, no entanto, indicaria cautela renovada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789658180.49286,
-    "titulo": "Sessão europeia de investimento: Mercados sobem com alívio no petróleo e rendimentos de títulos após Fed e BOE manterem juros",
-    "titulo_original": "investingLive European session wrap: Markets rise as oil and bond yields ease after Fed, BOE holds rates",
-    "fonte": "ForexLive",
-    "publicado": "17/09 09:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A manutenção das taxas de juros pelo Fed e BOE, juntamente com a queda nos rendimentos de títulos e petróleo, sugere um alívio temporário nas pressões inflacionárias globais. Se os próximos dados de inflação vierem consistentemente mais baixos, isso pode abrir espaço para discussões sobre cortes de juros no futuro; caso contrário, o risco de novas altas ou manutenção prolongada de juros elevados persiste.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789658180.4937468,
-    "titulo": "Wall Street avança após ‘sell-off’ com Fed; tecnologia lidera ganhos",
-    "titulo_original": "Wall Street avança após ‘sell-off’ com Fed; tecnologia lidera ganhos",
-    "fonte": "Money Times",
-    "publicado": "17/09 11:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A recuperação de Wall Street após a decisão do Fed, com recuo nos rendimentos dos Treasuries, sugere que o mercado pode ter precificado o aumento de juros de forma mais branda do que o esperado. Se os próximos dados econômicos dos EUA confirmarem uma desaceleração controlada, isso pode sustentar a alta dos mercados acionários; uma inflação persistente, no entanto, pode forçar o Fed a manter uma postura mais agressiva, revertendo os ganhos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789663543.3438425,
     "titulo": "Selic cai para 13,75%: vale a pena tentar renegociar dívidas?",
     "titulo_original": "Selic cai para 13,75%: vale a pena tentar renegociar dívidas? - economia.uol.com.br",
@@ -1043,6 +944,140 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A análise do Safra sobre o setor bancário, com reajuste de preços-alvo e menção a um cenário de crédito piorado, pode influenciar o desempenho das ações de bancos. Se a deterioração do crédito for mais generalizada do que o esperado, pode haver um impacto na atividade econômica e na confiança do investidor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789768869.0114882,
+    "titulo": "Aneel eleva projeção de alta da conta de luz em 2026",
+    "titulo_original": "Aneel eleva projeção de alta da conta de luz em 2026",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 18:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da projeção para a conta de luz em 2026, acima da inflação esperada, indica uma pressão adicional sobre o orçamento das famílias e empresas. Se essa projeção se concretizar, o custo de vida pode ser mais impactado; a revisão para baixo dessa projeção em boletins futuros poderia aliviar essa pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789768873.086474,
+    "titulo": "Royalty de petróleo precisa entrar na conta da reforma fiscal",
+    "titulo_original": "Royalty de petróleo precisa entrar na conta da reforma fiscal",
+    "fonte": "Folha Mercado",
+    "publicado": "18/09 18:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre a inclusão dos royalties de petróleo na reforma fiscal sugere um debate sobre a arrecadação e a distribuição de receitas. Se essa inclusão for efetivada, pode haver um impacto na receita de estados e municípios produtores; a manutenção do status quo pode significar a continuidade das atuais dinâmicas de distribuição.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789768877.0650651,
+    "titulo": "Preocupação com ‘excessos’ em data centers cresce e alguns títulos já são enquadrados como junk bonds",
+    "titulo_original": "Preocupação com ‘excessos’ em data centers cresce e alguns títulos já são enquadrados como junk bonds",
+    "fonte": "InvestNews",
+    "publicado": "18/09 18:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos juros em emissões para data centers sugere um apetite ao risco crescente no setor, com alguns títulos sendo classificados como 'junk bonds'. Se essa tendência de maior risco se intensificar, pode haver um encarecimento do crédito para empresas do setor; caso contrário, a normalização das condições de mercado pode reverter essa percepção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789768881.0772986,
+    "titulo": "Economia mundial busca alternativas aos EUA diante de dúvidas sobre dólar",
+    "titulo_original": "Economia mundial busca alternativas aos EUA diante de dúvidas sobre dólar",
+    "fonte": "Folha Mercado",
+    "publicado": "18/09 17:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A busca global por alternativas aos EUA e as dúvidas sobre o dólar podem indicar uma reconfiguração nas reservas internacionais e nos investimentos. Se essa tendência de desconfiança no dólar se intensificar, isso pode levar a uma maior diversificação de moedas e ativos; uma reversão na percepção sobre a força do dólar poderia manter o status quo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789768907.2593122,
+    "titulo": "Notícias do mercado das Américas: Títulos públicos caem novamente, verificação da taxa de câmbio do iene adiciona intriga após o BOJ",
+    "titulo_original": "investingLive Americas market news wrap: Bonds slump again, yen rate check adds intrigue after BOJ",
+    "fonte": "ForexLive",
+    "publicado": "18/09 17:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A produção industrial dos EUA abaixo do esperado, combinada com a sugestão de que a inflação está acima de 3%, reforça a pressão sobre os rendimentos dos títulos públicos americanos. Se a tendência de alta dos juros se mantiver, isso pode continuar a pressionar os mercados de renda fixa globalmente; caso contrário, uma reversão na política monetária americana poderia alterar esse cenário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789768907.260907,
+    "titulo": "EUA hoje: Nasdaq avança com rali de chips; petróleo cai e juros dos EUA voltam a subir",
+    "titulo_original": "EUA hoje: Nasdaq avança com rali de chips; petróleo cai e juros dos EUA voltam a subir - ADVFN",
+    "fonte": "Google News Commodities",
+    "publicado": "18/09 17:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O avanço dos juros nos EUA, juntamente com a queda do petróleo, pode indicar um cenário de maior aversão ao risco em alguns setores, enquanto outros, como o de tecnologia (chips), mostram resiliência. Se os juros continuarem a subir, isso pode pressionar o mercado acionário global; se o petróleo se recuperar, pode haver um impacto inflacionário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789768907.2624202,
+    "titulo": "Ibovespa fecha em queda e dólar tem leve alta com exterior e cenário eleitoral no foco",
+    "titulo_original": "Ibovespa fecha em queda e dólar tem leve alta com exterior e cenário eleitoral no foco",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 17:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa e a leve alta do dólar, influenciadas pelo exterior e pelo cenário eleitoral, indicam um ambiente de cautela no mercado. Se o cenário eleitoral se tornar mais definido ou se houver uma melhora no ambiente externo, isso pode impulsionar uma recuperação do Ibovespa; a persistência da incerteza pode manter a volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789768907.263942,
+    "titulo": "Wall Street fecha sem direção única com Treasuries; Dow Jones recua 1,7% na semana",
+    "titulo_original": "Wall Street fecha sem direção única com Treasuries; Dow Jones recua 1,7% na semana",
+    "fonte": "Money Times",
+    "publicado": "18/09 17:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O avanço dos rendimentos dos Treasuries acima de 5% pressiona os mercados globais, levando Wall Street a fechar sem direção única. Se os juros americanos continuarem nessa trajetória ascendente, isso pode limitar o desempenho das bolsas; uma sinalização de estabilização ou queda nos juros poderia trazer um alívio para os mercados acionários.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789768907.2654738,
+    "titulo": "A economia começou a perder fôlego e a eleição vai sentir",
+    "titulo_original": "A economia começou a perder fôlego e a eleição vai sentir",
+    "fonte": "Money Times",
+    "publicado": "18/09 18:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de que o mercado está precificando uma desaceleração econômica antes que ela se manifeste plenamente pode indicar uma antecipação de cenários futuros. Se essa tendência de perda de fôlego econômico se confirmar, pode haver maior volatilidade nos ativos financeiros; a melhora nos indicadores econômicos poderia reverter essa percepção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789768907.2670152,
+    "titulo": "Ibovespa desvaloriza de olho em cenário fiscal brasileiro e preços do petróleo",
+    "titulo_original": "Ibovespa desvaloriza de olho em cenário fiscal brasileiro e preços do petróleo - VEJA",
+    "fonte": "Google News Commodities",
+    "publicado": "18/09 17:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A desvalorização do Ibovespa, influenciada pelo cenário fiscal e pelos preços do petróleo, aponta para a sensibilidade do mercado a fatores domésticos e internacionais. Se o cenário fiscal se deteriorar, isso pode pressionar ainda mais a bolsa; uma melhora nas perspectivas fiscais ou uma alta no petróleo poderiam reverter essa tendência.",
     "is_stocks": true
   }
 ]
