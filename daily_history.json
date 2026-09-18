@@ -1,324 +1,5 @@
 [
   {
-    "_timestamp": 1789583455.4029503,
-    "titulo": "Patrus Ananias propõe alongar dívida com União em dez anos e elevar tributação",
-    "titulo_original": "Patrus Ananias propõe alongar dívida com União em dez anos e elevar tributação",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 14:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de alongamento da dívida e redução de juros por um candidato ao governo estadual pode sinalizar uma renegociação fiscal significativa se eleita. Se a proposta for implementada, isso poderia aliviar a pressão fiscal do estado, mas a elevação da tributação mencionada pode impactar a atividade econômica local.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789583460.471377,
-    "titulo": "Fluxo cambial registra entrada de US$ 706 milhões entre os dias 8 e 11 de setembro",
-    "titulo_original": "Fluxo cambial registra entrada de US$ 706 milhões entre os dias 8 e 11 de setembro",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 14:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada líquida de capital estrangeiro, mesmo que modesta no período recente, contribui para a liquidez do mercado. Se essa tendência se mantiver, pode sustentar o real e influenciar a dinâmica de juros e inflação; caso contrário, uma reversão pode pressionar a moeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789583465.7827733,
-    "titulo": "Contas públicas e falta de mão de obra desafiam crescimento do agronegócio",
-    "titulo_original": "Contas públicas e falta de mão de obra desafiam crescimento do agronegócio",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 14:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O desequilíbrio das contas públicas é um fator que pode levar a decisões fiscais e regulatórias futuras. Se a escassez de mão de obra persistir, pode impactar a produção e, consequentemente, a atividade econômica do setor, exigindo possíveis intervenções governamentais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789583470.9064338,
-    "titulo": "Alta do petróleo e dos combustíveis pressiona governos e economias pelo mundo",
-    "titulo_original": "Alta do petróleo e dos combustíveis pressiona governos e economias pelo mundo",
-    "fonte": "Folha Mercado",
-    "publicado": "16/09 14:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo e combustíveis tem impacto direto na inflação global e pode afetar a atividade econômica em diversos países, incluindo o Brasil, através do aumento dos custos de produção e transporte. Se essa pressão inflacionária se mantiver, pode levar a decisões de política monetária mais restritivas em diversas economias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789583477.4717476,
-    "titulo": "Reckitt, Samsung, Toyota e outras grandes empresas abrem vagas de estágio",
-    "titulo_original": "Reckitt, Samsung, Toyota e outras grandes empresas abrem vagas de estágio",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 14:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A abertura de vagas de estágio por grandes empresas indica um movimento no mercado de trabalho, mas o impacto macroeconômico imediato é limitado. Se esse movimento se generalizar e for acompanhado por contratações em larga escala, pode sinalizar uma melhora na atividade econômica e no emprego.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789590649.9334018,
-    "titulo": "Preview do PIB do 2º trimestre da Nova Zelândia enquanto o RBNZ pondera o momento do próximo aumento da taxa de juros",
-    "titulo_original": "New Zealand Q2 GDP preview as RBNZ weighs timing of its next rate hike",
-    "fonte": "ForexLive",
-    "publicado": "16/09 17:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O resultado do PIB da Nova Zelândia é crucial para as decisões futuras do RBNZ sobre a taxa de juros. Se o dado vier abaixo do esperado, pode reforçar a expectativa de um adiamento no próximo aumento de juros, pressionando a moeda local. Caso contrário, o impacto pode ser neutro nas expectativas de juros, mas positivo para a percepção de recuperação econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789590655.6004705,
-    "titulo": "Warsh alerta sobre ‘o ativo mais importante do mundo’ após juros chegarem a 5%",
-    "titulo_original": "Warsh faz alerta sobre ‘o ativo mais importante do mundo’ após juros chegarem a 5%",
-    "fonte": "Money Times",
-    "publicado": "16/09 16:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A fala de Warsh e a decisão do Fed sobre os juros indicam um cenário de aperto monetário contínuo nos EUA. Se a economia americana continuar forte, a pressão por mais aumentos de juros pode persistir, impactando o fluxo de capital global e a precificação de ativos de risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789590660.9078126,
-    "titulo": "Calendário econômico e de eventos na Ásia Quinta-feira, 17 de Setembro de 2026. FOMC concluído, seguindo em frente!",
-    "titulo_original": "Economic and event calendar in Asia Thursday, September 17, 2026. FOMC done, moving on!",
-    "fonte": "ForexLive",
-    "publicado": "16/09 17:12",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A notícia menciona o aumento de juros do FOMC, o que é relevante para o canal 'juros'. No entanto, a descrição de 'chata' e 'nada inesperado aconteceu' sugere que o evento já estava precificado pelo mercado, limitando seu impacto como gatilho de movimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789590667.4246664,
-    "titulo": "Assaí (ASAI3): O que está por trás da alta desta quarta-feira (16) e do avanço de 36% no ano?",
-    "titulo_original": "Assaí (ASAI3): O que está por trás da alta desta quarta-feira (16) e do avanço de 36% no ano?",
-    "fonte": "Money Times",
-    "publicado": "16/09 16:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão de preço-alvo do Assaí pelo BofA, associada à perspectiva de juros mais baixos e inflação crescente, sugere um cenário favorável para o setor varejista. Se a expectativa de juros mais baixos se concretizar, isso pode impulsionar o consumo e, consequentemente, o desempenho de empresas como o Assaí.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789590667.426497,
-    "titulo": "Ações da Braskem caem até 14,6%; UBS BB rebaixa recomendação do papel - UOL Economia",
-    "titulo_original": "Ações da Braskem caem até 14,6%; UBS BB rebaixa recomendação do papel - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "16/09 14:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia trata de uma recomendação de analista e a consequente queda no preço das ações de uma empresa específica. Por não afetar o mercado como um todo ou um setor de forma ampla, sua relevância macroeconômica é limitada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789590667.428161,
-    "titulo": "CEO do Goldman alerta para custos mais altos e desempenho mais fraco em renda fixa",
-    "titulo_original": "CEO do Goldman alerta para custos mais altos e desempenho mais fraco em renda fixa",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 16:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração do CEO do Goldman Sachs sobre o desempenho de renda fixa e custos mais altos é uma informação relevante sobre o setor financeiro. No entanto, por se tratar de uma empresa específica e não de uma decisão macroeconômica, sua relevância para o mercado de WDO é indireta e não especificada no texto.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789596080.1898053,
-    "titulo": "BC corta a Selic para 13,75% ao ano, em última reunião pré-eleições",
-    "titulo_original": "BC corta a Selic para 13,75% ao ano, em última reunião pré-eleições",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 18:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da trajetória de cortes na Selic, mesmo em um cenário de incerteza, indica uma confiança do Banco Central na trajetória da inflação. Se os indicadores de inflação futuros vierem acima do esperado, o Copom pode sinalizar uma pausa ou reversão no ciclo de cortes, impactando a renda fixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789596085.5426838,
-    "titulo": "Banco Central reduz Taxa Selic de 14% para 13,75% ao ano, no quinto corte consecutivo - O GLOBO",
-    "titulo_original": "Banco Central reduz Taxa Selic de 14% para 13,75% ao ano, no quinto corte consecutivo - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/09 18:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade dos cortes na Selic, mesmo com o cenário de incertezas, sugere que o Banco Central está focado em estimular a economia. Se a inflação apresentar sinais de aceleração, o BC pode ser forçado a interromper o ciclo de cortes, o que impactaria diretamente as expectativas de juros futuros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789596090.852112,
-    "titulo": "Selic em 13,75%: Quanto rendem R$ 10 mil na poupança, CDB, LCA, LCI e Tesouro?",
-    "titulo_original": "Selic em 13,75%: Quanto rendem R$ 10 mil na poupança, CDB, LCA, LCI e Tesouro?",
-    "fonte": "Money Times",
-    "publicado": "16/09 18:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução da Selic torna os investimentos de renda fixa pós-fixados menos atrativos em termos de rentabilidade absoluta. Se a inflação continuar a ser um fator de preocupação, a busca por títulos atrelados à inflação (IPCA+) ou prefixados pode aumentar, dependendo das expectativas futuras de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789596096.152108,
-    "titulo": "Brasil lidera ranking de juros reais mesmo após corte da Selic",
-    "titulo_original": "Brasil lidera ranking de juros reais mesmo após corte da Selic",
-    "fonte": "Folha Mercado",
-    "publicado": "16/09 18:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A liderança do Brasil em juros reais, mesmo com o ciclo de cortes, sugere que a taxa de juros ainda está em um patamar elevado em comparação com outros países, especialmente após descontar a inflação. Se a inflação brasileira ceder mais rapidamente do que as projeções, o Banco Central poderá acelerar os cortes, diminuindo essa diferença para outros países.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789596102.5516253,
-    "titulo": "Lula sanciona PL que cria Política Nacional de Minerais Críticos e instala conselho para industrialização",
-    "titulo_original": "Lula sanciona PL que cria Política Nacional de Minerais Críticos e instala conselho para industrialização",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 18:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A sanção da Política Nacional de Minerais Críticos representa uma decisão regulatória com potencial de impulsionar a indústria nacional e agregar valor às exportações de minérios. Se a implementação for eficaz, pode atrair investimentos e gerar novas oportunidades de negócio no setor, mas a efetividade dos créditos fiscais e do fundo garantidor será crucial.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789596102.5531044,
-    "titulo": "Selic a 13,75% não dá colher de chá ao IBOV, além de baixa do petróleo - Investidor10",
-    "titulo_original": "Selic a 13,75% não dá colher de chá ao IBOV, além de baixa do petróleo - Investidor10",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/09 18:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia sugere que a combinação da Selic em patamar ainda elevado e a queda nos preços do petróleo criam um ambiente desafiador para a bolsa brasileira. Se o petróleo apresentar uma recuperação significativa, isso pode aliviar a pressão sobre o IBOV, mas a taxa de juros ainda pode ser um fator limitante para o desempenho das ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789601446.860838,
-    "titulo": "Copom mantém projeção para o IPCA no horizonte relevante em 3,2% - Valor Econômico",
-    "titulo_original": "Copom mantém projeção para o IPCA no horizonte relevante em 3,2% - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/09 19:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da projeção de inflação em 3,2% pelo Copom sugere que o comitê avalia que as pressões inflacionárias estão sob controle. Se os próximos dados de inflação vierem acima dessa projeção, o Banco Central pode ter que rever sua postura em relação à política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789601451.8207014,
-    "titulo": "Análise: Copom mantém decisão de novembro em aberto, à espera dos dados - Valor Econômico",
-    "titulo_original": "Análise: Copom mantém decisão de novembro em aberto, à espera dos dados - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/09 20:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A incerteza em torno da decisão do Copom em novembro indica que os dados econômicos futuros terão um peso significativo na definição da política monetária. Se os indicadores vierem desfavoráveis, o Banco Central pode adiar ou reduzir o ritmo de cortes na Selic.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789601456.7555013,
-    "titulo": "Juros longos sustentam queda, mas curtos sobem após decisão do Fed",
-    "titulo_original": "Juros longos sustentam queda, mas curtos sobem após decisão do Fed",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 17:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divergência nos juros futuros reflete a incerteza do mercado em relação à política monetária doméstica e externa. Se o Copom confirmar o corte de 0,25 ponto percentual, o foco se voltará para os próximos passos e o cenário fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789601461.7549987,
-    "titulo": "Fed eleva juros pela 1ª vez desde julho de 2023 apesar das pressões de Trump - Valor Econômico",
-    "titulo_original": "Fed eleva juros pela 1ª vez desde julho de 2023 apesar das pressões de Trump - Valor Econômico",
-    "fonte": "Google News Geopolitica",
-    "publicado": "16/09 15:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do Fed de aumentar os juros, mesmo sob pressão política, demonstra a prioridade do banco central em combater a inflação. Se as pressões políticas persistirem, isso pode criar volatilidade nas decisões futuras do Fed.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789601467.5369036,
-    "titulo": "Ibovespa amplia perdas após tom mais agressivo do Fed",
-    "titulo_original": "Ibovespa amplia perdas após tom mais agressivo do Fed",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 17:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O tom mais agressivo do Fed impactou negativamente o Ibovespa, demonstrando a sensibilidade do mercado local a decisões de política monetária externa. A queda nas ações da Petrobras, ligada ao preço do petróleo, também contribuiu para o desempenho negativo do índice.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789601467.5382838,
-    "titulo": "Bradesco levanta R$ 6,5 bi na primeira fase de aumento de capital e fará rateio de sobras",
-    "titulo_original": "Bradesco levanta R$ 6,5 bi na primeira fase de aumento de capital e fará rateio de sobras",
-    "fonte": "Valor Economico",
-    "publicado": "16/09 20:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A captação de recursos pelo Bradesco indica uma estratégia para fortalecer sua base de capital. O sucesso dessa operação pode ser um indicativo da confiança do mercado na instituição financeira.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789644659.2374365,
     "titulo": "STJ conclui que incidem PIS e Cofins sobre a Selic nos depósitos compulsórios dos bancos",
     "titulo_original": "STJ conclui que incidem PIS e Cofins sobre a Selic nos depósitos compulsórios dos bancos - valor.globo.com",
@@ -976,6 +657,117 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A rejeição do plano de dívida da Braskem e a cobrança por aporte da Petrobras indicam um impasse financeiro. Se a Petrobras realizar o aporte, isso pode evitar a recuperação judicial; caso contrário, a situação da Braskem pode se agravar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789731049.244541,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "18/09 03:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A falta de dados econômicos de alto impacto na Europa e EUA sugere um dia de menor volatilidade macroeconômica, a menos que eventos geopolíticos no Oriente Médio escalem. Uma desescalada no conflito tende a reduzir os preços do petróleo, o que aliviaria pressões inflacionárias e preocupações com aumentos de juros, melhorando o sentimento de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789731053.3904476,
+    "titulo": "Presidente do Fed recupera credibilidade com alta de juros",
+    "titulo_original": "Presidente do Fed recupera credibilidade com alta de juros - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/09 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A recuperação da credibilidade do presidente do Fed por meio de altas de juros sugere que a política monetária tem sido percebida como eficaz no controle da inflação. Se o Fed continuar a manter uma postura firme em relação aos juros, isso pode sustentar o dólar e influenciar decisões de investimento globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789731057.4927995,
+    "titulo": "Japão eleva juros ao maior nível em 31 anos e iene cai ao menor valor em duas semanas",
+    "titulo_original": "Japão eleva juros ao maior nível em 31 anos e iene cai ao menor valor em duas semanas",
+    "fonte": "Folha Mercado",
+    "publicado": "18/09 07:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do Banco do Japão de elevar os juros para o maior patamar em 31 anos, apesar da desaceleração da inflação, indica uma postura mais restritiva para combater pressões inflacionárias. A queda do iene sugere que o mercado pode estar precificando um ciclo de aperto monetário mais agressivo do que o esperado, ou que outros fatores estão pesando sobre a moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789731061.6983063,
+    "titulo": "Venezuela negocia transferência de US$ 4 bilhões em ouro para NY, diz jornal",
+    "titulo_original": "Venezuela negocia transferência de US$ 4 bilhões em ouro para NY, diz jornal - G1",
+    "fonte": "Google News Commodities",
+    "publicado": "18/09 06:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A negociação de transferência de ouro pela Venezuela para Nova York pode indicar uma movimentação de ativos em busca de maior segurança ou liquidez. Se confirmada, essa operação pode representar um fluxo de capital significativo e ter implicações para a gestão de reservas internacionais do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789731066.979083,
+    "titulo": "‘Vamos privatizar o Banco do Brasil e a Petrobras para reduzir juros’, diz coordenador do programa econômico de Romeu Zema",
+    "titulo_original": "‘Vamos privatizar o Banco do Brasil e a Petrobras para reduzir juros’, diz coordenador do programa econômico de Romeu Zema - O GLOBO",
+    "fonte": "Google News Acoes",
+    "publicado": "18/09 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de privatizar estatais para reduzir juros sugere uma visão de que a intervenção estatal na economia pode ser um fator de pressão sobre as taxas de juros. Se essa proposta for levada adiante, a privatização de grandes empresas pode ter implicações fiscais e regulatórias significativas, além de impactar a política monetária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789731066.9804952,
+    "titulo": "Dólar cai e fecha a R$ 5,13 após reajuste do Bolsa Família; Ibovespa sobe",
+    "titulo_original": "Dólar cai e fecha a R$ 5,13 após reajuste do Bolsa Família; Ibovespa sobe - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/09 04:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar e a alta do Ibovespa podem ser interpretadas como um reflexo de um sentimento de mercado mais positivo no Brasil, possivelmente influenciado por fatores domésticos como o reajuste do Bolsa Família. No entanto, a notícia não especifica se houve fluxo de capital estrangeiro para justificar esses movimentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789731066.9817765,
+    "titulo": "Day Trade hoje (18): Ibovespa reage e fecha em alta; pode subir mais?",
+    "titulo_original": "Day Trade hoje (18): Ibovespa reage e fecha em alta; pode subir mais? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "18/09 07:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa no dia 18 é uma notícia de mercado de ações. Sem uma justificativa explícita na notícia que a conecte a juros, inflação, atividade ou decisões fiscais, a relevância para a análise de WDO é limitada a um indicador de sentimento geral do mercado brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789731066.9830654,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - gauchazh.clicrbs.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "18/09 06:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia é um convite para acompanhar a cotação do petróleo em tempo real. Sem informações sobre os fatores que movem o preço ou seu impacto em outros mercados, a relevância é limitada a um acompanhamento de commodity.",
     "is_stocks": true
   }
 ]
