@@ -836,5 +836,48 @@
     "origem": "externa",
     "leitura_critica": "A demonstração de força e retórica hostil por parte do Irã, com representações simbólicas de líderes estrangeiros, pode aumentar a tensão geopolítica na região. Se essa tensão escalar, pode haver impactos nos preços de commodities, especialmente petróleo, e afetar o apetite a risco global, o que, por sua vez, pode influenciar mercados emergentes.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1789744542.9308915,
+    "titulo": "Produção industrial dos EUA 0,0% contra 0,3% esperado",
+    "titulo_original": "US industrial production 0.0% versus 0.3% expected",
+    "fonte": "ForexLive",
+    "publicado": "18/09 10:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A produção industrial mais fraca que o esperado nos EUA sugere um resfriamento na atividade industrial do país. Se os dados de inflação e emprego continuarem a mostrar desaquecimento, isso poderia pressionar o Federal Reserve a adotar uma postura mais branda em relação aos juros; caso contrário, o banco central americano tenderá a focar em combater a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789744547.676694,
+    "titulo": "Citigroup capta US$ 12 bilhões na maior emissão de títulos de sua história",
+    "titulo_original": "Citigroup capta US$ 12 bilhões na maior emissão de títulos de sua história",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 12:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A emissão de títulos pelo Citigroup em um momento de taxas de juros elevadas pelo Fed pode indicar uma busca por liquidez por parte de grandes instituições financeiras. Se essa tendência se generalizar, pode haver um fluxo de capital direcionado para títulos de dívida corporativa em detrimento de outras classes de ativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789744553.5998673,
+    "titulo": "Wall Street recua com Treasury de 10 anos tocando os 5%",
+    "titulo_original": "Wall Street recua com Treasury de 10 anos tocando os 5%",
+    "fonte": "Money Times",
+    "publicado": "18/09 11:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O avanço dos rendimentos dos Treasuries para acima de 5% pode indicar uma expectativa de juros mais altos por mais tempo nos EUA. Se essa tendência se mantiver, pode haver uma migração de capital para ativos de renda fixa, pressionando as bolsas de valores.",
+    "is_stocks": true
   }
 ]
