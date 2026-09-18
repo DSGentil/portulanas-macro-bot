@@ -769,5 +769,72 @@
     "origem": "externa",
     "leitura_critica": "A notícia é um convite para acompanhar a cotação do petróleo em tempo real. Sem informações sobre os fatores que movem o preço ou seu impacto em outros mercados, a relevância é limitada a um acompanhamento de commodity.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789737342.0661952,
+    "titulo": "BC pode dispensar de participação obrigatória no Pix instituições com mais de 500 mil contas e anuncia outras mudanças",
+    "titulo_original": "BC pode dispensar de participação obrigatória no Pix instituições com mais de 500 mil contas e anuncia outras mudanças",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 09:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As mudanças anunciadas pelo Banco Central na regulamentação do Pix visam aprimorar funcionalidades e segurança do sistema de pagamentos. A dispensa da participação obrigatória para grandes instituições e a extensão do Pix Automático para contas-salário representam uma evolução regulatória que pode impactar a dinâmica do mercado financeiro e a forma como transações são realizadas, especialmente em contas de menor movimentação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789737346.4624064,
+    "titulo": "Juros futuros operam perto da estabilidade com pressão externa e quadro eleitoral no foco",
+    "titulo_original": "Juros futuros operam perto da estabilidade com pressão externa e quadro eleitoral no foco",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 09:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A estabilidade dos juros futuros reflete a incerteza gerada tanto por fatores externos, como a pressão nos mercados de renda fixa internacionais, quanto por fatores domésticos, como o cenário eleitoral. Se a pesquisa eleitoral indicar maior volatilidade política, isso pode pressionar os juros futuros para cima, especialmente os contratos de maior prazo, em antecipação a riscos fiscais ou de política econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789737350.4209445,
+    "titulo": "Sessão europeia de investimentos: Iene cai após alta do BoJ, mercados permanecem apreensivos",
+    "titulo_original": "investingLive European session wrap: Yen slides after BOJ hike as markets stay on edge",
+    "fonte": "ForexLive",
+    "publicado": "18/09 09:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do BoJ de elevar os juros, apesar de ser um aperto monetário, gerou desvalorização do iene devido a dissidências dovish, indicando que a comunicação do banco central é crucial para a percepção do mercado. A postura do BCE em relação a aumentos automáticos de juros, condicionada à inflação energética, sugere que a volatilidade nos preços de energia continuará a influenciar as decisões de política monetária na Europa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789737354.2892036,
+    "titulo": "Russos votam em eleição legislativa que Putin vê como termômetro do apoio à guerra na Ucrânia",
+    "titulo_original": "Russos votam em eleição legislativa que Putin vê como termômetro do apoio à guerra na Ucrânia",
+    "fonte": "Valor Economico",
+    "publicado": "18/09 09:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O resultado desta eleição pode ser interpretado pelo Kremlin como um endosso à política externa atual. Se o partido governista obtiver uma vitória expressiva, isso pode reforçar a narrativa de apoio interno às ações militares, mas a ausência de candidatos de oposição autorizados a concorrer limita a interpretação de um apoio democrático genuíno.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789737358.2269354,
+    "titulo": "Irã faz desfile militar com 'caixões' de Trump e Netanyahu e batalhão de mulheres com AK-47; VÍDEO - G1",
+    "titulo_original": "Irã faz desfile militar com 'caixões' de Trump e Netanyahu e batalhão de mulheres com AK-47; VÍDEO - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "18/09 07:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A demonstração de força e retórica hostil por parte do Irã, com representações simbólicas de líderes estrangeiros, pode aumentar a tensão geopolítica na região. Se essa tensão escalar, pode haver impactos nos preços de commodities, especialmente petróleo, e afetar o apetite a risco global, o que, por sua vez, pode influenciar mercados emergentes.",
+    "is_stocks": false
   }
 ]
