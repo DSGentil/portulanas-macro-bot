@@ -1,59 +1,5 @@
 [
   {
-    "_timestamp": 1788559269.9032116,
-    "titulo": "Nvidia está agindo como um azarão; OpenAI e Anthropic deveriam se preocupar",
-    "fonte": "Valor Economico",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1788559269.9080687,
-    "titulo": "Trump assina decretos para facilitar proteção de rebanhos e processamento de carne por pecuaristas",
-    "fonte": "Folha Mercado",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1788559269.912805,
-    "titulo": "Trigo cai novamente em Chicago, com negociações sobre a guerra na Ucrânia em destaque",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1788559269.917507,
-    "titulo": "Itaú BBA substitui varejo pelo agro nas small caps; confira as três modificações",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1788559269.9222746,
-    "titulo": "Deputada Duda Salabert relata tentativa de homicídio ao fiscalizar denúncia de mineração",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1788559269.9270575,
-    "titulo": "CPFL Energia (CPFE3) pagará R$ 700 milhões em dividendos; veja data",
-    "fonte": "Money Times",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1788564634.069646,
-    "titulo": "Melhor que humanos? OpenAI prega novo patamar na corrida da IA com modelo GPT-6 Astra",
-    "fonte": "InvestNews",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1788564634.0745735,
-    "titulo": "ONU denuncia Israel por ‘possível limpeza étnica’ em campos de refugiados palestinos - Alma Preta Jornalismo",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
-    "_timestamp": 1788564634.0793319,
-    "titulo": "Trump quer espécie de 'Lei Rouanet' para Hollywood; saiba como funcionaria - UOL Notícias",
-    "fonte": "Google News Geopolitica",
-    "relevancia_atribuida": "BAIXA"
-  },
-  {
     "_timestamp": 1788778851.9609768,
     "titulo": "Sítio onde agricultor encontrou petróleo no CE entra em área de exploração - CNN Brasil",
     "fonte": "Google News Commodities",
@@ -4083,6 +4029,78 @@
     "_timestamp": 1789768865.4609435,
     "titulo": "WMcCann, Nova e Ogilvy são favoritas à conta da Petrobras - Meio e Mensagem",
     "fonte": "Google News Acoes",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.6944835,
+    "titulo": "BTG acerta controle do Nubank Parque e encerra disputa judicial com WTorre",
+    "fonte": "Valor Economico",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.7008965,
+    "titulo": "Milho e soja caem em Chicago por realização de lucros - Money Times",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.7070396,
+    "titulo": "Fleury (FLRY3) antecipa pagamento de R$ 217,8 milhões em JCP; veja a nova data",
+    "fonte": "Money Times",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.7129426,
+    "titulo": "Campeãs de queda: O que azedou o humor dos investidores com a CSN Mineração (CMIN3) e CSN (CSNA3) na semana?",
+    "fonte": "Money Times",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.7190359,
+    "titulo": "Primeiro navio afretado pela Petrobras entregue no Programa Mar Aberto é batizado no Rio de Janeiro - Agência Petrobras de Notícias",
+    "fonte": "Google News Acoes",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.7253125,
+    "titulo": "B3 decide pelo cancelamento da listagem das ações da Oi após decretação de falência - valor.globo.com",
+    "fonte": "Google News Acoes",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.731275,
+    "titulo": "Falta de dragagem ameaça escoamento de soja e milho pelo Tapajós - O Presente Rural",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.7371943,
+    "titulo": "Abiove reduz projeção de exportação de soja em 2026 - agenciainfra.com",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.7431831,
+    "titulo": "Petróleo fecha em queda, mas permanece acima de US$ 100 por barril - valor.globo.com",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.7494612,
+    "titulo": "Greve no setor de petróleo atinge Macaé e Bacia de Campos; sindicato cita paralisação por tempo indeterminado - G1",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.755545,
+    "titulo": "Plantio de soja em Mato Grosso começa mais cedo - cnnbrasil.com.br",
+    "fonte": "Google News Commodities",
+    "relevancia_atribuida": "BAIXA"
+  },
+  {
+    "_timestamp": 1789774237.7616458,
+    "titulo": "Reino Unido diz que Ilhas Malvinas \"têm direito\" de explorar seu petróleo - cnnbrasil.com.br",
+    "fonte": "Google News Commodities",
     "relevancia_atribuida": "BAIXA"
   }
 ]
