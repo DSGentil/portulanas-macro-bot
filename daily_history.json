@@ -389,5 +389,121 @@
     "origem": "domestica",
     "leitura_critica": "A indicação de que investidores estrangeiros concentram seu interesse no setor financeiro brasileiro sugere um fluxo de capital direcionado para essa área. Se essa tendência se mantiver, pode impulsionar o desempenho das ações financeiras; caso contrário, o foco pode se deslocar para outros setores.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790016818.2987418,
+    "titulo": "Quanto rendem R$ 15 mil investidos em renda fixa com a Selic em 13,75%",
+    "titulo_original": "Quanto rendem R$ 15 mil investidos em renda fixa com a Selic em 13,75% - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/09 15:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A taxa Selic em 13,75% impacta diretamente o retorno de investimentos em renda fixa. Se a taxa Selic permanecer alta, a renda fixa continuará sendo uma opção atrativa; se houver cortes futuros, outros ativos podem se tornar mais competitivos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790016822.728857,
+    "titulo": "Opinião | Copom navega cenário de incertezas",
+    "titulo_original": "Opinião | Copom navega cenário de incertezas - estadao.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/09 15:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A menção a um cenário de incertezas para o Copom sugere que as decisões futuras sobre a taxa de juros podem ser cautelosas. Se as incertezas persistirem, o Banco Central pode optar por manter a taxa de juros estável ou realizar cortes mais graduais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790016827.251241,
+    "titulo": "Guerra no Oriente Médio eleva pressão sobre petróleo e aumenta riscos para economia brasileira",
+    "titulo_original": "Guerra no Oriente Médio eleva pressão sobre petróleo e aumenta riscos para economia brasileira - VEJA",
+    "fonte": "Google News Commodities",
+    "publicado": "21/09 13:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada da guerra no Oriente Médio e seu impacto no preço do petróleo representam um risco para a economia brasileira, especialmente em termos de inflação e custos de produção. Se o conflito se agravar, o Brasil pode enfrentar pressões inflacionárias e desaceleração econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790016831.7069163,
+    "titulo": "EUA reafirmam apoio a Japão, Coreia e Taiwan antes da cúpula de Trump e Xi",
+    "titulo_original": "EUA reafirmam apoio a Japão, Coreia e Taiwan antes da cúpula de Trump e Xi",
+    "fonte": "Valor Economico",
+    "publicado": "21/09 15:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A postura dos EUA em relação a Taiwan e a China pode influenciar a dinâmica geopolítica na Ásia. Se Trump oferecer concessões significativas a Xi, isso poderá gerar instabilidade regional e afetar as relações comerciais globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790016896.8243062,
+    "titulo": "OpenAI pede que EUA liderem esforços globais para desenvolver padrões técnicos para IA",
+    "titulo_original": "OpenAI pede que EUA liderem esforços globais para desenvolver padrões técnicos para IA",
+    "fonte": "Valor Economico",
+    "publicado": "21/09 15:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O pedido da OpenAI por padrões globais de IA reflete a preocupação com o desenvolvimento autônomo e descontrolado da tecnologia. Se os EUA liderarem esse esforço, isso pode estabelecer um marco regulatório internacional; a falta de acordo pode levar a um desenvolvimento mais caótico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790016896.8252199,
+    "titulo": "Expectativa de manchetes rápidas e furiosas da administração Trump antes das eleições",
+    "titulo_original": "Expect the News Headlines from Trump and the administration to be fast and furious going into the elections",
+    "fonte": "ForexLive",
+    "publicado": "21/09 12:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A comunicação da administração Trump tende a se tornar mais assertiva à medida que as eleições se aproximam, focando em mensagens econômicas positivas. Se os dados econômicos continuarem a melhorar, isso pode fortalecer a narrativa de campanha; caso contrário, a retórica pode se tornar mais combativa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790016896.8260267,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e eleições em foco",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e eleições em foco - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "21/09 12:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa, impulsionada pelo exterior e pelo cenário eleitoral, sugere um otimismo cauteloso do mercado. Se o quadro eleitoral se mostrar mais claro e favorável, a bolsa pode continuar a subir; incertezas eleitorais podem gerar volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790016896.8268394,
+    "titulo": "CVM aceita pedido de oferta pública de aquisição da Braskem por fundo da IG4 Capital",
+    "titulo_original": "CVM aceita pedido de oferta pública de aquisição da Braskem por fundo da IG4 Capital",
+    "fonte": "Folha Mercado",
+    "publicado": "21/09 12:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aceitação da OPA da Braskem pela CVM representa uma decisão regulatória concreta que afeta a estrutura de controle da empresa. Se a aquisição for concluída, isso pode alterar a dinâmica do setor petroquímico e as estratégias futuras da Braskem.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790016896.8276577,
+    "titulo": "Ibovespa avança com queda de juros futuros e de olho em quadro eleitoral",
+    "titulo_original": "Ibovespa avança com queda de juros futuros e de olho em quadro eleitoral - valor.globo.com",
+    "fonte": "Google News Acoes",
+    "publicado": "21/09 10:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda dos juros futuros e o foco no cenário eleitoral impulsionaram o Ibovespa. Se a queda dos juros futuros se consolidar e o quadro eleitoral apresentar maior clareza, a bolsa pode continuar em trajetória de alta; incertezas eleitorais podem reverter essa tendência.",
+    "is_stocks": true
   }
 ]
