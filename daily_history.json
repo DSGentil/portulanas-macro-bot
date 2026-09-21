@@ -207,5 +207,73 @@
     "origem": "externa",
     "leitura_critica": "A multa aplicada ao Google pela autoridade irlandesa representa uma decisão regulatória significativa no âmbito da proteção de dados na Europa. Se outras empresas de tecnologia enfrentarem multas semelhantes, isso pode levar a uma revisão das práticas de coleta e uso de dados, impactando modelos de negócio e custos operacionais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789996557.0793939,
+    "titulo": "Economistas reduzem previsão da Selic e esperam mais dois cortes no ano",
+    "titulo_original": "Economistas reduzem previsão da Selic e esperam mais dois cortes no ano",
+    "fonte": "Folha Mercado",
+    "publicado": "21/09 08:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão da previsão de juros para baixo sugere que os economistas interpretam a decisão do Copom como um sinal de continuidade do ciclo de afrouxamento monetário. Se o Banco Central mantiver o ritmo de cortes, isso pode estimular o crédito e o consumo; caso contrário, se houver uma pausa ou desaceleração nos cortes, o mercado pode reavaliar as expectativas de crescimento econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789996561.9821281,
+    "titulo": "Com Selic a 13,25% até fim do ano, os ETFs de prefixados são opções?",
+    "titulo_original": "Com Selic a 13,25% até fim do ano, os ETFs de prefixados são opções? - suno.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/09 09:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre a atratividade de ETFs de prefixados com a Selic em <a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVUMwTWZKQS0zZEw4LXZTN0dFdEd1U1ZrclZ3eEZGZ2xNSWotSmx5bjhiS0hUcjFpVlNncXY3Vi1QX1dTdXRLWW10Q3p0SlNCVkM4dUdGWUNicGZwdDJoaDZOMU8wZzJqa09KMmxydURLSnFZ0gF6QVVfeXFMTmNiTlMtejMtNkpQY1ZYcHBEVmZHMVNMUV9hNXZzSWRhOVZPQnpzTDNDcENWRzdQeXMzTVE5TUNxa2FIT2UzWFhCT3JFNkthZjRiQkhrRDBGR2R4dmlIbVBhakZMRjNHOTRaLW5Ec2paQWVMc2drVDBYaVE?oc=5\" target=\"_blank\"><b>13,25%</b></a> reflete a expectativa de juros mais baixos. Se a taxa de juros efetivamente se mantiver nesse patamar ou cair mais, a rentabilidade desses ETFs pode ser afetada; se houver surpresas de inflação que levem a juros mais altos, eles podem se tornar mais atrativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789996566.4690847,
+    "titulo": "Taxas do Tesouro têm 4ª queda seguida, com petróleo em baixa e pesquisas eleitorais - InfoMoney",
+    "titulo_original": "Taxas do Tesouro têm 4ª queda seguida, com petróleo em baixa e pesquisas eleitorais - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "21/09 09:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas taxas do Tesouro, associada à baixa do petróleo e a pesquisas eleitorais, sugere um otimismo cauteloso no mercado de renda fixa. Se as pesquisas continuarem indicando um cenário favorável para a oposição, isso pode sustentar a queda das taxas; caso contrário, uma reversão nesse sentimento pode levar a um aumento dos prêmios de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789996570.9992735,
+    "titulo": "Juros futuros recuam com apoio externo e de olho em eleições",
+    "titulo_original": "Juros futuros recuam com apoio externo e de olho em eleições",
+    "fonte": "Valor Economico",
+    "publicado": "21/09 09:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda dos juros futuros, impulsionada por fatores externos como a queda do petróleo e a reaproximação EUA-China, e internos como o otimismo eleitoral, indica uma precificação de risco menor. Se o cenário externo se mantiver favorável e as pesquisas eleitorais continuarem a apontar para uma vitória da oposição, os juros podem seguir em trajetória de queda; qualquer sinal de reversão em qualquer um desses fatores pode reverter o movimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789996575.4299679,
+    "titulo": "BCE lança elo fundamental entre blockchain e sistema de pagamentos em euro",
+    "titulo_original": "BCE lança elo fundamental entre blockchain e sistema de pagamentos em euro",
+    "fonte": "Valor Economico",
+    "publicado": "21/09 09:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A iniciativa do BCE de conectar blockchain ao sistema de pagamentos em euro pode sinalizar uma tendência global de digitalização financeira e maior eficiência em transações. Se essa tendência se expandir, pode influenciar a forma como os bancos centrais e o mercado financeiro global operam, potencialmente impactando o fluxo de capital e a adoção de novas tecnologias no Brasil.",
+    "is_stocks": false
   }
 ]
