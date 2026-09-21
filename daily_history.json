@@ -705,5 +705,19 @@
     "origem": "externa",
     "leitura_critica": "O recuo nos preços do petróleo e a valorização de ações de IA sinalizam um otimismo renovado no mercado financeiro americano. Se a tendência de queda do petróleo se mantiver, pode haver um alívio na pressão inflacionária, favorecendo um cenário mais estável para os juros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790034095.6041403,
+    "titulo": "Plataforma diz que custo de vida cresce mais para quem ganha acima dos R$ 100 mil por mês",
+    "titulo_original": "Plataforma diz que custo de vida cresce mais para quem ganha acima dos R$ 100 mil por mês",
+    "fonte": "Folha Mercado",
+    "publicado": "21/09 19:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pesquisa aponta uma inflação segmentada para rendas mais altas, contrastando com o IPCA. Se essa tendência se confirmar em outros estudos ou dados oficiais, pode indicar pressões inflacionárias específicas em determinados segmentos da economia, mas o impacto macro ainda é incerto.",
+    "is_stocks": false
   }
 ]
