@@ -101,5 +101,111 @@
     "origem": "domestica",
     "leitura_critica": "O aumento no volume de negócios na B3 pode indicar maior liquidez e atividade no mercado de capitais. Se essa tendência de crescimento se mantiver, pode sinalizar um maior interesse dos investidores no mercado brasileiro, impulsionando a negociação de ações e outros ativos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1789990249.5278537,
+    "titulo": "Real entra no radar eleitoral: HSBC vê volatilidade maior e aposta contra a moeda no curto prazo",
+    "titulo_original": "Real entra no radar eleitoral: HSBC vê volatilidade maior e aposta contra a moeda no curto prazo",
+    "fonte": "Money Times",
+    "publicado": "21/09 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A visão do HSBC de apostar contra o Real devido ao risco eleitoral sugere que o mercado precifica uma maior probabilidade de desvalorização da moeda brasileira. Se a disputa eleitoral se mostrar mais acirrada ou incerta, isso pode intensificar a volatilidade do câmbio e afetar a inflação importada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789990253.4910917,
+    "titulo": "Focus, pesquisa eleitoral, falas do Fed e mais destaques desta segunda-feira",
+    "titulo_original": "Focus, pesquisa eleitoral, falas do Fed e mais destaques desta segunda-feira - infomoney.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/09 06:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de dados de inflação (implícitos na pesquisa Focus), pesquisas eleitorais e falas do Fed indica um dia com múltiplos fatores de influência para os mercados. Se as falas do Fed sinalizarem uma postura mais dura, isso pode impactar os juros e o câmbio; a volatilidade eleitoral no Brasil pode gerar incertezas adicionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789990257.466444,
+    "titulo": "Dólar entre juros nos EUA e eleição no Brasil: o que esperar da moeda americana?",
+    "titulo_original": "Dólar entre juros nos EUA e eleição no Brasil: o que esperar da moeda americana? - Exame",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/09 05:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A interação entre a política monetária dos EUA e o cenário eleitoral brasileiro cria um ambiente de incerteza para o dólar. Se os juros nos EUA permanecerem altos, isso tende a fortalecer o dólar globalmente; a volatilidade eleitoral no Brasil pode adicionar pressão adicional sobre o câmbio, tornando a moeda americana um ativo de refúgio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789990261.4812167,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "21/09 03:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A ausência de dados econômicos relevantes nos EUA e Europa pode levar a um período de consolidação nos mercados globais. A atenção se volta para os desdobramentos diplomáticos, como o encontro Trump-Xi, que podem influenciar o sentimento de risco e, consequentemente, os fluxos de capital para ativos de maior risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1789990266.8584163,
+    "titulo": "Manhã no mercado: Bolsas globais avançam e petróleo recua, com pesquisas eleitorais e encontro entre Trump e Xi no radar",
+    "titulo_original": "Manhã no mercado: Bolsas globais avançam e petróleo recua, com pesquisas eleitorais e encontro entre Trump e Xi no radar",
+    "fonte": "Valor Economico",
+    "publicado": "21/09 08:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa pela ata do Copom e pelo IPCA-15 de setembro no Brasil sugere que o mercado estará atento a sinais sobre a política monetária e a inflação doméstica. Se a ata indicar um tom mais cauteloso, pode reforçar a percepção de juros mais altos por mais tempo; se houver sinais de flexibilização, pode abrir espaço para apostas em cortes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789990266.8589005,
+    "titulo": "Ibovespa sob pressão, Bitcoin em alta: os níveis que podem decidir a semana",
+    "titulo_original": "Ibovespa sob pressão, Bitcoin em alta: os níveis que podem decidir a semana - infomoney.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "21/09 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre o desempenho do Ibovespa e do Bitcoin sugere diferentes dinâmicas de mercado. Se o Ibovespa continuar sob pressão, pode indicar aversão ao risco em ativos locais; a alta do Bitcoin, por outro lado, pode refletir um fluxo de capital para ativos digitais, possivelmente impulsionado por fatores externos ou por uma busca por alternativas de investimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789990266.859432,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "21/09 06:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O acompanhamento em tempo real da cotação do petróleo é crucial para entender as flutuações de preços que podem afetar a inflação e a atividade econômica global. Se os preços do petróleo apresentarem volatilidade significativa, isso pode gerar incertezas sobre a trajetória inflacionária e a demanda por energia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1789990266.8599844,
+    "titulo": "Google é multada em 403 milhões de euros na Irlanda em processo sobre privacidade de localização",
+    "titulo_original": "Google é multada em 403 milhões de euros na Irlanda em processo sobre privacidade de localização",
+    "fonte": "Valor Economico",
+    "publicado": "21/09 08:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A multa aplicada ao Google pela autoridade irlandesa representa uma decisão regulatória significativa no âmbito da proteção de dados na Europa. Se outras empresas de tecnologia enfrentarem multas semelhantes, isso pode levar a uma revisão das práticas de coleta e uso de dados, impactando modelos de negócio e custos operacionais.",
+    "is_stocks": true
   }
 ]
