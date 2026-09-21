@@ -637,5 +637,73 @@
     "origem": "domestica",
     "leitura_critica": "A descoberta de petróleo de alta qualidade na Foz do Amazonas pode representar um avanço significativo para a Petrobras e para a produção nacional de petróleo. Se a exploração comercial for viável e segura, isso pode aumentar as reservas e a produção do país. Desafios ambientais ou técnicos na exploração poderiam limitar o potencial dessa descoberta.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790028054.919498,
+    "titulo": "Mais uma safra recorde em 2027 e nova queda de alimentos básicos",
+    "titulo_original": "Mais uma safra recorde em 2027 e nova queda de alimentos básicos",
+    "fonte": "Folha Mercado",
+    "publicado": "21/09 17:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de uma safra recorde no Brasil pode contribuir para a estabilidade ou queda nos preços de commodities agrícolas. Se a produção de alimentos básicos continuar a perder espaço para a soja, pode haver um impacto indireto na inflação ao consumidor, caso a oferta desses itens essenciais seja limitada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790028059.8345451,
+    "titulo": "Deputados querem suspender imposto de exportação do petróleo",
+    "titulo_original": "Deputados querem suspender imposto de exportação do petróleo - Agência eixos",
+    "fonte": "Google News Commodities",
+    "publicado": "21/09 17:53",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de suspender o imposto de exportação do petróleo por parte de deputados indica uma discussão sobre a política tributária do setor. Se aprovada, essa medida poderia impactar a arrecadação fiscal e a competitividade das exportações brasileiras de petróleo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790028064.787358,
+    "titulo": "Os efeitos da validação da moratória da soja pelo STF",
+    "titulo_original": "Os efeitos da validação da moratória da soja pelo STF - Migalhas",
+    "fonte": "Google News Commodities",
+    "publicado": "21/09 16:39",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A validação da moratória da soja pelo STF pode ter implicações significativas para o setor agrícola e para a política ambiental relacionada ao desmatamento. Os efeitos dessa decisão precisarão ser monitorados para entender seu impacto prático.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790028070.0020294,
+    "titulo": "China acelera investimentos em IA enquanto economia desacelera",
+    "titulo_original": "China acelera investimentos em IA enquanto economia desacelera",
+    "fonte": "Folha Mercado",
+    "publicado": "21/09 17:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos investimentos chineses em IA, mesmo em um cenário de desaceleração econômica, sugere uma priorização estratégica do setor. A disputa tecnológica entre EUA e China em IA pode ter implicações futuras na dinâmica global de mercados e cadeias de suprimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790028076.9477947,
+    "titulo": "Bolsas de NY têm forte alta com recuo do petróleo e avanço de ações ligadas à IA",
+    "titulo_original": "Bolsas de NY têm forte alta com recuo do petróleo e avanço de ações ligadas à IA",
+    "fonte": "Valor Economico",
+    "publicado": "21/09 17:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O recuo nos preços do petróleo e a valorização de ações de IA sinalizam um otimismo renovado no mercado financeiro americano. Se a tendência de queda do petróleo se mantiver, pode haver um alívio na pressão inflacionária, favorecendo um cenário mais estável para os juros.",
+    "is_stocks": true
   }
 ]
