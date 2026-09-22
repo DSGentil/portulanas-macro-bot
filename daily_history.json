@@ -857,5 +857,121 @@
     "origem": "domestica",
     "leitura_critica": "A notícia informa sobre a arrecadação de IR sobre dividendos e a revisão das projeções fiscais, indicando que a meta anual não será atingida. A redução na expectativa de arrecadação pode impactar o resultado fiscal do governo, e a proposta de redução das projeções para 2026 sugere uma reavaliação da política tributária.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790095599.0596132,
+    "titulo": "Magnitude do ciclo de calibração da Selic será ajustada conforme evolução do cenário, diz ata do Copom",
+    "titulo_original": "Magnitude do ciclo de calibração da Selic será ajustada conforme evolução do cenário, diz ata do Copom - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/09 08:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ata do Copom sinaliza que a trajetória futura da Selic dependerá da evolução dos indicadores econômicos. Se a inflação e as expectativas mostrarem sinais de desancoragem, o Banco Central pode precisar ajustar o ritmo ou a magnitude dos cortes. Caso o cenário se mostre mais benigno, o ciclo de afrouxamento monetário pode prosseguir sem grandes alterações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790095604.075436,
+    "titulo": "Como a Ata do Copom Mexeu com as Apostas para a Selic",
+    "titulo_original": "Como a Ata do Copom Mexeu com as Apostas para a Selic - Forbes Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/09 11:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ata do Copom, ao indicar que a magnitude do ciclo de calibração da Selic será ajustada conforme o cenário, sugere que o Banco Central está monitorando de perto os indicadores econômicos. Se os dados de inflação e atividade vierem acima do esperado, o ritmo de cortes da Selic pode ser mais lento. Caso contrário, um cenário mais favorável pode permitir uma aceleração nos cortes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790095609.2642198,
+    "titulo": "Cury fará pente-fino e grosso nos gastos, mas mexer em regras da Previdência é inaceitável, diz Hauly",
+    "titulo_original": "Cury fará pente-fino e grosso nos gastos, mas mexer em regras da Previdência é inaceitável, diz Hauly",
+    "fonte": "Folha Mercado",
+    "publicado": "22/09 12:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de ajuste fiscal com corte de gastos, mas sem alteração na Previdência, apresentada pelo assessor da campanha de Cury, indica um foco em despesas correntes. Se eleito, a implementação dessas medidas pode impactar o orçamento público. A recusa em mexer na Previdência pode ser um ponto de atenção para a sustentabilidade fiscal de longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790095614.294733,
+    "titulo": "Lula fala em uso de tarifas para 'chantagem' e diz que Brasil rejeitará 'medidas disfarçadas de apego à causa ambiental'",
+    "titulo_original": "Lula fala em uso de tarifas para 'chantagem' e diz que Brasil rejeitará 'medidas disfarçadas de apego à causa ambiental'",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 13:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do presidente Lula na ONU sobre tarifas e protecionismo ambiental pode sinalizar uma postura mais assertiva do Brasil em negociações comerciais internacionais. Se outros países mantiverem políticas protecionistas, o Brasil poderá intensificar sua retórica e buscar alianças para contestar essas medidas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790095620.602653,
+    "titulo": "Estrangeiros aportam R$ 3,6 bilhões em ações na B3 em 18 de setembro",
+    "titulo_original": "Estrangeiros aportam R$ 3,6 bilhões em ações na B3 em 18 de setembro",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 13:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O fluxo positivo de R$ 3,6 bilhões de investidores estrangeiros na B3 em 18 de setembro é um indicativo de apetite por ativos brasileiros. Se essa entrada de capital se mantiver, pode sustentar o mercado de ações. A saída de investidores institucionais, por outro lado, pode indicar cautela ou realocação de portfólio. A notícia especifica o destino do capital como ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790095620.6044018,
+    "titulo": "‘Não sabemos como modelar o desfecho’: JPMorgan desiste de projetar cenário-base para o petróleo",
+    "titulo_original": "‘Não sabemos como modelar o desfecho’: JPMorgan desiste de projetar cenário-base para o petróleo",
+    "fonte": "Money Times",
+    "publicado": "22/09 13:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A desistência do JPMorgan em projetar um cenário-base para o petróleo reflete a alta incerteza geopolítica no Oriente Médio. Se a instabilidade na região persistir ou se intensificar, a volatilidade nos preços do petróleo tende a aumentar, dificultando qualquer previsão de médio prazo. A ausência de um cenário-base pode levar a movimentos de preço mais erráticos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790095620.6058068,
+    "titulo": "Credores da Braskem querem que acionistas injetem US$ 3 bi em negociação de dívidas, diz agência",
+    "titulo_original": "Credores da Braskem querem que acionistas injetem US$ 3 bi em negociação de dívidas, diz agência",
+    "fonte": "Folha Mercado",
+    "publicado": "22/09 13:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A exigência de um aporte de US$ 3 bilhões pelos acionistas controladores da Braskem para reestruturar a dívida indica uma situação financeira delicada para a empresa. Se o aporte não ocorrer, a reestruturação pode ser comprometida, impactando a saúde financeira da companhia. A notícia é específica de uma empresa e não de um canal macro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790095620.6071928,
+    "titulo": "Vitória da oposição no Brasil pode fazer bolsa ‘decolar’, segundo bancão gringo",
+    "titulo_original": "Vitória da oposição no Brasil pode fazer bolsa ‘decolar’, segundo bancão gringo",
+    "fonte": "Money Times",
+    "publicado": "22/09 13:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do JPMorgan de uma alta de 28% para o MSCI Brasil em caso de vitória da oposição sugere que o mercado precifica um cenário político específico. Se o resultado eleitoral for favorável à oposição, o mercado pode reagir positivamente, impulsionando a bolsa. Contudo, a notícia é uma projeção e não um fato consumado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790095620.6107187,
+    "titulo": "Credores da Braskem exigem US$ 3 bilhões de Petrobras e IG4 para reestruturar dívida",
+    "titulo_original": "Credores da Braskem exigem US$ 3 bilhões de Petrobras e IG4 para reestruturar dívida",
+    "fonte": "InvestNews",
+    "publicado": "22/09 11:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia reforça a exigência dos credores da Braskem por um aporte de US$ 3 bilhões dos controladores para a reestruturação da dívida. A recusa dos credores em injetar capital novo indica a gravidade da situação financeira da empresa. Se Petrobras e IG4 não realizarem o aporte, a reestruturação da dívida pode enfrentar obstáculos significativos.",
+    "is_stocks": true
   }
 ]
