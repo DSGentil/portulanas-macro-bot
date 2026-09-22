@@ -1,119 +1,5 @@
 [
   {
-    "_timestamp": 1790004114.46367,
-    "titulo": "Resseguradoras emplacam jabuti em lei orçamentária e obtêm benefício fiscal com apoio do governo",
-    "titulo_original": "Resseguradoras emplacam jabuti em lei orçamentária e obtêm benefício fiscal com apoio do governo",
-    "fonte": "Folha Mercado",
-    "publicado": "21/09 12:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de um benefício fiscal para o setor de resseguros, inserido em uma lei orçamentária, representa uma decisão concreta de política fiscal. Se essa medida for amplamente replicada em outros setores, pode indicar uma tendência de concessões fiscais; caso contrário, pode ser um caso pontual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790004118.4143434,
-    "titulo": "Mercado eleva estimativa de inflação e passa a prever novo corte de juros neste ano",
-    "titulo_original": "Mercado eleva estimativa de inflação e passa a prever novo corte de juros neste ano - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 08:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A elevação das expectativas de inflação, combinada com a previsão de um corte de juros, sugere um cenário complexo para a política monetária. Se a inflação continuar a surpreender para cima, o corte de juros pode ser adiado ou reduzido; se a inflação ceder, o corte pode se concretizar conforme esperado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790004122.37438,
-    "titulo": "Projeto destina 20% dos royalties de petróleo da foz do Amazonas para SUS e enfermagem",
-    "titulo_original": "Projeto destina 20% dos royalties de petróleo da foz do Amazonas para SUS e enfermagem - Portal da Câmara dos Deputados",
-    "fonte": "Google News Commodities",
-    "publicado": "21/09 06:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de destinar royalties de petróleo para áreas específicas representa uma decisão fiscal com impacto social. Se o projeto for aprovado, pode aumentar o financiamento para SUS e enfermagem; se for rejeitado ou alterado, o impacto será menor ou inexistente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790004126.3354506,
-    "titulo": "Macklem, do Banco do Canadá: tarifas dos EUA podem reduzir o crescimento do quarto trimestre pela metade para menos de 1%",
-    "titulo_original": "Bank of Canada’s Macklem: US tariffs could roughly halve fourth-quarter growth to below 1%",
-    "fonte": "ForexLive",
-    "publicado": "21/09 12:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A perspectiva de um crescimento significativamente menor e uma inflação em alta devido a tarifas e preços de petróleo sugere um cenário desafiador para a economia canadense. Se as pressões inflacionárias se mostrarem persistentes, o Banco do Canadá pode ter que equilibrar o controle de preços com o estímulo ao crescimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790004139.8462336,
-    "titulo": "Agência analisa flexibilização de usinas térmicas da Eneva, com economia estimada de R$ 1 bi",
-    "titulo_original": "Agência analisa flexibilização de usinas térmicas da Eneva, com economia estimada de R$ 1 bi",
-    "fonte": "Folha Mercado",
-    "publicado": "21/09 10:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise de flexibilização de usinas térmicas pela Aneel pode resultar em uma economia significativa para o setor e para os consumidores. Se a flexibilização for aprovada, pode otimizar a geração de energia e reduzir custos; se for negada, as obrigações atuais permanecerão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790004139.8469787,
-    "titulo": "Safra corta preços-alvo de incorporadoras e aponta estoques como desafio; uma ação pode saltar 53%",
-    "titulo_original": "Safra corta preços-alvo de incorporadoras e aponta estoques como desafio; uma ação pode saltar 53%",
-    "fonte": "Money Times",
-    "publicado": "21/09 11:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução dos preços-alvo de incorporadoras pelo Safra, em função de estoques e juros altos, sinaliza um cenário desafiador para o setor imobiliário. Se os juros permanecerem elevados e os estoques não forem absorvidos, o desempenho das empresas pode ser afetado; caso contrário, a manutenção da recomendação para algumas ações pode indicar resiliência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790004139.8478,
-    "titulo": "Estrangeiros retiram R$ 689,6 milhões em ações da B3 em 17 de setembro",
-    "titulo_original": "Estrangeiros retiram R$ 689,6 milhões em ações da B3 em 17 de setembro",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 11:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A retirada de recursos estrangeiros da B3, mesmo com o Ibovespa em alta, pode indicar uma cautela pontual ou uma realocação de portfólio. Se essa saída de capital se intensificar, pode pressionar o mercado de ações; caso contrário, o saldo positivo acumulado no mês e no ano sugere uma tendência geral de entrada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790004139.8485167,
-    "titulo": "B3SA3, BBAS3, BPAC11: Foco dos gringos está no setor financeiro, segundo Bradesco BBI",
-    "titulo_original": "B3SA3, BBAS3, BPAC11: Foco dos gringos está no setor financeiro, segundo Bradesco BBI",
-    "fonte": "Money Times",
-    "publicado": "21/09 11:38",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A indicação de que investidores estrangeiros concentram seu interesse no setor financeiro brasileiro sugere um fluxo de capital direcionado para essa área. Se essa tendência se mantiver, pode impulsionar o desempenho das ações financeiras; caso contrário, o foco pode se deslocar para outros setores.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1790016818.2987418,
     "titulo": "Quanto rendem R$ 15 mil investidos em renda fixa com a Selic em 13,75%",
     "titulo_original": "Quanto rendem R$ 15 mil investidos em renda fixa com a Selic em 13,75% - Bora Investir",
@@ -872,5 +758,75 @@
     "origem": "domestica",
     "leitura_critica": "A redução do preço-alvo, apesar da recomendação de 'outperform', sugere que o cenário de juros elevados pode pesar sobre as margens da empresa. Se os juros caírem mais rapidamente do que o esperado, a ação da Camil pode se beneficiar, mas o risco de um ciclo de juros prolongado ainda é um fator a ser considerado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790114451.1456285,
+    "titulo": "Copom opta por ata neutra e indica continuação do ciclo de cortes da Selic, avalia Monte Bravo - Valor Econômico",
+    "titulo_original": "Copom opta por ata neutra e indica continuação do ciclo de cortes da Selic, avalia Monte Bravo - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/09 16:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ata neutra do Copom sugere que o Banco Central manterá a trajetória de cortes da Selic, mas sem sinalizar aceleração ou desaceleração abrupta. Se os próximos dados de inflação vierem em linha com as expectativas, a continuidade dos cortes pode ser confirmada; caso contrário, o mercado pode rever suas projeções.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790114455.0594192,
+    "titulo": "Leilão de gás da PPSA terá oferta de 1,1 milhão de m³/dia para 5 setores industriais, diz ministério",
+    "titulo_original": "Leilão de gás da PPSA terá oferta de 1,1 milhão de m³/dia para 5 setores industriais, diz ministério",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 18:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A portaria do Ministério de Minas e Energia estabelecendo as diretrizes para o leilão de gás da União representa uma decisão regulatória concreta com potencial impacto na indústria. Se o leilão for bem-sucedido e atrair empresas dos setores definidos, isso pode impulsionar a produção e o consumo de gás natural no país, com efeitos na cadeia produtiva.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790114458.9090233,
+    "titulo": "Ata do Copom sinaliza mais um corte de juros? Veja o que diz o mercado - UOL Economia",
+    "titulo_original": "Ata do Copom sinaliza mais um corte de juros? Veja o que diz o mercado - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/09 18:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A interpretação do mercado sobre a ata do Copom em relação a novos cortes de juros é crucial para a precificação de ativos. Se a ata confirmar a expectativa de mais cortes, isso pode sustentar o otimismo no mercado de renda variável; caso contrário, pode gerar volatilidade e revisão de posições.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790114462.8350594,
+    "titulo": "Senadores do PT defendem continuidade da queda dos juros após ata do Copom - PT no Senado",
+    "titulo_original": "Senadores do PT defendem continuidade da queda dos juros após ata do Copom - PT no Senado",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/09 16:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A defesa da continuidade da queda dos juros por senadores do PT, após a ata do Copom, reflete uma pressão política por uma política monetária mais expansionista. Se essa pressão se intensificar ou se alinhar com a visão do Banco Central, pode haver uma aceleração nos cortes da Selic; caso contrário, a decisão final caberá ao Copom.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790114466.891819,
+    "titulo": "Maior leilão de petróleo da história da ANP será último no Rio - Valor Econômico",
+    "titulo_original": "Maior leilão de petróleo da história da ANP será último no Rio - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "22/09 14:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A realização do maior leilão de petróleo da história da ANP, mesmo que seja o último no Rio de Janeiro, representa uma decisão regulatória significativa para o setor de energia. Se o leilão atrair um número expressivo de empresas e gerar arrematações relevantes, isso pode impulsionar a exploração e produção de petróleo no Brasil.",
+    "is_stocks": false
   }
 ]
