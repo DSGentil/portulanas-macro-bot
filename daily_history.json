@@ -1,73 +1,5 @@
 [
   {
-    "_timestamp": 1789996557.0793939,
-    "titulo": "Economistas reduzem previsão da Selic e esperam mais dois cortes no ano",
-    "titulo_original": "Economistas reduzem previsão da Selic e esperam mais dois cortes no ano",
-    "fonte": "Folha Mercado",
-    "publicado": "21/09 08:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão da previsão de juros para baixo sugere que os economistas interpretam a decisão do Copom como um sinal de continuidade do ciclo de afrouxamento monetário. Se o Banco Central mantiver o ritmo de cortes, isso pode estimular o crédito e o consumo; caso contrário, se houver uma pausa ou desaceleração nos cortes, o mercado pode reavaliar as expectativas de crescimento econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789996561.9821281,
-    "titulo": "Com Selic a 13,25% até fim do ano, os ETFs de prefixados são opções?",
-    "titulo_original": "Com Selic a 13,25% até fim do ano, os ETFs de prefixados são opções? - suno.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 09:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre a atratividade de ETFs de prefixados com a Selic em <a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVUMwTWZKQS0zZEw4LXZTN0dFdEd1U1ZrclZ3eEZGZ2xNSWotSmx5bjhiS0hUcjFpVlNncXY3Vi1QX1dTdXRLWW10Q3p0SlNCVkM4dUdGWUNicGZwdDJoaDZOMU8wZzJqa09KMmxydURLSnFZ0gF6QVVfeXFMTmNiTlMtejMtNkpQY1ZYcHBEVmZHMVNMUV9hNXZzSWRhOVZPQnpzTDNDcENWRzdQeXMzTVE5TUNxa2FIT2UzWFhCT3JFNkthZjRiQkhrRDBGR2R4dmlIbVBhakZMRjNHOTRaLW5Ec2paQWVMc2drVDBYaVE?oc=5\" target=\"_blank\"><b>13,25%</b></a> reflete a expectativa de juros mais baixos. Se a taxa de juros efetivamente se mantiver nesse patamar ou cair mais, a rentabilidade desses ETFs pode ser afetada; se houver surpresas de inflação que levem a juros mais altos, eles podem se tornar mais atrativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789996566.4690847,
-    "titulo": "Taxas do Tesouro têm 4ª queda seguida, com petróleo em baixa e pesquisas eleitorais - InfoMoney",
-    "titulo_original": "Taxas do Tesouro têm 4ª queda seguida, com petróleo em baixa e pesquisas eleitorais - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "21/09 09:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas do Tesouro, associada à baixa do petróleo e a pesquisas eleitorais, sugere um otimismo cauteloso no mercado de renda fixa. Se as pesquisas continuarem indicando um cenário favorável para a oposição, isso pode sustentar a queda das taxas; caso contrário, uma reversão nesse sentimento pode levar a um aumento dos prêmios de risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789996570.9992735,
-    "titulo": "Juros futuros recuam com apoio externo e de olho em eleições",
-    "titulo_original": "Juros futuros recuam com apoio externo e de olho em eleições",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 09:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda dos juros futuros, impulsionada por fatores externos como a queda do petróleo e a reaproximação EUA-China, e internos como o otimismo eleitoral, indica uma precificação de risco menor. Se o cenário externo se mantiver favorável e as pesquisas eleitorais continuarem a apontar para uma vitória da oposição, os juros podem seguir em trajetória de queda; qualquer sinal de reversão em qualquer um desses fatores pode reverter o movimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789996575.4299679,
-    "titulo": "BCE lança elo fundamental entre blockchain e sistema de pagamentos em euro",
-    "titulo_original": "BCE lança elo fundamental entre blockchain e sistema de pagamentos em euro",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 09:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A iniciativa do BCE de conectar blockchain ao sistema de pagamentos em euro pode sinalizar uma tendência global de digitalização financeira e maior eficiência em transações. Se essa tendência se expandir, pode influenciar a forma como os bancos centrais e o mercado financeiro global operam, potencialmente impactando o fluxo de capital e a adoção de novas tecnologias no Brasil.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1790004114.46367,
     "titulo": "Resseguradoras emplacam jabuti em lei orçamentária e obtêm benefício fiscal com apoio do governo",
     "titulo_original": "Resseguradoras emplacam jabuti em lei orçamentária e obtêm benefício fiscal com apoio do governo",
@@ -833,6 +765,112 @@
     ],
     "origem": "ambas",
     "leitura_critica": "A estabilidade nos mercados brasileiros, com atenção ao petróleo e cenário eleitoral, sugere um período de espera por definições. Se o preço do petróleo se estabilizar e o cenário eleitoral se clarear, os mercados podem reagir positivamente; caso contrário, a volatilidade pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790109046.3908687,
+    "titulo": "Arrecadação com petróleo e gás cresce 471% de janeiro a agosto",
+    "titulo_original": "Arrecadação com petróleo e gás cresce 471% de janeiro a agosto - Poder360",
+    "fonte": "Google News Commodities",
+    "publicado": "22/09 12:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O expressivo aumento na arrecadação com petróleo e gás pode ter um impacto positivo nas contas públicas brasileiras. Se este crescimento se mantiver, pode aliviar a pressão sobre o orçamento e potencialmente reduzir a necessidade de cortes em outras áreas ou aumento de impostos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790109050.8087504,
+    "titulo": "Notícias do mercado das Américas: EUA e Irã se reúnem na ONU",
+    "titulo_original": "investingLive Americas market news wrap: US and Iran officials meet at UN",
+    "fonte": "ForexLive",
+    "publicado": "22/09 17:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A reunião entre EUA e Irã pode reduzir a aversão ao risco global, beneficiando ativos de maior volatilidade. A comparação do ciclo de alta de juros com um ajuste de meio de ciclo pelo Fed pode indicar que o banco central americano vê o fim do aperto monetário mais próximo, o que seria positivo para o mercado de renda variável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790109055.0503888,
+    "titulo": "Taxas dos DIs recuam com petróleo em baixa e eleição no radar",
+    "titulo_original": "Taxas dos DIs recuam com petróleo em baixa e eleição no radar - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "22/09 17:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda nas taxas dos DIs sugere que o mercado precifica um cenário de juros menores, possivelmente impulsionado pela redução do preço do petróleo e pela incerteza eleitoral que pode levar a políticas mais expansionistas. Se a eleição resultar em um cenário de maior estabilidade fiscal, as taxas podem continuar a cair.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790109059.315087,
+    "titulo": "Irã apresenta condições para reabrir Ormuz a representante dos EUA, diz mídia estatal",
+    "titulo_original": "Irã apresenta condições para reabrir Ormuz a representante dos EUA, diz mídia estatal",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 17:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A apresentação de condições pelo Irã para reabrir o Estreito de Ormuz indica uma tentativa de negociação diplomática, o que pode reduzir a tensão geopolítica e o risco de interrupção do fornecimento de petróleo. Se um acordo for alcançado, isso pode levar a uma queda nos preços do petróleo e a um aumento do apetite por risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790109064.8477082,
+    "titulo": "Receita reduz estimativa de arrecadação com dividendos para R$ 10,5 bi",
+    "titulo_original": "Receita reduz estimativa de arrecadação com dividendos a R$ 10,5 bi",
+    "fonte": "Folha Mercado",
+    "publicado": "22/09 16:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão para baixo na estimativa de arrecadação com dividendos pode indicar uma menor efetividade da nova tributação ou um cenário econômico menos favorável do que o projetado. Se a arrecadação continuar abaixo do esperado, o governo pode precisar buscar outras fontes de receita ou rever suas metas fiscais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790109064.8491514,
+    "titulo": "Nasdaq renova recorde e Dow recua pressionado pelo setor financeiro",
+    "titulo_original": "Nasdaq renova recorde e Dow recua pressionado pelo setor financeiro",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 17:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A divergência entre o desempenho do Nasdaq e do Dow Jones sugere que o otimismo em tecnologia pode estar descolado de setores mais tradicionais como o financeiro. Se as tensões geopolíticas com o Irã diminuírem significativamente, o setor financeiro pode se recuperar, impulsionando o Dow Jones; caso contrário, a pressão pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790109064.8505363,
+    "titulo": "Parceria entre Euronet e Fireblocks viabiliza cartões financiados por stablecoins",
+    "titulo_original": "Parceria entre Euronet e Fireblocks viabiliza cartões financiados por stablecoins",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 16:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A expansão de cartões financiados por stablecoins indica uma crescente adoção de criptomoedas no sistema de pagamentos tradicional. Se essa tendência se consolidar, pode aumentar a liquidez e a usabilidade das stablecoins, potencialmente impactando o mercado financeiro de forma mais ampla.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790109064.8518715,
+    "titulo": "Itaú BBA corta preço desta ação agro de olho nos juros; ainda vale comprar?",
+    "titulo_original": "Itaú BBA corta preço dessa ação agro de olho nos juros; ainda vale comprar?",
+    "fonte": "Money Times",
+    "publicado": "22/09 11:52",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução do preço-alvo, apesar da recomendação de 'outperform', sugere que o cenário de juros elevados pode pesar sobre as margens da empresa. Se os juros caírem mais rapidamente do que o esperado, a ação da Camil pode se beneficiar, mas o risco de um ciclo de juros prolongado ainda é um fator a ser considerado.",
     "is_stocks": true
   }
 ]
