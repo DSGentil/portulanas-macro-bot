@@ -1,214 +1,5 @@
 [
   {
-    "_timestamp": 1789988456.7477298,
-    "titulo": "IPCA-15, ata do Copom e Lula na ONU movimentam a semana a 15 dias do 1º turno",
-    "titulo_original": "IPCA-15, ata do Copom e Lula na ONU movimentam a semana a 15 dias do 1º turno - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/09 08:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação do IPCA-15 e a ata do Copom fornecerão indicações importantes sobre as expectativas de inflação e a postura futura da política monetária. Se o IPCA-15 vier acima do esperado, a ata do Copom pode reforçar um tom mais cauteloso em relação ao corte de juros; caso contrário, pode abrir espaço para um discurso mais dovish.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789988461.4277124,
-    "titulo": "Geração Z vê casa própria como meta distante, em cenário de juros altos e renda pressionada",
-    "titulo_original": "Geração Z vê casa própria como meta distante, em cenário de juros altos e renda pressionada",
-    "fonte": "Folha Mercado",
-    "publicado": "20/09 23:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cenário de juros altos impacta diretamente a capacidade de endividamento e o custo de aquisição de imóveis, tornando a casa própria menos acessível para a Geração Z. Se as taxas de juros permanecerem elevadas, essa dificuldade de acesso ao mercado imobiliário pode se prolongar, alterando padrões de consumo e investimento dessa geração.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789988466.1042511,
-    "titulo": "Paraná eleva investimentos e reduz caixa ao fim do segundo mandato de Ratinho Junior",
-    "titulo_original": "Paraná eleva investimentos e reduz caixa ao fim do segundo mandato de Ratinho Junior",
-    "fonte": "Folha Mercado",
-    "publicado": "20/09 23:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A gestão fiscal de um estado pode ter implicações para sua economia e para a percepção de risco. Se a redução do caixa e o aumento de investimentos levarem a um desequilíbrio fiscal, isso pode afetar a capacidade de investimento futuro e a atratividade do estado para novos negócios.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789988470.81393,
-    "titulo": "Bessent considera conversas EUA-China muito bem-sucedidas, Conselho de Comércio operacional antes da cúpula",
-    "titulo_original": "Bessent calls US-China talks very successful, Board of Trade operational ahead of summit",
-    "fonte": "ForexLive",
-    "publicado": "20/09 21:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "Se os próximos passos detalharem tarifas e volumes de compra, o impacto comercial pode ser mais significativo. Caso contrário, a ausência de avanços concretos pode manter a incerteza nas relações comerciais entre os dois países.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789988476.609362,
-    "titulo": "Conselho da Petrobras aprova adesão a nova subvenção que neutralizará alta no diesel",
-    "titulo_original": "Conselho da Petrobras aprova adesão a nova subvenção que neutralizará alta no diesel - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "19/09 15:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão de subsidiar o diesel pode ter implicações fiscais e inflacionárias. Se a subvenção for eficaz em manter os preços estáveis, pode aliviar a pressão sobre o consumidor e a inflação de transporte. No entanto, o custo fiscal dessa medida precisará ser monitorado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789988476.6096923,
-    "titulo": "Big techs usam outras empresas para deixar US$ 300 bi fora dos balanços",
-    "titulo_original": "Big techs usam outras empresas para deixar US$ 300 bi fora dos balanços",
-    "fonte": "Folha Mercado",
-    "publicado": "20/09 23:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A prática de registrar dívidas fora do balanço pode obscurecer a real exposição financeira dessas empresas. Se houver uma crise de liquidez ou um evento de crédito significativo, essa estrutura pode gerar instabilidade no setor de tecnologia e em seus credores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789988476.6100426,
-    "titulo": "Margem de lucro da Petrobras supera a da Saudi Aramco pela 1ª vez",
-    "titulo_original": "Margem de lucro da Petrobras supera a da Saudi Aramco pela 1ª vez - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "20/09 09:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho financeiro da Petrobras é um indicador importante para o setor de energia e para a economia brasileira. Se essa tendência de margens superiores se mantiver, pode refletir uma gestão eficiente e um cenário favorável para a empresa, impactando positivamente seu valor de mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789988476.6103468,
-    "titulo": "B3 cresce 26% em volume diário de negócios em agosto, para R$ 30,3 bilhões",
-    "titulo_original": "B3 cresce 26% em volume diário de negócios em agosto, para R$ 30,3 bilhões - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "20/09 15:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento no volume de negócios na B3 pode indicar maior liquidez e atividade no mercado de capitais. Se essa tendência de crescimento se mantiver, pode sinalizar um maior interesse dos investidores no mercado brasileiro, impulsionando a negociação de ações e outros ativos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789990249.5278537,
-    "titulo": "Real entra no radar eleitoral: HSBC vê volatilidade maior e aposta contra a moeda no curto prazo",
-    "titulo_original": "Real entra no radar eleitoral: HSBC vê volatilidade maior e aposta contra a moeda no curto prazo",
-    "fonte": "Money Times",
-    "publicado": "21/09 07:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A visão do HSBC de apostar contra o Real devido ao risco eleitoral sugere que o mercado precifica uma maior probabilidade de desvalorização da moeda brasileira. Se a disputa eleitoral se mostrar mais acirrada ou incerta, isso pode intensificar a volatilidade do câmbio e afetar a inflação importada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789990253.4910917,
-    "titulo": "Focus, pesquisa eleitoral, falas do Fed e mais destaques desta segunda-feira",
-    "titulo_original": "Focus, pesquisa eleitoral, falas do Fed e mais destaques desta segunda-feira - infomoney.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 06:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de dados de inflação (implícitos na pesquisa Focus), pesquisas eleitorais e falas do Fed indica um dia com múltiplos fatores de influência para os mercados. Se as falas do Fed sinalizarem uma postura mais dura, isso pode impactar os juros e o câmbio; a volatilidade eleitoral no Brasil pode gerar incertezas adicionais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789990257.466444,
-    "titulo": "Dólar entre juros nos EUA e eleição no Brasil: o que esperar da moeda americana?",
-    "titulo_original": "Dólar entre juros nos EUA e eleição no Brasil: o que esperar da moeda americana? - Exame",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 05:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A interação entre a política monetária dos EUA e o cenário eleitoral brasileiro cria um ambiente de incerteza para o dólar. Se os juros nos EUA permanecerem altos, isso tende a fortalecer o dólar globalmente; a volatilidade eleitoral no Brasil pode adicionar pressão adicional sobre o câmbio, tornando a moeda americana um ativo de refúgio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789990261.4812167,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "21/09 03:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A ausência de dados econômicos relevantes nos EUA e Europa pode levar a um período de consolidação nos mercados globais. A atenção se volta para os desdobramentos diplomáticos, como o encontro Trump-Xi, que podem influenciar o sentimento de risco e, consequentemente, os fluxos de capital para ativos de maior risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1789990266.8584163,
-    "titulo": "Manhã no mercado: Bolsas globais avançam e petróleo recua, com pesquisas eleitorais e encontro entre Trump e Xi no radar",
-    "titulo_original": "Manhã no mercado: Bolsas globais avançam e petróleo recua, com pesquisas eleitorais e encontro entre Trump e Xi no radar",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 08:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A expectativa pela ata do Copom e pelo IPCA-15 de setembro no Brasil sugere que o mercado estará atento a sinais sobre a política monetária e a inflação doméstica. Se a ata indicar um tom mais cauteloso, pode reforçar a percepção de juros mais altos por mais tempo; se houver sinais de flexibilização, pode abrir espaço para apostas em cortes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789990266.8589005,
-    "titulo": "Ibovespa sob pressão, Bitcoin em alta: os níveis que podem decidir a semana",
-    "titulo_original": "Ibovespa sob pressão, Bitcoin em alta: os níveis que podem decidir a semana - infomoney.com.br",
-    "fonte": "Google News Acoes",
-    "publicado": "21/09 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A divergência entre o desempenho do Ibovespa e do Bitcoin sugere diferentes dinâmicas de mercado. Se o Ibovespa continuar sob pressão, pode indicar aversão ao risco em ativos locais; a alta do Bitcoin, por outro lado, pode refletir um fluxo de capital para ativos digitais, possivelmente impulsionado por fatores externos ou por uma busca por alternativas de investimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789990266.859432,
-    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Commodities",
-    "publicado": "21/09 06:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O acompanhamento em tempo real da cotação do petróleo é crucial para entender as flutuações de preços que podem afetar a inflação e a atividade econômica global. Se os preços do petróleo apresentarem volatilidade significativa, isso pode gerar incertezas sobre a trajetória inflacionária e a demanda por energia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1789990266.8599844,
-    "titulo": "Google é multada em 403 milhões de euros na Irlanda em processo sobre privacidade de localização",
-    "titulo_original": "Google é multada em 403 milhões de euros na Irlanda em processo sobre privacidade de localização",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 08:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A multa aplicada ao Google pela autoridade irlandesa representa uma decisão regulatória significativa no âmbito da proteção de dados na Europa. Se outras empresas de tecnologia enfrentarem multas semelhantes, isso pode levar a uma revisão das práticas de coleta e uso de dados, impactando modelos de negócio e custos operacionais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1789996557.0793939,
     "titulo": "Economistas reduzem previsão da Selic e esperam mais dois cortes no ano",
     "titulo_original": "Economistas reduzem previsão da Selic e esperam mais dois cortes no ano",
@@ -972,6 +763,76 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A notícia reforça a exigência dos credores da Braskem por um aporte de US$ 3 bilhões dos controladores para a reestruturação da dívida. A recusa dos credores em injetar capital novo indica a gravidade da situação financeira da empresa. Se Petrobras e IG4 não realizarem o aporte, a reestruturação da dívida pode enfrentar obstáculos significativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790101852.9291928,
+    "titulo": "Tesouro IPCA+ 2032 sustenta 7,63% de juro real, mas alta perde força nos papéis longos",
+    "titulo_original": "Tesouro IPCA+ 2032 sustenta 7,63% de juro real, mas alta perde força nos papéis longos",
+    "fonte": "InvestNews",
+    "publicado": "22/09 14:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A sustentação do juro real no Tesouro IPCA+ 2032 indica uma expectativa de inflação controlada no longo prazo. Se a inflação implícita continuar a cair, isso pode abrir espaço para uma política monetária mais branda no futuro; caso contrário, pode indicar persistência inflacionária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790101858.2105262,
+    "titulo": "Dólar sobe e volta a operar acima de R$ 5,13 nesta terça-feira",
+    "titulo_original": "Dólar sobe e volta a operar acima de R$ 5,13 nesta terça-feira - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/09 10:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar acima de R$ 5,13 pode refletir aversão ao risco ou fatores domésticos. Se a tendência de alta se mantiver, pode pressionar a inflação importada; caso contrário, pode ser um movimento pontual.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790101863.4847102,
+    "titulo": "Ministério da Fazenda reduz para 2% projeção para alta do PIB em 2026",
+    "titulo_original": "Ministério da Fazenda reduz para 2% projeção para alta do PIB em 2026",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 14:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na projeção do PIB pelo Ministério da Fazenda indica uma perspectiva de desaceleração econômica. Se os fatores que levaram à revisão se mantiverem, o crescimento pode ser menor que o esperado; caso contrário, uma recuperação pode impulsionar o PIB para cima.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790101869.0138857,
+    "titulo": "Ouro tem leve queda pressionado pelo avanço dos Treasuries e do dólar",
+    "titulo_original": "Ouro tem leve queda pressionado pelo avanço dos Treasuries e do dólar",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 15:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A pressão sobre o ouro reflete a expectativa de juros mais altos por mais tempo nos EUA. Se os dados de inflação futuros mostrarem arrefecimento, o ouro pode encontrar suporte; caso contrário, a tendência de queda pode se acentuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790101874.9546912,
+    "titulo": "Ibovespa, dólar e juros futuros rondam estabilidade, com petróleo e cenário eleitoral no radar",
+    "titulo_original": "Ibovespa, dólar e juros futuros rondam estabilidade, com petróleo e cenário eleitoral no radar",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 15:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A estabilidade nos mercados brasileiros, com atenção ao petróleo e cenário eleitoral, sugere um período de espera por definições. Se o preço do petróleo se estabilizar e o cenário eleitoral se clarear, os mercados podem reagir positivamente; caso contrário, a volatilidade pode aumentar.",
     "is_stocks": true
   }
 ]
