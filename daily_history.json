@@ -828,5 +828,73 @@
     "origem": "domestica",
     "leitura_critica": "A realização do maior leilão de petróleo da história da ANP, mesmo que seja o último no Rio de Janeiro, representa uma decisão regulatória significativa para o setor de energia. Se o leilão atrair um número expressivo de empresas e gerar arrematações relevantes, isso pode impulsionar a exploração e produção de petróleo no Brasil.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1790119846.8379617,
+    "titulo": "Tarifa aérea média no Brasil fechou a R$ 776,87 em agosto, com ganho real de 14,5%",
+    "titulo_original": "Tarifa aérea média no Brasil fechou a\nR$ 776,87 em agosto, com ganho real de 14,5%",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 19:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento real da tarifa aérea, mesmo com a correção pelo IPCA, sugere uma pressão inflacionária no setor de transporte, possivelmente ligada ao custo do QAV. Se essa tendência se mantiver, pode impactar o índice geral de inflação. A relação entre o preço do QAV e o IPCA é um ponto a ser observado para entender a dinâmica inflacionária no setor de serviços e transporte.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790119851.813289,
+    "titulo": "Há desaceleração no crédito no Brasil?",
+    "titulo_original": "Há desaceleração no crédito no Brasil?",
+    "fonte": "Folha Mercado",
+    "publicado": "22/09 20:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ata do Copom sugere uma desaceleração geral no crédito bancário, o que pode ser um reflexo do aperto monetário. No entanto, a expansão em créditos direcionados indica que alguns setores específicos continuam a ter acesso a financiamento. Se a desaceleração do crédito se generalizar, pode indicar uma menor atividade econômica futura; se os créditos direcionados continuarem fortes, podem sustentar setores específicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790119856.711733,
+    "titulo": "Lula: seguiremos pesquisando o potencial de novas reservas de petróleo, sem renunciar à agenda ambiental",
+    "titulo_original": "Lula: seguiremos pesquisando o potencial de novas reservas de petróleo, sem renunciar à agenda ambiental - Agência eixos",
+    "fonte": "Google News Commodities",
+    "publicado": "22/09 19:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente sobre a exploração de petróleo e a agenda ambiental indica uma diretriz de política energética. Se houver decisões concretas de exploração ou regulamentação ambiental que impactem o setor, isso poderá ter relevância. No momento, a notícia é uma declaração de intenção que não configura uma decisão fiscal ou regulatória concreta, nem afeta diretamente os outros canais macroeconômicos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790119861.6930013,
+    "titulo": "Soja recupera perdas em Chicago e preços resistem no Brasil; safra nova segue acima de R$ 150",
+    "titulo_original": "Soja recupera perdas em Chicago e preços resistem no Brasil; safra nova segue acima de R$ 150 - noticiasagricolas.com.br",
+    "fonte": "Google News Commodities",
+    "publicado": "22/09 17:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A recuperação dos preços da soja em Chicago e a resistência dos preços no Brasil indicam um movimento de mercado para a commodity. Embora não afete diretamente os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital, a soja é um importante item de exportação e pode ter impacto na balança comercial e, indiretamente, na atividade econômica. A notícia em si não faz essa conexão explícita, focando apenas no movimento de preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790119866.6208744,
+    "titulo": "Austrália flash PMI: crescimento desacelera para o menor nível do 3º trimestre, com contração nas fábricas e cortes de empregos",
+    "titulo_original": "Australia flash PMI: growth slows to Q3 low as factories contract and firms cut jobs",
+    "fonte": "ForexLive",
+    "publicado": "22/09 20:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração da atividade econômica e o corte de empregos na Austrália podem levar o RBA a uma postura mais cautelosa em relação a novos aumentos de juros. Contudo, a pressão inflacionária vinda dos custos de energia pode complicar essa decisão. Se o RBA optar por um aumento de juros, isso pode reforçar a tendência de aperto monetário global; se mantiver a taxa, pode sinalizar uma pausa ou fim do ciclo de alta.",
+    "is_stocks": false
   }
 ]
