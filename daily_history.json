@@ -799,5 +799,63 @@
     "origem": "externa",
     "leitura_critica": "A permanência dos rendimentos do Tesouro de 10 anos perto de 5% indica uma tensão subjacente nos mercados, mesmo com a recuperação das bolsas impulsionada pela IA. Se os rendimentos continuarem a subir, isso pode pressionar o mercado de ações novamente; por outro lado, se o otimismo com IA e a queda nos rendimentos persistirem, o rali pode se sustentar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790090141.7987487,
+    "titulo": "Sem dar pistas sobre próximos passos, BC diz que manterá 'restrição adequada' na política de juros para conter inflação - G1",
+    "titulo_original": "Sem dar pistas sobre próximos passos, BC diz que manterá 'restrição adequada' na política de juros para conter inflação - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/09 08:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Banco Central sobre manter 'restrição adequada' na política de juros sugere que o foco principal continua sendo o controle da inflação. Se os dados de inflação futuros vierem acima do esperado, o BC pode manter essa postura restritiva por mais tempo; caso contrário, pode haver espaço para flexibilização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790090145.7703543,
+    "titulo": "Confiança do Consumidor da UE (flash) para Setembro -16,5 vs -16,0 estimado",
+    "titulo_original": "EU Consumer Confidence (flash) for September -16.5 vs -16.0 estimate",
+    "fonte": "ForexLive",
+    "publicado": "22/09 11:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda na confiança do consumidor em setembro sugere uma estagnação na melhora do sentimento, o que pode pesar sobre os gastos das famílias. Se essa tendência se mantiver, pode ser um fator de atenção para o crescimento econômico europeu e as decisões futuras do Banco Central Europeu.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790090149.9032574,
+    "titulo": "Pesquisa Filadélfia não manufatureira -22,0 vs -10,6 anterior",
+    "titulo_original": "Philly Fed nonmanufacturing survey -22.0 vs -10.6 prior",
+    "fonte": "ForexLive",
+    "publicado": "22/09 09:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A pesquisa Filadélfia não manufatureira apresenta dados mistos, com uma queda na atividade geral e novos pedidos, mas um forte aumento no emprego em tempo integral e uma nova alta nos preços. Se o aumento do emprego se sustentar, pode indicar resiliência na demanda por mão de obra, mas a pressão inflacionária nos preços pagos e recebidos é um ponto de atenção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790090154.939964,
+    "titulo": "Arrecadação com IR na fonte sobre dividendos soma R$ 4,03 bi de janeiro a agosto, diz Receita",
+    "titulo_original": "Arrecadação com IR na fonte sobre dividendos soma R$ 4,03 bi de janeiro a agosto, diz Receita",
+    "fonte": "Valor Economico",
+    "publicado": "22/09 11:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa sobre a arrecadação de IR sobre dividendos e a revisão das projeções fiscais, indicando que a meta anual não será atingida. A redução na expectativa de arrecadação pode impactar o resultado fiscal do governo, e a proposta de redução das projeções para 2026 sugere uma reavaliação da política tributária.",
+    "is_stocks": true
   }
 ]
