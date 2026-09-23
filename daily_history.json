@@ -1,335 +1,5 @@
 [
   {
-    "_timestamp": 1790016818.2987418,
-    "titulo": "Quanto rendem R$ 15 mil investidos em renda fixa com a Selic em 13,75%",
-    "titulo_original": "Quanto rendem R$ 15 mil investidos em renda fixa com a Selic em 13,75% - Bora Investir",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 15:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A taxa Selic em 13,75% impacta diretamente o retorno de investimentos em renda fixa. Se a taxa Selic permanecer alta, a renda fixa continuará sendo uma opção atrativa; se houver cortes futuros, outros ativos podem se tornar mais competitivos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790016822.728857,
-    "titulo": "Opinião | Copom navega cenário de incertezas",
-    "titulo_original": "Opinião | Copom navega cenário de incertezas - estadao.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 15:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A menção a um cenário de incertezas para o Copom sugere que as decisões futuras sobre a taxa de juros podem ser cautelosas. Se as incertezas persistirem, o Banco Central pode optar por manter a taxa de juros estável ou realizar cortes mais graduais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790016827.251241,
-    "titulo": "Guerra no Oriente Médio eleva pressão sobre petróleo e aumenta riscos para economia brasileira",
-    "titulo_original": "Guerra no Oriente Médio eleva pressão sobre petróleo e aumenta riscos para economia brasileira - VEJA",
-    "fonte": "Google News Commodities",
-    "publicado": "21/09 13:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada da guerra no Oriente Médio e seu impacto no preço do petróleo representam um risco para a economia brasileira, especialmente em termos de inflação e custos de produção. Se o conflito se agravar, o Brasil pode enfrentar pressões inflacionárias e desaceleração econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790016831.7069163,
-    "titulo": "EUA reafirmam apoio a Japão, Coreia e Taiwan antes da cúpula de Trump e Xi",
-    "titulo_original": "EUA reafirmam apoio a Japão, Coreia e Taiwan antes da cúpula de Trump e Xi",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 15:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A postura dos EUA em relação a Taiwan e a China pode influenciar a dinâmica geopolítica na Ásia. Se Trump oferecer concessões significativas a Xi, isso poderá gerar instabilidade regional e afetar as relações comerciais globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790016896.8243062,
-    "titulo": "OpenAI pede que EUA liderem esforços globais para desenvolver padrões técnicos para IA",
-    "titulo_original": "OpenAI pede que EUA liderem esforços globais para desenvolver padrões técnicos para IA",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 15:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O pedido da OpenAI por padrões globais de IA reflete a preocupação com o desenvolvimento autônomo e descontrolado da tecnologia. Se os EUA liderarem esse esforço, isso pode estabelecer um marco regulatório internacional; a falta de acordo pode levar a um desenvolvimento mais caótico.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790016896.8252199,
-    "titulo": "Expectativa de manchetes rápidas e furiosas da administração Trump antes das eleições",
-    "titulo_original": "Expect the News Headlines from Trump and the administration to be fast and furious going into the elections",
-    "fonte": "ForexLive",
-    "publicado": "21/09 12:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A comunicação da administração Trump tende a se tornar mais assertiva à medida que as eleições se aproximam, focando em mensagens econômicas positivas. Se os dados econômicos continuarem a melhorar, isso pode fortalecer a narrativa de campanha; caso contrário, a retórica pode se tornar mais combativa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790016896.8260267,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e eleições em foco",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e eleições em foco - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "21/09 12:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa, impulsionada pelo exterior e pelo cenário eleitoral, sugere um otimismo cauteloso do mercado. Se o quadro eleitoral se mostrar mais claro e favorável, a bolsa pode continuar a subir; incertezas eleitorais podem gerar volatilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790016896.8268394,
-    "titulo": "CVM aceita pedido de oferta pública de aquisição da Braskem por fundo da IG4 Capital",
-    "titulo_original": "CVM aceita pedido de oferta pública de aquisição da Braskem por fundo da IG4 Capital",
-    "fonte": "Folha Mercado",
-    "publicado": "21/09 12:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aceitação da OPA da Braskem pela CVM representa uma decisão regulatória concreta que afeta a estrutura de controle da empresa. Se a aquisição for concluída, isso pode alterar a dinâmica do setor petroquímico e as estratégias futuras da Braskem.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790016896.8276577,
-    "titulo": "Ibovespa avança com queda de juros futuros e de olho em quadro eleitoral",
-    "titulo_original": "Ibovespa avança com queda de juros futuros e de olho em quadro eleitoral - valor.globo.com",
-    "fonte": "Google News Acoes",
-    "publicado": "21/09 10:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda dos juros futuros e o foco no cenário eleitoral impulsionaram o Ibovespa. Se a queda dos juros futuros se consolidar e o quadro eleitoral apresentar maior clareza, a bolsa pode continuar em trajetória de alta; incertezas eleitorais podem reverter essa tendência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790022646.2875166,
-    "titulo": "Dólar hoje opera em baixa com cenário eleitoral; entenda",
-    "titulo_original": "Dólar hoje opera em baixa com cenário eleitoral; entenda - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 13:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar com o cenário eleitoral sugere que a incerteza política está diminuindo ou que o mercado precifica um resultado favorável. Se o cenário eleitoral se tornar mais volátil ou incerto, o dólar pode voltar a subir. A estabilidade política tende a ser um fator de fortalecimento da moeda local.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790022650.212714,
-    "titulo": "Dólar à vista recua a R$ 5,10 e real é destaque com suporte de eleições mais apertadas",
-    "titulo_original": "Dólar à vista recua a R$ 5,10 e real é destaque com suporte de eleições mais apertadas - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 17:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do real e a queda do dólar, associadas a eleições mais apertadas, sugerem que o mercado pode estar precificando um resultado que traga mais estabilidade ou previsibilidade. Se a disputa eleitoral se acirrar ainda mais ou gerar incertezas sobre o resultado, o real pode perder força. Um desfecho eleitoral claro e que gere confiança tende a sustentar a tendência de valorização da moeda local.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790022654.206783,
-    "titulo": "Moraes é sorteado relator de ação sobre visitas de própria esposa e Vorcaro a senadores",
-    "titulo_original": "Moraes é sorteado relator de ação sobre visitas de própria esposa e Vorcaro a senadores",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 17:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O sorteio de Moraes como relator levanta a possibilidade de impedimento, o que pode gerar discussões sobre a condução do caso. Se Moraes se declarar impedido, a relatoria passará para outro ministro, o que pode alterar o ritmo da investigação. A decisão sobre o impedimento ou a condução do caso por Moraes terá impacto na percepção de imparcialidade do processo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790022658.1335726,
-    "titulo": "Dólar hoje recua com fraqueza global e novo empate técnico entre Lula e Flávio",
-    "titulo_original": "Dólar hoje recua com fraqueza global e novo empate técnico entre Lula e Flávio - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 12:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de fraqueza global e um cenário eleitoral doméstico apertado contribui para a queda do dólar. Se a fraqueza global se intensificar ou se o cenário eleitoral se tornar mais polarizado, o dólar pode encontrar suporte. Uma resolução mais clara no cenário político brasileiro, mesmo que apertada, pode continuar a sustentar a moeda local.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790022663.6793172,
-    "titulo": "Meta e ações de tecnologia levam S&P 500 ao melhor dia desde agosto",
-    "titulo_original": "Meta e ações de tecnologia levam S&P 500 ao melhor dia desde agosto",
-    "fonte": "InvestNews",
-    "publicado": "21/09 17:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho positivo das ações de tecnologia, especialmente impulsionado por avanços em inteligência artificial, pode indicar um setor em forte recuperação ou expansão. Se o desenvolvimento de novas ferramentas de IA continuar a gerar otimismo, o setor tecnológico pode manter essa tendência de alta. Uma desaceleração nesse ritmo de inovação ou notícias negativas sobre a regulamentação de IA poderiam reverter esse quadro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790022663.680503,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/09 15:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento ao vivo da cotação do dólar é essencial para entender as flutuações diárias do mercado de câmbio. Se houver notícias relevantes sobre política monetária, cenário econômico ou eventos globais, a cotação pode apresentar volatilidade. A ausência de eventos de grande impacto pode resultar em movimentos mais sutis na cotação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790022663.681587,
-    "titulo": "Minerais e energia dão vantagem a Brasil, mas cadeia produtiva é desafio",
-    "titulo_original": "Minerais e energia dão vantagem a Brasil, mas cadeia produtiva é desafio",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 17:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O desenvolvimento das cadeias produtivas de minerais estratégicos e energia renovável pode impulsionar a economia brasileira. Se o país conseguir superar os desafios de refino e processamento, poderá atrair mais investimentos e tecnologia. A falta de avanço nesse sentido pode manter a dependência de outros países.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790022663.6826806,
-    "titulo": "Ausentes de debate, Cleitinho, Patrus e Kalil são atacados por Mateus Simões e Gabriel Azevedo, em MG",
-    "titulo_original": "Ausentes de debate, Cleitinho, Patrus e Kalil são atacados por Mateus Simões e Gabriel Azevedo, em MG",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 17:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "As críticas durante o debate podem influenciar a percepção dos eleitores sobre os candidatos ausentes e presentes. Se as ausências forem interpretadas como falta de compromisso, isso pode prejudicar os candidatos ausentes. Por outro lado, se os ataques forem considerados desproporcionais ou sem fundamento, os candidatos que atacam podem perder apoio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790022663.6837409,
-    "titulo": "Fabricante de anéis inteligentes Oura se prepara para IPO na Nasdaq e mira avaliação de US$ 15,6 bi",
-    "titulo_original": "Fabricante de anéis inteligentes Oura se prepara para IPO na Nasdaq e mira avaliação de US$ 15,6 bi",
-    "fonte": "Money Times",
-    "publicado": "21/09 16:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O IPO da Oura pode ser um indicador do apetite do mercado por empresas de tecnologia de consumo e wearables. Se o IPO for bem-sucedido e a avaliação atingir o esperado, isso pode encorajar outras empresas do setor a buscar o mercado de capitais. Uma recepção morna ou abaixo do esperado pode sinalizar cautela dos investidores com o setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790022663.6851013,
-    "titulo": "ICE oculta localização de milhares de detidos com ordem definitiva de deportação",
-    "titulo_original": "ICE oculta localização de milhares de detidos com ordem definitiva de deportação",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 17:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A ocultação da localização de detidos pelo ICE levanta preocupações sobre transparência e direitos humanos. Se essa prática persistir, pode haver um aumento na dificuldade de acesso à justiça para os detidos. Uma mudança na política do ICE, com a retomada da divulgação das localizações, poderia mitigar essas preocupações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790022663.6862605,
-    "titulo": "Petróleo de Morpho, na Foz do Amazonas, pode ser o melhor do Brasil, diz diretora da Petrobras (PETR3)",
-    "titulo_original": "Petróleo de Morpho, na Foz do Amazonas, pode ser o melhor do Brasil, diz diretora da Petrobras (PETR3)",
-    "fonte": "Money Times",
-    "publicado": "21/09 16:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A descoberta de petróleo de alta qualidade na Foz do Amazonas pode representar um avanço significativo para a Petrobras e para a produção nacional de petróleo. Se a exploração comercial for viável e segura, isso pode aumentar as reservas e a produção do país. Desafios ambientais ou técnicos na exploração poderiam limitar o potencial dessa descoberta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790028054.919498,
-    "titulo": "Mais uma safra recorde em 2027 e nova queda de alimentos básicos",
-    "titulo_original": "Mais uma safra recorde em 2027 e nova queda de alimentos básicos",
-    "fonte": "Folha Mercado",
-    "publicado": "21/09 17:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de uma safra recorde no Brasil pode contribuir para a estabilidade ou queda nos preços de commodities agrícolas. Se a produção de alimentos básicos continuar a perder espaço para a soja, pode haver um impacto indireto na inflação ao consumidor, caso a oferta desses itens essenciais seja limitada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790028059.8345451,
-    "titulo": "Deputados querem suspender imposto de exportação do petróleo",
-    "titulo_original": "Deputados querem suspender imposto de exportação do petróleo - Agência eixos",
-    "fonte": "Google News Commodities",
-    "publicado": "21/09 17:53",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de suspender o imposto de exportação do petróleo por parte de deputados indica uma discussão sobre a política tributária do setor. Se aprovada, essa medida poderia impactar a arrecadação fiscal e a competitividade das exportações brasileiras de petróleo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790028064.787358,
-    "titulo": "Os efeitos da validação da moratória da soja pelo STF",
-    "titulo_original": "Os efeitos da validação da moratória da soja pelo STF - Migalhas",
-    "fonte": "Google News Commodities",
-    "publicado": "21/09 16:39",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A validação da moratória da soja pelo STF pode ter implicações significativas para o setor agrícola e para a política ambiental relacionada ao desmatamento. Os efeitos dessa decisão precisarão ser monitorados para entender seu impacto prático.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790028070.0020294,
-    "titulo": "China acelera investimentos em IA enquanto economia desacelera",
-    "titulo_original": "China acelera investimentos em IA enquanto economia desacelera",
-    "fonte": "Folha Mercado",
-    "publicado": "21/09 17:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento dos investimentos chineses em IA, mesmo em um cenário de desaceleração econômica, sugere uma priorização estratégica do setor. A disputa tecnológica entre EUA e China em IA pode ter implicações futuras na dinâmica global de mercados e cadeias de suprimentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790028076.9477947,
-    "titulo": "Bolsas de NY têm forte alta com recuo do petróleo e avanço de ações ligadas à IA",
-    "titulo_original": "Bolsas de NY têm forte alta com recuo do petróleo e avanço de ações ligadas à IA",
-    "fonte": "Valor Economico",
-    "publicado": "21/09 17:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O recuo nos preços do petróleo e a valorização de ações de IA sinalizam um otimismo renovado no mercado financeiro americano. Se a tendência de queda do petróleo se mantiver, pode haver um alívio na pressão inflacionária, favorecendo um cenário mais estável para os juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790034095.6041403,
-    "titulo": "Plataforma diz que custo de vida cresce mais para quem ganha acima dos R$ 100 mil por mês",
-    "titulo_original": "Plataforma diz que custo de vida cresce mais para quem ganha acima dos R$ 100 mil por mês",
-    "fonte": "Folha Mercado",
-    "publicado": "21/09 19:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A pesquisa aponta uma inflação segmentada para rendas mais altas, contrastando com o IPCA. Se essa tendência se confirmar em outros estudos ou dados oficiais, pode indicar pressões inflacionárias específicas em determinados segmentos da economia, mas o impacto macro ainda é incerto.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1790076689.5180008,
     "titulo": "Copom vê atividade econômica mais fraca sob efeito de juros altos e queda da inflação, mostra ata",
     "titulo_original": "Copom vê atividade econômica mais fraca sob efeito de juros altos e queda da inflação, mostra ata",
@@ -895,6 +565,81 @@
     ],
     "origem": "externa",
     "leitura_critica": "A desaceleração da atividade econômica e o corte de empregos na Austrália podem levar o RBA a uma postura mais cautelosa em relação a novos aumentos de juros. Contudo, a pressão inflacionária vinda dos custos de energia pode complicar essa decisão. Se o RBA optar por um aumento de juros, isso pode reforçar a tendência de aperto monetário global; se mantiver a taxa, pode sinalizar uma pausa ou fim do ciclo de alta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790163054.7451854,
+    "titulo": "Selic cai, mas a pergunta que fica é: o que vem depois?, por Vanessa Onzi - Portal do Cooperativismo Financeiro",
+    "titulo_original": "Selic cai, mas a pergunta que fica é: o que vem depois?, por Vanessa Onzi - Portal do Cooperativismo Financeiro",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda da Selic já ocorreu, e o foco agora se volta para a comunicação do Banco Central sobre o futuro. Se o Copom sinalizar um ritmo de cortes mais acelerado, isso pode impulsionar a atividade econômica; se mantiver um tom mais cauteloso, o mercado pode interpretar como um sinal de que os riscos inflacionários ainda são relevantes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790163060.193571,
+    "titulo": "Dolarizar ficou mais barato: veja a conta que faz o dólar ganhar do CDI",
+    "titulo_original": "Dolarizar ficou mais barato: veja a conta que faz o dólar ganhar do CDI - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise sugere que o dólar está se valorizando em relação ao CDI, o que pode ser um indicativo de busca por segurança ou de expectativas de juros mais altos no exterior. Se essa tendência se mantiver, pode haver um fluxo de capital para ativos dolarizados, impactando o mercado doméstico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790163065.8110287,
+    "titulo": "Agenda do dia: Dados de atividade nos EUA são destaque",
+    "titulo_original": "Agenda do dia: Dados de atividade nos EUA são destaque",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 07:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Dados de atividade econômica nos EUA podem influenciar as expectativas sobre a política monetária do Federal Reserve, impactando o cenário global. No Brasil, o IPC-S e a Pnad Contínua fornecerão indicações sobre a inflação e o mercado de trabalho, cruciais para as próximas decisões do Banco Central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790163071.126762,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "23/09 03:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Os dados de PMI da Zona do Euro e dos EUA serão cruciais para avaliar a força da atividade econômica global e suas implicações para as decisões futuras dos bancos centrais. Se os dados vierem fracos, pode haver uma precificação de cortes de juros mais cedo; se vierem fortes, a pressão inflacionária pode persistir, mantendo os juros elevados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790163076.5101402,
+    "titulo": "PMI da Zona do Euro salta com serviços em alta, pressões de preços mantêm alta de juros do BCE em jogo em outubro",
+    "titulo_original": "Eurozone PMI jumps as services surge, price pressures keep ECB October rate hike in play",
+    "fonte": "ForexLive",
+    "publicado": "23/09 05:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte desempenho do PMI da Zona do Euro sugere uma recuperação da atividade econômica, mas a persistência das pressões inflacionárias pode levar o BCE a considerar novas altas de juros. Se os dados de inflação futuros vierem mais altos, o BCE pode ter que endurecer ainda mais a política monetária, impactando o crescimento.",
     "is_stocks": false
   }
 ]
