@@ -910,5 +910,133 @@
     "origem": "domestica",
     "leitura_critica": "A análise do Goldman Sachs sobre o comportamento do dólar em período eleitoral sugere que a incerteza política pode ser um fator de volatilidade para a moeda. Se o cenário eleitoral se mostrar mais instável, isso pode levar a uma maior demanda por dólar como ativo de refúgio; o contrário pode ocorrer se houver clareza e estabilidade política.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790195444.8173048,
+    "titulo": "TCU cobra análise sobre impactos antes de eventual caducidade da Enel SP",
+    "titulo_original": "TCU cobra análise sobre impactos antes de eventual caducidade da Enel SP",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 17:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A exigência de estudos prévios sobre os impactos tarifários e operacionais pode indicar uma postura mais cautelosa do TCU em relação a intervenções em concessões. Se a Aneel prosseguir com a análise de caducidade sem os estudos completos, isso pode gerar questionamentos legais futuros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790195449.706107,
+    "titulo": "Economistas esperam que El Niño aumente inflação em 0,5 ponto no Brasil em 2027, mostra BC",
+    "titulo_original": "Economistas esperam que El Niño aumente inflação em 0,5 ponto no Brasil em 2027, mostra BC",
+    "fonte": "Folha Mercado",
+    "publicado": "23/09 12:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de aumento da inflação em 2027 devido ao El Niño sugere que o fenômeno climático pode ter um impacto relevante na estabilidade de preços. Se o El Niño se manifestar com intensidade, o Banco Central pode precisar ajustar sua política monetária para conter pressões inflacionárias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790195454.9184155,
+    "titulo": "Quando o corte de juros não convence o mercado",
+    "titulo_original": "Quando o corte de juros não convence o mercado - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 16:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A falta de convicção do mercado em relação a um corte de juros pode indicar que as expectativas de inflação ou de risco permanecem elevadas. Se o mercado continuar cético, isso pode limitar o impacto positivo do corte de juros na atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790195459.8005068,
+    "titulo": "Ameaça de Trump às exportações de diesel alarma mercado no Brasil",
+    "titulo_original": "Ameaça de Trump às exportações de diesel alarma mercado no Brasil",
+    "fonte": "Folha Mercado",
+    "publicado": "23/09 17:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Uma restrição nas exportações de diesel dos EUA pode levar a um aumento nos preços internacionais do combustível, impactando o custo de importação para o Brasil. Se a ameaça se concretizar, o mercado brasileiro pode precisar buscar alternativas de fornecimento, potencialmente com custos mais elevados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790195465.8822083,
+    "titulo": "Declínio de produção do pré-sal precisa ser compensado, diz presidente da Petrobras",
+    "titulo_original": "Declínio de produção do pré-sal precisa ser compensado, diz presidente da Petrobras",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 16:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da presidente da Petrobras sinaliza a necessidade de investimentos em novas fronteiras exploratórias para garantir a produção futura. Se as descobertas na Bacia da Foz do Amazonas se confirmarem como relevantes, isso pode impulsionar a produção da companhia a longo prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790195465.8836877,
+    "titulo": "Projeto de gás na Colômbia deve aparecer na curva de produção a partir de 2031, diz Petrobras",
+    "titulo_original": "Projeto de gás na Colômbia deve aparecer na curva de produção a partir de 2031, diz Petrobras",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 16:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A previsão de início de produção do projeto de gás na Colômbia em 2031 indica um planejamento de longo prazo para a Petrobras. Se a licença ambiental for obtida, o projeto pode contribuir para a diversificação da matriz energética e para a receita da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790195465.8850417,
+    "titulo": "Ibovespa firma queda sob pressão juros e exterior; Petrobras (PETR4) amortece o tombo",
+    "titulo_original": "Ibovespa firma queda sob pressão juros e exterior; Petrobras (PETR4) amortece o tombo - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "23/09 16:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A pressão de juros e do cenário externo sobre o Ibovespa sugere um ambiente de aversão ao risco. Se a Petrobras continuar a amortecer as quedas, isso pode indicar força relativa da empresa em relação ao índice geral.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790195465.886408,
+    "titulo": "Suzano (SUZB3): Fundo do ciclo ficou para trás, diz BofA; veja potencial",
+    "titulo_original": "Suzano (SUZB3): Fundo do ciclo ficou para trás, diz BofA; veja potencial",
+    "fonte": "Money Times",
+    "publicado": "23/09 12:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A visão do BofA sobre a superação do pior ciclo da celulose, aliada ao aumento de preços pela Suzano, sugere um cenário positivo para a empresa. Se a demanda por celulose continuar a crescer, isso pode sustentar a valorização das ações da Suzano.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790195465.8878016,
+    "titulo": "Fechamento (23/09) | Cautela externa repercute no Ibovespa, que cai 0,86%; dólar sobe 1,28%",
+    "titulo_original": "Fechamento (23/09) | Cautela externa repercute no Ibovespa, que cai 0,86%; dólar sobe 1,28% - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "23/09 16:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do Ibovespa e a alta do dólar indicam um cenário de aversão ao risco global impactando o mercado brasileiro. Se a cautela externa persistir, isso pode manter a pressão sobre o índice e a moeda local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790195465.8891702,
+    "titulo": "Petrobras garante importação de 650 milhões de litros de diesel para outubro",
+    "titulo_original": "Petrobras garante importação de 650 milhões de litros de diesel para outubro - G1",
+    "fonte": "Google News Acoes",
+    "publicado": "23/09 12:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A garantia de importação de diesel pela Petrobras visa suprir a demanda interna e evitar desabastecimento. Se a demanda por diesel se mantiver alta, essa importação pode ajudar a estabilizar os preços no mercado doméstico.",
+    "is_stocks": true
   }
 ]
