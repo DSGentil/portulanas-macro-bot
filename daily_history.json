@@ -820,5 +820,105 @@
     "origem": "domestica",
     "leitura_critica": "A entrada líquida de capital estrangeiro em ações demonstra um fluxo positivo para o mercado brasileiro de renda variável. Se essa tendência de aportes se mantiver, pode sustentar a valorização do Ibovespa e indicar um apetite renovado por ativos brasileiros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790181949.968329,
+    "titulo": "Queda do petróleo muda o jogo para a Selic? - Canal Rural",
+    "titulo_original": "Queda do petróleo muda o jogo para a Selic? - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 10:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A relação entre o preço do petróleo e a taxa Selic é um ponto de atenção para a política monetária brasileira. Se a queda do petróleo se consolidar e impactar a inflação, isso poderia abrir espaço para o Banco Central considerar cortes na Selic. Caso o petróleo volte a subir, a pressão inflacionária pode justificar a manutenção da taxa atual.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790181954.416844,
+    "titulo": "Selic poderá cair mais? - Jovem Pan",
+    "titulo_original": "Selic poderá cair mais? - Jovem Pan",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 09:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A possibilidade de a Selic cair mais está diretamente ligada às expectativas de inflação e ao cenário econômico futuro. Se os indicadores de inflação continuarem a ceder, o Banco Central pode ter margem para novos cortes. Caso surjam pressões inflacionárias inesperadas, a trajetória de queda da Selic pode ser interrompida.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790181958.8102467,
+    "titulo": "Tesouro Direto hoje: Taxas estendem altas e acompanham Treasuries no exterior; confira a cotação nesta quarta-feira (23)",
+    "titulo_original": "Tesouro Direto hoje: Taxas estendem altas e acompanham Treasuries no exterior; confira a cotação nesta quarta-feira (23)",
+    "fonte": "Money Times",
+    "publicado": "23/09 11:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta nas taxas do Tesouro Direto, influenciada pelos Treasuries e pelo petróleo no exterior, sugere um ambiente de maior aversão ao risco ou expectativas de juros mais altos. Se os juros dos Treasuries continuarem a subir, isso pode pressionar as taxas de juros domésticas. Caso a pesquisa eleitoral indique um cenário de maior estabilidade política, as taxas podem recuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790181963.2189903,
+    "titulo": "US September S&P Global flash services PMI 58.7 vs 56.0 expected",
+    "titulo_original": "US September S&P Global flash services PMI 58.7 vs 56.0 expected",
+    "fonte": "ForexLive",
+    "publicado": "23/09 10:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte desempenho do PMI de serviços e manufatura dos EUA sugere uma atividade econômica robusta, o que pode reforçar a postura hawkish do Federal Reserve. Se a inflação de custos continuar a subir, isso pode levar a uma manutenção das taxas de juros elevadas por mais tempo. Caso os dados de inflação futuros mostrem desaceleração, o Fed poderia reconsiderar sua política.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790181968.688169,
+    "titulo": "Bolsas da Europa recuam com avanço do petróleo e dos juros dos títulos soberanos",
+    "titulo_original": "Bolsas da Europa recuam com avanço do petróleo e dos juros dos títulos soberanos",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 13:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta dos juros dos títulos soberanos e do petróleo na Europa, combinada com dados de atividade fortes, sugere um cenário de pressões inflacionárias persistentes. Se essa tendência se mantiver, os bancos centrais europeus podem ser forçados a manter uma postura mais restritiva em suas políticas monetárias. Caso os dados de inflação futuros mostrem arrefecimento, o mercado pode antecipar um ciclo de cortes de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790181968.6900659,
+    "titulo": "Governo manterá trava no Orçamento para compensar receitas menores e subvenção ao diesel",
+    "titulo_original": "Governo manterá trava no Orçamento para compensar receitas menores e subvenção ao diesel",
+    "fonte": "Folha Mercado",
+    "publicado": "23/09 12:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do governo de manter o congelamento de recursos no Orçamento para cobrir despesas com subvenção ao diesel e receitas menores indica uma gestão fiscal cautelosa. Se a frustração de receitas persistir, o governo pode precisar de medidas adicionais para equilibrar as contas públicas. Caso as receitas se recuperem mais do que o esperado, o espaço fiscal pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790181968.6919947,
+    "titulo": "Estoques de petróleo dos EUA contrariam estimativa e sobem na semana passada",
+    "titulo_original": "Estoques de petróleo dos EUA contrariam estimativa e sobem na semana passada",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 13:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento inesperado nos estoques de petróleo dos EUA pode indicar uma demanda menor do que o previsto ou uma produção mais forte, o que tende a pressionar os preços do petróleo para baixo. Se os preços do petróleo caírem, isso pode aliviar pressões inflacionárias globais. Caso a demanda se recupere e os estoques voltem a cair, os preços podem subir novamente.",
+    "is_stocks": true
   }
 ]
