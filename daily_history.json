@@ -1,63 +1,5 @@
 [
   {
-    "_timestamp": 1790090141.7987487,
-    "titulo": "Sem dar pistas sobre próximos passos, BC diz que manterá 'restrição adequada' na política de juros para conter inflação - G1",
-    "titulo_original": "Sem dar pistas sobre próximos passos, BC diz que manterá 'restrição adequada' na política de juros para conter inflação - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/09 08:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do Banco Central sobre manter 'restrição adequada' na política de juros sugere que o foco principal continua sendo o controle da inflação. Se os dados de inflação futuros vierem acima do esperado, o BC pode manter essa postura restritiva por mais tempo; caso contrário, pode haver espaço para flexibilização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790090145.7703543,
-    "titulo": "Confiança do Consumidor da UE (flash) para Setembro -16,5 vs -16,0 estimado",
-    "titulo_original": "EU Consumer Confidence (flash) for September -16.5 vs -16.0 estimate",
-    "fonte": "ForexLive",
-    "publicado": "22/09 11:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda na confiança do consumidor em setembro sugere uma estagnação na melhora do sentimento, o que pode pesar sobre os gastos das famílias. Se essa tendência se mantiver, pode ser um fator de atenção para o crescimento econômico europeu e as decisões futuras do Banco Central Europeu.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790090149.9032574,
-    "titulo": "Pesquisa Filadélfia não manufatureira -22,0 vs -10,6 anterior",
-    "titulo_original": "Philly Fed nonmanufacturing survey -22.0 vs -10.6 prior",
-    "fonte": "ForexLive",
-    "publicado": "22/09 09:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A pesquisa Filadélfia não manufatureira apresenta dados mistos, com uma queda na atividade geral e novos pedidos, mas um forte aumento no emprego em tempo integral e uma nova alta nos preços. Se o aumento do emprego se sustentar, pode indicar resiliência na demanda por mão de obra, mas a pressão inflacionária nos preços pagos e recebidos é um ponto de atenção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790090154.939964,
-    "titulo": "Arrecadação com IR na fonte sobre dividendos soma R$ 4,03 bi de janeiro a agosto, diz Receita",
-    "titulo_original": "Arrecadação com IR na fonte sobre dividendos soma R$ 4,03 bi de janeiro a agosto, diz Receita",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 11:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre a arrecadação de IR sobre dividendos e a revisão das projeções fiscais, indicando que a meta anual não será atingida. A redução na expectativa de arrecadação pode impactar o resultado fiscal do governo, e a proposta de redução das projeções para 2026 sugere uma reavaliação da política tributária.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1790095599.0596132,
     "titulo": "Magnitude do ciclo de calibração da Selic será ajustada conforme evolução do cenário, diz ata do Copom",
     "titulo_original": "Magnitude do ciclo de calibração da Selic será ajustada conforme evolução do cenário, diz ata do Copom - Valor Econômico",
@@ -1037,6 +979,80 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A garantia de importação de diesel pela Petrobras visa suprir a demanda interna e evitar desabastecimento. Se a demanda por diesel se mantiver alta, essa importação pode ajudar a estabilizar os preços no mercado doméstico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790200849.4217036,
+    "titulo": "Selic e inflação preocupam mais o investidor do que as eleições de 2026 - Estadão",
+    "titulo_original": "Selic e inflação preocupam mais o investidor do que as eleições de 2026 - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 15:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O foco do investidor na Selic e na inflação indica que as decisões de política monetária e os dados de preços têm um peso maior na tomada de decisão do que o cenário eleitoral. Se os índices de inflação continuarem altos, a pressão por juros elevados pode se manter.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790200853.748353,
+    "titulo": "Ata do Copom atribui corte da Selic à desaceleração da economia - Sindifiscalms",
+    "titulo_original": "Ata do Copom atribui corte da Selic à desaceleração da economia - Sindifiscalms",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 13:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A justificativa do Copom para o corte da Selic na desaceleração da economia sugere que o Banco Central está reagindo aos indicadores de atividade. Se a desaceleração se intensificar, o ciclo de cortes pode continuar; se a atividade mostrar sinais de recuperação, o ritmo pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790200858.0842304,
+    "titulo": "Juros futuros têm forte alta com pressão de ambiente externo",
+    "titulo_original": "Juros futuros têm forte alta com pressão de ambiente externo",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 17:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A pressão externa sobre os juros futuros brasileiros indica uma correlação direta com o movimento global de renda fixa. Se os juros nos EUA continuarem a subir, é provável que os juros futuros no Brasil sigam a mesma tendência, aumentando o custo de captação para empresas e governo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790200862.5459282,
+    "titulo": "Resumo das notícias do mercado americano: PMI de serviços forte nos EUA leva a grande queda nos títulos",
+    "titulo_original": "investingLive Americas market news wrap: Strong US services PMI leads to a big breakdown in bonds",
+    "fonte": "ForexLive",
+    "publicado": "23/09 16:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte PMI de serviços nos EUA reforça a expectativa de que o Federal Reserve possa precisar de mais altas de juros para controlar a inflação, como indicado por Barr. Se a inflação persistir elevada, o cenário de juros altos pode se estender, impactando negativamente os ativos de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790200867.5839086,
+    "titulo": "Bolsas de NY caem com avanço do petróleo e juros longos na máxima desde 2004",
+    "titulo_original": "Bolsas de NY caem com avanço do petróleo e juros longos na máxima desde 2004",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 18:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A combinação de petróleo em alta e juros longos em níveis elevados sugere um cenário de inflação persistente, o que pode levar o Federal Reserve a manter uma postura mais restritiva. Se os próximos dados de inflação vierem mais baixos, o mercado pode reavaliar as expectativas de juros.",
     "is_stocks": true
   }
 ]
