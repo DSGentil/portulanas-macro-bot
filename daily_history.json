@@ -641,5 +641,90 @@
     "origem": "externa",
     "leitura_critica": "O forte desempenho do PMI da Zona do Euro sugere uma recuperação da atividade econômica, mas a persistência das pressões inflacionárias pode levar o BCE a considerar novas altas de juros. Se os dados de inflação futuros vierem mais altos, o BCE pode ter que endurecer ainda mais a política monetária, impactando o crescimento.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1790169441.0726414,
+    "titulo": "Dólar hoje avança ante real com pesquisa eleitoral e falas do BC no radar - infomoney.com.br",
+    "titulo_original": "Dólar hoje avança ante real com pesquisa eleitoral e falas do BC no radar - infomoney.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 09:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar, atrelada a pesquisas eleitorais e à expectativa de pronunciamentos do Banco Central, indica um cenário de incerteza e potencial volatilidade. Se as falas do BC sinalizarem um aperto na política monetária ou fiscal, isso pode reforçar a tendência de alta da moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790169446.0092976,
+    "titulo": "Número de trabalhadores ligados a sindicatos fica estável em 2025, mostra IBGE",
+    "titulo_original": "Número de trabalhadores ligados a sindicatos fica estável em 2025, mostra IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 10:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade no número de sindicalizados sugere que as mudanças recentes na legislação trabalhista não alteraram drasticamente a adesão a sindicatos. Se houver uma queda significativa nos próximos anos, pode indicar uma perda de relevância das entidades para os trabalhadores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790169450.9312725,
+    "titulo": "Como a inteligência artificial já impacta o mercado de trabalho no país. E o emprego dos mais jovens",
+    "titulo_original": "Como a inteligência artificial já impacta o mercado de trabalho no país. E o emprego dos mais jovens",
+    "fonte": "InvestNews",
+    "publicado": "23/09 06:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O avanço da inteligência artificial no mercado de trabalho pode levar a uma reestruturação de funções e exigências de novas habilidades. Se a adoção da tecnologia se acelerar, pode haver um impacto mais amplo no emprego, especialmente para trabalhadores com menor qualificação ou em funções mais automatizáveis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790169455.899716,
+    "titulo": "Dólar à vista inicia em sessão alta com piora da percepção de risco no exterior",
+    "titulo_original": "Dólar à vista inicia em sessão alta com piora da percepção de risco no exterior",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 09:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar, impulsionada pela aversão ao risco externa e preocupações fiscais internas, sugere um ambiente de maior volatilidade. Se as pesquisas eleitorais continuarem a indicar incerteza fiscal, o dólar pode manter a tendência de valorização, impactando a inflação de importados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790169461.7542853,
+    "titulo": "Sessão europeia: Brent retoma US$ 100 com alta do dólar, aumento dos rendimentos e queda das ações",
+    "titulo_original": "investingLive European session wrap: Brent crude retakes $100 as dollar rises, yields climb and stocks slip",
+    "fonte": "ForexLive",
+    "publicado": "23/09 08:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo acima de US$ 100, em conjunto com o aumento dos rendimentos e a valorização do dólar, sugere um cenário de aversão ao risco global. Se as tensões geopolíticas se intensificarem, o petróleo pode continuar sua trajetória de alta, pressionando a inflação globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790169461.7554924,
+    "titulo": "Se eleito, Zema quer privatizar Petrobras e BB no 1º semestre - Valor Econômico",
+    "titulo_original": "Se eleito, Zema quer privatizar Petrobras e BB no 1º semestre - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "23/09 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A intenção de privatizar Petrobras e Banco do Brasil, caso Zema seja eleito, representa uma potencial mudança na política de empresas estatais. Se concretizada, essa decisão poderia impactar a estrutura fiscal e a gestão de ativos do governo, dependendo das condições e do momento da privatização.",
+    "is_stocks": true
   }
 ]
