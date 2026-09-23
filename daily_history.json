@@ -726,5 +726,99 @@
     "origem": "domestica",
     "leitura_critica": "A intenção de privatizar Petrobras e Banco do Brasil, caso Zema seja eleito, representa uma potencial mudança na política de empresas estatais. Se concretizada, essa decisão poderia impactar a estrutura fiscal e a gestão de ativos do governo, dependendo das condições e do momento da privatização.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790176568.493646,
+    "titulo": "Taxa dos prefixados cai ao menor nível em duas semanas após ata do Copom",
+    "titulo_original": "Taxa dos prefixados cai ao menor nível em duas semanas após ata do Copom - InvestNews",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 11:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas taxas dos prefixados sugere que o mercado interpretou a ata do Copom como um sinal de estabilidade ou possível desaceleração no ritmo de aperto monetário. Se essa percepção se confirmar nas próximas decisões, pode haver um incentivo para a busca por ativos de maior prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790176573.5272994,
+    "titulo": "Não espero grandes solavancos no real devido ao estágio da nossa política monetária, afirma Nilton David",
+    "titulo_original": "Não espero grandes solavancos no real devido ao estágio da nossa política monetária, afirma Nilton David",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 11:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do diretor do BC sugere confiança na estabilidade do real, mesmo diante de um cenário externo de juros mais altos nos EUA. Se a política monetária brasileira continuar a ser vista como um fator de atratividade, isso pode ajudar a mitigar pressões de desvalorização da moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790176578.4469733,
+    "titulo": "ETFs no Brasil já atraem quase 1 milhão de pessoas físicas",
+    "titulo_original": "ETFs no Brasil já atraem quase 1 milhão de pessoas físicas",
+    "fonte": "InvestNews",
+    "publicado": "23/09 10:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da adesão a ETFs, especialmente os de renda fixa, reflete o interesse dos investidores em produtos que se beneficiam de juros elevados. Se os juros permanecerem altos por mais tempo, essa tendência de alocação em renda fixa via ETFs pode se sustentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790176583.2943647,
+    "titulo": "Intenção de consumo cai 0,3% em setembro e atinge menor patamar em seis meses, diz CNC",
+    "titulo_original": "Intenção de consumo cai 0,3% em setembro e atinge menor patamar em seis meses, diz CNC",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 11:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda na intenção de consumo, ligada a incertezas no mercado de trabalho, sugere um possível arrefecimento da atividade econômica. Se essa tendência se mantiver, pode pressionar o governo a adotar medidas de estímulo ou o Banco Central a rever sua política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790176588.897004,
+    "titulo": "Ibovespa Futuro: bolsa reage a pesquisa Lula à frente de Bolsonaro",
+    "titulo_original": "Ibovespa Futuro: bolsa reage a pesquisa Lula à frente de Bolsonaro - ISTOÉ DINHEIRO",
+    "fonte": "Google News Acoes",
+    "publicado": "23/09 09:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A reação da bolsa a pesquisas eleitorais demonstra a sensibilidade do mercado a mudanças políticas que podem impactar a direção econômica do país. Se a tendência de avanço de um candidato se consolidar, o mercado pode precificar cenários de políticas fiscais e regulatórias distintas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790176588.8977914,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa começa dia em queda, mas vira para alta com PETR4",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa começa dia em queda, mas vira para alta com PETR4 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "23/09 10:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A reversão do Ibovespa para alta, influenciada pelo desempenho da PETR4, demonstra a importância de ações específicas no movimento do índice. A performance de commodities como petróleo pode ter impacto direto na composição do índice e no sentimento geral do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790176588.8985376,
+    "titulo": "Estrangeiros aportam R$ 405,2 milhões em ações da B3 em 21 de setembro",
+    "titulo_original": "Estrangeiros aportam R$ 405,2 milhões em ações da B3 em 21 de setembro",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 11:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada líquida de capital estrangeiro em ações demonstra um fluxo positivo para o mercado brasileiro de renda variável. Se essa tendência de aportes se mantiver, pode sustentar a valorização do Ibovespa e indicar um apetite renovado por ativos brasileiros.",
+    "is_stocks": true
   }
 ]
