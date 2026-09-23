@@ -1,85 +1,5 @@
 [
   {
-    "_timestamp": 1790076689.5180008,
-    "titulo": "Copom vê atividade econômica mais fraca sob efeito de juros altos e queda da inflação, mostra ata",
-    "titulo_original": "Copom vê atividade econômica mais fraca sob efeito de juros altos e queda da inflação, mostra ata",
-    "fonte": "Folha Mercado",
-    "publicado": "22/09 08:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A percepção do Copom sobre a desaceleração da atividade econômica, em decorrência dos juros elevados e da inflação em queda, reforça a expectativa de que o Banco Central possa manter uma postura cautelosa em suas próximas decisões de política monetária. Se os dados de inflação continuarem a ceder, o espaço para discussões sobre flexibilização da política de juros pode se ampliar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790076693.9943447,
-    "titulo": "Banco Central revela primeira empresa cripto em processo de autorização no Brasil",
-    "titulo_original": "Banco Central revela primeira empresa cripto em processo de autorização no Brasil",
-    "fonte": "InvestNews",
-    "publicado": "22/09 07:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A inclusão da Onda Finance como a primeira empresa cripto em processo de autorização pelo Banco Central sinaliza um avanço na regulamentação do setor no Brasil. Se o processo de autorização for concluído com sucesso e sem maiores entraves, isso pode abrir caminho para outras empresas do ramo buscarem o mesmo status regulatório.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790076698.5182064,
-    "titulo": "O aumento na dívida pública explica o patamar atual da Selic? - Valor Econômico",
-    "titulo_original": "O aumento na dívida pública explica o patamar atual da Selic? - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/09 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A relação entre o aumento da dívida pública e o patamar da Selic é um ponto de debate importante para a política monetária. Se a dívida pública continuar a crescer de forma acelerada, o Banco Central pode se sentir pressionado a manter os juros em patamares mais elevados para controlar a inflação e a demanda por crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790076702.95671,
-    "titulo": "A aposta eleitoral no Bolsa Família pode não valer a pena",
-    "titulo_original": "A aposta eleitoral no Bolsa Família pode não valer a pena",
-    "fonte": "Folha Mercado",
-    "publicado": "22/09 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O reajuste do Bolsa Família, anunciado próximo ao primeiro turno eleitoral, sugere uma estratégia de campanha com potencial impacto no eleitorado. Se o programa conseguir mobilizar votos de forma significativa, isso pode influenciar o resultado das eleições; caso contrário, o investimento pode não trazer o retorno esperado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790076708.4015262,
-    "titulo": "DeepSeek e líderes de IA farão apresentação ao Conselho de Segurança da ONU sobre riscos da tecnologia",
-    "titulo_original": "DeepSeek e líderes de IA farão apresentação ao Conselho de Segurança da ONU sobre riscos da tecnologia",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 08:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A apresentação sobre os riscos da IA ao Conselho de Segurança da ONU demonstra a crescente preocupação global com o desenvolvimento dessa tecnologia. Se as discussões levarem a acordos internacionais sobre regulamentação, isso pode impactar o ritmo de desenvolvimento e a aplicação da IA em diversos setores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790076708.4027696,
-    "titulo": "Rendimentos do Tesouro de 10 anos permanecem perto de 5%, o que desencadearia o próximo rompimento para cima?",
-    "titulo_original": "10-year Treasury yields stay near 5%, what would trigger the next break higher?",
-    "fonte": "ForexLive",
-    "publicado": "22/09 05:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A permanência dos rendimentos do Tesouro de 10 anos perto de 5% indica uma tensão subjacente nos mercados, mesmo com a recuperação das bolsas impulsionada pela IA. Se os rendimentos continuarem a subir, isso pode pressionar o mercado de ações novamente; por outro lado, se o otimismo com IA e a queda nos rendimentos persistirem, o rali pode se sustentar.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1790090141.7987487,
     "titulo": "Sem dar pistas sobre próximos passos, BC diz que manterá 'restrição adequada' na política de juros para conter inflação - G1",
     "titulo_original": "Sem dar pistas sobre próximos passos, BC diz que manterá 'restrição adequada' na política de juros para conter inflação - G1",
@@ -919,6 +839,76 @@
     ],
     "origem": "externa",
     "leitura_critica": "O aumento inesperado nos estoques de petróleo dos EUA pode indicar uma demanda menor do que o previsto ou uma produção mais forte, o que tende a pressionar os preços do petróleo para baixo. Se os preços do petróleo caírem, isso pode aliviar pressões inflacionárias globais. Caso a demanda se recupere e os estoques voltem a cair, os preços podem subir novamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790188248.4495766,
+    "titulo": "Fluxo cambial registra saída de US$ 1,091 bilhão entre 14 e 18 de setembro",
+    "titulo_original": "Fluxo cambial registra saída de US$ 1,091 bilhão entre 14 e 18 de setembro",
+    "fonte": "Valor Economico",
+    "publicado": "23/09 14:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída líquida de capital estrangeiro no período, especialmente pela conta financeira, indica uma pressão sobre o câmbio. Se essa tendência de saída se intensificar, pode haver maior volatilidade no mercado de câmbio e menor liquidez para investimentos no país; o acompanhamento do saldo mensal e anual é crucial para entender a sustentabilidade dessa movimentação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790188252.351366,
+    "titulo": "Dólar hoje avança ante real e bate R$ 5,15 com pesquisa eleitoral e Fed no radar",
+    "titulo_original": "Dólar hoje avança ante real e bate R$ 5,15 com pesquisa eleitoral e Fed no radar - infomoney.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 11:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A valorização do dólar frente ao real, associada a pesquisas eleitorais e ao Fed, sugere que o cenário externo (decisões de juros do Fed) e o doméstico (incertezas eleitorais) estão moldando o câmbio. Se o Fed sinalizar manutenção de juros altos, isso pode sustentar um dólar mais forte no curto prazo; se as pesquisas eleitorais indicarem maior instabilidade, o real pode continuar sob pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790188256.199084,
+    "titulo": "Tesouro dos EUA vende US$ 70 bilhões em notas de 5 anos com rendimento de 5,033%",
+    "titulo_original": "US treasury sells $70 billion of 5 year notes at a high yield of 5.033%",
+    "fonte": "ForexLive",
+    "publicado": "23/09 14:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O leilão de títulos do Tesouro dos EUA com um rendimento significativamente acima do esperado sugere que os compradores exigiram uma remuneração maior para absorver a oferta. Se essa tendência de rendimentos mais altos se mantiver, isso pode pressionar para cima os custos de empréstimo globais e influenciar as decisões de política monetária de outros bancos centrais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790188260.143972,
+    "titulo": "Rendimentos dos EUA sobem para máximas de vários anos com o crescimento da 'parede de preocupações'",
+    "titulo_original": "US yields move to multi year highs as the wall of worry is growing.",
+    "fonte": "ForexLive",
+    "publicado": "23/09 14:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento dos rendimentos dos títulos americanos, impulsionado por dados de atividade econômica robusta e preocupações inflacionárias, sugere que o Federal Reserve pode manter uma postura mais restritiva em relação aos juros. Se a inflação continuar a surpreender para cima, isso pode levar a taxas de juros mais altas por mais tempo, impactando o custo do crédito globalmente e o apetite por risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790188264.6142106,
+    "titulo": "Eleições 2026: que esperar do dólar durante o período, segundo o Goldman Sachs",
+    "titulo_original": "Eleições 2026: que esperar do dólar durante o período, segundo o Goldman Sachs - infomoney.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/09 14:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise do Goldman Sachs sobre o comportamento do dólar em período eleitoral sugere que a incerteza política pode ser um fator de volatilidade para a moeda. Se o cenário eleitoral se mostrar mais instável, isso pode levar a uma maior demanda por dólar como ativo de refúgio; o contrário pode ocorrer se houver clareza e estabilidade política.",
     "is_stocks": true
   }
 ]
