@@ -1,90 +1,5 @@
 [
   {
-    "_timestamp": 1790169441.0726414,
-    "titulo": "Dólar hoje avança ante real com pesquisa eleitoral e falas do BC no radar - infomoney.com.br",
-    "titulo_original": "Dólar hoje avança ante real com pesquisa eleitoral e falas do BC no radar - infomoney.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/09 09:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do dólar, atrelada a pesquisas eleitorais e à expectativa de pronunciamentos do Banco Central, indica um cenário de incerteza e potencial volatilidade. Se as falas do BC sinalizarem um aperto na política monetária ou fiscal, isso pode reforçar a tendência de alta da moeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790169446.0092976,
-    "titulo": "Número de trabalhadores ligados a sindicatos fica estável em 2025, mostra IBGE",
-    "titulo_original": "Número de trabalhadores ligados a sindicatos fica estável em 2025, mostra IBGE",
-    "fonte": "Valor Economico",
-    "publicado": "23/09 10:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade no número de sindicalizados sugere que as mudanças recentes na legislação trabalhista não alteraram drasticamente a adesão a sindicatos. Se houver uma queda significativa nos próximos anos, pode indicar uma perda de relevância das entidades para os trabalhadores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790169450.9312725,
-    "titulo": "Como a inteligência artificial já impacta o mercado de trabalho no país. E o emprego dos mais jovens",
-    "titulo_original": "Como a inteligência artificial já impacta o mercado de trabalho no país. E o emprego dos mais jovens",
-    "fonte": "InvestNews",
-    "publicado": "23/09 06:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O avanço da inteligência artificial no mercado de trabalho pode levar a uma reestruturação de funções e exigências de novas habilidades. Se a adoção da tecnologia se acelerar, pode haver um impacto mais amplo no emprego, especialmente para trabalhadores com menor qualificação ou em funções mais automatizáveis.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790169455.899716,
-    "titulo": "Dólar à vista inicia em sessão alta com piora da percepção de risco no exterior",
-    "titulo_original": "Dólar à vista inicia em sessão alta com piora da percepção de risco no exterior",
-    "fonte": "Valor Economico",
-    "publicado": "23/09 09:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar, impulsionada pela aversão ao risco externa e preocupações fiscais internas, sugere um ambiente de maior volatilidade. Se as pesquisas eleitorais continuarem a indicar incerteza fiscal, o dólar pode manter a tendência de valorização, impactando a inflação de importados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790169461.7542853,
-    "titulo": "Sessão europeia: Brent retoma US$ 100 com alta do dólar, aumento dos rendimentos e queda das ações",
-    "titulo_original": "investingLive European session wrap: Brent crude retakes $100 as dollar rises, yields climb and stocks slip",
-    "fonte": "ForexLive",
-    "publicado": "23/09 08:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo acima de US$ 100, em conjunto com o aumento dos rendimentos e a valorização do dólar, sugere um cenário de aversão ao risco global. Se as tensões geopolíticas se intensificarem, o petróleo pode continuar sua trajetória de alta, pressionando a inflação globalmente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790169461.7554924,
-    "titulo": "Se eleito, Zema quer privatizar Petrobras e BB no 1º semestre - Valor Econômico",
-    "titulo_original": "Se eleito, Zema quer privatizar Petrobras e BB no 1º semestre - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "23/09 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intenção de privatizar Petrobras e Banco do Brasil, caso Zema seja eleito, representa uma potencial mudança na política de empresas estatais. Se concretizada, essa decisão poderia impactar a estrutura fiscal e a gestão de ativos do governo, dependendo das condições e do momento da privatização.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1790176568.493646,
     "titulo": "Taxa dos prefixados cai ao menor nível em duas semanas após ata do Copom",
     "titulo_original": "Taxa dos prefixados cai ao menor nível em duas semanas após ata do Copom - InvestNews",
@@ -1108,6 +1023,72 @@
     ],
     "origem": "externa",
     "leitura_critica": "A alta nos rendimentos dos Treasuries, impulsionada por fatores como o preço do petróleo, tem pressionado o mercado de ações em Wall Street. Se os rendimentos continuarem a subir, isso pode levar a uma maior migração de capital da renda variável para a renda fixa, impactando negativamente os índices acionários.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790281844.6586266,
+    "titulo": "Selic cai para 13,75%, mas alívio no bolso pode ser passageiro - Monitor Mercantil",
+    "titulo_original": "Selic cai para 13,75%, mas alívio no bolso pode ser passageiro - Monitor Mercantil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 13:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de corte na Selic é um fato concreto que afeta diretamente a política monetária brasileira. Se a inflação apresentar sinais de aceleração nas próximas divulgações, o Banco Central pode pausar ou reverter o ciclo de cortes, impactando a expectativa de alívio financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790281848.4241142,
+    "titulo": "Galípolo se diz preocupado com crédito predatório e defende medidas contra endividamento",
+    "titulo_original": "Galípolo se diz preocupado com crédito predatório e defende medidas contra endividamento",
+    "fonte": "Folha Mercado",
+    "publicado": "24/09 12:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A preocupação do presidente do Banco Central com o crédito predatório indica uma atenção do órgão regulador para o risco de endividamento excessivo. Se o BC implementar medidas concretas para restringir ou fiscalizar a oferta de crédito, isso poderá ter impacto na atividade econômica e no consumo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790281852.2381668,
+    "titulo": "Selic a 13,75% e caindo: onde deixar a reserva de emergência agora - suno.com.br",
+    "titulo_original": "Selic a 13,75% e caindo: onde deixar a reserva de emergência agora - suno.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 12:07",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Este é um artigo de orientação de investimentos focado na reserva de emergência, diretamente influenciado pela taxa Selic. A relevância está na sugestão de alocação de recursos em um cenário de juros em queda, mas não apresenta um fato novo ou decisão macroeconômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790281855.9853687,
+    "titulo": "Dólar encerra com pressão de juros nos EUA, Brent acima de US$ 100 e cenário eleitoral no radar - ADVFN",
+    "titulo_original": "Dólar encerra com pressão de juros nos EUA, Brent acima de US$ 100 e cenário eleitoral no radar - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 17:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A notícia consolida três fatores de atenção: a pressão sobre o dólar devido aos juros nos EUA, a alta do petróleo Brent acima de US$ 100, e o cenário eleitoral no Brasil. Se os juros nos EUA continuarem em patamares elevados, isso pode manter o dólar forte. A alta do petróleo impacta a inflação, e o cenário eleitoral pode gerar volatilidade no mercado doméstico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790281860.3600771,
+    "titulo": "Confira 13 ações que pagaram dividendos acima da Selic, de 13,75%, no último ano - Bora Investir",
+    "titulo_original": "Confira 13 ações que pagaram dividendos acima da Selic, de 13,75%, no último ano - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 15:09",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Esta notícia é um compilado de ações que apresentaram bom desempenho em dividendos em relação à Selic. A relevância está na comparação com a taxa de juros, mas não traz um fato novo ou decisão macroeconômica.",
     "is_stocks": true
   }
 ]
