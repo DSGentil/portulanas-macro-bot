@@ -1,319 +1,5 @@
 [
   {
-    "_timestamp": 1790101852.9291928,
-    "titulo": "Tesouro IPCA+ 2032 sustenta 7,63% de juro real, mas alta perde força nos papéis longos",
-    "titulo_original": "Tesouro IPCA+ 2032 sustenta 7,63% de juro real, mas alta perde força nos papéis longos",
-    "fonte": "InvestNews",
-    "publicado": "22/09 14:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A sustentação do juro real no Tesouro IPCA+ 2032 indica uma expectativa de inflação controlada no longo prazo. Se a inflação implícita continuar a cair, isso pode abrir espaço para uma política monetária mais branda no futuro; caso contrário, pode indicar persistência inflacionária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790101858.2105262,
-    "titulo": "Dólar sobe e volta a operar acima de R$ 5,13 nesta terça-feira",
-    "titulo_original": "Dólar sobe e volta a operar acima de R$ 5,13 nesta terça-feira - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/09 10:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do dólar acima de R$ 5,13 pode refletir aversão ao risco ou fatores domésticos. Se a tendência de alta se mantiver, pode pressionar a inflação importada; caso contrário, pode ser um movimento pontual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790101863.4847102,
-    "titulo": "Ministério da Fazenda reduz para 2% projeção para alta do PIB em 2026",
-    "titulo_original": "Ministério da Fazenda reduz para 2% projeção para alta do PIB em 2026",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 14:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução na projeção do PIB pelo Ministério da Fazenda indica uma perspectiva de desaceleração econômica. Se os fatores que levaram à revisão se mantiverem, o crescimento pode ser menor que o esperado; caso contrário, uma recuperação pode impulsionar o PIB para cima.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790101869.0138857,
-    "titulo": "Ouro tem leve queda pressionado pelo avanço dos Treasuries e do dólar",
-    "titulo_original": "Ouro tem leve queda pressionado pelo avanço dos Treasuries e do dólar",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 15:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A pressão sobre o ouro reflete a expectativa de juros mais altos por mais tempo nos EUA. Se os dados de inflação futuros mostrarem arrefecimento, o ouro pode encontrar suporte; caso contrário, a tendência de queda pode se acentuar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790101874.9546912,
-    "titulo": "Ibovespa, dólar e juros futuros rondam estabilidade, com petróleo e cenário eleitoral no radar",
-    "titulo_original": "Ibovespa, dólar e juros futuros rondam estabilidade, com petróleo e cenário eleitoral no radar",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 15:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A estabilidade nos mercados brasileiros, com atenção ao petróleo e cenário eleitoral, sugere um período de espera por definições. Se o preço do petróleo se estabilizar e o cenário eleitoral se clarear, os mercados podem reagir positivamente; caso contrário, a volatilidade pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790109046.3908687,
-    "titulo": "Arrecadação com petróleo e gás cresce 471% de janeiro a agosto",
-    "titulo_original": "Arrecadação com petróleo e gás cresce 471% de janeiro a agosto - Poder360",
-    "fonte": "Google News Commodities",
-    "publicado": "22/09 12:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O expressivo aumento na arrecadação com petróleo e gás pode ter um impacto positivo nas contas públicas brasileiras. Se este crescimento se mantiver, pode aliviar a pressão sobre o orçamento e potencialmente reduzir a necessidade de cortes em outras áreas ou aumento de impostos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790109050.8087504,
-    "titulo": "Notícias do mercado das Américas: EUA e Irã se reúnem na ONU",
-    "titulo_original": "investingLive Americas market news wrap: US and Iran officials meet at UN",
-    "fonte": "ForexLive",
-    "publicado": "22/09 17:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A reunião entre EUA e Irã pode reduzir a aversão ao risco global, beneficiando ativos de maior volatilidade. A comparação do ciclo de alta de juros com um ajuste de meio de ciclo pelo Fed pode indicar que o banco central americano vê o fim do aperto monetário mais próximo, o que seria positivo para o mercado de renda variável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790109055.0503888,
-    "titulo": "Taxas dos DIs recuam com petróleo em baixa e eleição no radar",
-    "titulo_original": "Taxas dos DIs recuam com petróleo em baixa e eleição no radar - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "22/09 17:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda nas taxas dos DIs sugere que o mercado precifica um cenário de juros menores, possivelmente impulsionado pela redução do preço do petróleo e pela incerteza eleitoral que pode levar a políticas mais expansionistas. Se a eleição resultar em um cenário de maior estabilidade fiscal, as taxas podem continuar a cair.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790109059.315087,
-    "titulo": "Irã apresenta condições para reabrir Ormuz a representante dos EUA, diz mídia estatal",
-    "titulo_original": "Irã apresenta condições para reabrir Ormuz a representante dos EUA, diz mídia estatal",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 17:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A apresentação de condições pelo Irã para reabrir o Estreito de Ormuz indica uma tentativa de negociação diplomática, o que pode reduzir a tensão geopolítica e o risco de interrupção do fornecimento de petróleo. Se um acordo for alcançado, isso pode levar a uma queda nos preços do petróleo e a um aumento do apetite por risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790109064.8477082,
-    "titulo": "Receita reduz estimativa de arrecadação com dividendos para R$ 10,5 bi",
-    "titulo_original": "Receita reduz estimativa de arrecadação com dividendos a R$ 10,5 bi",
-    "fonte": "Folha Mercado",
-    "publicado": "22/09 16:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão para baixo na estimativa de arrecadação com dividendos pode indicar uma menor efetividade da nova tributação ou um cenário econômico menos favorável do que o projetado. Se a arrecadação continuar abaixo do esperado, o governo pode precisar buscar outras fontes de receita ou rever suas metas fiscais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790109064.8491514,
-    "titulo": "Nasdaq renova recorde e Dow recua pressionado pelo setor financeiro",
-    "titulo_original": "Nasdaq renova recorde e Dow recua pressionado pelo setor financeiro",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 17:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A divergência entre o desempenho do Nasdaq e do Dow Jones sugere que o otimismo em tecnologia pode estar descolado de setores mais tradicionais como o financeiro. Se as tensões geopolíticas com o Irã diminuírem significativamente, o setor financeiro pode se recuperar, impulsionando o Dow Jones; caso contrário, a pressão pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790109064.8505363,
-    "titulo": "Parceria entre Euronet e Fireblocks viabiliza cartões financiados por stablecoins",
-    "titulo_original": "Parceria entre Euronet e Fireblocks viabiliza cartões financiados por stablecoins",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 16:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A expansão de cartões financiados por stablecoins indica uma crescente adoção de criptomoedas no sistema de pagamentos tradicional. Se essa tendência se consolidar, pode aumentar a liquidez e a usabilidade das stablecoins, potencialmente impactando o mercado financeiro de forma mais ampla.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790109064.8518715,
-    "titulo": "Itaú BBA corta preço desta ação agro de olho nos juros; ainda vale comprar?",
-    "titulo_original": "Itaú BBA corta preço dessa ação agro de olho nos juros; ainda vale comprar?",
-    "fonte": "Money Times",
-    "publicado": "22/09 11:52",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução do preço-alvo, apesar da recomendação de 'outperform', sugere que o cenário de juros elevados pode pesar sobre as margens da empresa. Se os juros caírem mais rapidamente do que o esperado, a ação da Camil pode se beneficiar, mas o risco de um ciclo de juros prolongado ainda é um fator a ser considerado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790114451.1456285,
-    "titulo": "Copom opta por ata neutra e indica continuação do ciclo de cortes da Selic, avalia Monte Bravo - Valor Econômico",
-    "titulo_original": "Copom opta por ata neutra e indica continuação do ciclo de cortes da Selic, avalia Monte Bravo - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/09 16:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ata neutra do Copom sugere que o Banco Central manterá a trajetória de cortes da Selic, mas sem sinalizar aceleração ou desaceleração abrupta. Se os próximos dados de inflação vierem em linha com as expectativas, a continuidade dos cortes pode ser confirmada; caso contrário, o mercado pode rever suas projeções.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790114455.0594192,
-    "titulo": "Leilão de gás da PPSA terá oferta de 1,1 milhão de m³/dia para 5 setores industriais, diz ministério",
-    "titulo_original": "Leilão de gás da PPSA terá oferta de 1,1 milhão de m³/dia para 5 setores industriais, diz ministério",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 18:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A portaria do Ministério de Minas e Energia estabelecendo as diretrizes para o leilão de gás da União representa uma decisão regulatória concreta com potencial impacto na indústria. Se o leilão for bem-sucedido e atrair empresas dos setores definidos, isso pode impulsionar a produção e o consumo de gás natural no país, com efeitos na cadeia produtiva.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790114458.9090233,
-    "titulo": "Ata do Copom sinaliza mais um corte de juros? Veja o que diz o mercado - UOL Economia",
-    "titulo_original": "Ata do Copom sinaliza mais um corte de juros? Veja o que diz o mercado - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/09 18:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A interpretação do mercado sobre a ata do Copom em relação a novos cortes de juros é crucial para a precificação de ativos. Se a ata confirmar a expectativa de mais cortes, isso pode sustentar o otimismo no mercado de renda variável; caso contrário, pode gerar volatilidade e revisão de posições.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790114462.8350594,
-    "titulo": "Senadores do PT defendem continuidade da queda dos juros após ata do Copom - PT no Senado",
-    "titulo_original": "Senadores do PT defendem continuidade da queda dos juros após ata do Copom - PT no Senado",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/09 16:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A defesa da continuidade da queda dos juros por senadores do PT, após a ata do Copom, reflete uma pressão política por uma política monetária mais expansionista. Se essa pressão se intensificar ou se alinhar com a visão do Banco Central, pode haver uma aceleração nos cortes da Selic; caso contrário, a decisão final caberá ao Copom.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790114466.891819,
-    "titulo": "Maior leilão de petróleo da história da ANP será último no Rio - Valor Econômico",
-    "titulo_original": "Maior leilão de petróleo da história da ANP será último no Rio - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "22/09 14:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A realização do maior leilão de petróleo da história da ANP, mesmo que seja o último no Rio de Janeiro, representa uma decisão regulatória significativa para o setor de energia. Se o leilão atrair um número expressivo de empresas e gerar arrematações relevantes, isso pode impulsionar a exploração e produção de petróleo no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790119846.8379617,
-    "titulo": "Tarifa aérea média no Brasil fechou a R$ 776,87 em agosto, com ganho real de 14,5%",
-    "titulo_original": "Tarifa aérea média no Brasil fechou a\nR$ 776,87 em agosto, com ganho real de 14,5%",
-    "fonte": "Valor Economico",
-    "publicado": "22/09 19:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento real da tarifa aérea, mesmo com a correção pelo IPCA, sugere uma pressão inflacionária no setor de transporte, possivelmente ligada ao custo do QAV. Se essa tendência se mantiver, pode impactar o índice geral de inflação. A relação entre o preço do QAV e o IPCA é um ponto a ser observado para entender a dinâmica inflacionária no setor de serviços e transporte.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790119851.813289,
-    "titulo": "Há desaceleração no crédito no Brasil?",
-    "titulo_original": "Há desaceleração no crédito no Brasil?",
-    "fonte": "Folha Mercado",
-    "publicado": "22/09 20:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ata do Copom sugere uma desaceleração geral no crédito bancário, o que pode ser um reflexo do aperto monetário. No entanto, a expansão em créditos direcionados indica que alguns setores específicos continuam a ter acesso a financiamento. Se a desaceleração do crédito se generalizar, pode indicar uma menor atividade econômica futura; se os créditos direcionados continuarem fortes, podem sustentar setores específicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790119856.711733,
-    "titulo": "Lula: seguiremos pesquisando o potencial de novas reservas de petróleo, sem renunciar à agenda ambiental",
-    "titulo_original": "Lula: seguiremos pesquisando o potencial de novas reservas de petróleo, sem renunciar à agenda ambiental - Agência eixos",
-    "fonte": "Google News Commodities",
-    "publicado": "22/09 19:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do presidente sobre a exploração de petróleo e a agenda ambiental indica uma diretriz de política energética. Se houver decisões concretas de exploração ou regulamentação ambiental que impactem o setor, isso poderá ter relevância. No momento, a notícia é uma declaração de intenção que não configura uma decisão fiscal ou regulatória concreta, nem afeta diretamente os outros canais macroeconômicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790119861.6930013,
-    "titulo": "Soja recupera perdas em Chicago e preços resistem no Brasil; safra nova segue acima de R$ 150",
-    "titulo_original": "Soja recupera perdas em Chicago e preços resistem no Brasil; safra nova segue acima de R$ 150 - noticiasagricolas.com.br",
-    "fonte": "Google News Commodities",
-    "publicado": "22/09 17:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A recuperação dos preços da soja em Chicago e a resistência dos preços no Brasil indicam um movimento de mercado para a commodity. Embora não afete diretamente os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital, a soja é um importante item de exportação e pode ter impacto na balança comercial e, indiretamente, na atividade econômica. A notícia em si não faz essa conexão explícita, focando apenas no movimento de preços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790119866.6208744,
-    "titulo": "Austrália flash PMI: crescimento desacelera para o menor nível do 3º trimestre, com contração nas fábricas e cortes de empregos",
-    "titulo_original": "Australia flash PMI: growth slows to Q3 low as factories contract and firms cut jobs",
-    "fonte": "ForexLive",
-    "publicado": "22/09 20:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração da atividade econômica e o corte de empregos na Austrália podem levar o RBA a uma postura mais cautelosa em relação a novos aumentos de juros. Contudo, a pressão inflacionária vinda dos custos de energia pode complicar essa decisão. Se o RBA optar por um aumento de juros, isso pode reforçar a tendência de aperto monetário global; se mantiver a taxa, pode sinalizar uma pausa ou fim do ciclo de alta.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1790163054.7451854,
     "titulo": "Selic cai, mas a pergunta que fica é: o que vem depois?, por Vanessa Onzi - Portal do Cooperativismo Financeiro",
     "titulo_original": "Selic cai, mas a pergunta que fica é: o que vem depois?, por Vanessa Onzi - Portal do Cooperativismo Financeiro",
@@ -1006,5 +692,88 @@
     "origem": "externa",
     "leitura_critica": "A troca de acusações entre EUA e Irã na ONU, combinada com negociações nos bastidores, sinaliza um cenário de alta tensão geopolítica com potencial para desdobramentos incertos. Se as negociações não avançarem e a retórica se intensificar, o risco de escalada do conflito pode aumentar; caso contrário, a busca por diálogo pode amenizar as tensões.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1790249575.69891,
+    "titulo": "Subvenção do diesel vai caducar neste sábado e agentes do setor ainda não sabem o que virá no lugar",
+    "titulo_original": "Subvenção do diesel vai caducar neste sábado e agentes do setor ainda não sabem o que virá no lugar",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 08:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A caducidade da MP sem uma substituição definida pode gerar incertezas no setor de combustíveis. Se o governo não apresentar uma nova medida, o preço do diesel pode sofrer um impacto direto; a ausência de um plano alternativo pode pressionar a inflação de forma mais ampla.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790249579.622205,
+    "titulo": "Copom alerta que medidas fiscais do governo podem pressionar juros e inflação",
+    "titulo_original": "Copom alerta que medidas fiscais do governo podem pressionar juros e inflação - Vero Notícias",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O alerta do Copom sobre as medidas fiscais sugere um risco de aumento da inflação e, consequentemente, de manutenção ou elevação dos juros. Se as políticas fiscais não forem bem calibradas, o Banco Central pode ter que intervir com juros mais altos para conter a inflação; uma gestão fiscal prudente seria crucial para evitar esse cenário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790249583.4576178,
+    "titulo": "Máquinas velhas e juros altos travam a produtividade da indústria brasileira e desafiam próximo governo",
+    "titulo_original": "Máquinas velhas e juros altos travam a produtividade da indústria brasileira e desafiam próximo governo",
+    "fonte": "InvestNews",
+    "publicado": "24/09 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A baixa produtividade da indústria brasileira, atribuída a máquinas antigas e juros altos, limita o crescimento econômico e a competitividade. Se os juros permanecerem elevados, o investimento em modernização de equipamentos pode ser desestimulado; uma política que reduza os juros e incentive a inovação seria crucial para reverter esse quadro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790249589.8682165,
+    "titulo": "Bitcoin cai para US$ 83,3 mil com rendimentos e petróleo em alta assustando o risco",
+    "titulo_original": "Bitcoin drops to $83.3k as yields, oil spike spook risk",
+    "fonte": "Investing.com",
+    "publicado": "24/09 06:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do Bitcoin sugere uma aversão ao risco no mercado. Se os rendimentos e o petróleo continuarem em alta, o Bitcoin pode enfrentar mais pressão vendedora; no entanto, uma reversão nesses ativos pode impulsionar uma recuperação da criptomoeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790249594.6609693,
+    "titulo": "Ibovespa e real recuam com aversão a risco global",
+    "titulo_original": "Ibovespa e real recuam com aversão a risco global - valor.globo.com",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A aversão ao risco global está impactando negativamente o Ibovespa e o real, sugerindo um fluxo de capital para ativos mais seguros. Se o cenário de incerteza internacional se mantiver, a pressão sobre os ativos brasileiros tende a continuar; uma melhora no sentimento global poderia impulsionar uma recuperação desses ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790249594.6623154,
+    "titulo": "Carf mantém créditos por despesas da Petrobras com contratos ‘ship or pay’",
+    "titulo_original": "Carf mantém créditos por despesas da Petrobras com contratos ‘ship or pay’ - jota.info",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 06:42",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Carf sobre os créditos da Petrobras pode ter um impacto financeiro para a empresa. Se a decisão for vista como um precedente, outras empresas com contratos similares podem buscar benefícios fiscais; a clareza regulatória sobre esses contratos é fundamental para evitar futuras disputas.",
+    "is_stocks": true
   }
 ]
