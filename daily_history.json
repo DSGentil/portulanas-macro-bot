@@ -775,5 +775,124 @@
     "origem": "domestica",
     "leitura_critica": "A decisão do Carf sobre os créditos da Petrobras pode ter um impacto financeiro para a empresa. Se a decisão for vista como um precedente, outras empresas com contratos similares podem buscar benefícios fiscais; a clareza regulatória sobre esses contratos é fundamental para evitar futuras disputas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790255746.5543342,
+    "titulo": "Governo Lula reduz para R$ 16,1 bilhões congelamento de recursos no Orçamento",
+    "titulo_original": "Governo Lula reduz para R$ 16,1 bilhões congelamento de recursos no Orçamento",
+    "fonte": "Folha Mercado",
+    "publicado": "24/09 10:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução do congelamento de recursos no orçamento indica uma gestão fiscal que busca acomodar novas despesas ou lidar com receitas menores. Se essa medida for acompanhada por cortes em outras áreas ou por aumento de arrecadação, o impacto fiscal pode ser neutro; caso contrário, pode haver pressão sobre a dívida pública.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790255751.869753,
+    "titulo": "BC passa a divulgar indicadores de reajustes salariais com base em negociações coletivas",
+    "titulo_original": "BC passa a divulgar indicadores de reajustes salariais com base em negociações coletivas",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 09:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa do Banco Central de divulgar indicadores de reajustes salariais pode fornecer insights mais precisos sobre a pressão inflacionária vinda do mercado de trabalho. Se os dados mostrarem reajustes salariais acima da inflação, isso pode indicar um potencial de demanda mais forte e, consequentemente, maior pressão inflacionária; se os reajustes acompanharem a inflação, o impacto pode ser mais neutro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790255757.4872572,
+    "titulo": "BC e BCE iniciam fase de avaliação para interligar Pix ao sistema de pagamentos instantâneos europeu",
+    "titulo_original": "BC e BCE iniciam fase de avaliação para interligar Pix ao sistema de pagamentos instantâneos europeu",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 09:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A interligação entre o Pix e o TIPS representa um avanço na infraestrutura de pagamentos globais, facilitando transações internacionais. Se a avaliação for bem-sucedida, isso pode reduzir custos e tempo de transações entre Brasil e Europa; caso contrário, a conectividade pode ser adiada ou cancelada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790255762.8605335,
+    "titulo": "Dólar sobe ante real sob influência do exterior e antes de nova pesquisa",
+    "titulo_original": "Dólar sobe ante real sob influência do exterior e antes de nova pesquisa - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 09:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A valorização do dólar frente ao real é atribuída a fatores externos e à antecipação de novas pesquisas. Se o cenário externo se deteriorar, o dólar pode continuar sua trajetória de alta; se as pesquisas indicarem melhora na economia brasileira, o real pode se fortalecer.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790255792.5984967,
+    "titulo": "Fundo da IG4 lança OPA por ações da Braskem e detalha contraprestação",
+    "titulo_original": "Fundo da IG4 lança OPA por ações da Braskem e detalha contraprestação - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 07:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento de uma OPA por um fundo sobre ações da Braskem indica um movimento corporativo específico. Se a oferta for aceita pelos acionistas, isso pode levar a uma mudança no controle da empresa; caso contrário, a situação acionária permanecerá como está.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790255792.6000392,
+    "titulo": "Agenda de empresas: Afya e Yduqs assinam acordo de fusão; Vale retoma operação na Mina de Fábrica",
+    "titulo_original": "Agenda de empresas: Afya e Yduqs assinam acordo de fusão; Vale retoma operação na Mina de Fábrica - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 08:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa sobre eventos corporativos específicos, como a fusão entre Afya e Yduqs e a retomada operacional da Vale. Se a fusão entre Afya e Yduqs for concluída, isso pode gerar sinergias e impactar o setor educacional; a retomada da mina pela Vale pode afetar sua produção e resultados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790255792.6014485,
+    "titulo": "Sessão europeia da investingLive: preços mais altos do petróleo, rendimentos de títulos continuam a pressionar os mercados",
+    "titulo_original": "investingLive European session wrap: Higher oil prices, bond yields continue to pressure markets",
+    "fonte": "ForexLive",
+    "publicado": "24/09 08:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo e dos rendimentos de títulos representa um cenário de pressão para os mercados globais. Se os preços do petróleo continuarem a subir, isso pode alimentar a inflação e levar a juros mais altos; se os rendimentos dos títulos permanecerem elevados, isso pode desestimular investimentos em ativos de maior risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790255792.6028378,
+    "titulo": "Vale (VALE3) inicia retomada parcial de operação na Mina de Fábrica, em Ouro Preto",
+    "titulo_original": "Vale (VALE3) inicia retomada parcial de operação na Mina de Fábrica, em Ouro Preto - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 09:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A retomada parcial da operação na Mina de Fábrica pela Vale indica um avanço na normalização de suas atividades. Se a retomada for completa e sem intercorrências, isso pode impactar positivamente a produção e os resultados da empresa; caso contrário, pode haver atrasos ou novas paralisações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790255792.6042378,
+    "titulo": "Yduqs, Afya, Braskem, Oncoclínicas, Vale, Iguatemi e mais ações para acompanhar hoje",
+    "titulo_original": "Yduqs, Afya, Braskem, Oncoclínicas, Vale, Iguatemi e mais ações para acompanhar hoje - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 08:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia apresenta um resumo de ações de interesse para o dia, sem detalhar os motivos específicos de cada movimento. A relevância para o investidor dependerá das notícias e eventos que afetarem individualmente cada uma dessas empresas ao longo do dia.",
+    "is_stocks": true
   }
 ]
