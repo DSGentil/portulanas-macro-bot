@@ -1,80 +1,5 @@
 [
   {
-    "_timestamp": 1790163054.7451854,
-    "titulo": "Selic cai, mas a pergunta que fica é: o que vem depois?, por Vanessa Onzi - Portal do Cooperativismo Financeiro",
-    "titulo_original": "Selic cai, mas a pergunta que fica é: o que vem depois?, por Vanessa Onzi - Portal do Cooperativismo Financeiro",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/09 08:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda da Selic já ocorreu, e o foco agora se volta para a comunicação do Banco Central sobre o futuro. Se o Copom sinalizar um ritmo de cortes mais acelerado, isso pode impulsionar a atividade econômica; se mantiver um tom mais cauteloso, o mercado pode interpretar como um sinal de que os riscos inflacionários ainda são relevantes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790163060.193571,
-    "titulo": "Dolarizar ficou mais barato: veja a conta que faz o dólar ganhar do CDI",
-    "titulo_original": "Dolarizar ficou mais barato: veja a conta que faz o dólar ganhar do CDI - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/09 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise sugere que o dólar está se valorizando em relação ao CDI, o que pode ser um indicativo de busca por segurança ou de expectativas de juros mais altos no exterior. Se essa tendência se mantiver, pode haver um fluxo de capital para ativos dolarizados, impactando o mercado doméstico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790163065.8110287,
-    "titulo": "Agenda do dia: Dados de atividade nos EUA são destaque",
-    "titulo_original": "Agenda do dia: Dados de atividade nos EUA são destaque",
-    "fonte": "Valor Economico",
-    "publicado": "23/09 07:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Dados de atividade econômica nos EUA podem influenciar as expectativas sobre a política monetária do Federal Reserve, impactando o cenário global. No Brasil, o IPC-S e a Pnad Contínua fornecerão indicações sobre a inflação e o mercado de trabalho, cruciais para as próximas decisões do Banco Central.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790163071.126762,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "23/09 03:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os dados de PMI da Zona do Euro e dos EUA serão cruciais para avaliar a força da atividade econômica global e suas implicações para as decisões futuras dos bancos centrais. Se os dados vierem fracos, pode haver uma precificação de cortes de juros mais cedo; se vierem fortes, a pressão inflacionária pode persistir, mantendo os juros elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790163076.5101402,
-    "titulo": "PMI da Zona do Euro salta com serviços em alta, pressões de preços mantêm alta de juros do BCE em jogo em outubro",
-    "titulo_original": "Eurozone PMI jumps as services surge, price pressures keep ECB October rate hike in play",
-    "fonte": "ForexLive",
-    "publicado": "23/09 05:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O forte desempenho do PMI da Zona do Euro sugere uma recuperação da atividade econômica, mas a persistência das pressões inflacionárias pode levar o BCE a considerar novas altas de juros. Se os dados de inflação futuros vierem mais altos, o BCE pode ter que endurecer ainda mais a política monetária, impactando o crescimento.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1790169441.0726414,
     "titulo": "Dólar hoje avança ante real com pesquisa eleitoral e falas do BC no radar - infomoney.com.br",
     "titulo_original": "Dólar hoje avança ante real com pesquisa eleitoral e falas do BC no radar - infomoney.com.br",
@@ -1112,6 +1037,77 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A proximidade da estabilidade do Ibovespa, com múltiplos fatores em observação, indica um mercado cauteloso aguardando novos direcionamentos. Se o relatório do BC apresentar projeções mais pessimistas para o PIB ou se as contas públicas piorarem, isso pode pressionar o índice para baixo. Por outro lado, uma resolução positiva para o cenário do petróleo pode trazer algum alívio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790274646.3075776,
+    "titulo": "Governo deve manter subsídio de R$ 2,12 do diesel por mais 30 dias, diz ministro",
+    "titulo_original": "Governo deve manter subvenção de R$ 2,12 do diesel por mais 30 dias, diz ministro",
+    "fonte": "Folha Mercado",
+    "publicado": "24/09 11:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção do subsídio ao diesel por mais 30 dias, anunciada próximo a uma eleição, pode ter implicações fiscais e de arrecadação. Se a decisão for confirmada, o impacto no orçamento público precisará ser monitorado, especialmente em relação a possíveis pressões inflacionárias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790274650.4385974,
+    "titulo": "Governo reduz em R$ 1,9 bi contenção do Orçamento em 2026; confira",
+    "titulo_original": "Governo reduz em R$ 1,9 bi contenção do Orçamento em 2026; confira",
+    "fonte": "Money Times",
+    "publicado": "24/09 12:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na contenção do orçamento de 2026 sugere uma possível melhora na perspectiva de receitas ou uma estratégia para flexibilizar gastos. Se essa tendência de menor contenção se confirmar nos próximos relatórios, pode indicar um cenário fiscal mais favorável ou, alternativamente, um aumento de despesas planejadas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790274654.5820322,
+    "titulo": "Se eleição indicar ajuste fiscal, Inter vê dólar abaixo de R$ 5 e alívio nos juros de mercado - Valor Econômico",
+    "titulo_original": "Se eleição indicar ajuste fiscal, Inter vê dólar abaixo de R$ 5 e alívio nos juros de mercado - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 12:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de um ajuste fiscal após a eleição é vista como um fator positivo para o câmbio e os juros de mercado. Se o resultado eleitoral realmente sinalizar um compromisso com a disciplina fiscal, o dólar pode se desvalorizar e os juros de mercado tender a cair, o que seria favorável para a economia brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790274658.7087953,
+    "titulo": "Tesouro dos EUA vende US$ 44 bilhões em notas de 7 anos com rendimento alto de 5,085%",
+    "titulo_original": "US treasury sells $44 billion of 7 year notes at a high yield of 5.085%",
+    "fonte": "ForexLive",
+    "publicado": "24/09 14:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A venda de notas do Tesouro dos EUA com um rendimento mais alto que o esperado e um 'bid to cover' abaixo da média pode indicar uma demanda menos robusta por títulos americanos. Se essa tendência se mantiver, pode haver pressão para que os rendimentos dos Treasuries continuem elevados, impactando o custo de capital global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790274663.4306207,
+    "titulo": "Wall Street recua sob pressão dos Treasuries",
+    "titulo_original": "Wall Street recua sob pressão dos Treasuries",
+    "fonte": "Money Times",
+    "publicado": "24/09 12:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nos rendimentos dos Treasuries, impulsionada por fatores como o preço do petróleo, tem pressionado o mercado de ações em Wall Street. Se os rendimentos continuarem a subir, isso pode levar a uma maior migração de capital da renda variável para a renda fixa, impactando negativamente os índices acionários.",
     "is_stocks": true
   }
 ]
