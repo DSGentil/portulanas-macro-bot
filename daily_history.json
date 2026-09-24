@@ -1,99 +1,5 @@
 [
   {
-    "_timestamp": 1790176568.493646,
-    "titulo": "Taxa dos prefixados cai ao menor nível em duas semanas após ata do Copom",
-    "titulo_original": "Taxa dos prefixados cai ao menor nível em duas semanas após ata do Copom - InvestNews",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/09 11:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas dos prefixados sugere que o mercado interpretou a ata do Copom como um sinal de estabilidade ou possível desaceleração no ritmo de aperto monetário. Se essa percepção se confirmar nas próximas decisões, pode haver um incentivo para a busca por ativos de maior prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790176573.5272994,
-    "titulo": "Não espero grandes solavancos no real devido ao estágio da nossa política monetária, afirma Nilton David",
-    "titulo_original": "Não espero grandes solavancos no real devido ao estágio da nossa política monetária, afirma Nilton David",
-    "fonte": "Valor Economico",
-    "publicado": "23/09 11:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do diretor do BC sugere confiança na estabilidade do real, mesmo diante de um cenário externo de juros mais altos nos EUA. Se a política monetária brasileira continuar a ser vista como um fator de atratividade, isso pode ajudar a mitigar pressões de desvalorização da moeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790176578.4469733,
-    "titulo": "ETFs no Brasil já atraem quase 1 milhão de pessoas físicas",
-    "titulo_original": "ETFs no Brasil já atraem quase 1 milhão de pessoas físicas",
-    "fonte": "InvestNews",
-    "publicado": "23/09 10:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da adesão a ETFs, especialmente os de renda fixa, reflete o interesse dos investidores em produtos que se beneficiam de juros elevados. Se os juros permanecerem altos por mais tempo, essa tendência de alocação em renda fixa via ETFs pode se sustentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790176583.2943647,
-    "titulo": "Intenção de consumo cai 0,3% em setembro e atinge menor patamar em seis meses, diz CNC",
-    "titulo_original": "Intenção de consumo cai 0,3% em setembro e atinge menor patamar em seis meses, diz CNC",
-    "fonte": "Valor Economico",
-    "publicado": "23/09 11:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda na intenção de consumo, ligada a incertezas no mercado de trabalho, sugere um possível arrefecimento da atividade econômica. Se essa tendência se mantiver, pode pressionar o governo a adotar medidas de estímulo ou o Banco Central a rever sua política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790176588.897004,
-    "titulo": "Ibovespa Futuro: bolsa reage a pesquisa Lula à frente de Bolsonaro",
-    "titulo_original": "Ibovespa Futuro: bolsa reage a pesquisa Lula à frente de Bolsonaro - ISTOÉ DINHEIRO",
-    "fonte": "Google News Acoes",
-    "publicado": "23/09 09:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A reação da bolsa a pesquisas eleitorais demonstra a sensibilidade do mercado a mudanças políticas que podem impactar a direção econômica do país. Se a tendência de avanço de um candidato se consolidar, o mercado pode precificar cenários de políticas fiscais e regulatórias distintas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790176588.8977914,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa começa dia em queda, mas vira para alta com PETR4",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa começa dia em queda, mas vira para alta com PETR4 - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "23/09 10:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A reversão do Ibovespa para alta, influenciada pelo desempenho da PETR4, demonstra a importância de ações específicas no movimento do índice. A performance de commodities como petróleo pode ter impacto direto na composição do índice e no sentimento geral do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790176588.8985376,
-    "titulo": "Estrangeiros aportam R$ 405,2 milhões em ações da B3 em 21 de setembro",
-    "titulo_original": "Estrangeiros aportam R$ 405,2 milhões em ações da B3 em 21 de setembro",
-    "fonte": "Valor Economico",
-    "publicado": "23/09 11:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada líquida de capital estrangeiro em ações demonstra um fluxo positivo para o mercado brasileiro de renda variável. Se essa tendência de aportes se mantiver, pode sustentar a valorização do Ibovespa e indicar um apetite renovado por ativos brasileiros.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1790181949.968329,
     "titulo": "Queda do petróleo muda o jogo para a Selic? - Canal Rural",
     "titulo_original": "Queda do petróleo muda o jogo para a Selic? - Canal Rural",
@@ -1089,6 +995,132 @@
     ],
     "origem": "domestica",
     "leitura_critica": "Esta notícia é um compilado de ações que apresentaram bom desempenho em dividendos em relação à Selic. A relevância está na comparação com a taxa de juros, mas não traz um fato novo ou decisão macroeconômica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790287247.8931575,
+    "titulo": "CMN aperta regras de investimento em créditos judiciais e arbitrais por FIDC",
+    "titulo_original": "CMN aperta regras de investimento em créditos judiciais e arbitrais por FIDC",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 18:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do CMN visa mitigar riscos em estruturas financeiras complexas. Se a nova regulamentação for efetiva em aumentar a transparência, pode atrair mais capital para FIDCs com menor percepção de risco. Caso contrário, pode restringir o fluxo para esses ativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790287251.7133465,
+    "titulo": "Trump e Xi compram mais dois meses de trégua comercial, deixando tarifas e terras raras em limbo",
+    "titulo_original": "Trump and Xi buy two more months of trade truce, leaving tariffs and rare earths in limbo",
+    "fonte": "ForexLive",
+    "publicado": "24/09 17:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A extensão da trégua comercial oferece um alívio temporário, mas a incerteza sobre as tarifas e outros pontos sensíveis persiste até janeiro. Se as negociações posteriores não avançarem, o risco de novas tarifas e volatilidade no comércio global se intensificará.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790287255.5725994,
+    "titulo": "No encontro Trump e Xi Jinping, um item ficou fora do cardápio",
+    "titulo_original": "No encontro Trump e Xi Jinping, um item ficou fora do cardápio - NeoFeed",
+    "fonte": "Google News Geopolitica",
+    "publicado": "24/09 17:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A menção de um item fora do cardápio no encontro entre Trump e Xi Jinping sugere que as tensões comerciais ainda persistem. Se esse item não resolvido for crucial para a relação bilateral, pode haver novas fricções e impactos no comércio global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790287259.3462906,
+    "titulo": "Bitcoin opera estável Fed mais restritivo e entrada de recursos em ETFs",
+    "titulo_original": "Bitcoin opera estável Fed mais restritivo e entrada de recursos em ETFs - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 18:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A estabilidade do Bitcoin, em meio a um Fed mais restritivo, sugere que o ativo digital pode estar descolado das políticas monetárias tradicionais no curto prazo. A entrada de recursos em ETFs pode indicar um interesse renovado em criptoativos, mas a influência do Fed ainda é um fator a ser observado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790287264.5807288,
+    "titulo": "Ibovespa cede junto com exterior em dia de alta no Petróleo; dólar sobe",
+    "titulo_original": "Ibovespa cede junto com exterior em dia de alta no Petróleo; dólar sobe - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 15:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, em linha com o exterior e impulsionada pela alta do petróleo e do dólar, sugere um cenário de aversão ao risco. Se o preço do petróleo continuar a subir, pode pressionar a inflação e afetar o poder de compra, impactando o consumo doméstico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790287264.5825462,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com política monetária, eleições e exterior no radar",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai com política monetária, eleições e exterior no radar - infomoney.com.br",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 13:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa reflete a cautela dos investidores diante de múltiplos fatores de incerteza, incluindo a política monetária e o cenário eleitoral. Se as eleições resultarem em um cenário de maior instabilidade fiscal, isso pode intensificar a pressão sobre a bolsa e o dólar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790287264.584233,
+    "titulo": "investingLive Americas FX news wrap 24 Sept: USD and Treasury yields climb as Iran headlines lift stocks off their lows",
+    "titulo_original": "investingLive Americas FX news wrap 24 Sept: USD and Treasury yields climb as Iran headlines lift stocks off their lows",
+    "fonte": "ForexLive",
+    "publicado": "24/09 17:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do dólar e dos rendimentos dos títulos do Tesouro dos EUA, em meio a notícias sobre o Irã, indica um movimento de busca por segurança. Se as tensões no Oriente Médio se intensificarem, isso pode levar a uma maior valorização do dólar e a uma fuga de capitais de ativos de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790287264.5859084,
+    "titulo": "Ibovespa cai em movimento de aversão ao risco e de olho em preço do petróleo",
+    "titulo_original": "Ibovespa cai em movimento de aversão ao risco e de olho em preço do petróleo - VEJA",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 17:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, associada à aversão ao risco e à vigilância sobre o preço do petróleo, aponta para um sentimento de cautela nos mercados. Se o petróleo continuar a subir, isso pode intensificar a pressão sobre os índices de ações e aumentar a volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790287264.587605,
+    "titulo": "Ibovespa fecha em queda e dólar e juros futuros sobem com mau humor externo e eleição no Brasil no foco",
+    "titulo_original": "Ibovespa fecha em queda e dólar e juros futuros sobem com mau humor externo e eleição no Brasil no foco",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 17:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa e a alta do dólar e juros futuros, em um contexto de mau humor externo e atenção à eleição brasileira, indicam um cenário de maior percepção de risco. Se a incerteza eleitoral persistir ou se houver sinais de descontrole fiscal, isso pode manter a pressão sobre os juros e o câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790287264.589337,
+    "titulo": "A IA não está destruindo o mercado de trabalho — e por que não o fará",
+    "titulo_original": "A IA não está destruindo o mercado de trabalho — e por que não o fará",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 17:44",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A tese de que a IA não destruirá o mercado de trabalho, embora contraintuitiva para alguns, sugere um cenário de adaptação e novas oportunidades. Se essa visão se concretizar, pode haver um impacto positivo na produtividade e na evolução do emprego, mas a notícia não apresenta dados concretos que comprovem essa afirmação no presente.",
     "is_stocks": true
   }
 ]
