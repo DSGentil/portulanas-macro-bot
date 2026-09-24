@@ -1,105 +1,5 @@
 [
   {
-    "_timestamp": 1790181949.968329,
-    "titulo": "Queda do petróleo muda o jogo para a Selic? - Canal Rural",
-    "titulo_original": "Queda do petróleo muda o jogo para a Selic? - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/09 10:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A relação entre o preço do petróleo e a taxa Selic é um ponto de atenção para a política monetária brasileira. Se a queda do petróleo se consolidar e impactar a inflação, isso poderia abrir espaço para o Banco Central considerar cortes na Selic. Caso o petróleo volte a subir, a pressão inflacionária pode justificar a manutenção da taxa atual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790181954.416844,
-    "titulo": "Selic poderá cair mais? - Jovem Pan",
-    "titulo_original": "Selic poderá cair mais? - Jovem Pan",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/09 09:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A possibilidade de a Selic cair mais está diretamente ligada às expectativas de inflação e ao cenário econômico futuro. Se os indicadores de inflação continuarem a ceder, o Banco Central pode ter margem para novos cortes. Caso surjam pressões inflacionárias inesperadas, a trajetória de queda da Selic pode ser interrompida.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790181958.8102467,
-    "titulo": "Tesouro Direto hoje: Taxas estendem altas e acompanham Treasuries no exterior; confira a cotação nesta quarta-feira (23)",
-    "titulo_original": "Tesouro Direto hoje: Taxas estendem altas e acompanham Treasuries no exterior; confira a cotação nesta quarta-feira (23)",
-    "fonte": "Money Times",
-    "publicado": "23/09 11:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta nas taxas do Tesouro Direto, influenciada pelos Treasuries e pelo petróleo no exterior, sugere um ambiente de maior aversão ao risco ou expectativas de juros mais altos. Se os juros dos Treasuries continuarem a subir, isso pode pressionar as taxas de juros domésticas. Caso a pesquisa eleitoral indique um cenário de maior estabilidade política, as taxas podem recuar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790181963.2189903,
-    "titulo": "US September S&P Global flash services PMI 58.7 vs 56.0 expected",
-    "titulo_original": "US September S&P Global flash services PMI 58.7 vs 56.0 expected",
-    "fonte": "ForexLive",
-    "publicado": "23/09 10:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O forte desempenho do PMI de serviços e manufatura dos EUA sugere uma atividade econômica robusta, o que pode reforçar a postura hawkish do Federal Reserve. Se a inflação de custos continuar a subir, isso pode levar a uma manutenção das taxas de juros elevadas por mais tempo. Caso os dados de inflação futuros mostrem desaceleração, o Fed poderia reconsiderar sua política.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1790181968.688169,
-    "titulo": "Bolsas da Europa recuam com avanço do petróleo e dos juros dos títulos soberanos",
-    "titulo_original": "Bolsas da Europa recuam com avanço do petróleo e dos juros dos títulos soberanos",
-    "fonte": "Valor Economico",
-    "publicado": "23/09 13:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta dos juros dos títulos soberanos e do petróleo na Europa, combinada com dados de atividade fortes, sugere um cenário de pressões inflacionárias persistentes. Se essa tendência se mantiver, os bancos centrais europeus podem ser forçados a manter uma postura mais restritiva em suas políticas monetárias. Caso os dados de inflação futuros mostrem arrefecimento, o mercado pode antecipar um ciclo de cortes de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790181968.6900659,
-    "titulo": "Governo manterá trava no Orçamento para compensar receitas menores e subvenção ao diesel",
-    "titulo_original": "Governo manterá trava no Orçamento para compensar receitas menores e subvenção ao diesel",
-    "fonte": "Folha Mercado",
-    "publicado": "23/09 12:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do governo de manter o congelamento de recursos no Orçamento para cobrir despesas com subvenção ao diesel e receitas menores indica uma gestão fiscal cautelosa. Se a frustração de receitas persistir, o governo pode precisar de medidas adicionais para equilibrar as contas públicas. Caso as receitas se recuperem mais do que o esperado, o espaço fiscal pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1790181968.6919947,
-    "titulo": "Estoques de petróleo dos EUA contrariam estimativa e sobem na semana passada",
-    "titulo_original": "Estoques de petróleo dos EUA contrariam estimativa e sobem na semana passada",
-    "fonte": "Valor Economico",
-    "publicado": "23/09 13:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento inesperado nos estoques de petróleo dos EUA pode indicar uma demanda menor do que o previsto ou uma produção mais forte, o que tende a pressionar os preços do petróleo para baixo. Se os preços do petróleo caírem, isso pode aliviar pressões inflacionárias globais. Caso a demanda se recupere e os estoques voltem a cair, os preços podem subir novamente.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1790188248.4495766,
     "titulo": "Fluxo cambial registra saída de US$ 1,091 bilhão entre 14 e 18 de setembro",
     "titulo_original": "Fluxo cambial registra saída de US$ 1,091 bilhão entre 14 e 18 de setembro",
@@ -1121,6 +1021,128 @@
     ],
     "origem": "externa",
     "leitura_critica": "A tese de que a IA não destruirá o mercado de trabalho, embora contraintuitiva para alguns, sugere um cenário de adaptação e novas oportunidades. Se essa visão se concretizar, pode haver um impacto positivo na produtividade e na evolução do emprego, mas a notícia não apresenta dados concretos que comprovem essa afirmação no presente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790292641.9924102,
+    "titulo": "StoneX planeja etanol de milho na entressafra da cana em SP e no MT; investimento pode chegar a R$ 1,2 bi",
+    "titulo_original": "StoneX planeja etanol de milho na entressafra da cana em SP e no MT; investimento pode chegar a R$ 1,2 bi",
+    "fonte": "Folha Mercado",
+    "publicado": "24/09 20:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O plano da StoneX de investir em etanol de milho pode diversificar a produção de biocombustíveis no Brasil e otimizar o uso de infraestrutura existente. Se o projeto for implementado com sucesso, isso pode reduzir a dependência da produção de cana-de-açúcar e criar novas oportunidades de mercado para o milho.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790292646.6221135,
+    "titulo": "China fecha para o feriado do Festival do Meio Outono hoje, uma prévia da folga de uma semana do Dia Nacional que virá",
+    "titulo_original": "China shuts for Mid-Autumn Festival holiday today, a preview of the week-long National Day gap to come",
+    "fonte": "ForexLive",
+    "publicado": "24/09 19:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O fechamento dos mercados chineses para o feriado pode reduzir a liquidez e aumentar a volatilidade em ativos sensíveis à demanda chinesa, como o AUD e o ouro. Se os mercados globais apresentarem movimentos significativos durante esse período, a volta dos investidores chineses pode gerar reações de ajuste em cascata.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790292651.3870254,
+    "titulo": "Reino Unido e Alemanha estão entre países mais expostos ao poder econômico da China",
+    "titulo_original": "Reino Unido e Alemanha estão entre países mais expostos ao poder econômico da China",
+    "fonte": "Folha Mercado",
+    "publicado": "24/09 14:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A exposição econômica do Reino Unido e da Alemanha à China sugere que tensões geopolíticas ou comerciais com Pequim podem ter impactos significativos nessas economias. Se a China utilizar seu poder econômico de forma coercitiva, esses países podem enfrentar desafios na cadeia de suprimentos e no acesso a mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790292657.9285982,
+    "titulo": "Redes farmacêuticas registram fortes quedas após anúncio do Mercado Livre",
+    "titulo_original": "Redes farmacêuticas registram fortes quedas após anúncio do Mercado Livre",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 19:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A entrada agressiva do Mercado Livre no segmento farmacêutico, com foco em entregas rápidas, pode pressionar as margens das redes tradicionais. Se a expansão for bem-sucedida e a regulamentação permitir a venda de medicamentos com receita, a competição no setor pode se intensificar significativamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790292657.9305627,
+    "titulo": "Axia Energia capta R$ 1,4 bi com debêntures incentivadas",
+    "titulo_original": "Axia Energia capta R$ 1,4 bi com debêntures incentivadas",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 19:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A captação de R$ 1,4 bilhão via debêntures incentivadas indica um movimento de financiamento para projetos de infraestrutura. Se a empresa utilizar esses recursos para expansão ou novos empreendimentos, isso pode sinalizar um aumento na atividade do setor energético no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790292657.932359,
+    "titulo": "CNJ realiza buscas em gabinete de desembargador do TRF-1 ligado a Nunes Marques",
+    "titulo_original": "CNJ realiza buscas em gabinete de desembargador do TRF-1 ligado a Nunes Marques",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 18:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A ação do CNJ em um gabinete de desembargador ligado a um ministro do STF pode gerar repercussão institucional. Se a investigação avançar e revelar irregularidades, isso pode impactar a percepção sobre a integridade do judiciário e a condução de processos judiciais de grande vulto.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790292657.934145,
+    "titulo": "Petrobras atrasa em um ano o início de operações de unidades dedicadas a SAF",
+    "titulo_original": "Petrobras atrasa em um ano o início de operações de unidades dedicadas a SAF",
+    "fonte": "Folha Mercado",
+    "publicado": "24/09 19:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O atraso na entrada em operação de unidades dedicadas à produção de SAF pela Petrobras pode impactar as metas de descarbonização do setor aéreo. Se o cronograma for mantido, a oferta de combustíveis sustentáveis pode ser menor do que o planejado, exigindo alternativas para atingir os objetivos ambientais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790292657.9359715,
+    "titulo": "Tribunal anula sentença sobre acordo entre Petrobras e o Cade",
+    "titulo_original": "Tribunal anula sentença sobre acordo entre Petrobras e o Cade",
+    "fonte": "Folha Mercado",
+    "publicado": "24/09 19:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A anulação da sentença pelo TRF-1 reabre a discussão sobre o acordo entre Petrobras e Cade, podendo gerar incertezas regulatórias. Se o TCC for efetivamente anulado, isso pode levar a novas investigações ou a renegociações de acordos antitruste no setor, impactando a dinâmica competitiva.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790292657.9377735,
+    "titulo": "Magda diz que Petrobras não fará aporte sozinha na Braskem",
+    "titulo_original": "Magda diz que Petrobras não fará aporte sozinha na Braskem - O GLOBO",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 19:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de que a Petrobras não fará aporte sozinha na Braskem indica a busca por outros investidores ou parceiros para a operação. Se um acordo com outros players não for alcançado, isso pode gerar incertezas sobre o futuro da Braskem e a necessidade de reestruturação financeira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790292657.939632,
+    "titulo": "Vale (VALE3) quer dobrar produção de cobre até 2034 sem depender de M&A, diz CFO",
+    "titulo_original": "Vale (VALE3) quer dobrar produção de cobre até 2034 sem depender de M&A, diz CFO - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "24/09 19:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O plano da Vale de dobrar a produção de cobre organicamente até 2034 sugere confiança na demanda futura pelo metal e na capacidade de expansão interna. Se a empresa conseguir atingir essa meta, isso pode posicioná-la como um player ainda mais relevante no mercado global de cobre e impactar os preços da commodity.",
     "is_stocks": true
   }
 ]
