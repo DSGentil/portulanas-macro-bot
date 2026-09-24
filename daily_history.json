@@ -966,5 +966,152 @@
     "origem": "domestica",
     "leitura_critica": "O fluxo de capital estrangeiro para a bolsa brasileira, embora positivo em R$ 20,4 milhões em 22 de setembro, é relativamente modesto, especialmente quando comparado aos movimentos de investidores institucionais. Se as entradas de estrangeiros continuarem em patamares baixos, isso pode limitar o ímpeto de alta do mercado acionário, a menos que outros fatores macroeconômicos se tornem mais favoráveis.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790268345.1420608,
+    "titulo": "BC reduz para 1,8% previsão de crescimento do PIB neste ano e estima avanço de 1,4% em 2027",
+    "titulo_original": "BC reduz para 1,8% previsão de crescimento do PIB neste ano e estima avanço de 1,4% em 2027",
+    "fonte": "Folha Mercado",
+    "publicado": "24/09 08:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na projeção de crescimento do PIB pelo Banco Central sinaliza uma perspectiva econômica mais conservadora para o Brasil. Se a economia não apresentar sinais de recuperação mais robustos, isso pode levar o BC a manter uma postura mais cautelosa em sua política monetária. Acompanhar os indicadores de atividade econômica será fundamental para avaliar se as projeções se concretizarão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790268349.307343,
+    "titulo": "Bitcoin recua para US$ 83,6 mil com rendimentos e alta do petróleo assustando o risco",
+    "titulo_original": "Bitcoin retreats to $83.6k as yields, oil spike spook risk",
+    "fonte": "Investing.com",
+    "publicado": "24/09 10:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade do Bitcoin, atrelada a movimentos em mercados de renda fixa e commodities, sugere que o ativo pode estar sendo precificado mais como um ativo de risco especulativo do que como reserva de valor em cenários de incerteza. Se os rendimentos dos títulos continuarem a subir, isso pode pressionar ainda mais o preço do Bitcoin, à medida que investidores buscam ativos mais seguros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790268353.6095674,
+    "titulo": "EUA e Irã discutiram a implementação gradual de um acordo para reabrir Hormuz e acabar com o bloqueio americano",
+    "titulo_original": "US/Iran discussed phasing in a deal to reopen Hormuz and end the US blockade",
+    "fonte": "ForexLive",
+    "publicado": "24/09 13:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia sugere uma possível desescalada de tensões no Oriente Médio, com implicações para o fluxo de energia global. Se um acordo for alcançado, isso poderia aliviar a pressão sobre os preços do petróleo, o que, por sua vez, poderia ter um impacto positivo na inflação global e no crescimento econômico. No entanto, a natureza 'gradual' do acordo indica que a resolução pode ser lenta e sujeita a impasses.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790268357.768907,
+    "titulo": "Democratas acusam Trump de beneficiar empresas de petróleo e gás após doações de campanha",
+    "titulo_original": "Democratas acusam Trump de beneficiar empresas de petróleo e gás após doações de campanha",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 13:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A acusação de que Trump beneficiou empresas de petróleo e gás após receber doações de campanha levanta preocupações sobre a influência do dinheiro na política e na regulamentação ambiental. Se essas alegações forem comprovadas, isso pode levar a uma revisão das políticas energéticas e ambientais nos EUA, com impacto potencial nos preços do petróleo e na transição energética global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790268363.2412887,
+    "titulo": "Dino determina que PF abra inquérito para apurar possível 'interferência indevida' na CVM relacionada ao Master",
+    "titulo_original": "Dino determina que PF abra inquérito para apurar possível 'interferência indevida' na CVM relacionada ao Master",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 13:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A determinação de investigação pelo STF sobre a CVM indica um escrutínio sobre a atuação de órgãos reguladores e possíveis manipulações no mercado financeiro. Se a investigação confirmar a interferência, isso pode levar a mudanças nos procedimentos de supervisão da CVM e a um aumento da cautela em relação a operações financeiras complexas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790268363.2432702,
+    "titulo": "BRB paga por dia multas de R$ 50 mil ao BC e R$ 1 mil à CVM por atraso na divulgação de balanço",
+    "titulo_original": "BRB paga por dia multas de R$ 50 mil ao BC e R$ 1 mil à CVM por atraso na divulgação de balanço",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 13:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O pagamento contínuo de multas pelo BRB ao Banco Central e à CVM por atraso na divulgação de balanços evidencia falhas de governança e transparência. Se o banco não regularizar a situação rapidamente, isso pode gerar desconfiança no mercado e afetar sua capacidade de captação, além de potencialmente levar a sanções mais severas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790268363.245051,
+    "titulo": "Bolsas europeias caem com alta do petróleo e estresse no mercado de juros",
+    "titulo_original": "Bolsas europeias caem com alta do petróleo e estresse no mercado de juros",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 13:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas europeias, atrelada à alta do petróleo e ao estresse nos juros, reflete um cenário de aversão ao risco global. Se os rendimentos dos títulos continuarem a subir, isso pode desviar capital de mercados de ações, pressionando ainda mais os índices. A incerteza no Oriente Médio também contribui para a volatilidade, tornando o cenário desafiador para os investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790268363.2467434,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com política monetária, eleições e exterior",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa oscila com política monetária, eleições e exterior - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 11:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A oscilação do Ibovespa, impulsionada por política monetária, eleições e fatores externos, demonstra a sensibilidade do mercado a múltiplos drivers. Se as decisões de política monetária forem mais restritivas do que o esperado, isso pode pressionar a bolsa para baixo; por outro lado, um cenário eleitoral mais claro e positivo no exterior pode impulsionar o índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790268363.2485318,
+    "titulo": "Empresa da B3 anuncia fusão para criar gigante de R$ 10 bilhões",
+    "titulo_original": "Empresa da B3 anuncia fusão para criar gigante de R$ 10 bilhões - Investidor10",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 08:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A fusão anunciada entre empresas da B3 para formar um gigante de R$ 10 bilhões indica uma consolidação no setor e pode gerar sinergias e maior competitividade. Se a fusão for bem-sucedida, pode impulsionar o desempenho das ações das empresas envolvidas e atrair mais investimentos para o mercado de capitais brasileiro. Acompanhar a integração e os resultados pós-fusão será importante.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790268363.2502038,
+    "titulo": "Ações da China têm maior queda diária em um mês por cautela com cúpula entre Trump e Xi",
+    "titulo_original": "Ações da China têm maior queda diária em um mês por cautela com cúpula entre Trump e Xi",
+    "fonte": "Folha Mercado",
+    "publicado": "24/09 08:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas bolsas chinesas, motivada pela cautela em relação à cúpula entre Trump e Xi, demonstra a sensibilidade do mercado a desdobramentos geopolíticos e comerciais. Se a reunião não gerar resultados concretos, a incerteza pode persistir, afetando o fluxo de capital para a Ásia e a confiança dos investidores globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1790268363.2525613,
+    "titulo": "Ibovespa hoje opera perto da estabilidade com relatório do BC, contas públicas e petróleo no radar",
+    "titulo_original": "Ibovespa hoje opera perto da estabilidade com relatório do BC, contas públicas e petróleo no radar - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "24/09 10:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proximidade da estabilidade do Ibovespa, com múltiplos fatores em observação, indica um mercado cauteloso aguardando novos direcionamentos. Se o relatório do BC apresentar projeções mais pessimistas para o PIB ou se as contas públicas piorarem, isso pode pressionar o índice para baixo. Por outro lado, uma resolução positiva para o cenário do petróleo pode trazer algum alívio.",
+    "is_stocks": true
   }
 ]
