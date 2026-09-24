@@ -894,5 +894,77 @@
     "origem": "domestica",
     "leitura_critica": "A notícia apresenta um resumo de ações de interesse para o dia, sem detalhar os motivos específicos de cada movimento. A relevância para o investidor dependerá das notícias e eventos que afetarem individualmente cada uma dessas empresas ao longo do dia.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1790262976.097017,
+    "titulo": "BC está preocupado com oferta de crédito agressivo e até predatório, diz Galípolo",
+    "titulo_original": "BC está preocupado com oferta de crédito agressivo e até predatório, diz Galípolo",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 12:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A preocupação do BC com a oferta de crédito pode indicar uma futura postura mais restritiva em relação à concessão de empréstimos. Se as medidas em estudo forem implementadas e surtirem efeito na redução da inadimplência, isso poderia aliviar a pressão sobre a inflação de serviços e, consequentemente, abrir espaço para discussões sobre a política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790262981.5651984,
+    "titulo": "Devolução de R$ 4,7 bi de precatórios cancelados pelo CNJ entrará como receita primária, diz Ceron",
+    "titulo_original": "Devolução de R$ 4,7 bi de precatórios cancelados pelo CNJ entrará como receita primária, diz Ceron",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 11:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A confirmação de que a devolução de precatórios entrará como receita primária é um passo concreto para o cumprimento da meta fiscal. Se a decisão do CNJ for validada pelo plenário, isso reforçará a credibilidade da gestão fiscal do governo. Caso contrário, a meta fiscal pode enfrentar maior pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790262986.9871585,
+    "titulo": "Tesouro Direto hoje: prefixados sobem e interrompem sequência de quedas antes do IPCA-15",
+    "titulo_original": "Tesouro Direto hoje: prefixados sobem e interrompem sequência de quedas antes do IPCA-15",
+    "fonte": "InvestNews",
+    "publicado": "24/09 10:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta nos títulos prefixados do Tesouro Direto sugere uma precificação de juros futuros mais elevados ou uma maior aversão ao risco por parte dos investidores. Se o IPCA-15 vier acima do esperado, isso pode reforçar a expectativa de manutenção da taxa Selic em patamares elevados, enquanto um resultado abaixo do esperado poderia abrir espaço para especulações de corte de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790262992.5119689,
+    "titulo": "Selic e inflação preocupam mais o investidor do que as eleições de 2026 - estadao.com.br",
+    "titulo_original": "Selic e inflação preocupam mais o investidor do que as eleições de 2026 - estadao.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/09 11:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O fato de Selic e inflação serem mais relevantes para os investidores do que as eleições de 2026 indica um foco maior no cenário macroeconômico de curto e médio prazo. Se as expectativas de inflação se mantiverem elevadas e a taxa Selic permanecer em patamares altos, isso pode continuar a direcionar as decisões de investimento para ativos de renda fixa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1790262998.645212,
+    "titulo": "Estrangeiros aportam apenas R$ 20,4 milhões em 22 de setembro e acumulam 3 sessões de entradas",
+    "titulo_original": "Estrangeiros aportam apenas R$ 20,4 milhões em 22 de setembro e acumulam 3 sessões de entradas",
+    "fonte": "Valor Economico",
+    "publicado": "24/09 11:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O fluxo de capital estrangeiro para a bolsa brasileira, embora positivo em R$ 20,4 milhões em 22 de setembro, é relativamente modesto, especialmente quando comparado aos movimentos de investidores institucionais. Se as entradas de estrangeiros continuarem em patamares baixos, isso pode limitar o ímpeto de alta do mercado acionário, a menos que outros fatores macroeconômicos se tornem mais favoráveis.",
+    "is_stocks": true
   }
 ]
