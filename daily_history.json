@@ -92,5 +92,69 @@
     "origem": "domestica",
     "leitura_critica": "A forte queda das ações da Braskem indica que o impasse com credores está gerando grande preocupação no mercado. Se a empresa não conseguir resolver essa questão rapidamente, pode haver um impacto negativo em sua capacidade de operação e em sua reputação.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792188071.977676,
+    "titulo": "Déficit fiscal dos EUA chega a cerca de US$ 2 trilhões em 2026, o maior em 5 anos",
+    "titulo_original": "Déficit fiscal dos EUA chega a cerca de US$ 2 trilhões em 2026, o maior em 5 anos",
+    "fonte": "Valor Economico",
+    "publicado": "16/10 16:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento do déficit fiscal dos EUA para US$ 2 trilhões pode gerar preocupações sobre a sustentabilidade da dívida pública americana. Se o governo não implementar medidas para conter os gastos ou aumentar a arrecadação, o déficit pode continuar a crescer, pressionando as taxas de juros globais; se houver um plano fiscal claro e eficaz, o cenário pode se estabilizar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792188075.921642,
+    "titulo": "Banco Mundial avalia empréstimos de até US$ 5 bi à Venezuela nos próximos dois anos",
+    "titulo_original": "Banco Mundial avalia empréstimos de até US$ 5 bi à Venezuela nos próximos dois anos",
+    "fonte": "Valor Economico",
+    "publicado": "16/10 17:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A avaliação de empréstimos pelo Banco Mundial à Venezuela sinaliza uma retomada de relações e um potencial fluxo de capital para o país. Caso as negociações avancem, isso pode representar um fator de estabilidade econômica para a Venezuela; se houver retrocessos políticos, o financiamento pode ser comprometido.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792188079.7946005,
+    "titulo": "Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed",
+    "titulo_original": "Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed",
+    "fonte": "Money Times",
+    "publicado": "16/10 15:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do ouro reflete a incerteza do mercado em relação às futuras decisões de juros do Fed. Se o Fed sinalizar um aperto monetário mais agressivo, o ouro pode sofrer pressão de baixa; se a postura for mais dovish, o metal precioso pode continuar a se valorizar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792188084.4421103,
+    "titulo": "Ibovespa avança 0,5% com disparada da Petrobras e pesquisas eleitorais",
+    "titulo_original": "Ibovespa avança 0,5% com disparada da Petrobras e pesquisas eleitorais",
+    "fonte": "Valor Economico",
+    "publicado": "16/10 17:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa foi influenciada por pesquisas eleitorais que alteraram a percepção do mercado sobre o cenário político. Se futuras pesquisas indicarem um cenário mais incerto ou desfavorável ao atual cenário percebido, o índice pode reverter os ganhos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792188084.4428787,
+    "titulo": "Desmatamento na Amazônia é o menor desde 1998, informa Ministério do Meio Ambiente",
+    "titulo_original": "Desmatamento na Amazônia é o menor desde 1998, informa Ministério do Meio Ambiente",
+    "fonte": "Valor Economico",
+    "publicado": "16/10 17:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A redução no desmatamento na Amazônia representa um marco histórico, com impacto positivo nas emissões de gases de efeito estufa. Se as políticas de combate ao desmatamento forem mantidas e eficazes, a tendência de queda pode continuar; qualquer reversão nas ações pode levar a um aumento da área desmatada.",
+    "is_stocks": true
   }
 ]
