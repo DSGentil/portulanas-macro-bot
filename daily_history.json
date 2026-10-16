@@ -156,5 +156,93 @@
     "origem": "domestica",
     "leitura_critica": "A redução no desmatamento na Amazônia representa um marco histórico, com impacto positivo nas emissões de gases de efeito estufa. Se as políticas de combate ao desmatamento forem mantidas e eficazes, a tendência de queda pode continuar; qualquer reversão nas ações pode levar a um aumento da área desmatada.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792193450.829169,
+    "titulo": "Hospital Sírio-Libanês também sofreu ataque cibernético",
+    "titulo_original": "Hospital Sírio-Libanês também sofreu ataque cibernético",
+    "fonte": "Valor Economico",
+    "publicado": "16/10 20:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia destaca a vulnerabilidade de instituições de saúde a ataques cibernéticos, mesmo com a ausência de vazamento público confirmado. Se novas evidências de vazamento surgirem, isso poderá gerar preocupações sobre a segurança de dados sensíveis de pacientes e funcionários, além de potenciais implicações legais e de reputação para o hospital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792193456.1876376,
+    "titulo": "Soja tem semana de pressão em Chicago e no Brasil, apesar do dólar, e negócios ficam bem mais limitados - Notícias Agrícolas",
+    "titulo_original": "Soja tem semana de pressão em Chicago e no Brasil, apesar do dólar, e negócios ficam bem mais limitados - Notícias Agrícolas",
+    "fonte": "Google News Commodities",
+    "publicado": "16/10 17:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A pressão sobre os preços da soja, tanto no mercado internacional quanto no doméstico, sugere um cenário de oferta robusta ou demanda enfraquecida. Se essa tendência de baixa se prolongar, pode afetar a rentabilidade dos produtores brasileiros; caso o dólar continue a exercer influência, pode haver alguma sustentação para os preços internos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792193461.5384483,
+    "titulo": "Soja fecha em queda pela quinta sessão seguida em Chicago e mercado brasileiro tem poucos negócios - Canal Rural",
+    "titulo_original": "Soja fecha em queda pela quinta sessão seguida em Chicago e mercado brasileiro tem poucos negócios - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "16/10 19:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda contínua da soja em Chicago pode pressionar os preços no mercado brasileiro. Se a tendência de baixa em Chicago se mantiver, os negócios no Brasil podem continuar limitados; caso haja uma recuperação nos preços internacionais, o mercado doméstico pode apresentar maior liquidez.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792193466.871508,
+    "titulo": "Petróleo fecha em alta com riscos do lado da oferta e avança na semana em meio às guerras - Agência eixos",
+    "titulo_original": "Petróleo fecha em alta com riscos do lado da oferta e avança na semana em meio às guerras - Agência eixos",
+    "fonte": "Google News Commodities",
+    "publicado": "16/10 19:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo, influenciada por riscos de oferta e conflitos, pode impactar os custos de energia e transporte. Se os riscos de oferta se intensificarem, os preços podem continuar subindo; caso as tensões geopolíticas diminuam ou a oferta se normalize, o petróleo pode apresentar volatilidade e potencial queda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792193473.0542505,
+    "titulo": "TSE tem maioria para manter decisão que proíbe Meta de limitar alcance de publicações eleitorais",
+    "titulo_original": "TSE tem maioria para manter decisão que proíbe Meta de limitar alcance de publicações eleitorais",
+    "fonte": "Valor Economico",
+    "publicado": "16/10 20:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do TSE sobre a Meta estabelece um precedente importante para a regulação de plataformas digitais em processos eleitorais. Se a decisão for plenamente confirmada e aplicada, pode impactar a forma como as campanhas são conduzidas online; caso haja recursos ou interpretações divergentes, o cenário regulatório pode se tornar mais incerto.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792193473.0548787,
+    "titulo": "Meta admite ‘incidentes técnicos’ que afetaram campanhas e nega interferência em eleições",
+    "titulo_original": "Meta admite ‘incidentes técnicos’ que afetaram campanhas e nega interferência em eleições",
+    "fonte": "Valor Economico",
+    "publicado": "16/10 20:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da Meta busca mitigar preocupações sobre a imparcialidade de suas plataformas em processos eleitorais. Se investigações futuras confirmarem a natureza técnica dos incidentes, a credibilidade da empresa pode ser restaurada; caso contrário, o escrutínio sobre suas operações aumentará.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792193473.0555131,
+    "titulo": "Teles questionam obrigação de investir em data centers no leilão para expansão da telefonia móvel",
+    "titulo_original": "Teles questionam obrigação de investir em data centers no leilão para expansão da telefonia móvel",
+    "fonte": "Valor Economico",
+    "publicado": "16/10 18:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O questionamento das teles sobre os compromissos do leilão de frequências pode atrasar ou modificar os termos do edital. Se a Anatel mantiver a exigência de investimento em data centers, as operadoras podem ter que realocar recursos; caso a agência ceda às demandas, o foco do leilão pode se concentrar mais na infraestrutura de rede tradicional.",
+    "is_stocks": true
   }
 ]
