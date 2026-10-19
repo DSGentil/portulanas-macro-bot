@@ -553,5 +553,76 @@
     "origem": "externa",
     "leitura_critica": "As alegações de apoio saudita a um ex-funcionário da OpenAI levantam questões sobre espionagem corporativa e interferência estrangeira em empresas de tecnologia. Se as acusações forem comprovadas, isso pode gerar tensões diplomáticas e regulatórias, além de impactar a confiança no setor de inteligência artificial.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792434646.6224177,
+    "titulo": "Inflação do IGP-10 de outubro teve maior alta em seis meses, puxada por commodities, diz FGV",
+    "titulo_original": "Inflação do IGP-10 de outubro teve maior alta em seis meses, puxada por commodities, diz FGV",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 13:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aceleração do IGP-10 em outubro, com a maior alta em seis meses, sugere que as pressões inflacionárias, especialmente no setor atacadista e ligadas a commodities, continuam relevantes. Se os preços do petróleo mantiverem a trajetória de alta, isso pode pressionar ainda mais o indicador nos próximos meses, impactando as expectativas de inflação futura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792434651.6102953,
+    "titulo": "Mercado mantém projeção para inflação e juros em 2026 e espera PIB e dólar mais baixos - Estadão",
+    "titulo_original": "Mercado mantém projeção para inflação e juros em 2026 e espera PIB e dólar mais baixos - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/10 09:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção das projeções de inflação e juros para 2026, com expectativa de PIB e dólar mais baixos, sugere um cenário de convergência para a estabilidade econômica. Se as projeções se confirmarem, isso pode indicar um ambiente favorável para investimentos de longo prazo; contudo, a volatilidade do dólar e o desempenho do PIB dependerão de fatores internos e externos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792434656.5075223,
+    "titulo": "Fed vê inteligência artificial pressionando a inflação e alerta para impacto desigual dos juros na economia",
+    "titulo_original": "Fed vê inteligência artificial pressionando a inflação e alerta para impacto desigual dos juros na economia - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/10 10:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A visão do Fed de que a inteligência artificial pode gerar pressões inflacionárias adiciona uma nova camada de complexidade à política monetária. Se essa pressão se materializar, o Fed pode precisar manter uma postura mais restritiva por mais tempo; o alerta sobre o impacto desigual dos juros sugere que o banco central americano está atento às consequências sociais e econômicas de suas decisões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792434661.4570994,
+    "titulo": "Zelensky acusa Trump de pressionar Ucrânia a se render à Rússia - Valor Econômico",
+    "titulo_original": "Zelensky acusa Trump de pressionar Ucrânia a se render à Rússia - Valor Econômico",
+    "fonte": "Google News Geopolitica",
+    "publicado": "19/10 10:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A acusação de Zelensky contra Trump sobre pressão para a Ucrânia se render à Rússia adiciona uma nova camada de complexidade às relações geopolíticas e ao apoio internacional à Ucrânia. Se essa pressão for confirmada ou ganhar força, isso pode impactar o desenrolar do conflito e as alianças internacionais; a resposta de Trump e as reações globais serão cruciais para avaliar as consequências.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792434667.0731728,
+    "titulo": "Ouro recua em meio ao avanço dos Treasuries e maior apetite ao risco",
+    "titulo_original": "Ouro recua em meio ao avanço dos Treasuries e maior apetite ao risco",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 15:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do ouro, impulsionada pelo aumento do apetite ao risco e pela valorização dos Treasuries, sugere um cenário de maior confiança dos investidores em ativos de maior volatilidade. Se os rendimentos dos Treasuries continuarem a subir, o ouro pode enfrentar pressão adicional; contudo, um aumento da aversão ao risco global poderia reverter essa tendência e impulsionar o metal como refúgio.",
+    "is_stocks": true
   }
 ]
