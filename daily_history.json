@@ -220,5 +220,90 @@
     "origem": "domestica",
     "leitura_critica": "A notícia informa sobre a divulgação de balanços trimestrais de empresas, o que é relevante para análise setorial e de ações específicas, mas não impacta diretamente os canais macroeconômicos de juros, inflação, atividade, fiscal ou fluxo de capital.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792415744.1394093,
+    "titulo": "Juros futuros recuam às vésperas do 2° turno após estresse da semana passada",
+    "titulo_original": "Juros futuros recuam às vésperas do 2° turno após estresse da semana passada",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 09:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos juros futuros indica uma diminuição da percepção de risco no mercado, possivelmente ligada a expectativas sobre o resultado eleitoral. Se a incerteza política diminuir, pode haver uma tendência de queda mais consolidada nos juros, impactando decisões de crédito e investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792415749.1616726,
+    "titulo": "Economistas aumentam previsão da inflação no próximo ano",
+    "titulo_original": "Economistas aumentam previsão da inflação no próximo ano",
+    "fonte": "Folha Mercado",
+    "publicado": "19/10 09:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da previsão de inflação e a redução da projeção de PIB indicam um cenário de stagflação, onde a inflação persiste enquanto o crescimento econômico desacelera. Isso pode levar o Banco Central a manter uma postura mais cautelosa em relação à política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792415754.329236,
+    "titulo": "Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo - InfoMoney",
+    "titulo_original": "Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/10 08:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na projeção do PIB sugere uma perspectiva de menor atividade econômica para 2026, o que pode influenciar decisões de investimento. A expectativa de um dólar mais baixo, se concretizada, pode impactar a competitividade de exportações e o custo de importações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792415759.3769011,
+    "titulo": "Associação de aviação diz que reforma tributária pode elevar preço das passagens",
+    "titulo_original": "Associação de aviação diz que reforma tributária pode elevar preço das passagens",
+    "fonte": "Folha Mercado",
+    "publicado": "19/10 09:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reforma tributária, ao impactar o setor aéreo, demonstra um efeito concreto de uma decisão fiscal/regulatória. Se a reforma for aprovada com as características que elevam os preços, isso pode ter um impacto inflacionário em serviços e afetar o consumo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792415765.3617852,
+    "titulo": "Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio",
+    "titulo_original": "Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio",
+    "fonte": "Money Times",
+    "publicado": "19/10 09:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A percepção do Fed sobre o impacto da IA na inflação sugere que o banco central americano pode manter uma postura mais restritiva em sua política monetária. Se essa visão se consolidar, pode haver pressão contínua sobre os juros globais, afetando o custo do capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792415765.362516,
+    "titulo": "Mercados hoje: reta final da disputa eleitoral e IPCA-15 são os destaques da semana - Bora Investir B3",
+    "titulo_original": "Mercados hoje: reta final da disputa eleitoral e IPCA-15 são os destaques da semana - Bora Investir B3",
+    "fonte": "Google News Acoes",
+    "publicado": "19/10 09:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proximidade da eleição e a divulgação do IPCA-15 são fatores que podem gerar volatilidade nos mercados. A leitura do IPCA-15 será crucial para avaliar as pressões inflacionárias e suas possíveis implicações para a política monetária.",
+    "is_stocks": true
   }
 ]
