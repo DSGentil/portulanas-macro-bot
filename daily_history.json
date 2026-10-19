@@ -1,248 +1,108 @@
 [
   {
-    "_timestamp": 1792186304.6684835,
-    "titulo": "Juros futuros sobem em meio a ajustes do mercado com eleição acirrada",
-    "titulo_original": "Juros futuros sobem em meio a ajustes do mercado com eleição acirrada",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 17:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta dos juros futuros reflete a percepção de maior risco fiscal e incerteza eleitoral no Brasil. Se o resultado eleitoral for visto como desfavorável à estabilidade fiscal, os juros futuros podem continuar a subir; caso contrário, podem ceder.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792186308.9929807,
-    "titulo": "Flávio Bolsonaro está mentindo para o mercado ou para as pessoas, diz Durigan",
-    "titulo_original": "Flávio Bolsonaro está mentindo para o mercado ou para as pessoas, diz Durigan",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 17:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do Ministro da Fazenda sobre a impossibilidade de conciliar as promessas fiscais de Flávio Bolsonaro com a manutenção de programas sociais pode aumentar a percepção de risco fiscal. Se o mercado interpretar essa fala como um sinal de que as propostas do candidato são insustentáveis, pode haver pressão negativa sobre os ativos brasileiros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792186313.411742,
-    "titulo": "Dólar fecha semana em leve queda, cotado a R$ 5,07; Bolsa sobe - UOL Economia",
-    "titulo_original": "Dólar fecha semana em leve queda, cotado a R$ 5,07; Bolsa sobe - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/10 17:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A leve queda do dólar e a alta da bolsa sugerem um certo otimismo no mercado doméstico, possivelmente influenciado por fatores eleitorais. Se o cenário eleitoral se estabilizar com um resultado que o mercado considere favorável, o dólar pode continuar em queda e a bolsa em alta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792186317.756487,
-    "titulo": "Setor de petróleo vê insegurança com fim da escala 6x1",
-    "titulo_original": "Setor de petróleo vê insegurança com fim da escala 6x1",
+    "_timestamp": 1792407648.6662054,
+    "titulo": "Mercado de ETFs ganha força no Brasil puxado por fundos de renda fixa",
+    "titulo_original": "Mercado de ETFs ganha força no Brasil puxado por fundos de renda fixa",
     "fonte": "Folha Mercado",
-    "publicado": "16/10 16:46",
-    "relevancia": "MEDIA",
+    "publicado": "18/10 23:00",
+    "relevancia": "ALTA",
     "canais_afetados": [
-      "decisao_fiscal_regulatoria"
+      "juros",
+      "fluxo_capital"
     ],
     "origem": "domestica",
-    "leitura_critica": "A insegurança jurídica no setor de petróleo devido ao fim da escala 6x1 pode gerar custos adicionais ou impactar a produtividade. Se as empresas do setor buscarem judicializar a questão, pode haver um período de instabilidade regulatória.",
+    "leitura_critica": "O forte crescimento do mercado de ETFs de renda fixa no Brasil sugere um aumento no interesse dos investidores por produtos que acompanham a trajetória dos juros. Se a taxa Selic continuar em patamares elevados, a atratividade desses fundos tende a se manter, atraindo mais capital para a renda fixa.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1792186323.4926744,
-    "titulo": "investingLive Americas market news wrap: Nasdaq sinks and oil jumps",
-    "titulo_original": "investingLive Americas market news wrap: Nasdaq sinks and oil jumps",
+    "_timestamp": 1792407653.094443,
+    "titulo": "Temor de virada de Lula faz proteção contra alta do dólar saltar à máxima desde 2011",
+    "titulo_original": "Temor de virada de Lula faz proteção contra alta do dólar saltar à máxima desde 2011 - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/10 08:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da proteção contra a alta do dólar reflete uma percepção de maior risco político no Brasil. Se esse temor se concretizar em eventos que afetem a estabilidade econômica, o dólar pode continuar pressionado para cima, impactando a inflação e o custo de importação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792407658.397443,
+    "titulo": "Queda do minério de ferro e alta do frete pressionam mineradoras brasileiras",
+    "titulo_original": "Queda do minério de ferro e alta do frete pressionam mineradoras brasileiras - Vero Notícias",
+    "fonte": "Google News Commodities",
+    "publicado": "18/10 15:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A pressão sobre as mineradoras brasileiras devido à queda do minério de ferro e alta do frete pode impactar os resultados do setor e, consequentemente, a balança comercial. A recuperação dos preços das commodities será crucial para aliviar essa pressão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792407662.7147853,
+    "titulo": "E se o seu dinheiro acabar antes de você?",
+    "titulo_original": "E se o seu dinheiro acabar antes de você?",
+    "fonte": "Folha Mercado",
+    "publicado": "18/10 23:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O artigo levanta uma preocupação pessoal sobre planejamento financeiro de longo prazo e os efeitos da inflação. Não se trata de uma notícia com impacto direto nos mercados ou nas decisões de política econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792407668.51283,
+    "titulo": "PIB da China no 3º trimestre supera previsões em 4,5%, vendas no varejo crescem no ritmo mais rápido desde março",
+    "titulo_original": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
     "fonte": "ForexLive",
-    "publicado": "16/10 17:08",
+    "publicado": "18/10 23:33",
     "relevancia": "ALTA",
     "canais_afetados": [
-      "inflacao",
       "atividade_emprego",
-      "decisao_fiscal_regulatoria"
+      "inflacao"
     ],
-    "origem": "ambas",
-    "leitura_critica": "A produção industrial e os preços de importação dos EUA vieram acima do esperado, o que pode indicar pressões inflacionárias persistentes. Se o déficit orçamentário dos EUA continuar a crescer, isso pode gerar preocupações sobre a sustentabilidade fiscal no longo prazo.",
+    "origem": "externa",
+    "leitura_critica": "O resultado positivo do PIB e das vendas no varejo da China pode oferecer algum suporte ao sentimento de risco na Ásia e a commodities como o petróleo. Se os dados de investimento e imobiliários continuarem fracos, no entanto, a pressão por estímulos fiscais mais agressivos pode aumentar, o que seria um fator a ser observado.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1792186323.4936285,
-    "titulo": "Wall Street recua pressionado por preocupações sobre IA; Nasdaq cai 2% e tem pior semana desde junho",
-    "titulo_original": "Wall Street recua pressionado por preocupações sobre IA; Nasdaq cai 2% e tem pior semana desde junho",
-    "fonte": "Money Times",
-    "publicado": "16/10 17:06",
+    "_timestamp": 1792407668.5132885,
+    "titulo": "Dólar cai a R$ 5,0728; Ibovespa sobe 0,54% aos 205.430 pontos",
+    "titulo_original": "Dólar cai a R$ 5,0728; Ibovespa sobe 0,54% aos 205.430 pontos - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/10 20:31",
     "relevancia": "ALTA",
     "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda acentuada do Nasdaq, ligada a preocupações com inteligência artificial, pode indicar uma reavaliação do mercado sobre o valuation de empresas de tecnologia. Se essas preocupações se aprofundarem, pode haver um contágio para outros setores de tecnologia e um aumento da aversão ao risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792186323.494834,
-    "titulo": "Ações da Braskem têm forte queda em meio a impasse com credores - Valor Econômico",
-    "titulo_original": "Ações da Braskem têm forte queda em meio a impasse com credores - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "16/10 16:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
     "origem": "domestica",
-    "leitura_critica": "A forte queda das ações da Braskem indica que o impasse com credores está gerando grande preocupação no mercado. Se a empresa não conseguir resolver essa questão rapidamente, pode haver um impacto negativo em sua capacidade de operação e em sua reputação.",
+    "leitura_critica": "A queda do dólar e a alta do Ibovespa podem indicar um aumento do apetite por risco no mercado brasileiro. A continuidade dessa tendência dependerá de fatores macroeconômicos e políticos que influenciam a percepção de risco dos investidores.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1792188071.977676,
-    "titulo": "Déficit fiscal dos EUA chega a cerca de US$ 2 trilhões em 2026, o maior em 5 anos",
-    "titulo_original": "Déficit fiscal dos EUA chega a cerca de US$ 2 trilhões em 2026, o maior em 5 anos",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 16:38",
+    "_timestamp": 1792407668.5137062,
+    "titulo": "China move para sustentar ações com restrições de venda e recompras após queda de 10% no ano",
+    "titulo_original": "China moves to prop up stocks with selling curbs, buybacks after 10% slide this year",
+    "fonte": "ForexLive",
+    "publicado": "18/10 23:07",
     "relevancia": "ALTA",
     "canais_afetados": [
-      "decisao_fiscal_regulatoria"
+      "atividade_emprego"
     ],
     "origem": "externa",
-    "leitura_critica": "O aumento do déficit fiscal dos EUA para US$ 2 trilhões pode gerar preocupações sobre a sustentabilidade da dívida pública americana. Se o governo não implementar medidas para conter os gastos ou aumentar a arrecadação, o déficit pode continuar a crescer, pressionando as taxas de juros globais; se houver um plano fiscal claro e eficaz, o cenário pode se estabilizar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792188075.921642,
-    "titulo": "Banco Mundial avalia empréstimos de até US$ 5 bi à Venezuela nos próximos dois anos",
-    "titulo_original": "Banco Mundial avalia empréstimos de até US$ 5 bi à Venezuela nos próximos dois anos",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 17:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A avaliação de empréstimos pelo Banco Mundial à Venezuela sinaliza uma retomada de relações e um potencial fluxo de capital para o país. Caso as negociações avancem, isso pode representar um fator de estabilidade econômica para a Venezuela; se houver retrocessos políticos, o financiamento pode ser comprometido.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792188079.7946005,
-    "titulo": "Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed",
-    "titulo_original": "Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed",
-    "fonte": "Money Times",
-    "publicado": "16/10 15:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do ouro reflete a incerteza do mercado em relação às futuras decisões de juros do Fed. Se o Fed sinalizar um aperto monetário mais agressivo, o ouro pode sofrer pressão de baixa; se a postura for mais dovish, o metal precioso pode continuar a se valorizar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792188084.4421103,
-    "titulo": "Ibovespa avança 0,5% com disparada da Petrobras e pesquisas eleitorais",
-    "titulo_original": "Ibovespa avança 0,5% com disparada da Petrobras e pesquisas eleitorais",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 17:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa foi influenciada por pesquisas eleitorais que alteraram a percepção do mercado sobre o cenário político. Se futuras pesquisas indicarem um cenário mais incerto ou desfavorável ao atual cenário percebido, o índice pode reverter os ganhos.",
+    "leitura_critica": "As medidas de intervenção do governo chinês no mercado de ações visam estabilizar o índice, mas a eficácia a longo prazo dependerá da recuperação da demanda doméstica e do setor imobiliário. Se os dados de PIB e atividade econômica continuarem fracos, a pressão por estímulos fiscais mais robustos pode aumentar.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1792188084.4428787,
-    "titulo": "Desmatamento na Amazônia é o menor desde 1998, informa Ministério do Meio Ambiente",
-    "titulo_original": "Desmatamento na Amazônia é o menor desde 1998, informa Ministério do Meio Ambiente",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 17:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A redução no desmatamento na Amazônia representa um marco histórico, com impacto positivo nas emissões de gases de efeito estufa. Se as políticas de combate ao desmatamento forem mantidas e eficazes, a tendência de queda pode continuar; qualquer reversão nas ações pode levar a um aumento da área desmatada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792193450.829169,
-    "titulo": "Hospital Sírio-Libanês também sofreu ataque cibernético",
-    "titulo_original": "Hospital Sírio-Libanês também sofreu ataque cibernético",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 20:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia destaca a vulnerabilidade de instituições de saúde a ataques cibernéticos, mesmo com a ausência de vazamento público confirmado. Se novas evidências de vazamento surgirem, isso poderá gerar preocupações sobre a segurança de dados sensíveis de pacientes e funcionários, além de potenciais implicações legais e de reputação para o hospital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792193456.1876376,
-    "titulo": "Soja tem semana de pressão em Chicago e no Brasil, apesar do dólar, e negócios ficam bem mais limitados - Notícias Agrícolas",
-    "titulo_original": "Soja tem semana de pressão em Chicago e no Brasil, apesar do dólar, e negócios ficam bem mais limitados - Notícias Agrícolas",
-    "fonte": "Google News Commodities",
-    "publicado": "16/10 17:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A pressão sobre os preços da soja, tanto no mercado internacional quanto no doméstico, sugere um cenário de oferta robusta ou demanda enfraquecida. Se essa tendência de baixa se prolongar, pode afetar a rentabilidade dos produtores brasileiros; caso o dólar continue a exercer influência, pode haver alguma sustentação para os preços internos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792193461.5384483,
-    "titulo": "Soja fecha em queda pela quinta sessão seguida em Chicago e mercado brasileiro tem poucos negócios - Canal Rural",
-    "titulo_original": "Soja fecha em queda pela quinta sessão seguida em Chicago e mercado brasileiro tem poucos negócios - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "16/10 19:02",
+    "_timestamp": 1792407668.514143,
+    "titulo": "Apenas um terço do pipeline de data centers dos EUA parece credível à medida que o financiamento de IA aumenta",
+    "titulo_original": "Only a third of the US data centre pipeline looks credible as AI financing strains build",
+    "fonte": "ForexLive",
+    "publicado": "18/10 20:24",
     "relevancia": "MEDIA",
     "canais_afetados": [],
     "origem": "externa",
-    "leitura_critica": "A queda contínua da soja em Chicago pode pressionar os preços no mercado brasileiro. Se a tendência de baixa em Chicago se mantiver, os negócios no Brasil podem continuar limitados; caso haja uma recuperação nos preços internacionais, o mercado doméstico pode apresentar maior liquidez.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792193466.871508,
-    "titulo": "Petróleo fecha em alta com riscos do lado da oferta e avança na semana em meio às guerras - Agência eixos",
-    "titulo_original": "Petróleo fecha em alta com riscos do lado da oferta e avança na semana em meio às guerras - Agência eixos",
-    "fonte": "Google News Commodities",
-    "publicado": "16/10 19:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo, influenciada por riscos de oferta e conflitos, pode impactar os custos de energia e transporte. Se os riscos de oferta se intensificarem, os preços podem continuar subindo; caso as tensões geopolíticas diminuam ou a oferta se normalize, o petróleo pode apresentar volatilidade e potencial queda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792193473.0542505,
-    "titulo": "TSE tem maioria para manter decisão que proíbe Meta de limitar alcance de publicações eleitorais",
-    "titulo_original": "TSE tem maioria para manter decisão que proíbe Meta de limitar alcance de publicações eleitorais",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 20:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do TSE sobre a Meta estabelece um precedente importante para a regulação de plataformas digitais em processos eleitorais. Se a decisão for plenamente confirmada e aplicada, pode impactar a forma como as campanhas são conduzidas online; caso haja recursos ou interpretações divergentes, o cenário regulatório pode se tornar mais incerto.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792193473.0548787,
-    "titulo": "Meta admite ‘incidentes técnicos’ que afetaram campanhas e nega interferência em eleições",
-    "titulo_original": "Meta admite ‘incidentes técnicos’ que afetaram campanhas e nega interferência em eleições",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 20:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da Meta busca mitigar preocupações sobre a imparcialidade de suas plataformas em processos eleitorais. Se investigações futuras confirmarem a natureza técnica dos incidentes, a credibilidade da empresa pode ser restaurada; caso contrário, o escrutínio sobre suas operações aumentará.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792193473.0555131,
-    "titulo": "Teles questionam obrigação de investir em data centers no leilão para expansão da telefonia móvel",
-    "titulo_original": "Teles questionam obrigação de investir em data centers no leilão para expansão da telefonia móvel",
-    "fonte": "Valor Economico",
-    "publicado": "16/10 18:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O questionamento das teles sobre os compromissos do leilão de frequências pode atrasar ou modificar os termos do edital. Se a Anatel mantiver a exigência de investimento em data centers, as operadoras podem ter que realocar recursos; caso a agência ceda às demandas, o foco do leilão pode se concentrar mais na infraestrutura de rede tradicional.",
+    "leitura_critica": "A dificuldade de financiamento para projetos de data centers nos EUA pode impactar o setor de tecnologia e a cadeia de suprimentos de chips, afetando empresas que dependem de capital externo. Se houver cortes de gastos de capital por grandes empresas de tecnologia, isso pode sinalizar um problema de mercado mais amplo.",
     "is_stocks": true
   }
 ]
