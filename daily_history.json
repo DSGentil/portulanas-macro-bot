@@ -305,5 +305,121 @@
     "origem": "domestica",
     "leitura_critica": "A proximidade da eleição e a divulgação do IPCA-15 são fatores que podem gerar volatilidade nos mercados. A leitura do IPCA-15 será crucial para avaliar as pressões inflacionárias e suas possíveis implicações para a política monetária.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792422937.0872107,
+    "titulo": "PEC da tarifa zero tratará apenas do financiamento por emendas",
+    "titulo_original": "PEC da tarifa zero tratará apenas do financiamento por emendas",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 11:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de destinar emendas parlamentares para financiar a tarifa zero no transporte público é uma decisão fiscal concreta que afeta o orçamento. Se aprovada, pode indicar uma priorização de gastos com apelo social em detrimento de outras áreas; caso a proposta seja alterada no Congresso para incluir outras fontes de financiamento, o impacto fiscal pode ser diferente do inicialmente previsto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792422941.0195723,
+    "titulo": "Inadimplência das famílias eleva risco de calote às incorporadoras do Minha Casa, Minha Vida",
+    "titulo_original": "Inadimplência das famílias eleva risco de calote às incorporadoras do Minha Casa, Minha Vida",
+    "fonte": "Folha Mercado",
+    "publicado": "19/10 12:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da inadimplência no programa Minha Casa, Minha Vida pode impactar a atividade do setor imobiliário e, consequentemente, a geração de empregos associada. Se a inadimplência se agravar, pode haver uma desaceleração no ritmo de lançamentos e vendas, afetando a dinâmica econômica do setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792422945.2984712,
+    "titulo": "El Niño leva produtores de soja a reduzir vendas - Agrolink",
+    "titulo_original": "El Niño leva produtores de soja a reduzir vendas - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "19/10 10:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A redução nas vendas de soja por parte dos produtores devido ao El Niño pode impactar a oferta e os preços futuros do grão. Se essa redução for generalizada, pode haver pressão sobre a inflação de alimentos ou afetar a balança comercial, dependendo da magnitude.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792422949.1744347,
+    "titulo": "Safra eleva preço-alvo da Meta em US$ 215 e diz que empresa deve apresentar um 3T26 forte",
+    "titulo_original": "Safra eleva preço-alvo da Meta em US$ 215 e diz que empresa deve apresentar um 3T26 forte",
+    "fonte": "Money Times",
+    "publicado": "19/10 11:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A elevação do preço-alvo da Meta pelo Safra é uma análise de mercado específica para uma empresa de tecnologia. Não há conexão explícita com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital no Brasil, sendo, portanto, de relevância limitada para o contexto local.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792422955.7656167,
+    "titulo": "Nasdaq e S&P 500 sobem em NY com recuperação das ações de tecnologia",
+    "titulo_original": "Nasdaq e S&P 500 sobem em NY com recuperação das ações de tecnologia",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 10:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das ações de tecnologia nos EUA, embora positiva para o mercado acionário global, não se conecta diretamente aos canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital no Brasil, a menos que a notícia explicite essa ligação. A cautela dos investidores pode indicar um cenário de maior seletividade em investimentos de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792422955.766623,
+    "titulo": "Suzano (SUZB3) deve superar consenso no 3T26, enquanto Klabin (KLBN11) fica abaixo das projeções do Safra",
+    "titulo_original": "Suzano (SUZB3) deve superar consenso no 3T26, enquanto Klabin (KLBN11) fica abaixo das projeções do Safra",
+    "fonte": "Money Times",
+    "publicado": "19/10 11:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de resultados mistos para empresas de papel e celulose no Brasil pode indicar diferentes dinâmicas setoriais. Se a Suzano superar as projeções, pode sinalizar resiliência em seu segmento; se a Klabin ficar abaixo, pode indicar desafios específicos que merecem acompanhamento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792422955.7674415,
+    "titulo": "Fim da escala 6×1 pode consumir até 15% do lucro de empresas do agro, vê BTG; veja quem está mais exposto",
+    "titulo_original": "Fim da escala 6×1 pode consumir até 15% do lucro de empresas do agro, vê BTG; veja quem está mais exposto",
+    "fonte": "Money Times",
+    "publicado": "19/10 11:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A mudança na escala de trabalho 6x1 pode impactar diretamente os custos de mão de obra no setor do agronegócio, afetando a atividade econômica e a rentabilidade das empresas. Se o impacto for significativo, pode levar a reajustes na produção ou na contratação de pessoal.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792422955.768218,
+    "titulo": "Itaú BBA vê Movida (MOVI3) entre as melhores apostas para um cenário de Selic menor e eleva preço-alvo em R$ 10",
+    "titulo_original": "Itaú BBA vê Movida (MOVI3) entre as melhores apostas para um cenário de Selic menor e eleva preço-alvo em R$ 10",
+    "fonte": "Money Times",
+    "publicado": "19/10 11:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão do Itaú BBA sobre a Movida como uma boa aposta em um cenário de Selic menor conecta a análise de uma empresa específica a uma expectativa de política monetária. Se a Selic de fato cair, isso pode impulsionar o setor de aluguel de carros; caso contrário, a performance da empresa pode ser afetada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792422955.7689865,
+    "titulo": "Safra passa a tesoura em preços-alvo e rebaixa recomendações de fundos imobiliários (FIIs)",
+    "titulo_original": "Safra passa a tesoura em preços-alvo e rebaixa recomendações de fundos imobiliários (FIIs)",
+    "fonte": "Money Times",
+    "publicado": "19/10 11:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O rebaixamento de recomendações de fundos imobiliários pelo Safra indica uma visão cautelosa sobre o desempenho desses ativos no setor de shopping centers. Se as perspectivas para os resultados e dividendos se confirmarem negativas, pode haver uma pressão sobre os preços das cotas desses FIIs.",
+    "is_stocks": true
   }
 ]
