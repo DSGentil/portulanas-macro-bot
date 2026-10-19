@@ -856,5 +856,49 @@
     "origem": "domestica",
     "leitura_critica": "A notícia destaca a acirrada disputa eleitoral e sua influência na oscilação do Ibovespa. Se o cenário eleitoral se mantiver incerto, a volatilidade no mercado acionário pode persistir. A proximidade do empate técnico sugere que o mercado pode estar precificando diferentes desfechos, o que pode gerar volatilidade no dólar e nos juros futuros dependendo da percepção de risco de cada resultado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792452636.5255618,
+    "titulo": "Faturamento de PMEs se mantém estável no terceiro trimestre",
+    "titulo_original": "Faturamento de PMEs se mantém estável no terceiro trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 19:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O faturamento estável das PMEs, com crescimento de apenas 0,6%, indica uma perda de força na atividade econômica doméstica. Se os juros permanecerem em patamares elevados e a inflação persistir, a tendência de desaceleração pode se acentuar nos próximos trimestres. A revisão para baixo na projeção de crescimento reforça esse cenário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792452641.4618058,
+    "titulo": "Parcela de petróleo da União no pré-sal cresce 86% em 1 ano",
+    "titulo_original": "Parcela de petróleo da União no pré-sal cresce 86% em 1 ano - Poder360",
+    "fonte": "Google News Commodities",
+    "publicado": "19/10 18:17",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O expressivo aumento de 86% na parcela de petróleo da União no pré-sal em um ano sugere um impacto positivo na arrecadação fiscal do governo. Se essa tendência se mantiver, pode contribuir para a melhora das contas públicas, mas a notícia não detalha se essa variação se deve a mudanças regulatórias ou a fatores de mercado e produção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792452646.8451571,
+    "titulo": "ANPD pede que Meta esclareça denúncias de violações de contas em redes sociais na campanha eleitoral",
+    "titulo_original": "ANPD pede que Meta esclareça denúncias de violações de contas em redes sociais na campanha eleitoral",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 17:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notificação da ANPD à Meta sobre violações em redes sociais durante campanhas eleitorais pode indicar um aprofundamento da fiscalização sobre a atuação de big techs no Brasil. Se as respostas da Meta não forem satisfatórias ou se a investigação levar a sanções, isso pode influenciar a forma como plataformas digitais operam e moderam conteúdo no país, impactando a liberdade de expressão e a privacidade de dados.",
+    "is_stocks": true
   }
 ]
