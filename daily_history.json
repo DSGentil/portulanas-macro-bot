@@ -624,5 +624,111 @@
     "origem": "externa",
     "leitura_critica": "A queda do ouro, impulsionada pelo aumento do apetite ao risco e pela valorização dos Treasuries, sugere um cenário de maior confiança dos investidores em ativos de maior volatilidade. Se os rendimentos dos Treasuries continuarem a subir, o ouro pode enfrentar pressão adicional; contudo, um aumento da aversão ao risco global poderia reverter essa tendência e impulsionar o metal como refúgio.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792441844.486515,
+    "titulo": "PGR diz a Fachin ser contra soltura de pai, primo, cunhado e operador financeiro de Vorcaro",
+    "titulo_original": "PGR diz a Fachin ser contra soltura de pai, primo, cunhado e operador financeiro de Vorcaro",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 16:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A posição da PGR em relação aos pedidos de soltura pode influenciar a decisão do ministro Fachin. Se os pedidos forem negados, isso pode indicar um endurecimento na investigação e nos processos relacionados ao caso do Banco Master; se forem aceitos, pode haver uma flexibilização nas ações judiciais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792441848.3938594,
+    "titulo": "O que está sendo feito por aqueles sem nenhum direito trabalhista?",
+    "titulo_original": "O que está sendo feito por aqueles sem nenhum direito trabalhista?",
+    "fonte": "Folha Mercado",
+    "publicado": "19/10 16:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As recentes mudanças nas regras do mercado de trabalho, como a redução da jornada e a ampliação do limite do MEI, podem impactar a dinâmica do emprego e a formalização de trabalhadores. Se a ampliação do MEI estimular o empreendedorismo, isso pode gerar mais vagas formais; caso contrário, pode haver um aumento na informalidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792441852.3721218,
+    "titulo": "Clima irregular aumenta riscos para o plantio da soja",
+    "titulo_original": "Clima irregular aumenta riscos para o plantio da soja - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "19/10 15:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O clima irregular representa um risco direto para a safra de soja, podendo afetar a produtividade e os preços do grão. Se as condições climáticas adversas persistirem, isso pode levar a uma redução na oferta de soja, impactando os mercados de commodities e alimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792441856.2391574,
+    "titulo": "Polícia de Israel prende 10 suspeitos por ataques a jornalista e diplomatas na Cisjordânia",
+    "titulo_original": "Polícia de Israel prende 10 suspeitos por ataques a jornalista e diplomatas na Cisjordânia - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "19/10 12:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A prisão de suspeitos por ataques na Cisjordânia pode indicar um esforço para estabilizar a região. Se essas prisões levarem a uma diminuição da violência, isso pode ter um impacto positivo na percepção de risco geopolítico na área; caso contrário, a instabilidade pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792441861.1792936,
+    "titulo": "Selic pode cair a 6,3% em 2028 com ajuste fiscal, calcula BTG",
+    "titulo_original": "Selic pode cair a 6,3% em 2028 com ajuste fiscal, calcula BTG - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/10 11:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do BTG de que a Selic pode cair a 6,3% em 2028 está condicionada a um ajuste fiscal. Se o governo conseguir implementar as medidas fiscais necessárias, isso abrirá espaço para o Banco Central reduzir a taxa de juros; caso contrário, a meta de inflação pode ser comprometida e a Selic pode permanecer mais alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792441861.1804204,
+    "titulo": "Em NY, Nasdaq e S&P 500 sobem com impulso do setor de tecnologia",
+    "titulo_original": "Em NY, Nasdaq e S&P 500 sobem com impulso do setor de tecnologia",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 17:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho positivo do setor de tecnologia, especialmente em ativos ligados à inteligência artificial, pode indicar um apetite por risco em setores específicos. Se os resultados trimestrais das empresas de tecnologia vierem abaixo do esperado, essa tendência de alta pode se reverter rapidamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792441861.1814992,
+    "titulo": "Apple enfrenta novo pedido de indenização após veredicto histórico de patente de US$ 5,7 bi",
+    "titulo_original": "Apple enfrenta novo pedido de indenização após veredicto histórico de patente de US$ 5,7 bi",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 16:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desdobramento deste caso de patente pode impactar os resultados financeiros da Apple. Se o juiz conceder as indenizações adicionais e juros solicitados pela Taction, isso representará um custo significativo para a empresa; caso contrário, a Apple poderá ter um alívio financeiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792441861.182536,
+    "titulo": "Justiça reconhece vínculo trabalhista de assessores da corretora Santander",
+    "titulo_original": "Justiça reconhece vínculo trabalhista de assessores da corretora Santander",
+    "fonte": "Folha Mercado",
+    "publicado": "19/10 16:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Justiça do Trabalho reconhecendo o vínculo trabalhista de assessores do Santander pode gerar um precedente para casos semelhantes no setor financeiro. Se o Santander decidir não recorrer, isso pode levar a um aumento nos custos trabalhistas da empresa e de outras instituições que utilizam terceirização para funções similares.",
+    "is_stocks": true
   }
 ]
