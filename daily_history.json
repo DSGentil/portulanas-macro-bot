@@ -730,5 +730,131 @@
     "origem": "domestica",
     "leitura_critica": "A decisão da Justiça do Trabalho reconhecendo o vínculo trabalhista de assessores do Santander pode gerar um precedente para casos semelhantes no setor financeiro. Se o Santander decidir não recorrer, isso pode levar a um aumento nos custos trabalhistas da empresa e de outras instituições que utilizam terceirização para funções similares.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792447251.1977434,
+    "titulo": "Medidas de Lula exigem remanejamento de R$ 20 bilhões no Orçamento de 2027, diz governo",
+    "titulo_original": "Medidas de Lula exigem remanejamento de R$ 20 bilhões no Orçamento de 2027, diz governo",
+    "fonte": "Money Times",
+    "publicado": "19/10 16:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa sobre um remanejamento de R$ 20 bilhões no Orçamento de 2027, o que representa uma decisão fiscal concreta. Se esse remanejamento implicar em aumento de despesas ou alteração na trajetória da dívida pública, isso pode pressionar os juros futuros e afetar a percepção de risco fiscal do país. A magnitude do impacto dependerá da natureza exata das medidas e de como elas se encaixam nas metas fiscais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792447256.529906,
+    "titulo": "Camilo Santana critica transição de saída do Bolsa Família proposta por campanha de Flávio",
+    "titulo_original": "Camilo Santana critica transição de saída do Bolsa Família proposta por campanha de Flávio",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 18:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda uma crítica a uma proposta de política social em meio a um cenário eleitoral. Se essa proposta for implementada, pode haver um impacto no gasto público e na dinâmica do mercado de trabalho para beneficiários de programas sociais. A relevância para os canais macroeconômicos dependerá da concretização dessa proposta e de seu impacto fiscal, que não está explicitado no resumo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792447261.4009814,
+    "titulo": "Dólar à vista recua com ajuste de posições de olho no 2º turno da eleição",
+    "titulo_original": "Dólar à vista recua com ajuste de posições de olho no 2º turno da eleição",
+    "fonte": "Valor Economico",
+    "publicado": "19/10 17:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A desvalorização do dólar à vista para R$ 5,0480, atribuída ao ajuste de posições em vista do segundo turno eleitoral, sugere que o mercado está precificando um cenário eleitoral com menor incerteza. Se o resultado do segundo turno for percebido como favorável à estabilidade econômica, isso pode sustentar o real. A força do dólar no exterior, no entanto, indica que fatores globais também influenciam a moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792447266.2860184,
+    "titulo": "Boletim Cambial (19/10): Dólar e Euro PTAX",
+    "titulo_original": "Boletim Cambial (19/10): Dólar e Euro PTAX - trademap.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/10 13:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia se refere a um boletim cambial com dados de PTAX para Dólar e Euro. A PTAX é uma taxa de referência importante para o mercado de câmbio. Se o boletim apresentar variações significativas ou indicar tendências de valorização ou desvalorização da moeda, isso pode ser relevante para a leitura do comportamento do câmbio. A relevância específica dependerá dos dados apresentados no boletim, que não estão detalhados aqui.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792447272.376645,
+    "titulo": "Notícias do mercado americano: IA se recupera, mas petróleo também sobe",
+    "titulo_original": "investingLive Americas market news wrap: AI trades rebound but so does oil",
+    "fonte": "ForexLive",
+    "publicado": "19/10 17:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O CPI do Canadá veio ligeiramente abaixo do esperado, o que pode sugerir uma pressão inflacionária menor no país. Se os dados de inflação em outras economias desenvolvidas seguirem essa tendência, isso pode influenciar as decisões de política monetária globalmente, potencialmente levando a um cenário de juros mais baixos no futuro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792447272.377866,
+    "titulo": "Ibovespa fecha em queda de 0,17% e dólar comercial recua 0,5%",
+    "titulo_original": "Ibovespa fecha em queda de 0,17% e dólar comercial recua 0,5% - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/10 18:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia reporta o desempenho do Ibovespa e do dólar, com o dólar apresentando recuo. Se a queda do dólar for sustentada por fatores internos, como maior clareza no cenário eleitoral ou fluxo de capital positivo, isso pode ser um indicativo de melhora na percepção de risco do país. A continuidade dessa tendência dependerá dos próximos desdobramentos políticos e econômicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792447272.3904731,
+    "titulo": "Juros e Ibovespa vivem reviravolta: taxas sobem e bolsa termina em queda",
+    "titulo_original": "Juros e Ibovespa vivem reviravolta: taxas sobem e bolsa termina em queda",
+    "fonte": "InvestNews",
+    "publicado": "19/10 14:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A inversão na direção dos juros futuros, que passaram a subir após abrirem em alta, sugere uma mudança na expectativa do mercado em relação à política monetária ou a riscos fiscais. Se essa alta dos juros for acompanhada por declarações mais duras do Banco Central ou por dados de inflação piores que o esperado, isso pode indicar um cenário de juros mais altos por mais tempo. O fechamento do Ibovespa em queda, em contrapartida, pode refletir a aversão ao risco associada a juros mais altos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792447272.391638,
+    "titulo": "Ibovespa tem queda discreta com ajuste em Petrobras e eleição em foco",
+    "titulo_original": "Ibovespa tem queda discreta com ajuste em Petrobras e eleição em foco - Notícias Agrícolas",
+    "fonte": "Google News Acoes",
+    "publicado": "19/10 17:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia reporta a performance do Ibovespa, mencionando ajustes em Petrobras e o foco na eleição. Se a eleição gerar incertezas, isso pode continuar a pressionar o mercado acionário. A performance de Petrobras, por sua vez, pode ser influenciada por fatores setoriais e de precificação de commodities, mas a notícia não detalha esses aspectos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792447272.392779,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa tem queda curta e se mantém nos 205 mil",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa tem queda curta e se mantém nos 205 mil - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "19/10 14:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia descreve um movimento de baixa curta no Ibovespa, mantendo-o em um patamar específico. A relevância se limita ao desempenho do índice acionário, sem detalhar os fatores que impulsionaram ou frearam essa movimentação de forma a conectar com os canais macroeconômicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792447272.3938994,
+    "titulo": "Lula X Bolsonaro: Debate muda alguma coisa? A visão do fundador do Market Makers",
+    "titulo_original": "Lula X Bolsonaro: Debate muda alguma coisa? A visão do fundador do Market Makers",
+    "fonte": "Money Times",
+    "publicado": "19/10 16:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia destaca a acirrada disputa eleitoral e sua influência na oscilação do Ibovespa. Se o cenário eleitoral se mantiver incerto, a volatilidade no mercado acionário pode persistir. A proximidade do empate técnico sugere que o mercado pode estar precificando diferentes desfechos, o que pode gerar volatilidade no dólar e nos juros futuros dependendo da percepção de risco de cada resultado.",
+    "is_stocks": true
   }
 ]
