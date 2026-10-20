@@ -1079,5 +1079,72 @@
     "origem": "externa",
     "leitura_critica": "A notícia reporta uma forte desvalorização em bolsas asiáticas, indicando um sentimento de aversão ao risco na região. Não há conexão explícita com os canais macroeconômicos definidos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792509363.5960054,
+    "titulo": "Ajuste fiscal requer liderança política e boa técnica",
+    "titulo_original": "Ajuste fiscal requer liderança política e boa técnica",
+    "fonte": "Folha Mercado",
+    "publicado": "20/10 11:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistente deterioração fiscal e o consequente aumento da dívida pública brasileira, associados a altas taxas de juros, criam um cenário desafiador para a economia. A necessidade de liderança política e técnica para um ajuste fiscal efetivo é destacada como crucial para reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792509368.03438,
+    "titulo": "Tesouro Direto hoje: taxas voltam a cair após virada dos juros futuros",
+    "titulo_original": "Tesouro Direto hoje: taxas voltam a cair após virada dos juros futuros",
+    "fonte": "InvestNews",
+    "publicado": "20/10 11:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas taxas do Tesouro Direto, após uma virada nos juros futuros, sugere uma mudança nas expectativas do mercado em relação à política monetária. Se essa tendência de queda se mantiver, pode indicar um cenário de juros menores no futuro, impactando a atratividade de diferentes classes de ativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792509372.4805024,
+    "titulo": "Flávio Bolsonaro promete restabelecer Perse",
+    "titulo_original": "Flávio Bolsonaro promete restabelecer Perse",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 12:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A promessa de restabelecer o Perse, se concretizada, implicaria em uma nova renúncia fiscal, cujos detalhes de implementação e fonte de recursos não foram apresentados. Caso a proposta seja aprovada, o impacto nas contas públicas precisará ser avaliado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792509376.852171,
+    "titulo": "Irã concorda com visitas secretas a locais nucleares em mudança para compromisso, diz relatório",
+    "titulo_original": "Iran agreed to secret nuclear site visits in shift towards compromise, report says",
+    "fonte": "ForexLive",
+    "publicado": "20/10 10:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Se a notícia se confirmar, a possibilidade de um acordo nuclear pode reduzir a aversão ao risco global, o que tenderia a beneficiar mercados emergentes. Contudo, a reação modesta do mercado de petróleo sugere cautela quanto à confirmação e ao impacto imediato.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792509382.0358868,
+    "titulo": "ByteDance, Alibaba e Tencent pedem US$ 35 bi em chips da Nvidia",
+    "titulo_original": "ByteDance, Alibaba e Tencent pedem US$ 35 bi em chips da Nvidia",
+    "fonte": "Folha Mercado",
+    "publicado": "20/10 10:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia indica uma demanda significativa por chips de alta tecnologia por parte de grandes empresas chinesas, em resposta às restrições de exportação dos EUA. Isso pode refletir a estratégia de empresas de tecnologia em contornar barreiras comerciais e manter suas operações, com potenciais implicações para o setor de semicondutores e para as relações comerciais entre EUA e China.",
+    "is_stocks": true
   }
 ]
