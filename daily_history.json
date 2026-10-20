@@ -970,5 +970,114 @@
     "origem": "externa",
     "leitura_critica": "O forte relatório de emprego do Reino Unido, com queda na taxa de desemprego e aumento significativo na criação de vagas, reforça a expectativa de que o Banco da Inglaterra (BoE) possa considerar um aumento nas taxas de juros. Se o BoE de fato elevar os juros, isso pode impactar o fluxo de capital para a região e influenciar outras moedas globais. A persistência de dados de emprego fortes pode indicar uma economia resiliente, mas também pressionar a inflação.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792502144.839608,
+    "titulo": "Juros recuam com dólar em meio a trade eleitoral",
+    "titulo_original": "Juros recuam com dólar em meio a trade eleitoral - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 09:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos juros futuros, associada a fatores eleitorais, sugere que o mercado precifica um cenário político que pode ser interpretado como favorável a uma política monetária mais branda. Se o resultado eleitoral consolidar essa percepção, a tendência de queda nos juros pode se manter.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792502149.28207,
+    "titulo": "Estresse com eleição acirrada se dissipa e juros futuros iniciam pregão em queda",
+    "titulo_original": "Estresse com eleição acirrada se dissipa e juros futuros iniciam pregão em queda",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 09:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos juros futuros, impulsionada pela percepção do resultado eleitoral, sugere que o mercado precifica um cenário político que pode levar a uma política monetária mais previsível ou favorável. Se a consolidação desse cenário se confirmar, a tendência de queda nos juros pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792502153.688844,
+    "titulo": "Em meio a crise fiscal, Colômbia aprova orçamento para 2027",
+    "titulo_original": "Em meio a crise fiscal, Colômbia aprova orçamento para 2027",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 09:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A aprovação de um orçamento com déficit ampliado e realocação de gastos pode indicar uma pressão contínua sobre as contas públicas colombianas. Se a dívida pública continuar a crescer conforme projetado, o país pode enfrentar dificuldades adicionais para sua recuperação econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792502158.2494953,
+    "titulo": "US September housing starts 1.221M vs 1.305M",
+    "titulo_original": "US September housing starts 1.221M vs 1.305M",
+    "fonte": "ForexLive",
+    "publicado": "20/10 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nas novas construções residenciais nos EUA, em um cenário de altas taxas de juros, sugere um arrefecimento da atividade econômica em um setor sensível. Se as taxas de juros permanecerem elevadas, a desaceleração no setor imobiliário pode se aprofundar, impactando outros setores da economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792502163.826383,
+    "titulo": "Ibovespa hoje: pesquisa eleitoral e petróleo podem mexer com a Bolsa nesta terça",
+    "titulo_original": "Ibovespa hoje: pesquisa eleitoral e petróleo podem mexer com a Bolsa nesta terça - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "20/10 04:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aponta para fatores que podem influenciar o desempenho da bolsa, como o cenário eleitoral e o preço do petróleo. A volatilidade do petróleo pode impactar a inflação e a atividade econômica, mas a notícia não detalha essa conexão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792502163.8278399,
+    "titulo": "Vale (VALE3) apresenta registro para programa de panda bonds na China",
+    "titulo_original": "Vale (VALE3) apresenta registro para programa de panda bonds na China",
+    "fonte": "Money Times",
+    "publicado": "20/10 09:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia indica um movimento de captação de recursos da Vale no mercado chinês, o que pode ser interpretado como um fluxo de capital para a empresa. Se o programa for bem-sucedido, pode indicar acesso a novas fontes de financiamento internacional.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792502163.8293474,
+    "titulo": "B3 quer atrair pequenas mineradoras que buscam capital no exterior",
+    "titulo_original": "B3 quer atrair pequenas mineradoras que buscam capital no exterior - CNN Brasil",
+    "fonte": "Google News Acoes",
+    "publicado": "20/10 04:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa da B3 de atrair pequenas mineradoras para buscar capital no exterior sugere um esforço para facilitar o fluxo de capital estrangeiro para empresas brasileiras. Se bem-sucedida, pode impulsionar o investimento em setores específicos da economia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792502163.8307066,
+    "titulo": "Bolsa de Seul despenca mais de 3%; ações da China também caem",
+    "titulo_original": "Bolsa de Seul despenca mais de 3%; ações da China também caem",
+    "fonte": "Folha Mercado",
+    "publicado": "20/10 09:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia reporta uma forte desvalorização em bolsas asiáticas, indicando um sentimento de aversão ao risco na região. Não há conexão explícita com os canais macroeconômicos definidos.",
+    "is_stocks": true
   }
 ]
