@@ -1,90 +1,5 @@
 [
   {
-    "_timestamp": 1792415744.1394093,
-    "titulo": "Juros futuros recuam às vésperas do 2° turno após estresse da semana passada",
-    "titulo_original": "Juros futuros recuam às vésperas do 2° turno após estresse da semana passada",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 09:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nos juros futuros indica uma diminuição da percepção de risco no mercado, possivelmente ligada a expectativas sobre o resultado eleitoral. Se a incerteza política diminuir, pode haver uma tendência de queda mais consolidada nos juros, impactando decisões de crédito e investimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792415749.1616726,
-    "titulo": "Economistas aumentam previsão da inflação no próximo ano",
-    "titulo_original": "Economistas aumentam previsão da inflação no próximo ano",
-    "fonte": "Folha Mercado",
-    "publicado": "19/10 09:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da previsão de inflação e a redução da projeção de PIB indicam um cenário de stagflação, onde a inflação persiste enquanto o crescimento econômico desacelera. Isso pode levar o Banco Central a manter uma postura mais cautelosa em relação à política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792415754.329236,
-    "titulo": "Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo - InfoMoney",
-    "titulo_original": "Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/10 08:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução na projeção do PIB sugere uma perspectiva de menor atividade econômica para 2026, o que pode influenciar decisões de investimento. A expectativa de um dólar mais baixo, se concretizada, pode impactar a competitividade de exportações e o custo de importações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792415759.3769011,
-    "titulo": "Associação de aviação diz que reforma tributária pode elevar preço das passagens",
-    "titulo_original": "Associação de aviação diz que reforma tributária pode elevar preço das passagens",
-    "fonte": "Folha Mercado",
-    "publicado": "19/10 09:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A reforma tributária, ao impactar o setor aéreo, demonstra um efeito concreto de uma decisão fiscal/regulatória. Se a reforma for aprovada com as características que elevam os preços, isso pode ter um impacto inflacionário em serviços e afetar o consumo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792415765.3617852,
-    "titulo": "Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio",
-    "titulo_original": "Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio",
-    "fonte": "Money Times",
-    "publicado": "19/10 09:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A percepção do Fed sobre o impacto da IA na inflação sugere que o banco central americano pode manter uma postura mais restritiva em sua política monetária. Se essa visão se consolidar, pode haver pressão contínua sobre os juros globais, afetando o custo do capital.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792415765.362516,
-    "titulo": "Mercados hoje: reta final da disputa eleitoral e IPCA-15 são os destaques da semana - Bora Investir B3",
-    "titulo_original": "Mercados hoje: reta final da disputa eleitoral e IPCA-15 são os destaques da semana - Bora Investir B3",
-    "fonte": "Google News Acoes",
-    "publicado": "19/10 09:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proximidade da eleição e a divulgação do IPCA-15 são fatores que podem gerar volatilidade nos mercados. A leitura do IPCA-15 será crucial para avaliar as pressões inflacionárias e suas possíveis implicações para a política monetária.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792422937.0872107,
     "titulo": "PEC da tarifa zero tratará apenas do financiamento por emendas",
     "titulo_original": "PEC da tarifa zero tratará apenas do financiamento por emendas",
@@ -1163,6 +1078,124 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A oferta de cartões de crédito atrelados a investimentos pelo BTG Pactual visa atrair e reter clientes, incentivando a permanência de recursos na instituição. Se essa iniciativa for bem-sucedida, pode aumentar a base de clientes e o volume de ativos sob gestão. O impacto direto nos canais macro é limitado, mas pode refletir um cenário de busca por rentabilidade em renda fixa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792528245.9898643,
+    "titulo": "iFood Benefícios assina acordo para compra da Caju e se aproxima das líderes de segmento",
+    "titulo_original": "iFood Benefícios assina acordo para compra da Caju e se aproxima das líderes de segmento",
+    "fonte": "Folha Mercado",
+    "publicado": "20/10 15:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A consolidação no setor de benefícios corporativos, com a aprovação do Cade, pode levar a mudanças na dinâmica competitiva. A análise do Banco Central indicará a percepção regulatória sobre o impacto no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792528251.1435568,
+    "titulo": "REAL11: novo ETF da XP combina rendimento da Selic e exposição ao real; entenda",
+    "titulo_original": "REAL11: novo ETF da XP combina rendimento da Selic e exposição ao real; entenda - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 12:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A criação de um ETF atrelado à Selic e ao real pode atrair investidores que buscam uma forma diversificada de se expor à taxa de juros brasileira e à moeda local. Se a Selic permanecer em patamares elevados, o ETF pode apresentar um desempenho atrativo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792528256.2332144,
+    "titulo": "Fitch Ratings destaca qualidade de concessões da Motiva e reafirma nota nacional",
+    "titulo_original": "Fitch Ratings destaca qualidade de concessões da Motiva e reafirma nota nacional",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 16:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção do rating máximo pela Fitch Ratings indica solidez financeira e operacional da Motiva. Isso pode facilitar o acesso da empresa a novas fontes de financiamento e reforçar a confiança dos investidores em seus projetos de infraestrutura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792528261.3568485,
+    "titulo": "Flávio Bolsonaro diz que vai retomar benefício fiscal a eventos criado na pandemia e criticado pelo governo Lula",
+    "titulo_original": "Flávio Bolsonaro diz que vai retomar benefício fiscal a eventos criado na pandemia e criticado pelo governo Lula",
+    "fonte": "Folha Mercado",
+    "publicado": "20/10 15:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de retomar benefícios fiscais para o setor de eventos pode impactar a arrecadação pública. Se eleito, a implementação dessa medida dependerá de aprovação e poderá gerar debate sobre a sustentabilidade fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792528268.0387878,
+    "titulo": "Mercado de capitais tem captação recorde de R$ 556,7 bilhões no ano, impulsionado por renda fixa e retomada de FIIs e IPOs",
+    "titulo_original": "Mercado de capitais tem captação recorde de R$ 556,7 bilhões no ano, impulsionado por renda fixa e retomada de FIIs e IPOs",
+    "fonte": "Money Times",
+    "publicado": "20/10 17:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O volume recorde de captação no mercado de capitais indica um forte apetite por investimentos no Brasil, especialmente em renda fixa. A retomada de FIIs e IPOs sugere um ambiente mais favorável para a captação de recursos em renda variável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792528268.0408306,
+    "titulo": "Legendary apresenta proposta para comprar a Lionsgate Studios, dizem fontes",
+    "titulo_original": "Legendary apresenta proposta para comprar a Lionsgate Studios, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 16:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Se a aquisição for concretizada, a Legendary expandirá significativamente seu portfólio de conteúdo. A reação positiva das ações da Lionsgate indica que o mercado vê valor na transação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792528268.0423994,
+    "titulo": "Controladora da Gol e da Avianca vê IPO em 2026 como ‘muito difícil’ com mercado volátil",
+    "titulo_original": "Controladora da Gol e da Avianca vê IPO em 2026 como ‘muito difícil’ com mercado volátil",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 16:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A dificuldade em realizar um IPO, especialmente em mercados internacionais, reflete a incerteza econômica e setorial. Se a volatilidade persistir, outras empresas aéreas podem adiar planos de captação de recursos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792528268.0440001,
+    "titulo": "Wall Street tem tom misto com vaivém do petróleo; Nasdaq fecha próximo da estabilidade",
+    "titulo_original": "Wall Street tem tom misto com vaivém do petróleo; Nasdaq fecha próximo da estabilidade",
+    "fonte": "Money Times",
+    "publicado": "20/10 17:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade nos preços do petróleo e a incerteza sobre o setor de IA criaram um cenário misto em Wall Street. Se o petróleo continuar em trajetória de queda, isso pode beneficiar alguns setores, mas gerar preocupações em outros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792528268.0456502,
+    "titulo": "Relação de troca de ações é imutável, diz vice-presidente financeiro da Afya",
+    "titulo_original": "Relação de troca de ações é imutável, diz vice-presidente financeiro da Afya",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 15:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A confirmação da relação de troca de ações na fusão Afya-Yduqs traz clareza para os acionistas, mas a conclusão do negócio ainda depende da aprovação do Cade. Se o Cade aprovar a operação, a estrutura acionária das empresas será definida conforme o anunciado.",
     "is_stocks": true
   }
 ]
