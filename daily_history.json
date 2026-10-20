@@ -1146,5 +1146,107 @@
     "origem": "externa",
     "leitura_critica": "A notícia indica uma demanda significativa por chips de alta tecnologia por parte de grandes empresas chinesas, em resposta às restrições de exportação dos EUA. Isso pode refletir a estratégia de empresas de tecnologia em contornar barreiras comerciais e manter suas operações, com potenciais implicações para o setor de semicondutores e para as relações comerciais entre EUA e China.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792514738.5912287,
+    "titulo": "TCU recua e aprova contas do BC sem esperar julgamento do caso Master",
+    "titulo_original": "TCU recua e aprova contas do BC sem esperar julgamento do caso Master",
+    "fonte": "Folha Mercado",
+    "publicado": "20/10 12:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do TCU de aprovar as contas do Banco Central, sem aguardar o desfecho de outro processo, remove uma pendência regulatória. Se o julgamento do caso Master tivesse sido concluído de forma desfavorável ao BC, isso poderia ter gerado incertezas sobre a gestão do órgão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792514743.60872,
+    "titulo": "Dólar volta a recuar e real se destaca com mercado de olho em eleições",
+    "titulo_original": "Dólar volta a recuar e real se destaca com mercado de olho em eleições - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 09:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aponta para uma valorização do real e um recuo do dólar, associando o movimento à atenção do mercado com as eleições. Se a tendência de valorização do real se mantiver, isso pode indicar um fluxo de capital mais favorável ao país ou uma percepção de menor risco político.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792514750.369696,
+    "titulo": "Boletim Cambial (20/10): Dólar e Euro PTAX",
+    "titulo_original": "Boletim Cambial (20/10): Dólar e Euro PTAX - TradeMap",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 13:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia se refere a um boletim cambial que inclui a cotação do dólar e do euro, além da PTAX. A divulgação desses dados é relevante para acompanhar a dinâmica do câmbio no dia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792514755.3365977,
+    "titulo": "Dólar recua com pesquisas eleitorais e fluxo em meio a petróleo forte",
+    "titulo_original": "Dólar recua com pesquisas eleitorais e fluxo em meio a petróleo forte - Jornal do Comércio",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 10:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A notícia indica um recuo do dólar, atribuído a fatores domésticos (pesquisas eleitorais) e fluxos de capital, em um contexto internacional de petróleo em alta. Se as pesquisas eleitorais continuarem a indicar um cenário de menor risco percebido, isso pode sustentar a valorização do real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792514760.765834,
+    "titulo": "Estrangeiros aportam R$ 2,2 bilhões em ações na B3 em 16 outubro",
+    "titulo_original": "Estrangeiros aportam R$ 2,2 bilhões em ações na B3 em 16 outubro - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "20/10 11:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia reporta um fluxo de capital estrangeiro positivo para o mercado de ações brasileiro. Se esse fluxo se mantiver ou aumentar, pode indicar maior apetite de investidores internacionais por ativos brasileiros, o que tende a sustentar a bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792514760.7672057,
+    "titulo": "Ativos locais têm forte valorização com foco em quadro eleitoral",
+    "titulo_original": "Ativos locais têm forte valorização com foco em quadro eleitoral",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 12:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia descreve uma forte valorização dos ativos brasileiros, associada à percepção de menor risco eleitoral. Se a tendência de valorização se mantiver, isso pode indicar um cenário de maior confiança dos investidores no país, impactando diretamente o câmbio e a bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792514760.7684863,
+    "titulo": "Bolsas na Europa caem com cautela sobre o cenário da França e balanços",
+    "titulo_original": "Bolsas na Europa caem com cautela sobre o cenário da França e balanços",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 13:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia aponta para uma cautela nos mercados europeus, influenciada por instabilidade social na França e resultados corporativos. Se a instabilidade na França se intensificar, isso pode gerar maior aversão ao risco global e afetar outros mercados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792514760.7696438,
+    "titulo": "‘O ajuste fiscal talvez não tenha que ser agressivo quanto o que se pensava antes’, diz analista",
+    "titulo_original": "‘O ajuste fiscal talvez não tenha que ser agressivo quanto o que se pensava antes’, diz analista",
+    "fonte": "Money Times",
+    "publicado": "20/10 13:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de um analista sugere uma possível flexibilização nas futuras políticas de ajuste fiscal. Se essa visão se concretizar em decisões governamentais, pode haver um impacto na trajetória da dívida pública e nas expectativas de gastos.",
+    "is_stocks": true
   }
 ]
