@@ -900,5 +900,75 @@
     "origem": "domestica",
     "leitura_critica": "A notificação da ANPD à Meta sobre violações em redes sociais durante campanhas eleitorais pode indicar um aprofundamento da fiscalização sobre a atuação de big techs no Brasil. Se as respostas da Meta não forem satisfatórias ou se a investigação levar a sanções, isso pode influenciar a forma como plataformas digitais operam e moderam conteúdo no país, impactando a liberdade de expressão e a privacidade de dados.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792495856.8838563,
+    "titulo": "Cenário para Selic de 6% nos próximos anos depende de credibilidade fiscal",
+    "titulo_original": "Cenário para Selic de 6% nos próximos anos depende de credibilidade fiscal - Money Report",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 06:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia estabelece uma forte ligação entre a credibilidade fiscal e a manutenção da taxa Selic em um patamar de 6% no médio prazo. Se a percepção de risco fiscal aumentar, o Banco Central pode ser forçado a manter os juros em patamares mais elevados para conter a inflação e atrair capital, o que impactaria diretamente o custo do dinheiro e a atividade econômica. Por outro lado, se a credibilidade fiscal for mantida ou fortalecida, o cenário de juros mais baixos se torna mais plausível.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792495862.8660312,
+    "titulo": "Dólar cede e destoa de ativos locais com eleições",
+    "titulo_original": "Dólar cede e destoa de ativos locais com eleições - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A desvalorização do dólar em contraste com outros ativos locais, em meio ao cenário eleitoral, sugere que o mercado pode estar precificando um cenário de maior estabilidade política ou de resultados eleitorais que favoreçam a percepção de risco. Se o resultado das eleições trouxer maior clareza e previsibilidade, o dólar pode continuar a ceder, beneficiando ativos de risco no mercado doméstico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792495868.266223,
+    "titulo": "Debêntures incentivadas ignoram rali do mercado e estendem piora em outubro",
+    "titulo_original": "Debêntures incentivadas ignoram rali do mercado e estendem piora em outubro",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 07:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A piora nos spreads de debêntures incentivadas, mesmo em um cenário de otimismo pós-eleições, sugere que o mercado de crédito privado pode estar precificando um risco maior ou uma expectativa de juros mais altos por mais tempo. Se essa tendência de aumento de spreads se mantiver, pode indicar que a percepção de risco fiscal ou a necessidade de remuneração maior para o capital estão elevadas, impactando o custo de captação para empresas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792495873.6375685,
+    "titulo": "Selic alta protege o patrimônio? Entenda os limites",
+    "titulo_original": "Selic alta protege o patrimônio? Entenda os limites - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 07:58",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda a relação entre a taxa Selic e a proteção do patrimônio, o que a conecta ao canal de 'juros'. No entanto, por se tratar de uma discussão sobre os 'limites' e não de uma decisão ou dado concreto, sua relevância é considerada baixa, pois não apresenta um fato novo ou uma mudança de cenário imediata.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792495879.9776955,
+    "titulo": "Taxa de desemprego do Reino Unido cai para 4,7% com recuperação de empregos, mantendo apostas de aumento de juros do BoE intactas",
+    "titulo_original": "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets intact",
+    "fonte": "ForexLive",
+    "publicado": "20/10 03:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte relatório de emprego do Reino Unido, com queda na taxa de desemprego e aumento significativo na criação de vagas, reforça a expectativa de que o Banco da Inglaterra (BoE) possa considerar um aumento nas taxas de juros. Se o BoE de fato elevar os juros, isso pode impactar o fluxo de capital para a região e influenciar outras moedas globais. A persistência de dados de emprego fortes pode indicar uma economia resiliente, mas também pressionar a inflação.",
+    "is_stocks": true
   }
 ]
