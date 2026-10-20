@@ -1,121 +1,5 @@
 [
   {
-    "_timestamp": 1792422937.0872107,
-    "titulo": "PEC da tarifa zero tratará apenas do financiamento por emendas",
-    "titulo_original": "PEC da tarifa zero tratará apenas do financiamento por emendas",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 11:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de destinar emendas parlamentares para financiar a tarifa zero no transporte público é uma decisão fiscal concreta que afeta o orçamento. Se aprovada, pode indicar uma priorização de gastos com apelo social em detrimento de outras áreas; caso a proposta seja alterada no Congresso para incluir outras fontes de financiamento, o impacto fiscal pode ser diferente do inicialmente previsto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792422941.0195723,
-    "titulo": "Inadimplência das famílias eleva risco de calote às incorporadoras do Minha Casa, Minha Vida",
-    "titulo_original": "Inadimplência das famílias eleva risco de calote às incorporadoras do Minha Casa, Minha Vida",
-    "fonte": "Folha Mercado",
-    "publicado": "19/10 12:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da inadimplência no programa Minha Casa, Minha Vida pode impactar a atividade do setor imobiliário e, consequentemente, a geração de empregos associada. Se a inadimplência se agravar, pode haver uma desaceleração no ritmo de lançamentos e vendas, afetando a dinâmica econômica do setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792422945.2984712,
-    "titulo": "El Niño leva produtores de soja a reduzir vendas - Agrolink",
-    "titulo_original": "El Niño leva produtores de soja a reduzir vendas - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "19/10 10:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A redução nas vendas de soja por parte dos produtores devido ao El Niño pode impactar a oferta e os preços futuros do grão. Se essa redução for generalizada, pode haver pressão sobre a inflação de alimentos ou afetar a balança comercial, dependendo da magnitude.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792422949.1744347,
-    "titulo": "Safra eleva preço-alvo da Meta em US$ 215 e diz que empresa deve apresentar um 3T26 forte",
-    "titulo_original": "Safra eleva preço-alvo da Meta em US$ 215 e diz que empresa deve apresentar um 3T26 forte",
-    "fonte": "Money Times",
-    "publicado": "19/10 11:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A elevação do preço-alvo da Meta pelo Safra é uma análise de mercado específica para uma empresa de tecnologia. Não há conexão explícita com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital no Brasil, sendo, portanto, de relevância limitada para o contexto local.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792422955.7656167,
-    "titulo": "Nasdaq e S&P 500 sobem em NY com recuperação das ações de tecnologia",
-    "titulo_original": "Nasdaq e S&P 500 sobem em NY com recuperação das ações de tecnologia",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 10:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recuperação das ações de tecnologia nos EUA, embora positiva para o mercado acionário global, não se conecta diretamente aos canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital no Brasil, a menos que a notícia explicite essa ligação. A cautela dos investidores pode indicar um cenário de maior seletividade em investimentos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792422955.766623,
-    "titulo": "Suzano (SUZB3) deve superar consenso no 3T26, enquanto Klabin (KLBN11) fica abaixo das projeções do Safra",
-    "titulo_original": "Suzano (SUZB3) deve superar consenso no 3T26, enquanto Klabin (KLBN11) fica abaixo das projeções do Safra",
-    "fonte": "Money Times",
-    "publicado": "19/10 11:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de resultados mistos para empresas de papel e celulose no Brasil pode indicar diferentes dinâmicas setoriais. Se a Suzano superar as projeções, pode sinalizar resiliência em seu segmento; se a Klabin ficar abaixo, pode indicar desafios específicos que merecem acompanhamento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792422955.7674415,
-    "titulo": "Fim da escala 6×1 pode consumir até 15% do lucro de empresas do agro, vê BTG; veja quem está mais exposto",
-    "titulo_original": "Fim da escala 6×1 pode consumir até 15% do lucro de empresas do agro, vê BTG; veja quem está mais exposto",
-    "fonte": "Money Times",
-    "publicado": "19/10 11:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A mudança na escala de trabalho 6x1 pode impactar diretamente os custos de mão de obra no setor do agronegócio, afetando a atividade econômica e a rentabilidade das empresas. Se o impacto for significativo, pode levar a reajustes na produção ou na contratação de pessoal.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792422955.768218,
-    "titulo": "Itaú BBA vê Movida (MOVI3) entre as melhores apostas para um cenário de Selic menor e eleva preço-alvo em R$ 10",
-    "titulo_original": "Itaú BBA vê Movida (MOVI3) entre as melhores apostas para um cenário de Selic menor e eleva preço-alvo em R$ 10",
-    "fonte": "Money Times",
-    "publicado": "19/10 11:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A visão do Itaú BBA sobre a Movida como uma boa aposta em um cenário de Selic menor conecta a análise de uma empresa específica a uma expectativa de política monetária. Se a Selic de fato cair, isso pode impulsionar o setor de aluguel de carros; caso contrário, a performance da empresa pode ser afetada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792422955.7689865,
-    "titulo": "Safra passa a tesoura em preços-alvo e rebaixa recomendações de fundos imobiliários (FIIs)",
-    "titulo_original": "Safra passa a tesoura em preços-alvo e rebaixa recomendações de fundos imobiliários (FIIs)",
-    "fonte": "Money Times",
-    "publicado": "19/10 11:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O rebaixamento de recomendações de fundos imobiliários pelo Safra indica uma visão cautelosa sobre o desempenho desses ativos no setor de shopping centers. Se as perspectivas para os resultados e dividendos se confirmarem negativas, pode haver uma pressão sobre os preços das cotas desses FIIs.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792428362.0293958,
     "titulo": "Parcela de petróleo da União no pré-sal recua 4,57% em agosto, mas cresce 86,31% em um ano, diz PPSA",
     "titulo_original": "Parcela de petróleo da União no pré-sal recua 4,57% em agosto, mas cresce 86,31% em um ano, diz PPSA",
@@ -1196,6 +1080,116 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A confirmação da relação de troca de ações na fusão Afya-Yduqs traz clareza para os acionistas, mas a conclusão do negócio ainda depende da aprovação do Cade. Se o Cade aprovar a operação, a estrutura acionária das empresas será definida conforme o anunciado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792533651.7653902,
+    "titulo": "Juros futuros saem das mínimas, mas ainda têm queda forte com otimismo eleitoral",
+    "titulo_original": "Juros futuros saem das mínimas, mas ainda têm queda forte com otimismo eleitoral",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 17:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada dos juros futuros, atrelada ao otimismo eleitoral, sugere que o mercado precifica um cenário de maior estabilidade fiscal e política. Se o resultado eleitoral confirmar essa expectativa, a tendência de queda nos juros pode se manter; caso contrário, pode haver uma reversão rápida das taxas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792533657.269348,
+    "titulo": "Dólar cai 0,58% com apetite ao risco no exterior e 'trade' eleitoral - UOL Economia",
+    "titulo_original": "Dólar cai 0,58% com apetite ao risco no exterior e 'trade' eleitoral - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 17:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar, combinada com o apetite ao risco no exterior e o cenário eleitoral, sugere um fluxo de capital mais favorável ao Brasil. Se a percepção de risco político diminuir e o cenário externo permanecer positivo, o dólar pode continuar em trajetória de queda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792533664.4610791,
+    "titulo": "FT: Crescimento da receita da Netflix é o mais lento em três anos",
+    "titulo_original": "FT: Crescimento da receita da Netflix é o mais lento em três anos",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 18:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O ritmo de crescimento da receita da Netflix, o mais lento em três anos, pode indicar uma saturação do mercado de streaming ou uma maior concorrência. Se a empresa apresentar novas estratégias de monetização ou expansão para mercados emergentes, isso pode reverter a tendência de desaceleração.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792533664.462995,
+    "titulo": "SpaceX reverte prejuízo e lucra US$ 4,4 bilhões no 3º trimestre",
+    "titulo_original": "SpaceX reverte prejuízo e lucra US$ 4,4 bilhões no 3º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 18:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O lucro expressivo da SpaceX, impulsionado pela inteligência artificial, demonstra a força de seus novos segmentos de negócio. Se a empresa continuar a expandir suas operações em IA e conectividade, isso pode consolidar sua posição como um player relevante em múltiplos setores tecnológicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792533664.464833,
+    "titulo": "FIIs, Fiagros e FIDCs ganham espaço em meio a recuo de debêntures",
+    "titulo_original": "FIIs, Fiagros e FIDCs ganham espaço em meio a recuo de debêntures",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 17:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A migração de investimentos para FIIs, Fiagros e FIDCs, em detrimento de debêntures, reflete um cenário de maior cautela no mercado de crédito privado. Se a crise no mercado de incentivadas se prolongar, isso pode levar a uma maior concentração de capital em ativos alternativos, com potenciais impactos na liquidez.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792533664.4666605,
+    "titulo": "Bolsas de NY fecham sem direção única apesar de queda do petróleo, com balanços no radar",
+    "titulo_original": "Bolsas de NY fecham sem direção única apesar de queda do petróleo, com balanços no radar",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 17:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A divergência nos índices de Nova York, apesar da queda do petróleo, indica que os balanços corporativos estão sendo um fator mais determinante para o mercado no curto prazo. Se os resultados de empresas como Meta e Tesla vierem abaixo do esperado, isso pode gerar volatilidade e pressionar os índices.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792533664.4685118,
+    "titulo": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
+    "titulo_original": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
+    "fonte": "ForexLive",
+    "publicado": "20/10 17:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A volatilidade do dólar, atrelada a notícias sobre acordos e o petróleo, sugere um mercado sensível a eventos geopolíticos e macroeconômicos. Se as negociações sobre o Oriente Médio avançarem ou retrocederem, isso pode gerar novas oscilações na moeda americana e nos mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792533664.4703562,
+    "titulo": "Netflix apresenta perspectivas negativas para 2026 em meio a escassez de sucessos no streaming",
+    "titulo_original": "Netflix apresenta perspectivas negativas para 2026 em meio a escassez de sucessos no streaming",
+    "fonte": "Folha Mercado",
+    "publicado": "20/10 18:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As perspectivas negativas da Netflix para 2026, associadas à dificuldade em atrair novos assinantes, sinalizam um desafio para o modelo de negócios da empresa. Se a concorrência no streaming aumentar e a demanda por conteúdo original diminuir, isso pode pressionar ainda mais o desempenho da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792533664.4721987,
+    "titulo": "SpaceX tem lucro acima do esperado e receita dispara no 3º trimestre; ação sobe",
+    "titulo_original": "SpaceX tem lucro acima do esperado e receita dispara no 3º trimestre; ação sobe",
+    "fonte": "Money Times",
+    "publicado": "20/10 18:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O lucro da SpaceX acima do esperado no terceiro trimestre, impulsionado pela receita disparada, reforça a performance positiva da empresa após seu IPO. Se a companhia mantiver essa trajetória de crescimento e rentabilidade, isso pode sustentar a valorização de suas ações no mercado.",
     "is_stocks": true
   }
 ]
