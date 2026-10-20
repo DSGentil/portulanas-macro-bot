@@ -1,227 +1,5 @@
 [
   {
-    "_timestamp": 1792407648.6662054,
-    "titulo": "Mercado de ETFs ganha força no Brasil puxado por fundos de renda fixa",
-    "titulo_original": "Mercado de ETFs ganha força no Brasil puxado por fundos de renda fixa",
-    "fonte": "Folha Mercado",
-    "publicado": "18/10 23:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O forte crescimento do mercado de ETFs de renda fixa no Brasil sugere um aumento no interesse dos investidores por produtos que acompanham a trajetória dos juros. Se a taxa Selic continuar em patamares elevados, a atratividade desses fundos tende a se manter, atraindo mais capital para a renda fixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792407653.094443,
-    "titulo": "Temor de virada de Lula faz proteção contra alta do dólar saltar à máxima desde 2011",
-    "titulo_original": "Temor de virada de Lula faz proteção contra alta do dólar saltar à máxima desde 2011 - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/10 08:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da proteção contra a alta do dólar reflete uma percepção de maior risco político no Brasil. Se esse temor se concretizar em eventos que afetem a estabilidade econômica, o dólar pode continuar pressionado para cima, impactando a inflação e o custo de importação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792407658.397443,
-    "titulo": "Queda do minério de ferro e alta do frete pressionam mineradoras brasileiras",
-    "titulo_original": "Queda do minério de ferro e alta do frete pressionam mineradoras brasileiras - Vero Notícias",
-    "fonte": "Google News Commodities",
-    "publicado": "18/10 15:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A pressão sobre as mineradoras brasileiras devido à queda do minério de ferro e alta do frete pode impactar os resultados do setor e, consequentemente, a balança comercial. A recuperação dos preços das commodities será crucial para aliviar essa pressão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792407662.7147853,
-    "titulo": "E se o seu dinheiro acabar antes de você?",
-    "titulo_original": "E se o seu dinheiro acabar antes de você?",
-    "fonte": "Folha Mercado",
-    "publicado": "18/10 23:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O artigo levanta uma preocupação pessoal sobre planejamento financeiro de longo prazo e os efeitos da inflação. Não se trata de uma notícia com impacto direto nos mercados ou nas decisões de política econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792407668.51283,
-    "titulo": "PIB da China no 3º trimestre supera previsões em 4,5%, vendas no varejo crescem no ritmo mais rápido desde março",
-    "titulo_original": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
-    "fonte": "ForexLive",
-    "publicado": "18/10 23:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O resultado positivo do PIB e das vendas no varejo da China pode oferecer algum suporte ao sentimento de risco na Ásia e a commodities como o petróleo. Se os dados de investimento e imobiliários continuarem fracos, no entanto, a pressão por estímulos fiscais mais agressivos pode aumentar, o que seria um fator a ser observado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792407668.5132885,
-    "titulo": "Dólar cai a R$ 5,0728; Ibovespa sobe 0,54% aos 205.430 pontos",
-    "titulo_original": "Dólar cai a R$ 5,0728; Ibovespa sobe 0,54% aos 205.430 pontos - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/10 20:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a alta do Ibovespa podem indicar um aumento do apetite por risco no mercado brasileiro. A continuidade dessa tendência dependerá de fatores macroeconômicos e políticos que influenciam a percepção de risco dos investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792407668.5137062,
-    "titulo": "China move para sustentar ações com restrições de venda e recompras após queda de 10% no ano",
-    "titulo_original": "China moves to prop up stocks with selling curbs, buybacks after 10% slide this year",
-    "fonte": "ForexLive",
-    "publicado": "18/10 23:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "As medidas de intervenção do governo chinês no mercado de ações visam estabilizar o índice, mas a eficácia a longo prazo dependerá da recuperação da demanda doméstica e do setor imobiliário. Se os dados de PIB e atividade econômica continuarem fracos, a pressão por estímulos fiscais mais robustos pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792407668.514143,
-    "titulo": "Apenas um terço do pipeline de data centers dos EUA parece credível à medida que o financiamento de IA aumenta",
-    "titulo_original": "Only a third of the US data centre pipeline looks credible as AI financing strains build",
-    "fonte": "ForexLive",
-    "publicado": "18/10 20:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A dificuldade de financiamento para projetos de data centers nos EUA pode impactar o setor de tecnologia e a cadeia de suprimentos de chips, afetando empresas que dependem de capital externo. Se houver cortes de gastos de capital por grandes empresas de tecnologia, isso pode sinalizar um problema de mercado mais amplo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792409444.0632741,
-    "titulo": "Chegou a hora das small caps? Veja em quais ações investir para um cenário de queda de juros",
-    "titulo_original": "Chegou a hora das small caps? Veja em quais ações investir para um cenário de queda de juros - Money Times",
-    "fonte": "Google News Acoes",
-    "publicado": "19/10 08:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia associa um cenário de queda de juros a oportunidades de investimento em small caps. Se a expectativa de queda de juros se concretizar, isso pode impulsionar o desempenho dessas empresas; caso contrário, o cenário para small caps pode se manter desafiador.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792409447.9834273,
-    "titulo": "Dados econômicos em destaque: inflação do Reino Unido deve subir com o aumento da taxa de juros do BOE e o orçamento de outono colidindo",
-    "titulo_original": "Economic data spotlight: UK inflation set to climb as BOE rate hike and autumn budget collide",
-    "fonte": "ForexLive",
-    "publicado": "19/10 06:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento da inflação no Reino Unido, acima do esperado, sugere que o Banco da Inglaterra pode manter uma postura mais restritiva em relação aos juros. Se os próximos dados de inflação continuarem elevados, isso pode pressionar o BOE a considerar novas altas ou manter as taxas em patamares elevados por mais tempo, impactando o cenário econômico global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792409451.881407,
-    "titulo": "Petróleo toca US$ 110 por barril pela primeira vez desde maio devido a temores com guerras",
-    "titulo_original": "Petróleo toca US$ 110 por barril pela primeira vez desde maio devido a temores com guerras - NovaCana",
-    "fonte": "Google News Commodities",
-    "publicado": "19/10 07:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo para US$ 110 por barril, devido a temores de guerra, pode gerar pressões inflacionárias globais e afetar custos de produção e transporte. Se os conflitos se intensificarem, o preço do petróleo pode continuar subindo, impactando a inflação e a atividade econômica mundial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792409455.795608,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "19/10 03:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O relatório de inflação do Canadá, com expectativas de leve alta, e a precificação de alta de juros pelo Banco do Canadá indicam um cenário de cautela monetária. Se a inflação vier acima do esperado, isso pode aumentar a probabilidade de um aperto monetário, impactando o crescimento econômico canadense e, por extensão, o apetite por risco global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792409460.8817768,
-    "titulo": "Petrobras bate recorde de R$ 800 bilhões em meio a expectativas sobre petróleo na Margem Equatorial",
-    "titulo_original": "Petrobras bate recorde de R$ 800 bilhões em meio a expectativas sobre petróleo na Margem Equatorial - G1",
-    "fonte": "Google News Acoes",
-    "publicado": "19/10 04:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O recorde de resultados da Petrobras, associado às expectativas de exploração na Margem Equatorial, pode indicar um cenário positivo para a empresa e para o setor de óleo e gás. Se a exploração for bem-sucedida e os preços do petróleo se mantiverem elevados, isso pode gerar receitas significativas e impactar a balança comercial brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792409460.882342,
-    "titulo": "Wall Street reage após tombo das ações de tecnologia, mas Europa recua",
-    "titulo_original": "Wall Street reage após tombo das ações de tecnologia, mas Europa recua - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "19/10 07:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia descreve movimentos de mercado em bolsas internacionais, com destaque para a recuperação em Wall Street após perdas em tecnologia e recuo na Europa. Sem uma causa explícita ligada a juros, inflação, atividade, fiscal ou fluxo de capital mencionada, a relevância se limita ao comportamento geral dos mercados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792409460.8829165,
-    "titulo": "Braskem, M. Dias, Caixa Seguridade, Unifique e mais ações para acompanhar hoje",
-    "titulo_original": "Braskem, M. Dias, Caixa Seguridade, Unifique e mais ações para acompanhar hoje - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "19/10 07:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Esta notícia é um compilado de ações de interesse para investidores, sem apresentar um fato macroeconômico específico que afete os canais de análise.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792409460.8834727,
-    "titulo": "Agenda de empresas: M. Dias Branco compra Grespan; questões na OPA da Unifique",
-    "titulo_original": "Agenda de empresas: M. Dias Branco compra Grespan; questões na OPA da Unifique",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 08:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Esta notícia compila diversos eventos corporativos de empresas específicas. As aquisições e mudanças em acordos de acionistas são fatos microeconômicos que não se conectam diretamente aos canais macroeconômicos de análise.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792409460.884018,
-    "titulo": "3T26: WEG (WEGE3), Bradesco (BBDC3), Neoenergia (NEOE3) e mais duas empresas divulgam balanços nesta semana",
-    "titulo_original": "3T26: WEG (WEGE3), Bradesco (BBDC3), Neoenergia (NEOE3) e mais duas empresas divulgam balanços nesta semana",
-    "fonte": "Money Times",
-    "publicado": "19/10 06:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre a divulgação de balanços trimestrais de empresas, o que é relevante para análise setorial e de ações específicas, mas não impacta diretamente os canais macroeconômicos de juros, inflação, atividade, fiscal ou fluxo de capital.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792415744.1394093,
     "titulo": "Juros futuros recuam às vésperas do 2° turno após estresse da semana passada",
     "titulo_original": "Juros futuros recuam às vésperas do 2° turno após estresse da semana passada",
@@ -1247,6 +1025,144 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A declaração de um analista sugere uma possível flexibilização nas futuras políticas de ajuste fiscal. Se essa visão se concretizar em decisões governamentais, pode haver um impacto na trajetória da dívida pública e nas expectativas de gastos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792521065.8244398,
+    "titulo": "Bolsa sobe mais de 1% e dólar recua com eleição e petróleo no radar",
+    "titulo_original": "Bolsa sobe mais de 1% e dólar recua com eleição e petróleo no radar - Folha de S.Paulo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 09:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta da bolsa e a queda do dólar com o radar eleitoral sugerem um otimismo do mercado em relação ao cenário político doméstico. Se as pesquisas eleitorais continuarem a favorecer candidatos percebidos como mais pró-mercado, essa tendência pode se sustentar. O comportamento do petróleo adiciona uma camada de volatilidade externa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792521070.8897254,
+    "titulo": "Custo de produção da soja e do milho dispara em MT e pressiona rentabilidade do produtor, diz Imea",
+    "titulo_original": "Custo de produção da soja e do milho dispara em MT e pressiona rentabilidade do produtor, diz Imea - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "20/10 14:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do custo de produção de soja e milho em Mato Grosso pode afetar a rentabilidade dos agricultores e, potencialmente, os preços desses grãos no mercado interno. Se os preços de venda não acompanharem o aumento dos custos, a margem de lucro dos produtores será comprimida. Acompanhar os preços das commodities e os custos de insumos será importante.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792521076.0238388,
+    "titulo": "Ouro recua em meio a relatos contrastantes sobre negociações entre EUA e Irã",
+    "titulo_original": "Ouro recua em meio a relatos contrastantes sobre negociações entre EUA e Irã",
+    "fonte": "Valor Economico",
+    "publicado": "20/10 15:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A volatilidade nos preços do ouro reflete a incerteza geopolítica e as expectativas sobre a política monetária americana. Se as negociações entre EUA e Irã avançarem para um acordo de paz, isso tende a reduzir a demanda por ativos de refúgio como o ouro. Por outro lado, uma postura mais hawkish do Fed pode pressionar ainda mais o metal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792521081.0816922,
+    "titulo": "Vendas de casas pendentes nos EUA em setembro -7,3% vs -0,5% esperado",
+    "titulo_original": "US September pending home sales -7.3% vs -0.5% expected",
+    "fonte": "ForexLive",
+    "publicado": "20/10 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda acentuada nas vendas de casas pendentes nos EUA, muito pior que o esperado, sugere um arrefecimento significativo no mercado imobiliário, o que pode ter implicações para a economia americana. Se o Federal Reserve não oferecer suporte, a desaceleração do mercado imobiliário pode se agravar. Acompanhar os dados de emprego e inflação será crucial para avaliar a resposta do Fed.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792521088.1681244,
+    "titulo": "3 mil pontos em 13 minutos: o gatilho que disparou o Ibovespa antes da eleição",
+    "titulo_original": "3 mil pontos em 13 minutos: o gatilho que disparou o Ibovespa antes da eleição - Seu Dinheiro",
+    "fonte": "Google News Acoes",
+    "publicado": "20/10 12:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Um movimento tão rápido no Ibovespa sugere uma reação intensa do mercado a um evento específico relacionado à eleição. Se o gatilho for confirmado como um fator de melhora na percepção de risco político, a bolsa pode continuar a subir. A ausência de um gatilho claro pode levar a uma reversão rápida desse movimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792521088.169513,
+    "titulo": "Ibovespa avança a 208 mil pontos com eleições no radar; dólar cai",
+    "titulo_original": "Ibovespa avança a 208 mil pontos com eleições no radar; dólar cai - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/10 09:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O avanço do Ibovespa e a queda do dólar indicam um sentimento positivo do mercado em relação ao cenário eleitoral. Se as pesquisas continuarem a apontar para um resultado favorável ao mercado, a bolsa pode manter a trajetória de alta. A volatilidade em torno das eleições é o principal fator a ser monitorado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792521088.170715,
+    "titulo": "Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas",
+    "titulo_original": "Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "20/10 12:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa, associada ao 'trade eleitoral', sugere que o mercado está precificando um cenário político favorável. Se as pesquisas eleitorais continuarem a confirmar essa tendência, a bolsa pode ter mais espaço para subir. A influência de Nova York indica uma possível correlação com o sentimento global de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792521088.1718829,
+    "titulo": "Brasil restringe exportações de frango à China após doença em fornecedor da MBRF",
+    "titulo_original": "Brasil restringe exportações de frango à China após doença em fornecedor da MBRF",
+    "fonte": "InvestNews",
+    "publicado": "20/10 13:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A restrição de exportações de frango para a China pode impactar a balança comercial brasileira e a rentabilidade do setor avícola. Se a União Europeia reabrir suas portas para as exportações brasileiras, isso pode mitigar parte das perdas. A duração da restrição chinesa será crucial para o impacto no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792521088.1730602,
+    "titulo": "Vale (VALE3) pede registro na China para captar US$ 1,5 bilhão",
+    "titulo_original": "Vale (VALE3) pede registro na China para captar US$ 1,5 bilhão - Suno - Investimentos Inteligentes",
+    "fonte": "Google News Acoes",
+    "publicado": "20/10 11:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A captação de recursos pela Vale na China indica a busca por financiamento em mercados internacionais e a confiança da empresa no mercado chinês. Se a captação for bem-sucedida, pode fortalecer a posição financeira da empresa. A notícia não especifica o destino dos fundos ou o impacto direto nos canais macro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792521088.1742222,
+    "titulo": "A ação que sobe com o trade eleitoral e pode ganhar mais 47%, segundo o Itaú BBA",
+    "titulo_original": "A ação que sobe com o trade eleitoral e pode ganhar mais 47%, segundo o Itaú BBA",
+    "fonte": "Money Times",
+    "publicado": "20/10 14:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta das ações da Vamos (VAMO3) com o 'trade eleitoral' sugere que o mercado está precificando um cenário político favorável para a empresa. Se a eleição resultar em políticas que beneficiem o setor de locação de frotas, a ação pode continuar a subir. A projeção de 47% do Itaú BBA indica um otimismo considerável do analista.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792521088.1754007,
+    "titulo": "BTG Pactual oferece cartões de crédito Gold e Platinum a partir de R$ 3 mil investidos",
+    "titulo_original": "BTG Pactual oferece cartões de crédito Gold e Platinum a partir de R$ 3 mil investidos",
+    "fonte": "Money Times",
+    "publicado": "20/10 14:59",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A oferta de cartões de crédito atrelados a investimentos pelo BTG Pactual visa atrair e reter clientes, incentivando a permanência de recursos na instituição. Se essa iniciativa for bem-sucedida, pode aumentar a base de clientes e o volume de ativos sob gestão. O impacto direto nos canais macro é limitado, mas pode refletir um cenário de busca por rentabilidade em renda fixa.",
     "is_stocks": true
   }
 ]
