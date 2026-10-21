@@ -1,72 +1,5 @@
 [
   {
-    "_timestamp": 1792509363.5960054,
-    "titulo": "Ajuste fiscal requer liderança política e boa técnica",
-    "titulo_original": "Ajuste fiscal requer liderança política e boa técnica",
-    "fonte": "Folha Mercado",
-    "publicado": "20/10 11:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistente deterioração fiscal e o consequente aumento da dívida pública brasileira, associados a altas taxas de juros, criam um cenário desafiador para a economia. A necessidade de liderança política e técnica para um ajuste fiscal efetivo é destacada como crucial para reverter essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792509368.03438,
-    "titulo": "Tesouro Direto hoje: taxas voltam a cair após virada dos juros futuros",
-    "titulo_original": "Tesouro Direto hoje: taxas voltam a cair após virada dos juros futuros",
-    "fonte": "InvestNews",
-    "publicado": "20/10 11:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas do Tesouro Direto, após uma virada nos juros futuros, sugere uma mudança nas expectativas do mercado em relação à política monetária. Se essa tendência de queda se mantiver, pode indicar um cenário de juros menores no futuro, impactando a atratividade de diferentes classes de ativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792509372.4805024,
-    "titulo": "Flávio Bolsonaro promete restabelecer Perse",
-    "titulo_original": "Flávio Bolsonaro promete restabelecer Perse",
-    "fonte": "Valor Economico",
-    "publicado": "20/10 12:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A promessa de restabelecer o Perse, se concretizada, implicaria em uma nova renúncia fiscal, cujos detalhes de implementação e fonte de recursos não foram apresentados. Caso a proposta seja aprovada, o impacto nas contas públicas precisará ser avaliado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792509376.852171,
-    "titulo": "Irã concorda com visitas secretas a locais nucleares em mudança para compromisso, diz relatório",
-    "titulo_original": "Iran agreed to secret nuclear site visits in shift towards compromise, report says",
-    "fonte": "ForexLive",
-    "publicado": "20/10 10:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Se a notícia se confirmar, a possibilidade de um acordo nuclear pode reduzir a aversão ao risco global, o que tenderia a beneficiar mercados emergentes. Contudo, a reação modesta do mercado de petróleo sugere cautela quanto à confirmação e ao impacto imediato.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792509382.0358868,
-    "titulo": "ByteDance, Alibaba e Tencent pedem US$ 35 bi em chips da Nvidia",
-    "titulo_original": "ByteDance, Alibaba e Tencent pedem US$ 35 bi em chips da Nvidia",
-    "fonte": "Folha Mercado",
-    "publicado": "20/10 10:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia indica uma demanda significativa por chips de alta tecnologia por parte de grandes empresas chinesas, em resposta às restrições de exportação dos EUA. Isso pode refletir a estratégia de empresas de tecnologia em contornar barreiras comerciais e manter suas operações, com potenciais implicações para o setor de semicondutores e para as relações comerciais entre EUA e China.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792514738.5912287,
     "titulo": "TCU recua e aprova contas do BC sem esperar julgamento do caso Master",
     "titulo_original": "TCU recua e aprova contas do BC sem esperar julgamento do caso Master",
@@ -1109,6 +1042,132 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O recorde na oferta de FIIs, contrastando com a queda no interesse do varejo, sugere uma concentração de investimentos institucionais no setor imobiliário. Se essa dinâmica persistir, pode indicar uma mudança na alocação de capital no mercado, mas a notícia não especifica as razões para a queda do interesse do varejo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792620050.079634,
+    "titulo": "IPCA+ é realmente a melhor proteção contra a inflação?",
+    "titulo_original": "IPCA+ é realmente a melhor proteção contra a inflação?",
+    "fonte": "Folha Mercado",
+    "publicado": "21/10 18:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise sugere que a simples atrelagem ao IPCA pode não ser suficiente para garantir ganhos reais em um ambiente inflacionário volátil. Se a inflação futura se mostrar mais persistente do que o esperado, títulos prefixados podem se tornar menos atrativos, enquanto o IPCA+ pode voltar a ser a opção mais segura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792620053.9930172,
+    "titulo": "Radar das Eleições: Ajuste de R$ 500 bi? Para economista da ARX, ‘buraco é muito maior’ e não há atalho",
+    "titulo_original": "Radar das Eleições: Ajuste de R$ 500 bi? Para economista da ARX, ‘buraco é muito maior’ e não há atalho",
+    "fonte": "Money Times",
+    "publicado": "21/10 18:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração aponta para a possibilidade de um déficit fiscal maior do que o esperado, o que pode exigir medidas mais drásticas de ajuste. Se o próximo governo não conseguir implementar um plano fiscal robusto, o risco de aumento da dívida pública e pressão sobre os juros pode se intensificar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792620057.8873372,
+    "titulo": "Dólar sobe a R$ 5,0279 com ajuste técnico e eleição no foco - Canal Rural",
+    "titulo_original": "Dólar sobe a R$ 5,0279 com ajuste técnico e eleição no foco - Canal Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/10 17:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar pode refletir um aumento da aversão ao risco no mercado doméstico devido à incerteza eleitoral. Se a disputa eleitoral se acirrar ainda mais, o dólar pode continuar pressionado para cima, impactando as importações e a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792620061.7695,
+    "titulo": "Juros futuros ficam perto da estabilidade após dia volátil com foco em eleição",
+    "titulo_original": "Juros futuros ficam perto da estabilidade após dia volátil com foco em eleição",
+    "fonte": "Valor Economico",
+    "publicado": "21/10 17:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade dos juros futuros, apesar da volatilidade, sugere que o mercado está precificando um cenário de incerteza eleitoral sem grandes choques imediatos nas taxas. Se a eleição resultar em um cenário de maior previsibilidade fiscal, os juros de longo prazo podem cair; caso contrário, a pressão de alta pode retornar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792620066.7187955,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa recua com nova pesquisa, na contramão do exterior - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa recua com nova pesquisa, na contramão do exterior - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "21/10 14:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divergência entre o desempenho da bolsa brasileira e os mercados externos sugere que fatores domésticos, como a incerteza eleitoral, estão pesando mais sobre o Ibovespa. Se as pesquisas eleitorais continuarem a indicar um cenário acirrado, a bolsa brasileira pode permanecer sob pressão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792620066.72079,
+    "titulo": "Ibovespa recua com acirramento da disputa eleitoral e sem o apoio de Vale",
+    "titulo_original": "Ibovespa recua com acirramento da disputa eleitoral e sem o apoio de Vale",
+    "fonte": "Valor Economico",
+    "publicado": "21/10 17:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O acirramento da disputa eleitoral e a queda de grandes empresas como Vale e Petrobras indicam um cenário de maior aversão ao risco no mercado acionário brasileiro. Se a incerteza eleitoral persistir, a bolsa pode continuar a apresentar volatilidade e quedas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792620066.7227473,
+    "titulo": "TCU dá 120 dias para Minas e Energia informar futuro das obras na usina nuclear Angra 3",
+    "titulo_original": "TCU dá 120 dias para Minas e Energia informar futuro das obras na usina nuclear Angra 3",
+    "fonte": "Valor Economico",
+    "publicado": "21/10 17:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do TCU sobre Angra 3 indica a necessidade de maior clareza e planejamento para o empreendimento, que tem impacto financeiro relevante. Se o MME não apresentar informações satisfatórias, o futuro da usina pode se tornar ainda mais incerto, com potenciais custos adicionais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792620066.7246113,
+    "titulo": "Hapvida tomba 7% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas - Estadão",
+    "titulo_original": "Hapvida tomba 7% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "21/10 16:25",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda expressiva das ações da Hapvida pode estar relacionada a fatores específicos da empresa, como resultados financeiros ou notícias setoriais. Se a empresa divulgar um balanço negativo ou enfrentar desafios regulatórios, a pressão sobre suas ações pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792620066.7265835,
+    "titulo": "Petrobras (PETR4) dispara 120% em 2026 e supera gigantes globais do petróleo; veja ranking - Suno - Investimentos Inteligentes",
+    "titulo_original": "Petrobras (PETR4) dispara 120% em 2026 e supera gigantes globais do petróleo; veja ranking - Suno - Investimentos Inteligentes",
+    "fonte": "Google News Acoes",
+    "publicado": "21/10 17:25",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte valorização das ações da Petrobras pode estar relacionada a fatores como o preço do petróleo, a gestão da empresa ou expectativas sobre a política de dividendos. Se o preço do petróleo se mantiver em patamares elevados, a Petrobras pode continuar a apresentar bons resultados.",
     "is_stocks": true
   }
 ]
