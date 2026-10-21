@@ -1,114 +1,5 @@
 [
   {
-    "_timestamp": 1792502144.839608,
-    "titulo": "Juros recuam com dólar em meio a trade eleitoral",
-    "titulo_original": "Juros recuam com dólar em meio a trade eleitoral - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/10 09:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nos juros futuros, associada a fatores eleitorais, sugere que o mercado precifica um cenário político que pode ser interpretado como favorável a uma política monetária mais branda. Se o resultado eleitoral consolidar essa percepção, a tendência de queda nos juros pode se manter.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792502149.28207,
-    "titulo": "Estresse com eleição acirrada se dissipa e juros futuros iniciam pregão em queda",
-    "titulo_original": "Estresse com eleição acirrada se dissipa e juros futuros iniciam pregão em queda",
-    "fonte": "Valor Economico",
-    "publicado": "20/10 09:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nos juros futuros, impulsionada pela percepção do resultado eleitoral, sugere que o mercado precifica um cenário político que pode levar a uma política monetária mais previsível ou favorável. Se a consolidação desse cenário se confirmar, a tendência de queda nos juros pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792502153.688844,
-    "titulo": "Em meio a crise fiscal, Colômbia aprova orçamento para 2027",
-    "titulo_original": "Em meio a crise fiscal, Colômbia aprova orçamento para 2027",
-    "fonte": "Valor Economico",
-    "publicado": "20/10 09:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A aprovação de um orçamento com déficit ampliado e realocação de gastos pode indicar uma pressão contínua sobre as contas públicas colombianas. Se a dívida pública continuar a crescer conforme projetado, o país pode enfrentar dificuldades adicionais para sua recuperação econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792502158.2494953,
-    "titulo": "US September housing starts 1.221M vs 1.305M",
-    "titulo_original": "US September housing starts 1.221M vs 1.305M",
-    "fonte": "ForexLive",
-    "publicado": "20/10 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nas novas construções residenciais nos EUA, em um cenário de altas taxas de juros, sugere um arrefecimento da atividade econômica em um setor sensível. Se as taxas de juros permanecerem elevadas, a desaceleração no setor imobiliário pode se aprofundar, impactando outros setores da economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792502163.826383,
-    "titulo": "Ibovespa hoje: pesquisa eleitoral e petróleo podem mexer com a Bolsa nesta terça",
-    "titulo_original": "Ibovespa hoje: pesquisa eleitoral e petróleo podem mexer com a Bolsa nesta terça - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "20/10 04:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para fatores que podem influenciar o desempenho da bolsa, como o cenário eleitoral e o preço do petróleo. A volatilidade do petróleo pode impactar a inflação e a atividade econômica, mas a notícia não detalha essa conexão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792502163.8278399,
-    "titulo": "Vale (VALE3) apresenta registro para programa de panda bonds na China",
-    "titulo_original": "Vale (VALE3) apresenta registro para programa de panda bonds na China",
-    "fonte": "Money Times",
-    "publicado": "20/10 09:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A notícia indica um movimento de captação de recursos da Vale no mercado chinês, o que pode ser interpretado como um fluxo de capital para a empresa. Se o programa for bem-sucedido, pode indicar acesso a novas fontes de financiamento internacional.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792502163.8293474,
-    "titulo": "B3 quer atrair pequenas mineradoras que buscam capital no exterior",
-    "titulo_original": "B3 quer atrair pequenas mineradoras que buscam capital no exterior - CNN Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "20/10 04:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A iniciativa da B3 de atrair pequenas mineradoras para buscar capital no exterior sugere um esforço para facilitar o fluxo de capital estrangeiro para empresas brasileiras. Se bem-sucedida, pode impulsionar o investimento em setores específicos da economia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792502163.8307066,
-    "titulo": "Bolsa de Seul despenca mais de 3%; ações da China também caem",
-    "titulo_original": "Bolsa de Seul despenca mais de 3%; ações da China também caem",
-    "fonte": "Folha Mercado",
-    "publicado": "20/10 09:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia reporta uma forte desvalorização em bolsas asiáticas, indicando um sentimento de aversão ao risco na região. Não há conexão explícita com os canais macroeconômicos definidos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792509363.5960054,
     "titulo": "Ajuste fiscal requer liderança política e boa técnica",
     "titulo_original": "Ajuste fiscal requer liderança política e boa técnica",
@@ -1102,6 +993,122 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A mudança de estratégia dos investidores, de busca por ganhos para proteção, reflete a incerteza em relação ao resultado do segundo turno eleitoral. Se o resultado gerar volatilidade, posições defensivas podem se beneficiar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792614645.633882,
+    "titulo": "Departamento de Estado dos EUA se prepara para emitir ordem de partida em embaixadas dos EUA no Golfo",
+    "titulo_original": "US State Department is to prepared to issue a order departure at US embassies in the Gulf",
+    "fonte": "ForexLive",
+    "publicado": "21/10 16:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio, com a possível saída de pessoal diplomático dos EUA, eleva o risco geopolítico e tende a sustentar os preços do petróleo. Se as hostilidades se intensificarem, isso pode pressionar a inflação global e, consequentemente, influenciar as decisões de política monetária dos bancos centrais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792614649.9874256,
+    "titulo": "Petróleo fecha perto da estabilidade, mas avança no pós-mercado com ataque à Saudi Aramco",
+    "titulo_original": "Petróleo fecha perto da estabilidade, mas avança no pós-mercado com ataque à Saudi Aramco",
+    "fonte": "Valor Economico",
+    "publicado": "21/10 16:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia de ataques à infraestrutura petrolífera saudita, mesmo com o fechamento do mercado em estabilidade, eleva o risco de interrupção no fornecimento e pode pressionar os preços do petróleo para cima. Se os preços do petróleo subirem de forma sustentada, isso pode gerar pressões inflacionárias globais e impactar as decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792614654.4477472,
+    "titulo": "Petróleo fecha sem direção entre negociações Rússia-Ucrânia e tensão no Oriente Médio",
+    "titulo_original": "Petróleo fecha sem direção entre negociações Rússia-Ucrânia e tensão no Oriente Médio - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "21/10 16:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A incerteza em relação às negociações de paz na Ucrânia e a persistência da tensão no Oriente Médio criam um cenário de volatilidade para o preço do petróleo. Se os conflitos se intensificarem ou as negociações falharem, isso pode levar a um aumento nos preços do petróleo, com potenciais reflexos na inflação global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792614658.739407,
+    "titulo": "Trump barrou plano de Israel para fazer novos ataques pesados contra o Irã, diz jornal",
+    "titulo_original": "Trump barrou plano de Israel para fazer novos ataques pesados contra o Irã, diz jornal - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "21/10 16:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia de que Trump vetou um plano de ataque de Israel contra o Irã pode indicar uma tentativa de desescalada em uma região de alta tensão. Se essa informação for confirmada e a política de contenção se mantiver, isso pode reduzir o risco de choques nos preços do petróleo, mas a notícia em si não afirma essa consequência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792614724.684264,
+    "titulo": "Wall Street avança com recuperação de techs e balanços em foco; Nasdaq sobe 1% com SpaceX e Tesla",
+    "titulo_original": "Wall Street avança com recuperação de techs e balanços em foco; Nasdaq sobe 1% com SpaceX e Tesla",
+    "fonte": "Money Times",
+    "publicado": "21/10 17:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação de setores específicos em Wall Street, como tecnologia, pode indicar um aumento do apetite a risco global. Se essa tendência se mantiver e for acompanhada por dados econômicos positivos nos EUA, pode haver um fluxo de capital para mercados emergentes, mas a notícia em si não detalha essa conexão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792614724.6855729,
+    "titulo": "Meta pagará US$ 25 bilhões ao Novo México por enganar usuários sobre privacidade de dados",
+    "titulo_original": "Meta pagará US$ 25 bilhões ao Novo México por enganar usuários sobre privacidade de dados",
+    "fonte": "Folha Mercado",
+    "publicado": "21/10 16:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão judicial contra a Meta, com uma multa expressiva, pode sinalizar um endurecimento regulatório em relação à privacidade de dados nos EUA. Se essa tendência se espalhar para outras jurisdições ou afetar outras grandes empresas de tecnologia, pode haver um impacto nos modelos de negócio e, indiretamente, no fluxo de capital para o setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792614724.6866667,
+    "titulo": "Ação da Magazine Luiza sobe 74% só em outubro. Entenda o que impulsiona o papel",
+    "titulo_original": "Ação da Magazine Luiza sobe 74% só em outubro. Entenda o que impulsiona o papel",
+    "fonte": "InvestNews",
+    "publicado": "21/10 15:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte valorização da ação da Magazine Luiza, associada à expectativa de queda de juros, demonstra a sensibilidade do setor de varejo a mudanças na política monetária. Se a queda de juros se concretizar, isso pode impulsionar ainda mais o setor; caso contrário, a reversão dessa tendência pode ser rápida.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792614724.6877866,
+    "titulo": "B3 (B3SA3) dispara 37% em um mês; ainda dá tempo de comprar? Santander eleva recomendação e fixa novo preço-alvo",
+    "titulo_original": "B3 (B3SA3) dispara 37% em um mês; ainda dá tempo de comprar? Santander eleva recomendação e fixa novo preço-alvo",
+    "fonte": "Money Times",
+    "publicado": "21/10 16:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A valorização expressiva das ações da B3, acompanhada por uma elevação de recomendação por parte do Santander, indica um otimismo do mercado em relação ao desempenho da empresa. Se essa tendência de alta se mantiver, pode atrair mais capital para a bolsa brasileira, mas a notícia em si não detalha essa conexão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792614724.6888647,
+    "titulo": "Oferta de fundos imobiliários bate recorde, mas interesse do varejo despenca",
+    "titulo_original": "Oferta de fundos imobiliários bate recorde, mas interesse do varejo despenca",
+    "fonte": "InvestNews",
+    "publicado": "21/10 15:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde na oferta de FIIs, contrastando com a queda no interesse do varejo, sugere uma concentração de investimentos institucionais no setor imobiliário. Se essa dinâmica persistir, pode indicar uma mudança na alocação de capital no mercado, mas a notícia não especifica as razões para a queda do interesse do varejo.",
     "is_stocks": true
   }
 ]
