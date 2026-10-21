@@ -1,75 +1,5 @@
 [
   {
-    "_timestamp": 1792495856.8838563,
-    "titulo": "Cenário para Selic de 6% nos próximos anos depende de credibilidade fiscal",
-    "titulo_original": "Cenário para Selic de 6% nos próximos anos depende de credibilidade fiscal - Money Report",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/10 06:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia estabelece uma forte ligação entre a credibilidade fiscal e a manutenção da taxa Selic em um patamar de 6% no médio prazo. Se a percepção de risco fiscal aumentar, o Banco Central pode ser forçado a manter os juros em patamares mais elevados para conter a inflação e atrair capital, o que impactaria diretamente o custo do dinheiro e a atividade econômica. Por outro lado, se a credibilidade fiscal for mantida ou fortalecida, o cenário de juros mais baixos se torna mais plausível.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792495862.8660312,
-    "titulo": "Dólar cede e destoa de ativos locais com eleições",
-    "titulo_original": "Dólar cede e destoa de ativos locais com eleições - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/10 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A desvalorização do dólar em contraste com outros ativos locais, em meio ao cenário eleitoral, sugere que o mercado pode estar precificando um cenário de maior estabilidade política ou de resultados eleitorais que favoreçam a percepção de risco. Se o resultado das eleições trouxer maior clareza e previsibilidade, o dólar pode continuar a ceder, beneficiando ativos de risco no mercado doméstico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792495868.266223,
-    "titulo": "Debêntures incentivadas ignoram rali do mercado e estendem piora em outubro",
-    "titulo_original": "Debêntures incentivadas ignoram rali do mercado e estendem piora em outubro",
-    "fonte": "Valor Economico",
-    "publicado": "20/10 07:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A piora nos spreads de debêntures incentivadas, mesmo em um cenário de otimismo pós-eleições, sugere que o mercado de crédito privado pode estar precificando um risco maior ou uma expectativa de juros mais altos por mais tempo. Se essa tendência de aumento de spreads se mantiver, pode indicar que a percepção de risco fiscal ou a necessidade de remuneração maior para o capital estão elevadas, impactando o custo de captação para empresas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792495873.6375685,
-    "titulo": "Selic alta protege o patrimônio? Entenda os limites",
-    "titulo_original": "Selic alta protege o patrimônio? Entenda os limites - ADVFN",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/10 07:58",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aborda a relação entre a taxa Selic e a proteção do patrimônio, o que a conecta ao canal de 'juros'. No entanto, por se tratar de uma discussão sobre os 'limites' e não de uma decisão ou dado concreto, sua relevância é considerada baixa, pois não apresenta um fato novo ou uma mudança de cenário imediata.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792495879.9776955,
-    "titulo": "Taxa de desemprego do Reino Unido cai para 4,7% com recuperação de empregos, mantendo apostas de aumento de juros do BoE intactas",
-    "titulo_original": "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets intact",
-    "fonte": "ForexLive",
-    "publicado": "20/10 03:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O forte relatório de emprego do Reino Unido, com queda na taxa de desemprego e aumento significativo na criação de vagas, reforça a expectativa de que o Banco da Inglaterra (BoE) possa considerar um aumento nas taxas de juros. Se o BoE de fato elevar os juros, isso pode impactar o fluxo de capital para a região e influenciar outras moedas globais. A persistência de dados de emprego fortes pode indicar uma economia resiliente, mas também pressionar a inflação.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792502144.839608,
     "titulo": "Juros recuam com dólar em meio a trade eleitoral",
     "titulo_original": "Juros recuam com dólar em meio a trade eleitoral - UOL Economia",
@@ -1076,6 +1006,102 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O projeto da Nvidia para acelerar a implantação de fábricas de IA pode impulsionar o setor de tecnologia e a demanda por componentes. Se essa tecnologia se popularizar e for adotada em larga escala, pode gerar um ciclo de investimento em infraestrutura de IA, com potenciais impactos na produtividade e na demanda por energia e recursos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792607443.4858868,
+    "titulo": "Fluxo cambial registra entrada líquida de US$ 1,933 bi na semana de 16 de outubro",
+    "titulo_original": "Fluxo cambial registra entrada líquida de US$ 1,933 bi na semana de 16 de outubro",
+    "fonte": "Valor Economico",
+    "publicado": "21/10 14:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada líquida de capital estrangeiro, impulsionada pela conta comercial, sugere que exportadores aproveitaram a valorização do dólar para repatriar recursos. Se essa tendência se mantiver, pode trazer alívio para o câmbio e fortalecer as reservas internacionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792607447.357326,
+    "titulo": "Corte na Selic pode ampliar oferta de capital para minerais críticos",
+    "titulo_original": "Corte na Selic pode ampliar oferta de capital para minerais críticos - Agência iNFRA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/10 10:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução da taxa básica de juros pode tornar investimentos em setores de maior risco, como minerais críticos, mais atrativos. Se a queda da Selic for acompanhada por um ambiente regulatório favorável, pode haver um fluxo de capital significativo para esses ativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792607451.2727907,
+    "titulo": "Prospera MEI: quem tem direito ao perdão das dívidas anunciado por Lula",
+    "titulo_original": "Prospera MEI: quem tem direito ao perdão das dívidas anunciado por Lula",
+    "fonte": "InvestNews",
+    "publicado": "21/10 14:44",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A medida de perdão de dívidas para MEIs visa aliviar a carga financeira desses empreendedores. O impacto fiscal dependerá do volume total de dívidas perdoadas e da capacidade de recuperação de receita futura com a formalização desses negócios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792607455.1722848,
+    "titulo": "US Treasury sells $13 billion of 20 year bonds at a high yield of 5.469%",
+    "titulo_original": "US treasury sells $13 billion of 20 year bonds at a high yield of 5.469%",
+    "fonte": "ForexLive",
+    "publicado": "21/10 14:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O leilão de títulos de 20 anos apresentou um rendimento mais alto que o esperado, indicando uma maior demanda por prêmio de risco para prazos mais longos. Se essa tendência de maior custo de captação para o Tesouro persistir, pode pressionar os juros de longo prazo globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792607460.0139303,
+    "titulo": "Fitch prevê aperto da política fiscal no Brasil em 2027 independentemente de resultado eleitoral",
+    "titulo_original": "Fitch prevê aperto da política fiscal no Brasil em 2027 independentemente de resultado eleitoral",
+    "fonte": "Folha Mercado",
+    "publicado": "21/10 11:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A previsão da Fitch de aperto fiscal em 2027 sugere que a consolidação das contas públicas é vista como necessária para a sustentabilidade da dívida. Se o próximo governo não conseguir apresentar um plano fiscal crível, a agência pode rever suas projeções, impactando a percepção de risco do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792607460.0169086,
+    "titulo": "Estrangeiros retiram R$ 1 bilhão em ações na B3 em 19 outubro",
+    "titulo_original": "Estrangeiros retiram R$ 1 bilhão em ações na B3 em 19 outubro - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "21/10 11:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro da bolsa brasileira pode indicar uma aversão ao risco ou a busca por melhores oportunidades em outros mercados. Se essa tendência se mantiver, pode pressionar o Ibovespa e o câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792607460.018674,
+    "titulo": "Euforia dá lugar à proteção nas opções de bolsa antes do 2º turno",
+    "titulo_original": "Euforia dá lugar à proteção nas opções de bolsa antes do 2º turno",
+    "fonte": "Valor Economico",
+    "publicado": "21/10 14:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A mudança de estratégia dos investidores, de busca por ganhos para proteção, reflete a incerteza em relação ao resultado do segundo turno eleitoral. Se o resultado gerar volatilidade, posições defensivas podem se beneficiar.",
     "is_stocks": true
   }
 ]
