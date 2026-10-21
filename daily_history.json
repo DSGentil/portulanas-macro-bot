@@ -1,352 +1,5 @@
 [
   {
-    "_timestamp": 1792434646.6224177,
-    "titulo": "Inflação do IGP-10 de outubro teve maior alta em seis meses, puxada por commodities, diz FGV",
-    "titulo_original": "Inflação do IGP-10 de outubro teve maior alta em seis meses, puxada por commodities, diz FGV",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 13:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aceleração do IGP-10 em outubro, com a maior alta em seis meses, sugere que as pressões inflacionárias, especialmente no setor atacadista e ligadas a commodities, continuam relevantes. Se os preços do petróleo mantiverem a trajetória de alta, isso pode pressionar ainda mais o indicador nos próximos meses, impactando as expectativas de inflação futura.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792434651.6102953,
-    "titulo": "Mercado mantém projeção para inflação e juros em 2026 e espera PIB e dólar mais baixos - Estadão",
-    "titulo_original": "Mercado mantém projeção para inflação e juros em 2026 e espera PIB e dólar mais baixos - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/10 09:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção das projeções de inflação e juros para 2026, com expectativa de PIB e dólar mais baixos, sugere um cenário de convergência para a estabilidade econômica. Se as projeções se confirmarem, isso pode indicar um ambiente favorável para investimentos de longo prazo; contudo, a volatilidade do dólar e o desempenho do PIB dependerão de fatores internos e externos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792434656.5075223,
-    "titulo": "Fed vê inteligência artificial pressionando a inflação e alerta para impacto desigual dos juros na economia",
-    "titulo_original": "Fed vê inteligência artificial pressionando a inflação e alerta para impacto desigual dos juros na economia - ADVFN",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/10 10:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A visão do Fed de que a inteligência artificial pode gerar pressões inflacionárias adiciona uma nova camada de complexidade à política monetária. Se essa pressão se materializar, o Fed pode precisar manter uma postura mais restritiva por mais tempo; o alerta sobre o impacto desigual dos juros sugere que o banco central americano está atento às consequências sociais e econômicas de suas decisões.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792434661.4570994,
-    "titulo": "Zelensky acusa Trump de pressionar Ucrânia a se render à Rússia - Valor Econômico",
-    "titulo_original": "Zelensky acusa Trump de pressionar Ucrânia a se render à Rússia - Valor Econômico",
-    "fonte": "Google News Geopolitica",
-    "publicado": "19/10 10:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A acusação de Zelensky contra Trump sobre pressão para a Ucrânia se render à Rússia adiciona uma nova camada de complexidade às relações geopolíticas e ao apoio internacional à Ucrânia. Se essa pressão for confirmada ou ganhar força, isso pode impactar o desenrolar do conflito e as alianças internacionais; a resposta de Trump e as reações globais serão cruciais para avaliar as consequências.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792434667.0731728,
-    "titulo": "Ouro recua em meio ao avanço dos Treasuries e maior apetite ao risco",
-    "titulo_original": "Ouro recua em meio ao avanço dos Treasuries e maior apetite ao risco",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 15:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda do ouro, impulsionada pelo aumento do apetite ao risco e pela valorização dos Treasuries, sugere um cenário de maior confiança dos investidores em ativos de maior volatilidade. Se os rendimentos dos Treasuries continuarem a subir, o ouro pode enfrentar pressão adicional; contudo, um aumento da aversão ao risco global poderia reverter essa tendência e impulsionar o metal como refúgio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792441844.486515,
-    "titulo": "PGR diz a Fachin ser contra soltura de pai, primo, cunhado e operador financeiro de Vorcaro",
-    "titulo_original": "PGR diz a Fachin ser contra soltura de pai, primo, cunhado e operador financeiro de Vorcaro",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 16:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A posição da PGR em relação aos pedidos de soltura pode influenciar a decisão do ministro Fachin. Se os pedidos forem negados, isso pode indicar um endurecimento na investigação e nos processos relacionados ao caso do Banco Master; se forem aceitos, pode haver uma flexibilização nas ações judiciais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792441848.3938594,
-    "titulo": "O que está sendo feito por aqueles sem nenhum direito trabalhista?",
-    "titulo_original": "O que está sendo feito por aqueles sem nenhum direito trabalhista?",
-    "fonte": "Folha Mercado",
-    "publicado": "19/10 16:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As recentes mudanças nas regras do mercado de trabalho, como a redução da jornada e a ampliação do limite do MEI, podem impactar a dinâmica do emprego e a formalização de trabalhadores. Se a ampliação do MEI estimular o empreendedorismo, isso pode gerar mais vagas formais; caso contrário, pode haver um aumento na informalidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792441852.3721218,
-    "titulo": "Clima irregular aumenta riscos para o plantio da soja",
-    "titulo_original": "Clima irregular aumenta riscos para o plantio da soja - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "19/10 15:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O clima irregular representa um risco direto para a safra de soja, podendo afetar a produtividade e os preços do grão. Se as condições climáticas adversas persistirem, isso pode levar a uma redução na oferta de soja, impactando os mercados de commodities e alimentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792441856.2391574,
-    "titulo": "Polícia de Israel prende 10 suspeitos por ataques a jornalista e diplomatas na Cisjordânia",
-    "titulo_original": "Polícia de Israel prende 10 suspeitos por ataques a jornalista e diplomatas na Cisjordânia - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "19/10 12:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A prisão de suspeitos por ataques na Cisjordânia pode indicar um esforço para estabilizar a região. Se essas prisões levarem a uma diminuição da violência, isso pode ter um impacto positivo na percepção de risco geopolítico na área; caso contrário, a instabilidade pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792441861.1792936,
-    "titulo": "Selic pode cair a 6,3% em 2028 com ajuste fiscal, calcula BTG",
-    "titulo_original": "Selic pode cair a 6,3% em 2028 com ajuste fiscal, calcula BTG - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/10 11:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do BTG de que a Selic pode cair a 6,3% em 2028 está condicionada a um ajuste fiscal. Se o governo conseguir implementar as medidas fiscais necessárias, isso abrirá espaço para o Banco Central reduzir a taxa de juros; caso contrário, a meta de inflação pode ser comprometida e a Selic pode permanecer mais alta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792441861.1804204,
-    "titulo": "Em NY, Nasdaq e S&P 500 sobem com impulso do setor de tecnologia",
-    "titulo_original": "Em NY, Nasdaq e S&P 500 sobem com impulso do setor de tecnologia",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 17:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho positivo do setor de tecnologia, especialmente em ativos ligados à inteligência artificial, pode indicar um apetite por risco em setores específicos. Se os resultados trimestrais das empresas de tecnologia vierem abaixo do esperado, essa tendência de alta pode se reverter rapidamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792441861.1814992,
-    "titulo": "Apple enfrenta novo pedido de indenização após veredicto histórico de patente de US$ 5,7 bi",
-    "titulo_original": "Apple enfrenta novo pedido de indenização após veredicto histórico de patente de US$ 5,7 bi",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 16:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desdobramento deste caso de patente pode impactar os resultados financeiros da Apple. Se o juiz conceder as indenizações adicionais e juros solicitados pela Taction, isso representará um custo significativo para a empresa; caso contrário, a Apple poderá ter um alívio financeiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792441861.182536,
-    "titulo": "Justiça reconhece vínculo trabalhista de assessores da corretora Santander",
-    "titulo_original": "Justiça reconhece vínculo trabalhista de assessores da corretora Santander",
-    "fonte": "Folha Mercado",
-    "publicado": "19/10 16:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Justiça do Trabalho reconhecendo o vínculo trabalhista de assessores do Santander pode gerar um precedente para casos semelhantes no setor financeiro. Se o Santander decidir não recorrer, isso pode levar a um aumento nos custos trabalhistas da empresa e de outras instituições que utilizam terceirização para funções similares.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792447251.1977434,
-    "titulo": "Medidas de Lula exigem remanejamento de R$ 20 bilhões no Orçamento de 2027, diz governo",
-    "titulo_original": "Medidas de Lula exigem remanejamento de R$ 20 bilhões no Orçamento de 2027, diz governo",
-    "fonte": "Money Times",
-    "publicado": "19/10 16:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre um remanejamento de R$ 20 bilhões no Orçamento de 2027, o que representa uma decisão fiscal concreta. Se esse remanejamento implicar em aumento de despesas ou alteração na trajetória da dívida pública, isso pode pressionar os juros futuros e afetar a percepção de risco fiscal do país. A magnitude do impacto dependerá da natureza exata das medidas e de como elas se encaixam nas metas fiscais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792447256.529906,
-    "titulo": "Camilo Santana critica transição de saída do Bolsa Família proposta por campanha de Flávio",
-    "titulo_original": "Camilo Santana critica transição de saída do Bolsa Família proposta por campanha de Flávio",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 18:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aborda uma crítica a uma proposta de política social em meio a um cenário eleitoral. Se essa proposta for implementada, pode haver um impacto no gasto público e na dinâmica do mercado de trabalho para beneficiários de programas sociais. A relevância para os canais macroeconômicos dependerá da concretização dessa proposta e de seu impacto fiscal, que não está explicitado no resumo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792447261.4009814,
-    "titulo": "Dólar à vista recua com ajuste de posições de olho no 2º turno da eleição",
-    "titulo_original": "Dólar à vista recua com ajuste de posições de olho no 2º turno da eleição",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 17:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A desvalorização do dólar à vista para R$ 5,0480, atribuída ao ajuste de posições em vista do segundo turno eleitoral, sugere que o mercado está precificando um cenário eleitoral com menor incerteza. Se o resultado do segundo turno for percebido como favorável à estabilidade econômica, isso pode sustentar o real. A força do dólar no exterior, no entanto, indica que fatores globais também influenciam a moeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792447266.2860184,
-    "titulo": "Boletim Cambial (19/10): Dólar e Euro PTAX",
-    "titulo_original": "Boletim Cambial (19/10): Dólar e Euro PTAX - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/10 13:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia se refere a um boletim cambial com dados de PTAX para Dólar e Euro. A PTAX é uma taxa de referência importante para o mercado de câmbio. Se o boletim apresentar variações significativas ou indicar tendências de valorização ou desvalorização da moeda, isso pode ser relevante para a leitura do comportamento do câmbio. A relevância específica dependerá dos dados apresentados no boletim, que não estão detalhados aqui.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792447272.376645,
-    "titulo": "Notícias do mercado americano: IA se recupera, mas petróleo também sobe",
-    "titulo_original": "investingLive Americas market news wrap: AI trades rebound but so does oil",
-    "fonte": "ForexLive",
-    "publicado": "19/10 17:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O CPI do Canadá veio ligeiramente abaixo do esperado, o que pode sugerir uma pressão inflacionária menor no país. Se os dados de inflação em outras economias desenvolvidas seguirem essa tendência, isso pode influenciar as decisões de política monetária globalmente, potencialmente levando a um cenário de juros mais baixos no futuro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792447272.377866,
-    "titulo": "Ibovespa fecha em queda de 0,17% e dólar comercial recua 0,5%",
-    "titulo_original": "Ibovespa fecha em queda de 0,17% e dólar comercial recua 0,5% - Canal Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/10 18:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia reporta o desempenho do Ibovespa e do dólar, com o dólar apresentando recuo. Se a queda do dólar for sustentada por fatores internos, como maior clareza no cenário eleitoral ou fluxo de capital positivo, isso pode ser um indicativo de melhora na percepção de risco do país. A continuidade dessa tendência dependerá dos próximos desdobramentos políticos e econômicos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792447272.3904731,
-    "titulo": "Juros e Ibovespa vivem reviravolta: taxas sobem e bolsa termina em queda",
-    "titulo_original": "Juros e Ibovespa vivem reviravolta: taxas sobem e bolsa termina em queda",
-    "fonte": "InvestNews",
-    "publicado": "19/10 14:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A inversão na direção dos juros futuros, que passaram a subir após abrirem em alta, sugere uma mudança na expectativa do mercado em relação à política monetária ou a riscos fiscais. Se essa alta dos juros for acompanhada por declarações mais duras do Banco Central ou por dados de inflação piores que o esperado, isso pode indicar um cenário de juros mais altos por mais tempo. O fechamento do Ibovespa em queda, em contrapartida, pode refletir a aversão ao risco associada a juros mais altos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792447272.391638,
-    "titulo": "Ibovespa tem queda discreta com ajuste em Petrobras e eleição em foco",
-    "titulo_original": "Ibovespa tem queda discreta com ajuste em Petrobras e eleição em foco - Notícias Agrícolas",
-    "fonte": "Google News Acoes",
-    "publicado": "19/10 17:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia reporta a performance do Ibovespa, mencionando ajustes em Petrobras e o foco na eleição. Se a eleição gerar incertezas, isso pode continuar a pressionar o mercado acionário. A performance de Petrobras, por sua vez, pode ser influenciada por fatores setoriais e de precificação de commodities, mas a notícia não detalha esses aspectos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792447272.392779,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa tem queda curta e se mantém nos 205 mil",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa tem queda curta e se mantém nos 205 mil - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "19/10 14:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia descreve um movimento de baixa curta no Ibovespa, mantendo-o em um patamar específico. A relevância se limita ao desempenho do índice acionário, sem detalhar os fatores que impulsionaram ou frearam essa movimentação de forma a conectar com os canais macroeconômicos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792447272.3938994,
-    "titulo": "Lula X Bolsonaro: Debate muda alguma coisa? A visão do fundador do Market Makers",
-    "titulo_original": "Lula X Bolsonaro: Debate muda alguma coisa? A visão do fundador do Market Makers",
-    "fonte": "Money Times",
-    "publicado": "19/10 16:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia destaca a acirrada disputa eleitoral e sua influência na oscilação do Ibovespa. Se o cenário eleitoral se mantiver incerto, a volatilidade no mercado acionário pode persistir. A proximidade do empate técnico sugere que o mercado pode estar precificando diferentes desfechos, o que pode gerar volatilidade no dólar e nos juros futuros dependendo da percepção de risco de cada resultado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792452636.5255618,
-    "titulo": "Faturamento de PMEs se mantém estável no terceiro trimestre",
-    "titulo_original": "Faturamento de PMEs se mantém estável no terceiro trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 19:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O faturamento estável das PMEs, com crescimento de apenas 0,6%, indica uma perda de força na atividade econômica doméstica. Se os juros permanecerem em patamares elevados e a inflação persistir, a tendência de desaceleração pode se acentuar nos próximos trimestres. A revisão para baixo na projeção de crescimento reforça esse cenário.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792452641.4618058,
-    "titulo": "Parcela de petróleo da União no pré-sal cresce 86% em 1 ano",
-    "titulo_original": "Parcela de petróleo da União no pré-sal cresce 86% em 1 ano - Poder360",
-    "fonte": "Google News Commodities",
-    "publicado": "19/10 18:17",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O expressivo aumento de 86% na parcela de petróleo da União no pré-sal em um ano sugere um impacto positivo na arrecadação fiscal do governo. Se essa tendência se mantiver, pode contribuir para a melhora das contas públicas, mas a notícia não detalha se essa variação se deve a mudanças regulatórias ou a fatores de mercado e produção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792452646.8451571,
-    "titulo": "ANPD pede que Meta esclareça denúncias de violações de contas em redes sociais na campanha eleitoral",
-    "titulo_original": "ANPD pede que Meta esclareça denúncias de violações de contas em redes sociais na campanha eleitoral",
-    "fonte": "Valor Economico",
-    "publicado": "19/10 17:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notificação da ANPD à Meta sobre violações em redes sociais durante campanhas eleitorais pode indicar um aprofundamento da fiscalização sobre a atuação de big techs no Brasil. Se as respostas da Meta não forem satisfatórias ou se a investigação levar a sanções, isso pode influenciar a forma como plataformas digitais operam e moderam conteúdo no país, impactando a liberdade de expressão e a privacidade de dados.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792495856.8838563,
     "titulo": "Cenário para Selic de 6% nos próximos anos depende de credibilidade fiscal",
     "titulo_original": "Cenário para Selic de 6% nos próximos anos depende de credibilidade fiscal - Money Report",
@@ -1106,6 +759,152 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A crítica do Comitê de Supervisão de Conteúdo da Meta sobre a falta de transparência nas eleições brasileiras pode gerar pressão por maior clareza nas políticas da plataforma. Se a Meta não aprimorar suas práticas, pode enfrentar escrutínio regulatório adicional e desconfiança pública.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792582339.691432,
+    "titulo": "IGP-M sobe 1,59% na segunda prévia de outubro, informa FGV",
+    "titulo_original": "IGP-M sobe 1,59% na segunda prévia de outubro, informa FGV",
+    "fonte": "Valor Economico",
+    "publicado": "21/10 08:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O IGP-M apresentou uma aceleração na segunda prévia de outubro, impulsionado principalmente pelo Índice de Preços ao Produtor Amplo. Se essa tendência se mantiver, pode pressionar a inflação ao consumidor e influenciar decisões futuras de política monetária, especialmente se o IPA continuar a subir de forma acentuada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792582344.1120021,
+    "titulo": "IBGE retira menção a drogas de nota sobre atualização do PIB",
+    "titulo_original": "IBGE retira menção a drogas de nota sobre atualização do PIB",
+    "fonte": "Folha Mercado",
+    "publicado": "21/10 06:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de uma menção metodológica sobre a inclusão de drogas no cálculo do PIB pelo IBGE não altera o dado do PIB em si, mas sim a forma como ele é apresentado ou explicado. Isso não impacta diretamente a leitura de atividade econômica ou emprego, mas pode gerar questionamentos sobre a metodologia de cálculo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792582348.5811584,
+    "titulo": "Preço do ouro cai com dólar forte, tensão EUA-Irã e incerteza sobre juros do Fed",
+    "titulo_original": "Preço do ouro cai com dólar forte, tensão EUA-Irã e incerteza sobre juros do Fed - ADVFN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/10 07:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do ouro, influenciada por fatores externos como a tensão geopolítica e a força do dólar, também reflete a incerteza sobre a política de juros do Fed. Se o Fed sinalizar uma postura mais hawkish, isso pode sustentar o dólar e pressionar o ouro ainda mais; um sinal dovish, por outro lado, poderia reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792582352.959803,
+    "titulo": "Inflação do CPI de setembro no Reino Unido sobe para 3,5%, reforça expectativas de alta de juros em novembro do BOE",
+    "titulo_original": "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expectations",
+    "fonte": "ForexLive",
+    "publicado": "21/10 03:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento da inflação no Reino Unido, especialmente a inflação de serviços, eleva a pressão sobre o BOE para aumentar os juros. Se o BOE confirmar a alta em novembro, isso pode influenciar as expectativas de política monetária em outras economias, especialmente se o núcleo da inflação permanecer elevado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792582380.5855935,
+    "titulo": "Agenda de empresas: Lucro da Romi sobe 56%; Cosan encerra exclusividade para venda de fatia na Rumo",
+    "titulo_original": "Agenda de empresas: Lucro da Romi sobe 56%; Cosan encerra exclusividade para venda de fatia na Rumo",
+    "fonte": "Valor Economico",
+    "publicado": "21/10 08:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados da Romi indicam um desempenho operacional positivo em seu segmento. A decisão da Cosan de não vender sua participação na Rumo pode indicar uma reavaliação estratégica ou a ausência de propostas consideradas vantajosas no momento, o que pode influenciar a dinâmica futura da Rumo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792582380.5866883,
+    "titulo": "Mercados europeus estáveis por enquanto, mas aumento dos spreads de rendimento de títulos oferece um aviso",
+    "titulo_original": "European markets steady for now but widening bond yield spreads offer a warning",
+    "fonte": "ForexLive",
+    "publicado": "21/10 06:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A estabilidade aparente nos mercados de ações europeus contrasta com o aumento nos spreads de rendimento de títulos, que historicamente sinaliza maior risco percebido. Se essa divergência persistir, pode indicar uma deterioração subjacente das condições financeiras na Europa, com potenciais reflexos em decisões futuras de política monetária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792582380.5877793,
+    "titulo": "Cosan diz que negociou venda de participação na Rumo, mas não houve acordo",
+    "titulo_original": "Cosan diz que negociou venda de participação na Rumo, mas não houve acordo",
+    "fonte": "Folha Mercado",
+    "publicado": "21/10 08:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A ausência de um acordo para a venda da participação da Cosan na Rumo pode indicar que as condições propostas não foram consideradas ideais pela Cosan, ou que a Rumo pode estar buscando outras estratégias de capitalização. A continuidade da Cosan como acionista majoritário da Rumo pode manter a estrutura atual da empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792582380.5886703,
+    "titulo": "WEG (WEGE3) lucra R$ 1,66 bilhão no terceiro trimestre de 2026, avanço de 0,9% no ano; veja os números",
+    "titulo_original": "WEG (WEGE3) lucra R$ 1,66 bilhão no terceiro trimestre de 2026, avanço de 0,9% no ano; veja os números",
+    "fonte": "Money Times",
+    "publicado": "21/10 08:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O lucro da WEG apresentou um leve crescimento, indicando resiliência em seu desempenho operacional. Se o Ebitda continuar a crescer em linha com o lucro, isso pode sugerir uma gestão de custos eficiente, mas a baixa taxa de crescimento pode indicar um cenário de mercado mais desafiador para a empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792582380.5896053,
+    "titulo": "Dólar recua a R$ 5,01 e Ibovespa sobe, de olho com eleição no radar",
+    "titulo_original": "Dólar recua a R$ 5,01 e Ibovespa sobe, de olho com eleição no radar - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/10 05:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar e a alta do Ibovespa sugerem um aumento da confiança do investidor, possivelmente influenciado por expectativas em relação ao cenário eleitoral. Se a pesquisa eleitoral indicar um resultado mais favorável ao mercado, o dólar pode continuar a ceder e a bolsa a subir; caso contrário, essa tendência pode se reverter.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792582380.5905068,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "21/10 03:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A inflação no Reino Unido, ao vir acima do esperado, reforça a probabilidade de uma alta de juros pelo BOE, o que pode impactar as expectativas de juros em outras economias. Os resultados corporativos da Meta e Tesla, embora importantes para seus setores, não possuem conexão direta com os canais macroeconômicos listados, a menos que a notícia os conecte explicitamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792582380.591408,
+    "titulo": "Ibovespa hoje: após alta de 1,57%, nova pesquisa Quaest pode mudar o humor da Bolsa",
+    "titulo_original": "Ibovespa hoje: após alta de 1,57%, nova pesquisa Quaest pode mudar o humor da Bolsa - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "21/10 04:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa sugere um otimismo momentâneo no mercado acionário. Se a nova pesquisa Quaest apresentar resultados que gerem maior clareza ou previsibilidade sobre o cenário político, isso pode sustentar a alta da bolsa; caso contrário, a volatilidade pode aumentar.",
     "is_stocks": true
   }
 ]
