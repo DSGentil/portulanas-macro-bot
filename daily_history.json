@@ -906,5 +906,76 @@
     "origem": "domestica",
     "leitura_critica": "A alta do Ibovespa sugere um otimismo momentâneo no mercado acionário. Se a nova pesquisa Quaest apresentar resultados que gerem maior clareza ou previsibilidade sobre o cenário político, isso pode sustentar a alta da bolsa; caso contrário, a volatilidade pode aumentar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792588542.4379346,
+    "titulo": "Nas apostas para a Selic, a cautela com a política fiscal ainda fala mais alto - Valor Econômico",
+    "titulo_original": "Nas apostas para a Selic, a cautela com a política fiscal ainda fala mais alto - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/10 07:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de risco fiscal no Brasil tem um impacto direto nas expectativas para a taxa Selic. Se a política fiscal se mostrar mais rigorosa e previsível, isso pode abrir espaço para o Banco Central reduzir os juros de forma mais consistente; caso contrário, a cautela com a inflação e a necessidade de atrair capital podem manter os juros em patamares mais elevados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792588548.0947502,
+    "titulo": "Plano Brasil Soberano: Lula abre R$ 6,79 bilhões em créditos extraordinários para exportadores e Defesa Civil",
+    "titulo_original": "Plano Brasil Soberano: Lula abre R$ 6,79 bilhões em créditos extraordinários para exportadores e Defesa Civil",
+    "fonte": "Money Times",
+    "publicado": "21/10 10:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A abertura de créditos extraordinários impacta o orçamento público, destinando recursos para áreas específicas. Se esses créditos forem utilizados para impulsionar exportações, isso pode ter um efeito positivo na balança comercial; caso contrário, pode representar um aumento de gastos sem contrapartida clara.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792588552.7312927,
+    "titulo": "Alocação em bolsa por fundos de pensão cai de 34% para 4,7% em 13 anos",
+    "titulo_original": "Alocação em bolsa por fundos de pensão cai de 34% para 4,7% em 13 anos",
+    "fonte": "Valor Economico",
+    "publicado": "21/10 09:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução drástica na alocação de fundos de pensão em bolsa e o aumento em renda fixa indicam uma mudança de estratégia de investimento, possivelmente motivada por aversão ao risco ou busca por maior previsibilidade. Se essa tendência se mantiver, isso pode limitar o fluxo de capital para o mercado de ações no longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792588557.1733062,
+    "titulo": "Após abrir em leve alta, dólar tem viés de baixa com disputa eleitoral e alívio externo - UOL Economia",
+    "titulo_original": "Após abrir em leve alta, dólar tem viés de baixa com disputa eleitoral e alívio externo - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "21/10 09:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do dólar pode ser interpretada como um sinal de melhora na percepção de risco do Brasil, impulsionada por um cenário externo mais favorável e pela dinâmica da disputa eleitoral interna. Se a tendência de baixa do dólar se consolidar, isso pode reduzir o custo de importação e favorecer o controle da inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792588561.8901172,
+    "titulo": "Inflação e dívida pública no Reino Unido sobem e pressionam governo",
+    "titulo_original": "Inflação e dívida pública no Reino Unido sobem e pressionam governo",
+    "fonte": "Folha Mercado",
+    "publicado": "21/10 09:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento da inflação e da dívida pública no Reino Unido pode levar a uma política monetária mais restritiva, com elevação dos juros. Se o Banco da Inglaterra decidir aumentar a taxa de juros, isso pode desacelerar a economia britânica e ter repercussões em outros mercados globais, incluindo o fluxo de capital para economias emergentes.",
+    "is_stocks": false
   }
 ]
