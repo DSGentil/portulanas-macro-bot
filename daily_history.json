@@ -1,105 +1,5 @@
 [
   {
-    "_timestamp": 1792601444.5967195,
-    "titulo": "Governo zera imposto de importação de insumos para desenvolvimento científico",
-    "titulo_original": "Governo zera imposto de importação de insumos para desenvolvimento científico",
-    "fonte": "Folha Mercado",
-    "publicado": "21/10 12:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão de zerar impostos sobre insumos para pesquisa científica pode estimular a inovação e o desenvolvimento tecnológico no país. Se essa medida for ampliada para outros setores ou se houver um acompanhamento efetivo dos resultados, pode gerar um impacto positivo na produtividade e competitividade futura da economia brasileira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792601448.4830117,
-    "titulo": "Tesouro Direto hoje: taxas recuam a quatro dias do segundo turno",
-    "titulo_original": "Tesouro Direto hoje: taxas recuam a quatro dias do segundo turno",
-    "fonte": "InvestNews",
-    "publicado": "21/10 10:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas de juros de títulos do Tesouro Direto, especialmente os de longo prazo como o IPCA+ 2050, pode indicar uma expectativa de que as taxas de juros futuras se mantenham estáveis ou caiam. Se essa tendência se confirmar, pode sinalizar um ambiente mais favorável para o investimento em renda fixa e, potencialmente, para o consumo e a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792601452.4214954,
-    "titulo": "Dólar hoje ronda estabilidade antes de pesquisa da Quaest nesta quarta - ISTOÉ DINHEIRO",
-    "titulo_original": "Dólar hoje ronda estabilidade antes de pesquisa da Quaest nesta quarta - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/10 10:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade do dólar antes da divulgação de uma pesquisa eleitoral sugere que o mercado está aguardando novos dados para precificar riscos futuros. Se a pesquisa Quaest indicar um cenário de maior incerteza política ou fiscal, isso pode gerar volatilidade no câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792601456.3459914,
-    "titulo": "Samsung e SK Hynix modernizam fábricas na China para produzir chips mais avançados, dizem fontes",
-    "titulo_original": "Samsung e SK Hynix modernizam fábricas na China para produzir chips mais avançados, dizem fontes",
-    "fonte": "Valor Economico",
-    "publicado": "21/10 13:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A modernização das fábricas na China pelas empresas de semicondutores pode indicar uma estratégia de diversificação e adaptação às tensões geopolíticas. Se os EUA endurecerem ainda mais as restrições, isso pode impactar a capacidade de produção e a oferta global de chips, influenciando indiretamente os custos de tecnologia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792601597.9440086,
-    "titulo": "Como a WEG ganhou espaço nos EUA com a corrida pela inteligência artificial",
-    "titulo_original": "Como a WEG ganhou espaço nos EUA com a corrida pela inteligência artificial",
-    "fonte": "InvestNews",
-    "publicado": "21/10 12:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O crescimento da receita da WEG nos EUA, associado à inteligência artificial, demonstra o impacto setorial de novas tecnologias no desempenho de empresas. Se essa tendência se mantiver e se expandir para outros mercados, pode indicar um ciclo de investimento e crescimento em setores relacionados à IA, com potenciais reflexos em cadeias produtivas globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792601597.9458454,
-    "titulo": "Dólar opera em alta, com balanços corporativos e pesquisas eleitorais no foco; Ibovespa cai - G1",
-    "titulo_original": "Dólar opera em alta, com balanços corporativos e pesquisas eleitorais no foco; Ibovespa cai - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/10 09:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar e a queda do Ibovespa, influenciadas por balanços corporativos e pesquisas eleitorais, sugerem um cenário de aversão ao risco no mercado doméstico. Se as pesquisas eleitorais indicarem resultados que gerem incerteza fiscal ou regulatória, isso pode sustentar a pressão sobre o câmbio e a bolsa no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792601597.9475634,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa perde fôlego e agora oscila após pesquisa Quaest - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa perde fôlego e agora oscila após pesquisa Quaest - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "21/10 11:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A oscilação do Ibovespa após a divulgação de uma pesquisa eleitoral indica a sensibilidade do mercado a resultados que possam influenciar o cenário político e econômico futuro. Se a pesquisa Quaest apresentar um cenário de maior polarização ou incerteza, isso pode manter a volatilidade na bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792601597.9495451,
-    "titulo": "Nvidia quer acelerar implantação de fábricas de IA",
-    "titulo_original": "Nvidia quer acelerar implantação de fábricas de IA",
-    "fonte": "Valor Economico",
-    "publicado": "21/10 13:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O projeto da Nvidia para acelerar a implantação de fábricas de IA pode impulsionar o setor de tecnologia e a demanda por componentes. Se essa tecnologia se popularizar e for adotada em larga escala, pode gerar um ciclo de investimento em infraestrutura de IA, com potenciais impactos na produtividade e na demanda por energia e recursos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792607443.4858868,
     "titulo": "Fluxo cambial registra entrada líquida de US$ 1,933 bi na semana de 16 de outubro",
     "titulo_original": "Fluxo cambial registra entrada líquida de US$ 1,933 bi na semana de 16 de outubro",
@@ -1179,6 +1079,75 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O desempenho da Apple como um ativo de refúgio sugere uma percepção de menor risco em comparação com outras empresas de tecnologia. Se a volatilidade no setor de IA persistir, a Apple pode continuar a atrair capital em busca de estabilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792711879.3341362,
+    "titulo": "O que são juros futuros e como eles afetam seu bolso - Folha de S.Paulo",
+    "titulo_original": "O que são juros futuros e como eles afetam seu bolso - Folha de S.Paulo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/10 19:39",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia é um artigo explicativo sobre juros futuros, sem apresentar dados ou eventos concretos que afetem o mercado. Seu valor está na educação financeira, mas não gera impacto direto nas análises de curto prazo para operações em WDO.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792711884.7855337,
+    "titulo": "Juros futuros têm alta firme em meio a cautela eleitoral e aversão a risco no exterior",
+    "titulo_original": "Juros futuros têm alta firme em meio a cautela eleitoral e aversão a risco no exterior",
+    "fonte": "Valor Economico",
+    "publicado": "22/10 17:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta dos juros futuros reflete a incerteza eleitoral e o cenário externo adverso, elevando a taxa do DI para janeiro de 2028 para <b>12,885%</b>. Se o resultado eleitoral gerar maior clareza política, os juros podem recuar; caso contrário, a pressão de alta pode persistir, especialmente se o cenário externo piorar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792711890.3074741,
+    "titulo": "Petróleo Brent sobe 4% e supera US$ 113, maior preço desde maio - Valor Econômico",
+    "titulo_original": "Petróleo Brent sobe 4% e supera US$ 113, maior preço desde maio - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "22/10 16:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta significativa do petróleo Brent para acima de <b>US$ 113</b> pode gerar pressões inflacionárias globais e domésticas, impactando custos de produção e transporte. Se essa tendência de alta se mantiver, pode haver um endurecimento da política monetária em diversas economias para conter a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792711895.887901,
+    "titulo": "PMI flash da Austrália: setor privado encolhe pela primeira vez em cinco meses com aumento de preços",
+    "titulo_original": "Australia flash PMI: private sector shrinks for first time in five months as prices rise",
+    "fonte": "ForexLive",
+    "publicado": "22/10 19:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A contração do setor privado australiano, combinada com pressões inflacionárias, cria um cenário complexo para as decisões de juros do RBA. Se os custos de energia continuarem a subir, isso pode alimentar a inflação e limitar o espaço para cortes de juros, enquanto a queda na atividade pode pressionar por estímulos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792711901.8751523,
+    "titulo": "Alívio com data marcada? IPCA-15 deve desacelerar antes de novas pressões na inflação",
+    "titulo_original": "Alívio com data marcada? IPCA-15 deve desacelerar antes de novas pressões na inflação",
+    "fonte": "Money Times",
+    "publicado": "22/10 18:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de desaceleração do IPCA-15, com alívio na energia elétrica, sugere uma possível moderação inflacionária pontual. No entanto, a pressão de alimentos e combustíveis pode limitar essa melhora, indicando que a inflação pode voltar a ganhar força se esses componentes persistirem em alta.",
     "is_stocks": true
   }
 ]
