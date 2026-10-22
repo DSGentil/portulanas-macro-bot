@@ -918,5 +918,141 @@
     "origem": "domestica",
     "leitura_critica": "A pressão nas margens da WEG devido ao custo de matérias-primas pode ser um indicativo de tendências inflacionárias em setores industriais. Se a empresa conseguir repassar esses custos ou mitigar seus efeitos em trimestres futuros, isso pode sinalizar resiliência operacional; caso contrário, pode indicar um cenário de margens mais apertadas para o setor.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792687544.141959,
+    "titulo": "Tesouro Direto hoje: com alta volatilidade, taxas prefixadas sobem, mas IPCA+ longos caem",
+    "titulo_original": "Tesouro Direto hoje: com alta volatilidade, taxas prefixadas sobem, mas IPCA+ longos caem",
+    "fonte": "InvestNews",
+    "publicado": "22/10 10:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre as taxas prefixadas e IPCA+ longos no Tesouro Direto indica um cenário de incerteza sobre a trajetória futura da inflação e dos juros. Se a volatilidade persistir, pode haver maior dificuldade em precificar ativos de longo prazo; se a expectativa de inflação se consolidar, os títulos IPCA+ podem voltar a atrair investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792687549.9916127,
+    "titulo": "Dólar hoje sobe com força da moeda no exterior e expectativa por pesquisa eleitoral - InfoMoney",
+    "titulo_original": "Dólar hoje sobe com força da moeda no exterior e expectativa por pesquisa eleitoral - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/10 12:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar é influenciada por fatores externos (força da moeda no exterior) e internos (pesquisas eleitorais). Se a força da moeda no exterior se mantiver e as pesquisas eleitorais indicarem um cenário de maior incerteza, o dólar pode continuar sua trajetória de alta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792687554.622123,
+    "titulo": "PIB do Oriente Médio, Norte da África e Paquistão deve recuar 1,3% em 2026, diz FMI",
+    "titulo_original": "PIB do Oriente Médio, Norte da África e Paquistão deve recuar 1,3% em 2026, diz FMI",
+    "fonte": "Valor Economico",
+    "publicado": "22/10 13:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A projeção de queda acentuada na atividade econômica regional pode impactar a demanda por commodities e a estabilidade de preços de energia. Se os conflitos se intensificarem, a recuperação em 2027 pode ser adiada, afetando cadeias de suprimentos globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792687559.5134346,
+    "titulo": "Petróleo brent sobe e supera US$ 112 com novos ataques houthis na Arábia Saudita - InfoMoney",
+    "titulo_original": "Petróleo brent sobe e supera US$ 112 com novos ataques houthis na Arábia Saudita - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "22/10 09:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento do preço do petróleo Brent acima de US$ 112, impulsionado por ataques na Arábia Saudita, eleva o risco inflacionário global e pode pressionar o câmbio em países importadores de energia. Se os ataques se intensificarem ou se estenderem a outras regiões produtoras, o preço do petróleo pode continuar a subir, impactando a atividade econômica mundial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792687576.731793,
+    "titulo": "No vermelho: Ibovespa perde 3 mil pontos com disputa acirrada entre Flávio e Lula",
+    "titulo_original": "No vermelho: Ibovespa perde 3 mil pontos com disputa acirrada entre Flávio e Lula",
+    "fonte": "Money Times",
+    "publicado": "22/10 12:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A perda de 3 mil pontos no Ibovespa reflete a aversão ao risco do mercado diante da incerteza eleitoral. Se o resultado das eleições for percebido como desfavorável ao ambiente de negócios, a volatilidade e a queda do índice podem persistir; caso contrário, uma resolução clara pode impulsionar uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792687576.732997,
+    "titulo": "Meta (META) cai 8% mesmo com receita 26% maior e balanço positivo — então, o que desagradou os investidores?",
+    "titulo_original": "Meta (META) cai 8% mesmo com receita 26% maior e balanço positivo — então, o que desagradou os investidores?",
+    "fonte": "Money Times",
+    "publicado": "22/10 13:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas ações da Meta, apesar de resultados financeiros positivos, sugere que as expectativas do mercado podem ter sido superadas em outros aspectos, como projeções futuras ou investimentos em IA. Se os gastos futuros com IA se mostrarem menos eficientes do que o esperado, a pressão sobre as ações pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792687576.7340279,
+    "titulo": "Ibovespa em alta e dólar em R$ 5: é o momento de diversificar no exterior?",
+    "titulo_original": "Ibovespa em alta e dólar em R$ 5: é o momento de diversificar no exterior? - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/10 11:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A combinação de Ibovespa em alta e dólar em R$ 5 pode ser um indicativo de cenário econômico doméstico favorável, mas também de desvalorização cambial. Se a tendência de alta do Ibovespa se mantiver e o dólar se estabilizar em patamares mais baixos, a atratividade de investimentos no exterior pode diminuir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792687576.7350607,
+    "titulo": "O brilho da Vale (VALE3) acabou? Ação desaba, mas analistas mantêm otimismo",
+    "titulo_original": "O brilho da Vale (VALE3) acabou? Ação desaba, mas analistas mantêm otimismo - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "22/10 13:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda expressiva nas ações da Vale, contrastando com o otimismo dos analistas, sugere que o mercado pode estar precificando riscos de curto prazo que ainda não foram totalmente absorvidos pelas projeções. Se os fundamentos da empresa se mantiverem sólidos, a ação pode se recuperar no médio prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792687576.7360575,
+    "titulo": "Leilão de gás da União termina com todos os lotes arrematados por 23 empresas",
+    "titulo_original": "Leilão de gás da União termina com todos os lotes arrematados por 23 empresas",
+    "fonte": "Valor Economico",
+    "publicado": "22/10 13:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O sucesso do leilão de gás natural da União indica uma demanda robusta por parte da indústria brasileira, o que pode sinalizar um cenário de maior atividade econômica em setores como siderurgia e mineração. Se o preço médio e o ágio forem divulgados em patamares elevados, isso pode indicar pressão sobre os custos de produção para as empresas vencedoras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792687576.7371092,
+    "titulo": "Ibovespa hoje cai mais de 1% com pesquisa eleitoral e petróleo a US$ 112; dólar sobe a R$ 5,04 - Estadão",
+    "titulo_original": "Ibovespa hoje cai mais de 1% com pesquisa eleitoral e petróleo a US$ 112; dólar sobe a R$ 5,04 - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "22/10 10:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa e a alta do dólar são influenciadas por fatores domésticos (pesquisas eleitorais) e externos (preço do petróleo). Se as pesquisas eleitorais indicarem um resultado mais incerto ou desfavorável ao mercado, a pressão sobre o Ibovespa pode aumentar; se o preço do petróleo continuar subindo, isso pode pressionar a inflação e o câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792687576.7381148,
+    "titulo": "ITUB4, BBDC4, BBAS3: cenário para os ‘bancões’ no 3T26 é parecido, avalia analista da TCM Capital",
+    "titulo_original": "ITUB4, BBDC4, BBAS3: cenário para os ‘bancões’ no 3T26 é parecido, avalia analista da TCM Capital",
+    "fonte": "Money Times",
+    "publicado": "22/10 13:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de resultados semelhantes entre os grandes bancos sugere um ambiente operacional consistente para o setor financeiro. Se o lucro do Bradesco se confirmar em R$ 7, isso pode ser um indicativo de que os demais bancos também apresentarão resultados na mesma linha.",
+    "is_stocks": true
   }
 ]
