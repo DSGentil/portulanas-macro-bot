@@ -756,5 +756,97 @@
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa com as eleições no radar sugere que a incerteza política está pesando sobre o mercado acionário brasileiro. Se a percepção de risco eleitoral aumentar, isso pode levar a uma maior volatilidade e a uma fuga de capitais, impactando negativamente o índice.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792674951.2938247,
+    "titulo": "REAL11: XP lança ETF com estratégia baseada na Selic e dólar",
+    "titulo_original": "REAL11: XP lança ETF com estratégia baseada na Selic e dólar - Investidor10",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/10 08:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento de um ETF atrelado à Selic e ao dólar pela XP pode indicar uma estratégia para capturar retornos em cenários de juros elevados e volatilidade cambial. Se a taxa Selic se mantiver alta e o dólar apresentar movimentos expressivos, este ETF pode atrair investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792674956.377625,
+    "titulo": "Canada September PPI +2.0% m/m vs +1.3% prior",
+    "titulo_original": "Canada September PPI +2.0% m/m vs +1.3% prior",
+    "fonte": "ForexLive",
+    "publicado": "22/10 09:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de IPP acima do esperado no Canadá sugere pressões inflacionárias persistentes, o que pode levar o Banco do Canadá a considerar um aumento nas taxas de juros. Se os próximos dados de inflação ao consumidor também vierem fortes, a probabilidade de um aperto monetário aumentará.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792674961.5768445,
+    "titulo": "Pedidos iniciais de seguro-desemprego dos EUA somam 194 mil na semana de 17 de outubro",
+    "titulo_original": "Pedidos iniciais de seguro-desemprego dos EUA somam 194 mil na semana de 17 de outubro",
+    "fonte": "Valor Economico",
+    "publicado": "22/10 09:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nos pedidos iniciais de seguro-desemprego nos EUA, vindo abaixo do esperado, sugere um mercado de trabalho ainda resiliente. Se essa tendência se mantiver, pode reforçar a visão de que a economia americana suporta taxas de juros mais altas por mais tempo, impactando decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792674966.7947657,
+    "titulo": "US initial jobless claims 194K vs 200K estimate. Better than expected.",
+    "titulo_original": "US initial jobless claims 194K vs 200K estimate. Better than expected.",
+    "fonte": "ForexLive",
+    "publicado": "22/10 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nos pedidos iniciais de seguro-desemprego nos EUA, indicando força no mercado de trabalho, pode reforçar a narrativa de que o Federal Reserve pode manter uma postura mais restritiva. Se os pedidos continuados também mostrarem melhora, isso reforçaria a ideia de um mercado de trabalho aquecido.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792674972.8014188,
+    "titulo": "Bolsas pelo mundo caem com nova disparada do preço do petróleo",
+    "titulo_original": "Bolsas pelo mundo caem com nova disparada do preço do petróleo",
+    "fonte": "Folha Mercado",
+    "publicado": "22/10 09:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo e as tensões geopolíticas podem gerar um cenário de aversão ao risco nos mercados globais. Se o conflito no Oriente Médio se intensificar, o impacto nas bolsas pode ser mais severo; caso contrário, a recuperação pode ser mais rápida.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792674972.8029294,
+    "titulo": "Wall Street e Bolsas globais recuam com alta do petróleo e temores sobre IA",
+    "titulo_original": "Wall Street e Bolsas globais recuam com alta do petróleo e temores sobre IA - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "22/10 07:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda em Wall Street e nas bolsas globais, influenciada pela alta do petróleo e preocupações com IA, sugere um cenário de aversão ao risco. Se os preços do petróleo continuarem a subir, o impacto na inflação e no crescimento econômico pode ser mais acentuado; se os temores sobre IA se dissiparem, o mercado pode se recuperar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792674972.8042657,
+    "titulo": "investingLive European session wrap: Dollar, yen and bonds kick it old school",
+    "titulo_original": "investingLive European session wrap: Dollar, yen and bonds kick it old school",
+    "fonte": "ForexLive",
+    "publicado": "22/10 09:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Os movimentos do dólar, iene e títulos de renda fixa na sessão europeia podem refletir um cenário de incerteza global. Se as tensões geopolíticas aumentarem, o dólar pode se fortalecer como porto seguro; se houver sinais de melhora na economia global, outros ativos podem se valorizar.",
+    "is_stocks": true
   }
 ]
