@@ -1,76 +1,5 @@
 [
   {
-    "_timestamp": 1792588542.4379346,
-    "titulo": "Nas apostas para a Selic, a cautela com a política fiscal ainda fala mais alto - Valor Econômico",
-    "titulo_original": "Nas apostas para a Selic, a cautela com a política fiscal ainda fala mais alto - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/10 07:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A percepção de risco fiscal no Brasil tem um impacto direto nas expectativas para a taxa Selic. Se a política fiscal se mostrar mais rigorosa e previsível, isso pode abrir espaço para o Banco Central reduzir os juros de forma mais consistente; caso contrário, a cautela com a inflação e a necessidade de atrair capital podem manter os juros em patamares mais elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792588548.0947502,
-    "titulo": "Plano Brasil Soberano: Lula abre R$ 6,79 bilhões em créditos extraordinários para exportadores e Defesa Civil",
-    "titulo_original": "Plano Brasil Soberano: Lula abre R$ 6,79 bilhões em créditos extraordinários para exportadores e Defesa Civil",
-    "fonte": "Money Times",
-    "publicado": "21/10 10:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A abertura de créditos extraordinários impacta o orçamento público, destinando recursos para áreas específicas. Se esses créditos forem utilizados para impulsionar exportações, isso pode ter um efeito positivo na balança comercial; caso contrário, pode representar um aumento de gastos sem contrapartida clara.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792588552.7312927,
-    "titulo": "Alocação em bolsa por fundos de pensão cai de 34% para 4,7% em 13 anos",
-    "titulo_original": "Alocação em bolsa por fundos de pensão cai de 34% para 4,7% em 13 anos",
-    "fonte": "Valor Economico",
-    "publicado": "21/10 09:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução drástica na alocação de fundos de pensão em bolsa e o aumento em renda fixa indicam uma mudança de estratégia de investimento, possivelmente motivada por aversão ao risco ou busca por maior previsibilidade. Se essa tendência se mantiver, isso pode limitar o fluxo de capital para o mercado de ações no longo prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792588557.1733062,
-    "titulo": "Após abrir em leve alta, dólar tem viés de baixa com disputa eleitoral e alívio externo - UOL Economia",
-    "titulo_original": "Após abrir em leve alta, dólar tem viés de baixa com disputa eleitoral e alívio externo - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/10 09:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do dólar pode ser interpretada como um sinal de melhora na percepção de risco do Brasil, impulsionada por um cenário externo mais favorável e pela dinâmica da disputa eleitoral interna. Se a tendência de baixa do dólar se consolidar, isso pode reduzir o custo de importação e favorecer o controle da inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792588561.8901172,
-    "titulo": "Inflação e dívida pública no Reino Unido sobem e pressionam governo",
-    "titulo_original": "Inflação e dívida pública no Reino Unido sobem e pressionam governo",
-    "fonte": "Folha Mercado",
-    "publicado": "21/10 09:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento da inflação e da dívida pública no Reino Unido pode levar a uma política monetária mais restritiva, com elevação dos juros. Se o Banco da Inglaterra decidir aumentar a taxa de juros, isso pode desacelerar a economia britânica e ter repercussões em outros mercados globais, incluindo o fluxo de capital para economias emergentes.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1792601444.5967195,
     "titulo": "Governo zera imposto de importação de insumos para desenvolvimento científico",
     "titulo_original": "Governo zera imposto de importação de insumos para desenvolvimento científico",
@@ -976,6 +905,136 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A queda das ações da Tesla, mesmo com previsões otimistas de Elon Musk, sugere que os resultados financeiros e as expectativas de mercado para a empresa estão desalinhados. Se a Tesla não conseguir entregar resultados que correspondam às projeções, isso pode afetar a confiança em empresas de tecnologia com forte componente de inovação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792701047.7486835,
+    "titulo": "Decreto estende dispensa de CNPJ e nota fiscal para nanoempreendedores",
+    "titulo_original": "Decreto estende dispensa de CNPJ e nota fiscal para nanoempreendedores",
+    "fonte": "Folha Mercado",
+    "publicado": "22/10 16:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A extensão da dispensa de CNPJ e nota fiscal para nanoempreendedores representa uma decisão de política fiscal que pode impactar a formalização de pequenos negócios e a arrecadação tributária. Se essa medida estimular o empreendedorismo e a atividade econômica desses microempreendedores, pode haver um efeito positivo na base tributária a longo prazo; caso contrário, pode representar uma perda de arrecadação sem um ganho proporcional em atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792701051.7758164,
+    "titulo": "Seca histórica castiga Roraima, derruba produtividade da soja em 42% e ameaça encarecer próxima safra - Canal Rural",
+    "titulo_original": "Seca histórica castiga Roraima, derruba produtividade da soja em 42% e ameaça encarecer próxima safra - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "22/10 15:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda expressiva na produtividade da soja em Roraima devido à seca histórica pode ter um impacto direto nos preços da commodity e, consequentemente, na inflação de alimentos. Se o problema climático se estender a outras regiões produtoras ou se a oferta global for afetada significativamente, o encarecimento da soja pode se refletir em outros produtos; a extensão do impacto dependerá da magnitude da quebra de safra e da capacidade de outras regiões suprir a demanda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792701055.7565408,
+    "titulo": "IA e inflação: quanto os bancos centrais devem se preocupar?",
+    "titulo_original": "IA e inflação: quanto os bancos centrais devem se preocupar?",
+    "fonte": "Folha Mercado",
+    "publicado": "22/10 17:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A preocupação com a IA gerando inflação sem ganhos de produtividade é um cenário complexo para os bancos centrais, pois pode exigir uma postura mais restritiva em termos de juros. Se essa correlação se confirmar, a política monetária pode ter que se adaptar a um novo fator inflacionário; caso a IA demonstre efetivamente ganhos de produtividade, o impacto inflacionário pode ser mitigado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792701059.755309,
+    "titulo": "Bolsas da Europa caem pressionadas por IA, petróleo e dívidas - CNN Brasil",
+    "titulo_original": "Bolsas da Europa caem pressionadas por IA, petróleo e dívidas - CNN Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "22/10 14:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas europeias, atribuída a IA, petróleo e dívidas, reflete um cenário de incerteza global que pode impactar o apetite por risco. A alta do petróleo, em particular, pode pressionar a inflação, levando a uma postura mais cautelosa dos bancos centrais. Se as preocupações com dívida se intensificarem, isso pode gerar um efeito dominó em outras economias; caso contrário, a superação desses fatores pode levar a uma recuperação mais rápida.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792701065.5003383,
+    "titulo": "Em NY, Nasdaq despenca em meio aos receios sobre gastos de empresas de IA",
+    "titulo_original": "Em NY, Nasdaq despenca em meio aos receios sobre gastos de empresas de IA",
+    "fonte": "Valor Economico",
+    "publicado": "22/10 17:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A forte queda do Nasdaq, especialmente em setores de tecnologia, sugere que o mercado está reavaliando o potencial de crescimento e os custos associados à inteligência artificial. Se os próximos resultados de empresas de tecnologia confirmarem essa tendência de cautela nos investimentos, o setor pode enfrentar um período de correção mais prolongado; caso contrário, a recuperação pode ser rápida se os gastos em IA demonstrarem retorno claro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792701065.5020685,
+    "titulo": "Ações brasileiras tem potencial de subir até 50%, mas Morgan Stanley diz que há uma condição para a primavera chegar por aqui",
+    "titulo_original": "Ações brasileiras tem potencial de subir até 50%, mas Morgan Stanley diz que há uma condição para a primavera chegar por aqui",
+    "fonte": "Money Times",
+    "publicado": "22/10 16:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de alta de 50% para ações brasileiras pelo Morgan Stanley é um indicador de otimismo do mercado, mas a condição mencionada é crucial para a validação dessa expectativa. Se a condição for favorável, o cenário para a bolsa brasileira pode ser bastante positivo; caso contrário, a magnitude dos ganhos pode ser menor do que o projetado, exigindo uma análise detalhada do que impede essa 'primavera' no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792701065.5037663,
+    "titulo": "IPO da Anthropic concentra interesse de investidores no mercado de IA",
+    "titulo_original": "IPO da Anthropic concentra interesse de investidores no mercado de IA",
+    "fonte": "Valor Economico",
+    "publicado": "22/10 16:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O IPO da Anthropic, uma empresa de IA com potencial de avaliação bilionária, servirá como um termômetro para o apetite dos investidores por empresas de tecnologia de ponta em um cenário de mercado incerto. Se a oferta for bem-sucedida e a avaliação se confirmar, isso pode impulsionar outras empresas de IA a buscarem o mercado de capitais; caso contrário, pode sinalizar uma cautela maior do setor em relação a valuations elevados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792701065.5054257,
+    "titulo": "CSN (CSNA3): Venda da divisão de cimentos deve ser assinada em 2 semanas, mas sem exclusividade, diz jornal",
+    "titulo_original": "CSN (CSNA3): Venda da divisão de cimentos deve ser assinada em 2 semanas, mas sem exclusividade, diz jornal",
+    "fonte": "Money Times",
+    "publicado": "22/10 17:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A iminente assinatura do acordo para venda da divisão de cimentos da CSN pode sinalizar uma reestruturação estratégica da empresa. Se a venda for concretizada nos termos esperados, isso pode liberar capital para a CSN focar em outras áreas de negócio; a ausência de exclusividade pode indicar que a negociação ainda pode sofrer alterações ou que há outros interessados no processo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792701065.5070915,
+    "titulo": "Irmãos Batista se posicionam em energia nuclear, mesmo sem conclusão de negócio no setor",
+    "titulo_original": "Irmãos Batista se posicionam em energia nuclear, mesmo sem conclusão de negócio no setor",
+    "fonte": "Folha Mercado",
+    "publicado": "22/10 16:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O posicionamento dos irmãos Batista no setor de energia nuclear, mesmo com a lentidão na conclusão de negócios, pode indicar uma estratégia de longo prazo para o grupo J&F. Se a aquisição na Eletronuclear for concluída, isso pode representar um movimento significativo no setor energético brasileiro; a antecipação de posicionamento sugere que eles veem potencial de crescimento no setor, independentemente dos prazos atuais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792701065.508793,
+    "titulo": "Petrobras (PETR4): nenhuma grande petroleira do mundo subiu tanto em outubro. O que explica?",
+    "titulo_original": "Petrobras (PETR4): nenhuma grande petroleira do mundo subiu tanto em outubro. O que explica?",
+    "fonte": "Money Times",
+    "publicado": "22/10 16:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O expressivo desempenho da Petrobras em outubro, superando outras grandes petroleiras globais, sugere que fatores específicos do mercado brasileiro ou a percepção de risco/retorno da empresa estão atraindo investidores. Se a alta for sustentada por fundamentos sólidos e não apenas por movimentos especulativos, isso pode indicar um cenário positivo para a empresa e, potencialmente, para o setor de energia no Brasil; a análise dos motivos por trás dessa valorização é crucial para entender sua sustentabilidade.",
     "is_stocks": true
   }
 ]
