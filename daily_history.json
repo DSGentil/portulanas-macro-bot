@@ -1,151 +1,5 @@
 [
   {
-    "_timestamp": 1792582339.691432,
-    "titulo": "IGP-M sobe 1,59% na segunda prévia de outubro, informa FGV",
-    "titulo_original": "IGP-M sobe 1,59% na segunda prévia de outubro, informa FGV",
-    "fonte": "Valor Economico",
-    "publicado": "21/10 08:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O IGP-M apresentou uma aceleração na segunda prévia de outubro, impulsionado principalmente pelo Índice de Preços ao Produtor Amplo. Se essa tendência se mantiver, pode pressionar a inflação ao consumidor e influenciar decisões futuras de política monetária, especialmente se o IPA continuar a subir de forma acentuada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792582344.1120021,
-    "titulo": "IBGE retira menção a drogas de nota sobre atualização do PIB",
-    "titulo_original": "IBGE retira menção a drogas de nota sobre atualização do PIB",
-    "fonte": "Folha Mercado",
-    "publicado": "21/10 06:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A retirada de uma menção metodológica sobre a inclusão de drogas no cálculo do PIB pelo IBGE não altera o dado do PIB em si, mas sim a forma como ele é apresentado ou explicado. Isso não impacta diretamente a leitura de atividade econômica ou emprego, mas pode gerar questionamentos sobre a metodologia de cálculo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792582348.5811584,
-    "titulo": "Preço do ouro cai com dólar forte, tensão EUA-Irã e incerteza sobre juros do Fed",
-    "titulo_original": "Preço do ouro cai com dólar forte, tensão EUA-Irã e incerteza sobre juros do Fed - ADVFN",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/10 07:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do ouro, influenciada por fatores externos como a tensão geopolítica e a força do dólar, também reflete a incerteza sobre a política de juros do Fed. Se o Fed sinalizar uma postura mais hawkish, isso pode sustentar o dólar e pressionar o ouro ainda mais; um sinal dovish, por outro lado, poderia reverter essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792582352.959803,
-    "titulo": "Inflação do CPI de setembro no Reino Unido sobe para 3,5%, reforça expectativas de alta de juros em novembro do BOE",
-    "titulo_original": "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expectations",
-    "fonte": "ForexLive",
-    "publicado": "21/10 03:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento da inflação no Reino Unido, especialmente a inflação de serviços, eleva a pressão sobre o BOE para aumentar os juros. Se o BOE confirmar a alta em novembro, isso pode influenciar as expectativas de política monetária em outras economias, especialmente se o núcleo da inflação permanecer elevado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792582380.5855935,
-    "titulo": "Agenda de empresas: Lucro da Romi sobe 56%; Cosan encerra exclusividade para venda de fatia na Rumo",
-    "titulo_original": "Agenda de empresas: Lucro da Romi sobe 56%; Cosan encerra exclusividade para venda de fatia na Rumo",
-    "fonte": "Valor Economico",
-    "publicado": "21/10 08:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Os resultados da Romi indicam um desempenho operacional positivo em seu segmento. A decisão da Cosan de não vender sua participação na Rumo pode indicar uma reavaliação estratégica ou a ausência de propostas consideradas vantajosas no momento, o que pode influenciar a dinâmica futura da Rumo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792582380.5866883,
-    "titulo": "Mercados europeus estáveis por enquanto, mas aumento dos spreads de rendimento de títulos oferece um aviso",
-    "titulo_original": "European markets steady for now but widening bond yield spreads offer a warning",
-    "fonte": "ForexLive",
-    "publicado": "21/10 06:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A estabilidade aparente nos mercados de ações europeus contrasta com o aumento nos spreads de rendimento de títulos, que historicamente sinaliza maior risco percebido. Se essa divergência persistir, pode indicar uma deterioração subjacente das condições financeiras na Europa, com potenciais reflexos em decisões futuras de política monetária.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792582380.5877793,
-    "titulo": "Cosan diz que negociou venda de participação na Rumo, mas não houve acordo",
-    "titulo_original": "Cosan diz que negociou venda de participação na Rumo, mas não houve acordo",
-    "fonte": "Folha Mercado",
-    "publicado": "21/10 08:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A ausência de um acordo para a venda da participação da Cosan na Rumo pode indicar que as condições propostas não foram consideradas ideais pela Cosan, ou que a Rumo pode estar buscando outras estratégias de capitalização. A continuidade da Cosan como acionista majoritário da Rumo pode manter a estrutura atual da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792582380.5886703,
-    "titulo": "WEG (WEGE3) lucra R$ 1,66 bilhão no terceiro trimestre de 2026, avanço de 0,9% no ano; veja os números",
-    "titulo_original": "WEG (WEGE3) lucra R$ 1,66 bilhão no terceiro trimestre de 2026, avanço de 0,9% no ano; veja os números",
-    "fonte": "Money Times",
-    "publicado": "21/10 08:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O lucro da WEG apresentou um leve crescimento, indicando resiliência em seu desempenho operacional. Se o Ebitda continuar a crescer em linha com o lucro, isso pode sugerir uma gestão de custos eficiente, mas a baixa taxa de crescimento pode indicar um cenário de mercado mais desafiador para a empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792582380.5896053,
-    "titulo": "Dólar recua a R$ 5,01 e Ibovespa sobe, de olho com eleição no radar",
-    "titulo_original": "Dólar recua a R$ 5,01 e Ibovespa sobe, de olho com eleição no radar - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "21/10 05:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a alta do Ibovespa sugerem um aumento da confiança do investidor, possivelmente influenciado por expectativas em relação ao cenário eleitoral. Se a pesquisa eleitoral indicar um resultado mais favorável ao mercado, o dólar pode continuar a ceder e a bolsa a subir; caso contrário, essa tendência pode se reverter.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792582380.5905068,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "21/10 03:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A inflação no Reino Unido, ao vir acima do esperado, reforça a probabilidade de uma alta de juros pelo BOE, o que pode impactar as expectativas de juros em outras economias. Os resultados corporativos da Meta e Tesla, embora importantes para seus setores, não possuem conexão direta com os canais macroeconômicos listados, a menos que a notícia os conecte explicitamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792582380.591408,
-    "titulo": "Ibovespa hoje: após alta de 1,57%, nova pesquisa Quaest pode mudar o humor da Bolsa",
-    "titulo_original": "Ibovespa hoje: após alta de 1,57%, nova pesquisa Quaest pode mudar o humor da Bolsa - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "21/10 04:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa sugere um otimismo momentâneo no mercado acionário. Se a nova pesquisa Quaest apresentar resultados que gerem maior clareza ou previsibilidade sobre o cenário político, isso pode sustentar a alta da bolsa; caso contrário, a volatilidade pode aumentar.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792588542.4379346,
     "titulo": "Nas apostas para a Selic, a cautela com a política fiscal ainda fala mais alto - Valor Econômico",
     "titulo_original": "Nas apostas para a Selic, a cautela com a política fiscal ainda fala mais alto - Valor Econômico",
@@ -1053,6 +907,75 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A expectativa de resultados semelhantes entre os grandes bancos sugere um ambiente operacional consistente para o setor financeiro. Se o lucro do Bradesco se confirmar em R$ 7, isso pode ser um indicativo de que os demais bancos também apresentarão resultados na mesma linha.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792693846.5218954,
+    "titulo": "Arrecadação federal sobe 5,62% em setembro e bate recorde",
+    "titulo_original": "Arrecadação federal sobe 5,62% em setembro e bate recorde",
+    "fonte": "Folha Mercado",
+    "publicado": "22/10 12:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recorde na arrecadação federal em setembro pode indicar uma melhora na atividade econômica ou na eficiência da cobrança de impostos. Se essa tendência de aumento se mantiver, pode aliviar a pressão sobre as contas públicas; caso contrário, pode sinalizar fragilidades fiscais futuras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792693850.5232718,
+    "titulo": "Entre a Selic e as urnas: o voto econômico em 2026 - JOTA Info",
+    "titulo_original": "Entre a Selic e as urnas: o voto econômico em 2026 - JOTA Info",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "22/10 11:50",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda uma análise sobre a influência da política monetária nas decisões de voto. O impacto real dependerá das decisões futuras do Banco Central em relação à Selic e da percepção dos eleitores sobre a gestão econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792693854.48677,
+    "titulo": "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
+    "titulo_original": "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
+    "fonte": "ForexLive",
+    "publicado": "22/10 14:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O leilão de TIPS com um rendimento ligeiramente acima do esperado pode indicar uma demanda menor por proteção contra a inflação ou uma maior exigência de retorno por parte dos investidores. Se essa tendência se mantiver, pode sinalizar pressões inflacionárias persistentes ou uma maior cautela do mercado em relação à política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792693858.4486985,
+    "titulo": "American Airlines prevê prejuízo em 2026 com alta do combustível",
+    "titulo_original": "American Airlines prevê prejuízo em 2026 com alta do combustível",
+    "fonte": "Folha Mercado",
+    "publicado": "22/10 14:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A previsão de prejuízo da American Airlines, impulsionada pela alta do combustível, pode indicar um cenário de custos operacionais elevados para o setor aéreo. Se essa tendência de aumento nos custos de energia se generalizar, pode pressionar outras empresas e impactar o poder de compra dos consumidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792693863.2328963,
+    "titulo": "Previsão ousada de Elon Musk para robotáxis não consegue salvar ações da Tesla",
+    "titulo_original": "Previsão ousada de Elon Musk para robotáxis não consegue salvar ações da Tesla",
+    "fonte": "Valor Economico",
+    "publicado": "22/10 14:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das ações da Tesla, mesmo com previsões otimistas de Elon Musk, sugere que os resultados financeiros e as expectativas de mercado para a empresa estão desalinhados. Se a Tesla não conseguir entregar resultados que correspondam às projeções, isso pode afetar a confiança em empresas de tecnologia com forte componente de inovação.",
     "is_stocks": true
   }
 ]
