@@ -948,5 +948,98 @@
     "origem": "domestica",
     "leitura_critica": "O acompanhamento ao vivo da cotação do dólar permite observar a dinâmica do fluxo de capital em tempo real. A volatilidade observada pode ser influenciada por diversos fatores macroeconômicos e de sentimento do mercado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792768543.783112,
+    "titulo": "Prévia da inflação volta a superar o teto da meta após dois meses",
+    "titulo_original": "Prévia da inflação volta a superar o teto da meta após dois meses",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 12:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O retorno da prévia da inflação acima do teto da meta pode reforçar a postura cautelosa do Banco Central em relação a cortes de juros. Se os próximos dados de inflação continuarem pressionados, o ciclo de afrouxamento monetário pode ser mais lento do que o esperado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792768548.5346577,
+    "titulo": "UMich final de outubro sentimento do consumidor final 48,0 vs esperado 46,3",
+    "titulo_original": "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
+    "fonte": "ForexLive",
+    "publicado": "23/10 11:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Embora o sentimento geral do consumidor tenha melhorado, as expectativas de inflação em 1 e 5 anos permaneceram estáveis em 4,7% e 3,5%, respectivamente. Se as expectativas de inflação começarem a subir, isso pode levar o Fed a manter uma postura mais restritiva.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792768552.9739134,
+    "titulo": "Rússia e Ucrânia trocam 270 prisioneiros cada",
+    "titulo_original": "Rússia e Ucrânia trocam 270 prisioneiros cada",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 11:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A troca de prisioneiros entre Rússia e Ucrânia pode ser vista como um pequeno passo na direção de uma possível desescalada, embora não altere o quadro geral do conflito. Se houver mais avanços diplomáticos, isso poderia impactar os preços de commodities energéticas e grãos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792768557.5638282,
+    "titulo": "A nova ameaça do Irã após declaração de Donald Trump sobre curso da guerra",
+    "titulo_original": "A nova ameaça do Irã após declaração de Donald Trump sobre curso da guerra - VEJA",
+    "fonte": "Google News Geopolitica",
+    "publicado": "23/10 11:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões diplomáticas e ameaças entre Irã e EUA, em decorrência de declarações sobre a guerra, pode aumentar a volatilidade geopolítica. Se a situação se agravar, isso pode impactar os preços do petróleo e a confiança dos investidores globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792768563.062057,
+    "titulo": "Ibovespa futuro sinaliza reação, dólar oscila e China sobe antes do segundo turno",
+    "titulo_original": "Ibovespa futuro sinaliza reação, dólar oscila e China sobe antes do segundo turno - Portal do Agronegócio",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/10 10:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A oscilação do dólar e a reação do Ibovespa futuro podem estar ligadas às expectativas em relação ao segundo turno das eleições. Se o resultado eleitoral gerar incertezas, o dólar pode voltar a subir e o Ibovespa sofrer pressão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792768563.063275,
+    "titulo": "PMI composto dos EUA recua na preliminar de outubro, diz S&P Global",
+    "titulo_original": "PMI composto dos EUA recua na preliminar de outubro, diz S&P Global",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 11:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A leve desaceleração no PMI composto dos EUA, apesar do avanço no setor industrial, sugere que a expansão econômica pode estar perdendo um pouco de força. Se essa tendência se confirmar nos próximos meses, pode aumentar a pressão por uma política monetária mais flexível por parte do Fed.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792768563.0643673,
+    "titulo": "Safra projeta Ibovespa a 260 mil pontos no fim de 2027 diante de mais cortes de juros e menor risco-país",
+    "titulo_original": "Safra projeta Ibovespa a 260 mil pontos no fim de 2027 diante de mais cortes de juros e menor risco-país",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 11:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção otimista do Safra para o Ibovespa baseia-se na expectativa de continuidade nos cortes de juros e na redução do risco-país. Se o cenário de juros mais baixos se concretizar e o risco-país diminuir, isso pode atrair fluxo de capital estrangeiro para a bolsa brasileira.",
+    "is_stocks": true
   }
 ]
