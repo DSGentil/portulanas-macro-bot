@@ -1,75 +1,5 @@
 [
   {
-    "_timestamp": 1792682143.394415,
-    "titulo": "Dívida do Brasil em R$ 11 tri: por que o país preocupa tanto?",
-    "titulo_original": "Dívida do Brasil em R$ 11 tri: por que o país preocupa tanto?",
-    "fonte": "InvestNews",
-    "publicado": "22/10 10:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O elevado patamar da dívida pública brasileira, combinado com a pressão dos juros sobre a inflação, cria um cenário de aperto fiscal e monetário. Se o governo conseguir apresentar um plano crível de consolidação fiscal, a confiança do mercado pode ser restaurada, levando a uma queda nos juros e na inflação; caso contrário, o risco de uma espiral de endividamento e inflação persistente aumenta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792682148.0340192,
-    "titulo": "Falta de armazenagem agrícola impulsiona inflação de alimentos no Brasil, diz CFO da Kepler Weber",
-    "titulo_original": "Falta de armazenagem agrícola impulsiona inflação de alimentos no Brasil, diz CFO da Kepler Weber",
-    "fonte": "Folha Mercado",
-    "publicado": "22/10 12:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A falta de infraestrutura de armazenagem agrícola é um gargalo que impacta diretamente os preços dos alimentos. Se o governo investir em soluções de logística e armazenamento, a pressão inflacionária sobre alimentos pode diminuir; caso contrário, o problema tende a persistir, afetando o poder de compra da população.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792682152.644039,
-    "titulo": "JURO11: mais prêmio, sem piora nos fundamentos",
-    "titulo_original": "JURO11: mais prêmio, sem piora nos fundamentos",
-    "fonte": "Money Times",
-    "publicado": "22/10 10:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do prêmio nas debêntures incentivadas, sem piora nos fundamentos de crédito, pode ser uma oportunidade para investidores que buscam maior rentabilidade em renda fixa. Se as taxas de juros reais continuarem a cair, o valor dessas debêntures pode se apreciar; caso contrário, a volatilidade pode persistir, exigindo cautela na alocação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792682157.3064737,
-    "titulo": "Bitcoin cai 2% e perde os US$ 82 mil apesar de entradas em ETFs",
-    "titulo_original": "Bitcoin cai 2% e perde os US$ 82 mil apesar de entradas em ETFs",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 11:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Apesar das entradas em ETFs, o Bitcoin não sustentou a alta, indicando que as preocupações macroeconômicas com inflação e juros, exacerbadas pela alta do petróleo, estão pesando mais sobre o sentimento do mercado. Se a tendência de alta do petróleo persistir e as taxas de juros permanecerem elevadas, o Bitcoin pode enfrentar mais pressão de baixa; caso contrário, uma reversão no cenário macro pode impulsionar a criptomoeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792682162.4138215,
-    "titulo": "Principal fator sobre margem no 3º trimestre foi custo de matéria-prima, afirma vice-presidente da WEG",
-    "titulo_original": "Principal fator sobre margem no 3º trimestre foi custo de matéria-prima, afirma vice-presidente da WEG",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 11:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A pressão nas margens da WEG devido ao custo de matérias-primas pode ser um indicativo de tendências inflacionárias em setores industriais. Se a empresa conseguir repassar esses custos ou mitigar seus efeitos em trimestres futuros, isso pode sinalizar resiliência operacional; caso contrário, pode indicar um cenário de margens mais apertadas para o setor.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792687544.141959,
     "titulo": "Tesouro Direto hoje: com alta volatilidade, taxas prefixadas sobem, mas IPCA+ longos caem",
     "titulo_original": "Tesouro Direto hoje: com alta volatilidade, taxas prefixadas sobem, mas IPCA+ longos caem",
@@ -1197,6 +1127,88 @@
     ],
     "origem": "externa",
     "leitura_critica": "O PMI positivo no Reino Unido sugere uma melhora na atividade econômica, o que pode ser um sinal de recuperação. Se essa tendência se mantiver, pode indicar um cenário mais favorável para os investimentos no país; caso contrário, pode ser um movimento pontual influenciado por fatores específicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792792867.558958,
+    "titulo": "BC anuncia medidas para coibir abusos nas ofertas de crédito que favoreçam superendividamento",
+    "titulo_original": "BC anuncia medidas para coibir abusos nas ofertas de crédito que favoreçam superendividamento",
+    "fonte": "Folha Mercado",
+    "publicado": "23/10 18:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As medidas anunciadas pelo Banco Central buscam aumentar a proteção ao consumidor no mercado de crédito. Se estas regras forem efetivas, podem resultar em uma redução do superendividamento e em maior transparência nas operações de crédito, potencialmente impactando o comportamento de tomada de crédito por parte dos consumidores e as estratégias das instituições financeiras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792792871.7583363,
+    "titulo": "Escala 6x1, impostos e salário mínimo: o que Lula e Flávio Bolsonaro defendem para economia brasileira",
+    "titulo_original": "Escala 6x1, impostos e salário mínimo: o que Lula e Flávio Bolsonaro defendem para economia brasileira",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 18:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As divergências apresentadas entre os candidatos refletem visões distintas sobre o rumo da política econômica brasileira. Se um dos candidatos vencer, as propostas defendidas podem gerar impactos diferentes no mercado de trabalho e na arrecadação fiscal, dependendo da sua implementação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792792876.0465736,
+    "titulo": "Novas regras do Open Finance são avanço para segurança, segundo associação",
+    "titulo_original": "Novas regras do Open Finance são avanço para segurança, segundo associação",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 17:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As novas regras do Open Finance visam aprimorar a segurança e transparência do sistema. Se a implementação for bem-sucedida, pode haver um aumento na confiança dos usuários e na adoção de serviços financeiros abertos, o que pode impulsionar a concorrência e a inovação no setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792792880.200465,
+    "titulo": "Gestores preveem volatilidade na Bolsa e no real após segundo turno das eleições, diz Citi",
+    "titulo_original": "Gestores preveem volatilidade na Bolsa e no real após segundo turno das eleições, diz Citi",
+    "fonte": "Folha Mercado",
+    "publicado": "23/10 15:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de volatilidade no mercado financeiro após as eleições sugere que o resultado do pleito pode gerar incertezas. Se o resultado for percebido como desfavorável por uma parcela significativa do mercado, isso pode se refletir em movimentos bruscos na Bolsa e na taxa de câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792792884.9871213,
+    "titulo": "Bolsas de NY fecham em queda com avanço do petróleo e aversão ao risco",
+    "titulo_original": "Bolsas de NY fecham em queda com avanço do petróleo e aversão ao risco",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 17:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo e a aversão ao risco global pressionaram as bolsas de Nova York, indicando um cenário de maior cautela nos mercados. Se a escalada militar no Golfo Pérsico se intensificar, o preço do petróleo pode continuar a subir, alimentando pressões inflacionárias e impactando negativamente ativos de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792792884.9892845,
+    "titulo": "Bolsa de Nova York fecha em queda generalizada com alta do petróleo no radar",
+    "titulo_original": "Bolsa de Nova York fecha em queda generalizada com alta do petróleo no radar",
+    "fonte": "Money Times",
+    "publicado": "23/10 17:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A intensificação das tensões geopolíticas no Oriente Médio e a consequente alta do petróleo criam um cenário de aversão ao risco nos mercados globais. Se o conflito se agravar, o preço do petróleo pode continuar a subir, exercendo pressão inflacionária e afetando negativamente o desempenho das bolsas.",
     "is_stocks": true
   }
 ]
