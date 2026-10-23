@@ -1,82 +1,5 @@
 [
   {
-    "_timestamp": 1792668651.7424421,
-    "titulo": "Dólar sobe a R$ 5,027 e Bolsa cai com pesquisa",
-    "titulo_original": "Dólar sobe a R$ 5,027 e Bolsa cai com pesquisa - Acia Araçatuba",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/10 06:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar e a queda da Bolsa, atribuídas a uma pesquisa, reforçam a sensibilidade do mercado brasileiro a resultados eleitorais ou de opinião pública. Se a pesquisa indicar um cenário de maior incerteza ou de resultados desfavoráveis ao mercado, isso pode intensificar a volatilidade e a pressão sobre o câmbio e a renda variável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792668655.6776323,
-    "titulo": "NTN-Bs ainda têm espaço para rali eleitoral, mas política fiscal ditará o fôlego",
-    "titulo_original": "NTN-Bs ainda têm espaço para rali eleitoral, mas política fiscal ditará o fôlego",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 07:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O potencial de rali das NTN-Bs está condicionado ao cenário eleitoral e à política fiscal. Se a política fiscal for percebida como sustentável e responsável, isso pode sustentar a queda das taxas e o desempenho desses títulos. Caso contrário, mesmo com um resultado eleitoral favorável, a incerteza fiscal pode limitar o fôlego do rali.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792668659.6173885,
-    "titulo": "Agenda do dia: Leilão do Tesouro é destaque",
-    "titulo_original": "Agenda do dia: Leilão do Tesouro é destaque",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 07:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O leilão de títulos do Tesouro é um evento importante para a gestão da dívida pública e pode influenciar as taxas de juros de curto e médio prazo. Se a demanda pelos títulos for forte, isso pode indicar confiança do mercado na política fiscal; caso contrário, pode sinalizar preocupações com o endividamento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792668663.547986,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "22/10 03:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões no Oriente Médio e a possibilidade de ação militar contra o Irã criam um cenário de aversão ao risco que pode pressionar ativos mais voláteis e impulsionar o dólar. Se os dados de seguro-desemprego nos EUA vierem acima do esperado, isso pode reforçar a narrativa de um Federal Reserve mantendo juros mais altos por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792668668.4350479,
-    "titulo": "Dólar fecha em alta a R$ 5,0272; Ibovespa cai 0,86% a 206.495 pontos",
-    "titulo_original": "Dólar fecha em alta a R$ 5,0272; Ibovespa cai 0,86% a 206.495 pontos - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/10 04:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar e a queda do Ibovespa indicam um cenário de aversão ao risco no mercado doméstico, possivelmente influenciado por fatores externos ou pela percepção de risco político. Se a pesquisa mencionada na notícia 15 (não detalhada aqui) for o gatilho para essa queda, isso reforça a sensibilidade do mercado a eventos eleitorais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792668668.4364717,
-    "titulo": "Ibovespa cede com eleições no radar",
-    "titulo_original": "Ibovespa cede com eleições no radar - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "22/10 05:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa com as eleições no radar sugere que a incerteza política está pesando sobre o mercado acionário brasileiro. Se a percepção de risco eleitoral aumentar, isso pode levar a uma maior volatilidade e a uma fuga de capitais, impactando negativamente o índice.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792674951.2938247,
     "titulo": "REAL11: XP lança ETF com estratégia baseada na Selic e dólar",
     "titulo_original": "REAL11: XP lança ETF com estratégia baseada na Selic e dólar - Investidor10",
@@ -1147,6 +1070,89 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A opinião do CEO do Bradesco sobre a importância dos programas FGI/FGO sugere que a continuidade dessas iniciativas de crédito pode ser benéfica para o setor produtivo. Se os programas forem mantidos, isso pode facilitar o acesso a crédito para PMEs; caso contrário, a restrição de crédito pode impactar negativamente o crescimento dessas empresas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792780248.405096,
+    "titulo": "R$ 585 bi em Tesouro Selic vencem em março de 2027: o que muda na dívida e no seu bolso",
+    "titulo_original": "R$ 585 bi em Tesouro Selic vencem em março de 2027: o que muda na dívida e no seu bolso",
+    "fonte": "InvestNews",
+    "publicado": "23/10 14:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O vencimento expressivo de Tesouro Selic em 2027 pode permitir uma readequação na estrutura da dívida pública. A viabilidade dessa mudança, no entanto, estará diretamente atrelada à percepção de credibilidade da agenda fiscal do governo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792780254.0618832,
+    "titulo": "Tesouro Direto hoje: prefixados recuam e IPCA+ fica estável na reta final das eleições",
+    "titulo_original": "Tesouro Direto hoje: prefixados recuam e IPCA+ fica estável na reta final das eleições",
+    "fonte": "InvestNews",
+    "publicado": "23/10 09:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos prefixados e a estabilidade dos IPCA+ no Tesouro Direto refletem a cautela do mercado no período eleitoral. Se o resultado das eleições gerar incertezas fiscais, os juros de longo prazo podem voltar a subir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792780259.8126738,
+    "titulo": "M. Dias Branco (MDIA3): XP vê trimestre fraco e reduz preço-alvo das ações",
+    "titulo_original": "M. Dias Branco (MDIA3): XP vê trimestre fraco e reduz preço-alvo das ações",
+    "fonte": "Money Times",
+    "publicado": "23/10 14:42",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de resultados fracos para a M. Dias Branco reflete pressões inflacionárias e de demanda no setor. Se a inflação de custos persistir e a demanda não se recuperar, a empresa pode enfrentar desafios adicionais no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792780265.6390657,
+    "titulo": "Ouro recua e encerra abaixo de US$ 4 mil pela primeira vez desde julho",
+    "titulo_original": "Ouro recua e encerra abaixo de US$ 4 mil pela primeira vez desde julho",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 15:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do ouro, mesmo com a valorização dos Treasuries, sugere uma dinâmica de mercado focada em liquidação de posições compradas. Se a pressão vendedora persistir, o metal pode testar níveis mais baixos; caso contrário, a busca por ativos seguros pode retornar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792780272.3890898,
+    "titulo": "Inflação menor, preocupação maior? O que acendeu o alerta no IPCA-15 de outubro",
+    "titulo_original": "Inflação menor, preocupação maior? O que acendeu o alerta no IPCA-15 de outubro",
+    "fonte": "Money Times",
+    "publicado": "23/10 11:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A surpresa favorável no IPCA-15 de outubro pode ser temporária, dado que os componentes mais persistentes da inflação seguem pressionados. Se a inflação subjacente não ceder, o Banco Central pode manter uma postura cautelosa em relação aos juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792780272.391057,
+    "titulo": "EUA devem remover 50% das tarifas sobre alguns produtos canadenses ainda hoje - relatório",
+    "titulo_original": "US expected to remove 50% tariffs on some Canadian products as soon as today - report",
+    "fonte": "ForexLive",
+    "publicado": "23/10 14:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A possível remoção de tarifas pode aliviar tensões comerciais pontuais, mas a motivação política sugere que outras tarifas podem ser impostas. Se a medida for confirmada, o impacto no USD/CAD dependerá da extensão total das mudanças tarifárias.",
     "is_stocks": true
   }
 ]
