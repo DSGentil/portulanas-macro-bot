@@ -1,97 +1,5 @@
 [
   {
-    "_timestamp": 1792674951.2938247,
-    "titulo": "REAL11: XP lança ETF com estratégia baseada na Selic e dólar",
-    "titulo_original": "REAL11: XP lança ETF com estratégia baseada na Selic e dólar - Investidor10",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/10 08:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O lançamento de um ETF atrelado à Selic e ao dólar pela XP pode indicar uma estratégia para capturar retornos em cenários de juros elevados e volatilidade cambial. Se a taxa Selic se mantiver alta e o dólar apresentar movimentos expressivos, este ETF pode atrair investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792674956.377625,
-    "titulo": "Canada September PPI +2.0% m/m vs +1.3% prior",
-    "titulo_original": "Canada September PPI +2.0% m/m vs +1.3% prior",
-    "fonte": "ForexLive",
-    "publicado": "22/10 09:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de IPP acima do esperado no Canadá sugere pressões inflacionárias persistentes, o que pode levar o Banco do Canadá a considerar um aumento nas taxas de juros. Se os próximos dados de inflação ao consumidor também vierem fortes, a probabilidade de um aperto monetário aumentará.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792674961.5768445,
-    "titulo": "Pedidos iniciais de seguro-desemprego dos EUA somam 194 mil na semana de 17 de outubro",
-    "titulo_original": "Pedidos iniciais de seguro-desemprego dos EUA somam 194 mil na semana de 17 de outubro",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 09:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nos pedidos iniciais de seguro-desemprego nos EUA, vindo abaixo do esperado, sugere um mercado de trabalho ainda resiliente. Se essa tendência se mantiver, pode reforçar a visão de que a economia americana suporta taxas de juros mais altas por mais tempo, impactando decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792674966.7947657,
-    "titulo": "US initial jobless claims 194K vs 200K estimate. Better than expected.",
-    "titulo_original": "US initial jobless claims 194K vs 200K estimate. Better than expected.",
-    "fonte": "ForexLive",
-    "publicado": "22/10 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nos pedidos iniciais de seguro-desemprego nos EUA, indicando força no mercado de trabalho, pode reforçar a narrativa de que o Federal Reserve pode manter uma postura mais restritiva. Se os pedidos continuados também mostrarem melhora, isso reforçaria a ideia de um mercado de trabalho aquecido.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792674972.8014188,
-    "titulo": "Bolsas pelo mundo caem com nova disparada do preço do petróleo",
-    "titulo_original": "Bolsas pelo mundo caem com nova disparada do preço do petróleo",
-    "fonte": "Folha Mercado",
-    "publicado": "22/10 09:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo e as tensões geopolíticas podem gerar um cenário de aversão ao risco nos mercados globais. Se o conflito no Oriente Médio se intensificar, o impacto nas bolsas pode ser mais severo; caso contrário, a recuperação pode ser mais rápida.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792674972.8029294,
-    "titulo": "Wall Street e Bolsas globais recuam com alta do petróleo e temores sobre IA",
-    "titulo_original": "Wall Street e Bolsas globais recuam com alta do petróleo e temores sobre IA - UOL Economia",
-    "fonte": "Google News Commodities",
-    "publicado": "22/10 07:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda em Wall Street e nas bolsas globais, influenciada pela alta do petróleo e preocupações com IA, sugere um cenário de aversão ao risco. Se os preços do petróleo continuarem a subir, o impacto na inflação e no crescimento econômico pode ser mais acentuado; se os temores sobre IA se dissiparem, o mercado pode se recuperar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792674972.8042657,
-    "titulo": "investingLive European session wrap: Dollar, yen and bonds kick it old school",
-    "titulo_original": "investingLive European session wrap: Dollar, yen and bonds kick it old school",
-    "fonte": "ForexLive",
-    "publicado": "22/10 09:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Os movimentos do dólar, iene e títulos de renda fixa na sessão europeia podem refletir um cenário de incerteza global. Se as tensões geopolíticas aumentarem, o dólar pode se fortalecer como porto seguro; se houver sinais de melhora na economia global, outros ativos podem se valorizar.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1792682143.394415,
     "titulo": "Dívida do Brasil em R$ 11 tri: por que o país preocupa tanto?",
     "titulo_original": "Dívida do Brasil em R$ 11 tri: por que o país preocupa tanto?",
@@ -1153,6 +1061,142 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "A possível remoção de tarifas pode aliviar tensões comerciais pontuais, mas a motivação política sugere que outras tarifas podem ser impostas. Se a medida for confirmada, o impacto no USD/CAD dependerá da extensão total das mudanças tarifárias.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792787441.1015422,
+    "titulo": "Dólar em queda: ainda vale a pena investir em fundos cambiais? - VEJA",
+    "titulo_original": "Dólar em queda: ainda vale a pena investir em fundos cambiais? - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/10 15:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar pode ser influenciada por diversos fatores, incluindo a política de juros. Se a tendência de queda do dólar se mantiver, fundos cambiais podem apresentar menor atratividade; caso haja reversão, podem voltar a ser considerados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792787445.2633057,
+    "titulo": "Plantio da soja chega a 30,1% da área prevista no Brasil - O Presente Rural",
+    "titulo_original": "Plantio da soja chega a 30,1% da área prevista no Brasil - O Presente Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "23/10 16:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O avanço do plantio da soja é um indicador importante para o agronegócio brasileiro. Se o clima se mantiver favorável e o plantio progredir conforme o esperado, a safra pode ser robusta, impactando positivamente as exportações e a economia. Caso contrário, atrasos ou perdas podem afetar o setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792787449.4036422,
+    "titulo": "O dia em que o dólar voltou: por que a euforia do mercado é o prenúncio de um novo ciclo para o Brasil - Instituto Liberal",
+    "titulo_original": "O dia em que o dólar voltou: por que a euforia do mercado é o prenúncio de um novo ciclo para o Brasil - Instituto Liberal",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/10 15:36",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A interpretação de \"euforia do mercado\" como prenúncio de um novo ciclo é uma análise subjetiva. Se a percepção de melhora econômica se concretizar e for acompanhada por políticas fiscais e monetárias consistentes, pode haver um ciclo de crescimento; caso contrário, a euforia pode ser passageira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792787453.588428,
+    "titulo": "Trump: Podemos fazer outra operação contra o Irã",
+    "titulo_original": "Trump: We may do another operation against Iran",
+    "fonte": "ForexLive",
+    "publicado": "23/10 16:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump, em conjunto com relatos de incidentes no Estreito de Hormuz, eleva a tensão geopolítica e pode sustentar o preço do petróleo. Se uma nova operação militar se concretizar, o impacto nos preços do petróleo pode ser mais acentuado; se for apenas retórica, o mercado pode reavaliar a precificação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792787459.0368485,
+    "titulo": "Ibovespa ganha força na reta final antes do 2º turno com sondagens eleitorais e avanço de blue chips",
+    "titulo_original": "Ibovespa ganha força na reta final antes do 2º turno com sondagens eleitorais e avanço de blue chips",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 17:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A intensificação dos ganhos na reta final sugere que o mercado precificou um cenário eleitoral específico. Se as pesquisas divulgadas após o fechamento do pregão confirmarem essa tendência, o apetite a risco pode se manter no curto prazo; caso contrário, pode haver realização de lucros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792787459.0384746,
+    "titulo": "Ibovespa encerra em alta e dólar fica abaixo de R$ 5 no último pregão antes do 2º turno",
+    "titulo_original": "Ibovespa encerra em alta e dólar fica abaixo de R$ 5 no último pregão antes do 2º turno",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 17:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A performance positiva do Ibovespa e a desvalorização do dólar no Brasil contrastam com o recuo das bolsas americanas, influenciado pelo petróleo. A cautela pré-eleitoral no Brasil e a aversão a risco global indicam um cenário de volatilidade. Se o resultado eleitoral for percebido como favorável ao mercado, o dólar pode continuar em R$ 5 ou abaixo; caso contrário, pode haver pressão de alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792787459.0461543,
+    "titulo": "EUA autorizam liberação emergencial de até 400 mil barris de petróleo da reserva estratégica",
+    "titulo_original": "EUA autorizam liberação emergencial de até 400 mil barris de petróleo da reserva estratégica",
+    "fonte": "Folha Mercado",
+    "publicado": "23/10 17:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A liberação emergencial de petróleo visa resolver uma interrupção pontual no abastecimento e pode ter um efeito limitado nos preços globais. Se a interrupção na refinaria for mais prolongada do que o esperado, a demanda por petróleo pode se manter elevada, pressionando os preços.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792787459.0477,
+    "titulo": "CSN inverte sinal, salta mais de 7% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas - Estadão",
+    "titulo_original": "CSN inverte sinal, salta mais de 7% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "23/10 16:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta da CSN pode estar relacionada a notícias específicas da empresa ou a um otimismo setorial. Se a recuperação do setor siderúrgico se confirmar, outras empresas do ramo também podem apresentar desempenho positivo; caso contrário, a alta da CSN pode ser isolada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792787459.04924,
+    "titulo": "Confiança do consumidor nos EUA cai antes de eleições de meio de mandato",
+    "titulo_original": "Confiança do consumidor nos EUA cai antes de eleições de meio de mandato",
+    "fonte": "Folha Mercado",
+    "publicado": "23/10 17:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda na confiança do consumidor americano, associada ao aumento de preços, pode sinalizar um impacto da inflação na demanda. Se a inflação persistir elevada, pode influenciar as decisões de política monetária do Federal Reserve; caso contrário, a confiança pode se recuperar com a melhora do cenário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792787459.0508218,
+    "titulo": "Empresas do Reino Unido têm em outubro melhor mês desde fevereiro, aponta PMI",
+    "titulo_original": "Empresas do Reino Unido têm em outubro melhor mês desde fevereiro, aponta PMI",
+    "fonte": "Folha Mercado",
+    "publicado": "23/10 12:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O PMI positivo no Reino Unido sugere uma melhora na atividade econômica, o que pode ser um sinal de recuperação. Se essa tendência se mantiver, pode indicar um cenário mais favorável para os investimentos no país; caso contrário, pode ser um movimento pontual influenciado por fatores específicos.",
     "is_stocks": true
   }
 ]
