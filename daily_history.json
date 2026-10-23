@@ -862,5 +862,91 @@
     "origem": "domestica",
     "leitura_critica": "A elevação da perspectiva da Gerdau pela S&P indica uma melhora na percepção de risco da empresa. Se a siderúrgica conseguir cumprir as expectativas de fortalecimento, isso pode se refletir em um desempenho positivo de suas ações; caso contrário, a perspectiva pode ser revisada novamente.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1792761470.7967846,
+    "titulo": "Empresas alavancadas estão esperando juro cair para conseguir injeção de capital, diz Kinea",
+    "titulo_original": "Empresas alavancadas estão esperando juro cair para conseguir injeção de capital, diz Kinea",
+    "fonte": "Valor Economico",
+    "publicado": "23/10 09:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da Kinea indica que as atuais taxas de juros estão dificultando a reestruturação de capital de empresas endividadas. Se os juros caírem, isso pode destravar investimentos e melhorar o fluxo de capital para o mercado corporativo, especialmente em setores como saneamento e varejo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792761475.4338615,
+    "titulo": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam",
+    "titulo_original": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam",
+    "fonte": "Folha Mercado",
+    "publicado": "23/10 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração do IPCA-15 abaixo das projeções pode reforçar a expectativa de que o Banco Central mantenha o ciclo de cortes de juros. Se a pressão dos alimentos diminuir nos próximos meses, isso pode contribuir para uma inflação ainda mais controlada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792761479.936034,
+    "titulo": "Tesouro Direto hoje: prefixados recuam e IPCA+ fica estável a dois dias na reta final das eleições",
+    "titulo_original": "Tesouro Direto hoje: prefixados recuam e IPCA+ fica estável a dois dias na reta final das eleições",
+    "fonte": "InvestNews",
+    "publicado": "23/10 09:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A movimentação dos títulos do Tesouro Direto reflete as expectativas do mercado em relação aos juros futuros. A estabilidade do IPCA+ pode indicar que as projeções de inflação de médio/longo prazo não sofreram alterações significativas, enquanto a queda dos prefixados sugere uma precificação de juros futuros mais baixos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792761484.4983954,
+    "titulo": "Dólar abre perto da estabilidade de olho em novas pesquisas eleitorais",
+    "titulo_original": "Dólar abre perto da estabilidade de olho em novas pesquisas eleitorais - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/10 09:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A cautela do dólar em relação às pesquisas eleitorais sugere que o resultado das eleições pode influenciar o fluxo de capital para o país. Se as pesquisas indicarem um cenário de maior incerteza política, o dólar pode apresentar volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1792761490.2906969,
+    "titulo": "Sessão europeia de investingLive: Ações cautelosas com rendimentos do Tesouro em recuperação, petróleo firme",
+    "titulo_original": "investingLive European session wrap: Equities cautious as Treasury yields rebound, oil holds firm",
+    "fonte": "ForexLive",
+    "publicado": "23/10 08:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A divergência nos PMIs europeus (França em contração, Alemanha em expansão) aponta para um cenário econômico misto na região, o que pode manter o Banco Central Europeu em dilema sobre a política de juros. A recuperação dos rendimentos do Tesouro dos EUA pode influenciar o apetite por risco global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1792761490.292552,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/10 09:02",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento ao vivo da cotação do dólar permite observar a dinâmica do fluxo de capital em tempo real. A volatilidade observada pode ser influenciada por diversos fatores macroeconômicos e de sentimento do mercado.",
+    "is_stocks": true
   }
 ]
