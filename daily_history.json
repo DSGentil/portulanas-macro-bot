@@ -1,1106 +1,120 @@
 [
   {
-    "_timestamp": 1792693846.5218954,
-    "titulo": "Arrecadação federal sobe 5,62% em setembro e bate recorde",
-    "titulo_original": "Arrecadação federal sobe 5,62% em setembro e bate recorde",
-    "fonte": "Folha Mercado",
-    "publicado": "22/10 12:33",
+    "_timestamp": 1793012442.3730166,
+    "titulo": "Sem ajuste fiscal crível, economia em novo governo Lula pode entrar em recessão, diz Solange Srour",
+    "titulo_original": "Sem ajuste fiscal crível, economia em novo governo Lula pode entrar em recessão, diz Solange Srour",
+    "fonte": "InvestNews",
+    "publicado": "25/10 22:58",
     "relevancia": "ALTA",
     "canais_afetados": [
       "decisao_fiscal_regulatoria"
     ],
     "origem": "domestica",
-    "leitura_critica": "O recorde na arrecadação federal em setembro pode indicar uma melhora na atividade econômica ou na eficiência da cobrança de impostos. Se essa tendência de aumento se mantiver, pode aliviar a pressão sobre as contas públicas; caso contrário, pode sinalizar fragilidades fiscais futuras.",
+    "leitura_critica": "A ausência de um plano fiscal crível é apontada como um risco para a economia brasileira, com potencial para recessão e aumento de juros. Se os gastos públicos não forem controlados, a trajetória da dívida pode se deteriorar, impactando a confiança dos investidores.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1792693850.5232718,
-    "titulo": "Entre a Selic e as urnas: o voto econômico em 2026 - JOTA Info",
-    "titulo_original": "Entre a Selic e as urnas: o voto econômico em 2026 - JOTA Info",
+    "_timestamp": 1793012446.3046103,
+    "titulo": "Real cai 10% no mercado futuro ante dólar após reeleição de Lula - InfoMoney",
+    "titulo_original": "Real cai 10% no mercado futuro ante dólar após reeleição de Lula - InfoMoney",
     "fonte": "Google News Cambio Juros",
-    "publicado": "22/10 11:50",
-    "relevancia": "BAIXA",
+    "publicado": "25/10 22:42",
+    "relevancia": "ALTA",
     "canais_afetados": [
-      "juros"
+      "fluxo_capital"
     ],
     "origem": "domestica",
-    "leitura_critica": "A notícia aborda uma análise sobre a influência da política monetária nas decisões de voto. O impacto real dependerá das decisões futuras do Banco Central em relação à Selic e da percepção dos eleitores sobre a gestão econômica.",
+    "leitura_critica": "A forte desvalorização do real no mercado futuro sugere uma reação negativa do mercado à reeleição de Lula, possivelmente ligada a preocupações fiscais ou de política econômica. Se essa tendência se mantiver, pode haver pressão sobre a inflação e o custo de importação.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1792693854.48677,
-    "titulo": "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
-    "titulo_original": "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
-    "fonte": "ForexLive",
-    "publicado": "22/10 14:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O leilão de TIPS com um rendimento ligeiramente acima do esperado pode indicar uma demanda menor por proteção contra a inflação ou uma maior exigência de retorno por parte dos investidores. Se essa tendência se mantiver, pode sinalizar pressões inflacionárias persistentes ou uma maior cautela do mercado em relação à política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792693858.4486985,
-    "titulo": "American Airlines prevê prejuízo em 2026 com alta do combustível",
-    "titulo_original": "American Airlines prevê prejuízo em 2026 com alta do combustível",
+    "_timestamp": 1793012450.1702454,
+    "titulo": "Equipe de Lula prepara PEC para buscar centro da meta fiscal e prevê menos crédito subsidiado",
+    "titulo_original": "Equipe de Lula prepara PEC para buscar centro da meta fiscal e prevê menos crédito subsidiado",
     "fonte": "Folha Mercado",
-    "publicado": "22/10 14:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A previsão de prejuízo da American Airlines, impulsionada pela alta do combustível, pode indicar um cenário de custos operacionais elevados para o setor aéreo. Se essa tendência de aumento nos custos de energia se generalizar, pode pressionar outras empresas e impactar o poder de compra dos consumidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792693863.2328963,
-    "titulo": "Previsão ousada de Elon Musk para robotáxis não consegue salvar ações da Tesla",
-    "titulo_original": "Previsão ousada de Elon Musk para robotáxis não consegue salvar ações da Tesla",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 14:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda das ações da Tesla, mesmo com previsões otimistas de Elon Musk, sugere que os resultados financeiros e as expectativas de mercado para a empresa estão desalinhados. Se a Tesla não conseguir entregar resultados que correspondam às projeções, isso pode afetar a confiança em empresas de tecnologia com forte componente de inovação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792701047.7486835,
-    "titulo": "Decreto estende dispensa de CNPJ e nota fiscal para nanoempreendedores",
-    "titulo_original": "Decreto estende dispensa de CNPJ e nota fiscal para nanoempreendedores",
-    "fonte": "Folha Mercado",
-    "publicado": "22/10 16:08",
+    "publicado": "25/10 20:52",
     "relevancia": "ALTA",
     "canais_afetados": [
       "decisao_fiscal_regulatoria"
     ],
     "origem": "domestica",
-    "leitura_critica": "A extensão da dispensa de CNPJ e nota fiscal para nanoempreendedores representa uma decisão de política fiscal que pode impactar a formalização de pequenos negócios e a arrecadação tributária. Se essa medida estimular o empreendedorismo e a atividade econômica desses microempreendedores, pode haver um efeito positivo na base tributária a longo prazo; caso contrário, pode representar uma perda de arrecadação sem um ganho proporcional em atividade econômica.",
+    "leitura_critica": "A proposta de PEC para buscar o centro da meta fiscal e a redução do crédito subsidiado indicam uma tentativa de controle das contas públicas. Se aprovada, essa medida pode trazer mais previsibilidade fiscal, mas a redução do crédito pode impactar setores específicos da economia.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1792701051.7758164,
-    "titulo": "Seca histórica castiga Roraima, derruba produtividade da soja em 42% e ameaça encarecer próxima safra - Canal Rural",
-    "titulo_original": "Seca histórica castiga Roraima, derruba produtividade da soja em 42% e ameaça encarecer próxima safra - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "22/10 15:36",
+    "_timestamp": 1793012454.4099226,
+    "titulo": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana - Agência Brasil",
+    "titulo_original": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/10 19:02",
     "relevancia": "MEDIA",
     "canais_afetados": [
-      "inflacao"
+      "fluxo_capital"
     ],
     "origem": "domestica",
-    "leitura_critica": "A queda expressiva na produtividade da soja em Roraima devido à seca histórica pode ter um impacto direto nos preços da commodity e, consequentemente, na inflação de alimentos. Se o problema climático se estender a outras regiões produtoras ou se a oferta global for afetada significativamente, o encarecimento da soja pode se refletir em outros produtos; a extensão do impacto dependerá da magnitude da quebra de safra e da capacidade de outras regiões suprir a demanda.",
+    "leitura_critica": "A valorização do real e o fechamento do dólar abaixo de R$ 5 na semana podem indicar uma melhora temporária na confiança do mercado ou fatores técnicos. Se essa tendência de valorização do real se sustentar, pode haver um impacto positivo nas importações e no controle da inflação.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1792701055.7565408,
-    "titulo": "IA e inflação: quanto os bancos centrais devem se preocupar?",
-    "titulo_original": "IA e inflação: quanto os bancos centrais devem se preocupar?",
-    "fonte": "Folha Mercado",
-    "publicado": "22/10 17:22",
-    "relevancia": "MEDIA",
+    "_timestamp": 1793012459.6284525,
+    "titulo": "Fim de semana - China adverte sobre contramedidas enquanto Tesouro dos EUA amplia restrições de investimento em tecnologia para biotecnologia",
+    "titulo_original": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
+    "fonte": "ForexLive",
+    "publicado": "25/10 17:42",
+    "relevancia": "ALTA",
     "canais_afetados": [
-      "inflacao"
+      "decisao_fiscal_regulatoria"
     ],
     "origem": "ambas",
-    "leitura_critica": "A preocupação com a IA gerando inflação sem ganhos de produtividade é um cenário complexo para os bancos centrais, pois pode exigir uma postura mais restritiva em termos de juros. Se essa correlação se confirmar, a política monetária pode ter que se adaptar a um novo fator inflacionário; caso a IA demonstre efetivamente ganhos de produtividade, o impacto inflacionário pode ser mitigado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792701059.755309,
-    "titulo": "Bolsas da Europa caem pressionadas por IA, petróleo e dívidas - CNN Brasil",
-    "titulo_original": "Bolsas da Europa caem pressionadas por IA, petróleo e dívidas - CNN Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "22/10 14:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda das bolsas europeias, atribuída a IA, petróleo e dívidas, reflete um cenário de incerteza global que pode impactar o apetite por risco. A alta do petróleo, em particular, pode pressionar a inflação, levando a uma postura mais cautelosa dos bancos centrais. Se as preocupações com dívida se intensificarem, isso pode gerar um efeito dominó em outras economias; caso contrário, a superação desses fatores pode levar a uma recuperação mais rápida.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792701065.5003383,
-    "titulo": "Em NY, Nasdaq despenca em meio aos receios sobre gastos de empresas de IA",
-    "titulo_original": "Em NY, Nasdaq despenca em meio aos receios sobre gastos de empresas de IA",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 17:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A forte queda do Nasdaq, especialmente em setores de tecnologia, sugere que o mercado está reavaliando o potencial de crescimento e os custos associados à inteligência artificial. Se os próximos resultados de empresas de tecnologia confirmarem essa tendência de cautela nos investimentos, o setor pode enfrentar um período de correção mais prolongado; caso contrário, a recuperação pode ser rápida se os gastos em IA demonstrarem retorno claro.",
+    "leitura_critica": "A expansão das restrições de investimento dos EUA em setores estratégicos da China pode levar a retaliações por parte de Pequim, aumentando a incerteza para ativos expostos à China. A falta de clareza sobre as contramedidas chinesas mantém os investidores cautelosos.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1792701065.5020685,
-    "titulo": "Ações brasileiras tem potencial de subir até 50%, mas Morgan Stanley diz que há uma condição para a primavera chegar por aqui",
-    "titulo_original": "Ações brasileiras tem potencial de subir até 50%, mas Morgan Stanley diz que há uma condição para a primavera chegar por aqui",
-    "fonte": "Money Times",
-    "publicado": "22/10 16:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de alta de 50% para ações brasileiras pelo Morgan Stanley é um indicador de otimismo do mercado, mas a condição mencionada é crucial para a validação dessa expectativa. Se a condição for favorável, o cenário para a bolsa brasileira pode ser bastante positivo; caso contrário, a magnitude dos ganhos pode ser menor do que o projetado, exigindo uma análise detalhada do que impede essa 'primavera' no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792701065.5037663,
-    "titulo": "IPO da Anthropic concentra interesse de investidores no mercado de IA",
-    "titulo_original": "IPO da Anthropic concentra interesse de investidores no mercado de IA",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 16:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O IPO da Anthropic, uma empresa de IA com potencial de avaliação bilionária, servirá como um termômetro para o apetite dos investidores por empresas de tecnologia de ponta em um cenário de mercado incerto. Se a oferta for bem-sucedida e a avaliação se confirmar, isso pode impulsionar outras empresas de IA a buscarem o mercado de capitais; caso contrário, pode sinalizar uma cautela maior do setor em relação a valuations elevados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792701065.5054257,
-    "titulo": "CSN (CSNA3): Venda da divisão de cimentos deve ser assinada em 2 semanas, mas sem exclusividade, diz jornal",
-    "titulo_original": "CSN (CSNA3): Venda da divisão de cimentos deve ser assinada em 2 semanas, mas sem exclusividade, diz jornal",
-    "fonte": "Money Times",
-    "publicado": "22/10 17:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A iminente assinatura do acordo para venda da divisão de cimentos da CSN pode sinalizar uma reestruturação estratégica da empresa. Se a venda for concretizada nos termos esperados, isso pode liberar capital para a CSN focar em outras áreas de negócio; a ausência de exclusividade pode indicar que a negociação ainda pode sofrer alterações ou que há outros interessados no processo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792701065.5070915,
-    "titulo": "Irmãos Batista se posicionam em energia nuclear, mesmo sem conclusão de negócio no setor",
-    "titulo_original": "Irmãos Batista se posicionam em energia nuclear, mesmo sem conclusão de negócio no setor",
-    "fonte": "Folha Mercado",
-    "publicado": "22/10 16:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O posicionamento dos irmãos Batista no setor de energia nuclear, mesmo com a lentidão na conclusão de negócios, pode indicar uma estratégia de longo prazo para o grupo J&F. Se a aquisição na Eletronuclear for concluída, isso pode representar um movimento significativo no setor energético brasileiro; a antecipação de posicionamento sugere que eles veem potencial de crescimento no setor, independentemente dos prazos atuais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792701065.508793,
-    "titulo": "Petrobras (PETR4): nenhuma grande petroleira do mundo subiu tanto em outubro. O que explica?",
-    "titulo_original": "Petrobras (PETR4): nenhuma grande petroleira do mundo subiu tanto em outubro. O que explica?",
-    "fonte": "Money Times",
-    "publicado": "22/10 16:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O expressivo desempenho da Petrobras em outubro, superando outras grandes petroleiras globais, sugere que fatores específicos do mercado brasileiro ou a percepção de risco/retorno da empresa estão atraindo investidores. Se a alta for sustentada por fundamentos sólidos e não apenas por movimentos especulativos, isso pode indicar um cenário positivo para a empresa e, potencialmente, para o setor de energia no Brasil; a análise dos motivos por trás dessa valorização é crucial para entender sua sustentabilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792706451.855835,
-    "titulo": "Dólar sobe a R$ 5,05 e Bolsa cai, com alta de petróleo, eleição e balanços - UOL Economia",
-    "titulo_original": "Dólar sobe a R$ 5,05 e Bolsa cai, com alta de petróleo, eleição e balanços - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/10 13:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A combinação de alta do petróleo, incertezas eleitorais e balanços corporativos pode gerar volatilidade no mercado. Se a tensão geopolítica ligada ao petróleo se intensificar, isso pode pressionar ainda mais a inflação e a taxa de câmbio; caso contrário, a redução do prêmio de risco eleitoral pode beneficiar a bolsa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792706455.8589523,
-    "titulo": "CMN e BC aprovam regras para contratos de parceria firmados por instituições no Open Finance",
-    "titulo_original": "CMN e BC aprovam regras para contratos de parceria firmados por instituições no Open Finance",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 18:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de novas regras para o Open Finance pode facilitar a integração e o compartilhamento de dados entre instituições financeiras. Se essas novas regras ampliarem a concorrência e a oferta de produtos, isso poderá beneficiar o consumidor final com melhores serviços e preços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792706459.8267958,
-    "titulo": "Banco Master: CVM virou ‘bode expiatório’ de uma falha do Banco Central, diz Marcelo Trindade",
-    "titulo_original": "Banco Master: CVM virou ‘bode expiatório’ de uma falha do Banco Central, diz Marcelo Trindade",
-    "fonte": "Money Times",
-    "publicado": "22/10 18:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Marcelo Trindade levanta questionamentos sobre a supervisão e a atuação do Banco Central em relação ao Banco Master. Se investigações futuras confirmarem falhas na supervisão do BC, isso pode levar a mudanças regulatórias ou a uma maior pressão por transparência nas atividades de fiscalização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792706463.8318439,
-    "titulo": "Irã ameaça atacar refinarias e data centers por todo o Golfo se EUA e Israel retomarem ofensiva - VEJA",
-    "titulo_original": "Irã ameaça atacar refinarias e data centers por todo o Golfo se EUA e Israel retomarem ofensiva - VEJA",
-    "fonte": "Google News Geopolitica",
-    "publicado": "22/10 15:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A ameaça do Irã representa um aumento da tensão geopolítica na região do Golfo. Se essa ameaça se concretizar ou escalar, isso pode levar a um aumento nos preços do petróleo e a uma maior aversão ao risco global, impactando mercados financeiros e de commodities.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792706469.4406426,
-    "titulo": "Prévia do CPI do Japão: núcleo visto em 2,1%, superando a meta do BoJ pela primeira vez desde dezembro",
-    "titulo_original": "Japan CPI preview: core seen at 2.1%, topping BoJ target for first time since December",
-    "fonte": "ForexLive",
-    "publicado": "22/10 17:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A expectativa de que a inflação japonesa supere a meta do BoJ pode levar a uma precificação de um aperto monetário mais cedo. Se o dado de inflação vier acima do esperado, isso pode pressionar o iene e aumentar a volatilidade em ativos de renda fixa japoneses; caso contrário, o iene pode enfraquecer.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792706469.442591,
-    "titulo": "Por que Ibovespa caiu 1,15% hoje? Os fatores que explicam – além da cautela eleitoral - InfoMoney",
-    "titulo_original": "Por que Ibovespa caiu 1,15% hoje? Os fatores que explicam – além da cautela eleitoral - InfoMoney",
+    "_timestamp": 1793012459.6288931,
+    "titulo": "Petrobras despenca 12%, Vale cai 4% e EWZ tomba 19%: a reação imediata à vitória de Lula — e o que vem por aí",
+    "titulo_original": "Petrobras despenca 12%, Vale cai 4% e EWZ tomba 19%: a reação imediata à vitória de Lula — e o que vem por aí - Seu Dinheiro",
     "fonte": "Google News Acoes",
-    "publicado": "22/10 17:55",
+    "publicado": "25/10 22:28",
     "relevancia": "ALTA",
     "canais_afetados": [],
     "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, atribuída em parte à cautela eleitoral, sugere que o mercado está precificando riscos políticos. Se houver clareza ou definição no cenário eleitoral, isso pode reduzir a aversão ao risco e impulsionar a bolsa; o contrário pode manter a pressão vendedora.",
+    "leitura_critica": "A forte queda das ações de Petrobras e Vale, bem como do ETF EWZ, indica uma reação negativa imediata do mercado à vitória de Lula. Se as políticas do novo governo forem percebidas como desfavoráveis ao setor de commodities, essa tendência de queda pode persistir.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1792706469.4444065,
-    "titulo": "Calendário econômico e de eventos na Ásia Sexta-feira, 23 de outubro de 2026 - Dados de inflação do Japão",
-    "titulo_original": "Economic and event calendar in Asia Friday, October 23, 2026 - Japan inflation data",
-    "fonte": "ForexLive",
-    "publicado": "22/10 17:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A divulgação dos dados de inflação do Japão é crucial para as expectativas de política monetária do BoJ. Se a inflação vier acima do esperado, isso pode aumentar a pressão por um aperto monetário, impactando os mercados globais de juros e câmbio; se vier abaixo, o BoJ pode manter sua postura acomodatícia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792706469.4462256,
-    "titulo": "Dólar sobe 0,22% e fecha a R$ 5,038; Ibovespa cai 1,15% - Poder360",
-    "titulo_original": "Dólar sobe 0,22% e fecha a R$ 5,038; Ibovespa cai 1,15% - Poder360",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/10 17:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do dólar e a queda do Ibovespa indicam um dia de aversão ao risco no mercado brasileiro. Se os fatores que impulsionam o dólar se mantiverem, como incertezas externas ou domésticas, isso pode continuar pressionando a bolsa; a reversão desses fatores pode trazer alívio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792706469.448053,
-    "titulo": "Ibovespa B3 recua 1,15%, puxado por Vale e exterior negativo; dólar vai a R$ 5,03 - Bora Investir",
-    "titulo_original": "Ibovespa B3 recua 1,15%, puxado por Vale e exterior negativo; dólar vai a R$ 5,03 - Bora Investir",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/10 18:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa, com influência de fatores externos e da ação da Vale, sugere um dia de cautela generalizada. Se o cenário externo se mantiver adverso, isso pode continuar a pressionar o mercado brasileiro; uma melhora no sentimento global pode trazer recuperação para a bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792706469.4499185,
-    "titulo": "Bradesco (BBDC4) vai às compras na bolsa e pode recomprar 106,5 milhões de ações; veja o que muda para o investidor",
-    "titulo_original": "Bradesco (BBDC4) vai às compras na bolsa e pode recomprar 106,5 milhões de ações; veja o que muda para o investidor",
-    "fonte": "Money Times",
-    "publicado": "22/10 18:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Bradesco de recomprar ações pode ser interpretada como um sinal de confiança do banco em seu próprio valuation e como uma forma de retornar capital aos acionistas. Se o programa for executado de forma consistente, isso pode oferecer suporte ao preço das ações no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792706469.4517796,
-    "titulo": "Apple sobe 27% em 2026 e vira refúgio de Wall Street contra a volatilidade da IA",
-    "titulo_original": "Apple sobe 27% em 2026 e vira refúgio de Wall Street contra a volatilidade da IA",
+    "_timestamp": 1793012459.629364,
+    "titulo": "ETF de ações brasileiras cai mais de 27% no exterior com vitória de Lula. Veja o que esperar no mercado",
+    "titulo_original": "ETF de ações brasileiras cai mais de 27% no exterior com vitória de Lula. Veja o que esperar no mercado",
     "fonte": "InvestNews",
-    "publicado": "22/10 17:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho da Apple como um ativo de refúgio sugere uma percepção de menor risco em comparação com outras empresas de tecnologia. Se a volatilidade no setor de IA persistir, a Apple pode continuar a atrair capital em busca de estabilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792711879.3341362,
-    "titulo": "O que são juros futuros e como eles afetam seu bolso - Folha de S.Paulo",
-    "titulo_original": "O que são juros futuros e como eles afetam seu bolso - Folha de S.Paulo",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "22/10 19:39",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia é um artigo explicativo sobre juros futuros, sem apresentar dados ou eventos concretos que afetem o mercado. Seu valor está na educação financeira, mas não gera impacto direto nas análises de curto prazo para operações em WDO.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792711884.7855337,
-    "titulo": "Juros futuros têm alta firme em meio a cautela eleitoral e aversão a risco no exterior",
-    "titulo_original": "Juros futuros têm alta firme em meio a cautela eleitoral e aversão a risco no exterior",
-    "fonte": "Valor Economico",
-    "publicado": "22/10 17:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta dos juros futuros reflete a incerteza eleitoral e o cenário externo adverso, elevando a taxa do DI para janeiro de 2028 para <b>12,885%</b>. Se o resultado eleitoral gerar maior clareza política, os juros podem recuar; caso contrário, a pressão de alta pode persistir, especialmente se o cenário externo piorar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792711890.3074741,
-    "titulo": "Petróleo Brent sobe 4% e supera US$ 113, maior preço desde maio - Valor Econômico",
-    "titulo_original": "Petróleo Brent sobe 4% e supera US$ 113, maior preço desde maio - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "22/10 16:31",
+    "publicado": "25/10 21:58",
     "relevancia": "ALTA",
     "canais_afetados": [],
     "origem": "externa",
-    "leitura_critica": "A alta significativa do petróleo Brent para acima de <b>US$ 113</b> pode gerar pressões inflacionárias globais e domésticas, impactando custos de produção e transporte. Se essa tendência de alta se mantiver, pode haver um endurecimento da política monetária em diversas economias para conter a inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792711895.887901,
-    "titulo": "PMI flash da Austrália: setor privado encolhe pela primeira vez em cinco meses com aumento de preços",
-    "titulo_original": "Australia flash PMI: private sector shrinks for first time in five months as prices rise",
-    "fonte": "ForexLive",
-    "publicado": "22/10 19:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A contração do setor privado australiano, combinada com pressões inflacionárias, cria um cenário complexo para as decisões de juros do RBA. Se os custos de energia continuarem a subir, isso pode alimentar a inflação e limitar o espaço para cortes de juros, enquanto a queda na atividade pode pressionar por estímulos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792711901.8751523,
-    "titulo": "Alívio com data marcada? IPCA-15 deve desacelerar antes de novas pressões na inflação",
-    "titulo_original": "Alívio com data marcada? IPCA-15 deve desacelerar antes de novas pressões na inflação",
-    "fonte": "Money Times",
-    "publicado": "22/10 18:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de desaceleração do IPCA-15, com alívio na energia elétrica, sugere uma possível moderação inflacionária pontual. No entanto, a pressão de alimentos e combustíveis pode limitar essa melhora, indicando que a inflação pode voltar a ganhar força se esses componentes persistirem em alta.",
+    "leitura_critica": "A queda expressiva do ETF de ações brasileiras no exterior reflete uma forte aversão ao risco por parte de investidores internacionais após a vitória de Lula. Se as políticas futuras do governo não mitigarem essas preocupações, a saída de capital estrangeiro pode continuar.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1792755051.1180801,
-    "titulo": "Real Time Big Data: Flávio e Lula empatam no total dos votos válidos",
-    "titulo_original": "Real Time Big Data: Flávio e Lula empatam no total dos votos válidos",
-    "fonte": "Money Times",
-    "publicado": "23/10 08:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O empate técnico entre os candidatos presidenciais indica que o resultado do segundo turno permanece incerto, o que pode manter a volatilidade no mercado. Se a margem de erro for crucial e um candidato se destacar marginalmente, isso pode influenciar a direção do mercado no curto prazo; caso contrário, a incerteza persistirá.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792755055.496882,
-    "titulo": "O que aconteceu com a Bolsa e dólar após o segundo turno, nas últimas eleições?",
-    "titulo_original": "O que aconteceu com a Bolsa e dólar após o segundo turno, nas últimas eleições? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/10 06:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A análise do comportamento passado da Bolsa e do dólar em eleições anteriores pode oferecer um contexto, mas não garante resultados futuros. Se o cenário atual apresentar similaridades com eleições passadas, a tendência observada pode se repetir; caso contrário, fatores específicos desta eleição podem ditar um comportamento diferente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792755059.9724672,
-    "titulo": "Manhã no mercado: Cautela eleitoral e aversão a risco no exterior marcam último pregão antes do segundo turno",
-    "titulo_original": "Manhã no mercado: Cautela eleitoral e aversão a risco no exterior marcam último pregão antes do segundo turno",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 08:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A indefinição eleitoral no Brasil e a aversão a risco externa criam um cenário de volatilidade. Se a pesquisa IPCA-15 vier acima do esperado, pode aumentar a pressão sobre o Banco Central; caso o cenário externo se normalize, o foco pode retornar para a política doméstica com mais clareza.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792755064.3558881,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "23/10 03:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os dados de PMI divulgados hoje são cruciais para avaliar a saúde econômica global e as futuras decisões de juros. Se os PMIs vierem fracos, isso pode reforçar a visão de desaceleração e pressionar os bancos centrais a adotar posturas mais dovish; dados fortes podem sustentar a necessidade de manter a postura hawkish devido à inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792755069.5684667,
-    "titulo": "Petróleo volta a subir e ultrapassa US$ 114 pela primeira vez desde maio",
-    "titulo_original": "Petróleo volta a subir e ultrapassa US$ 114 pela primeira vez desde maio",
-    "fonte": "Folha Mercado",
-    "publicado": "23/10 07:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo acima de US$ 114 adiciona pressão inflacionária e risco aos mercados globais. Se o conflito no Oriente Médio se intensificar, o petróleo pode continuar subindo; caso haja uma desescalada, o preço pode recuar, aliviando a pressão sobre os mercados.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792755069.5695422,
-    "titulo": "Gerdau (GGBR4): S&P eleva perspectiva para positiva e mantém rating BBB; veja o que motivou a decisão",
-    "titulo_original": "Gerdau (GGBR4): S&P eleva perspectiva para positiva e mantém rating BBB; veja o que motivou a decisão",
-    "fonte": "Money Times",
-    "publicado": "23/10 08:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A elevação da perspectiva da Gerdau pela S&P indica uma melhora na percepção de risco da empresa. Se a siderúrgica conseguir cumprir as expectativas de fortalecimento, isso pode se refletir em um desempenho positivo de suas ações; caso contrário, a perspectiva pode ser revisada novamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792761470.7967846,
-    "titulo": "Empresas alavancadas estão esperando juro cair para conseguir injeção de capital, diz Kinea",
-    "titulo_original": "Empresas alavancadas estão esperando juro cair para conseguir injeção de capital, diz Kinea",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 09:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da Kinea indica que as atuais taxas de juros estão dificultando a reestruturação de capital de empresas endividadas. Se os juros caírem, isso pode destravar investimentos e melhorar o fluxo de capital para o mercado corporativo, especialmente em setores como saneamento e varejo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792761475.4338615,
-    "titulo": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam",
-    "titulo_original": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam",
-    "fonte": "Folha Mercado",
-    "publicado": "23/10 09:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração do IPCA-15 abaixo das projeções pode reforçar a expectativa de que o Banco Central mantenha o ciclo de cortes de juros. Se a pressão dos alimentos diminuir nos próximos meses, isso pode contribuir para uma inflação ainda mais controlada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792761479.936034,
-    "titulo": "Tesouro Direto hoje: prefixados recuam e IPCA+ fica estável a dois dias na reta final das eleições",
-    "titulo_original": "Tesouro Direto hoje: prefixados recuam e IPCA+ fica estável a dois dias na reta final das eleições",
-    "fonte": "InvestNews",
-    "publicado": "23/10 09:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A movimentação dos títulos do Tesouro Direto reflete as expectativas do mercado em relação aos juros futuros. A estabilidade do IPCA+ pode indicar que as projeções de inflação de médio/longo prazo não sofreram alterações significativas, enquanto a queda dos prefixados sugere uma precificação de juros futuros mais baixos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792761484.4983954,
-    "titulo": "Dólar abre perto da estabilidade de olho em novas pesquisas eleitorais",
-    "titulo_original": "Dólar abre perto da estabilidade de olho em novas pesquisas eleitorais - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/10 09:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A cautela do dólar em relação às pesquisas eleitorais sugere que o resultado das eleições pode influenciar o fluxo de capital para o país. Se as pesquisas indicarem um cenário de maior incerteza política, o dólar pode apresentar volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792761490.2906969,
-    "titulo": "Sessão europeia de investingLive: Ações cautelosas com rendimentos do Tesouro em recuperação, petróleo firme",
-    "titulo_original": "investingLive European session wrap: Equities cautious as Treasury yields rebound, oil holds firm",
-    "fonte": "ForexLive",
-    "publicado": "23/10 08:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A divergência nos PMIs europeus (França em contração, Alemanha em expansão) aponta para um cenário econômico misto na região, o que pode manter o Banco Central Europeu em dilema sobre a política de juros. A recuperação dos rendimentos do Tesouro dos EUA pode influenciar o apetite por risco global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792761490.292552,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/10 09:02",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento ao vivo da cotação do dólar permite observar a dinâmica do fluxo de capital em tempo real. A volatilidade observada pode ser influenciada por diversos fatores macroeconômicos e de sentimento do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792768543.783112,
-    "titulo": "Prévia da inflação volta a superar o teto da meta após dois meses",
-    "titulo_original": "Prévia da inflação volta a superar o teto da meta após dois meses",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 12:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O retorno da prévia da inflação acima do teto da meta pode reforçar a postura cautelosa do Banco Central em relação a cortes de juros. Se os próximos dados de inflação continuarem pressionados, o ciclo de afrouxamento monetário pode ser mais lento do que o esperado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792768548.5346577,
-    "titulo": "UMich final de outubro sentimento do consumidor final 48,0 vs esperado 46,3",
-    "titulo_original": "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
-    "fonte": "ForexLive",
-    "publicado": "23/10 11:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Embora o sentimento geral do consumidor tenha melhorado, as expectativas de inflação em 1 e 5 anos permaneceram estáveis em 4,7% e 3,5%, respectivamente. Se as expectativas de inflação começarem a subir, isso pode levar o Fed a manter uma postura mais restritiva.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792768552.9739134,
-    "titulo": "Rússia e Ucrânia trocam 270 prisioneiros cada",
-    "titulo_original": "Rússia e Ucrânia trocam 270 prisioneiros cada",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 11:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A troca de prisioneiros entre Rússia e Ucrânia pode ser vista como um pequeno passo na direção de uma possível desescalada, embora não altere o quadro geral do conflito. Se houver mais avanços diplomáticos, isso poderia impactar os preços de commodities energéticas e grãos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792768557.5638282,
-    "titulo": "A nova ameaça do Irã após declaração de Donald Trump sobre curso da guerra",
-    "titulo_original": "A nova ameaça do Irã após declaração de Donald Trump sobre curso da guerra - VEJA",
-    "fonte": "Google News Geopolitica",
-    "publicado": "23/10 11:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões diplomáticas e ameaças entre Irã e EUA, em decorrência de declarações sobre a guerra, pode aumentar a volatilidade geopolítica. Se a situação se agravar, isso pode impactar os preços do petróleo e a confiança dos investidores globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792768563.062057,
-    "titulo": "Ibovespa futuro sinaliza reação, dólar oscila e China sobe antes do segundo turno",
-    "titulo_original": "Ibovespa futuro sinaliza reação, dólar oscila e China sobe antes do segundo turno - Portal do Agronegócio",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/10 10:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A oscilação do dólar e a reação do Ibovespa futuro podem estar ligadas às expectativas em relação ao segundo turno das eleições. Se o resultado eleitoral gerar incertezas, o dólar pode voltar a subir e o Ibovespa sofrer pressão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792768563.063275,
-    "titulo": "PMI composto dos EUA recua na preliminar de outubro, diz S&P Global",
-    "titulo_original": "PMI composto dos EUA recua na preliminar de outubro, diz S&P Global",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 11:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A leve desaceleração no PMI composto dos EUA, apesar do avanço no setor industrial, sugere que a expansão econômica pode estar perdendo um pouco de força. Se essa tendência se confirmar nos próximos meses, pode aumentar a pressão por uma política monetária mais flexível por parte do Fed.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792768563.0643673,
-    "titulo": "Safra projeta Ibovespa a 260 mil pontos no fim de 2027 diante de mais cortes de juros e menor risco-país",
-    "titulo_original": "Safra projeta Ibovespa a 260 mil pontos no fim de 2027 diante de mais cortes de juros e menor risco-país",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 11:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção otimista do Safra para o Ibovespa baseia-se na expectativa de continuidade nos cortes de juros e na redução do risco-país. Se o cenário de juros mais baixos se concretizar e o risco-país diminuir, isso pode atrair fluxo de capital estrangeiro para a bolsa brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792773945.367927,
-    "titulo": "Durigan sinaliza manter subvenção aos combustíveis em 2027 caso Lula seja reeleito",
-    "titulo_original": "Durigan sinaliza manter subvenção aos combustíveis em 2027 caso Lula seja reeleito",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 13:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da subvenção aos combustíveis, se concretizada, pode representar um ônus fiscal adicional ou uma forma de gerenciar a inflação de forma mais direta. Se a arrecadação com petróleo não for suficiente para cobrir os custos da subvenção, isso pode pressionar o déficit fiscal; caso contrário, pode ser uma ferramenta eficaz para controlar a inflação de alimentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792773949.9858484,
-    "titulo": "Governo poderá apresentar propostas para ajudar setores mais afetados pelo fim da escala 6x1, diz Durigan",
-    "titulo_original": "Governo poderá apresentar propostas para ajudar setores mais afetados pelo fim da escala 6x1, diz Durigan",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 12:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A apresentação de propostas para auxiliar setores afetados pela mudança na jornada de trabalho pode ter impacto fiscal, dependendo do desenho das medidas. Se as propostas forem aprovadas e implementadas, isso pode aliviar a pressão sobre pequenos empreendedores; caso contrário, a ausência de apoio pode agravar a situação desses negócios.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792773954.7228093,
-    "titulo": "Fundos de pensão já aplicam quase 90% dos recursos na renda fixa. Mas isso pode estar prestes a mudar",
-    "titulo_original": "Fundos de pensão já aplicam quase 90% dos recursos na renda fixa. Mas isso pode estar prestes a mudar",
-    "fonte": "InvestNews",
-    "publicado": "23/10 12:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A concentração de fundos de pensão em renda fixa sugere uma busca por segurança, mas a possibilidade de mudança nessa alocação pode indicar uma busca por maiores retornos em cenários de juros mais baixos ou maior apetite a risco. Se as taxas de juros caírem significativamente, fundos de pensão podem migrar para outras classes de ativos; caso contrário, a renda fixa pode continuar sendo atrativa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792773959.374519,
-    "titulo": "Bolsa, dólar e juros: o que esperar se Flávio ou Lula vencer - UOL Economia",
-    "titulo_original": "Bolsa, dólar e juros: o que esperar se Flávio ou Lula vencer - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/10 12:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise sobre os impactos eleitorais na bolsa, dólar e juros sugere que o resultado das eleições pode influenciar a política econômica do país. Se um candidato com propostas mais ortodoxas vencer, o mercado pode reagir positivamente com queda do dólar e dos juros; caso contrário, um cenário de maior incerteza pode gerar volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792773965.1512434,
-    "titulo": "Bolsas da Europa caem com alta do petróleo e perdas no setor de luxo",
-    "titulo_original": "Bolsas da Europa caem com alta do petróleo e perdas no setor de luxo",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 13:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo pode pressionar a inflação global, o que, por sua vez, pode levar os bancos centrais a manterem uma postura mais restritiva em relação aos juros. Se a escalada de tensões no Oriente Médio se intensificar, o preço do petróleo pode continuar subindo, ampliando o risco inflacionário e o impacto nas bolsas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792773965.1525402,
-    "titulo": "Wall Street cai com petróleo na máxima de cinco meses",
-    "titulo_original": "Wall Street cai com petróleo na máxima de cinco meses - Money Times",
-    "fonte": "Google News Commodities",
-    "publicado": "23/10 10:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda de Wall Street, associada à alta do petróleo, pode indicar que o mercado está precificando um cenário de custos de energia mais elevados, o que pode afetar os lucros das empresas. Se o preço do petróleo continuar subindo, isso pode pressionar ainda mais as bolsas americanas; caso contrário, uma estabilização pode trazer alívio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792773965.1536694,
-    "titulo": "Conselho da Petrobras deve discutir preço do diesel depois do segundo turno, dizem fontes",
-    "titulo_original": "Conselho da Petrobras deve discutir preço do diesel depois do segundo turno, dizem fontes",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 13:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre a política de preços do diesel pela Petrobras pode ter implicações na inflação de combustíveis. Se a Petrobras decidir ajustar os preços de forma a repassar integralmente as flutuações do mercado internacional, isso pode gerar pressão inflacionária; caso contrário, pode haver uma distorção nos preços internos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792773965.1548147,
-    "titulo": "Independentemente de governo, se eu estivesse sentado lá manteria FGI/FGO, é ótimo programa, diz CEO do Bradesco",
-    "titulo_original": "Independentemente de governo, se eu estivesse sentado lá manteria FGI/FGO, é ótimo programa, diz CEO do Bradesco",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 12:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A opinião do CEO do Bradesco sobre a importância dos programas FGI/FGO sugere que a continuidade dessas iniciativas de crédito pode ser benéfica para o setor produtivo. Se os programas forem mantidos, isso pode facilitar o acesso a crédito para PMEs; caso contrário, a restrição de crédito pode impactar negativamente o crescimento dessas empresas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792780248.405096,
-    "titulo": "R$ 585 bi em Tesouro Selic vencem em março de 2027: o que muda na dívida e no seu bolso",
-    "titulo_original": "R$ 585 bi em Tesouro Selic vencem em março de 2027: o que muda na dívida e no seu bolso",
-    "fonte": "InvestNews",
-    "publicado": "23/10 14:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O vencimento expressivo de Tesouro Selic em 2027 pode permitir uma readequação na estrutura da dívida pública. A viabilidade dessa mudança, no entanto, estará diretamente atrelada à percepção de credibilidade da agenda fiscal do governo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792780254.0618832,
-    "titulo": "Tesouro Direto hoje: prefixados recuam e IPCA+ fica estável na reta final das eleições",
-    "titulo_original": "Tesouro Direto hoje: prefixados recuam e IPCA+ fica estável na reta final das eleições",
-    "fonte": "InvestNews",
-    "publicado": "23/10 09:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nos prefixados e a estabilidade dos IPCA+ no Tesouro Direto refletem a cautela do mercado no período eleitoral. Se o resultado das eleições gerar incertezas fiscais, os juros de longo prazo podem voltar a subir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792780259.8126738,
-    "titulo": "M. Dias Branco (MDIA3): XP vê trimestre fraco e reduz preço-alvo das ações",
-    "titulo_original": "M. Dias Branco (MDIA3): XP vê trimestre fraco e reduz preço-alvo das ações",
-    "fonte": "Money Times",
-    "publicado": "23/10 14:42",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de resultados fracos para a M. Dias Branco reflete pressões inflacionárias e de demanda no setor. Se a inflação de custos persistir e a demanda não se recuperar, a empresa pode enfrentar desafios adicionais no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792780265.6390657,
-    "titulo": "Ouro recua e encerra abaixo de US$ 4 mil pela primeira vez desde julho",
-    "titulo_original": "Ouro recua e encerra abaixo de US$ 4 mil pela primeira vez desde julho",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 15:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda do ouro, mesmo com a valorização dos Treasuries, sugere uma dinâmica de mercado focada em liquidação de posições compradas. Se a pressão vendedora persistir, o metal pode testar níveis mais baixos; caso contrário, a busca por ativos seguros pode retornar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792780272.3890898,
-    "titulo": "Inflação menor, preocupação maior? O que acendeu o alerta no IPCA-15 de outubro",
-    "titulo_original": "Inflação menor, preocupação maior? O que acendeu o alerta no IPCA-15 de outubro",
-    "fonte": "Money Times",
-    "publicado": "23/10 11:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A surpresa favorável no IPCA-15 de outubro pode ser temporária, dado que os componentes mais persistentes da inflação seguem pressionados. Se a inflação subjacente não ceder, o Banco Central pode manter uma postura cautelosa em relação aos juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792780272.391057,
-    "titulo": "EUA devem remover 50% das tarifas sobre alguns produtos canadenses ainda hoje - relatório",
-    "titulo_original": "US expected to remove 50% tariffs on some Canadian products as soon as today - report",
-    "fonte": "ForexLive",
-    "publicado": "23/10 14:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A possível remoção de tarifas pode aliviar tensões comerciais pontuais, mas a motivação política sugere que outras tarifas podem ser impostas. Se a medida for confirmada, o impacto no USD/CAD dependerá da extensão total das mudanças tarifárias.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792787441.1015422,
-    "titulo": "Dólar em queda: ainda vale a pena investir em fundos cambiais? - VEJA",
-    "titulo_original": "Dólar em queda: ainda vale a pena investir em fundos cambiais? - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/10 15:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar pode ser influenciada por diversos fatores, incluindo a política de juros. Se a tendência de queda do dólar se mantiver, fundos cambiais podem apresentar menor atratividade; caso haja reversão, podem voltar a ser considerados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792787445.2633057,
-    "titulo": "Plantio da soja chega a 30,1% da área prevista no Brasil - O Presente Rural",
-    "titulo_original": "Plantio da soja chega a 30,1% da área prevista no Brasil - O Presente Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "23/10 16:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O avanço do plantio da soja é um indicador importante para o agronegócio brasileiro. Se o clima se mantiver favorável e o plantio progredir conforme o esperado, a safra pode ser robusta, impactando positivamente as exportações e a economia. Caso contrário, atrasos ou perdas podem afetar o setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792787449.4036422,
-    "titulo": "O dia em que o dólar voltou: por que a euforia do mercado é o prenúncio de um novo ciclo para o Brasil - Instituto Liberal",
-    "titulo_original": "O dia em que o dólar voltou: por que a euforia do mercado é o prenúncio de um novo ciclo para o Brasil - Instituto Liberal",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/10 15:36",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A interpretação de \"euforia do mercado\" como prenúncio de um novo ciclo é uma análise subjetiva. Se a percepção de melhora econômica se concretizar e for acompanhada por políticas fiscais e monetárias consistentes, pode haver um ciclo de crescimento; caso contrário, a euforia pode ser passageira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792787453.588428,
-    "titulo": "Trump: Podemos fazer outra operação contra o Irã",
-    "titulo_original": "Trump: We may do another operation against Iran",
-    "fonte": "ForexLive",
-    "publicado": "23/10 16:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump, em conjunto com relatos de incidentes no Estreito de Hormuz, eleva a tensão geopolítica e pode sustentar o preço do petróleo. Se uma nova operação militar se concretizar, o impacto nos preços do petróleo pode ser mais acentuado; se for apenas retórica, o mercado pode reavaliar a precificação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792787459.0368485,
-    "titulo": "Ibovespa ganha força na reta final antes do 2º turno com sondagens eleitorais e avanço de blue chips",
-    "titulo_original": "Ibovespa ganha força na reta final antes do 2º turno com sondagens eleitorais e avanço de blue chips",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 17:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intensificação dos ganhos na reta final sugere que o mercado precificou um cenário eleitoral específico. Se as pesquisas divulgadas após o fechamento do pregão confirmarem essa tendência, o apetite a risco pode se manter no curto prazo; caso contrário, pode haver realização de lucros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792787459.0384746,
-    "titulo": "Ibovespa encerra em alta e dólar fica abaixo de R$ 5 no último pregão antes do 2º turno",
-    "titulo_original": "Ibovespa encerra em alta e dólar fica abaixo de R$ 5 no último pregão antes do 2º turno",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 17:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A performance positiva do Ibovespa e a desvalorização do dólar no Brasil contrastam com o recuo das bolsas americanas, influenciado pelo petróleo. A cautela pré-eleitoral no Brasil e a aversão a risco global indicam um cenário de volatilidade. Se o resultado eleitoral for percebido como favorável ao mercado, o dólar pode continuar em R$ 5 ou abaixo; caso contrário, pode haver pressão de alta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792787459.0461543,
-    "titulo": "EUA autorizam liberação emergencial de até 400 mil barris de petróleo da reserva estratégica",
-    "titulo_original": "EUA autorizam liberação emergencial de até 400 mil barris de petróleo da reserva estratégica",
-    "fonte": "Folha Mercado",
-    "publicado": "23/10 17:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A liberação emergencial de petróleo visa resolver uma interrupção pontual no abastecimento e pode ter um efeito limitado nos preços globais. Se a interrupção na refinaria for mais prolongada do que o esperado, a demanda por petróleo pode se manter elevada, pressionando os preços.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792787459.0477,
-    "titulo": "CSN inverte sinal, salta mais de 7% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas - Estadão",
-    "titulo_original": "CSN inverte sinal, salta mais de 7% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas - Estadão",
+    "_timestamp": 1793012459.6298115,
+    "titulo": "Virada de Lula reverte rali eleitoral e derruba ativos brasileiros antes da abertura da B3 - Bloomberg Línea Brasil",
+    "titulo_original": "Virada de Lula reverte rali eleitoral e derruba ativos brasileiros antes da abertura da B3 - Bloomberg Línea Brasil",
     "fonte": "Google News Acoes",
-    "publicado": "23/10 16:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte alta da CSN pode estar relacionada a notícias específicas da empresa ou a um otimismo setorial. Se a recuperação do setor siderúrgico se confirmar, outras empresas do ramo também podem apresentar desempenho positivo; caso contrário, a alta da CSN pode ser isolada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792787459.04924,
-    "titulo": "Confiança do consumidor nos EUA cai antes de eleições de meio de mandato",
-    "titulo_original": "Confiança do consumidor nos EUA cai antes de eleições de meio de mandato",
-    "fonte": "Folha Mercado",
-    "publicado": "23/10 17:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda na confiança do consumidor americano, associada ao aumento de preços, pode sinalizar um impacto da inflação na demanda. Se a inflação persistir elevada, pode influenciar as decisões de política monetária do Federal Reserve; caso contrário, a confiança pode se recuperar com a melhora do cenário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792787459.0508218,
-    "titulo": "Empresas do Reino Unido têm em outubro melhor mês desde fevereiro, aponta PMI",
-    "titulo_original": "Empresas do Reino Unido têm em outubro melhor mês desde fevereiro, aponta PMI",
-    "fonte": "Folha Mercado",
-    "publicado": "23/10 12:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O PMI positivo no Reino Unido sugere uma melhora na atividade econômica, o que pode ser um sinal de recuperação. Se essa tendência se mantiver, pode indicar um cenário mais favorável para os investimentos no país; caso contrário, pode ser um movimento pontual influenciado por fatores específicos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792792867.558958,
-    "titulo": "BC anuncia medidas para coibir abusos nas ofertas de crédito que favoreçam superendividamento",
-    "titulo_original": "BC anuncia medidas para coibir abusos nas ofertas de crédito que favoreçam superendividamento",
-    "fonte": "Folha Mercado",
-    "publicado": "23/10 18:51",
+    "publicado": "25/10 22:38",
     "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
+    "canais_afetados": [],
     "origem": "domestica",
-    "leitura_critica": "As medidas anunciadas pelo Banco Central buscam aumentar a proteção ao consumidor no mercado de crédito. Se estas regras forem efetivas, podem resultar em uma redução do superendividamento e em maior transparência nas operações de crédito, potencialmente impactando o comportamento de tomada de crédito por parte dos consumidores e as estratégias das instituições financeiras.",
-    "is_stocks": false
+    "leitura_critica": "A reversão do rali eleitoral e a queda dos ativos brasileiros antes da abertura da B3 demonstram uma forte reação negativa do mercado à vitória de Lula. Se as expectativas sobre as políticas econômicas do novo governo forem desfavoráveis, a pressão sobre os ativos pode continuar.",
+    "is_stocks": true
   },
   {
-    "_timestamp": 1792792871.7583363,
-    "titulo": "Escala 6x1, impostos e salário mínimo: o que Lula e Flávio Bolsonaro defendem para economia brasileira",
-    "titulo_original": "Escala 6x1, impostos e salário mínimo: o que Lula e Flávio Bolsonaro defendem para economia brasileira",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 18:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As divergências apresentadas entre os candidatos refletem visões distintas sobre o rumo da política econômica brasileira. Se um dos candidatos vencer, as propostas defendidas podem gerar impactos diferentes no mercado de trabalho e na arrecadação fiscal, dependendo da sua implementação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792792876.0465736,
-    "titulo": "Novas regras do Open Finance são avanço para segurança, segundo associação",
-    "titulo_original": "Novas regras do Open Finance são avanço para segurança, segundo associação",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 17:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As novas regras do Open Finance visam aprimorar a segurança e transparência do sistema. Se a implementação for bem-sucedida, pode haver um aumento na confiança dos usuários e na adoção de serviços financeiros abertos, o que pode impulsionar a concorrência e a inovação no setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792792880.200465,
-    "titulo": "Gestores preveem volatilidade na Bolsa e no real após segundo turno das eleições, diz Citi",
-    "titulo_original": "Gestores preveem volatilidade na Bolsa e no real após segundo turno das eleições, diz Citi",
+    "_timestamp": 1793012459.6302814,
+    "titulo": "Dez ações concentram mais da metade do Ibovespa; veja o que isso significa para o investidor",
+    "titulo_original": "Dez ações concentram mais da metade do Ibovespa; veja o que isso significa para o investidor",
     "fonte": "Folha Mercado",
-    "publicado": "23/10 15:12",
+    "publicado": "25/10 23:00",
     "relevancia": "MEDIA",
     "canais_afetados": [],
     "origem": "domestica",
-    "leitura_critica": "A expectativa de volatilidade no mercado financeiro após as eleições sugere que o resultado do pleito pode gerar incertezas. Se o resultado for percebido como desfavorável por uma parcela significativa do mercado, isso pode se refletir em movimentos bruscos na Bolsa e na taxa de câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792792884.9871213,
-    "titulo": "Bolsas de NY fecham em queda com avanço do petróleo e aversão ao risco",
-    "titulo_original": "Bolsas de NY fecham em queda com avanço do petróleo e aversão ao risco",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 17:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo e a aversão ao risco global pressionaram as bolsas de Nova York, indicando um cenário de maior cautela nos mercados. Se a escalada militar no Golfo Pérsico se intensificar, o preço do petróleo pode continuar a subir, alimentando pressões inflacionárias e impactando negativamente ativos de risco.",
+    "leitura_critica": "A crescente concentração do Ibovespa em poucas ações pode aumentar a volatilidade do índice, tornando-o mais sensível a movimentos dessas empresas específicas. Para o investidor, isso pode significar uma necessidade de diversificação mais cuidadosa dentro da própria bolsa.",
     "is_stocks": true
-  },
-  {
-    "_timestamp": 1792792884.9892845,
-    "titulo": "Bolsa de Nova York fecha em queda generalizada com alta do petróleo no radar",
-    "titulo_original": "Bolsa de Nova York fecha em queda generalizada com alta do petróleo no radar",
-    "fonte": "Money Times",
-    "publicado": "23/10 17:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A intensificação das tensões geopolíticas no Oriente Médio e a consequente alta do petróleo criam um cenário de aversão ao risco nos mercados globais. Se o conflito se agravar, o preço do petróleo pode continuar a subir, exercendo pressão inflacionária e afetando negativamente o desempenho das bolsas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1792798239.1835306,
-    "titulo": "BC aumenta proteção a consumidor de crédito; regra exigirá aval prévio para oferta a vulneráveis",
-    "titulo_original": "BC aumenta proteção a consumidor de crédito; regra exigirá aval prévio para oferta a vulneráveis",
-    "fonte": "Valor Economico",
-    "publicado": "23/10 19:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A nova regulamentação do Banco Central visa proteger consumidores vulneráveis, o que pode impactar a oferta de crédito por parte das instituições financeiras. Se a exigência de aval prévio reduzir significativamente a concessão de crédito para esses públicos, isso pode ter um efeito moderado na atividade econômica; caso contrário, o impacto pode ser mais contido.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1792798243.1037028,
-    "titulo": "Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed",
-    "titulo_original": "Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/10 18:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do dólar, impulsionada por tensões geopolíticas e pela expectativa em relação à reunião do Fed, sugere que o mercado precifica uma postura mais cautelosa do banco central americano. Se o Fed sinalizar manutenção de juros altos por mais tempo, isso pode sustentar um dólar mais forte globalmente, impactando o câmbio no Brasil; se a reunião indicar um caminho mais dovish, o dólar pode se enfraquecer.",
-    "is_stocks": false
   }
 ]
