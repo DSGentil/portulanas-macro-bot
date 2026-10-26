@@ -603,5 +603,89 @@
     "origem": "domestica",
     "leitura_critica": "O esclarecimento da B3 sobre o acionamento dos 'circuit breakers' demonstra a gestão de riscos em momentos de alta volatilidade. Se o Ibovespa continuar a apresentar quedas significativas, a possibilidade de um novo 'circuit breaker' de 20% pode gerar mais incerteza no mercado. A recuperação do índice dependerá da reversão do sentimento de aversão ao risco e da clareza sobre as políticas econômicas futuras.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793039441.7224708,
+    "titulo": "É cedo para saber o impacto da alta do dólar nas contas externas, diz Fernando Rocha, do BC",
+    "titulo_original": "É cedo para saber o impacto da alta do dólar nas contas externas, diz Fernando Rocha, do BC",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 14:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Banco Central indica cautela quanto aos efeitos imediatos da volatilidade cambial. Se a desvalorização do real se mostrar persistente, o impacto nas transações correntes e na balança comercial pode ser mais significativo do que o esperado inicialmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793039445.6709268,
+    "titulo": "BC define regra para Pix no crédito e cria alertas contra endividamento",
+    "titulo_original": "BC define regra para Pix no crédito e cria alertas contra endividamento",
+    "fonte": "Folha Mercado",
+    "publicado": "26/10 13:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nova regulamentação do Banco Central para o Pix no crédito visa proteger o consumidor e aumentar a transparência. Se as novas regras forem eficazes em coibir o endividamento excessivo, isso pode impactar o volume de crédito disponível e as taxas de juros praticadas nessa modalidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793039449.567301,
+    "titulo": "Tesouro cancela leilões de títulos prefixados e atrelados à inflação previstos para esta semana",
+    "titulo_original": "Tesouro cancela leilões de títulos prefixados e atrelados à inflação previstos para esta semana",
+    "fonte": "Folha Mercado",
+    "publicado": "26/10 11:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O cancelamento dos leilões de títulos pelo Tesouro Nacional sinaliza cautela em um cenário de alta volatilidade e incerteza pós-eleitoral. Se a instabilidade persistir, o governo pode ter dificuldades em rolar sua dívida pública a custos favoráveis, impactando as taxas de juros de longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793039453.5496056,
+    "titulo": "Tesouro Direto suspende negociações após alta dos juros. Veja o que muda para o investidor",
+    "titulo_original": "Tesouro Direto suspende negociações após alta dos juros. Veja o que muda para o investidor",
+    "fonte": "InvestNews",
+    "publicado": "26/10 12:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão de negociações no Tesouro Direto reflete a volatilidade do mercado de juros após a eleição. Se a alta dos juros se consolidar, títulos prefixados e atrelados à inflação podem se tornar menos atrativos, enquanto títulos pós-fixados podem ganhar preferência dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793039458.4028094,
+    "titulo": "Entenda o que é o circuit breaker e quantas vezes o mecanismo já foi acionado na Bolsa",
+    "titulo_original": "Entenda o que é o circuit breaker e quantas vezes o mecanismo já foi acionado na Bolsa",
+    "fonte": "Folha Mercado",
+    "publicado": "26/10 12:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acionamento do circuit breaker indica forte volatilidade no mercado acionário brasileiro, reflexo da incerteza pós-eleitoral. Se a pressão vendedora persistir, o Ibovespa pode continuar em trajetória de queda, exigindo atenção dos investidores a possíveis novas quedas acentuadas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793039458.4041271,
+    "titulo": "Bolsas europeias fecham em alta com alívio no preço do petróleo e nos juros",
+    "titulo_original": "Bolsas europeias fecham em alta com alívio no preço do petróleo e nos juros",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 13:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nas bolsas europeias reflete um otimismo pontual com a estabilidade de juros e preços de petróleo. No entanto, a expectativa pelas decisões de política monetária do Fed e BCE ao longo da semana pode gerar volatilidade, especialmente se as decisões vierem em desacordo com as expectativas do mercado.",
+    "is_stocks": true
   }
 ]
