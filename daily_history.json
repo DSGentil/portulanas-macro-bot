@@ -116,5 +116,84 @@
     "origem": "domestica",
     "leitura_critica": "A crescente concentração do Ibovespa em poucas ações pode aumentar a volatilidade do índice, tornando-o mais sensível a movimentos dessas empresas específicas. Para o investidor, isso pode significar uma necessidade de diversificação mais cuidadosa dentro da própria bolsa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793014248.794069,
+    "titulo": "Ativos brasileiros despencam até 30% no pré-mercado dos EUA e acendem alerta para circuit breaker",
+    "titulo_original": "Ativos brasileiros despencam até 30% no pré-mercado dos EUA e acendem alerta para circuit breaker",
+    "fonte": "Folha Mercado",
+    "publicado": "26/10 08:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte desvalorização dos ativos brasileiros no pré-mercado dos EUA, após o resultado eleitoral, indica uma reação negativa do mercado à reeleição do presidente Lula. Se essa tendência se mantiver, poderá haver maior volatilidade e a possibilidade de acionamento de circuit breakers, impactando a liquidez e o fluxo de capital para o país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793014252.7593012,
+    "titulo": "Agenda do dia: Boletim Focus; Nota do Setor Externo; Relatório da Dívida Pública",
+    "titulo_original": "Agenda do dia: Boletim Focus; Nota do Setor Externo; Relatório da Dívida Pública",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 08:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação do Boletim Focus e do Relatório da Dívida Pública pode fornecer indicativos sobre as expectativas de mercado para a inflação e a trajetória fiscal do país. Se os dados apresentarem desvios significativos em relação às projeções, isso poderá influenciar as decisões futuras do Banco Central e a percepção de risco dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793014256.7494266,
+    "titulo": "Prévia do orçamento de outono do Reino Unido: Healey pode acalmar mercados e mudar apostas de juros do BOE?",
+    "titulo_original": "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
+    "fonte": "ForexLive",
+    "publicado": "26/10 07:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A apresentação do orçamento de outono no Reino Unido pode fornecer pistas sobre a estratégia fiscal do governo para combater a inflação e influenciar as decisões futuras do Banco da Inglaterra sobre a taxa de juros. Se o orçamento apresentar medidas fiscais mais restritivas, isso poderá reforçar a expectativa de altas de juros; caso contrário, pode abrir espaço para uma postura mais cautelosa do BOE.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793014260.7366478,
+    "titulo": "Bolsas globais oscilam com petróleo e decisões de juros no radar",
+    "titulo_original": "Bolsas globais oscilam com petróleo e decisões de juros no radar - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "26/10 07:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A notícia aponta para a influência do preço do petróleo e das decisões de juros nos mercados globais. Se as próximas decisões de juros forem mais restritivas do que o esperado, isso poderá pressionar as bolsas globais; caso contrário, um cenário de juros mais baixos poderia impulsionar os mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793014265.7904449,
+    "titulo": "ITUB4, SANB11 ou BBAS3: qual banco é a melhor aposta para a temporada de balanços do 3T26?",
+    "titulo_original": "ITUB4, SANB11 ou BBAS3: qual banco é a melhor aposta para a temporada de balanços do 3T26?",
+    "fonte": "Money Times",
+    "publicado": "26/10 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia foca na temporada de balanços de empresas do setor bancário, um componente importante do Ibovespa. Se os resultados apresentarem surpresas significativas, tanto positivas quanto negativas, isso poderá influenciar o desempenho do índice e, indiretamente, o sentimento do mercado. No entanto, não se trata de uma decisão macroeconômica direta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793014265.7911274,
+    "titulo": "FTSE 100 sobe com alta do ouro e mineradoras; petróleo cai com negociações sobre o Irã",
+    "titulo_original": "FTSE 100 sobe com alta do ouro e mineradoras; petróleo cai com negociações sobre o Irã - ADVFN",
+    "fonte": "Google News Commodities",
+    "publicado": "26/10 07:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia descreve movimentos em um índice de bolsa estrangeiro, influenciados por commodities como ouro e petróleo. A queda do petróleo pode ter implicações para a inflação global, mas a notícia em si não detalha essa conexão. A relevância para o WDO é indireta, ligada a movimentos de commodities e sentimento global.",
+    "is_stocks": true
   }
 ]
