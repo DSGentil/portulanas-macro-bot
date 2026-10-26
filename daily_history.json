@@ -687,5 +687,69 @@
     "origem": "externa",
     "leitura_critica": "A alta nas bolsas europeias reflete um otimismo pontual com a estabilidade de juros e preços de petróleo. No entanto, a expectativa pelas decisões de política monetária do Fed e BCE ao longo da semana pode gerar volatilidade, especialmente se as decisões vierem em desacordo com as expectativas do mercado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793046650.384607,
+    "titulo": "Juro alto segue como principal pressão sobre a construção, mas confiança dos empresários avança, diz CNI",
+    "titulo_original": "Juro alto segue como principal pressão sobre a construção, mas confiança dos empresários avança, diz CNI",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 17:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistência dos juros altos como principal entrave para o setor de construção indica que a demanda por crédito e investimentos pode continuar restrita. No entanto, a melhora na confiança dos empresários sugere uma expectativa de melhora futura, caso as condições de crédito se tornem mais favoráveis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793046654.8456879,
+    "titulo": "BC abre consulta para dar mais transparência à oferta de CDBs após caso Master",
+    "titulo_original": "BC abre consulta para dar mais transparência à oferta de CDBs após caso Master",
+    "fonte": "Folha Mercado",
+    "publicado": "26/10 16:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A abertura de consulta pública pelo Banco Central para aumentar a transparência na oferta de CDBs é uma medida regulatória que visa proteger investidores e a integridade do mercado financeiro. Se as propostas forem implementadas, podem gerar maior confiança e segurança na aplicação em títulos de renda fixa bancária, potencialmente influenciando o comportamento de investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793046659.3335748,
+    "titulo": "Petróleo cai com perspectiva de negociações no Oriente Médio",
+    "titulo_original": "Petróleo cai com perspectiva de negociações no Oriente Médio",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 16:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nos preços do petróleo, impulsionada por sinais de desescalada diplomática no Oriente Médio, pode aliviar pressões inflacionárias globais. Se as negociações avançarem e a oferta de petróleo se normalizar, isso poderia impactar positivamente a inflação e, consequentemente, as decisões de política monetária de bancos centrais ao redor do mundo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793046663.7679014,
+    "titulo": "EUA e Canadá trabalhando em acordo para aliviar tarifas sobre aço e importações de automóveis canadenses",
+    "titulo_original": "US and Canada working on deal to ease tariffs on Canadian steel and auto imports",
+    "fonte": "ForexLive",
+    "publicado": "26/10 16:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Um acordo para aliviar tarifas entre EUA e Canadá pode reduzir custos para setores específicos e potencialmente impulsionar o comércio bilateral. Se o acordo for concretizado, pode haver um impacto positivo em cadeias de suprimentos globais e, indiretamente, em empresas que dependem dessas importações ou exportações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793046668.8523302,
+    "titulo": "B3 aciona \"circuit breaker\" e suspende negociações por 30 minutos",
+    "titulo_original": "B3 aciona \"circuit breaker\" e suspende negociações por 30 minutos - Poder360",
+    "fonte": "Google News Acoes",
+    "publicado": "26/10 15:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acionamento do 'circuit breaker' na B3 indica uma forte volatilidade no mercado de ações, geralmente associada a eventos de grande impacto ou incerteza. Se essa volatilidade persistir ou for desencadeada por fatores macroeconômicos, pode sinalizar um aumento do risco percebido e afetar o fluxo de capital para a bolsa.",
+    "is_stocks": true
   }
 ]
