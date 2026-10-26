@@ -195,5 +195,121 @@
     "origem": "externa",
     "leitura_critica": "A notícia descreve movimentos em um índice de bolsa estrangeiro, influenciados por commodities como ouro e petróleo. A queda do petróleo pode ter implicações para a inflação global, mas a notícia em si não detalha essa conexão. A relevância para o WDO é indireta, ligada a movimentos de commodities e sentimento global.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793020559.3209057,
+    "titulo": "Mercado abre fazendo ajuste e Bolsa deve cair 12% e dólar subir cerca de 10%. Entenda",
+    "titulo_original": "Mercado abre fazendo ajuste e Bolsa deve cair 12% e dólar subir cerca de 10%. Entenda - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/10 08:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte desvalorização esperada para a Bolsa e a valorização do dólar indicam um cenário de aversão ao risco no mercado doméstico. Se os fatores que impulsionam essa correção forem temporários, o mercado pode se recuperar rapidamente; caso contrário, pode ser o início de um período de maior volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793020563.3668883,
+    "titulo": "Economistas reduzem previsão de inflação, PIB e dólar neste ano",
+    "titulo_original": "Economistas reduzem previsão de inflação, PIB e dólar neste ano",
+    "fonte": "Folha Mercado",
+    "publicado": "26/10 09:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução nas projeções de inflação e juros, juntamente com a revisão para baixo do PIB e dólar, sugere um cenário de maior controle inflacionário e desaceleração econômica. Se os dados futuros confirmarem essa tendência, o Banco Central pode ter mais espaço para cortes de juros; caso contrário, a inflação pode voltar a pressionar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793020567.4912126,
+    "titulo": "Análise: BC deve agir para assegurar estabilidade financeira em meio a turbulência enquanto mercado aguarda âncora",
+    "titulo_original": "Análise: BC deve agir para assegurar estabilidade financeira em meio a turbulência enquanto mercado aguarda âncora",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 09:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A atuação do Banco Central para garantir a estabilidade financeira em meio à turbulência pós-eleitoral é crucial. Se o BC conseguir conter a volatilidade e evitar a instabilidade sistêmica, o mercado poderá se ajustar gradualmente; caso contrário, a incerteza pode se prolongar, afetando a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793020571.8403227,
+    "titulo": "Fluxo cambial está positivo em US$ 5,249 bilhões em outubro até dia 21",
+    "titulo_original": "Fluxo cambial está positivo em US$ 5,249 bilhões em outubro até dia 21",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 09:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O fluxo cambial positivo indica entrada líquida de dólares na economia brasileira. Se essa tendência se mantiver, pode contribuir para a estabilidade do câmbio; caso contrário, uma reversão no fluxo financeiro poderia pressionar a moeda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793020577.155291,
+    "titulo": "Confiança do consumidor sobe em outubro após cinco quedas seguidas, diz FGV",
+    "titulo_original": "Confiança do consumidor sobe em outubro após cinco quedas seguidas, diz FGV",
+    "fonte": "Folha Mercado",
+    "publicado": "26/10 10:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na confiança do consumidor pode indicar uma melhora gradual no cenário de consumo. Se essa tendência se mantiver nos próximos meses, poderá sinalizar uma recuperação mais robusta da atividade econômica; caso contrário, pode ser apenas um repique pontual.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793020577.1560125,
+    "titulo": "Tesouro Nacional cancela leilões de NTN-B e títulos prefixados desta semana",
+    "titulo_original": "Tesouro Nacional cancela leilões de NTN-B e títulos prefixados desta semana",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 09:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O cancelamento de leilões de títulos públicos reflete a incerteza do mercado após a reeleição presidencial, com juros futuros atingindo limites de oscilação. Se o Tesouro Nacional retomar os leilões com taxas mais altas para atrair investidores, isso sinalizará uma maior demanda por prêmio de risco; caso contrário, a ausência de oferta pode gerar escassez e volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793020577.1567192,
+    "titulo": "Sessão europeia: Ações se recuperam com alívio no petróleo, títulos franceses encontram alívio",
+    "titulo_original": "investingLive European session wrap: Stocks rebound as oil eases, French bonds find relief",
+    "fonte": "ForexLive",
+    "publicado": "26/10 09:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das ações europeias e o alívio nos títulos franceses sugerem uma diminuição temporária da aversão ao risco. Se os bancos centrais apresentarem surpresas nas suas próximas decisões, isso poderá reverter o sentimento do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793020577.157543,
+    "titulo": "B3 eleva limite superior de negociação de contratos futuros de dólar de 6% para 8,4%",
+    "titulo_original": "B3 eleva limite superior de negociação de contratos futuros de dólar de 6% para 8,4% - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "26/10 09:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do limite de negociação de contratos futuros de dólar pode indicar uma tentativa de acomodar maior volatilidade no mercado de câmbio. Se essa medida for acompanhada por outras ações para estabilizar a moeda, pode ajudar a mitigar oscilações bruscas; caso contrário, pode apenas refletir a expectativa de maior volatilidade.",
+    "is_stocks": true
   }
 ]
