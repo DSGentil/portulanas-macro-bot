@@ -860,5 +860,96 @@
     "origem": "externa",
     "leitura_critica": "A recuperação das ações nos EUA, impulsionada por IPOs de IA e notícias sobre tarifas, sugere um apetite a risco renovado no mercado americano. A venda de títulos do Tesouro a um rendimento específico pode indicar um ponto de atenção para investidores que buscam retornos em renda fixa, com o mercado precificando um determinado nível de juros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793057462.64638,
+    "titulo": "Governo usará acordo sobre seguro rural para retomar proposta de mirar centro da meta, diz Moretti",
+    "titulo_original": "Governo usará acordo sobre seguro rural para retomar proposta de mirar centro da meta, diz Moretti",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 19:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A intenção de mirar o centro da meta fiscal, se concretizada, pode sinalizar uma flexibilização nas regras fiscais. Caso o Congresso aprove a proposta, o mercado poderá reagir com cautela quanto à trajetória da dívida pública brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793057467.7831488,
+    "titulo": "PL reconhece resultado da eleição, mas cobra explicações ao TSE",
+    "titulo_original": "PL reconhece resultado da eleição, mas cobra explicações ao TSE",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 20:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O reconhecimento do resultado eleitoral pelo PL, mesmo com questionamentos, sugere uma busca por estabilidade política após o pleito. Se as explicações solicitadas ao TSE forem consideradas insatisfatórias pelo partido, isso pode gerar novas tensões no cenário político.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793057472.9288218,
+    "titulo": "Alckmin diz que fala de Trump sobre fraude na eleição brasileira é 'totalmente equivocada'",
+    "titulo_original": "Alckmin diz que fala de Trump sobre fraude na eleição brasileira é 'totalmente equivocada'",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 19:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de Alckmin busca reforçar a credibilidade do processo eleitoral brasileiro no cenário internacional. Se declarações semelhantes de Trump persistirem, isso pode gerar ruído diplomático, mas o impacto direto no mercado interno é limitado, dado o reconhecimento oficial do resultado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793057478.1626697,
+    "titulo": "Como a turbulência nos mercados pode impactar, na prática, a economia real?",
+    "titulo_original": "Como a turbulência nos mercados pode impactar, na prática, a economia real? - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "26/10 15:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A análise sobre o impacto da turbulência de mercado na economia real é crucial para entender a dinâmica macroeconômica. Se a notícia detalhar os canais específicos de contágio, como crédito ou investimento, sua relevância aumenta para a tomada de decisão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793057484.2881315,
+    "titulo": "Goldman Sachs: Construção de IA adicionará até 50pb ao núcleo do PCE dos EUA, mas o impulso é temporário",
+    "titulo_original": "Goldman Sachs: AI buildout to add up to 50bp to US core PCE, but the boost is temporary",
+    "fonte": "ForexLive",
+    "publicado": "26/10 18:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O impacto da IA na inflação dos EUA, mesmo que temporário, reforça a visão de que o Banco Central americano pode manter uma postura mais restritiva por mais tempo. Se a inflação subjacente nos EUA se mostrar persistente, isso pode influenciar as decisões de juros em outros países, incluindo o Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793057484.29005,
+    "titulo": "Lucro da Gerdau no 3º trimestre cresce 44%",
+    "titulo_original": "Lucro da Gerdau no 3º trimestre cresce 44%",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 18:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte crescimento do lucro da Gerdau demonstra resiliência operacional em um cenário de preços favoráveis na América do Norte. Se a tendência de preços na região se mantiver, a companhia pode continuar apresentando bons resultados nos próximos trimestres.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793057484.2918253,
+    "titulo": "Com Alckmin, Fonteles e Galípolo entre os cotados para a Fazenda, ajuste fiscal deve começar em breve, diz BTG",
+    "titulo_original": "Com Alckmin, Fonteles e Galípolo entre os cotados para a Fazenda, ajuste fiscal deve começar em breve, diz BTG",
+    "fonte": "Money Times",
+    "publicado": "26/10 18:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de um ajuste fiscal iminente, com nomes fortes cotados para a Fazenda, pode sinalizar uma busca por credibilidade fiscal no novo governo. Se a escolha para o ministério for de um perfil mais técnico e focado em responsabilidade fiscal, isso pode ser bem recebido pelo mercado.",
+    "is_stocks": true
   }
 ]
