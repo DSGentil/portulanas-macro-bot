@@ -751,5 +751,114 @@
     "origem": "domestica",
     "leitura_critica": "O acionamento do 'circuit breaker' na B3 indica uma forte volatilidade no mercado de ações, geralmente associada a eventos de grande impacto ou incerteza. Se essa volatilidade persistir ou for desencadeada por fatores macroeconômicos, pode sinalizar um aumento do risco percebido e afetar o fluxo de capital para a bolsa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793052055.6798892,
+    "titulo": "Vitória de Lula e expectativa de juros altos travam US$ 6 bilhões em potenciais ofertas de ações",
+    "titulo_original": "Vitória de Lula e expectativa de juros altos travam US$ 6 bilhões em potenciais ofertas de ações",
+    "fonte": "InvestNews",
+    "publicado": "26/10 14:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A vitória de Lula e a consequente expectativa de juros mais altos paralisaram ofertas de ações, indicando que o cenário macroeconômico é um fator decisivo para o mercado de capitais. Se a política monetária se mostrar mais restritiva do que o esperado, novas ofertas podem ser adiadas ou reavaliadas. A reversão desse cenário dependeria de sinais de estabilidade e controle inflacionário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793052060.8230157,
+    "titulo": "Dólar sobe até 12,2% e testa R$ 5,60, maior cotação desde junho de 2025",
+    "titulo_original": "Dólar sobe até 12,2% e testa R$ 5,60, maior cotação desde junho de 2025 - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/10 16:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do dólar indica uma desvalorização expressiva do real, possivelmente ligada à aversão ao risco após o resultado eleitoral. Se o Banco Central intervir no mercado de câmbio para conter a volatilidade, isso pode trazer alguma estabilidade. Caso contrário, a pressão sobre o real pode continuar, impactando importações e inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793052065.4847915,
+    "titulo": "Mercado vê fim do corte de juros e discute possível alta da Selic",
+    "titulo_original": "Mercado vê fim do corte de juros e discute possível alta da Selic - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/10 17:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa do mercado de que o ciclo de corte de juros pode ter chegado ao fim, com a possibilidade de uma alta na Selic, indica uma mudança de perspectiva sobre a política monetária. Se o Banco Central de fato sinalizar ou implementar uma alta, isso pode impactar o custo do crédito e a atratividade de investimentos em renda fixa. A inflação e os riscos fiscais serão fatores determinantes para essa decisão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793052070.1866326,
+    "titulo": "Dólar à vista avança 8,2%, maior alta diária desde 1999, com vitória de Lula",
+    "titulo_original": "Dólar à vista avança 8,2%, maior alta diária desde 1999, com vitória de Lula",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 17:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expressiva alta do dólar, a maior desde 1999, sinaliza uma forte aversão ao risco e descontentamento do mercado com o resultado eleitoral. Se o governo não apresentar um plano econômico que gere confiança, a pressão sobre o real pode persistir. A internalização de capital por exportadores pode ser um indicativo de que algumas empresas buscam se proteger da volatilidade cambial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793052076.0496063,
+    "titulo": "Ibovespa passa por ‘circuit breaker’ e cai quase 14% com liquidação após vitória de Lula",
+    "titulo_original": "Ibovespa passa por  ‘circuit breaker’ e cai quase 14% com liquidação após vitória de Lula",
+    "fonte": "Valor Economico",
+    "publicado": "26/10 17:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte queda do Ibovespa reflete um choque de expectativas do mercado, que estava posicionado para um cenário diferente. Se a gestão do novo governo sinalizar maior previsibilidade e controle fiscal, o mercado pode reagir positivamente em movimentos futuros. Caso contrário, a volatilidade pode persistir, impactando a confiança dos investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793052076.0511544,
+    "titulo": "Ibovespa desaba após reeleição de Lula e ações recuam até 58%; veja maiores quedas",
+    "titulo_original": "Ibovespa desaba após reeleição de Lula e ações recuam até 58%; veja maiores quedas - G1",
+    "fonte": "Google News Acoes",
+    "publicado": "26/10 17:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada do Ibovespa e de ações específicas demonstra um forte pessimismo do mercado com o resultado eleitoral. Se as políticas econômicas do novo governo não trouxerem confiança aos investidores, a recuperação do mercado de ações pode ser lenta. Acompanhar os primeiros anúncios de medidas econômicas será crucial para avaliar o futuro próximo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793052076.0526202,
+    "titulo": "Cenário de pessimismo intenso pode levar juros a 18% e dólar a R$ 6, diz Morgan Stanley",
+    "titulo_original": "Cenário de pessimismo intenso pode levar juros a 18% e dólar a R$ 6, diz Morgan Stanley - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/10 13:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Morgan Stanley de juros a 18% e dólar a R$ 6, em um cenário de pessimismo intenso, aponta para um risco de deterioração significativa das condições econômicas. Se os fatores que geram esse pessimismo se materializarem, como instabilidade política ou fiscal, o Banco Central pode ser forçado a elevar os juros drasticamente para conter a inflação e a desvalorização cambial. Acompanhar os indicadores que alimentam esse pessimismo será fundamental.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793052076.0540764,
+    "titulo": "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus as stocks rebound",
+    "titulo_original": "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus as stocks rebound",
+    "fonte": "ForexLive",
+    "publicado": "26/10 17:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das ações nos EUA, impulsionada por IPOs de IA e notícias sobre tarifas, sugere um apetite a risco renovado no mercado americano. A venda de títulos do Tesouro a um rendimento específico pode indicar um ponto de atenção para investidores que buscam retornos em renda fixa, com o mercado precificando um determinado nível de juros.",
+    "is_stocks": true
   }
 ]
