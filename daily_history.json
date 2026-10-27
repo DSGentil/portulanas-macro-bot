@@ -1,161 +1,5 @@
 [
   {
-    "_timestamp": 1793033145.721914,
-    "titulo": "Dólar dispara e se aproxima dos R$ 6,00 após as eleições - Notícias Agrícolas",
-    "titulo_original": "Dólar dispara e se aproxima dos R$ 6,00 após as eleições - Notícias Agrícolas",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/10 10:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aproximação do dólar a R$ 6,00 após as eleições indica uma forte aversão ao risco por parte dos investidores em relação ao Brasil. Se essa tendência se mantiver, o custo de importação e a inflação podem ser pressionados. Acompanhar a comunicação do novo governo sobre a política econômica será fundamental para determinar se essa desvalorização cambial será temporária ou mais duradoura.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793033150.7090435,
-    "titulo": "Durigan promete mudança na lei para buscar o centro da meta fiscal ainda este ano",
-    "titulo_original": "Durigan promete mudança na lei para buscar o centro da meta fiscal ainda este ano",
-    "fonte": "Money Times",
-    "publicado": "26/10 13:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A promessa de mudança na lei ou Constituição para atingir o centro da meta fiscal sinaliza uma intenção de ajuste nas contas públicas. Se essa promessa se concretizar em medidas eficazes, isso pode restaurar a confiança dos investidores e reduzir a percepção de risco fiscal. No entanto, a viabilidade e o impacto dessas mudanças dependerão dos detalhes e da aprovação legislativa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793033155.7509592,
-    "titulo": "Dólar sobe mais de 12% e passa de R$ 5,60 no day after da eleição",
-    "titulo_original": "Dólar sobe mais de 12% e passa de R$ 5,60  no day after da eleição",
-    "fonte": "InvestNews",
-    "publicado": "26/10 09:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta de mais de 12% no dólar, ultrapassando R$ 5,60, reflete uma forte desvalorização da moeda brasileira após a eleição. Se essa tendência persistir, o custo de importação e a inflação podem ser pressionados, impactando o poder de compra e a atividade econômica. A comunicação do governo sobre a política econômica e a gestão fiscal será crucial para estabilizar o câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793033160.7501338,
-    "titulo": "Brasil tem menor saldo em transações correntes em dois anos e registra aumento de investimentos diretos",
-    "titulo_original": "Brasil tem menor saldo em transações correntes em dois anos e registra aumento de investimentos diretos",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 10:13",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução do déficit em transações correntes e o aumento dos investimentos diretos são sinais positivos para a balança de pagamentos do Brasil. Se essa tendência de melhora se mantiver, isso pode contribuir para a estabilidade cambial e atrair mais capital estrangeiro. Contudo, a sustentabilidade desses indicadores dependerá da confiança dos investidores na política econômica do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793033167.1044366,
-    "titulo": "CEO da Petrobras vê queda das ações após vitória de Lula como especulativa",
-    "titulo_original": "CEO da Petrobras vê queda das ações após vitória de Lula como especulativa",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 13:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da CEO da Petrobras sugere uma divergência entre a percepção do mercado e os fundamentos da empresa. Se a empresa mantiver sua performance e estratégia, a queda atual pode ser vista como uma oportunidade de compra para investidores de longo prazo. No entanto, a influência de fatores políticos nas ações da estatal continuará sendo um ponto de atenção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793033167.1052763,
-    "titulo": "O que fazer com as ações após tombo do Ibovespa? Lúcio Moscareli, da Voga, diz se é hora de comprar",
-    "titulo_original": "O que fazer com as ações após tombo do Ibovespa? Lúcio Moscareli, da Voga, diz se é hora de comprar",
-    "fonte": "Money Times",
-    "publicado": "26/10 13:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte reação do mercado à eleição de Lula indica uma precificação de risco elevada no curto prazo. Se a análise de especialistas como Lúcio Moscareli se confirmar e houver oportunidades de compra, isso pode sugerir que o mercado está exagerando nas perdas. Acompanhar a evolução do dólar e a performance de setores específicos será crucial para identificar os ativos mais resilientes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793033167.1059692,
-    "titulo": "Ibovespa a 150 mil pontos e dólar a R$ 6? O que fazer – e o que evitar – com os mercados em pânico",
-    "titulo_original": "Ibovespa a 150 mil pontos e dólar a R$ 6? O que fazer – e o que evitar – com os mercados em pânico",
-    "fonte": "InvestNews",
-    "publicado": "26/10 13:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cenário de pânico no mercado, com quedas expressivas no Ibovespa e alta do dólar, sugere que a reeleição de Lula trouxe um choque de incerteza. Se as projeções de Ibovespa a 150 mil pontos e dólar a R$ 6 se concretizarem, isso indicaria um cenário de estresse financeiro significativo. A cautela e a análise de ativos defensivos podem ser estratégicas neste momento, enquanto se aguarda uma maior clareza sobre as políticas econômicas futuras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793033167.1066482,
-    "titulo": "BTG projeta queda de 30% do Ibovespa em dólar e juro real em 8%",
-    "titulo_original": "BTG projeta queda de 30% do Ibovespa em dólar e juro real em 8% - Brazil Journal",
-    "fonte": "Google News Acoes",
-    "publicado": "26/10 10:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do BTG de uma queda acentuada no Ibovespa em dólar e um juro real elevado sinaliza um cenário de pessimismo considerável. Se essa projeção se concretizar, o retorno real dos investimentos em renda fixa pode se tornar mais atrativo em comparação com a renda variável. A capacidade do governo em sinalizar uma gestão fiscal responsável será crucial para reverter essa tendência e atrair capital estrangeiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793033167.1073344,
-    "titulo": "Cenário de pessimismo intenso pode levar juros a 18% e dólar a R$ 6, diz Morgan Stanley",
-    "titulo_original": "Cenário de pessimismo intenso pode levar juros a 18% e dólar a R$ 6, diz Morgan Stanley",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 13:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Morgan Stanley de juros a 18% e dólar a R$ 6, caso não haja sinalização de ajustes fiscais, indica um cenário de forte deterioração da confiança do investidor. Se o governo não apresentar um plano crível para as contas públicas, a reversão da precificação de cortes de juros pode se intensificar, elevando o custo de capital e impactando a atividade econômica. A comunicação e as ações do Ministério da Fazenda serão determinantes para mitigar esse risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793033167.1079938,
-    "titulo": "B3 Cita Queda de 10% e Aciona Disjuntor na Abertura do Pregão À Vista após Reeleição de Lula - Forbes Brasil",
-    "titulo_original": "B3 Cita Queda de 10% e Aciona Disjuntor na Abertura do Pregão À Vista após Reeleição de Lula - Forbes Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "26/10 11:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O acionamento do 'circuit breaker' pela B3 indica uma volatilidade extrema nos mercados após a reeleição de Lula. Se a queda inicial de 10% se aprofundar, isso pode sinalizar um período de grande incerteza e aversão ao risco. Acompanhar a recuperação do índice e a comunicação das autoridades regulatórias será fundamental para entender a magnitude e a duração desse movimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793033167.1086335,
-    "titulo": "B3 esclarece por que não acionou segundo ‘circuit breaker’ após perdas do Ibovespa acima de 15%",
-    "titulo_original": "B3 esclarece por que não acionou segundo ‘circuit breaker’ após perdas do Ibovespa acima de 15%",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 12:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O esclarecimento da B3 sobre o acionamento dos 'circuit breakers' demonstra a gestão de riscos em momentos de alta volatilidade. Se o Ibovespa continuar a apresentar quedas significativas, a possibilidade de um novo 'circuit breaker' de 20% pode gerar mais incerteza no mercado. A recuperação do índice dependerá da reversão do sentimento de aversão ao risco e da clareza sobre as políticas econômicas futuras.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793039441.7224708,
     "titulo": "É cedo para saber o impacto da alta do dólar nas contas externas, diz Fernando Rocha, do BC",
     "titulo_original": "É cedo para saber o impacto da alta do dólar nas contas externas, diz Fernando Rocha, do BC",
@@ -1310,6 +1154,46 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A recomendação do BTG foca em setores que podem se beneficiar de um ambiente de juros altos e câmbio desvalorizado, indicando uma estratégia de proteção de carteira. Se o cenário de juros elevados e pressão sobre o real se mantiver, empresas com forte vocação exportadora podem apresentar desempenho superior.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793143839.0969737,
+    "titulo": "Fed deve segurar juros, mas analistas já veem nova alta em dezembro",
+    "titulo_original": "Fed deve segurar juros, mas analistas já veem nova alta em dezembro - Suno - Investimentos Inteligentes",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/10 16:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A expectativa de manutenção dos juros pelo Fed, seguida por uma possível alta em dezembro, sugere um cenário de política monetária restritiva nos Estados Unidos. Se a inflação continuar pressionada, o Fed pode optar por um ciclo de aperto mais prolongado, o que tenderia a fortalecer o dólar e impactar mercados emergentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793143845.4547453,
+    "titulo": "Mercado Bitcoin pede autorização para atuar como corretora de criptoativos",
+    "titulo_original": "Mercado Bitcoin pede autorização  para atuar como corretora de criptoativos",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 20:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O pedido de autorização do Mercado Bitcoin ao Banco Central indica um movimento de regulamentação do setor de criptoativos no Brasil. Se o pedido for aprovado, a empresa poderá operar sob novas regras, o que pode trazer mais segurança jurídica para seus clientes e para o mercado como um todo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793143845.4567156,
+    "titulo": "Ações da Boeing despencam 10% após redução de meta de entregas do 737",
+    "titulo_original": "Ações da Boeing despencam 10% após redução de meta de entregas do 737",
+    "fonte": "Folha Mercado",
+    "publicado": "27/10 19:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas ações da Boeing reflete preocupações com a capacidade de produção da empresa e o cumprimento de suas metas. Se as dificuldades de produção persistirem, isso pode impactar o setor aéreo globalmente, afetando companhias aéreas que dependem das entregas da Boeing.",
     "is_stocks": true
   }
 ]
