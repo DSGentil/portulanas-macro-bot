@@ -1151,5 +1151,138 @@
     "origem": "externa",
     "leitura_critica": "O investimento da Nvidia na Meta para a área de IA indica um fortalecimento da colaboração entre gigantes da tecnologia em um setor de alto crescimento. Se essa parceria resultar em avanços significativos em IA, pode impulsionar o setor de tecnologia globalmente e atrair mais capital para empresas do ramo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793114142.8983572,
+    "titulo": "Dívidas sem perspectiva de pagamento pelas famílias atingem maior nível desde 2012, diz BC",
+    "titulo_original": "Dívidas sem perspectiva de pagamento pelas famílias atingem maior nível desde 2012, diz BC",
+    "fonte": "Folha Mercado",
+    "publicado": "27/10 09:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento significativo do endividamento familiar sem perspectiva de pagamento é um sinal de alerta para a atividade econômica e o consumo. Se essa situação se agravar, pode levar a uma maior inadimplência e pressionar o sistema financeiro, potencialmente exigindo medidas de política monetária ou fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793114146.8924723,
+    "titulo": "Juros nos EUA: como a decisão do Fed amanhã pode impactar seus investimentos?",
+    "titulo_original": "Juros nos EUA: como a decisão do Fed amanhã pode impactar seus investimentos? - InvesTalk",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/10 11:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão de juros do Fed é um dos principais fatores que movem os mercados globais. Se o Fed sinalizar um aperto monetário mais agressivo, isso pode pressionar os juros no Brasil e afetar o fluxo de capital; caso contrário, um tom mais dovish pode trazer alívio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793114151.1730795,
+    "titulo": "Índice de confiança do consumidor dos EUA sobe a 91,7 em outubro, informa Conference Board",
+    "titulo_original": "Índice de confiança do consumidor dos EUA sobe a 91,7 em outubro, informa Conference Board",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 11:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento na confiança do consumidor dos EUA, acima do esperado, pode sinalizar uma demanda mais robusta e uma melhora nas expectativas econômicas. Se essa confiança se traduzir em maior consumo, pode sustentar a atividade econômica e, indiretamente, influenciar as decisões de juros do Fed, especialmente se a inflação permanecer sob controle.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793114155.224496,
+    "titulo": "US October Richmond Fed -2 vs -2 expected",
+    "titulo_original": "US October Richmond Fed -2 vs -2 expected",
+    "fonte": "ForexLive",
+    "publicado": "27/10 11:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O índice de atividade manufatureira do Richmond Fed ficou estável em -2, indicando contração, mas em linha com as expectativas. Se os componentes de emprego e novos pedidos continuarem a deteriorar, isso pode sinalizar uma desaceleração mais acentuada na atividade econômica dos EUA.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793114164.7072449,
+    "titulo": "Mercados hoje: cenário local e reunião do Fed no radar dos investidores",
+    "titulo_original": "Mercados hoje: cenário local e reunião do Fed no radar dos investidores - Bora Investir B3",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/10 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A reunião do Fed é um evento crucial que pode definir o rumo dos juros nos EUA e, por extensão, influenciar as decisões de política monetária no Brasil. Se o Fed sinalizar um aperto monetário, o Banco Central brasileiro pode ter que manter ou elevar a Selic para conter pressões inflacionárias e de câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793114164.7093024,
+    "titulo": "Boeing só atingirá meta de produção do 737 no início de 2027, diz presidente",
+    "titulo_original": "Boeing só atingirá meta de produção do 737 no início de 2027, diz presidente",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 11:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O atraso na produção da Boeing pode impactar a cadeia de suprimentos e a receita da empresa. Se a produção continuar a enfrentar gargalos, isso pode afetar o setor aeroespacial globalmente, mas a notícia em si foca no impacto direto na Boeing.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793114164.7119184,
+    "titulo": "Boeing tem dívida líquida de US$ 25,2 bilhões no terceiro trimestre",
+    "titulo_original": "Boeing tem dívida líquida de US$ 25,2 bilhões no terceiro trimestre",
+    "fonte": "Folha Mercado",
+    "publicado": "27/10 10:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O prejuízo e a alta dívida líquida da Boeing refletem dificuldades operacionais. Se esses problemas persistirem, podem afetar a capacidade da empresa de cumprir contratos e, consequentemente, a demanda por componentes e serviços relacionados, com potencial impacto em setores específicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793114164.713871,
+    "titulo": "Wall Street tem tom misto com alívio nos preços do petróleo e à espera de Fed",
+    "titulo_original": "Wall Street tem tom misto com alívio nos preços do petróleo e à espera de Fed",
+    "fonte": "Money Times",
+    "publicado": "27/10 11:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A expectativa pela decisão do Fed é o principal fator de cautela em Wall Street. Se o Fed adotar uma postura mais dura, isso pode pressionar os mercados acionários; um tom mais flexível pode gerar um movimento de alta. O alívio nos preços do petróleo pode ter um efeito positivo pontual.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793114164.7213778,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/10 10:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento da cotação do dólar é relevante para quem opera no mercado de câmbio. A volatilidade do dólar pode ser influenciada por decisões de juros nos EUA e pelo cenário econômico doméstico. Se houver movimentos bruscos, pode indicar pressões inflacionárias ou de fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793114164.7234,
+    "titulo": "Gerdau (GGBR4): uma ótima candidata para ser uma empresa dolarizada na carteira",
+    "titulo_original": "Gerdau (GGBR4): uma ótima candidata para ser uma empresa dolarizada na carteira",
+    "fonte": "Money Times",
+    "publicado": "27/10 10:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte desempenho financeiro da Gerdau, com aumento de Ebitda, reforça sua posição como empresa dolarizada. Se o cenário de commodities se mantiver favorável, isso pode sustentar os resultados da empresa. No entanto, a notícia foca no desempenho da empresa e não em um canal macroeconômico direto.",
+    "is_stocks": true
   }
 ]
