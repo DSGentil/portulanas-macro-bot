@@ -1,141 +1,5 @@
 [
   {
-    "_timestamp": 1793027746.2627141,
-    "titulo": "Estresse pós-eleição pode fazer dólar ter maior alta diária desde adoção de câmbio flutuante em 1999",
-    "titulo_original": "Estresse pós-eleição pode fazer dólar ter maior alta diária desde adoção de câmbio flutuante em 1999 - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/10 10:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A possibilidade de o dólar atingir a maior alta diária desde 1999 indica um cenário de forte volatilidade e incerteza no mercado cambial brasileiro após as eleições. Se essa alta se confirmar, o custo de importação e a inflação podem ser pressionados, enquanto exportadores podem se beneficiar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793027751.3158336,
-    "titulo": "Intenção de consumo das famílias cai 0,8% em outubro, diz CNC",
-    "titulo_original": "Intenção de consumo das famílias cai 0,8% em outubro, diz CNC",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 11:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda na intenção de consumo das famílias, especialmente em bens duráveis e com maior preocupação sobre o mercado de trabalho, sugere uma desaceleração no consumo privado. Se essa tendência se mantiver, pode impactar negativamente o crescimento econômico do país, especialmente se o emprego não apresentar melhora consistente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793027756.425168,
-    "titulo": "Índice de manufatura do Fed de Dallas em outubro foi 13.4 vs 9.8 anterior",
-    "titulo_original": "US October Dallas Fed manufacturing index 13.4 vs 9.8 prior",
-    "fonte": "ForexLive",
-    "publicado": "26/10 11:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O índice geral de manufatura do Fed de Dallas mostrou melhora, mas a queda acentuada nos novos pedidos pode sinalizar uma desaceleração futura na atividade. Se os comentários de empresas sobre custos e juros se materializarem em menor produção, isso pode impactar a leitura do próximo mês.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793027761.4116123,
-    "titulo": "União Europeia avalia seguir Trump e comprar participação em projetos de minerais críticos",
-    "titulo_original": "União Europeia avalia seguir Trump e comprar participação em projetos de minerais críticos",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 11:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A potencial iniciativa da União Europeia em adquirir participações em minerais críticos reflete uma tendência global de busca por segurança no fornecimento de insumos estratégicos. Se a proposta for concretizada, isso pode aumentar a demanda por esses minerais e influenciar os preços no mercado internacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793027768.2266352,
-    "titulo": "B3 suspende negociação devido ao acionamento do ‘circuit breaker’",
-    "titulo_original": "B3 suspende negociação devido ao acionamento do ‘circuit breaker’ - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "26/10 10:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acionamento do 'circuit breaker' na B3 sinaliza uma forte pressão vendedora e pânico no mercado, geralmente associado a eventos de grande impacto ou incerteza. Se a volatilidade persistir, isso pode levar a uma maior aversão ao risco e impactar o fluxo de capital para a bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793027768.2274983,
-    "titulo": "Anthropic entra com pedido de IPO mesmo com valuation abaixo de US$ 1 trilhão; veja números da empresa",
-    "titulo_original": "Anthropic entra com pedido de IPO mesmo com valuation abaixo de US$ 1 trilhão; veja números da empresa",
-    "fonte": "Money Times",
-    "publicado": "26/10 12:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O pedido de IPO da Anthropic, mesmo com uma avaliação abaixo de US$ 1 trilhão, demonstra o interesse contínuo no setor de inteligência artificial. Se a oferta for bem-sucedida, isso pode injetar capital na empresa e impulsionar o desenvolvimento de novas tecnologias, mas a avaliação inicial pode gerar cautela em alguns investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793027768.2283795,
-    "titulo": "Anthropic entra com pedido de IPO na Nasdaq, usará o símbolo 'ANT'",
-    "titulo_original": "Anthropic files for IPO on Nasdaq, will use the symbol 'ANT'",
-    "fonte": "ForexLive",
-    "publicado": "26/10 10:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O pedido de IPO da Anthropic na Nasdaq, com dívidas significativas registradas, indica um movimento estratégico para captar recursos e expandir suas operações em IA. Se a oferta for bem-sucedida, a empresa poderá fortalecer sua posição no mercado, mas a gestão da dívida será crucial para sua sustentabilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793027768.2290537,
-    "titulo": "Wall Street sobe com pedido de IPO da Anthropic e alívio nos preços do petróleo",
-    "titulo_original": "Wall Street sobe com pedido de IPO da Anthropic e alívio nos preços do petróleo",
-    "fonte": "Money Times",
-    "publicado": "26/10 11:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta em Wall Street, influenciada pelo IPO da Anthropic e pela queda nos preços do petróleo, sugere um otimismo pontual no mercado acionário. Se o alívio nos preços do petróleo for sustentado e o IPO da Anthropic for bem-sucedido, isso pode impulsionar ainda mais os índices; caso contrário, a recuperação pode ser temporária.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793027768.2299159,
-    "titulo": "Meta lança oferta de ações de US$ 35 bilhões para financiar expansão da IA",
-    "titulo_original": "Meta lança oferta de ações de US$ 35 bilhões para financiar expansão da IA",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 10:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A oferta de ações da Meta para financiar a expansão em IA demonstra o forte investimento do setor de tecnologia em inteligência artificial. Se o capital levantado for bem aplicado, a empresa pode consolidar sua posição em IA, mas a diluição para acionistas existentes e o retorno sobre o investimento serão pontos de atenção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793027768.2307463,
-    "titulo": "SpaceX firma acordo de US$ 40 bilhões para financiar equipamentos de data centers",
-    "titulo_original": "SpaceX firma acordo de US$ 40 bilhões para financiar equipamentos de data centers",
-    "fonte": "Money Times",
-    "publicado": "26/10 11:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O acordo de financiamento da SpaceX para data centers indica um investimento significativo em infraestrutura de tecnologia. Se a empresa conseguir executar seus planos de expansão, isso pode impulsionar o setor de data centers e a demanda por equipamentos relacionados, mas a viabilidade financeira a longo prazo dependerá da rentabilidade desses centros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793027768.2316482,
-    "titulo": "Ações de exportadoras operam na contramão e sobem na bolsa com a ajuda do dólar",
-    "titulo_original": "Ações de exportadoras operam na contramão e sobem na bolsa com a ajuda do dólar",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 11:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta das ações de exportadoras, beneficiadas pela valorização do dólar, indica um movimento de mercado específico para empresas com receita dolarizada em um cenário de câmbio volátil. Se o dólar continuar a se valorizar, essas ações podem apresentar desempenho superior; caso contrário, podem reverter os ganhos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793033145.721914,
     "titulo": "Dólar dispara e se aproxima dos R$ 6,00 após as eleições - Notícias Agrícolas",
     "titulo_original": "Dólar dispara e se aproxima dos R$ 6,00 após as eleições - Notícias Agrícolas",
@@ -1296,6 +1160,156 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O desempenho positivo da Gerdau nos EUA, compensando desafios em outras regiões, reforça a importância estratégica da operação americana para a empresa. Se essa tendência de forte geração de caixa se mantiver, pode indicar uma capacidade de investimento e distribuição de dividendos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793138451.1242747,
+    "titulo": "Analistas veem meses de tensão fiscal após reação do mercado a Lula",
+    "titulo_original": "Analistas veem meses de tensão fiscal após reação do mercado a Lula",
+    "fonte": "Folha Mercado",
+    "publicado": "27/10 14:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de tensão fiscal por meses indica que o mercado continuará a monitorar de perto as ações do governo em relação às contas públicas. Se o governo não conseguir apresentar um plano fiscal crível e eficaz, a pressão sobre os ativos brasileiros pode persistir; uma melhora na confiança fiscal, por outro lado, poderia aliviar essa tensão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793138456.441232,
+    "titulo": "BC só vai atuar no câmbio em caso de disfuncionalidade do mercado, diz Galípolo após alta do dólar",
+    "titulo_original": "BC só vai atuar no câmbio em caso de disfuncionalidade do mercado, diz Galípolo após alta do dólar",
+    "fonte": "Folha Mercado",
+    "publicado": "27/10 13:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Galípolo sinaliza que o Banco Central não tem como objetivo primário a gestão do câmbio, mas sim a estabilidade do mercado. Se o dólar continuar a apresentar movimentos bruscos e sem justificativa fundamental, o BC pode intervir, mas a ausência de intervenção direta sugere que a política monetária (juros) continuará sendo a principal ferramenta de controle da inflação e da economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793138461.8001108,
+    "titulo": "Após 'ressaca eleitoral', dólar recua a R$ 5,35 e Bolsa fecha em leve baixa - O GLOBO",
+    "titulo_original": "Após 'ressaca eleitoral', dólar recua a R$ 5,35 e Bolsa fecha em leve baixa - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/10 18:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A desvalorização do dólar após o período eleitoral sugere uma diminuição da aversão ao risco no curto prazo, mas a leve baixa da Bolsa indica que as incertezas fiscais e políticas ainda pesam. Se o cenário fiscal não apresentar melhoras claras, a pressão sobre a Bolsa pode persistir, mesmo com um dólar mais estável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793138467.2032042,
+    "titulo": "Alta dos juros reabre janela de oportunidades na renda fixa, diz XP",
+    "titulo_original": "Alta dos juros reabre janela de oportunidades na renda fixa, diz XP",
+    "fonte": "Money Times",
+    "publicado": "27/10 18:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão da XP de que a renda fixa permanece atrativa, mesmo com a incerteza política, sugere que os juros elevados continuam a oferecer retornos interessantes. Se a taxa Selic se mantiver em patamares altos por mais tempo, a renda fixa tenderá a ser uma opção mais segura e rentável em comparação com outros ativos de maior risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793138474.0282784,
+    "titulo": "Ibovespa destoa de ativos locais e amplia perdas após reeleição de Lula",
+    "titulo_original": "Ibovespa destoa de ativos locais e amplia perdas após reeleição de Lula",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 17:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reação negativa do Ibovespa, mesmo após uma queda anterior, sugere que o mercado financeiro ainda precifica um risco fiscal elevado com a nova gestão. Se o governo não apresentar medidas concretas para ajuste fiscal nos próximos meses, a pressão sobre a bolsa pode continuar; caso contrário, uma melhora na percepção de risco pode impulsionar uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793138474.030447,
+    "titulo": "Estabilidade do Ibovespa depende do fiscal e do indicado para a Fazenda, diz estrategista-chefe da Monte Bravo",
+    "titulo_original": "Estabilidade do Ibovespa depende do fiscal e do indicado para a Fazenda, diz estrategista-chefe da Monte Bravo",
+    "fonte": "Money Times",
+    "publicado": "27/10 17:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão de que a estabilidade do Ibovespa está atrelada à política fiscal e à escolha do Ministro da Fazenda reforça a importância desses fatores para o mercado. Se houver clareza e credibilidade nas ações fiscais e na condução da economia, o Ibovespa pode encontrar um caminho de recuperação; caso contrário, a volatilidade tende a persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793138474.032419,
+    "titulo": "Goldman e JPMorgan veem mercados mais estáveis pela frente, mas melhora só após medidas fiscais",
+    "titulo_original": "Goldman e JPMorgan veem mercados mais estáveis pela frente, mas melhora só após medidas fiscais",
+    "fonte": "InvestNews",
+    "publicado": "27/10 14:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A concordância entre grandes bancos como Goldman Sachs e JPMorgan sobre a necessidade de medidas fiscais para a estabilidade do mercado reforça a percepção de risco fiscal no Brasil. Se o governo conseguir apresentar um plano fiscal robusto e eficaz, a confiança dos investidores pode aumentar, levando a uma melhora nos mercados; a ausência dessas medidas pode prolongar a instabilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793138474.034414,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa volta a cair, após tombo da véspera; bancos recuam - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa volta a cair, após tombo da véspera; bancos recuam - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "27/10 15:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade da queda do Ibovespa, especialmente com o recuo dos bancos, sugere que as preocupações com o cenário fiscal e político persistem no mercado. Se as incertezas fiscais não forem dissipadas com clareza e ações concretas, a pressão sobre o índice tende a se manter, impactando negativamente o desempenho das ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793138474.0364149,
+    "titulo": "Ibovespa B3 cede 0,51%, puxado por minério de ferro e petróleo em baixa; dólar cai a R$ 5,35 - Bora Investir B3",
+    "titulo_original": "Ibovespa B3 cede 0,51%, puxado por minério de ferro e petróleo em baixa; dólar cai a R$ 5,35 - Bora Investir B3",
+    "fonte": "Google News Acoes",
+    "publicado": "27/10 17:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, atrelada à baixa de commodities, e a desvalorização do dólar indicam um cenário de menor aversão ao risco global, mas a performance da bolsa brasileira ainda pode estar sendo afetada por fatores domésticos, como as incertezas fiscais. Se os preços das commodities se recuperarem e os fatores fiscais domésticos forem resolvidos, o Ibovespa pode encontrar suporte.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793138474.0384462,
+    "titulo": "ICYMI: Notícias do mercado das Américas da investingLive: Ações de tecnologia disparam",
+    "titulo_original": "investingLive Americas market news wrap: Tech stocks rally",
+    "fonte": "ForexLive",
+    "publicado": "27/10 17:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Os dados econômicos dos EUA, em sua maioria positivos, podem sustentar um cenário de atividade robusta, o que pode influenciar as decisões futuras do Fed sobre juros. A notícia sobre Flávio Bolsonaro, embora não diretamente ligada a canais macroeconômicos, adiciona um elemento de volatilidade política ao contexto brasileiro, que pode ser interpretado pelo mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793138474.0404572,
+    "titulo": "É hora de proteger a carteira — e o BTG recomenda esta ação para isso",
+    "titulo_original": "É hora de proteger a carteira — e o BTG recomenda esta ação para isso",
+    "fonte": "Money Times",
+    "publicado": "27/10 18:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação do BTG foca em setores que podem se beneficiar de um ambiente de juros altos e câmbio desvalorizado, indicando uma estratégia de proteção de carteira. Se o cenário de juros elevados e pressão sobre o real se mantiver, empresas com forte vocação exportadora podem apresentar desempenho superior.",
     "is_stocks": true
   }
 ]
