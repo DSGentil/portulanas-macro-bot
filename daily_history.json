@@ -1284,5 +1284,133 @@
     "origem": "domestica",
     "leitura_critica": "O forte desempenho financeiro da Gerdau, com aumento de Ebitda, reforça sua posição como empresa dolarizada. Se o cenário de commodities se mantiver favorável, isso pode sustentar os resultados da empresa. No entanto, a notícia foca no desempenho da empresa e não em um canal macroeconômico direto.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793119544.032573,
+    "titulo": "Ministro da articulação política diz que ajuste fiscal não está em discussão e não é prioridade de Lula",
+    "titulo_original": "Ministro da articulação política diz que ajuste fiscal não está em discussão e não é prioridade de Lula",
+    "fonte": "Folha Mercado",
+    "publicado": "27/10 12:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro sobre a ausência de discussão de ajuste fiscal pode gerar incertezas sobre a trajetória das contas públicas brasileiras. Se o governo não apresentar um plano fiscal claro, isso pode afetar a percepção de risco do país e a confiança dos investidores na capacidade de controle da dívida.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793119549.072926,
+    "titulo": "Novas medidas contra superendividamento devem ser anunciadas ainda em 2026, diz Galípolo",
+    "titulo_original": "Novas medidas contra superendividamento devem ser anunciadas ainda em 2026, diz Galípolo",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 12:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O anúncio de novas medidas contra o superendividamento pelo Banco Central indica uma preocupação com a saúde financeira da população e pode ter impacto na oferta de crédito. Se as medidas forem eficazes, podem reduzir a inadimplência e melhorar o cenário de consumo; o aumento do endividamento pode pressionar a inflação no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793119554.0769904,
+    "titulo": "OceanPact (OPCT3): Citi inicia cobertura com recomendação de compra e calcula potencial de 48% para a ação",
+    "titulo_original": "OceanPact (OPCT3): Citi inicia cobertura com recomendação de compra e calcula potencial de 48% para a ação",
+    "fonte": "Money Times",
+    "publicado": "27/10 12:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação do Citi sugere uma visão otimista para a OceanPact, apesar das dificuldades gerais do mercado. Se o preço-alvo for atingido, isso representaria um ganho significativo para os acionistas; a performance futura dependerá da capacidade da empresa em executar sua estratégia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793119559.1709893,
+    "titulo": "Após 'ressaca eleitoral', dólar recua abaixo de R$ 5,40 e Bolsa opera estável - O GLOBO",
+    "titulo_original": "Após 'ressaca eleitoral', dólar recua abaixo de R$ 5,40 e Bolsa opera estável - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/10 09:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A acomodação do dólar e a estabilidade da Bolsa após as eleições indicam uma busca por normalização do mercado. Se essa tendência de recuo do dólar se mantiver, isso pode aliviar pressões inflacionárias importadas; a estabilidade da Bolsa sugere cautela dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793119565.3782647,
+    "titulo": "Itaú BBA vê oportunidade após tombo do Ibovespa e aponta 7 ações atrativas - Estadão",
+    "titulo_original": "Itaú BBA vê oportunidade após tombo do Ibovespa e aponta 7 ações atrativas - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "27/10 11:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise do Itaú BBA sugere que a recente queda do Ibovespa pode ter criado pontos de entrada interessantes para investidores. Se as ações recomendadas apresentarem bom desempenho, isso pode indicar uma recuperação setorial ou de empresas específicas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793119565.3804975,
+    "titulo": "VALE3: Ações da Vale caem com minério de ferro e corte de expectativas por Goldman - InfoMoney",
+    "titulo_original": "VALE3: Ações da Vale caem com minério de ferro e corte de expectativas por Goldman - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "27/10 12:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda das ações da Vale reflete a pressão negativa do preço do minério de ferro e a revisão de projeções pelo Goldman Sachs. Se o minério de ferro continuar em trajetória de baixa, isso pode pressionar ainda mais os resultados da mineradora; a confiança do mercado na Vale dependerá da demanda global por commodities.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793119565.3825295,
+    "titulo": "Ibovespa Futuro tenta recuperação após onda de vendas de ativos com reeleição de Lula - InfoMoney",
+    "titulo_original": "Ibovespa Futuro tenta recuperação após onda de vendas de ativos com reeleição de Lula - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "27/10 09:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A tentativa de recuperação do Ibovespa Futuro indica que o mercado pode estar precificando o cenário pós-eleitoral. Se a recuperação se sustentar, isso pode sinalizar um otimismo cauteloso dos investidores; a continuidade dessa tendência dependerá de outros fatores macroeconômicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793119565.3845687,
+    "titulo": "País precisa de nova resolução bancária; PLP 281 é uma lei moderna, diz diretor do BC",
+    "titulo_original": "País precisa de nova resolução bancária; PLP 281 é uma lei moderna, diz diretor do BC",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 13:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A defesa do PLP 281 pelo Banco Central indica a necessidade de modernizar o arcabouço regulatório para o setor bancário. Se o projeto for aprovado, isso pode aumentar a segurança do sistema financeiro e facilitar a intervenção em casos de crise; a demora na aprovação pode manter vulnerabilidades.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793119565.386572,
+    "titulo": "Ressaca do ‘circuit breaker’: Ibovespa futuro ensaia alta, dólar e juros futuros caem - Exame",
+    "titulo_original": "Ressaca do ‘circuit breaker’: Ibovespa futuro ensaia alta, dólar e juros futuros caem - Exame",
+    "fonte": "Google News Acoes",
+    "publicado": "27/10 09:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar e dos juros futuros após o 'circuit breaker' sugere uma normalização do mercado e um alívio nas tensões. Se essa tendência se confirmar, pode indicar um ambiente mais favorável para investimentos de renda fixa e variável; a recuperação do Ibovespa Futuro dependerá da percepção de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793119565.3886058,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa passa a oscilar após forte tombo de ontem - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa passa a oscilar após forte tombo de ontem - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "27/10 11:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A oscilação do Ibovespa após um forte tombo indica que o mercado está digerindo os eventos recentes e buscando um novo patamar. Se a volatilidade persistir, pode ser um sinal de incerteza; uma recuperação sustentada dependerá de fatores macroeconômicos e da percepção de risco.",
+    "is_stocks": true
   }
 ]
