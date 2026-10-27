@@ -1,121 +1,5 @@
 [
   {
-    "_timestamp": 1793020559.3209057,
-    "titulo": "Mercado abre fazendo ajuste e Bolsa deve cair 12% e dólar subir cerca de 10%. Entenda",
-    "titulo_original": "Mercado abre fazendo ajuste e Bolsa deve cair 12% e dólar subir cerca de 10%. Entenda - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/10 08:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte desvalorização esperada para a Bolsa e a valorização do dólar indicam um cenário de aversão ao risco no mercado doméstico. Se os fatores que impulsionam essa correção forem temporários, o mercado pode se recuperar rapidamente; caso contrário, pode ser o início de um período de maior volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793020563.3668883,
-    "titulo": "Economistas reduzem previsão de inflação, PIB e dólar neste ano",
-    "titulo_original": "Economistas reduzem previsão de inflação, PIB e dólar neste ano",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 09:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução nas projeções de inflação e juros, juntamente com a revisão para baixo do PIB e dólar, sugere um cenário de maior controle inflacionário e desaceleração econômica. Se os dados futuros confirmarem essa tendência, o Banco Central pode ter mais espaço para cortes de juros; caso contrário, a inflação pode voltar a pressionar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793020567.4912126,
-    "titulo": "Análise: BC deve agir para assegurar estabilidade financeira em meio a turbulência enquanto mercado aguarda âncora",
-    "titulo_original": "Análise: BC deve agir para assegurar estabilidade financeira em meio a turbulência enquanto mercado aguarda âncora",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 09:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A atuação do Banco Central para garantir a estabilidade financeira em meio à turbulência pós-eleitoral é crucial. Se o BC conseguir conter a volatilidade e evitar a instabilidade sistêmica, o mercado poderá se ajustar gradualmente; caso contrário, a incerteza pode se prolongar, afetando a confiança dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793020571.8403227,
-    "titulo": "Fluxo cambial está positivo em US$ 5,249 bilhões em outubro até dia 21",
-    "titulo_original": "Fluxo cambial está positivo em US$ 5,249 bilhões em outubro até dia 21",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 09:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O fluxo cambial positivo indica entrada líquida de dólares na economia brasileira. Se essa tendência se mantiver, pode contribuir para a estabilidade do câmbio; caso contrário, uma reversão no fluxo financeiro poderia pressionar a moeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793020577.155291,
-    "titulo": "Confiança do consumidor sobe em outubro após cinco quedas seguidas, diz FGV",
-    "titulo_original": "Confiança do consumidor sobe em outubro após cinco quedas seguidas, diz FGV",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 10:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento na confiança do consumidor pode indicar uma melhora gradual no cenário de consumo. Se essa tendência se mantiver nos próximos meses, poderá sinalizar uma recuperação mais robusta da atividade econômica; caso contrário, pode ser apenas um repique pontual.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793020577.1560125,
-    "titulo": "Tesouro Nacional cancela leilões de NTN-B e títulos prefixados desta semana",
-    "titulo_original": "Tesouro Nacional cancela leilões de NTN-B e títulos prefixados desta semana",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 09:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cancelamento de leilões de títulos públicos reflete a incerteza do mercado após a reeleição presidencial, com juros futuros atingindo limites de oscilação. Se o Tesouro Nacional retomar os leilões com taxas mais altas para atrair investidores, isso sinalizará uma maior demanda por prêmio de risco; caso contrário, a ausência de oferta pode gerar escassez e volatilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793020577.1567192,
-    "titulo": "Sessão europeia: Ações se recuperam com alívio no petróleo, títulos franceses encontram alívio",
-    "titulo_original": "investingLive European session wrap: Stocks rebound as oil eases, French bonds find relief",
-    "fonte": "ForexLive",
-    "publicado": "26/10 09:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recuperação das ações europeias e o alívio nos títulos franceses sugerem uma diminuição temporária da aversão ao risco. Se os bancos centrais apresentarem surpresas nas suas próximas decisões, isso poderá reverter o sentimento do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793020577.157543,
-    "titulo": "B3 eleva limite superior de negociação de contratos futuros de dólar de 6% para 8,4%",
-    "titulo_original": "B3 eleva limite superior de negociação de contratos futuros de dólar de 6% para 8,4% - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "26/10 09:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do limite de negociação de contratos futuros de dólar pode indicar uma tentativa de acomodar maior volatilidade no mercado de câmbio. Se essa medida for acompanhada por outras ações para estabilizar a moeda, pode ajudar a mitigar oscilações bruscas; caso contrário, pode apenas refletir a expectativa de maior volatilidade.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793027746.2627141,
     "titulo": "Estresse pós-eleição pode fazer dólar ter maior alta diária desde adoção de câmbio flutuante em 1999",
     "titulo_original": "Estresse pós-eleição pode fazer dólar ter maior alta diária desde adoção de câmbio flutuante em 1999 - Valor Econômico",
@@ -1324,6 +1208,94 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A recuperação das bolsas europeias, influenciada pela queda nos preços do petróleo, sugere uma melhora temporária no sentimento de risco global. A performance divergente de Londres, pressionada por resultados corporativos específicos, destaca a importância dos fundamentos de cada empresa no desempenho do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793133066.8706238,
+    "titulo": "BC: Pix responde por 55,2% das transações de pagamentos do 1º semestre",
+    "titulo_original": "BC: Pix responde por 55,2% das transações de pagamentos do 1º semestre",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 16:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A consolidação do Pix como meio de pagamento predominante indica uma mudança estrutural no comportamento do consumidor brasileiro. Se a tendência de crescimento se mantiver, isso pode pressionar a infraestrutura bancária tradicional e abrir novas oportunidades para serviços financeiros digitais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793133071.395772,
+    "titulo": "Prioridade no Congresso são PEC da Segurança, MP das Bets, Orçamento e tarifa, diz Guimarães",
+    "titulo_original": "Prioridade no Congresso são PEC da Segurança, MP das Bets, Orçamento e tarifa, diz Guimarães",
+    "fonte": "Money Times",
+    "publicado": "27/10 15:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A definição de prioridades legislativas pelo governo sinaliza a agenda política em andamento. A aprovação da MP das Bets, em particular, pode ter implicações regulatórias e fiscais para o setor de apostas esportivas. Se essas pautas avançarem, podem gerar mudanças no ambiente de negócios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793133075.9143627,
+    "titulo": "Dólar à vista hoje corrige excessos após disparada da véspera",
+    "titulo_original": "Dólar à vista hoje corrige excessos após disparada da véspera - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/10 13:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A correção do dólar após uma forte alta sugere uma possível normalização das expectativas de mercado ou a realização de lucros. Se essa tendência de queda se confirmar, pode indicar uma menor pressão sobre a inflação importada e um alívio para o custo de produtos e serviços dolarizados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793133080.5104418,
+    "titulo": "Juros altos e dólar em disparada: o que esperar do crédito em 2027?",
+    "titulo_original": "Juros altos e dólar em disparada: o que esperar do crédito em 2027? - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/10 16:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O cenário de juros altos e dólar em disparada sugere um ambiente de crédito mais restritivo e caro. Se essa tendência se mantiver, pode haver um impacto negativo no consumo e nos investimentos, exigindo estratégias de gestão de risco mais robustas por parte das empresas e consumidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793133085.7466002,
+    "titulo": "Vemos espaço para crescer em minério de ferro, apesar de cenário pressionado da commodity, diz Gerdau",
+    "titulo_original": "Vemos espaço para crescer em minério de ferro, apesar de cenário pressionado da commodity, diz Gerdau - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "27/10 14:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da Gerdau sobre o minério de ferro sugere uma visão otimista sobre a demanda futura, possivelmente impulsionada por projetos de infraestrutura ou pela recuperação de setores industriais. Se a empresa conseguir expandir sua atuação, isso pode se refletir em seus resultados financeiros e na produção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793133085.7487512,
+    "titulo": "Gerdau vê vendas menores na América do Norte no 4º trimestre, mas margem estável",
+    "titulo_original": "Gerdau vê vendas menores na América do Norte no 4º trimestre, mas margem estável",
+    "fonte": "Folha Mercado",
+    "publicado": "27/10 14:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A expectativa de vendas menores na América do Norte, mas com margem estável, indica que a Gerdau pode estar focando em eficiência e precificação para compensar a menor demanda. Se a margem se mantiver, isso pode ser um sinal de resiliência operacional da empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793133085.7507257,
+    "titulo": "Força dos EUA e geração de caixa dominam leitura de analistas sobre resultado da Gerdau",
+    "titulo_original": "Força dos EUA e geração de caixa dominam leitura de analistas sobre resultado da Gerdau",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 16:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho positivo da Gerdau nos EUA, compensando desafios em outras regiões, reforça a importância estratégica da operação americana para a empresa. Se essa tendência de forte geração de caixa se mantiver, pode indicar uma capacidade de investimento e distribuição de dividendos.",
     "is_stocks": true
   }
 ]
