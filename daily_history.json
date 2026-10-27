@@ -1,202 +1,5 @@
 [
   {
-    "_timestamp": 1793012442.3730166,
-    "titulo": "Sem ajuste fiscal crível, economia em novo governo Lula pode entrar em recessão, diz Solange Srour",
-    "titulo_original": "Sem ajuste fiscal crível, economia em novo governo Lula pode entrar em recessão, diz Solange Srour",
-    "fonte": "InvestNews",
-    "publicado": "25/10 22:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ausência de um plano fiscal crível é apontada como um risco para a economia brasileira, com potencial para recessão e aumento de juros. Se os gastos públicos não forem controlados, a trajetória da dívida pode se deteriorar, impactando a confiança dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793012446.3046103,
-    "titulo": "Real cai 10% no mercado futuro ante dólar após reeleição de Lula - InfoMoney",
-    "titulo_original": "Real cai 10% no mercado futuro ante dólar após reeleição de Lula - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/10 22:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte desvalorização do real no mercado futuro sugere uma reação negativa do mercado à reeleição de Lula, possivelmente ligada a preocupações fiscais ou de política econômica. Se essa tendência se mantiver, pode haver pressão sobre a inflação e o custo de importação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793012450.1702454,
-    "titulo": "Equipe de Lula prepara PEC para buscar centro da meta fiscal e prevê menos crédito subsidiado",
-    "titulo_original": "Equipe de Lula prepara PEC para buscar centro da meta fiscal e prevê menos crédito subsidiado",
-    "fonte": "Folha Mercado",
-    "publicado": "25/10 20:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de PEC para buscar o centro da meta fiscal e a redução do crédito subsidiado indicam uma tentativa de controle das contas públicas. Se aprovada, essa medida pode trazer mais previsibilidade fiscal, mas a redução do crédito pode impactar setores específicos da economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793012454.4099226,
-    "titulo": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana - Agência Brasil",
-    "titulo_original": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/10 19:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do real e o fechamento do dólar abaixo de R$ 5 na semana podem indicar uma melhora temporária na confiança do mercado ou fatores técnicos. Se essa tendência de valorização do real se sustentar, pode haver um impacto positivo nas importações e no controle da inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793012459.6284525,
-    "titulo": "Fim de semana - China adverte sobre contramedidas enquanto Tesouro dos EUA amplia restrições de investimento em tecnologia para biotecnologia",
-    "titulo_original": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
-    "fonte": "ForexLive",
-    "publicado": "25/10 17:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A expansão das restrições de investimento dos EUA em setores estratégicos da China pode levar a retaliações por parte de Pequim, aumentando a incerteza para ativos expostos à China. A falta de clareza sobre as contramedidas chinesas mantém os investidores cautelosos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793012459.6288931,
-    "titulo": "Petrobras despenca 12%, Vale cai 4% e EWZ tomba 19%: a reação imediata à vitória de Lula — e o que vem por aí",
-    "titulo_original": "Petrobras despenca 12%, Vale cai 4% e EWZ tomba 19%: a reação imediata à vitória de Lula — e o que vem por aí - Seu Dinheiro",
-    "fonte": "Google News Acoes",
-    "publicado": "25/10 22:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda das ações de Petrobras e Vale, bem como do ETF EWZ, indica uma reação negativa imediata do mercado à vitória de Lula. Se as políticas do novo governo forem percebidas como desfavoráveis ao setor de commodities, essa tendência de queda pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793012459.629364,
-    "titulo": "ETF de ações brasileiras cai mais de 27% no exterior com vitória de Lula. Veja o que esperar no mercado",
-    "titulo_original": "ETF de ações brasileiras cai mais de 27% no exterior com vitória de Lula. Veja o que esperar no mercado",
-    "fonte": "InvestNews",
-    "publicado": "25/10 21:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda expressiva do ETF de ações brasileiras no exterior reflete uma forte aversão ao risco por parte de investidores internacionais após a vitória de Lula. Se as políticas futuras do governo não mitigarem essas preocupações, a saída de capital estrangeiro pode continuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793012459.6298115,
-    "titulo": "Virada de Lula reverte rali eleitoral e derruba ativos brasileiros antes da abertura da B3 - Bloomberg Línea Brasil",
-    "titulo_original": "Virada de Lula reverte rali eleitoral e derruba ativos brasileiros antes da abertura da B3 - Bloomberg Línea Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "25/10 22:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A reversão do rali eleitoral e a queda dos ativos brasileiros antes da abertura da B3 demonstram uma forte reação negativa do mercado à vitória de Lula. Se as expectativas sobre as políticas econômicas do novo governo forem desfavoráveis, a pressão sobre os ativos pode continuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793012459.6302814,
-    "titulo": "Dez ações concentram mais da metade do Ibovespa; veja o que isso significa para o investidor",
-    "titulo_original": "Dez ações concentram mais da metade do Ibovespa; veja o que isso significa para o investidor",
-    "fonte": "Folha Mercado",
-    "publicado": "25/10 23:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A crescente concentração do Ibovespa em poucas ações pode aumentar a volatilidade do índice, tornando-o mais sensível a movimentos dessas empresas específicas. Para o investidor, isso pode significar uma necessidade de diversificação mais cuidadosa dentro da própria bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793014248.794069,
-    "titulo": "Ativos brasileiros despencam até 30% no pré-mercado dos EUA e acendem alerta para circuit breaker",
-    "titulo_original": "Ativos brasileiros despencam até 30% no pré-mercado dos EUA e acendem alerta para circuit breaker",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 08:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte desvalorização dos ativos brasileiros no pré-mercado dos EUA, após o resultado eleitoral, indica uma reação negativa do mercado à reeleição do presidente Lula. Se essa tendência se mantiver, poderá haver maior volatilidade e a possibilidade de acionamento de circuit breakers, impactando a liquidez e o fluxo de capital para o país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793014252.7593012,
-    "titulo": "Agenda do dia: Boletim Focus; Nota do Setor Externo; Relatório da Dívida Pública",
-    "titulo_original": "Agenda do dia: Boletim Focus; Nota do Setor Externo; Relatório da Dívida Pública",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 08:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação do Boletim Focus e do Relatório da Dívida Pública pode fornecer indicativos sobre as expectativas de mercado para a inflação e a trajetória fiscal do país. Se os dados apresentarem desvios significativos em relação às projeções, isso poderá influenciar as decisões futuras do Banco Central e a percepção de risco dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793014256.7494266,
-    "titulo": "Prévia do orçamento de outono do Reino Unido: Healey pode acalmar mercados e mudar apostas de juros do BOE?",
-    "titulo_original": "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
-    "fonte": "ForexLive",
-    "publicado": "26/10 07:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A apresentação do orçamento de outono no Reino Unido pode fornecer pistas sobre a estratégia fiscal do governo para combater a inflação e influenciar as decisões futuras do Banco da Inglaterra sobre a taxa de juros. Se o orçamento apresentar medidas fiscais mais restritivas, isso poderá reforçar a expectativa de altas de juros; caso contrário, pode abrir espaço para uma postura mais cautelosa do BOE.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793014260.7366478,
-    "titulo": "Bolsas globais oscilam com petróleo e decisões de juros no radar",
-    "titulo_original": "Bolsas globais oscilam com petróleo e decisões de juros no radar - UOL Economia",
-    "fonte": "Google News Commodities",
-    "publicado": "26/10 07:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A notícia aponta para a influência do preço do petróleo e das decisões de juros nos mercados globais. Se as próximas decisões de juros forem mais restritivas do que o esperado, isso poderá pressionar as bolsas globais; caso contrário, um cenário de juros mais baixos poderia impulsionar os mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793014265.7904449,
-    "titulo": "ITUB4, SANB11 ou BBAS3: qual banco é a melhor aposta para a temporada de balanços do 3T26?",
-    "titulo_original": "ITUB4, SANB11 ou BBAS3: qual banco é a melhor aposta para a temporada de balanços do 3T26?",
-    "fonte": "Money Times",
-    "publicado": "26/10 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia foca na temporada de balanços de empresas do setor bancário, um componente importante do Ibovespa. Se os resultados apresentarem surpresas significativas, tanto positivas quanto negativas, isso poderá influenciar o desempenho do índice e, indiretamente, o sentimento do mercado. No entanto, não se trata de uma decisão macroeconômica direta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793014265.7911274,
-    "titulo": "FTSE 100 sobe com alta do ouro e mineradoras; petróleo cai com negociações sobre o Irã",
-    "titulo_original": "FTSE 100 sobe com alta do ouro e mineradoras; petróleo cai com negociações sobre o Irã - ADVFN",
-    "fonte": "Google News Commodities",
-    "publicado": "26/10 07:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia descreve movimentos em um índice de bolsa estrangeiro, influenciados por commodities como ouro e petróleo. A queda do petróleo pode ter implicações para a inflação global, mas a notícia em si não detalha essa conexão. A relevância para o WDO é indireta, ligada a movimentos de commodities e sentimento global.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793020559.3209057,
     "titulo": "Mercado abre fazendo ajuste e Bolsa deve cair 12% e dólar subir cerca de 10%. Entenda",
     "titulo_original": "Mercado abre fazendo ajuste e Bolsa deve cair 12% e dólar subir cerca de 10%. Entenda - O GLOBO",
@@ -1411,6 +1214,116 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A oscilação do Ibovespa após um forte tombo indica que o mercado está digerindo os eventos recentes e buscando um novo patamar. Se a volatilidade persistir, pode ser um sinal de incerteza; uma recuperação sustentada dependerá de fatores macroeconômicos e da percepção de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793125843.9997053,
+    "titulo": "Flávio Bolsonaro supostamente foge do Brasil para os EUA após derrota eleitoral",
+    "titulo_original": "Flávio Bolsonaro reportedly flees Brazil for the US after election loss",
+    "fonte": "ForexLive",
+    "publicado": "27/10 14:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sugere um cenário de incerteza política e legal para Flávio Bolsonaro. Se confirmada a saída e a concessão de asilo, isso pode gerar repercussões diplomáticas e reforçar a percepção de instabilidade no ambiente político brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793125848.2989836,
+    "titulo": "Durigan autoriza nova recompra de títulos pelo Tesouro após turbulência no mercado",
+    "titulo_original": "Durigan autoriza nova recompra de títulos pelo Tesouro após turbulência no mercado",
+    "fonte": "Folha Mercado",
+    "publicado": "27/10 11:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de autorizar recompra de títulos pelo Tesouro Nacional indica uma tentativa de estabilizar o mercado financeiro em um cenário de incerteza pós-eleitoral. Se a intervenção for eficaz, pode reduzir a volatilidade e restaurar a confiança dos investidores na dívida pública brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793125852.6670308,
+    "titulo": "Safra de soja do Brasil poderia cair a 163,6 mi t em cenário de perdas por El Niño, diz Serasa",
+    "titulo_original": "Safra de soja do Brasil poderia cair a 163,6 mi t em cenário de perdas por El Niño, diz Serasa - Notícias Agrícolas",
+    "fonte": "Google News Commodities",
+    "publicado": "27/10 11:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de queda na safra de soja devido ao El Niño pode impactar os preços da commodity no mercado internacional. Se as perdas forem confirmadas, isso pode afetar a balança comercial brasileira e a renda dos produtores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793125856.872581,
+    "titulo": "Revolut triplica capital da sua sociedade de crédito no Brasil",
+    "titulo_original": "Revolut triplica capital da sua sociedade de crédito no Brasil",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 14:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento de capital da Revolut no Brasil sinaliza um compromisso de longo prazo da fintech com o mercado local e sua estratégia de crescimento. Se a empresa continuar a expandir sua base de clientes e produtos, pode se tornar um player mais relevante no setor financeiro brasileiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793125862.3383107,
+    "titulo": "Shopee eleva capacidade em 60% em um ano e aguarda Anvisa para venda de medicamentos",
+    "titulo_original": "Shopee eleva capacidade em 60% em um ano e aguarda Anvisa para venda de medicamentos",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 15:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O investimento em logística pela Shopee demonstra um movimento de consolidação e expansão no mercado brasileiro de e-commerce. A potencial entrada na venda de medicamentos pode representar um novo segmento de mercado para a plataforma, dependendo da regulamentação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793125862.3404646,
+    "titulo": "Veículos de imprensa da Noruega recorrem à Justiça para impedir uso de conteúdo pela Meta",
+    "titulo_original": "Veículos de imprensa da Noruega recorrem à Justiça para impedir uso de conteúdo pela Meta",
+    "fonte": "Folha Mercado",
+    "publicado": "27/10 14:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A disputa legal entre veículos de imprensa e a Meta levanta questões sobre direitos autorais e o uso de conteúdo para treinamento de IA. Se a decisão for desfavorável à Meta, isso pode impactar o desenvolvimento de modelos de IA e a forma como empresas de tecnologia interagem com criadores de conteúdo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793125862.3425677,
+    "titulo": "Para sócio da maior acionista privada da Petrobras, sair do Brasil seria erro",
+    "titulo_original": "Para sócio da maior acionista privada da Petrobras, sair do Brasil seria erro",
+    "fonte": "InvestNews",
+    "publicado": "27/10 13:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A opinião de um investidor relevante como Rajiv Jain sugere que o mercado pode estar superestimando os riscos associados à reeleição de Lula. Se a Petrobras apresentar bons resultados operacionais, a percepção de risco pode diminuir, favorecendo o desempenho das ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793125862.3446584,
+    "titulo": "Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente?",
+    "titulo_original": "Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente? - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/10 14:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A correlação entre a alta do dólar e o desempenho das ações da Suzano indica o impacto do câmbio nos resultados da empresa. A análise futura dependerá de fatores como a demanda global por celulose e a estabilidade cambial.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793125862.3467786,
+    "titulo": "Bolsas europeias sobem com alívio no petróleo; Londres cai pressionada pelo HSBC",
+    "titulo_original": "Bolsas europeias sobem com alívio no petróleo; Londres cai pressionada pelo HSBC",
+    "fonte": "Valor Economico",
+    "publicado": "27/10 14:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das bolsas europeias, influenciada pela queda nos preços do petróleo, sugere uma melhora temporária no sentimento de risco global. A performance divergente de Londres, pressionada por resultados corporativos específicos, destaca a importância dos fundamentos de cada empresa no desempenho do mercado.",
     "is_stocks": true
   }
 ]
