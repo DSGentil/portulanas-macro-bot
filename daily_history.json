@@ -1,353 +1,5 @@
 [
   {
-    "_timestamp": 1793039441.7224708,
-    "titulo": "É cedo para saber o impacto da alta do dólar nas contas externas, diz Fernando Rocha, do BC",
-    "titulo_original": "É cedo para saber o impacto da alta do dólar nas contas externas, diz Fernando Rocha, do BC",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 14:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do Banco Central indica cautela quanto aos efeitos imediatos da volatilidade cambial. Se a desvalorização do real se mostrar persistente, o impacto nas transações correntes e na balança comercial pode ser mais significativo do que o esperado inicialmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793039445.6709268,
-    "titulo": "BC define regra para Pix no crédito e cria alertas contra endividamento",
-    "titulo_original": "BC define regra para Pix no crédito e cria alertas contra endividamento",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 13:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A nova regulamentação do Banco Central para o Pix no crédito visa proteger o consumidor e aumentar a transparência. Se as novas regras forem eficazes em coibir o endividamento excessivo, isso pode impactar o volume de crédito disponível e as taxas de juros praticadas nessa modalidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793039449.567301,
-    "titulo": "Tesouro cancela leilões de títulos prefixados e atrelados à inflação previstos para esta semana",
-    "titulo_original": "Tesouro cancela leilões de títulos prefixados e atrelados à inflação previstos para esta semana",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 11:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cancelamento dos leilões de títulos pelo Tesouro Nacional sinaliza cautela em um cenário de alta volatilidade e incerteza pós-eleitoral. Se a instabilidade persistir, o governo pode ter dificuldades em rolar sua dívida pública a custos favoráveis, impactando as taxas de juros de longo prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793039453.5496056,
-    "titulo": "Tesouro Direto suspende negociações após alta dos juros. Veja o que muda para o investidor",
-    "titulo_original": "Tesouro Direto suspende negociações após alta dos juros. Veja o que muda para o investidor",
-    "fonte": "InvestNews",
-    "publicado": "26/10 12:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A suspensão de negociações no Tesouro Direto reflete a volatilidade do mercado de juros após a eleição. Se a alta dos juros se consolidar, títulos prefixados e atrelados à inflação podem se tornar menos atrativos, enquanto títulos pós-fixados podem ganhar preferência dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793039458.4028094,
-    "titulo": "Entenda o que é o circuit breaker e quantas vezes o mecanismo já foi acionado na Bolsa",
-    "titulo_original": "Entenda o que é o circuit breaker e quantas vezes o mecanismo já foi acionado na Bolsa",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 12:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acionamento do circuit breaker indica forte volatilidade no mercado acionário brasileiro, reflexo da incerteza pós-eleitoral. Se a pressão vendedora persistir, o Ibovespa pode continuar em trajetória de queda, exigindo atenção dos investidores a possíveis novas quedas acentuadas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793039458.4041271,
-    "titulo": "Bolsas europeias fecham em alta com alívio no preço do petróleo e nos juros",
-    "titulo_original": "Bolsas europeias fecham em alta com alívio no preço do petróleo e nos juros",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 13:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta nas bolsas europeias reflete um otimismo pontual com a estabilidade de juros e preços de petróleo. No entanto, a expectativa pelas decisões de política monetária do Fed e BCE ao longo da semana pode gerar volatilidade, especialmente se as decisões vierem em desacordo com as expectativas do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793046650.384607,
-    "titulo": "Juro alto segue como principal pressão sobre a construção, mas confiança dos empresários avança, diz CNI",
-    "titulo_original": "Juro alto segue como principal pressão sobre a construção, mas confiança dos empresários avança, diz CNI",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 17:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistência dos juros altos como principal entrave para o setor de construção indica que a demanda por crédito e investimentos pode continuar restrita. No entanto, a melhora na confiança dos empresários sugere uma expectativa de melhora futura, caso as condições de crédito se tornem mais favoráveis.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793046654.8456879,
-    "titulo": "BC abre consulta para dar mais transparência à oferta de CDBs após caso Master",
-    "titulo_original": "BC abre consulta para dar mais transparência à oferta de CDBs após caso Master",
-    "fonte": "Folha Mercado",
-    "publicado": "26/10 16:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A abertura de consulta pública pelo Banco Central para aumentar a transparência na oferta de CDBs é uma medida regulatória que visa proteger investidores e a integridade do mercado financeiro. Se as propostas forem implementadas, podem gerar maior confiança e segurança na aplicação em títulos de renda fixa bancária, potencialmente influenciando o comportamento de investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793046659.3335748,
-    "titulo": "Petróleo cai com perspectiva de negociações no Oriente Médio",
-    "titulo_original": "Petróleo cai com perspectiva de negociações no Oriente Médio",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 16:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda nos preços do petróleo, impulsionada por sinais de desescalada diplomática no Oriente Médio, pode aliviar pressões inflacionárias globais. Se as negociações avançarem e a oferta de petróleo se normalizar, isso poderia impactar positivamente a inflação e, consequentemente, as decisões de política monetária de bancos centrais ao redor do mundo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793046663.7679014,
-    "titulo": "EUA e Canadá trabalhando em acordo para aliviar tarifas sobre aço e importações de automóveis canadenses",
-    "titulo_original": "US and Canada working on deal to ease tariffs on Canadian steel and auto imports",
-    "fonte": "ForexLive",
-    "publicado": "26/10 16:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Um acordo para aliviar tarifas entre EUA e Canadá pode reduzir custos para setores específicos e potencialmente impulsionar o comércio bilateral. Se o acordo for concretizado, pode haver um impacto positivo em cadeias de suprimentos globais e, indiretamente, em empresas que dependem dessas importações ou exportações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793046668.8523302,
-    "titulo": "B3 aciona \"circuit breaker\" e suspende negociações por 30 minutos",
-    "titulo_original": "B3 aciona \"circuit breaker\" e suspende negociações por 30 minutos - Poder360",
-    "fonte": "Google News Acoes",
-    "publicado": "26/10 15:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acionamento do 'circuit breaker' na B3 indica uma forte volatilidade no mercado de ações, geralmente associada a eventos de grande impacto ou incerteza. Se essa volatilidade persistir ou for desencadeada por fatores macroeconômicos, pode sinalizar um aumento do risco percebido e afetar o fluxo de capital para a bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793052055.6798892,
-    "titulo": "Vitória de Lula e expectativa de juros altos travam US$ 6 bilhões em potenciais ofertas de ações",
-    "titulo_original": "Vitória de Lula e expectativa de juros altos travam US$ 6 bilhões em potenciais ofertas de ações",
-    "fonte": "InvestNews",
-    "publicado": "26/10 14:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A vitória de Lula e a consequente expectativa de juros mais altos paralisaram ofertas de ações, indicando que o cenário macroeconômico é um fator decisivo para o mercado de capitais. Se a política monetária se mostrar mais restritiva do que o esperado, novas ofertas podem ser adiadas ou reavaliadas. A reversão desse cenário dependeria de sinais de estabilidade e controle inflacionário.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793052060.8230157,
-    "titulo": "Dólar sobe até 12,2% e testa R$ 5,60, maior cotação desde junho de 2025",
-    "titulo_original": "Dólar sobe até 12,2% e testa R$ 5,60, maior cotação desde junho de 2025 - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/10 16:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte alta do dólar indica uma desvalorização expressiva do real, possivelmente ligada à aversão ao risco após o resultado eleitoral. Se o Banco Central intervir no mercado de câmbio para conter a volatilidade, isso pode trazer alguma estabilidade. Caso contrário, a pressão sobre o real pode continuar, impactando importações e inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793052065.4847915,
-    "titulo": "Mercado vê fim do corte de juros e discute possível alta da Selic",
-    "titulo_original": "Mercado vê fim do corte de juros e discute possível alta da Selic - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/10 17:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa do mercado de que o ciclo de corte de juros pode ter chegado ao fim, com a possibilidade de uma alta na Selic, indica uma mudança de perspectiva sobre a política monetária. Se o Banco Central de fato sinalizar ou implementar uma alta, isso pode impactar o custo do crédito e a atratividade de investimentos em renda fixa. A inflação e os riscos fiscais serão fatores determinantes para essa decisão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793052070.1866326,
-    "titulo": "Dólar à vista avança 8,2%, maior alta diária desde 1999, com vitória de Lula",
-    "titulo_original": "Dólar à vista avança 8,2%, maior alta diária desde 1999, com vitória de Lula",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 17:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A expressiva alta do dólar, a maior desde 1999, sinaliza uma forte aversão ao risco e descontentamento do mercado com o resultado eleitoral. Se o governo não apresentar um plano econômico que gere confiança, a pressão sobre o real pode persistir. A internalização de capital por exportadores pode ser um indicativo de que algumas empresas buscam se proteger da volatilidade cambial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793052076.0496063,
-    "titulo": "Ibovespa passa por ‘circuit breaker’ e cai quase 14% com liquidação após vitória de Lula",
-    "titulo_original": "Ibovespa passa por  ‘circuit breaker’ e cai quase 14% com liquidação após vitória de Lula",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 17:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda do Ibovespa reflete um choque de expectativas do mercado, que estava posicionado para um cenário diferente. Se a gestão do novo governo sinalizar maior previsibilidade e controle fiscal, o mercado pode reagir positivamente em movimentos futuros. Caso contrário, a volatilidade pode persistir, impactando a confiança dos investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793052076.0511544,
-    "titulo": "Ibovespa desaba após reeleição de Lula e ações recuam até 58%; veja maiores quedas",
-    "titulo_original": "Ibovespa desaba após reeleição de Lula e ações recuam até 58%; veja maiores quedas - G1",
-    "fonte": "Google News Acoes",
-    "publicado": "26/10 17:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda acentuada do Ibovespa e de ações específicas demonstra um forte pessimismo do mercado com o resultado eleitoral. Se as políticas econômicas do novo governo não trouxerem confiança aos investidores, a recuperação do mercado de ações pode ser lenta. Acompanhar os primeiros anúncios de medidas econômicas será crucial para avaliar o futuro próximo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793052076.0526202,
-    "titulo": "Cenário de pessimismo intenso pode levar juros a 18% e dólar a R$ 6, diz Morgan Stanley",
-    "titulo_original": "Cenário de pessimismo intenso pode levar juros a 18% e dólar a R$ 6, diz Morgan Stanley - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/10 13:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Morgan Stanley de juros a 18% e dólar a R$ 6, em um cenário de pessimismo intenso, aponta para um risco de deterioração significativa das condições econômicas. Se os fatores que geram esse pessimismo se materializarem, como instabilidade política ou fiscal, o Banco Central pode ser forçado a elevar os juros drasticamente para conter a inflação e a desvalorização cambial. Acompanhar os indicadores que alimentam esse pessimismo será fundamental.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793052076.0540764,
-    "titulo": "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus as stocks rebound",
-    "titulo_original": "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus as stocks rebound",
-    "fonte": "ForexLive",
-    "publicado": "26/10 17:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A recuperação das ações nos EUA, impulsionada por IPOs de IA e notícias sobre tarifas, sugere um apetite a risco renovado no mercado americano. A venda de títulos do Tesouro a um rendimento específico pode indicar um ponto de atenção para investidores que buscam retornos em renda fixa, com o mercado precificando um determinado nível de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793057462.64638,
-    "titulo": "Governo usará acordo sobre seguro rural para retomar proposta de mirar centro da meta, diz Moretti",
-    "titulo_original": "Governo usará acordo sobre seguro rural para retomar proposta de mirar centro da meta, diz Moretti",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 19:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intenção de mirar o centro da meta fiscal, se concretizada, pode sinalizar uma flexibilização nas regras fiscais. Caso o Congresso aprove a proposta, o mercado poderá reagir com cautela quanto à trajetória da dívida pública brasileira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793057467.7831488,
-    "titulo": "PL reconhece resultado da eleição, mas cobra explicações ao TSE",
-    "titulo_original": "PL reconhece resultado da eleição, mas cobra explicações ao TSE",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 20:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O reconhecimento do resultado eleitoral pelo PL, mesmo com questionamentos, sugere uma busca por estabilidade política após o pleito. Se as explicações solicitadas ao TSE forem consideradas insatisfatórias pelo partido, isso pode gerar novas tensões no cenário político.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793057472.9288218,
-    "titulo": "Alckmin diz que fala de Trump sobre fraude na eleição brasileira é 'totalmente equivocada'",
-    "titulo_original": "Alckmin diz que fala de Trump sobre fraude na eleição brasileira é 'totalmente equivocada'",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 19:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A declaração de Alckmin busca reforçar a credibilidade do processo eleitoral brasileiro no cenário internacional. Se declarações semelhantes de Trump persistirem, isso pode gerar ruído diplomático, mas o impacto direto no mercado interno é limitado, dado o reconhecimento oficial do resultado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793057478.1626697,
-    "titulo": "Como a turbulência nos mercados pode impactar, na prática, a economia real?",
-    "titulo_original": "Como a turbulência nos mercados pode impactar, na prática, a economia real? - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "26/10 15:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A análise sobre o impacto da turbulência de mercado na economia real é crucial para entender a dinâmica macroeconômica. Se a notícia detalhar os canais específicos de contágio, como crédito ou investimento, sua relevância aumenta para a tomada de decisão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793057484.2881315,
-    "titulo": "Goldman Sachs: Construção de IA adicionará até 50pb ao núcleo do PCE dos EUA, mas o impulso é temporário",
-    "titulo_original": "Goldman Sachs: AI buildout to add up to 50bp to US core PCE, but the boost is temporary",
-    "fonte": "ForexLive",
-    "publicado": "26/10 18:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O impacto da IA na inflação dos EUA, mesmo que temporário, reforça a visão de que o Banco Central americano pode manter uma postura mais restritiva por mais tempo. Se a inflação subjacente nos EUA se mostrar persistente, isso pode influenciar as decisões de juros em outros países, incluindo o Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793057484.29005,
-    "titulo": "Lucro da Gerdau no 3º trimestre cresce 44%",
-    "titulo_original": "Lucro da Gerdau no 3º trimestre cresce 44%",
-    "fonte": "Valor Economico",
-    "publicado": "26/10 18:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O forte crescimento do lucro da Gerdau demonstra resiliência operacional em um cenário de preços favoráveis na América do Norte. Se a tendência de preços na região se mantiver, a companhia pode continuar apresentando bons resultados nos próximos trimestres.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793057484.2918253,
-    "titulo": "Com Alckmin, Fonteles e Galípolo entre os cotados para a Fazenda, ajuste fiscal deve começar em breve, diz BTG",
-    "titulo_original": "Com Alckmin, Fonteles e Galípolo entre os cotados para a Fazenda, ajuste fiscal deve começar em breve, diz BTG",
-    "fonte": "Money Times",
-    "publicado": "26/10 18:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de um ajuste fiscal iminente, com nomes fortes cotados para a Fazenda, pode sinalizar uma busca por credibilidade fiscal no novo governo. Se a escolha para o ministério for de um perfil mais técnico e focado em responsabilidade fiscal, isso pode ser bem recebido pelo mercado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793100649.8721528,
     "titulo": "Citigroup e BCA Research rebaixam recomendação de ativos brasileiros com vitória de Lula",
     "titulo_original": "Citigroup e BCA Research rebaixam recomendação de ativos brasileiros com vitória de Lula",
@@ -1194,6 +846,115 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A queda nas ações da Boeing reflete preocupações com a capacidade de produção da empresa e o cumprimento de suas metas. Se as dificuldades de produção persistirem, isso pode impactar o setor aéreo globalmente, afetando companhias aéreas que dependem das entregas da Boeing.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793187049.917835,
+    "titulo": "Agenda do dia: Decisão do Fed; Caged de setembro - Valor Econômico",
+    "titulo_original": "Agenda do dia: Decisão do Fed; Caged de setembro - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 08:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A decisão do Fed sobre juros e o Caged de setembro são eventos de alta relevância. Se o Fed mantiver juros elevados, isso pode impactar negativamente a atividade econômica global e brasileira; um Caged forte pode indicar resiliência da economia local, mas também alimentar receios inflacionários.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793187053.8000207,
+    "titulo": "Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic? - InfoMoney",
+    "titulo_original": "Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic? - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa de que o Fed mantenha os juros, com uma pausa que pode ser temporária, sugere um cenário de política monetária restritiva nos EUA. Isso pode influenciar a trajetória da Selic, caso o Banco Central do Brasil precise ajustar sua política para gerenciar pressões inflacionárias ou fluxos de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793187057.6738772,
+    "titulo": "Mediadores cataris apresentaram ao Irã novo rascunho de acordo; resposta do Irã esperada até o fim da semana",
+    "titulo_original": "Qatari mediators presented Iran with new draft deal; Iran's response expected by the end of the week",
+    "fonte": "ForexLive",
+    "publicado": "28/10 05:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A apresentação de um novo rascunho de acordo entre EUA e Irã, mediado pelo Catar, pode gerar um forte rali em ativos de risco com a expectativa de melhora nas expectativas de crescimento e alívio nas preocupações com a inflação. O petróleo seria o principal afetado, com potencial de forte desvalorização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793187061.5085335,
+    "titulo": "Otimismo com IA impulsiona ações em NY antes de decisão do Fed - Valor Econômico",
+    "titulo_original": "Otimismo com IA impulsiona ações em NY antes de decisão do Fed - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O otimismo com IA impulsionando ações em Nova York, antes da decisão do Fed, sugere um cenário de busca por crescimento em setores tecnológicos. A decisão do Fed sobre juros será determinante para a direção futura do mercado, podendo moderar ou intensificar o apetite por risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793187066.8020594,
+    "titulo": "Ibovespa hoje: decisão sobre juros nos EUA entra no radar após sequência de quedas da Bolsa - Estadão",
+    "titulo_original": "Ibovespa hoje: decisão sobre juros nos EUA entra no radar após sequência de quedas da Bolsa - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "28/10 04:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A decisão de juros dos EUA é um fator crucial para o Ibovespa, especialmente após uma sequência de quedas. Se o Fed mantiver uma postura mais restritiva, isso pode pressionar ainda mais a bolsa brasileira; uma sinalização de pausa ou corte, por outro lado, poderia impulsionar uma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793187066.8037424,
+    "titulo": "Santander Brasil vê lucro recuar no terceiro trimestre; inadimplência sobe",
+    "titulo_original": "Santander Brasil vê lucro recuar no terceiro trimestre; inadimplência sobe",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 07:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda no lucro e o aumento da inadimplência do Santander Brasil refletem um cenário macroeconômico desafiador, com exigência de disciplina e foco na qualidade dos resultados. A recuperação gradual da rentabilidade dependerá da evolução do ambiente econômico e da capacidade do banco em gerenciar riscos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793187066.805294,
+    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "28/10 06:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O acompanhamento da cotação do petróleo é relevante para monitorar o preço de uma commodity fundamental. A relevância macroeconômica dependerá de como as variações no preço do petróleo impactam a inflação e a atividade econômica global e brasileira, o que não é detalhado na notícia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793187066.8069203,
+    "titulo": "Braskem confirma prorrogação de negociação com credores até 30 de outubro",
+    "titulo_original": "Braskem confirma prorrogação de negociação com credores até 30 de outubro",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 07:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação das negociações da Braskem com credores indica que a reestruturação da dívida ainda está em andamento. A notícia, por si só, não detalha impactos diretos nos canais macroeconômicos, mas reflete a situação de uma grande empresa brasileira.",
     "is_stocks": true
   }
 ]
