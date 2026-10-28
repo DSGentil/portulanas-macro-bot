@@ -1,123 +1,5 @@
 [
   {
-    "_timestamp": 1793106941.3889403,
-    "titulo": "Número de superendividados no Brasil cresce 75% em cinco anos, para 20,3 milhões, diz BC",
-    "titulo_original": "Número de superendividados no Brasil cresce 75% em cinco anos, para 20,3 milhões, diz BC",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 10:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento expressivo no número de superendividados pode indicar uma pressão contínua sobre o consumo e a capacidade de pagamento das famílias. Se essa tendência persistir, pode ser um fator a ser considerado pelo Banco Central em suas decisões futuras de política monetária, especialmente no que tange à inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793106945.562032,
-    "titulo": "Tesouro cancela leilão de título prefixado e recompra papéis de longo prazo",
-    "titulo_original": "Tesouro cancela leilão de título prefixado e recompra papéis de longo prazo",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 09:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cancelamento de um leilão de títulos públicos e a recompra de papéis de longo prazo podem sinalizar uma mudança na estratégia de gestão da dívida pública ou uma antecipação de movimentos futuros na taxa de juros. Se o Tesouro estiver buscando alongar o perfil da dívida, isso pode indicar uma expectativa de juros mais baixos no futuro, ou uma tentativa de gerenciar a liquidez do mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793106949.6299124,
-    "titulo": "Nível do dólar terá influência na definição da resposta fiscal - Valor Econômico",
-    "titulo_original": "Nível do dólar terá influência na definição da resposta fiscal - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de que o nível do dólar influenciará a resposta fiscal sugere que o governo pode ajustar suas políticas fiscais em função da taxa de câmbio. Se o dólar se mantiver em patamares elevados, isso pode aumentar a pressão por medidas fiscais que visem mitigar seus efeitos, como subsídios ou cortes de impostos em setores específicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793106953.7206259,
-    "titulo": "Alimentos, indústrias extrativas e refino respondem por 98,1% da inflação do setor industrial",
-    "titulo_original": "Alimentos, indústrias extrativas e refino respondem por 98,1% da inflação do setor industrial",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 09:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O forte peso de alimentos, indústrias extrativas e refino na inflação industrial indica que esses setores são os principais vetores de pressão de preços no momento. Se a alta nos preços de commodities continuar, isso pode pressionar a inflação ao consumidor e, consequentemente, influenciar as decisões futuras do Banco Central sobre a taxa de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793106959.100001,
-    "titulo": "Pedidos de bens duráveis nos EUA em setembro +1,8% vs +1,7% esperado",
-    "titulo_original": "US September durable goods orders +1.8% vs +1.7% expected",
-    "fonte": "ForexLive",
-    "publicado": "27/10 09:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Embora os pedidos de bens duráveis tenham superado as expectativas, o relatório indica um movimento lateral nos últimos meses, sugerindo que o dado isolado pode não ser um grande impulsionador de mercado. Se os próximos dados de atividade econômica nos EUA continuarem a mostrar essa volatilidade, pode haver uma cautela maior por parte do Fed em suas decisões futuras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793106959.1016653,
-    "titulo": "Sete números para entender os negócios da Anthropic",
-    "titulo_original": "Sete números para entender os negócios da Anthropic",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 10:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A divulgação financeira da Anthropic precede uma potencial oferta pública inicial, indicando um movimento de captação de recursos no setor de tecnologia. Se a IPO for bem-sucedida, pode sinalizar um apetite renovado por investimentos em empresas de IA, o que poderia influenciar o fluxo de capital para o setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793106959.1032176,
-    "titulo": "Resumo de notícias europeias: Mercados permanecem em faixa antes da decisão do FOMC",
-    "titulo_original": "investingLive European news wrap: Markets remain rangebound ahead of the FOMC decision",
-    "fonte": "ForexLive",
-    "publicado": "27/10 09:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A expectativa pela decisão do FOMC e a consolidação do petróleo em patamares elevados são fatores que podem influenciar o cenário global. Se a decisão do FOMC for mais restritiva do que o esperado, isso pode pressionar os juros globais e impactar o fluxo de capital para mercados emergentes, incluindo o Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793106959.1048229,
-    "titulo": "Fundos imobiliários crescem em número de investidores e liquidez; veja os mais negociados, segundo a B3",
-    "titulo_original": "Fundos imobiliários crescem em número de investidores e liquidez; veja os mais negociados, segundo a B3",
-    "fonte": "Money Times",
-    "publicado": "27/10 09:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento no número de investidores e na liquidez de fundos imobiliários indica um aumento do interesse por essa classe de ativos. Se essa tendência se mantiver, pode sinalizar um fluxo de capital para o mercado imobiliário, o que, em um cenário de juros mais baixos, tende a ser positivo para o setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793106959.1063416,
-    "titulo": "Nvidia e Meta estreitam laços na área de IA com acordo de US$ 3 bi",
-    "titulo_original": "Nvidia e Meta estreitam laços na área de IA com acordo de US$ 3 bi",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 08:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O investimento da Nvidia na Meta para a área de IA indica um fortalecimento da colaboração entre gigantes da tecnologia em um setor de alto crescimento. Se essa parceria resultar em avanços significativos em IA, pode impulsionar o setor de tecnologia globalmente e atrair mais capital para empresas do ramo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793114142.8983572,
     "titulo": "Dívidas sem perspectiva de pagamento pelas famílias atingem maior nível desde 2012, diz BC",
     "titulo_original": "Dívidas sem perspectiva de pagamento pelas famílias atingem maior nível desde 2012, diz BC",
@@ -1289,6 +1171,73 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O teste de suporte decisivo pela ação da Vale indica um momento de inflexão para o papel, onde a força compradora pode reverter a tendência de queda ou a pressão vendedora pode levar a novas baixas. O comportamento do preço nos próximos pregões será crucial para determinar a direção futura.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793219443.522033,
+    "titulo": "PF indicia Vorcaro, ex-presidente do BRB e mais 13 pessoas por fraudes do Master com banco distrital",
+    "titulo_original": "PF indicia Vorcaro, ex-presidente do BRB e mais 13 pessoas por fraudes do Master com banco distrital",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 16:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O indiciamento por fraudes financeiras de grande vulto pode gerar desconfiança no sistema bancário e aumentar a pressão por maior rigor regulatório. Se as investigações avançarem e resultarem em condenações, isso pode sinalizar um endurecimento na fiscalização de operações financeiras no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793219448.0360475,
+    "titulo": "Tesouro IPCA+ sobe para perto de 8% e prefixado passa de 15%: hora de comprar?",
+    "titulo_original": "Tesouro IPCA+ sobe para perto de 8% e prefixado passa de 15%: hora de comprar?",
+    "fonte": "InvestNews",
+    "publicado": "28/10 16:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As taxas elevadas nos títulos públicos de longo prazo indicam um prêmio de risco maior exigido pelos investidores, possivelmente refletindo expectativas de juros mais altos ou inflação persistente. Se as taxas continuarem a subir, isso pode tornar a renda fixa mais atrativa em comparação com outras classes de ativos, mas o caminho até o vencimento pode ser volátil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793219452.5661545,
+    "titulo": "Petróleo sobe com receio de escalada da violência no Oriente Médio",
+    "titulo_original": "Petróleo sobe com receio de escalada da violência no Oriente Médio",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 16:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A persistência dos temores geopolíticos no Oriente Médio tende a manter o petróleo em patamares elevados, impactando custos de produção e transporte globalmente. Se o impasse eleitoral em Israel levar a um cenário de maior instabilidade, a pressão sobre os preços do petróleo pode se intensificar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793219457.1464164,
+    "titulo": "Qatar tenta convencer Irã a permitir inspetores nucleares da ONU - relatório",
+    "titulo_original": "Qatar trying to convince Iran to allow UN nuclear inspectors - report",
+    "fonte": "ForexLive",
+    "publicado": "28/10 15:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de um acordo diplomático com o Irã, mesmo que de última hora, pode aliviar as tensões geopolíticas e reduzir o risco de uma escalada militar no Oriente Médio. Se as negociações falharem e uma ofensiva for lançada, isso pode levar a um aumento nos preços do petróleo e a maior volatilidade nos mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793219462.2028675,
+    "titulo": "Bolsas da Europa fecham em leve alta com balanços e pressão do petróleo",
+    "titulo_original": "Bolsas da Europa fecham em leve alta com balanços e pressão do petróleo",
+    "fonte": "Money Times",
+    "publicado": "28/10 15:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A pressão do petróleo e a divulgação de balanços corporativos mistos na Europa adicionam incerteza ao cenário pré-decisão de juros. Se a decisão sobre juros for mais restritiva do que o esperado, isso pode reverter a leve alta observada nas bolsas europeias. Acompanhar a comunicação dos bancos centrais será crucial.",
     "is_stocks": true
   }
 ]
