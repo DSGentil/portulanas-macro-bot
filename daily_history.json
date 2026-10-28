@@ -1078,5 +1078,69 @@
     "origem": "externa",
     "leitura_critica": "O aumento nos inventários atacadistas pode indicar uma preparação para vendas futuras mais fortes ou um acúmulo de bens não vendidos. Se as vendas não acompanharem o ritmo de acumulação de estoques, isso pode levar a uma desaceleração na produção e impactar o crescimento do PIB.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793200544.168303,
+    "titulo": "Alcolumbre convoca sessão do Senado para discutir MP e PL",
+    "titulo_original": "Alcolumbre convoca sessão do Senado para discutir MP e PL",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 11:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A urgência na votação da MP e do PL no Senado visa garantir a continuidade de apoios financeiros a setores específicos. Se as matérias forem aprovadas, os setores beneficiados terão segurança jurídica; caso contrário, a interrupção dos programas pode gerar impactos econômicos e sociais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793200549.1146054,
+    "titulo": "Dólar valorizado favorece exportações de algodão",
+    "titulo_original": "Dólar valorizado favorece exportações de algodão - Agrolink",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 11:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar beneficia diretamente os exportadores de algodão, tornando o produto brasileiro mais competitivo no mercado internacional. Se a tendência de valorização da moeda se mantiver, o setor de exportação de algodão pode continuar a prosperar; uma reversão dessa tendência poderia impactar negativamente o volume exportado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793200554.2498355,
+    "titulo": "Alta do petróleo e do dólar pode pressionar custos do agronegócio no fim de 2026",
+    "titulo_original": "Alta do petróleo e do dólar pode pressionar custos do agronegócio no fim de 2026 - CBN Ribeirão",
+    "fonte": "Google News Commodities",
+    "publicado": "28/10 11:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A combinação da alta do petróleo e do dólar pode elevar os custos de produção no agronegócio, impactando a rentabilidade do setor. Se os preços das commodities agrícolas acompanharem essa alta de custos, o impacto pode ser mitigado; caso contrário, as margens dos produtores podem ser comprimidas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793200559.2314148,
+    "titulo": "Crise do petróleo leva Latam a cancelar 2.476 voos no 2° trimestre de 2027",
+    "titulo_original": "Exclusivo: Crise do petróleo leva Latam a cancelar 2.476 voos no 2° trimestre de 2027",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 11:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O cancelamento de voos pela Latam, motivado pela alta do petróleo, pode impactar a oferta de passagens e os custos para os consumidores. Se o preço do petróleo se estabilizar ou cair, a companhia aérea pode reverter parte dos cancelamentos; caso contrário, a redução de frequências pode se tornar uma estratégia de longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793200564.7685513,
+    "titulo": "Reino Unido anuncia orçamento com medidas de apoio para amenizar a alta dos preços da energia",
+    "titulo_original": "Reino Unido anuncia orçamento com medidas de apoio para amenizar a alta dos preços da energia",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 11:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As medidas fiscais anunciadas visam mitigar o impacto da inflação de energia na população, mas o aumento de impostos sobre setores específicos pode gerar reações. Se a economia global se estabilizar, o governo pode ter margem para reavaliar essas medidas; caso contrário, a pressão por mais gastos públicos pode persistir.",
+    "is_stocks": true
   }
 ]
