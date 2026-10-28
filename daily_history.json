@@ -1142,5 +1142,149 @@
     "origem": "externa",
     "leitura_critica": "As medidas fiscais anunciadas visam mitigar o impacto da inflação de energia na população, mas o aumento de impostos sobre setores específicos pode gerar reações. Se a economia global se estabilizar, o governo pode ter margem para reavaliar essas medidas; caso contrário, a pressão por mais gastos públicos pode persistir.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793205947.5569525,
+    "titulo": "Estados aprovam alta do ICMS sobre combustíveis e pressionam preços em 2027",
+    "titulo_original": "Estados aprovam alta do ICMS sobre combustíveis e pressionam preços em 2027",
+    "fonte": "Folha Mercado",
+    "publicado": "28/10 13:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do ICMS sobre combustíveis representa um fator de pressão inflacionária adicional para 2027. Se a guerra no Irã se intensificar, o impacto nos preços pode ser antecipado e amplificado, tornando a alta do ICMS ainda mais sentida pelo consumidor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793205952.931243,
+    "titulo": "Vendas de bares e restaurantes crescem 9,9% no terceiro trimestre",
+    "titulo_original": "Vendas de bares e restaurantes crescem 9,9% no terceiro trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 13:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento nas vendas do setor de bares e restaurantes indica uma melhora na atividade econômica e no poder de consumo. Se a tendência de melhora no mercado de trabalho e renda se mantiver, o setor pode continuar a apresentar bons resultados; uma desaceleração econômica poderia reverter esse quadro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793205958.339229,
+    "titulo": "Exportador de grãos e açúcar aproveita alta do dólar e acelera vendas",
+    "titulo_original": "Exportador de grãos e açúcar aproveita alta do dólar e acelera vendas - Globo Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 11:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar beneficia exportadores ao tornar seus produtos mais competitivos no mercado internacional. Se o dólar continuar em trajetória de alta, o setor exportador pode se beneficiar ainda mais; uma reversão dessa tendência poderia impactar negativamente as vendas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793205963.8196225,
+    "titulo": "Soja sobe em Chicago com temor de quebra de safra no Brasil por causa de El Niño",
+    "titulo_original": "Soja sobe em Chicago com temor de quebra de safra no Brasil por causa de El Niño - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "28/10 08:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O temor de quebra de safra no Brasil, um dos maiores produtores de soja do mundo, impacta diretamente os preços internacionais do grão. Se o El Niño se mostrar mais severo do que o esperado, os preços da soja podem continuar a subir; uma reversão do fenômeno ou uma safra melhor que o previsto pode moderar essa alta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793205971.4327004,
+    "titulo": "Ibovespa amarga 3º dia de queda após eleições e já recua 17% na semana",
+    "titulo_original": "Ibovespa amarga 3º dia de queda após eleições e já recua 17% na semana",
+    "fonte": "Money Times",
+    "publicado": "28/10 12:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda contínua do Ibovespa reflete a aversão ao risco dos investidores diante da incerteza fiscal pós-eleições. Se o novo governo apresentar um plano fiscal claro e crível, o mercado pode reagir positivamente; caso contrário, a pressão vendedora tende a persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793205971.434754,
+    "titulo": "Ibovespa e dólar hoje: incerteza com Fed e Lula 4 afundam Ibovespa; dólar ensaia alta",
+    "titulo_original": "Ibovespa e dólar hoje: incerteza com Fed e Lula 4 afundam Ibovespa; dólar ensaia alta - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 13:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação da expectativa pela decisão de juros do Fed e a incerteza fiscal doméstica pressiona o Ibovespa e favorece o dólar. Se o Fed mantiver uma postura mais dura, isso pode intensificar a pressão sobre a bolsa brasileira e sustentar o dólar; uma decisão mais branda poderia aliviar essa pressão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793205971.4367275,
+    "titulo": "Ibovespa recua sob estresse eleitoral, pressionado por ações de bancos e cíclicas",
+    "titulo_original": "Ibovespa recua sob estresse eleitoral, pressionado por ações de bancos e cíclicas - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "28/10 10:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, influenciada por setores sensíveis ao ciclo econômico e financeiro, indica a aversão do mercado a riscos políticos e fiscais. Se o cenário político se estabilizar com clareza fiscal, esses setores podem se recuperar; caso contrário, a tendência de baixa pode se acentuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793205971.4387028,
+    "titulo": "Ibovespa volta a cair e amplia perdas após eleição e mercado aguarda decisão do Fed",
+    "titulo_original": "Ibovespa volta a cair e amplia perdas após eleição e mercado aguarda decisão do Fed - VEJA",
+    "fonte": "Google News Acoes",
+    "publicado": "28/10 10:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação do cenário eleitoral doméstico e a expectativa pela decisão do Fed continuam a pressionar o Ibovespa. Se o Fed adotar uma postura mais restritiva, isso pode agravar a queda da bolsa brasileira; uma decisão mais favorável pode trazer algum alívio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793205971.440845,
+    "titulo": "Por trás da queda contínua da bolsa, um ajuste incompleto dos investidores locais",
+    "titulo_original": "Por trás da queda contínua da bolsa, um ajuste incompleto dos investidores locais",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 13:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise sugere que a pressão vendedora na bolsa brasileira pode persistir enquanto os investidores locais não concluírem o ajuste de suas carteiras. Se o cenário fiscal se tornar mais claro e previsível, isso pode acelerar a conclusão desse ajuste e impulsionar uma recuperação do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793205971.4428897,
+    "titulo": "Sessão europeia: Ações negociam com cautela enquanto decisão do Fed e balanços de big techs se aproximam",
+    "titulo_original": "investingLive European session wrap: Stocks tread cautiously as Fed decision and big tech earnings loom",
+    "fonte": "ForexLive",
+    "publicado": "28/10 09:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A cautela nos mercados europeus reflete a expectativa em torno da decisão do Fed, que pode influenciar o apetite por risco global. Se o Fed sinalizar um aperto monetário mais agressivo, isso pode levar a uma correção nas bolsas e pressionar commodities; um tom mais dovish, por outro lado, pode impulsionar ativos de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793205971.4448776,
+    "titulo": "Hypera (HYPE3) sobe na contramão do Ibovespa após balanço do 3T26; o que animou o mercado?",
+    "titulo_original": "Hypera (HYPE3) sobe na contramão do Ibovespa após balanço após balanço do 3T26; o que animou o mercado?",
+    "fonte": "Money Times",
+    "publicado": "28/10 12:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho positivo das ações da Hypera, em contraste com a queda do Ibovespa, demonstra que resultados corporativos sólidos podem superar o sentimento geral do mercado. Se a empresa continuar a apresentar resultados robustos e o cenário macroeconômico melhorar, suas ações podem manter a tendência de alta.",
+    "is_stocks": true
   }
 ]
