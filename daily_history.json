@@ -1,87 +1,5 @@
 [
   {
-    "_timestamp": 1793100649.8721528,
-    "titulo": "Citigroup e BCA Research rebaixam recomendação de ativos brasileiros com vitória de Lula",
-    "titulo_original": "Citigroup e BCA Research rebaixam recomendação de ativos brasileiros com vitória de Lula",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 07:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O rebaixamento da recomendação de ativos brasileiros por instituições financeiras internacionais reflete preocupações com a política fiscal e reformas. Se essa percepção se consolidar, pode haver uma saída de capital estrangeiro do país, pressionando o câmbio e a bolsa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793100654.2880912,
-    "titulo": "Bolsa e dólar dão sinais de recuperação após forte queda pós-eleição - UOL Economia",
-    "titulo_original": "Bolsa e dólar dão sinais de recuperação após forte queda pós-eleição - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 07:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recuperação da bolsa e do dólar após a queda pós-eleição sugere uma possível estabilização do mercado. Se essa tendência de recuperação se mantiver, pode indicar um reajuste de expectativas dos investidores em relação ao cenário político e econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793100658.7095745,
-    "titulo": "Agenda do dia: Fala de Galípolo e leilão de LFTs ocupam o foco",
-    "titulo_original": "Agenda do dia: Fala de Galípolo e leilão de LFTs ocupam o foco",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 07:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A fala de Gabriel Galípolo e o leilão de LFTs são eventos de destaque para o mercado financeiro brasileiro, podendo influenciar as expectativas sobre juros e a percepção de risco. Se o discurso do BC sinalizar um tom mais cauteloso, isso pode sustentar a volatilidade no mercado de renda fixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793100663.2140965,
-    "titulo": "Gestor de hedge fund americano vê queda da Bolsa como exagerada e aproveita para comprar ações",
-    "titulo_original": "Gestor de hedge fund americano vê queda da Bolsa como exagerada e aproveita para comprar ações",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 08:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A visão de um gestor estrangeiro de que a queda da bolsa foi exagerada pode indicar um fluxo de capital de volta para o Brasil, caso essa percepção se generalize. Se outros investidores compartilharem dessa opinião, isso pode sustentar uma recuperação do mercado acionário.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793100669.1736746,
-    "titulo": "Governo renovará por um mês subvenção de R$ 2,12 do diesel",
-    "titulo_original": "Governo renovará por um mês subvenção de R$ 2,12 do diesel",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 08:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A renovação da subvenção ao diesel indica uma continuidade na política de controle de preços de combustíveis. Se essa política se estender por mais tempo, pode haver pressão sobre as contas públicas e um impacto na inflação de transportes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793100669.1749496,
-    "titulo": "Ibovespa hoje: após tombo de quase 14% com vitória de Lula, o que esperar da Bolsa nesta terça? - Estadão",
-    "titulo_original": "Ibovespa hoje: após tombo de quase 14% com vitória de Lula, o que esperar da Bolsa nesta terça? - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "27/10 05:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda do Ibovespa após a eleição indica uma reação negativa do mercado ao resultado. A expectativa para o dia seguinte reside em saber se haverá uma recuperação ou se a tendência de baixa se manterá, dependendo do sentimento dos investidores em relação ao novo governo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793106941.3889403,
     "titulo": "Número de superendividados no Brasil cresce 75% em cinco anos, para 20,3 milhões, diz BC",
     "titulo_original": "Número de superendividados no Brasil cresce 75% em cinco anos, para 20,3 milhões, diz BC",
@@ -1285,6 +1203,92 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O desempenho positivo das ações da Hypera, em contraste com a queda do Ibovespa, demonstra que resultados corporativos sólidos podem superar o sentimento geral do mercado. Se a empresa continuar a apresentar resultados robustos e o cenário macroeconômico melhorar, suas ações podem manter a tendência de alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793212248.2338736,
+    "titulo": "CNI reduz de 2% para 1,6% projeção de crescimento do PIB em 2026",
+    "titulo_original": "CNI reduz de 2% para 1,6% projeção de crescimento do PIB em 2026",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 14:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução na projeção do PIB pela CNI sinaliza um cenário de desaceleração econômica mais pronunciada do que o esperado anteriormente. Se os setores de indústria e serviços continuarem a apresentar desempenho fraco, isso pode pressionar o governo a adotar medidas de estímulo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793212252.7812874,
+    "titulo": "Taxa de títulos isentos sobe menos que a de papéis públicos após 2º turno da eleição e spread cai, diz Vitrify",
+    "titulo_original": "Taxa de títulos isentos sobe menos que a de papéis públicos após 2º turno da eleição e spread cai, diz Vitrify",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 14:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A menor elevação nas taxas de títulos privados em relação aos públicos pode indicar uma percepção de menor risco no crédito corporativo após a eleição. Se essa tendência se mantiver, pode favorecer a captação de recursos por empresas no mercado de capitais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793212257.1587603,
+    "titulo": "Às vésperas de eleições nos EUA, fuga de Flávio abre flanco para ofensiva democrata contra Trump",
+    "titulo_original": "Às vésperas de eleições nos EUA, fuga de Flávio  abre flanco para ofensiva democrata contra Trump",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 15:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A repercussão da saída de Flávio Bolsonaro nos EUA pode se tornar um ponto de debate na política americana, especialmente no contexto das eleições de meio de mandato. Se a questão ganhar tração, pode influenciar a retórica dos partidos democratas e republicanos em relação a questões de imigração e asilo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793212261.621979,
+    "titulo": "O que é asilo político? Entenda o caso de Flávio Bolsonaro nos EUA",
+    "titulo_original": "O que é asilo político? Entenda o caso de Flávio Bolsonaro nos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 14:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A possibilidade de Flávio Bolsonaro buscar asilo político nos EUA adiciona uma camada de complexidade às relações bilaterais. A decisão de conceder ou não o asilo dependerá da avaliação do governo americano sobre os fundamentos do pedido e as implicações políticas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793212266.9784205,
+    "titulo": "CEO do Santander (SANB11) admite que estratégia de reduzir risco pesa: ‘Vem nos custando no curto prazo’",
+    "titulo_original": "CEO do Santander (SANB11) admite que estratégia de reduzir risco pesa: ‘Vem nos custando no curto prazo’",
+    "fonte": "Money Times",
+    "publicado": "28/10 14:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A admissão do CEO do Santander sobre o impacto da estratégia de menor risco na rentabilidade pode gerar preocupações sobre a capacidade do banco de gerar lucros no futuro próximo. Se essa abordagem se mostrar insustentável, o banco pode precisar reavaliar suas prioridades.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793212266.980525,
+    "titulo": "Petrobras (PETR4) esclarece à CVM fala da presidente sobre ações - Suno - Investimentos Inteligentes",
+    "titulo_original": "Petrobras (PETR4) esclarece à CVM fala da presidente sobre ações - Suno - Investimentos Inteligentes",
+    "fonte": "Google News Acoes",
+    "publicado": "28/10 12:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O esclarecimento da Petrobras à CVM sobre falas da presidente pode indicar a necessidade de alinhar a comunicação da empresa com as regulamentações do mercado de capitais. Se as declarações originais geraram dúvidas ou volatilidade, este esclarecimento visa mitigar esses efeitos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793212266.9825199,
+    "titulo": "Vale (VALE3) testa suporte decisivo após queda; ação pode reagir ou cair mais? - InfoMoney",
+    "titulo_original": "Vale (VALE3) testa suporte decisivo após queda; ação pode reagir ou cair mais? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "28/10 09:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O teste de suporte decisivo pela ação da Vale indica um momento de inflexão para o papel, onde a força compradora pode reverter a tendência de queda ou a pressão vendedora pode levar a novas baixas. O comportamento do preço nos próximos pregões será crucial para determinar a direção futura.",
     "is_stocks": true
   }
 ]
