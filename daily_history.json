@@ -1,138 +1,5 @@
 [
   {
-    "_timestamp": 1793114142.8983572,
-    "titulo": "Dívidas sem perspectiva de pagamento pelas famílias atingem maior nível desde 2012, diz BC",
-    "titulo_original": "Dívidas sem perspectiva de pagamento pelas famílias atingem maior nível desde 2012, diz BC",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 09:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento significativo do endividamento familiar sem perspectiva de pagamento é um sinal de alerta para a atividade econômica e o consumo. Se essa situação se agravar, pode levar a uma maior inadimplência e pressionar o sistema financeiro, potencialmente exigindo medidas de política monetária ou fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793114146.8924723,
-    "titulo": "Juros nos EUA: como a decisão do Fed amanhã pode impactar seus investimentos?",
-    "titulo_original": "Juros nos EUA: como a decisão do Fed amanhã pode impactar seus investimentos? - InvesTalk",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 11:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão de juros do Fed é um dos principais fatores que movem os mercados globais. Se o Fed sinalizar um aperto monetário mais agressivo, isso pode pressionar os juros no Brasil e afetar o fluxo de capital; caso contrário, um tom mais dovish pode trazer alívio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793114151.1730795,
-    "titulo": "Índice de confiança do consumidor dos EUA sobe a 91,7 em outubro, informa Conference Board",
-    "titulo_original": "Índice de confiança do consumidor dos EUA sobe a 91,7 em outubro, informa Conference Board",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 11:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento na confiança do consumidor dos EUA, acima do esperado, pode sinalizar uma demanda mais robusta e uma melhora nas expectativas econômicas. Se essa confiança se traduzir em maior consumo, pode sustentar a atividade econômica e, indiretamente, influenciar as decisões de juros do Fed, especialmente se a inflação permanecer sob controle.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793114155.224496,
-    "titulo": "US October Richmond Fed -2 vs -2 expected",
-    "titulo_original": "US October Richmond Fed -2 vs -2 expected",
-    "fonte": "ForexLive",
-    "publicado": "27/10 11:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O índice de atividade manufatureira do Richmond Fed ficou estável em -2, indicando contração, mas em linha com as expectativas. Se os componentes de emprego e novos pedidos continuarem a deteriorar, isso pode sinalizar uma desaceleração mais acentuada na atividade econômica dos EUA.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793114164.7072449,
-    "titulo": "Mercados hoje: cenário local e reunião do Fed no radar dos investidores",
-    "titulo_original": "Mercados hoje: cenário local e reunião do Fed no radar dos investidores - Bora Investir B3",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A reunião do Fed é um evento crucial que pode definir o rumo dos juros nos EUA e, por extensão, influenciar as decisões de política monetária no Brasil. Se o Fed sinalizar um aperto monetário, o Banco Central brasileiro pode ter que manter ou elevar a Selic para conter pressões inflacionárias e de câmbio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793114164.7093024,
-    "titulo": "Boeing só atingirá meta de produção do 737 no início de 2027, diz presidente",
-    "titulo_original": "Boeing só atingirá meta de produção do 737 no início de 2027, diz presidente",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 11:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O atraso na produção da Boeing pode impactar a cadeia de suprimentos e a receita da empresa. Se a produção continuar a enfrentar gargalos, isso pode afetar o setor aeroespacial globalmente, mas a notícia em si foca no impacto direto na Boeing.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793114164.7119184,
-    "titulo": "Boeing tem dívida líquida de US$ 25,2 bilhões no terceiro trimestre",
-    "titulo_original": "Boeing tem dívida líquida de US$ 25,2 bilhões no terceiro trimestre",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 10:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O prejuízo e a alta dívida líquida da Boeing refletem dificuldades operacionais. Se esses problemas persistirem, podem afetar a capacidade da empresa de cumprir contratos e, consequentemente, a demanda por componentes e serviços relacionados, com potencial impacto em setores específicos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793114164.713871,
-    "titulo": "Wall Street tem tom misto com alívio nos preços do petróleo e à espera de Fed",
-    "titulo_original": "Wall Street tem tom misto com alívio nos preços do petróleo e à espera de Fed",
-    "fonte": "Money Times",
-    "publicado": "27/10 11:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A expectativa pela decisão do Fed é o principal fator de cautela em Wall Street. Se o Fed adotar uma postura mais dura, isso pode pressionar os mercados acionários; um tom mais flexível pode gerar um movimento de alta. O alívio nos preços do petróleo pode ter um efeito positivo pontual.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793114164.7213778,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 10:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento da cotação do dólar é relevante para quem opera no mercado de câmbio. A volatilidade do dólar pode ser influenciada por decisões de juros nos EUA e pelo cenário econômico doméstico. Se houver movimentos bruscos, pode indicar pressões inflacionárias ou de fluxo de capital.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793114164.7234,
-    "titulo": "Gerdau (GGBR4): uma ótima candidata para ser uma empresa dolarizada na carteira",
-    "titulo_original": "Gerdau (GGBR4): uma ótima candidata para ser uma empresa dolarizada na carteira",
-    "fonte": "Money Times",
-    "publicado": "27/10 10:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O forte desempenho financeiro da Gerdau, com aumento de Ebitda, reforça sua posição como empresa dolarizada. Se o cenário de commodities se mantiver favorável, isso pode sustentar os resultados da empresa. No entanto, a notícia foca no desempenho da empresa e não em um canal macroeconômico direto.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793119544.032573,
     "titulo": "Ministro da articulação política diz que ajuste fiscal não está em discussão e não é prioridade de Lula",
     "titulo_original": "Ministro da articulação política diz que ajuste fiscal não está em discussão e não é prioridade de Lula",
@@ -1238,6 +1105,155 @@
     ],
     "origem": "externa",
     "leitura_critica": "A pressão do petróleo e a divulgação de balanços corporativos mistos na Europa adicionam incerteza ao cenário pré-decisão de juros. Se a decisão sobre juros for mais restritiva do que o esperado, isso pode reverter a leve alta observada nas bolsas europeias. Acompanhar a comunicação dos bancos centrais será crucial.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793224852.392033,
+    "titulo": "Senado autoriza subvenção para produtores de cana-de-açúcar do Nordeste",
+    "titulo_original": "Senado autoriza subvenção para produtores de cana-de-açúcar do Nordeste",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 18:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação da subvenção para produtores de cana-de-açúcar no Nordeste pode aliviar a pressão sobre os custos do setor. Se a sanção presidencial ocorrer sem alterações, o impacto direto será na cadeia produtiva regional; caso haja vetos ou modificações, a efetividade do benefício pode ser alterada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793224856.3250313,
+    "titulo": "Dólar hoje sobe com cenário político e manutenção de juros pelo Fed no radar",
+    "titulo_original": "Dólar hoje sobe com cenário político e manutenção de juros pelo Fed no radar - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 15:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar, influenciada pelo cenário político e pela decisão do Fed, sugere um ambiente de maior aversão ao risco. Se a tensão política doméstica aumentar, isso pode pressionar ainda mais o câmbio; caso a decisão do Fed venha acompanhada de sinais de flexibilização futura, o dólar pode recuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793224860.2665994,
+    "titulo": "Bolsa cai 2,68% com tensão fiscal e decisão do Fed; dólar recua",
+    "titulo_original": "Bolsa cai 2,68% com tensão fiscal e decisão do Fed; dólar recua - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 17:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda da bolsa e a tensão fiscal no Brasil, combinadas com a decisão do Fed, criam um cenário de incerteza. Se a tensão fiscal se agravar, isso pode pressionar ainda mais a bolsa; caso o Fed sinalize um ciclo de afrouxamento monetário mais prolongado, isso pode beneficiar mercados emergentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793224864.2150748,
+    "titulo": "Kevin Warsh reformula calendário do Fed e reduz decisões sobre juros a partir de 2027",
+    "titulo_original": "Kevin Warsh reformula calendário do Fed e reduz decisões sobre juros a partir de 2027 - Bloomberg Línea Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 16:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A reformulação do calendário de decisões de juros do Fed pode indicar uma busca por maior eficiência ou uma mudança na percepção de riscos futuros. Se essa mudança for interpretada como um sinal de maior previsibilidade ou, ao contrário, de incerteza sobre o futuro da política monetária, isso pode impactar os mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793224869.6775277,
+    "titulo": "Resumo das notícias de câmbio das Américas em 28 de outubro: Fed mantém juros, curva de juros se acentua com divergência nos lucros das Big Tech",
+    "titulo_original": "investingLive Americas FX news wrap 28 Oct: Fed holds rates, yield curve steepens as Big Tech earnings diverge",
+    "fonte": "ForexLive",
+    "publicado": "28/10 17:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A manutenção dos juros pelo Fed sugere cautela com a inflação ou a atividade econômica, o que pode influenciar o apetite por risco global. Se os lucros das Big Tech continuarem a divergir, isso pode indicar setores resilientes em meio a um cenário econômico mais desafiador.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793224869.6795185,
+    "titulo": "Estresse segue? Por que Ibovespa caiu 2,7% hoje após terça mais tranquila no mercado",
+    "titulo_original": "Estresse segue? Por que Ibovespa caiu 2,7% hoje após terça mais tranquila no mercado - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "28/10 17:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa indica um aumento da aversão ao risco no mercado brasileiro. Se os fatores que causaram o estresse persistirem, a tendência de baixa pode continuar; caso haja notícias positivas ou uma melhora no sentimento global, o índice pode se recuperar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793224869.6814194,
+    "titulo": "Lucro da Microsoft cresce 32% e atinge US$ 36,63 bilhões no trimestre",
+    "titulo_original": "Lucro da Microsoft cresce 32% e atinge US$ 36,63 bilhões no trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 18:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Os resultados robustos da Microsoft, impulsionados pelo crescimento em computação em nuvem e Azure, demonstram a força do setor de tecnologia. Se a demanda por inteligência artificial continuar a impulsionar esses negócios, a empresa pode manter seu desempenho positivo; caso contrário, a concorrência ou saturação do mercado podem afetar seus resultados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793224869.6833496,
+    "titulo": "Microsoft tem alta de 19% na receita e ações avançam 4%",
+    "titulo_original": "Microsoft tem alta de 19% na receita e ações avançam 4%",
+    "fonte": "Folha Mercado",
+    "publicado": "28/10 18:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A valorização das ações da Microsoft reflete a confiança do mercado em seu modelo de negócios, especialmente em inteligência artificial e computação em nuvem. Se a empresa continuar a inovar e a capturar mercado nesses segmentos, suas ações podem manter a tendência de alta; caso contrário, a concorrência ou mudanças tecnológicas podem impactar seu desempenho.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793224869.6852806,
+    "titulo": "Ibovespa fecha em forte queda e juros futuros avançam com governo Lula 4 no foco; dólar tem leve baixa",
+    "titulo_original": "Ibovespa fecha em forte queda e juros futuros avançam com governo Lula 4 no foco; dólar tem leve baixa",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 17:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A forte queda do Ibovespa e a alta dos juros futuros refletem preocupações com o cenário fiscal e inflacionário do novo governo. Se as políticas econômicas do governo Lula 4 gerarem incerteza fiscal, isso pode manter os juros em alta; caso contrário, uma gestão mais previsível pode levar à queda dos juros e recuperação da bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793224869.6872118,
+    "titulo": "Ibovespa tomba mais 2,6% com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados",
+    "titulo_original": "Ibovespa tomba mais 2,6% com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "28/10 17:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, impulsionada pela incerteza fiscal e pelo temor sobre o IOF, reflete um ambiente de aversão ao risco no Brasil. Se a incerteza fiscal persistir, isso pode manter a pressão sobre a bolsa; caso o Fed sinalize uma postura mais dovish no futuro, isso pode trazer algum alívio para mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793224869.6891766,
+    "titulo": "Ibovespa e dólar hoje: incerteza com Lula 4 e decisão do Fed afundam Ibovespa; dólar fica em R$ 5,35",
+    "titulo_original": "Ibovespa e dólar hoje: incerteza com Lula 4 e decisão do Fed afundam Ibovespa; dólar fica em R$ 5,35 - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "28/10 16:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, associada à incerteza sobre o governo Lula 4 e à decisão do Fed, indica um cenário de cautela no mercado. Se a gestão do novo governo gerar mais clareza fiscal e econômica, isso pode reverter a tendência de queda do Ibovespa; caso contrário, a volatilidade pode persistir.",
     "is_stocks": true
   }
 ]
