@@ -956,5 +956,127 @@
     "origem": "domestica",
     "leitura_critica": "A prorrogação das negociações da Braskem com credores indica que a reestruturação da dívida ainda está em andamento. A notícia, por si só, não detalha impactos diretos nos canais macroeconômicos, mas reflete a situação de uma grande empresa brasileira.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793193342.5686736,
+    "titulo": "Mercado brasileiro de criptomoedas: quem fica e quem sai (por enquanto)",
+    "titulo_original": "Mercado brasileiro de criptomoedas: quem fica e quem sai (por enquanto)",
+    "fonte": "InvestNews",
+    "publicado": "28/10 08:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A regulamentação do mercado de criptomoedas pelo Banco Central pode trazer mais segurança jurídica para investidores e empresas. Se um número significativo de players não obtiver a autorização, isso pode concentrar o mercado em poucas mãos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793193347.4446664,
+    "titulo": "Orçamento do Reino Unido: Previsões de crescimento cortadas enquanto Healey revela um colchão fiscal de £15 bilhões",
+    "titulo_original": "UK budget: Growth forecasts cut as Healey unveils £15 billion fiscal buffer",
+    "fonte": "ForexLive",
+    "publicado": "28/10 09:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A redução nas previsões de crescimento para 2027 indica um cenário econômico mais desafiador para o Reino Unido. Se o governo não conseguir manter a margem fiscal anunciada, isso pode levar a cortes de gastos ou aumento de impostos no futuro, impactando a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793193352.1933377,
+    "titulo": "BC da Tailândia mantém juro em 1% em meio a um crescimento econômico ainda fraco",
+    "titulo_original": "BC da Tailândia mantém juro em 1% em meio a um crescimento econômico ainda fraco",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 10:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão de manter os juros baixos na Tailândia sugere um foco na estímulo à economia local. Se a inflação global apresentar sinais de aceleração, bancos centrais como o da Tailândia podem ser forçados a rever essa postura para evitar pressões inflacionárias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793193356.936792,
+    "titulo": "Mediadores do Catar apresentam proposta ao Irã para encerrar guerra",
+    "titulo_original": "Mediadores do Catar apresentam proposta ao Irã para encerrar guerra",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 09:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A apresentação de uma nova proposta de paz no Oriente Médio pode reduzir a tensão geopolítica na região. Se o Irã aceitar a proposta, isso pode levar a uma diminuição da volatilidade nos preços do petróleo e afetar o fluxo de capital para ativos de refúgio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793193363.5299184,
+    "titulo": "Estrangeiros retiraram R$ 2,8 bilhões da B3 no dia seguinte às eleições",
+    "titulo_original": "Estrangeiros retiraram R$ 2,8 bilhões da B3 no dia seguinte às eleições - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "28/10 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro da B3 após as eleições pode indicar uma aversão ao risco ou incertezas sobre o cenário político e econômico futuro. Se essa tendência de saída se mantiver, pode pressionar a bolsa brasileira e o câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793193363.5314424,
+    "titulo": "Confiança da indústria brasileira cai pelo terceiro mês seguido, diz FGV",
+    "titulo_original": "Confiança da indústria brasileira cai pelo terceiro mês seguido, diz FGV",
+    "fonte": "Folha Mercado",
+    "publicado": "28/10 09:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A contínua queda na confiança da indústria brasileira pode sinalizar uma desaceleração na produção e nos investimentos futuros. Se essa tendência se mantiver, pode haver pressão por medidas de estímulo econômico por parte do governo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793193363.5329418,
+    "titulo": "Na Petrobras, preço dos combustíveis vira bode na sala",
+    "titulo_original": "Na Petrobras, preço dos combustíveis vira bode na sala - Brazil Journal",
+    "fonte": "Google News Acoes",
+    "publicado": "28/10 06:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre os preços dos combustíveis na Petrobras pode indicar pressões políticas ou econômicas sobre a política de preços da empresa. Se houver uma intervenção direta na política de preços, isso pode afetar os resultados da companhia e a inflação de energia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793193363.5343368,
+    "titulo": "Preços baixos do minério devem afetar resultado da Vale no 3º tri, dizem analistas",
+    "titulo_original": "Preços baixos do minério devem afetar resultado da Vale no 3º tri, dizem analistas",
+    "fonte": "Valor Economico",
+    "publicado": "28/10 09:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda projetada no lucro da Vale devido aos preços das commodities pode impactar o desempenho do setor de mineração e a arrecadação fiscal. Se os preços do minério de ferro continuarem em baixa, isso pode pressionar ainda mais os resultados da empresa e afetar o fluxo de capital estrangeiro para o setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793193363.5357192,
+    "titulo": "Inventários atacadistas dos EUA 0,6% vs. estimativa de 0,5%",
+    "titulo_original": "US Wholesale inventories 0.6% vs 0.5% estimate",
+    "fonte": "ForexLive",
+    "publicado": "28/10 09:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento nos inventários atacadistas pode indicar uma preparação para vendas futuras mais fortes ou um acúmulo de bens não vendidos. Se as vendas não acompanharem o ritmo de acumulação de estoques, isso pode levar a uma desaceleração na produção e impactar o crescimento do PIB.",
+    "is_stocks": true
   }
 ]
