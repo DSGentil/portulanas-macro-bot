@@ -1,393 +1,5 @@
 [
   {
-    "_timestamp": 1793125843.9997053,
-    "titulo": "Flávio Bolsonaro supostamente foge do Brasil para os EUA após derrota eleitoral",
-    "titulo_original": "Flávio Bolsonaro reportedly flees Brazil for the US after election loss",
-    "fonte": "ForexLive",
-    "publicado": "27/10 14:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia sugere um cenário de incerteza política e legal para Flávio Bolsonaro. Se confirmada a saída e a concessão de asilo, isso pode gerar repercussões diplomáticas e reforçar a percepção de instabilidade no ambiente político brasileiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793125848.2989836,
-    "titulo": "Durigan autoriza nova recompra de títulos pelo Tesouro após turbulência no mercado",
-    "titulo_original": "Durigan autoriza nova recompra de títulos pelo Tesouro após turbulência no mercado",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 11:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão de autorizar recompra de títulos pelo Tesouro Nacional indica uma tentativa de estabilizar o mercado financeiro em um cenário de incerteza pós-eleitoral. Se a intervenção for eficaz, pode reduzir a volatilidade e restaurar a confiança dos investidores na dívida pública brasileira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793125852.6670308,
-    "titulo": "Safra de soja do Brasil poderia cair a 163,6 mi t em cenário de perdas por El Niño, diz Serasa",
-    "titulo_original": "Safra de soja do Brasil poderia cair a 163,6 mi t em cenário de perdas por El Niño, diz Serasa - Notícias Agrícolas",
-    "fonte": "Google News Commodities",
-    "publicado": "27/10 11:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de queda na safra de soja devido ao El Niño pode impactar os preços da commodity no mercado internacional. Se as perdas forem confirmadas, isso pode afetar a balança comercial brasileira e a renda dos produtores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793125856.872581,
-    "titulo": "Revolut triplica capital da sua sociedade de crédito no Brasil",
-    "titulo_original": "Revolut triplica capital da sua sociedade de crédito no Brasil",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 14:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento de capital da Revolut no Brasil sinaliza um compromisso de longo prazo da fintech com o mercado local e sua estratégia de crescimento. Se a empresa continuar a expandir sua base de clientes e produtos, pode se tornar um player mais relevante no setor financeiro brasileiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793125862.3383107,
-    "titulo": "Shopee eleva capacidade em 60% em um ano e aguarda Anvisa para venda de medicamentos",
-    "titulo_original": "Shopee eleva capacidade em 60% em um ano e aguarda Anvisa para venda de medicamentos",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 15:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O investimento em logística pela Shopee demonstra um movimento de consolidação e expansão no mercado brasileiro de e-commerce. A potencial entrada na venda de medicamentos pode representar um novo segmento de mercado para a plataforma, dependendo da regulamentação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793125862.3404646,
-    "titulo": "Veículos de imprensa da Noruega recorrem à Justiça para impedir uso de conteúdo pela Meta",
-    "titulo_original": "Veículos de imprensa da Noruega recorrem à Justiça para impedir uso de conteúdo pela Meta",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 14:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A disputa legal entre veículos de imprensa e a Meta levanta questões sobre direitos autorais e o uso de conteúdo para treinamento de IA. Se a decisão for desfavorável à Meta, isso pode impactar o desenvolvimento de modelos de IA e a forma como empresas de tecnologia interagem com criadores de conteúdo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793125862.3425677,
-    "titulo": "Para sócio da maior acionista privada da Petrobras, sair do Brasil seria erro",
-    "titulo_original": "Para sócio da maior acionista privada da Petrobras, sair do Brasil seria erro",
-    "fonte": "InvestNews",
-    "publicado": "27/10 13:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A opinião de um investidor relevante como Rajiv Jain sugere que o mercado pode estar superestimando os riscos associados à reeleição de Lula. Se a Petrobras apresentar bons resultados operacionais, a percepção de risco pode diminuir, favorecendo o desempenho das ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793125862.3446584,
-    "titulo": "Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente?",
-    "titulo_original": "Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 14:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A correlação entre a alta do dólar e o desempenho das ações da Suzano indica o impacto do câmbio nos resultados da empresa. A análise futura dependerá de fatores como a demanda global por celulose e a estabilidade cambial.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793125862.3467786,
-    "titulo": "Bolsas europeias sobem com alívio no petróleo; Londres cai pressionada pelo HSBC",
-    "titulo_original": "Bolsas europeias sobem com alívio no petróleo; Londres cai pressionada pelo HSBC",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 14:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recuperação das bolsas europeias, influenciada pela queda nos preços do petróleo, sugere uma melhora temporária no sentimento de risco global. A performance divergente de Londres, pressionada por resultados corporativos específicos, destaca a importância dos fundamentos de cada empresa no desempenho do mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793133066.8706238,
-    "titulo": "BC: Pix responde por 55,2% das transações de pagamentos do 1º semestre",
-    "titulo_original": "BC: Pix responde por 55,2% das transações de pagamentos do 1º semestre",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 16:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A consolidação do Pix como meio de pagamento predominante indica uma mudança estrutural no comportamento do consumidor brasileiro. Se a tendência de crescimento se mantiver, isso pode pressionar a infraestrutura bancária tradicional e abrir novas oportunidades para serviços financeiros digitais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793133071.395772,
-    "titulo": "Prioridade no Congresso são PEC da Segurança, MP das Bets, Orçamento e tarifa, diz Guimarães",
-    "titulo_original": "Prioridade no Congresso são PEC da Segurança, MP das Bets, Orçamento e tarifa, diz Guimarães",
-    "fonte": "Money Times",
-    "publicado": "27/10 15:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A definição de prioridades legislativas pelo governo sinaliza a agenda política em andamento. A aprovação da MP das Bets, em particular, pode ter implicações regulatórias e fiscais para o setor de apostas esportivas. Se essas pautas avançarem, podem gerar mudanças no ambiente de negócios.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793133075.9143627,
-    "titulo": "Dólar à vista hoje corrige excessos após disparada da véspera",
-    "titulo_original": "Dólar à vista hoje corrige excessos após disparada da véspera - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 13:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A correção do dólar após uma forte alta sugere uma possível normalização das expectativas de mercado ou a realização de lucros. Se essa tendência de queda se confirmar, pode indicar uma menor pressão sobre a inflação importada e um alívio para o custo de produtos e serviços dolarizados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793133080.5104418,
-    "titulo": "Juros altos e dólar em disparada: o que esperar do crédito em 2027?",
-    "titulo_original": "Juros altos e dólar em disparada: o que esperar do crédito em 2027? - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 16:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cenário de juros altos e dólar em disparada sugere um ambiente de crédito mais restritivo e caro. Se essa tendência se mantiver, pode haver um impacto negativo no consumo e nos investimentos, exigindo estratégias de gestão de risco mais robustas por parte das empresas e consumidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793133085.7466002,
-    "titulo": "Vemos espaço para crescer em minério de ferro, apesar de cenário pressionado da commodity, diz Gerdau",
-    "titulo_original": "Vemos espaço para crescer em minério de ferro, apesar de cenário pressionado da commodity, diz Gerdau - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "27/10 14:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração da Gerdau sobre o minério de ferro sugere uma visão otimista sobre a demanda futura, possivelmente impulsionada por projetos de infraestrutura ou pela recuperação de setores industriais. Se a empresa conseguir expandir sua atuação, isso pode se refletir em seus resultados financeiros e na produção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793133085.7487512,
-    "titulo": "Gerdau vê vendas menores na América do Norte no 4º trimestre, mas margem estável",
-    "titulo_original": "Gerdau vê vendas menores na América do Norte no 4º trimestre, mas margem estável",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 14:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A expectativa de vendas menores na América do Norte, mas com margem estável, indica que a Gerdau pode estar focando em eficiência e precificação para compensar a menor demanda. Se a margem se mantiver, isso pode ser um sinal de resiliência operacional da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793133085.7507257,
-    "titulo": "Força dos EUA e geração de caixa dominam leitura de analistas sobre resultado da Gerdau",
-    "titulo_original": "Força dos EUA e geração de caixa dominam leitura de analistas sobre resultado da Gerdau",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 16:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho positivo da Gerdau nos EUA, compensando desafios em outras regiões, reforça a importância estratégica da operação americana para a empresa. Se essa tendência de forte geração de caixa se mantiver, pode indicar uma capacidade de investimento e distribuição de dividendos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793138451.1242747,
-    "titulo": "Analistas veem meses de tensão fiscal após reação do mercado a Lula",
-    "titulo_original": "Analistas veem meses de tensão fiscal após reação do mercado a Lula",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 14:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de tensão fiscal por meses indica que o mercado continuará a monitorar de perto as ações do governo em relação às contas públicas. Se o governo não conseguir apresentar um plano fiscal crível e eficaz, a pressão sobre os ativos brasileiros pode persistir; uma melhora na confiança fiscal, por outro lado, poderia aliviar essa tensão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793138456.441232,
-    "titulo": "BC só vai atuar no câmbio em caso de disfuncionalidade do mercado, diz Galípolo após alta do dólar",
-    "titulo_original": "BC só vai atuar no câmbio em caso de disfuncionalidade do mercado, diz Galípolo após alta do dólar",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 13:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Galípolo sinaliza que o Banco Central não tem como objetivo primário a gestão do câmbio, mas sim a estabilidade do mercado. Se o dólar continuar a apresentar movimentos bruscos e sem justificativa fundamental, o BC pode intervir, mas a ausência de intervenção direta sugere que a política monetária (juros) continuará sendo a principal ferramenta de controle da inflação e da economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793138461.8001108,
-    "titulo": "Após 'ressaca eleitoral', dólar recua a R$ 5,35 e Bolsa fecha em leve baixa - O GLOBO",
-    "titulo_original": "Após 'ressaca eleitoral', dólar recua a R$ 5,35 e Bolsa fecha em leve baixa - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 18:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A desvalorização do dólar após o período eleitoral sugere uma diminuição da aversão ao risco no curto prazo, mas a leve baixa da Bolsa indica que as incertezas fiscais e políticas ainda pesam. Se o cenário fiscal não apresentar melhoras claras, a pressão sobre a Bolsa pode persistir, mesmo com um dólar mais estável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793138467.2032042,
-    "titulo": "Alta dos juros reabre janela de oportunidades na renda fixa, diz XP",
-    "titulo_original": "Alta dos juros reabre janela de oportunidades na renda fixa, diz XP",
-    "fonte": "Money Times",
-    "publicado": "27/10 18:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A visão da XP de que a renda fixa permanece atrativa, mesmo com a incerteza política, sugere que os juros elevados continuam a oferecer retornos interessantes. Se a taxa Selic se mantiver em patamares altos por mais tempo, a renda fixa tenderá a ser uma opção mais segura e rentável em comparação com outros ativos de maior risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793138474.0282784,
-    "titulo": "Ibovespa destoa de ativos locais e amplia perdas após reeleição de Lula",
-    "titulo_original": "Ibovespa destoa de ativos locais e amplia perdas após reeleição de Lula",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 17:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A reação negativa do Ibovespa, mesmo após uma queda anterior, sugere que o mercado financeiro ainda precifica um risco fiscal elevado com a nova gestão. Se o governo não apresentar medidas concretas para ajuste fiscal nos próximos meses, a pressão sobre a bolsa pode continuar; caso contrário, uma melhora na percepção de risco pode impulsionar uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793138474.030447,
-    "titulo": "Estabilidade do Ibovespa depende do fiscal e do indicado para a Fazenda, diz estrategista-chefe da Monte Bravo",
-    "titulo_original": "Estabilidade do Ibovespa depende do fiscal e do indicado para a Fazenda, diz estrategista-chefe da Monte Bravo",
-    "fonte": "Money Times",
-    "publicado": "27/10 17:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A visão de que a estabilidade do Ibovespa está atrelada à política fiscal e à escolha do Ministro da Fazenda reforça a importância desses fatores para o mercado. Se houver clareza e credibilidade nas ações fiscais e na condução da economia, o Ibovespa pode encontrar um caminho de recuperação; caso contrário, a volatilidade tende a persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793138474.032419,
-    "titulo": "Goldman e JPMorgan veem mercados mais estáveis pela frente, mas melhora só após medidas fiscais",
-    "titulo_original": "Goldman e JPMorgan veem mercados mais estáveis pela frente, mas melhora só após medidas fiscais",
-    "fonte": "InvestNews",
-    "publicado": "27/10 14:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A concordância entre grandes bancos como Goldman Sachs e JPMorgan sobre a necessidade de medidas fiscais para a estabilidade do mercado reforça a percepção de risco fiscal no Brasil. Se o governo conseguir apresentar um plano fiscal robusto e eficaz, a confiança dos investidores pode aumentar, levando a uma melhora nos mercados; a ausência dessas medidas pode prolongar a instabilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793138474.034414,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa volta a cair, após tombo da véspera; bancos recuam - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa volta a cair, após tombo da véspera; bancos recuam - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "27/10 15:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade da queda do Ibovespa, especialmente com o recuo dos bancos, sugere que as preocupações com o cenário fiscal e político persistem no mercado. Se as incertezas fiscais não forem dissipadas com clareza e ações concretas, a pressão sobre o índice tende a se manter, impactando negativamente o desempenho das ações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793138474.0364149,
-    "titulo": "Ibovespa B3 cede 0,51%, puxado por minério de ferro e petróleo em baixa; dólar cai a R$ 5,35 - Bora Investir B3",
-    "titulo_original": "Ibovespa B3 cede 0,51%, puxado por minério de ferro e petróleo em baixa; dólar cai a R$ 5,35 - Bora Investir B3",
-    "fonte": "Google News Acoes",
-    "publicado": "27/10 17:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa, atrelada à baixa de commodities, e a desvalorização do dólar indicam um cenário de menor aversão ao risco global, mas a performance da bolsa brasileira ainda pode estar sendo afetada por fatores domésticos, como as incertezas fiscais. Se os preços das commodities se recuperarem e os fatores fiscais domésticos forem resolvidos, o Ibovespa pode encontrar suporte.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793138474.0384462,
-    "titulo": "ICYMI: Notícias do mercado das Américas da investingLive: Ações de tecnologia disparam",
-    "titulo_original": "investingLive Americas market news wrap: Tech stocks rally",
-    "fonte": "ForexLive",
-    "publicado": "27/10 17:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os dados econômicos dos EUA, em sua maioria positivos, podem sustentar um cenário de atividade robusta, o que pode influenciar as decisões futuras do Fed sobre juros. A notícia sobre Flávio Bolsonaro, embora não diretamente ligada a canais macroeconômicos, adiciona um elemento de volatilidade política ao contexto brasileiro, que pode ser interpretado pelo mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793138474.0404572,
-    "titulo": "É hora de proteger a carteira — e o BTG recomenda esta ação para isso",
-    "titulo_original": "É hora de proteger a carteira — e o BTG recomenda esta ação para isso",
-    "fonte": "Money Times",
-    "publicado": "27/10 18:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação do BTG foca em setores que podem se beneficiar de um ambiente de juros altos e câmbio desvalorizado, indicando uma estratégia de proteção de carteira. Se o cenário de juros elevados e pressão sobre o real se mantiver, empresas com forte vocação exportadora podem apresentar desempenho superior.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793143839.0969737,
-    "titulo": "Fed deve segurar juros, mas analistas já veem nova alta em dezembro",
-    "titulo_original": "Fed deve segurar juros, mas analistas já veem nova alta em dezembro - Suno - Investimentos Inteligentes",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "27/10 16:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A expectativa de manutenção dos juros pelo Fed, seguida por uma possível alta em dezembro, sugere um cenário de política monetária restritiva nos Estados Unidos. Se a inflação continuar pressionada, o Fed pode optar por um ciclo de aperto mais prolongado, o que tenderia a fortalecer o dólar e impactar mercados emergentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793143845.4547453,
-    "titulo": "Mercado Bitcoin pede autorização para atuar como corretora de criptoativos",
-    "titulo_original": "Mercado Bitcoin pede autorização  para atuar como corretora de criptoativos",
-    "fonte": "Valor Economico",
-    "publicado": "27/10 20:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O pedido de autorização do Mercado Bitcoin ao Banco Central indica um movimento de regulamentação do setor de criptoativos no Brasil. Se o pedido for aprovado, a empresa poderá operar sob novas regras, o que pode trazer mais segurança jurídica para seus clientes e para o mercado como um todo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793143845.4567156,
-    "titulo": "Ações da Boeing despencam 10% após redução de meta de entregas do 737",
-    "titulo_original": "Ações da Boeing despencam 10% após redução de meta de entregas do 737",
-    "fonte": "Folha Mercado",
-    "publicado": "27/10 19:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda nas ações da Boeing reflete preocupações com a capacidade de produção da empresa e o cumprimento de suas metas. Se as dificuldades de produção persistirem, isso pode impactar o setor aéreo globalmente, afetando companhias aéreas que dependem das entregas da Boeing.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793187049.917835,
     "titulo": "Agenda do dia: Decisão do Fed; Caged de setembro - Valor Econômico",
     "titulo_original": "Agenda do dia: Decisão do Fed; Caged de setembro - Valor Econômico",
@@ -1166,6 +778,127 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "Os resultados abaixo do esperado da Alphabet podem gerar pressão nas ações da companhia no curto prazo. Se a receita de publicidade em buscas continuar a crescer em ritmo inferior ao projetado, isso pode indicar um cenário de maior concorrência ou saturação no mercado de publicidade digital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793273447.6743395,
+    "titulo": "A indústria automotiva da China invadiu o Brasil e impressiona o mundo. No seu quintal, é outra história",
+    "titulo_original": "A indústria automotiva da China invadiu o Brasil e impressiona o mundo. No seu quintal, é outra história",
+    "fonte": "InvestNews",
+    "publicado": "29/10 05:07",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada nas vendas de automóveis no mercado interno brasileiro pode sinalizar uma desaceleração da atividade econômica. Se essa tendência persistir, pode impactar negativamente o setor automotivo e seus fornecedores; caso haja uma recuperação nos próximos meses, isso indicaria um cenário mais positivo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793273451.563029,
+    "titulo": "Agenda do dia: PCE e PIB dos EUA; IGP-M de outubro",
+    "titulo_original": "Agenda do dia: PCE e PIB dos EUA;  IGP-M de outubro",
+    "fonte": "Valor Economico",
+    "publicado": "29/10 08:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divulgação de dados de inflação (PCE) e atividade econômica (PIB) nos EUA, juntamente com o IGP-M no Brasil, pode gerar volatilidade nos mercados. Se o PCE vier acima do esperado, isso pode reforçar a expectativa de juros mais altos nos EUA; se o PIB dos EUA surpreender positivamente, isso pode indicar resiliência econômica, enquanto um IGP-M alto no Brasil pode pressionar a inflação doméstica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793273455.437145,
+    "titulo": "Administração Trump em conversas contínuas para um acordo de paz temporário com o Irã",
+    "titulo_original": "Trump administration in ongoing talks for a temporary peace deal with Iran - Semafor",
+    "fonte": "ForexLive",
+    "publicado": "29/10 06:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um acordo de paz com o Irã tenderia a reduzir a volatilidade nos preços do petróleo, o que poderia ter um efeito desinflacionário global. Se as negociações falharem e houver uma escalada militar, os preços do petróleo podem subir, impactando a inflação globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793273459.3924534,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "29/10 04:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do BCE de manter os juros inalterados, apesar da aceleração da inflação, indica um equilíbrio entre o combate à inflação e o receio de desaceleração econômica. Se o BCE sinalizar uma postura mais hawkish em futuras reuniões devido à inflação, isso pode pressionar os juros europeus; caso contrário, se o foco for o crescimento, a política monetária pode permanecer acomodatícia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793273467.1248698,
+    "titulo": "Dow Jones hoje: Wall Street digere decisão do Fed e forte queda da dona do Google na bolsa",
+    "titulo_original": "Dow Jones hoje: Wall Street digere decisão do Fed e forte queda da dona do Google na bolsa - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/10 08:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do Fed sobre juros é um fator crucial para o mercado acionário. Se a decisão do Fed for interpretada como mais restritiva do que o esperado, isso pode pressionar os índices de bolsa; se a queda da dona do Google for isolada e não refletir um problema setorial mais amplo, o impacto geral do mercado pode ser limitado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793273467.1263936,
+    "titulo": "Ambev aprova programa de recompra de até 190 milhões de ações",
+    "titulo_original": "Ambev aprova programa de recompra de até 190 milhões de ações - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "29/10 08:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Um programa de recompra de ações geralmente sinaliza confiança da administração no valor da empresa e pode ter um impacto positivo no preço das ações. Se a Ambev executar a recompra de forma agressiva, isso pode sustentar a cotação; caso contrário, a ausência de compras significativas pode limitar o impacto.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793273467.1278055,
+    "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira",
+    "titulo_original": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (29)",
+    "fonte": "Money Times",
+    "publicado": "29/10 06:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divulgação de múltiplos indicadores econômicos pode gerar volatilidade nos mercados. Se os dados de inflação, como o IGP-M, vierem significativamente acima do esperado, isso pode pressionar o Banco Central a manter uma postura mais restritiva; se vierem abaixo, pode abrir espaço para otimismo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793273467.129219,
+    "titulo": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa",
+    "titulo_original": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "29/10 05:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise histórica de eleições pode oferecer insights sobre o comportamento da bolsa em períodos eleitorais. Se o padrão histórico se repetir, podemos esperar volatilidade; caso contrário, novos fatores podem influenciar o mercado de forma diferente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793273467.1306212,
+    "titulo": "Ambev impulsiona vendas de cervejas premium no Brasil, mas lucro cai 10% no 3º trimestre",
+    "titulo_original": "Ambev impulsiona vendas de cervejas premium no Brasil, mas lucro cai 10% no 3° trimestre",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 07:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda no lucro líquido da Ambev, embora explicada por fatores não recorrentes, pode gerar preocupação entre investidores. Se o crescimento do lucro líquido ajustado se mantiver robusto nos próximos trimestres, isso pode indicar uma recuperação; caso contrário, a tendência de queda pode persistir.",
     "is_stocks": true
   }
 ]
