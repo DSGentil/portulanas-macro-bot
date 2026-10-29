@@ -1,69 +1,5 @@
 [
   {
-    "_timestamp": 1793200544.168303,
-    "titulo": "Alcolumbre convoca sessão do Senado para discutir MP e PL",
-    "titulo_original": "Alcolumbre convoca sessão do Senado para discutir MP e PL",
-    "fonte": "Valor Economico",
-    "publicado": "28/10 11:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A urgência na votação da MP e do PL no Senado visa garantir a continuidade de apoios financeiros a setores específicos. Se as matérias forem aprovadas, os setores beneficiados terão segurança jurídica; caso contrário, a interrupção dos programas pode gerar impactos econômicos e sociais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793200549.1146054,
-    "titulo": "Dólar valorizado favorece exportações de algodão",
-    "titulo_original": "Dólar valorizado favorece exportações de algodão - Agrolink",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "28/10 11:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar beneficia diretamente os exportadores de algodão, tornando o produto brasileiro mais competitivo no mercado internacional. Se a tendência de valorização da moeda se mantiver, o setor de exportação de algodão pode continuar a prosperar; uma reversão dessa tendência poderia impactar negativamente o volume exportado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793200554.2498355,
-    "titulo": "Alta do petróleo e do dólar pode pressionar custos do agronegócio no fim de 2026",
-    "titulo_original": "Alta do petróleo e do dólar pode pressionar custos do agronegócio no fim de 2026 - CBN Ribeirão",
-    "fonte": "Google News Commodities",
-    "publicado": "28/10 11:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A combinação da alta do petróleo e do dólar pode elevar os custos de produção no agronegócio, impactando a rentabilidade do setor. Se os preços das commodities agrícolas acompanharem essa alta de custos, o impacto pode ser mitigado; caso contrário, as margens dos produtores podem ser comprimidas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793200559.2314148,
-    "titulo": "Crise do petróleo leva Latam a cancelar 2.476 voos no 2° trimestre de 2027",
-    "titulo_original": "Exclusivo: Crise do petróleo leva Latam a cancelar 2.476 voos no 2° trimestre de 2027",
-    "fonte": "Valor Economico",
-    "publicado": "28/10 11:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O cancelamento de voos pela Latam, motivado pela alta do petróleo, pode impactar a oferta de passagens e os custos para os consumidores. Se o preço do petróleo se estabilizar ou cair, a companhia aérea pode reverter parte dos cancelamentos; caso contrário, a redução de frequências pode se tornar uma estratégia de longo prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793200564.7685513,
-    "titulo": "Reino Unido anuncia orçamento com medidas de apoio para amenizar a alta dos preços da energia",
-    "titulo_original": "Reino Unido anuncia orçamento com medidas de apoio para amenizar a alta dos preços da energia",
-    "fonte": "Valor Economico",
-    "publicado": "28/10 11:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "As medidas fiscais anunciadas visam mitigar o impacto da inflação de energia na população, mas o aumento de impostos sobre setores específicos pode gerar reações. Se a economia global se estabilizar, o governo pode ter margem para reavaliar essas medidas; caso contrário, a pressão por mais gastos públicos pode persistir.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793205947.5569525,
     "titulo": "Estados aprovam alta do ICMS sobre combustíveis e pressionam preços em 2027",
     "titulo_original": "Estados aprovam alta do ICMS sobre combustíveis e pressionam preços em 2027",
@@ -1210,6 +1146,150 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A previsão da Ambev sobre a neutralidade tributária do \"imposto do pecado\" para cervejas indica que a carga tributária sobre o setor deve permanecer estável. Se essa neutralidade se confirmar, a empresa não deverá enfrentar aumentos significativos em seus custos, o que pode ser positivo para seus resultados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793311246.0281851,
+    "titulo": "Oposição quer se adiantar ao governo e mandar PEC própria de equilíbrio fiscal ao Congresso",
+    "titulo_original": "Oposição quer se adiantar ao governo e mandar PEC própria de equilíbrio fiscal ao Congresso",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 17:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa da oposição em propor uma PEC de equilíbrio fiscal pode gerar incerteza sobre a condução da política econômica. Se a proposta ganhar tração, pode influenciar as expectativas sobre o futuro fiscal do país e, consequentemente, o comportamento do dólar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793311249.9087777,
+    "titulo": "Ala do PT contrária ao ajuste fiscal manifesta preocupação com eventual indicação de Fonteles para a Fazenda",
+    "titulo_original": "Ala do PT contrária ao ajuste fiscal manifesta preocupação com eventual indicação de Fonteles para a Fazenda",
+    "fonte": "Valor Economico",
+    "publicado": "29/10 17:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência interna no PT sobre a política fiscal, especificamente em relação à possível indicação de Fonteles para a Fazenda, pode gerar incerteza sobre a direção da política econômica. Se essa corrente ganhar força, pode haver um impacto na percepção de risco fiscal do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793311253.8267717,
+    "titulo": "Notícias do mercado das Américas: BCE mantém juros, fontes relatam alta em dezembro",
+    "titulo_original": "investingLive Americas market news wrap: ECB holds, sources report says December hike",
+    "fonte": "ForexLive",
+    "publicado": "29/10 17:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do BCE de manter os juros, mas com sinais de possível alta futura, pode influenciar o cenário global de política monetária. Se a inflação nos EUA continuar acima do esperado, o Federal Reserve pode ter que manter uma postura mais restritiva, o que tende a fortalecer o dólar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793311257.7231503,
+    "titulo": "Ouro recua após dados dos EUA e decisão de política monetária do Fed",
+    "titulo_original": "Ouro recua após dados dos EUA e decisão de política monetária do Fed - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/10 15:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A relação entre as decisões do Fed e o preço do ouro é bem estabelecida. Se o Fed sinalizar uma postura mais dura em relação aos juros, isso tende a pressionar o ouro para baixo, enquanto um tom mais dovish poderia impulsioná-lo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793311263.4820795,
+    "titulo": "No 4º dia de queda, Ibovespa cede aos 169 mil pontos e dólar dispara e toca R$ 5,42",
+    "titulo_original": "No 4º dia de queda, Ibovespa cede aos 169 mil pontos e dólar dispara e toca R$ 5,42 - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "29/10 16:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade da queda do Ibovespa e a valorização do dólar indicam um cenário de aversão ao risco no mercado doméstico. Se a incerteza fiscal persistir, o dólar pode continuar sua trajetória de alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793311263.4841483,
+    "titulo": "Bolsas de NY caem com expectativas de alta dos juros; dona do Google tomba 12%",
+    "titulo_original": "Bolsas de NY caem com expectativas de alta dos juros; dona do Google tomba 12%",
+    "fonte": "Money Times",
+    "publicado": "29/10 17:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas de Nova York, associada à expectativa de alta de juros pelo Fed e aos resultados fracos da Alphabet, sinaliza um cenário de aversão ao risco global. Se essa tendência se mantiver, pode haver um fluxo de capital para ativos mais seguros, impactando o dólar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793311263.4860723,
+    "titulo": "Ibovespa tem 4ª queda seguida com incerteza fiscal e mau humor externo; dólar sobe e encosta em R$ 5,40",
+    "titulo_original": "Ibovespa tem 4ª queda seguida com incerteza fiscal e mau humor externo; dólar sobe e encosta em R$ 5,40",
+    "fonte": "Money Times",
+    "publicado": "29/10 17:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade da queda do Ibovespa, associada à incerteza fiscal e ao pessimismo externo, reforça um cenário de aversão ao risco no mercado brasileiro. Se a incerteza fiscal não for dissipada, o dólar pode manter sua tendência de valorização.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793311263.4879706,
+    "titulo": "Ações da Amazon caem com resultado abaixo do esperado no 3º tri e previsão fraca para vendas de Natal",
+    "titulo_original": "Ações da Amazon caem com resultado abaixo do esperado no 3º tri e previsão fraca para vendas de Natal",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 18:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Resultados corporativos abaixo do esperado para grandes empresas de tecnologia podem gerar aversão ao risco global. Se essa tendência se intensificar, pode haver um fluxo de capital para ativos mais seguros, impactando o mercado de câmbio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793311263.4898667,
+    "titulo": "Ações da Amazon e Intel derretem após divulgação de balanços do 3T26; entenda o que decepcionou os investidores",
+    "titulo_original": "Ações da Amazon e Intel derretem após divulgação de balanços do 3T26; entenda o que decepcionou os investidores",
+    "fonte": "Money Times",
+    "publicado": "29/10 18:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A divulgação de balanços corporativos decepcionantes para empresas de grande capitalização pode aumentar a percepção de risco no mercado. Se essa tendência se mantiver, pode haver um impacto negativo no fluxo de capital para mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793311263.4918,
+    "titulo": "Venda de fatia em shopping faz lucro da Multiplan subir 73% no 3º trimestre",
+    "titulo_original": "Venda de fatia em shopping faz lucro da Multiplan subir 73% no 3º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "29/10 18:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O resultado positivo da Multiplan, embora impulsionado por uma venda de ativo, reflete uma melhora em suas métricas financeiras. Se a tendência de melhora nos resultados corporativos se estender a outros setores, isso pode sinalizar um ambiente mais favorável para o mercado acionário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793311263.493724,
+    "titulo": "Intel reduz previsão de receitas com chips, e ações despencam 17%",
+    "titulo_original": "Intel reduz previsão de receitas com chips, e ações despencam 17%",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 17:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A redução na previsão de receitas da Intel e a consequente queda em suas ações indicam um cenário desafiador para o setor de semicondutores. Se essa tendência se espalhar para outras empresas do setor, pode haver um impacto negativo no fluxo de capital para mercados de tecnologia.",
     "is_stocks": true
   }
 ]
