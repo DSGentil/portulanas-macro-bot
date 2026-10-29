@@ -900,5 +900,86 @@
     "origem": "domestica",
     "leitura_critica": "A queda no lucro líquido da Ambev, embora explicada por fatores não recorrentes, pode gerar preocupação entre investidores. Se o crescimento do lucro líquido ajustado se mantiver robusto nos próximos trimestres, isso pode indicar uma recuperação; caso contrário, a tendência de queda pode persistir.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793279745.060254,
+    "titulo": "Governo central tem superávit primário de R$ 4,839 bilhões em setembro",
+    "titulo_original": "Governo central tem superávit primário de R$ 4,839 bilhões em setembro",
+    "fonte": "Valor Economico",
+    "publicado": "29/10 10:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O superávit primário em setembro pode indicar uma melhora na gestão fiscal do governo. Se essa tendência se mantiver nos próximos meses, pode haver uma pressão menor sobre a dívida pública. Contudo, o déficit acumulado em 12 meses ainda representa um desafio a ser monitorado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793279750.0084581,
+    "titulo": "Produção de petróleo e gás no país volta a bater recorde em setembro, afirma ANP",
+    "titulo_original": "Produção de petróleo e gás no país volta a bater recorde em setembro, afirma ANP - NovaCana",
+    "fonte": "Google News Commodities",
+    "publicado": "29/10 08:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde na produção de petróleo e gás no Brasil pode ter um impacto positivo na balança comercial e na arrecadação fiscal. Se a produção continuar crescendo, isso pode sustentar o setor de energia. Contudo, a notícia não detalha se há impacto direto em outros canais como inflação ou juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793279754.953443,
+    "titulo": "Dólar sobe com petróleo em queda e incertezas fiscais",
+    "titulo_original": "Dólar sobe com petróleo em queda e incertezas fiscais - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/10 09:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do dólar, atrelada a incertezas fiscais, pode pressionar a inflação e dificultar o controle de preços. Se as incertezas fiscais persistirem, o Banco Central pode ter que manter uma postura mais restritiva nos juros. A queda do petróleo também contribui para a volatilidade cambial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793279759.86378,
+    "titulo": "Dólar hoje avança em linha com o exterior",
+    "titulo_original": "Dólar hoje avança em linha com o exterior - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/10 09:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A valorização do dólar em linha com o exterior sugere que fatores globais estão influenciando o câmbio. Se o cenário externo se mantiver volátil, o dólar pode continuar pressionando a inflação doméstica. É importante observar se o movimento é impulsionado por aversão a risco ou por políticas monetárias.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793279767.5939198,
+    "titulo": "Confiança de serviços fica quase estável em outubro, indica FGV",
+    "titulo_original": "Confiança de serviços fica quase estável em outubro, indica FGV",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 09:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade na confiança do setor de serviços sugere que a atividade econômica pode estar se mantendo em um patamar moderado. Se as expectativas futuras melhorarem, isso pode indicar um impulso para o crescimento. Contudo, a divergência nas visões aponta para uma recuperação ainda incerta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793279767.595494,
+    "titulo": "Sessão europeia de investimentos: Ações divergem enquanto mercados se preparam para inflação dos EUA, balanço do BCE e Amazon",
+    "titulo_original": "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings",
+    "fonte": "ForexLive",
+    "publicado": "29/10 09:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A divergência nas bolsas europeias e a queda nos futuros americanos indicam cautela antes de dados importantes de inflação e balanços corporativos. Se a inflação dos EUA vier alta, o Federal Reserve pode adiar cortes de juros. O balanço da Amazon também será crucial para o setor de tecnologia.",
+    "is_stocks": true
   }
 ]
