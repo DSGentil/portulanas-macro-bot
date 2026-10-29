@@ -1,114 +1,5 @@
 [
   {
-    "_timestamp": 1793187049.917835,
-    "titulo": "Agenda do dia: Decisão do Fed; Caged de setembro - Valor Econômico",
-    "titulo_original": "Agenda do dia: Decisão do Fed; Caged de setembro - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "28/10 08:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A decisão do Fed sobre juros e o Caged de setembro são eventos de alta relevância. Se o Fed mantiver juros elevados, isso pode impactar negativamente a atividade econômica global e brasileira; um Caged forte pode indicar resiliência da economia local, mas também alimentar receios inflacionários.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793187053.8000207,
-    "titulo": "Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic? - InfoMoney",
-    "titulo_original": "Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "28/10 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A expectativa de que o Fed mantenha os juros, com uma pausa que pode ser temporária, sugere um cenário de política monetária restritiva nos EUA. Isso pode influenciar a trajetória da Selic, caso o Banco Central do Brasil precise ajustar sua política para gerenciar pressões inflacionárias ou fluxos de capital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793187057.6738772,
-    "titulo": "Mediadores cataris apresentaram ao Irã novo rascunho de acordo; resposta do Irã esperada até o fim da semana",
-    "titulo_original": "Qatari mediators presented Iran with new draft deal; Iran's response expected by the end of the week",
-    "fonte": "ForexLive",
-    "publicado": "28/10 05:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A apresentação de um novo rascunho de acordo entre EUA e Irã, mediado pelo Catar, pode gerar um forte rali em ativos de risco com a expectativa de melhora nas expectativas de crescimento e alívio nas preocupações com a inflação. O petróleo seria o principal afetado, com potencial de forte desvalorização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793187061.5085335,
-    "titulo": "Otimismo com IA impulsiona ações em NY antes de decisão do Fed - Valor Econômico",
-    "titulo_original": "Otimismo com IA impulsiona ações em NY antes de decisão do Fed - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "28/10 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O otimismo com IA impulsionando ações em Nova York, antes da decisão do Fed, sugere um cenário de busca por crescimento em setores tecnológicos. A decisão do Fed sobre juros será determinante para a direção futura do mercado, podendo moderar ou intensificar o apetite por risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793187066.8020594,
-    "titulo": "Ibovespa hoje: decisão sobre juros nos EUA entra no radar após sequência de quedas da Bolsa - Estadão",
-    "titulo_original": "Ibovespa hoje: decisão sobre juros nos EUA entra no radar após sequência de quedas da Bolsa - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "28/10 04:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A decisão de juros dos EUA é um fator crucial para o Ibovespa, especialmente após uma sequência de quedas. Se o Fed mantiver uma postura mais restritiva, isso pode pressionar ainda mais a bolsa brasileira; uma sinalização de pausa ou corte, por outro lado, poderia impulsionar uma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793187066.8037424,
-    "titulo": "Santander Brasil vê lucro recuar no terceiro trimestre; inadimplência sobe",
-    "titulo_original": "Santander Brasil vê lucro recuar no terceiro trimestre; inadimplência sobe",
-    "fonte": "Valor Economico",
-    "publicado": "28/10 07:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda no lucro e o aumento da inadimplência do Santander Brasil refletem um cenário macroeconômico desafiador, com exigência de disciplina e foco na qualidade dos resultados. A recuperação gradual da rentabilidade dependerá da evolução do ambiente econômico e da capacidade do banco em gerenciar riscos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793187066.805294,
-    "titulo": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Petróleo hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Commodities",
-    "publicado": "28/10 06:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O acompanhamento da cotação do petróleo é relevante para monitorar o preço de uma commodity fundamental. A relevância macroeconômica dependerá de como as variações no preço do petróleo impactam a inflação e a atividade econômica global e brasileira, o que não é detalhado na notícia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793187066.8069203,
-    "titulo": "Braskem confirma prorrogação de negociação com credores até 30 de outubro",
-    "titulo_original": "Braskem confirma prorrogação de negociação com credores até 30 de outubro",
-    "fonte": "Valor Economico",
-    "publicado": "28/10 07:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A prorrogação das negociações da Braskem com credores indica que a reestruturação da dívida ainda está em andamento. A notícia, por si só, não detalha impactos diretos nos canais macroeconômicos, mas reflete a situação de uma grande empresa brasileira.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793193342.5686736,
     "titulo": "Mercado brasileiro de criptomoedas: quem fica e quem sai (por enquanto)",
     "titulo_original": "Mercado brasileiro de criptomoedas: quem fica e quem sai (por enquanto)",
@@ -1185,6 +1076,118 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa, associada ao risco fiscal, indica que as preocupações com a política econômica estão pesando sobre o mercado. Se o risco fiscal se intensificar, isso pode levar a uma maior aversão ao risco e pressionar ainda mais a bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793298647.053429,
+    "titulo": "Dívida bruta do Brasil se mantém em 82,9% do PIB em setembro, maior nível desde 2021, mostra BC",
+    "titulo_original": "Dívida bruta do Brasil se mantém em 82,9% do PIB em setembro, maior nível desde 2021, mostra BC",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 14:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da dívida bruta em patamares elevados pode limitar a margem de manobra do governo para políticas de estímulo ou para lidar com choques econômicos. Se não houver uma trajetória clara de redução, a percepção de risco fiscal pode aumentar, impactando o custo de financiamento do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793298651.460517,
+    "titulo": "Dólar pós-eleitoral: por que o momento é de ampliar a diversificação em moeda forte",
+    "titulo_original": "Dólar pós-eleitoral: por que o momento é de ampliar a diversificação em moeda forte - InvestNews",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/10 10:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de diversificar em moeda forte após um período eleitoral pode refletir uma percepção de incerteza sobre a estabilidade futura da economia doméstica. Se essa tendência se confirmar, pode haver uma saída de capital em busca de refúgios mais seguros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793298655.9878085,
+    "titulo": "Risco de liquidez das ações caiu em setembro ao menor nível desde 2019, diz CVM",
+    "titulo_original": "Risco de liquidez das ações caiu em setembro  ao menor nível desde 2019,  diz CVM",
+    "fonte": "Valor Economico",
+    "publicado": "29/10 14:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A melhora na liquidez das ações sugere um ambiente de maior confiança para os investidores no mercado de renda variável. Se essa tendência se mantiver, pode atrair mais capital estrangeiro, o que seria positivo para a bolsa brasileira.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793298660.3589985,
+    "titulo": "Tesouro dos EUA vende US$ 44 bilhões em notas de 7 anos com rendimento alto de 4,894%",
+    "titulo_original": "US treasury sells $44 billion of 7 year notes at a high yield of 4.894%",
+    "fonte": "ForexLive",
+    "publicado": "29/10 14:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A venda de títulos do Tesouro dos EUA com rendimento de 4,894% pode influenciar as taxas de juros globais. Um rendimento mais alto pode atrair capital para os EUA, o que, em contrapartida, pode pressionar outras moedas e mercados de renda fixa em outras jurisdições.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793298665.6496809,
+    "titulo": "Estatais federais têm déficit de R$ 2 bi em setembro, maior para o mês na série histórica, diz BC",
+    "titulo_original": "Estatais federais têm déficit de R$ 2 bi em setembro, maior para o mês na série histórica, diz BC",
+    "fonte": "Valor Economico",
+    "publicado": "29/10 15:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do déficit das estatais federais em setembro pode indicar uma pressão adicional sobre as contas públicas. Se essa tendência se mantiver nos próximos meses, pode haver necessidade de ajustes fiscais mais rigorosos para cumprir as metas estabelecidas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793298665.6514707,
+    "titulo": "A uma semana do Copom, Opções da B3 indicam 63,1% de chance de manutenção da Selic",
+    "titulo_original": "A uma semana do Copom, Opções da B3 indicam 63,1% de chance de manutenção da Selic - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/10 15:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A probabilidade de manutenção da Selic sugere que o mercado precifica um cenário de cautela por parte do Banco Central. Se o Copom decidir por um corte, isso pode ser interpretado como um sinal de maior confiança na trajetória da inflação; caso contrário, reforçaria a visão de que os riscos ainda são relevantes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793298665.6531389,
+    "titulo": "Selic vai parar de cair? Probabilidade de pausa nos cortes pelo Copom chega a 63% na B3",
+    "titulo_original": "Selic vai parar de cair? Probabilidade de pausa nos cortes pelo Copom chega a 63% na B3 - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/10 13:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta probabilidade de pausa nos cortes da Selic sugere que o mercado vê riscos inflacionários ou de atividade que justificariam a manutenção da taxa de juros. Se o Copom decidir por um corte, isso pode indicar uma leitura mais otimista sobre a economia; se mantiver, reforçará a cautela.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793298665.654587,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "29/10 15:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento da cotação do dólar ao vivo é crucial para entender o fluxo de capital e a percepção de risco do mercado. Se o dólar apresentar volatilidade significativa, isso pode indicar mudanças no apetite por ativos brasileiros e influenciar decisões de investimento.",
     "is_stocks": true
   }
 ]
