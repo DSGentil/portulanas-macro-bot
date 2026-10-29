@@ -1,127 +1,5 @@
 [
   {
-    "_timestamp": 1793193342.5686736,
-    "titulo": "Mercado brasileiro de criptomoedas: quem fica e quem sai (por enquanto)",
-    "titulo_original": "Mercado brasileiro de criptomoedas: quem fica e quem sai (por enquanto)",
-    "fonte": "InvestNews",
-    "publicado": "28/10 08:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A regulamentação do mercado de criptomoedas pelo Banco Central pode trazer mais segurança jurídica para investidores e empresas. Se um número significativo de players não obtiver a autorização, isso pode concentrar o mercado em poucas mãos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793193347.4446664,
-    "titulo": "Orçamento do Reino Unido: Previsões de crescimento cortadas enquanto Healey revela um colchão fiscal de £15 bilhões",
-    "titulo_original": "UK budget: Growth forecasts cut as Healey unveils £15 billion fiscal buffer",
-    "fonte": "ForexLive",
-    "publicado": "28/10 09:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A redução nas previsões de crescimento para 2027 indica um cenário econômico mais desafiador para o Reino Unido. Se o governo não conseguir manter a margem fiscal anunciada, isso pode levar a cortes de gastos ou aumento de impostos no futuro, impactando a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793193352.1933377,
-    "titulo": "BC da Tailândia mantém juro em 1% em meio a um crescimento econômico ainda fraco",
-    "titulo_original": "BC da Tailândia mantém juro em 1% em meio a um crescimento econômico ainda fraco",
-    "fonte": "Valor Economico",
-    "publicado": "28/10 10:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão de manter os juros baixos na Tailândia sugere um foco na estímulo à economia local. Se a inflação global apresentar sinais de aceleração, bancos centrais como o da Tailândia podem ser forçados a rever essa postura para evitar pressões inflacionárias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793193356.936792,
-    "titulo": "Mediadores do Catar apresentam proposta ao Irã para encerrar guerra",
-    "titulo_original": "Mediadores do Catar apresentam proposta ao Irã para encerrar guerra",
-    "fonte": "Valor Economico",
-    "publicado": "28/10 09:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A apresentação de uma nova proposta de paz no Oriente Médio pode reduzir a tensão geopolítica na região. Se o Irã aceitar a proposta, isso pode levar a uma diminuição da volatilidade nos preços do petróleo e afetar o fluxo de capital para ativos de refúgio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793193363.5299184,
-    "titulo": "Estrangeiros retiraram R$ 2,8 bilhões da B3 no dia seguinte às eleições",
-    "titulo_original": "Estrangeiros retiraram R$ 2,8 bilhões da B3 no dia seguinte às eleições - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "28/10 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A saída de capital estrangeiro da B3 após as eleições pode indicar uma aversão ao risco ou incertezas sobre o cenário político e econômico futuro. Se essa tendência de saída se mantiver, pode pressionar a bolsa brasileira e o câmbio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793193363.5314424,
-    "titulo": "Confiança da indústria brasileira cai pelo terceiro mês seguido, diz FGV",
-    "titulo_original": "Confiança da indústria brasileira cai pelo terceiro mês seguido, diz FGV",
-    "fonte": "Folha Mercado",
-    "publicado": "28/10 09:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A contínua queda na confiança da indústria brasileira pode sinalizar uma desaceleração na produção e nos investimentos futuros. Se essa tendência se mantiver, pode haver pressão por medidas de estímulo econômico por parte do governo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793193363.5329418,
-    "titulo": "Na Petrobras, preço dos combustíveis vira bode na sala",
-    "titulo_original": "Na Petrobras, preço dos combustíveis vira bode na sala - Brazil Journal",
-    "fonte": "Google News Acoes",
-    "publicado": "28/10 06:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre os preços dos combustíveis na Petrobras pode indicar pressões políticas ou econômicas sobre a política de preços da empresa. Se houver uma intervenção direta na política de preços, isso pode afetar os resultados da companhia e a inflação de energia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793193363.5343368,
-    "titulo": "Preços baixos do minério devem afetar resultado da Vale no 3º tri, dizem analistas",
-    "titulo_original": "Preços baixos do minério devem afetar resultado da Vale no 3º tri, dizem analistas",
-    "fonte": "Valor Economico",
-    "publicado": "28/10 09:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda projetada no lucro da Vale devido aos preços das commodities pode impactar o desempenho do setor de mineração e a arrecadação fiscal. Se os preços do minério de ferro continuarem em baixa, isso pode pressionar ainda mais os resultados da empresa e afetar o fluxo de capital estrangeiro para o setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793193363.5357192,
-    "titulo": "Inventários atacadistas dos EUA 0,6% vs. estimativa de 0,5%",
-    "titulo_original": "US Wholesale inventories 0.6% vs 0.5% estimate",
-    "fonte": "ForexLive",
-    "publicado": "28/10 09:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento nos inventários atacadistas pode indicar uma preparação para vendas futuras mais fortes ou um acúmulo de bens não vendidos. Se as vendas não acompanharem o ritmo de acumulação de estoques, isso pode levar a uma desaceleração na produção e impactar o crescimento do PIB.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793200544.168303,
     "titulo": "Alcolumbre convoca sessão do Senado para discutir MP e PL",
     "titulo_original": "Alcolumbre convoca sessão do Senado para discutir MP e PL",
@@ -1188,6 +1066,150 @@
     ],
     "origem": "domestica",
     "leitura_critica": "O acompanhamento da cotação do dólar ao vivo é crucial para entender o fluxo de capital e a percepção de risco do mercado. Se o dólar apresentar volatilidade significativa, isso pode indicar mudanças no apetite por ativos brasileiros e influenciar decisões de investimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793305847.0120866,
+    "titulo": "Um freio de arrumação para 2027",
+    "titulo_original": "Um freio de arrumação para 2027",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 16:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistência de uma trajetória fiscal insustentável, mesmo com crescimento econômico, indica a necessidade de medidas de ajuste fiscal mais rigorosas. Se o governo não conseguir controlar as despesas, a dívida pública pode continuar a crescer, gerando preocupações sobre a sustentabilidade fiscal a médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793305851.6696062,
+    "titulo": "Trump: Guerra no Irã acabará muito em breve. Senador alerta para planos 'insanos' dos EUA",
+    "titulo_original": "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
+    "fonte": "ForexLive",
+    "publicado": "29/10 15:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Se a situação no Irã escalar, os preços do petróleo podem sofrer novas altas, impactando a inflação global. Caso haja uma resolução diplomática rápida, como sugerido por Trump, a pressão sobre os preços do petróleo pode diminuir, aliviando a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793305856.3326068,
+    "titulo": "Trump diz que conversará com Lula e que petista pediu para não interferir na disputa - InfoMoney",
+    "titulo_original": "Trump diz que conversará com Lula e que petista pediu para não interferir na disputa - InfoMoney",
+    "fonte": "Google News Geopolitica",
+    "publicado": "29/10 13:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração de Trump sobre Lula pode indicar um possível alinhamento ou negociação entre os líderes. Se essa conversa resultar em uma postura de não interferência mútua, isso pode trazer mais estabilidade ao cenário político e econômico, especialmente em relação a relações comerciais e investimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793305860.9843874,
+    "titulo": "Trump compra briga com China por causa de Lula - Gazeta do Povo",
+    "titulo_original": "Trump compra briga com China por causa de Lula - Gazeta do Povo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "29/10 12:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A notícia sugere uma tensão geopolítica envolvendo EUA, China e Brasil. Se essa disputa se intensificar, pode haver impactos nas relações comerciais e na estabilidade global, afetando mercados de commodities e fluxos de investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793305877.528179,
+    "titulo": "Os dois fatores essenciais para reduzir a pressão no mercado brasileiro, segundo Mansueto, do BTG",
+    "titulo_original": "Os dois fatores essenciais para reduzir a pressão no mercado brasileiro, segundo Mansueto, do BTG",
+    "fonte": "Money Times",
+    "publicado": "29/10 17:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A combinação de juros altos e expectativas de inflação em alta sugere que o Banco Central pode manter uma postura restritiva. Se um plano fiscal consistente for apresentado e implementado, isso pode reduzir a percepção de risco e permitir uma queda mais rápida dos juros, aliviando a pressão sobre os ativos brasileiros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793305877.530171,
+    "titulo": "Microsoft anuncia nova emissão de títulos de dívida e amplia onda de endividamento para IA",
+    "titulo_original": "Microsoft anuncia nova emissão de títulos de dívida e amplia onda de endividamento para IA",
+    "fonte": "Valor Economico",
+    "publicado": "29/10 16:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A emissão de títulos pela Microsoft para financiar investimentos em IA sinaliza a continuidade do apetite por dívida no setor de tecnologia. Se outras empresas seguirem o mesmo caminho, isso pode aumentar a oferta de títulos no mercado, potencialmente influenciando as taxas de juros globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793305877.532069,
+    "titulo": "Vale divulga balanço do 3º trimestre de 2026; acompanhe ao vivo - InfoMoney",
+    "titulo_original": "Vale divulga balanço do 3º trimestre de 2026; acompanhe ao vivo - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "29/10 15:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O resultado trimestral da Vale pode influenciar o desempenho das ações da empresa e o setor de mineração. Se o balanço apresentar números fortes, isso pode gerar otimismo no mercado; caso contrário, pode haver pressão vendedora sobre os papéis.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793305877.5339177,
+    "titulo": "MPT processa Meta em R$ 50 milhões por assédio eleitoral nas redes sociais",
+    "titulo_original": "MPT processa Meta em R$ 50 milhões por assédio eleitoral nas redes sociais",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 15:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ação do MPT contra a Meta representa uma decisão regulatória com potencial impacto financeiro para a empresa. Se a Meta for condenada, isso pode servir de precedente para outras ações e reforçar a fiscalização sobre o uso de plataformas digitais em processos eleitorais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793305877.535815,
+    "titulo": "Azul (AZUL3): Bradesco BBI passa a tesoura no preço-alvo com combustível, câmbio e sensibilidade financeira no radar",
+    "titulo_original": "Azul (AZUL3): Bradesco BBI passa a tesoura no preço-alvo com combustível, câmbio e sensibilidade financeira no radar",
+    "fonte": "Money Times",
+    "publicado": "29/10 16:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A revisão do preço-alvo da Azul pelo Bradesco BBI reflete as dificuldades enfrentadas pela companhia aérea, especialmente com o aumento dos custos de combustível e a desvalorização cambial. Se esses fatores persistirem, a performance da empresa pode continuar sob pressão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793305877.5376801,
+    "titulo": "Petrobras (PETR4): Produção e vendas 3T26 - operacional robusto e Brent mais alto mantém uma assimetria de risco positiva - InvesTalk",
+    "titulo_original": "Petrobras (PETR4): Produção e vendas 3T26 - operacional robusto e Brent mais alto mantém uma assimetria de risco positiva - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "29/10 13:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O resultado operacional positivo da Petrobras, aliado ao preço elevado do Brent, sugere um cenário favorável para a empresa. Se o preço do petróleo continuar em patamares altos, isso pode sustentar a rentabilidade da companhia e impactar positivamente o setor de energia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793305877.5396066,
+    "titulo": "Ambev prevê que 'imposto do pecado' manterá neutralidade tributária para cervejas",
+    "titulo_original": "Ambev prevê que 'imposto do pecado' manterá neutralidade tributária para cervejas",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 15:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A previsão da Ambev sobre a neutralidade tributária do \"imposto do pecado\" para cervejas indica que a carga tributária sobre o setor deve permanecer estável. Se essa neutralidade se confirmar, a empresa não deverá enfrentar aumentos significativos em seus custos, o que pode ser positivo para seus resultados.",
     "is_stocks": true
   }
 ]
