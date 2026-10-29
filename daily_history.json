@@ -981,5 +981,101 @@
     "origem": "externa",
     "leitura_critica": "A divergência nas bolsas europeias e a queda nos futuros americanos indicam cautela antes de dados importantes de inflação e balanços corporativos. Se a inflação dos EUA vier alta, o Federal Reserve pode adiar cortes de juros. O balanço da Amazon também será crucial para o setor de tecnologia.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793286948.473226,
+    "titulo": "Crédito fora da meta fiscal cresce e reduz transparência das contas, diz IFI",
+    "titulo_original": "Crédito fora da meta fiscal cresce e reduz transparência das contas, diz IFI",
+    "fonte": "Folha Mercado",
+    "publicado": "29/10 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento de operações de crédito fora do cálculo da meta fiscal pode mascarar o real endividamento do governo. Se essa prática se mantiver, a percepção de risco fiscal pode aumentar, impactando a confiança dos investidores; uma maior clareza sobre essas operações seria fundamental para mitigar essa preocupação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793286952.8423915,
+    "titulo": "Promessas eleitorais de Lula ampliam desequilíbrio fiscal em até R$ 40 bilhões, segundo IFI",
+    "titulo_original": "Promessas eleitorais de Lula ampliam desequilíbrio fiscal em até R$ 40 bilhões, segundo IFI",
+    "fonte": "Money Times",
+    "publicado": "29/10 12:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O potencial aumento do desequilíbrio fiscal em R$ 40 bilhões, segundo a IFI, sinaliza um desafio para as contas públicas. Se o governo não apresentar um plano de ajuste fiscal robusto, a dívida pública pode crescer mais do que o esperado, elevando os juros e impactando o crescimento econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793286957.3650677,
+    "titulo": "Endividamento das famílias brasileiras marca novo recorde a despeito de medidas do governo, mostra Banco Central",
+    "titulo_original": "Endividamento das famílias brasileiras marca novo recorde a despeito de medidas do governo, mostra Banco Central",
+    "fonte": "Money Times",
+    "publicado": "29/10 10:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O novo recorde no endividamento das famílias brasileiras, mesmo com medidas governamentais, sugere uma fragilidade na capacidade de consumo e pagamento. Se essa tendência persistir, pode haver um impacto negativo na atividade econômica e um aumento da inadimplência; o Banco Central pode ter que considerar esse cenário ao definir a política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793286961.6740823,
+    "titulo": "Tesouro Direto hoje: prefixados continuam acima de 15% quatro dias após a eleição",
+    "titulo_original": "Tesouro Direto hoje: prefixados continuam acima de 15% quatro dias após a eleição",
+    "fonte": "InvestNews",
+    "publicado": "29/10 10:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção das taxas prefixadas do Tesouro Direto acima de 15% reflete as expectativas do mercado em relação aos juros futuros. Se a inflação persistir elevada, os títulos atrelados à inflação podem se tornar mais atrativos; a trajetória futura dos juros será determinante para o desempenho desses ativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793286967.0086207,
+    "titulo": "Bancos elevam taxas de financiamento imobiliário após disparada dos juros futuros",
+    "titulo_original": "Bancos elevam taxas de financiamento imobiliário após disparada dos juros futuros",
+    "fonte": "Valor Economico",
+    "publicado": "29/10 11:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento das taxas de financiamento imobiliário é uma consequência direta da alta dos juros futuros. Se os juros continuarem em trajetória de alta, o custo do crédito para aquisição de imóveis se tornará ainda mais proibitivo, impactando o setor imobiliário e o consumo; a reversão dessa tendência dependerá da política monetária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793286967.0098195,
+    "titulo": "Estrangeiros retiram R$ 2 bi da B3 em 27 de outubro e somam 4 sessões de saques",
+    "titulo_original": "Estrangeiros retiram R$ 2 bi da B3 em 27 de outubro e somam 4 sessões de saques",
+    "fonte": "Valor Economico",
+    "publicado": "29/10 11:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade dos saques estrangeiros pode indicar uma cautela renovada do investidor externo com o mercado brasileiro. Se os saques se intensificarem nas próximas semanas, isso pode pressionar o Ibovespa; por outro lado, uma reversão desse fluxo pode impulsionar a bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793286967.0109742,
+    "titulo": "Petrobras (PETR4) bate recorde de produção total no 3T26",
+    "titulo_original": "Petrobras (PETR4) bate recorde de produção total no 3T26 - Suno - Investimentos Inteligentes",
+    "fonte": "Google News Acoes",
+    "publicado": "29/10 11:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde de produção da Petrobras pode indicar uma melhora na eficiência operacional da empresa. Se essa tendência de aumento de produção se mantiver, pode haver um impacto positivo nos resultados da companhia e, potencialmente, na arrecadação fiscal do governo, dependendo da política de dividendos e tributação.",
+    "is_stocks": true
   }
 ]
