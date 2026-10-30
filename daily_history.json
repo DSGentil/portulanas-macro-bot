@@ -1,86 +1,5 @@
 [
   {
-    "_timestamp": 1793279745.060254,
-    "titulo": "Governo central tem superávit primário de R$ 4,839 bilhões em setembro",
-    "titulo_original": "Governo central tem superávit primário de R$ 4,839 bilhões em setembro",
-    "fonte": "Valor Economico",
-    "publicado": "29/10 10:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O superávit primário em setembro pode indicar uma melhora na gestão fiscal do governo. Se essa tendência se mantiver nos próximos meses, pode haver uma pressão menor sobre a dívida pública. Contudo, o déficit acumulado em 12 meses ainda representa um desafio a ser monitorado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793279750.0084581,
-    "titulo": "Produção de petróleo e gás no país volta a bater recorde em setembro, afirma ANP",
-    "titulo_original": "Produção de petróleo e gás no país volta a bater recorde em setembro, afirma ANP - NovaCana",
-    "fonte": "Google News Commodities",
-    "publicado": "29/10 08:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O recorde na produção de petróleo e gás no Brasil pode ter um impacto positivo na balança comercial e na arrecadação fiscal. Se a produção continuar crescendo, isso pode sustentar o setor de energia. Contudo, a notícia não detalha se há impacto direto em outros canais como inflação ou juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793279754.953443,
-    "titulo": "Dólar sobe com petróleo em queda e incertezas fiscais",
-    "titulo_original": "Dólar sobe com petróleo em queda e incertezas fiscais - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/10 09:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar, atrelada a incertezas fiscais, pode pressionar a inflação e dificultar o controle de preços. Se as incertezas fiscais persistirem, o Banco Central pode ter que manter uma postura mais restritiva nos juros. A queda do petróleo também contribui para a volatilidade cambial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793279759.86378,
-    "titulo": "Dólar hoje avança em linha com o exterior",
-    "titulo_original": "Dólar hoje avança em linha com o exterior - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/10 09:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A valorização do dólar em linha com o exterior sugere que fatores globais estão influenciando o câmbio. Se o cenário externo se mantiver volátil, o dólar pode continuar pressionando a inflação doméstica. É importante observar se o movimento é impulsionado por aversão a risco ou por políticas monetárias.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793279767.5939198,
-    "titulo": "Confiança de serviços fica quase estável em outubro, indica FGV",
-    "titulo_original": "Confiança de serviços fica quase estável em outubro, indica FGV",
-    "fonte": "Folha Mercado",
-    "publicado": "29/10 09:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade na confiança do setor de serviços sugere que a atividade econômica pode estar se mantendo em um patamar moderado. Se as expectativas futuras melhorarem, isso pode indicar um impulso para o crescimento. Contudo, a divergência nas visões aponta para uma recuperação ainda incerta.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793279767.595494,
-    "titulo": "Sessão europeia de investimentos: Ações divergem enquanto mercados se preparam para inflação dos EUA, balanço do BCE e Amazon",
-    "titulo_original": "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings",
-    "fonte": "ForexLive",
-    "publicado": "29/10 09:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A divergência nas bolsas europeias e a queda nos futuros americanos indicam cautela antes de dados importantes de inflação e balanços corporativos. Se a inflação dos EUA vier alta, o Federal Reserve pode adiar cortes de juros. O balanço da Amazon também será crucial para o setor de tecnologia.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793286948.473226,
     "titulo": "Crédito fora da meta fiscal cresce e reduz transparência das contas, diz IFI",
     "titulo_original": "Crédito fora da meta fiscal cresce e reduz transparência das contas, diz IFI",
@@ -1315,6 +1234,86 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A notícia detalha os resultados financeiros da Amazon, com destaque para o desempenho da AWS. Embora seja uma empresa de grande porte e com impacto global, a informação não se conecta diretamente a canais macroeconômicos brasileiros como juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793392244.0074184,
+    "titulo": "Crise nos mercados ameaça mais o PIB do que a inflação, diz Capital Economics",
+    "titulo_original": "Crise nos mercados ameaça mais o PIB do que a inflação, diz Capital Economics",
+    "fonte": "Money Times",
+    "publicado": "30/10 15:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise da Capital Economics sugere que o cenário pós-eleição, com juros em alta, pode ser mais prejudicial ao PIB do que à inflação. Se o encarecimento do crédito se confirmar, a desaceleração da atividade econômica pode ser mais acentuada, exigindo medidas de estímulo ou ajustes na política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793392247.8735502,
+    "titulo": "Como o fim da escala 6x1 e da jornada de 44 horas afeta os planos de expansão do Oxxo no Brasil",
+    "titulo_original": "Como o fim da escala 6×1 e da jornada de 44 horas afeta os planos de expansão do Oxxo no Brasil",
+    "fonte": "InvestNews",
+    "publicado": "30/10 16:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A adaptação do Oxxo a novas leis trabalhistas, como a jornada de 44 horas, pode influenciar a estratégia de expansão de outras empresas do varejo. Se a cautela se mantiver, o ritmo de abertura de novas unidades pode ser mais lento, afetando a geração de empregos no setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793392251.874078,
+    "titulo": "Alta no preço do querosene de aviação reduz previsão de voos em 5%",
+    "titulo_original": "Alta no preço do querosene de aviação reduz previsão de voos em 5%",
+    "fonte": "Folha Mercado",
+    "publicado": "30/10 16:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A redução na previsão de crescimento de voos no Brasil, de 9,4% para 4,2%, devido à alta do QAV, indica um impacto direto nos custos do setor aéreo. Se os preços do combustível continuarem a subir, isso pode afetar a rentabilidade das companhias aéreas e a demanda por viagens.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793392255.7771697,
+    "titulo": "CJ Selecta fecha crédito verde de R$ 155 mi para compra de soja certificada",
+    "titulo_original": "CJ Selecta fecha crédito verde de R$ 155 mi para compra de soja certificada - CNN Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "30/10 16:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O fechamento de um crédito verde de R$ 155 milhões pela CJ Selecta para compra de soja certificada demonstra um avanço em práticas sustentáveis no agronegócio. Se essa iniciativa for bem-sucedida, pode incentivar outras empresas a buscarem financiamentos semelhantes para produtos com certificação ambiental.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793392260.4035218,
+    "titulo": "Novo IR sobre dividendos: como saber se você vai pagar em 2027",
+    "titulo_original": "Novo IR sobre dividendos: como saber se você vai pagar em 2027",
+    "fonte": "InvestNews",
+    "publicado": "30/10 16:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A introdução de um novo Imposto de Renda sobre dividendos a partir de 2027 pode alterar a atratividade de investimentos em renda variável. Se a retenção de 10% for confirmada, isso pode impactar a rentabilidade líquida dos acionistas e a forma como as empresas distribuem seus lucros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793392260.4056783,
+    "titulo": "Dono de avião usado na fuga de Flávio Bolsonaro afirma que voo foi pago a partir dos EUA, diz agência",
+    "titulo_original": "Dono de avião usado na fuga de Flávio Bolsonaro afirma que voo foi pago a partir dos EUA, diz agência",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 16:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A informação de que o voo de Flávio Bolsonaro foi pago a partir dos EUA, com envolvimento de um intermediário, levanta questões sobre a origem dos fundos e possíveis conexões políticas. Se a identidade do intermediário for revelada, isso pode gerar novas investigações ou desdobramentos na relação entre Brasil e EUA.",
     "is_stocks": true
   }
 ]
