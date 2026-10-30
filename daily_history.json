@@ -1112,5 +1112,110 @@
     "origem": "domestica",
     "leitura_critica": "A notícia é um link para acompanhamento em tempo real da cotação do dólar. O valor do dólar é influenciado por diversos fatores macroeconômicos e de fluxo de capital, mas a notícia em si não fornece dados ou análises sobre esses fatores. O acompanhamento em tempo real é importante para quem opera no mercado de câmbio.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793373340.3944144,
+    "titulo": "Nível de ocupação atinge recorde de 59% no 3º trimestre, diz IBGE",
+    "titulo_original": "Nível de ocupação atinge recorde de 59% no 3º trimestre, diz IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 10:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Um nível de ocupação recorde e o menor desemprego da série histórica podem indicar uma melhora na atividade econômica doméstica. Se essa tendência se mantiver, pode haver um impacto positivo no consumo e, consequentemente, na arrecadação fiscal. Contudo, é importante observar se essa melhora se reflete em empregos de maior qualidade e remuneração.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793373344.1832986,
+    "titulo": "Tesouro Direto hoje: prefixados seguem acima de 15% com risco fiscal no radar",
+    "titulo_original": "Tesouro Direto hoje: prefixados seguem acima de 15% com risco fiscal no radar",
+    "fonte": "InvestNews",
+    "publicado": "30/10 10:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As taxas elevadas nos títulos prefixados do Tesouro Direto, acima de 15%, indicam uma percepção de risco fiscal elevada no Brasil, o que pressiona os juros de longo prazo. Se o risco fiscal se materializar em decisões concretas que aumentem o endividamento público sem contrapartidas claras, as taxas podem permanecer altas ou subir ainda mais. Por outro lado, se houver avanços na consolidação fiscal, pode haver espaço para queda dessas taxas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793373349.8235602,
+    "titulo": "Davi Alcolumbre comemora nova descoberta de petróleo no Amapá",
+    "titulo_original": "Davi Alcolumbre comemora nova descoberta de petróleo no Amapá - Congresso em Foco",
+    "fonte": "Google News Commodities",
+    "publicado": "30/10 11:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A descoberta de petróleo no Amapá é um evento relevante para o setor de energia e pode ter implicações futuras na produção e na balança comercial do país. Se essa descoberta se confirmar em larga escala e gerar investimentos significativos, pode impactar positivamente a atividade econômica. No entanto, a notícia em si não detalha o volume da descoberta ou o cronograma de exploração, limitando uma análise mais aprofundada do impacto macroeconômico imediato.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793373353.7279255,
+    "titulo": "Petroleiro é atingido por minas em Ormuz, dizem fontes de segurança",
+    "titulo_original": "Petroleiro é atingido por minas em Ormuz, dizem fontes de segurança",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 10:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O ataque no Estreito de Ormuz eleva o risco de escalada de tensões em uma região geoestrategicamente importante para o fornecimento global de petróleo. Se o conflito se intensificar, isso pode levar a uma volatilidade significativa nos preços do petróleo e afetar o fluxo de commodities. É importante monitorar a resposta das potências envolvidas e o impacto na oferta.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793373384.6527746,
+    "titulo": "Saída de estrangeiros da bolsa acelera após 2º turno e soma R$ 11,4 bi em 5 pregões",
+    "titulo_original": "Saída de estrangeiros da bolsa acelera após 2º turno e soma R$ 11,4 bi em 5  pregões",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 10:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aceleração da saída de capital estrangeiro após o resultado eleitoral pode indicar uma percepção de maior risco por parte desses investidores. Se essa tendência de saída se mantiver, pode pressionar o Ibovespa e o câmbio. No entanto, é crucial observar se a política econômica futura trará maior clareza e segurança para atrair novamente esses fluxos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793373384.6544402,
+    "titulo": "Negociação de BDRs supera R$ 1 bilhão por dia na B3, e volume em 2026 já é maior do que em todo o ano passado",
+    "titulo_original": "Negociação de BDRs supera R$ 1 bilhão por dia na B3, e volume em 2026 já é maior do que em todo o ano passado - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "30/10 11:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento significativo na negociação de BDRs sugere um maior interesse de investidores brasileiros em ativos internacionais e, possivelmente, um aumento no fluxo de capital estrangeiro para o Brasil através desses instrumentos. Se essa tendência de crescimento se mantiver, pode indicar um apetite por diversificação e uma maior integração do mercado brasileiro com o global. É um sinal de atividade no mercado de capitais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793373384.6559694,
+    "titulo": "PPSA: Petrobras, CNOOC e Petrochina vencem 10º leilão spot de petróleo da União",
+    "titulo_original": "PPSA: Petrobras, CNOOC e Petrochina vencem 10º leilão spot de petróleo da União - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "30/10 11:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A vitória de grandes empresas em um leilão de petróleo indica atividade no setor de energia e potencial para aumento da produção. Se esses leilões resultarem em novas explorações e produção, isso pode ter um impacto positivo na balança comercial e na arrecadação fiscal futura. Contudo, a notícia não especifica o volume de petróleo negociado ou o impacto financeiro imediato, sendo mais um indicativo de atividade setorial.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793373384.657509,
+    "titulo": "Petrobras confirma terceira descoberta de petróleo na costa do Amapá e reforça exploração na Margem Equatorial",
+    "titulo_original": "Petrobras confirma terceira descoberta de petróleo na costa do Amapá e reforça exploração na Margem Equatorial - ADVFN",
+    "fonte": "Google News Commodities",
+    "publicado": "30/10 11:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A confirmação de mais uma descoberta de petróleo na Margem Equatorial pela Petrobras reforça o potencial exploratório da região. Se essas descobertas se traduzirem em produção comercial e investimentos significativos, podem impulsionar a atividade econômica e a arrecadação fiscal. É importante acompanhar os próximos passos da empresa em relação à viabilidade e escala dessas novas reservas.",
+    "is_stocks": true
   }
 ]
