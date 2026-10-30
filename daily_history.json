@@ -987,5 +987,130 @@
     "origem": "externa",
     "leitura_critica": "A desvalorização das ações de tecnologia em Wall Street e em bolsas globais indica uma possível correção no setor, que tem apresentado forte valorização. Se essa tendência se confirmar, pode haver um movimento de migração de capital para outros setores considerados mais seguros. A análise dos motivos por trás dessa queda é fundamental para entender o futuro do setor.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793366170.171564,
+    "titulo": "Desemprego é o menor até setembro com criação de vagas na construção; renda estaciona",
+    "titulo_original": "Desemprego é o menor até setembro com criação de vagas na construção; renda estaciona",
+    "fonte": "Folha Mercado",
+    "publicado": "30/10 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda na taxa de desemprego para o menor nível histórico é um indicador positivo para o mercado de trabalho brasileiro. No entanto, a estagnação da renda pode limitar o impacto desse dado no consumo. Se a criação de vagas continuar a superar a renda, isso pode gerar desafios para a demanda agregada no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793366174.19778,
+    "titulo": "Dólar abre em leve alta, com novos dados de emprego no radar - G1",
+    "titulo_original": "Dólar abre em leve alta, com novos dados de emprego no radar - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/10 09:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A leve alta do dólar sugere uma cautela do mercado antes da divulgação de dados de emprego. Se os dados de emprego vierem mais fortes que o esperado, isso pode sustentar o dólar; caso contrário, pode haver uma reversão. A atenção a esses indicadores é crucial para entender a direção do câmbio no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793366179.092691,
+    "titulo": "Índice de custo do emprego nos EUA para o 3º trimestre +0,8% vs +0,8% esperado",
+    "titulo_original": "US employment cost index for Q3 +0.8% vs +0.8% expected",
+    "fonte": "ForexLive",
+    "publicado": "30/10 09:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado do ECI em linha com o esperado sugere que as pressões de custo do trabalho nos EUA permanecem relativamente contidas. Se os custos com benefícios continuarem a crescer mais rápido que os salários, isso pode indicar um desafio para a inflação no médio prazo. A queda nos salários ajustados pela inflação no setor privado aponta para uma perda de poder de compra para os trabalhadores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793366183.0817323,
+    "titulo": "Índice do custo do emprego nos EUA sobe em linha com o esperado no 3º trimestre",
+    "titulo_original": "Índice do custo do emprego nos EUA sobe em linha com o esperado no 3º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 09:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O Índice do Custo do Emprego nos EUA, em linha com as expectativas, sugere que as pressões salariais permanecem sob controle. Se os custos com benefícios continuarem a superar o crescimento salarial nominal, isso pode ser um fator a ser observado em relação à inflação. A estagnação dos salários reais no setor privado indica um desafio para o poder de compra dos trabalhadores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793366188.5941124,
+    "titulo": "Binance interrompe saques após hack recorde; ativos digitais e ações de cripto caem",
+    "titulo_original": "Binance halts withdrawals after record hack; digital assets, crypto stocks slump",
+    "fonte": "Investing.com",
+    "publicado": "30/10 09:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A suspensão de saques em uma das maiores exchanges de criptomoedas do mundo levanta preocupações sobre a segurança do ecossistema. Se a situação não for rapidamente resolvida, pode haver uma perda de confiança generalizada no setor, impactando o apetite por ativos digitais. A falta de transparência sobre o valor exato do hack dificulta a avaliação do impacto financeiro imediato.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793366188.595593,
+    "titulo": "Sessão europeia: temores de gastos com IA assustam ações de tecnologia; dólar cai junto com yields, ouro",
+    "titulo_original": "investingLive European session wrap: AI spending fears spook tech stocks; dollar falls alongside yields, gold",
+    "fonte": "ForexLive",
+    "publicado": "30/10 08:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do dólar e dos yields pode ser interpretada como um sinal de busca por ativos mais seguros, apesar da pressão sobre as ações de tecnologia. A menção ao Banco do Japão (BOJ) indicando que manterá o caminho de aumento de juros, mesmo com a inflação, sugere uma postura de política monetária que pode influenciar os mercados globais. A volatilidade em torno dos gastos com IA aponta para um fator de incerteza no setor de tecnologia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793366188.596972,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "30/10 04:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Os relatórios de inflação na Zona do Euro são cruciais, especialmente após o BCE sinalizar disposição para aumentar juros em dezembro caso a inflação não melhore. O Índice de Custo do Emprego nos EUA é um indicador chave para o Fed, e um resultado surpreendente pode desafiar a narrativa de crescimento salarial contido. A probabilidade de alta de juros precificada pelo mercado para dezembro na Zona do Euro é um ponto de atenção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793366188.598321,
+    "titulo": "Cenário fiscal, taxa de desemprego e resultados da Vale e da Amazon estão no foco",
+    "titulo_original": "Cenário fiscal, taxa de desemprego e resultados da Vale e da Amazon estão no foco - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "30/10 07:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A atenção ao cenário fiscal e à taxa de desemprego indica a importância desses fatores para a tomada de decisão dos investidores. Se o cenário fiscal se deteriorar ou a taxa de desemprego apresentar surpresas negativas, isso pode impactar a percepção de risco do país. Os resultados da Vale e da Amazon são relevantes para o desempenho de suas respectivas ações e para o setor em que atuam.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793366188.5996819,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/10 09:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia é um link para acompanhamento em tempo real da cotação do dólar. O valor do dólar é influenciado por diversos fatores macroeconômicos e de fluxo de capital, mas a notícia em si não fornece dados ou análises sobre esses fatores. O acompanhamento em tempo real é importante para quem opera no mercado de câmbio.",
+    "is_stocks": true
   }
 ]
