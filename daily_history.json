@@ -1,114 +1,5 @@
 [
   {
-    "_timestamp": 1793292369.9341905,
-    "titulo": "Juros altos freiam construção no 3º trimestre, mas infraestrutura sustenta empregos",
-    "titulo_original": "Juros altos freiam construção no 3º trimestre, mas infraestrutura sustenta empregos",
-    "fonte": "Folha Mercado",
-    "publicado": "29/10 13:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A resiliência do emprego na construção civil, impulsionada pela infraestrutura, contrasta com a desaceleração geral do setor devido aos juros altos. Se as taxas de juros permanecerem elevadas, a sustentação do emprego dependerá cada vez mais de novos projetos de infraestrutura.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793292375.0093677,
-    "titulo": "Nível de atividade da construção civil cai no 3° trimestre, aponta CNI",
-    "titulo_original": "Nível de atividade da construção civil cai no 3° trimestre, aponta CNI",
-    "fonte": "Valor Economico",
-    "publicado": "29/10 13:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda na atividade da construção civil, atribuída aos juros altos, reforça a necessidade de uma política monetária que considere o impacto setorial. Se a taxa de juros não ceder, a recuperação do setor pode ser ainda mais lenta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793292379.9810045,
-    "titulo": "Investimento estrangeiro no setor de informação e comunicação brasileiro bate recorde",
-    "titulo_original": "Investimento estrangeiro no setor de informação e comunicação brasileiro bate recorde",
-    "fonte": "Folha Mercado",
-    "publicado": "29/10 12:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O recorde de investimento estrangeiro no setor de informação e comunicação é um sinal positivo para a atração de capital. Se essa tendência se mantiver, pode indicar maior confiança de investidores internacionais no potencial de crescimento do setor no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793292384.8959472,
-    "titulo": "Por que as eleições nos EUA e em Israel têm consequências globais",
-    "titulo_original": "Por que as eleições nos EUA e em Israel têm consequências globais - BBC",
-    "fonte": "Google News Geopolitica",
-    "publicado": "29/10 12:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A interconexão entre eleições em grandes potências e suas repercussões globais sugere que os resultados podem influenciar cenários econômicos e geopolíticos. Se os resultados eleitorais levarem a mudanças significativas nas políticas externas, isso pode gerar volatilidade em diversos mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793292390.8623526,
-    "titulo": "Inflação central do PCE de setembro dos EUA +0,5% m/m vs +0,3% esperado",
-    "titulo_original": "US September PCE core inflation +0.5% m/m vs +0.3% expected",
-    "fonte": "ForexLive",
-    "publicado": "29/10 09:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de inflação central acima do esperado reforça a possibilidade de o Federal Reserve manter uma postura mais restritiva em relação aos juros. Se a tendência de alta persistir, isso pode impactar negativamente os mercados globais e o apetite por risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793292390.864277,
-    "titulo": "No 4º dia de queda, Ibovespa cede aos 169 mil pontos e dólar dispara a R$ 5,39",
-    "titulo_original": "No 4º dia de queda, Ibovespa cede aos 169 mil pontos e dólar dispara a R$ 5,39 - Valor Investe",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/10 13:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade da queda do Ibovespa e a valorização do dólar indicam um cenário de aversão ao risco no mercado brasileiro. Se os fatores que pressionam o câmbio e a bolsa persistirem, o cenário para investimentos de renda variável pode se deteriorar ainda mais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793292390.8661163,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai em meio a dados econômicos e balanços",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa cai em meio a dados econômicos e balanços - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "29/10 11:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, influenciada por dados econômicos e balanços, sugere um ambiente de cautela no mercado acionário. Se os balanços apresentarem resultados fracos ou os dados econômicos forem negativos, a pressão sobre a bolsa pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793292390.8679175,
-    "titulo": "Ibovespa cai em dia de agenda econômica carregada e risco fiscal no radar",
-    "titulo_original": "Ibovespa cai em dia de agenda econômica carregada e risco fiscal no radar - VEJA",
-    "fonte": "Google News Acoes",
-    "publicado": "29/10 10:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, associada ao risco fiscal, indica que as preocupações com a política econômica estão pesando sobre o mercado. Se o risco fiscal se intensificar, isso pode levar a uma maior aversão ao risco e pressionar ainda mais a bolsa.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793298647.053429,
     "titulo": "Dívida bruta do Brasil se mantém em 82,9% do PIB em setembro, maior nível desde 2021, mostra BC",
     "titulo_original": "Dívida bruta do Brasil se mantém em 82,9% do PIB em setembro, maior nível desde 2021, mostra BC",
@@ -1370,5 +1261,31 @@
     "origem": "externa",
     "leitura_critica": "A queda do Nasdaq, ligada a dúvidas sobre a rentabilidade dos investimentos em IA, reflete uma reavaliação do mercado sobre o setor. Se as preocupações com os custos e o retorno de investimentos em IA se intensificarem, isso pode impactar o desempenho de empresas de tecnologia globalmente.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793403039.7163763,
+    "titulo": "Não será fácil salvar a democracia",
+    "titulo_original": "Não será fácil salvar a democracia",
+    "fonte": "Folha Mercado",
+    "publicado": "30/10 19:45",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia relembra um período de forte crescimento econômico e melhora social no Brasil em 2012. Se o cenário atual apresentar desafios que impeçam a repetição desse desempenho, a \"democracia\" pode enfrentar dificuldades, indicando a importância do contexto econômico para a estabilidade política.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793403044.2238824,
+    "titulo": "Petróleo sobe mais de 14% em outubro e encerra mês no maior valor desde maio",
+    "titulo_original": "Petróleo sobe mais de 14% em outubro e encerra mês no maior valor desde maio",
+    "fonte": "Folha Mercado",
+    "publicado": "30/10 19:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo Brent em outubro, impulsionada por tensões geopolíticas no Irã, pode impactar os custos de energia globalmente. Se o conflito se intensificar, o preço do barril tende a subir ainda mais, afetando a inflação e a atividade econômica em diversos países.",
+    "is_stocks": false
   }
 ]
