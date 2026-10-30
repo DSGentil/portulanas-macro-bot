@@ -1217,5 +1217,96 @@
     "origem": "domestica",
     "leitura_critica": "A confirmação de mais uma descoberta de petróleo na Margem Equatorial pela Petrobras reforça o potencial exploratório da região. Se essas descobertas se traduzirem em produção comercial e investimentos significativos, podem impulsionar a atividade econômica e a arrecadação fiscal. É importante acompanhar os próximos passos da empresa em relação à viabilidade e escala dessas novas reservas.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793378741.582572,
+    "titulo": "Bolsa cai 17,5% após eleições; ações de empresas de energia recuam até 33% - Canal Solar",
+    "titulo_original": "Bolsa cai 17,5% após eleições; ações de empresas de energia recuam até 33% - Canal Solar",
+    "fonte": "Google News Acoes",
+    "publicado": "30/10 09:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte queda da bolsa e o recuo expressivo das ações de energia após as eleições apontam para uma reação negativa do mercado ao resultado. Se as políticas futuras impactarem o setor energético de forma desfavorável, essa desvalorização pode se aprofundar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793378746.4949083,
+    "titulo": "Taxas longas de juros sobem com dólar e curta fica estável após dado de emprego - UOL Economia",
+    "titulo_original": "Taxas longas de juros sobem com dólar e curta fica estável após dado de emprego - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/10 09:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta das taxas de juros longas e a estabilidade das curtas, após dados de emprego, indicam uma reação do mercado à percepção de risco e às expectativas futuras. Se os dados de emprego continuarem fortes, isso pode reforçar a expectativa de juros mais altos por mais tempo; se enfraquecerem, pode abrir espaço para cortes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793378751.6840072,
+    "titulo": "Governos passam, a terra fica. O preço depende da Selic",
+    "titulo_original": "Governos passam, a terra fica. O preço depende da Selic - The AgriBiz",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/10 10:13",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A correlação entre o preço da terra e a Selic sugere que mudanças na taxa de juros podem impactar diretamente o mercado imobiliário rural. Se a Selic permanecer elevada, isso pode encarecer o crédito e, consequentemente, o preço da terra; uma queda nos juros poderia ter o efeito oposto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793378757.075165,
+    "titulo": "PIB do Canadá para agosto 0,0% vs. estimativa de 0,2%",
+    "titulo_original": "Canada GDP for August 0.0% vs 0.2% estimate",
+    "fonte": "ForexLive",
+    "publicado": "30/10 09:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A estagnação da economia canadense em agosto, com uma projeção negativa para setembro, sugere um cenário de desaceleração. Se essa tendência se confirmar, pode aumentar a pressão sobre o Banco do Canadá para adotar uma postura mais flexível em sua política monetária futura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793378763.010905,
+    "titulo": "Ibovespa tem 5º dia seguido de queda e dólar oscila acima de R$ 5,40 - Exame",
+    "titulo_original": "Ibovespa tem 5º dia seguido de queda e dólar oscila acima de R$ 5,40 - Exame",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/10 11:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade da queda do Ibovespa e a oscilação do dólar acima de R$ 5,40 indicam um cenário de aversão ao risco no mercado brasileiro. Se fatores de incerteza persistirem, essa tendência de baixa na bolsa e valorização da moeda estrangeira pode se estender.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793378763.0123787,
+    "titulo": "BTG (BPAC11) sofre corte de recomendação e preço-alvo pelo Itaú BBA, e ação sente",
+    "titulo_original": "BTG (BPAC11) sofre corte de recomendação e preço-alvo pelo Itaú BBA, e ação sente",
+    "fonte": "Money Times",
+    "publicado": "30/10 12:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O corte de recomendação e preço-alvo do BTG Pactual pelo Itaú BBA pode indicar uma revisão das perspectivas para o banco. Se essa avaliação negativa se espalhar ou se outros fatores macroeconômicos piorarem, a ação do BTG pode continuar sob pressão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793378763.0136924,
+    "titulo": "Wall Street abre última sessão da semana em queda em reação aos balanços de tecnologia",
+    "titulo_original": "Wall Street abre última sessão da semana em queda em reação aos balanços de tecnologia",
+    "fonte": "Money Times",
+    "publicado": "30/10 11:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda em Wall Street, impulsionada por balanços de tecnologia, sugere que o mercado está reavaliando o impacto dos custos de IA no setor. Se as próximas divulgações de resultados confirmarem essa tendência de aumento de custos, isso pode afetar o desempenho das ações de tecnologia no médio prazo.",
+    "is_stocks": true
   }
 ]
