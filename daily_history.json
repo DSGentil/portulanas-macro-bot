@@ -1,101 +1,5 @@
 [
   {
-    "_timestamp": 1793286948.473226,
-    "titulo": "Crédito fora da meta fiscal cresce e reduz transparência das contas, diz IFI",
-    "titulo_original": "Crédito fora da meta fiscal cresce e reduz transparência das contas, diz IFI",
-    "fonte": "Folha Mercado",
-    "publicado": "29/10 11:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento de operações de crédito fora do cálculo da meta fiscal pode mascarar o real endividamento do governo. Se essa prática se mantiver, a percepção de risco fiscal pode aumentar, impactando a confiança dos investidores; uma maior clareza sobre essas operações seria fundamental para mitigar essa preocupação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793286952.8423915,
-    "titulo": "Promessas eleitorais de Lula ampliam desequilíbrio fiscal em até R$ 40 bilhões, segundo IFI",
-    "titulo_original": "Promessas eleitorais de Lula ampliam desequilíbrio fiscal em até R$ 40 bilhões, segundo IFI",
-    "fonte": "Money Times",
-    "publicado": "29/10 12:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O potencial aumento do desequilíbrio fiscal em R$ 40 bilhões, segundo a IFI, sinaliza um desafio para as contas públicas. Se o governo não apresentar um plano de ajuste fiscal robusto, a dívida pública pode crescer mais do que o esperado, elevando os juros e impactando o crescimento econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793286957.3650677,
-    "titulo": "Endividamento das famílias brasileiras marca novo recorde a despeito de medidas do governo, mostra Banco Central",
-    "titulo_original": "Endividamento das famílias brasileiras marca novo recorde a despeito de medidas do governo, mostra Banco Central",
-    "fonte": "Money Times",
-    "publicado": "29/10 10:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O novo recorde no endividamento das famílias brasileiras, mesmo com medidas governamentais, sugere uma fragilidade na capacidade de consumo e pagamento. Se essa tendência persistir, pode haver um impacto negativo na atividade econômica e um aumento da inadimplência; o Banco Central pode ter que considerar esse cenário ao definir a política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793286961.6740823,
-    "titulo": "Tesouro Direto hoje: prefixados continuam acima de 15% quatro dias após a eleição",
-    "titulo_original": "Tesouro Direto hoje: prefixados continuam acima de 15% quatro dias após a eleição",
-    "fonte": "InvestNews",
-    "publicado": "29/10 10:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção das taxas prefixadas do Tesouro Direto acima de 15% reflete as expectativas do mercado em relação aos juros futuros. Se a inflação persistir elevada, os títulos atrelados à inflação podem se tornar mais atrativos; a trajetória futura dos juros será determinante para o desempenho desses ativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793286967.0086207,
-    "titulo": "Bancos elevam taxas de financiamento imobiliário após disparada dos juros futuros",
-    "titulo_original": "Bancos elevam taxas de financiamento imobiliário após disparada dos juros futuros",
-    "fonte": "Valor Economico",
-    "publicado": "29/10 11:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento das taxas de financiamento imobiliário é uma consequência direta da alta dos juros futuros. Se os juros continuarem em trajetória de alta, o custo do crédito para aquisição de imóveis se tornará ainda mais proibitivo, impactando o setor imobiliário e o consumo; a reversão dessa tendência dependerá da política monetária.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793286967.0098195,
-    "titulo": "Estrangeiros retiram R$ 2 bi da B3 em 27 de outubro e somam 4 sessões de saques",
-    "titulo_original": "Estrangeiros retiram R$ 2 bi da B3 em 27 de outubro e somam 4 sessões de saques",
-    "fonte": "Valor Economico",
-    "publicado": "29/10 11:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade dos saques estrangeiros pode indicar uma cautela renovada do investidor externo com o mercado brasileiro. Se os saques se intensificarem nas próximas semanas, isso pode pressionar o Ibovespa; por outro lado, uma reversão desse fluxo pode impulsionar a bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793286967.0109742,
-    "titulo": "Petrobras (PETR4) bate recorde de produção total no 3T26",
-    "titulo_original": "Petrobras (PETR4) bate recorde de produção total no 3T26 - Suno - Investimentos Inteligentes",
-    "fonte": "Google News Acoes",
-    "publicado": "29/10 11:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O recorde de produção da Petrobras pode indicar uma melhora na eficiência operacional da empresa. Se essa tendência de aumento de produção se mantiver, pode haver um impacto positivo nos resultados da companhia e, potencialmente, na arrecadação fiscal do governo, dependendo da política de dividendos e tributação.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793292369.9341905,
     "titulo": "Juros altos freiam construção no 3º trimestre, mas infraestrutura sustenta empregos",
     "titulo_original": "Juros altos freiam construção no 3º trimestre, mas infraestrutura sustenta empregos",
@@ -1314,6 +1218,157 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "A informação de que o voo de Flávio Bolsonaro foi pago a partir dos EUA, com envolvimento de um intermediário, levanta questões sobre a origem dos fundos e possíveis conexões políticas. Se a identidade do intermediário for revelada, isso pode gerar novas investigações ou desdobramentos na relação entre Brasil e EUA.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793397649.3030164,
+    "titulo": "Juros futuros têm forte alta com piora na percepção de risco após reeleição de Lula",
+    "titulo_original": "Juros futuros têm forte alta com piora na percepção de risco após reeleição de Lula",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 17:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta nos juros futuros reflete a crescente percepção de risco fiscal e inflacionário no Brasil. Se essa tendência se mantiver, o custo do crédito tende a aumentar, impactando o investimento e o consumo. A expectativa é de que o Banco Central reavalie sua política monetária diante desse cenário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793397654.2991652,
+    "titulo": "Tesouro Selic e CDI: só sobreviveram à sangria pós-eleição os investimentos que nunca perdem; veja o ranking de outubro",
+    "titulo_original": "Tesouro Selic e CDI: só sobreviveram à sangria pós-eleição os investimentos que nunca perdem; veja o ranking de outubro - Seu Dinheiro",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/10 17:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia destaca a busca por segurança em investimentos de renda fixa em períodos de incerteza pós-eleitoral. Se o cenário de aversão ao risco persistir, a preferência por ativos de baixo risco como Tesouro Selic e CDI tende a se manter, com potenciais reflexos nas taxas de juros de curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793397659.1546283,
+    "titulo": "BC da Colômbia mantém taxa de juros de referência em 12,25% ao ano",
+    "titulo_original": "BC da Colômbia mantém taxa de juros de referência em 12,25% ao ano",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 15:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A manutenção da taxa de juros pelo Banco Central da Colômbia indica uma postura cautelosa em relação à inflação e à atividade econômica. Se outros bancos centrais da América Latina seguirem um caminho semelhante, isso pode reforçar um ambiente de juros elevados na região.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793397664.0679913,
+    "titulo": "Carney: Canadá e UE trabalham para a parceria mais profunda possível, aquém da adesão",
+    "titulo_original": "Carney: Canada, EU working toward deepest possible partnership, short of accession",
+    "fonte": "ForexLive",
+    "publicado": "30/10 14:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração sinaliza uma intenção de aprofundar laços entre Canadá e UE, o que pode ser positivo para a cooperação econômica a longo prazo. No entanto, a falta de detalhes concretos impede uma avaliação imediata do impacto no curto prazo para o dólar canadense ou para o comércio bilateral.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793397670.5064495,
+    "titulo": "Ibovespa cai 18% no pós-reeleição de Lula, maior perda semanal desde março de 2020",
+    "titulo_original": "Ibovespa cai 18% no pós-reeleição de Lula, maior perda semanal desde março de 2020",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 17:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte queda do Ibovespa reflete a incerteza do mercado com a política fiscal futura. Se a equipe econômica indicar pragmatismo e compromisso com a responsabilidade fiscal, o índice pode encontrar suporte para recuperação. Caso contrário, a pressão vendedora pode persistir, especialmente se houver sinais de aumento de gastos públicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793397670.5083044,
+    "titulo": "Ibovespa cai 18,12% na semana, maior baixa desde 2020 e 5ª maior desde o Plano Real",
+    "titulo_original": "Ibovespa cai 18,12% na semana, maior baixa desde 2020 e 5ª maior desde o Plano Real - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "30/10 17:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A acentuada queda semanal do Ibovespa indica uma forte deterioração da confiança dos investidores. Se a percepção de risco fiscal se mantiver elevada, a pressão sobre os ativos brasileiros pode continuar, limitando a recuperação do índice no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793397670.510027,
+    "titulo": "Nasdaq despenca com liquidação de posições no setor de tecnologia",
+    "titulo_original": "Nasdaq despenca com liquidação de posições no setor de tecnologia",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 17:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda acentuada do Nasdaq, impulsionada por resultados de tecnologia e pela postura do Fed, sugere um cenário de maior cautela nos mercados globais. Se o Federal Reserve mantiver um tom restritivo, isso pode pressionar ainda mais os ativos de risco e impactar o fluxo de capital para mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793397670.5117335,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa desce com exterior e fiscal, apesar de VALE3 e PETR4",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa desce com exterior e fiscal, apesar de VALE3 e PETR4 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "30/10 14:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, combinando fatores externos e domésticos de risco fiscal, reforça a cautela do mercado. Se a incerteza fiscal persistir, a pressão sobre a bolsa brasileira pode continuar, mesmo com a performance positiva de commodities.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793397670.5134473,
+    "titulo": "Mercado de carbono: indústria terá de começar a medir emissões a partir de 2027; veja setores",
+    "titulo_original": "Mercado de carbono: indústria terá de começar a medir emissões a partir de 2027; veja setores",
+    "fonte": "Money Times",
+    "publicado": "30/10 18:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A definição do cronograma para o mercado regulado de carbono é um passo importante para a regulamentação ambiental. A implementação gradual pode exigir adaptações significativas dos setores envolvidos, com potenciais impactos nos custos operacionais e na estratégia de negócios das empresas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793397670.5151565,
+    "titulo": "Itaú vê fim do ciclo de cortes da Selic diante de cenário mais adverso",
+    "titulo_original": "Itaú vê fim do ciclo de cortes da Selic diante de cenário mais adverso - NeoFeed",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/10 17:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Itaú sugere que o Banco Central pode estar próximo de pausar os cortes da Selic. Se o cenário econômico continuar se deteriorando, a manutenção da taxa de juros pode se tornar a opção mais provável, impactando o custo do crédito e o apetite por investimentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793397670.5169082,
+    "titulo": "Nasdaq cai ao menor nível em três meses com dúvidas sobre gastos com IA",
+    "titulo_original": "Nasdaq cai ao menor nível em três meses com dúvidas sobre gastos com IA",
+    "fonte": "Folha Mercado",
+    "publicado": "30/10 15:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do Nasdaq, ligada a dúvidas sobre a rentabilidade dos investimentos em IA, reflete uma reavaliação do mercado sobre o setor. Se as preocupações com os custos e o retorno de investimentos em IA se intensificarem, isso pode impactar o desempenho de empresas de tecnologia globalmente.",
     "is_stocks": true
   }
 ]
