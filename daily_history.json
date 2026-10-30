@@ -1,126 +1,5 @@
 [
   {
-    "_timestamp": 1793273447.6743395,
-    "titulo": "A indústria automotiva da China invadiu o Brasil e impressiona o mundo. No seu quintal, é outra história",
-    "titulo_original": "A indústria automotiva da China invadiu o Brasil e impressiona o mundo. No seu quintal, é outra história",
-    "fonte": "InvestNews",
-    "publicado": "29/10 05:07",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda acentuada nas vendas de automóveis no mercado interno brasileiro pode sinalizar uma desaceleração da atividade econômica. Se essa tendência persistir, pode impactar negativamente o setor automotivo e seus fornecedores; caso haja uma recuperação nos próximos meses, isso indicaria um cenário mais positivo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793273451.563029,
-    "titulo": "Agenda do dia: PCE e PIB dos EUA; IGP-M de outubro",
-    "titulo_original": "Agenda do dia: PCE e PIB dos EUA;  IGP-M de outubro",
-    "fonte": "Valor Economico",
-    "publicado": "29/10 08:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divulgação de dados de inflação (PCE) e atividade econômica (PIB) nos EUA, juntamente com o IGP-M no Brasil, pode gerar volatilidade nos mercados. Se o PCE vier acima do esperado, isso pode reforçar a expectativa de juros mais altos nos EUA; se o PIB dos EUA surpreender positivamente, isso pode indicar resiliência econômica, enquanto um IGP-M alto no Brasil pode pressionar a inflação doméstica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793273455.437145,
-    "titulo": "Administração Trump em conversas contínuas para um acordo de paz temporário com o Irã",
-    "titulo_original": "Trump administration in ongoing talks for a temporary peace deal with Iran - Semafor",
-    "fonte": "ForexLive",
-    "publicado": "29/10 06:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Um acordo de paz com o Irã tenderia a reduzir a volatilidade nos preços do petróleo, o que poderia ter um efeito desinflacionário global. Se as negociações falharem e houver uma escalada militar, os preços do petróleo podem subir, impactando a inflação globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793273459.3924534,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "29/10 04:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do BCE de manter os juros inalterados, apesar da aceleração da inflação, indica um equilíbrio entre o combate à inflação e o receio de desaceleração econômica. Se o BCE sinalizar uma postura mais hawkish em futuras reuniões devido à inflação, isso pode pressionar os juros europeus; caso contrário, se o foco for o crescimento, a política monetária pode permanecer acomodatícia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793273467.1248698,
-    "titulo": "Dow Jones hoje: Wall Street digere decisão do Fed e forte queda da dona do Google na bolsa",
-    "titulo_original": "Dow Jones hoje: Wall Street digere decisão do Fed e forte queda da dona do Google na bolsa - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "29/10 08:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do Fed sobre juros é um fator crucial para o mercado acionário. Se a decisão do Fed for interpretada como mais restritiva do que o esperado, isso pode pressionar os índices de bolsa; se a queda da dona do Google for isolada e não refletir um problema setorial mais amplo, o impacto geral do mercado pode ser limitado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793273467.1263936,
-    "titulo": "Ambev aprova programa de recompra de até 190 milhões de ações",
-    "titulo_original": "Ambev aprova programa de recompra de até 190 milhões de ações - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "29/10 08:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Um programa de recompra de ações geralmente sinaliza confiança da administração no valor da empresa e pode ter um impacto positivo no preço das ações. Se a Ambev executar a recompra de forma agressiva, isso pode sustentar a cotação; caso contrário, a ausência de compras significativas pode limitar o impacto.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793273467.1278055,
-    "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira",
-    "titulo_original": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (29)",
-    "fonte": "Money Times",
-    "publicado": "29/10 06:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divulgação de múltiplos indicadores econômicos pode gerar volatilidade nos mercados. Se os dados de inflação, como o IGP-M, vierem significativamente acima do esperado, isso pode pressionar o Banco Central a manter uma postura mais restritiva; se vierem abaixo, pode abrir espaço para otimismo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793273467.129219,
-    "titulo": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa",
-    "titulo_original": "O Ibovespa vai continuar caindo? O que eleições anteriores mostram sobre os rumos da Bolsa - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "29/10 05:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A análise histórica de eleições pode oferecer insights sobre o comportamento da bolsa em períodos eleitorais. Se o padrão histórico se repetir, podemos esperar volatilidade; caso contrário, novos fatores podem influenciar o mercado de forma diferente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793273467.1306212,
-    "titulo": "Ambev impulsiona vendas de cervejas premium no Brasil, mas lucro cai 10% no 3º trimestre",
-    "titulo_original": "Ambev impulsiona vendas de cervejas premium no Brasil, mas lucro cai 10% no 3° trimestre",
-    "fonte": "Folha Mercado",
-    "publicado": "29/10 07:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda no lucro líquido da Ambev, embora explicada por fatores não recorrentes, pode gerar preocupação entre investidores. Se o crescimento do lucro líquido ajustado se mantiver robusto nos próximos trimestres, isso pode indicar uma recuperação; caso contrário, a tendência de queda pode persistir.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793279745.060254,
     "titulo": "Governo central tem superávit primário de R$ 4,839 bilhões em setembro",
     "titulo_original": "Governo central tem superávit primário de R$ 4,839 bilhões em setembro",
@@ -1307,6 +1186,135 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A queda em Wall Street, impulsionada por balanços de tecnologia, sugere que o mercado está reavaliando o impacto dos custos de IA no setor. Se as próximas divulgações de resultados confirmarem essa tendência de aumento de custos, isso pode afetar o desempenho das ações de tecnologia no médio prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793385043.7050054,
+    "titulo": "Dólar hoje sobe quase 1% e ultrapassa R$ 5,40 em dia de formação da Ptax",
+    "titulo_original": "Dólar hoje sobe quase 1% e ultrapassa R$ 5,40 em dia de formação da Ptax - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/10 10:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar e sua ultrapassagem de R$ 5,40 em dia de formação da Ptax sugere um cenário de maior volatilidade cambial. Se essa pressão se mantiver, pode haver reflexos na inflação de bens importados, o que, por sua vez, pode influenciar decisões futuras do Copom sobre a taxa de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793385048.180643,
+    "titulo": "Copom deve manter juros em cenário de incerteza fiscal",
+    "titulo_original": "Copom deve manter juros em cenário de incerteza fiscal - Safra",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "30/10 14:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de que o Copom mantenha os juros em um cenário de incerteza fiscal sugere que as preocupações com o quadro fiscal podem ser um fator determinante na política monetária. Se a incerteza fiscal persistir ou aumentar, isso pode justificar a manutenção da taxa de juros em patamares elevados, impactando o custo do crédito e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793385052.5396132,
+    "titulo": "Fachin adia julgamento no STF sobre divisão dos royalties do petróleo",
+    "titulo_original": "Fachin adia julgamento no STF sobre divisão dos royalties do petróleo - CBN",
+    "fonte": "Google News Commodities",
+    "publicado": "30/10 11:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O adiamento do julgamento no STF sobre a divisão dos royalties do petróleo é uma decisão que afeta a arrecadação fiscal e a distribuição de recursos. Se o julgamento for retomado e houver uma decisão, isso poderá ter implicações fiscais e regulatórias para os entes envolvidos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793385058.8424644,
+    "titulo": "Vale afirma que é improvável pagar dividendos extraordinários em 2026",
+    "titulo_original": "Vale afirma que é improvável pagar dividendos extraordinários em 2026",
+    "fonte": "Folha Mercado",
+    "publicado": "30/10 13:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração da Vale sobre dividendos, embora relacionada a fatores externos como a guerra no Irã, não se conecta diretamente a canais como juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital. A relevância se limita ao desempenho da empresa e suas projeções.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793385058.8443267,
+    "titulo": "Vale (VALE3): CFO prevê trégua nos custos no 4T26 e revela estratégia que já ‘poupou’ US$ 3 bilhões",
+    "titulo_original": "Vale (VALE3): CFO prevê trégua nos custos no 4T26 e revela estratégia que já ‘poupou’ US$ 3 bilhões",
+    "fonte": "Money Times",
+    "publicado": "30/10 14:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A notícia foca na gestão de custos da Vale e na sua estratégia para mitigar impactos da alta do petróleo. Embora mencione fatores externos, não há conexão explícita com canais macroeconômicos como juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793385058.8459709,
+    "titulo": "Ações da Vale (VALE3) sobem forte após 'call' com perspectiva mais positiva sobre câmbio e metais",
+    "titulo_original": "Ações da Vale (VALE3) sobem forte após 'call' com perspectiva mais positiva sobre câmbio e metais - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "30/10 12:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A valorização das ações da Vale é explicada por uma perspectiva mais positiva em relação ao câmbio e aos preços de metais. Embora o câmbio seja um fator macroeconômico, a notícia foca no impacto específico para a empresa, sem detalhar efeitos mais amplos sobre juros, inflação, atividade, fiscal ou fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793385058.8475356,
+    "titulo": "Usiminas (USIM5): ações caem após balanço decepcionar; veja o que mais preocupa analistas para os próximos trimestres",
+    "titulo_original": "Usiminas (USIM5): ações caem após balanço decepcionar; veja o que mais preocupa analistas para os próximos trimestres",
+    "fonte": "Money Times",
+    "publicado": "30/10 11:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia foca no desempenho financeiro da Usiminas e nas preocupações dos analistas para os próximos trimestres. Embora o balanço seja um indicador de atividade empresarial, a notícia não conecta explicitamente a queda das ações ou o resultado a canais macroeconômicos como juros, inflação, fiscal ou fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793385058.849143,
+    "titulo": "Da mineradora Aura ao Nubank: os BDRs mais procurados na B3 para investir lá fora",
+    "titulo_original": "Da mineradora Aura ao Nubank: os BDRs mais procurados na B3 para investir lá fora - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "30/10 13:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A lista de BDRs mais procurados na B3 para investimento no exterior indica um interesse em fluxo de capital estrangeiro para o mercado brasileiro. Se essa procura se traduzir em investimentos concretos, pode haver um impacto positivo no fluxo de capital, especialmente em renda variável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793385058.850742,
+    "titulo": "Neoenergia tem crescido rápido em transmissão e negócio é estratégico, diz CEO após leilão",
+    "titulo_original": "Neoenergia tem crescido rápido em transmissão e negócio é estratégico, diz CEO após leilão",
+    "fonte": "Valor Economico",
+    "publicado": "30/10 14:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia foca no crescimento e estratégia da Neoenergia no setor de transmissão de energia, incluindo a participação em leilões. Embora envolva investimentos e parcerias, não há conexão explícita com canais macroeconômicos como juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793385058.8523235,
+    "titulo": "Resultado da Amazon (AMZO34): AWS dispara 39% e lucro operacional bate recorde",
+    "titulo_original": "Resultado da Amazon (AMZO34): AWS dispara 39% e lucro operacional bate recorde",
+    "fonte": "Money Times",
+    "publicado": "30/10 11:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia detalha os resultados financeiros da Amazon, com destaque para o desempenho da AWS. Embora seja uma empresa de grande porte e com impacto global, a informação não se conecta diretamente a canais macroeconômicos brasileiros como juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital.",
     "is_stocks": true
   }
 ]
