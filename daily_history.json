@@ -473,5 +473,85 @@
     "origem": "externa",
     "leitura_critica": "Um acordo preliminar entre Irã e EUA poderia mitigar o risco geopolítico no Oriente Médio, impactando os preços do petróleo. Se o acordo for confirmado e detalhado, o petróleo pode cair mais; caso contrário, a incerteza e a volatilidade podem permanecer.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793656860.3970475,
+    "titulo": "Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes",
+    "titulo_original": "Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes",
+    "fonte": "Money Times",
+    "publicado": "02/11 17:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão da projeção do Inter, que antes era otimista quanto aos cortes de juros, indica uma mudança de percepção sobre o cenário econômico. Se a inflação persistir elevada, o Banco Central pode de fato pausar os cortes; se os dados mostrarem arrefecimento, a expectativa de corte pode retornar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793656866.0364792,
+    "titulo": "André Lara Resende quer conselho para levar Selic a 7,5%",
+    "titulo_original": "André Lara Resende quer conselho para levar Selic a 7,5% - Poder360",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 14:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de André Lara Resende sugere uma visão de política monetária mais expansionista. Se tal conselho for implementado e conseguir atingir a meta, isso poderia estimular a economia; caso contrário, a manutenção de juros elevados pode continuar a restringir o crédito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793656871.6556854,
+    "titulo": "'Propostas como tabelar os juros ou queimar reservas cambiais não estão em avaliação', diz Durigan",
+    "titulo_original": "'Propostas como tabelar os juros ou queimar reservas cambiais não estão em avaliação', diz Durigan - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 16:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Durigan afasta medidas extremas no controle de juros e reservas cambiais. Se o governo mantiver essa postura, o mercado terá mais previsibilidade; se houver qualquer sinalização em contrário, isso poderia gerar volatilidade significativa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793656877.235059,
+    "titulo": "Banco Central deve manter Selic em 13,75% após turbulência nos mercados",
+    "titulo_original": "Banco Central deve manter Selic em 13,75% após turbulência nos mercados - Vero Notícias",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 15:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de manutenção da Selic em 13,75% sugere que o Banco Central pode estar priorizando a estabilidade em detrimento de cortes agressivos. Se a turbulência persistir, a taxa pode se manter elevada por mais tempo; se os mercados se acalmarem, a pressão por cortes pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793656883.6897495,
+    "titulo": "Ibovespa encerra semana pós-eleição com perda de 18%; dólar vai a R$ 5,44",
+    "titulo_original": "Ibovespa encerra semana pós-eleição com perda de 18%; dólar vai a R$ 5,44 - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 18:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte desvalorização do Ibovespa e a alta do dólar após a eleição indicam uma reação negativa do mercado ao cenário político. Se as incertezas políticas persistirem, o mercado acionário pode continuar sob pressão; se houver sinais de estabilidade e clareza nas políticas econômicas, a confiança pode ser restaurada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793656883.6905627,
+    "titulo": "Safra ajusta carteira após queda de 10% e aposta em ações de dividendos; confira",
+    "titulo_original": "Safra ajusta carteira após queda de 10% e aposta em ações de dividendos; confira",
+    "fonte": "Money Times",
+    "publicado": "02/11 18:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A estratégia do Safra reflete uma postura mais cautelosa em relação ao mercado acionário, buscando empresas com fluxo de caixa mais estável. Se o cenário econômico se deteriorar, a preferência por dividendos pode se intensificar; caso contrário, o mercado pode voltar a precificar ações com maior potencial de crescimento.",
+    "is_stocks": true
   }
 ]
