@@ -331,5 +331,81 @@
     "origem": "externa",
     "leitura_critica": "A desaceleração do PMI industrial dos EUA, embora ainda em território de expansão, pode indicar um arrefecimento da atividade econômica. Se a pressão inflacionária nos preços de venda persistir, isso pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Caso a inflação de custos diminua, o cenário para a política monetária pode se tornar mais flexível.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1793644249.915975,
+    "titulo": "Dólar e renda fixa lideram investimentos em outubro; Bolsa foi o pior",
+    "titulo_original": "Dólar e renda fixa lideram investimentos em outubro; Bolsa foi o pior - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 10:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A preferência por dólar e renda fixa em detrimento da bolsa em outubro pode indicar um cenário de maior aversão ao risco por parte dos investidores. Se essa tendência se mantiver, pode haver uma pressão contínua sobre os ativos de renda variável no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793644254.5676548,
+    "titulo": "Após derrotas na Justiça, Trump leva plano de intervenção federal nas eleições na Califórnia à Suprema Corte",
+    "titulo_original": "Após derrotas na Justiça, Trump leva plano de intervenção federal nas eleições na Califórnia à Suprema Corte - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "02/11 15:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Suprema Corte sobre o plano de intervenção federal de Trump pode definir um precedente para futuras disputas eleitorais nos EUA. Se o plano for aceito, isso poderá gerar incertezas sobre a estabilidade do processo democrático americano.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793644259.246762,
+    "titulo": "Mercado Bitcoin sofre ataque hacker e trava saques",
+    "titulo_original": "Mercado Bitcoin sofre ataque hacker e trava saques",
+    "fonte": "InvestNews",
+    "publicado": "02/11 15:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A segurança em plataformas de criptomoedas é um ponto crítico para a confiança dos investidores. Se investigações posteriores confirmarem falhas de segurança significativas, isso pode afetar a percepção de risco do setor no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793644263.8704689,
+    "titulo": "SAC de empresas terá atendimento humano obrigatório a partir desta segunda-feira",
+    "titulo_original": "SAC de empresas terá atendimento humano obrigatório a partir desta segunda-feira",
+    "fonte": "Valor Economico",
+    "publicado": "02/11 14:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nova regulamentação para SACs visa melhorar a experiência do consumidor. Se as empresas cumprirem as novas regras, isso pode aumentar a satisfação do cliente e reduzir reclamações; caso contrário, podem enfrentar sanções.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793644269.7727818,
+    "titulo": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço",
+    "titulo_original": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "02/11 09:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do petróleo pode afetar economias dependentes da exportação de commodities. Se o balanço da Hybe apresentar resultados abaixo do esperado, isso pode gerar volatilidade específica para as ações da empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793644269.7739978,
+    "titulo": "O que Wall Street espera das eleições nos EUA? O histórico do S&P 500 dá pistas",
+    "titulo_original": "O que Wall Street espera das eleições nos EUA? O histórico do S&P 500 dá pistas",
+    "fonte": "Money Times",
+    "publicado": "02/11 15:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho histórico do S&P 500 após eleições de meio de mandato pode oferecer um indicativo para os investidores. Se o padrão se repetir, o mercado de ações americano pode apresentar uma recuperação após a definição do cenário político.",
+    "is_stocks": true
   }
 ]
