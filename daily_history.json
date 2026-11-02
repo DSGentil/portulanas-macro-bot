@@ -407,5 +407,71 @@
     "origem": "externa",
     "leitura_critica": "O desempenho histórico do S&P 500 após eleições de meio de mandato pode oferecer um indicativo para os investidores. Se o padrão se repetir, o mercado de ações americano pode apresentar uma recuperação após a definição do cenário político.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793651444.8894603,
+    "titulo": "O desafio é grande, e soluções mágicas, perigosas",
+    "titulo_original": "O desafio é grande, e soluções mágicas, perigosas",
+    "fonte": "Folha Mercado",
+    "publicado": "02/11 16:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da dívida bruta do PIB sugere que o atual arcabouço fiscal pode não ser suficiente para estabilizar as contas públicas, especialmente com juros mais altos. Se o governo não apresentar medidas adicionais para controle de gastos ou aumento de receitas, a trajetória da dívida pode se tornar insustentável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793651450.2984614,
+    "titulo": "Cotado para ser ministro da Fazenda, Rafael Fonteles enaltece o equilíbrio fiscal nas redes sociais",
+    "titulo_original": "Cotado para ser ministro da Fazenda, Rafael Fonteles enaltece o equilíbrio fiscal nas redes sociais",
+    "fonte": "Valor Economico",
+    "publicado": "02/11 15:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Fonteles sinaliza uma possível prioridade para o equilíbrio fiscal em um eventual ministério. Se ele assumir a pasta e implementar políticas de austeridade, isso pode trazer maior previsibilidade fiscal; caso contrário, as críticas sobre o desequilíbrio das contas públicas podem persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793651455.6889381,
+    "titulo": "El Niño pode reduzir a produtividade da soja em 13 estados brasileiros",
+    "titulo_original": "El Niño pode reduzir a produtividade da soja em 13 estados brasileiros - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "02/11 14:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A redução na produtividade da soja devido ao El Niño pode impactar a oferta e os preços do grão no mercado interno e externo. Se os efeitos do fenômeno forem severos, isso pode levar a uma menor oferta e a um aumento nos preços da soja.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793651461.0895045,
+    "titulo": "El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco",
+    "titulo_original": "El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco",
+    "fonte": "Money Times",
+    "publicado": "02/11 16:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O El Niño pode gerar pressões inflacionárias futuras nos EUA, o que pode influenciar as decisões de política monetária do Fed. Se os efeitos do fenômeno se materializarem em alta de preços, isso pode levar o Fed a manter uma postura mais restritiva por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793651467.0430286,
+    "titulo": "Iran and US reportedly on verge of preliminary agreement",
+    "titulo_original": "Iran and US reportedly on verge of preliminary agreement",
+    "fonte": "ForexLive",
+    "publicado": "02/11 15:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Um acordo preliminar entre Irã e EUA poderia mitigar o risco geopolítico no Oriente Médio, impactando os preços do petróleo. Se o acordo for confirmado e detalhado, o petróleo pode cair mais; caso contrário, a incerteza e a volatilidade podem permanecer.",
+    "is_stocks": true
   }
 ]
