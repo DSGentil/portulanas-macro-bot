@@ -77,5 +77,88 @@
     "origem": "externa",
     "leitura_critica": "A queda no PMI industrial japonês, apesar de ainda indicar expansão, juntamente com o aumento das pressões de custo, pode reforçar a expectativa de normalização da política monetária pelo Banco do Japão. Se os custos de energia continuarem a subir, isso representa um risco de alta para a inflação de bens no Japão.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793619050.3596957,
+    "titulo": "Enquanto a bolsa sofre, estas são as ações preferidas para enfrentar a incerteza fiscal",
+    "titulo_original": "Enquanto a bolsa sofre, estas são as ações preferidas para enfrentar a incerteza fiscal - Money Times",
+    "fonte": "Google News Acoes",
+    "publicado": "02/11 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aponta para um cenário de incerteza fiscal afetando a bolsa. Se a incerteza fiscal se materializar em decisões concretas que alterem o quadro macroeconômico, o mercado acionário pode reagir de forma mais acentuada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793619054.8751032,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "02/11 04:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Os dados de PMI industrial podem fornecer indicações sobre a atividade econômica. A proposta do Irã e a resposta dos EUA podem influenciar o cenário geopolítico e, consequentemente, os preços de commodities como o petróleo, com potenciais reflexos na inflação global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793619059.3075728,
+    "titulo": "Irã propõe reabrir Estreito de Ormuz em dois dias se EUA aceitarem condições",
+    "titulo_original": "Irã propõe reabrir Estreito de Ormuz em dois dias se EUA aceitarem condições - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "02/11 07:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A proposta do Irã para reabrir o Estreito de Ormuz pode ter implicações na segurança energética e nos preços do petróleo. Se a tensão geopolítica diminuir, isso pode impactar a inflação global e o fluxo de capital em busca de ativos de menor risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793619063.7865388,
+    "titulo": "Vendas no varejo da Alemanha caem em setembro com fraqueza do consumidor adicionando dor de cabeça ao BCE",
+    "titulo_original": "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
+    "fonte": "ForexLive",
+    "publicado": "02/11 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nas vendas no varejo alemão sugere uma fraqueza na atividade econômica e pode pressionar o Banco Central Europeu (BCE) em suas decisões de política monetária. Se a fraqueza persistir, pode indicar pressões inflacionárias menores, mas também um cenário de desaceleração econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793619069.1117165,
+    "titulo": "Tributação de dividendos: como funciona o imposto mínimo e o que falta definir",
+    "titulo_original": "Tributação de dividendos: como funciona o imposto mínimo e o que falta definir",
+    "fonte": "InvestNews",
+    "publicado": "02/11 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A definição das regras de tributação de dividendos e a resolução de ações judiciais relacionadas podem impactar a atratividade de investimentos em renda variável. A clareza regulatória tende a reduzir a volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793619069.1127963,
+    "titulo": "Emissões longas das ‘big techs’ já equivalem a 13% da oferta de Treasuries",
+    "titulo_original": "Emissões longas das ‘big techs’ já equivalem a 13% da oferta de Treasuries",
+    "fonte": "Valor Economico",
+    "publicado": "02/11 07:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento da emissão de dívida por grandes empresas de tecnologia nos EUA pode indicar uma demanda por capital e influenciar o mercado de títulos. Se essa emissão competir com a oferta de Treasuries, pode haver impacto nas taxas de juros de longo prazo e no fluxo de capital.",
+    "is_stocks": true
   }
 ]
