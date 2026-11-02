@@ -160,5 +160,81 @@
     "origem": "externa",
     "leitura_critica": "O aumento da emissão de dívida por grandes empresas de tecnologia nos EUA pode indicar uma demanda por capital e influenciar o mercado de títulos. Se essa emissão competir com a oferta de Treasuries, pode haver impacto nas taxas de juros de longo prazo e no fluxo de capital.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793625348.1945162,
+    "titulo": "Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora",
+    "titulo_original": "Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia aborda estratégias de investimento no exterior, o que pode indicar movimentações de capital. Se a volatilidade do dólar persistir, isso pode influenciar decisões de alocação de recursos por parte de investidores, afetando o fluxo de capital para diferentes mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793625353.6702213,
+    "titulo": "Guerra reduziu estoques de petróleo em quase 1 bilhão de barris, diz CEO de estatal dos Emirados Árabes",
+    "titulo_original": "Guerra reduziu estoques de petróleo em quase 1 bilhão de barris, diz CEO de estatal dos Emirados Árabes",
+    "fonte": "Folha Mercado",
+    "publicado": "02/11 09:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A redução significativa nos estoques de petróleo, decorrente de conflitos geopolíticos, pode pressionar os preços da commodity. Se essa tendência se mantiver, o aumento nos custos de energia pode se refletir em pressões inflacionárias globais, impactando decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793625360.3358986,
+    "titulo": "Reservas globais de energia foram reduzidas, diz presidente da Adnoc",
+    "titulo_original": "Reservas globais de energia foram reduzidas, diz presidente da Adnoc",
+    "fonte": "Valor Economico",
+    "publicado": "02/11 09:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A drástica redução nos estoques de petróleo e a disparada nos preços do diesel representam um risco inflacionário global. Se essa pressão inflacionária se materializar, pode levar bancos centrais a adotar posturas mais restritivas em suas políticas monetárias, impactando as taxas de juros e o custo de capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793625366.5880537,
+    "titulo": "Petróleo cai mais de 4% com esperança de paz; Goldman projeta US$ 140",
+    "titulo_original": "Petróleo cai mais de 4% com esperança de paz; Goldman projeta US$ 140 - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "02/11 09:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda no preço do petróleo, impulsionada por expectativas de paz, pode aliviar pressões inflacionárias globais. No entanto, a projeção do Goldman Sachs para um patamar mais elevado no futuro indica volatilidade e incerteza no mercado de energia, o que pode influenciar decisões de política monetária e fiscal a médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793625373.7664876,
+    "titulo": "A Petrobras e a defasagem do preço do diesel",
+    "titulo_original": "A Petrobras e a defasagem do preço do diesel - O GLOBO",
+    "fonte": "Google News Acoes",
+    "publicado": "02/11 09:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A defasagem no preço do diesel pode ter implicações na política de preços da Petrobras e, consequentemente, em sua rentabilidade. Se essa defasagem se traduzir em subsídios ou perdas significativas, pode haver discussões sobre a política fiscal ou a saúde financeira da empresa, mas a notícia em si não detalha esses desdobramentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793625373.7671328,
+    "titulo": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço",
+    "titulo_original": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "02/11 09:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia descreve o desempenho misto das bolsas asiáticas, com a queda do petróleo como um dos fatores. A informação sobre ações de uma empresa específica (Hybe) é um evento corporativo. Não há conexão explícita com canais macroeconômicos brasileiros, exceto pela menção ao petróleo, que pode ter impacto global.",
+    "is_stocks": true
   }
 ]
