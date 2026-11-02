@@ -260,5 +260,76 @@
     "origem": "domestica",
     "leitura_critica": "A reação negativa da bolsa e do câmbio após o segundo turno da eleição brasileira indica uma percepção de maior risco por parte dos investidores. Se essa aversão ao risco persistir, pode haver um impacto contínuo nos ativos domésticos. A magnitude da reversão em relação ao primeiro turno sugere que o resultado final gerou maior incerteza para o mercado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793637953.196115,
+    "titulo": "BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula",
+    "titulo_original": "BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 12:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de manutenção da taxa Selic em 13,75% indica uma pausa na política monetária após a reeleição de Lula. Se o cenário inflacionário se mantiver sob controle, o Banco Central pode iniciar um ciclo de cortes de juros nas próximas reuniões. Caso a inflação volte a acelerar, a manutenção da Selic ou até mesmo um novo aumento podem ser considerados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793637958.2281938,
+    "titulo": "BC: Copom se reúne nesta semana para definir taxa Selic",
+    "titulo_original": "BC: Copom se reúne nesta semana para definir taxa Selic - SBT News",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 08:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reunião do Copom para definir a taxa Selic é um evento de alta relevância para o mercado. Se o Banco Central decidir manter a taxa, isso pode indicar uma postura de cautela em relação à inflação. Caso haja um corte, isso pode sinalizar confiança na trajetória de desinflação e estimular a atividade econômica. A comunicação do BC após a decisão será crucial para entender os próximos passos da política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793637963.2273226,
+    "titulo": "Por que um dos criadores do Plano Real quer limitar os juros no Brasil",
+    "titulo_original": "Por que um dos criadores do Plano Real quer limitar os juros no Brasil - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 11:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A opinião de um dos criadores do Plano Real sobre a limitação dos juros pode influenciar o debate sobre a política monetária. Se essa visão ganhar mais adeptos entre os formuladores de política, isso pode pressionar o Banco Central a considerar uma trajetória de juros mais baixa. Caso a visão predominante no BC continue focada no controle inflacionário, a taxa Selic pode permanecer em patamares elevados por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793637968.5001853,
+    "titulo": "Aliados de Lula fazem ofensiva contra pressão do mercado financeiro às vésperas do Copom",
+    "titulo_original": "Aliados de Lula fazem ofensiva contra pressão do mercado financeiro às vésperas do Copom",
+    "fonte": "Folha Mercado",
+    "publicado": "02/11 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ofensiva de aliados de Lula contra o mercado financeiro, criticando a cobrança por ajuste fiscal, pode sinalizar uma postura mais confrontadora do governo em relação às demandas do mercado. Se essa retórica se traduzir em políticas fiscais menos ortodoxas, isso pode gerar volatilidade nos ativos financeiros. Caso o governo busque um diálogo mais construtivo, a confiança do mercado pode ser restaurada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793637973.7613916,
+    "titulo": "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
+    "titulo_original": "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
+    "fonte": "ForexLive",
+    "publicado": "02/11 11:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração do PMI industrial dos EUA, embora ainda em território de expansão, pode indicar um arrefecimento da atividade econômica. Se a pressão inflacionária nos preços de venda persistir, isso pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Caso a inflação de custos diminua, o cenário para a política monetária pode se tornar mais flexível.",
+    "is_stocks": false
   }
 ]
