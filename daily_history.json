@@ -553,5 +553,96 @@
     "origem": "domestica",
     "leitura_critica": "A estratégia do Safra reflete uma postura mais cautelosa em relação ao mercado acionário, buscando empresas com fluxo de caixa mais estável. Se o cenário econômico se deteriorar, a preferência por dividendos pode se intensificar; caso contrário, o mercado pode voltar a precificar ações com maior potencial de crescimento.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793662246.095011,
+    "titulo": "Copom: mercado espera fim do corte de juros na quarta",
+    "titulo_original": "Copom: mercado espera fim do corte de juros na quarta - Acia Araçatuba",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 18:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Se o Copom de fato encerrar o ciclo de corte de juros, isso pode sinalizar uma pausa na política monetária expansionista. Caso a decisão venha acompanhada de um comunicado mais cauteloso sobre a inflação, o mercado pode reagir com maior volatilidade no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793662251.0422118,
+    "titulo": "Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom",
+    "titulo_original": "Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "02/11 19:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pressão política sobre o Banco Central pode influenciar a comunicação do Copom, mesmo que a decisão técnica sobre a Selic seja mantida. Se essa retórica se intensificar após a reunião, pode haver um aumento na percepção de risco fiscal, impactando a curva de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793662256.1612973,
+    "titulo": "Apple divulga receita acima do esperado, mas alerta para alta dos preços de chips",
+    "titulo_original": "Apple divulga receita acima do esperado, mas alerta para alta dos preços de chips",
+    "fonte": "Folha Mercado",
+    "publicado": "02/11 18:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Se a pressão nos preços dos chips persistir, a Apple pode ter que repassar esses custos aos consumidores, o que poderia afetar o volume de vendas. A capacidade da empresa em gerenciar os custos de IA será crucial para a manutenção de suas margens de lucro no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793662261.1156945,
+    "titulo": "Petróleo fecha em queda de mais de 7% com expectativa de acordo para encerrar guerra no Oriente Médio",
+    "titulo_original": "Petróleo fecha em queda de mais de 7% com expectativa de acordo para encerrar guerra no Oriente Médio - Seu Dinheiro",
+    "fonte": "Google News Commodities",
+    "publicado": "02/11 16:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Se um acordo de paz for efetivamente firmado, a queda nos preços do petróleo pode se consolidar, impactando positivamente a inflação global. Caso as negociações falhem ou o conflito se agrave, os preços do petróleo podem reverter a tendência de queda rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793662266.889387,
+    "titulo": "Apple supera projeção de venda do iPhone, mas fica devendo em serviços",
+    "titulo_original": "Apple supera projeção de venda do iPhone, mas fica devendo em serviços",
+    "fonte": "Valor Economico",
+    "publicado": "02/11 19:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Se a pressão de custos de memória se intensificar, a Apple pode ter dificuldades em manter suas margens de lucro. Caso a divisão de serviços apresente uma recuperação consistente nos próximos trimestres, a dependência do iPhone pode ser mitigada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793662266.8906786,
+    "titulo": "Apple lucra US$ 30,7 bilhões no quarto trimestre fiscal, alta de 11,8%",
+    "titulo_original": "Apple lucra US$ 30,7 bilhões no quarto trimestre fiscal, alta de 11,8%",
+    "fonte": "Valor Economico",
+    "publicado": "02/11 19:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho robusto do iPhone sugere uma demanda resiliente, o que pode sustentar o valuation da empresa. Se o crescimento da receita de serviços desacelerar ainda mais, a Apple pode precisar reavaliar suas estratégias de diversificação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793662266.8918343,
+    "titulo": "investingLive Americas FX news wrap 2 Nov: AI selling overwhelms oil’s plunge",
+    "titulo_original": "investingLive Americas FX news wrap 2 Nov: It’s a wrap: AI selling overwhelms oil’s plunge",
+    "fonte": "ForexLive",
+    "publicado": "02/11 18:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa de alta de juros pelo RBA pode indicar um cenário global de aperto monetário, o que impactaria mercados de risco. Se os dados de PMI manufatureiro continuarem fortes, isso pode reforçar a visão de resiliência da economia americana, apesar dos gastos com construção terem vindo abaixo do esperado.",
+    "is_stocks": true
   }
 ]
