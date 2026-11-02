@@ -236,5 +236,29 @@
     "origem": "externa",
     "leitura_critica": "A notícia descreve o desempenho misto das bolsas asiáticas, com a queda do petróleo como um dos fatores. A informação sobre ações de uma empresa específica (Hybe) é um evento corporativo. Não há conexão explícita com canais macroeconômicos brasileiros, exceto pela menção ao petróleo, que pode ter impacto global.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793632550.0993607,
+    "titulo": "Pezeshkian do Irã diz que Líder Supremo concedeu ao governo alguma autoridade em diálogo",
+    "titulo_original": "Iran’s Pezeshkian says Supreme Leader has granted government some authority on dialogue",
+    "fonte": "ForexLive",
+    "publicado": "02/11 10:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração do presidente iraniano sobre a concessão de autoridade para diálogo pelo Líder Supremo pode indicar uma abertura para negociações, mas o escopo dessa autoridade permanece incerto. Se essa abertura levar a negociações concretas, isso pode aliviar as tensões regionais e impactar os preços do petróleo. A advertência contra a rendição sugere que qualquer diálogo terá condições.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793632556.4363568,
+    "titulo": "Reação negativa da bolsa e do câmbio ao 2º turno da eleição supera rali do 1º; veja números",
+    "titulo_original": "Reação negativa da bolsa e do câmbio ao 2º turno da eleição supera rali do 1º; veja números",
+    "fonte": "Valor Economico",
+    "publicado": "02/11 11:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A reação negativa da bolsa e do câmbio após o segundo turno da eleição brasileira indica uma percepção de maior risco por parte dos investidores. Se essa aversão ao risco persistir, pode haver um impacto contínuo nos ativos domésticos. A magnitude da reversão em relação ao primeiro turno sugere que o resultado final gerou maior incerteza para o mercado.",
+    "is_stocks": true
   }
 ]
