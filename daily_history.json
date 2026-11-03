@@ -990,5 +990,75 @@
     "origem": "domestica",
     "leitura_critica": "O aumento da participação da MAK Capital na Hapvida reforça a notícia anterior sobre o investimento da gestora na operadora de saúde. Se a MAK Capital tiver sucesso em sua estratégia de investimento, isso pode levar a uma recuperação da Hapvida e impactar positivamente o preço de suas ações.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793724348.5380747,
+    "titulo": "ANP multa distribuidoras de combustíveis em mais de R$ 700 milhões por elevação abusiva de preços",
+    "titulo_original": "ANP multa distribuidoras de combustíveis em mais de R$ 700 milhões por elevação abusiva de preços",
+    "fonte": "Valor Economico",
+    "publicado": "03/11 13:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da ANP representa uma ação regulatória concreta com impacto financeiro direto para as distribuidoras. Se a prática de preços abusivos for recorrente e a fiscalização se intensificar, isso pode levar a uma maior cautela nas precificações futuras. Caso as medidas provisórias que permitiram essa fiscalização não sejam renovadas, a capacidade de punição da ANP nessa área específica pode ser limitada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793724353.120641,
+    "titulo": "Boletim Focus: mercado eleva projeções para Selic, dólar e inflação",
+    "titulo_original": "Boletim Focus: mercado eleva projeções para Selic, dólar e inflação - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/11 08:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A elevação das projeções para Selic, dólar e inflação no Boletim Focus sugere um cenário de maior pressão inflacionária e expectativas de juros mais altos por mais tempo, o que pode impactar o custo de crédito e o fluxo de capital. Se essas projeções se confirmarem, o Banco Central pode ter sua margem de manobra para cortes de juros reduzida. A expectativa de um dólar mais alto pode indicar menor entrada de capital estrangeiro ou maior saída.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793724357.5390544,
+    "titulo": "Economistas sobem previsão da inflação, juros e dólar até 2029 no primeiro Focus com impacto de vitória de Lula",
+    "titulo_original": "Economistas sobem previsão da inflação, juros e dólar até 2029 no primeiro Focus com impacto de vitória de Lula",
+    "fonte": "Folha Mercado",
+    "publicado": "03/11 09:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento das projeções de inflação, juros e dólar no Boletim Focus, associado à vitória de Lula, indica que o mercado antecipa um cenário de maior pressão inflacionária e possivelmente um câmbio mais volátil. Se as políticas econômicas do novo governo levarem a um aumento efetivo da inflação e a uma necessidade de juros mais altos, isso pode afetar o custo de capital e o fluxo de investimentos no país. A expectativa de um dólar mais alto pode sinalizar menor atratividade para capital estrangeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793724362.070621,
+    "titulo": "Petróleo no Amapá: Davi Alcolumbre celebra nova descoberta em poço perfurado",
+    "titulo_original": "Petróleo no Amapá: Davi Alcolumbre celebra nova descoberta em poço perfurado - Senado",
+    "fonte": "Google News Commodities",
+    "publicado": "03/11 12:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A descoberta de petróleo no Amapá pode ter implicações futuras para a produção energética do Brasil, mas a notícia em si não detalha o volume ou o potencial econômico da descoberta. Se essa descoberta se concretizar em produção significativa, pode impactar a balança comercial brasileira e a dependência de importações de petróleo, mas o impacto imediato é limitado pela falta de detalhes concretos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793724366.582527,
+    "titulo": "Plantio de soja avança para 53% da área no Brasil, diz AgRural",
+    "titulo_original": "Plantio de soja avança para 53% da área no Brasil, diz AgRural - Canal Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "03/11 07:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O avanço do plantio de soja é um indicador importante para o agronegócio brasileiro, que tem grande peso na economia. Se o clima e as condições de plantio se mantiverem favoráveis, isso pode sinalizar uma boa safra, com potencial impacto positivo nas exportações e na balança comercial. A notícia em si é um dado de acompanhamento setorial.",
+    "is_stocks": false
   }
 ]
