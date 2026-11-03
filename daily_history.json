@@ -1,76 +1,5 @@
 [
   {
-    "_timestamp": 1793637953.196115,
-    "titulo": "BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula",
-    "titulo_original": "BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 12:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de manutenção da taxa Selic em 13,75% indica uma pausa na política monetária após a reeleição de Lula. Se o cenário inflacionário se mantiver sob controle, o Banco Central pode iniciar um ciclo de cortes de juros nas próximas reuniões. Caso a inflação volte a acelerar, a manutenção da Selic ou até mesmo um novo aumento podem ser considerados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793637958.2281938,
-    "titulo": "BC: Copom se reúne nesta semana para definir taxa Selic",
-    "titulo_original": "BC: Copom se reúne nesta semana para definir taxa Selic - SBT News",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 08:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A reunião do Copom para definir a taxa Selic é um evento de alta relevância para o mercado. Se o Banco Central decidir manter a taxa, isso pode indicar uma postura de cautela em relação à inflação. Caso haja um corte, isso pode sinalizar confiança na trajetória de desinflação e estimular a atividade econômica. A comunicação do BC após a decisão será crucial para entender os próximos passos da política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793637963.2273226,
-    "titulo": "Por que um dos criadores do Plano Real quer limitar os juros no Brasil",
-    "titulo_original": "Por que um dos criadores do Plano Real quer limitar os juros no Brasil - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 11:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A opinião de um dos criadores do Plano Real sobre a limitação dos juros pode influenciar o debate sobre a política monetária. Se essa visão ganhar mais adeptos entre os formuladores de política, isso pode pressionar o Banco Central a considerar uma trajetória de juros mais baixa. Caso a visão predominante no BC continue focada no controle inflacionário, a taxa Selic pode permanecer em patamares elevados por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793637968.5001853,
-    "titulo": "Aliados de Lula fazem ofensiva contra pressão do mercado financeiro às vésperas do Copom",
-    "titulo_original": "Aliados de Lula fazem ofensiva contra pressão do mercado financeiro às vésperas do Copom",
-    "fonte": "Folha Mercado",
-    "publicado": "02/11 10:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ofensiva de aliados de Lula contra o mercado financeiro, criticando a cobrança por ajuste fiscal, pode sinalizar uma postura mais confrontadora do governo em relação às demandas do mercado. Se essa retórica se traduzir em políticas fiscais menos ortodoxas, isso pode gerar volatilidade nos ativos financeiros. Caso o governo busque um diálogo mais construtivo, a confiança do mercado pode ser restaurada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793637973.7613916,
-    "titulo": "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
-    "titulo_original": "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
-    "fonte": "ForexLive",
-    "publicado": "02/11 11:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração do PMI industrial dos EUA, embora ainda em território de expansão, pode indicar um arrefecimento da atividade econômica. Se a pressão inflacionária nos preços de venda persistir, isso pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Caso a inflação de custos diminua, o cenário para a política monetária pode se tornar mais flexível.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1793644249.915975,
     "titulo": "Dólar e renda fixa lideram investimentos em outubro; Bolsa foi o pior",
     "titulo_original": "Dólar e renda fixa lideram investimentos em outubro; Bolsa foi o pior - UOL Economia",
@@ -1167,5 +1096,47 @@
     "origem": "externa",
     "leitura_critica": "O desempenho misto das bolsas americanas reflete a cautela dos investidores, com o setor de tecnologia liderando as altas e a Apple pesando no Dow Jones. Se os resultados de outras big techs seguirem a linha da Apple, pode haver pressão sobre o setor; caso contrário, a recuperação tecnológica pode se sustentar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793748638.9992175,
+    "titulo": "Carney diz que conversas comerciais com os EUA se intensificarão, pois Washington pede menos e oferece mais",
+    "titulo_original": "Carney says US trade talks to intensify as Washington asks less and offers mor",
+    "fonte": "ForexLive",
+    "publicado": "03/11 19:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "Se as negociações comerciais resultarem em um acordo concreto, isso poderá impulsionar o dólar canadense e aliviar a pressão sobre os exportadores. Caso contrário, a sensibilidade do par USD/CAD a outros fatores, como os resultados das eleições de meio de mandato nos EUA e os preços do petróleo, deve permanecer elevada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793748642.9526682,
+    "titulo": "Notícias do mercado americano: Abertura de vagas salta com a votação nos EUA",
+    "titulo_original": "investingLive Americas market news wrap: Job openings jump as the US votes",
+    "fonte": "ForexLive",
+    "publicado": "03/11 18:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte dado de abertura de vagas e pedidos de fábrica nos EUA sugere uma economia resiliente, o que pode levar o Federal Reserve a manter uma postura mais restritiva por mais tempo. Se as projeções de mercado para o controle democrata do Congresso se confirmarem, isso pode influenciar a política fiscal futura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793748646.86892,
+    "titulo": "Taxa de desemprego da Nova Zelândia no 3º trimestre 5,7% (esperado 5,5%, anterior 5,6%)",
+    "titulo_original": "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
+    "fonte": "ForexLive",
+    "publicado": "03/11 18:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento inesperado do desemprego na Nova Zelândia enfraquece os argumentos para um aperto monetário, mas a atenção se volta para a inflação e os custos de combustível. Se as pesquisas de expectativas de inflação confirmarem pressões, o debate sobre a taxa de juros pode continuar acirrado.",
+    "is_stocks": false
   }
 ]
