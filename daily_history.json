@@ -1,29 +1,5 @@
 [
   {
-    "_timestamp": 1793632550.0993607,
-    "titulo": "Pezeshkian do Irã diz que Líder Supremo concedeu ao governo alguma autoridade em diálogo",
-    "titulo_original": "Iran’s Pezeshkian says Supreme Leader has granted government some authority on dialogue",
-    "fonte": "ForexLive",
-    "publicado": "02/11 10:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração do presidente iraniano sobre a concessão de autoridade para diálogo pelo Líder Supremo pode indicar uma abertura para negociações, mas o escopo dessa autoridade permanece incerto. Se essa abertura levar a negociações concretas, isso pode aliviar as tensões regionais e impactar os preços do petróleo. A advertência contra a rendição sugere que qualquer diálogo terá condições.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793632556.4363568,
-    "titulo": "Reação negativa da bolsa e do câmbio ao 2º turno da eleição supera rali do 1º; veja números",
-    "titulo_original": "Reação negativa da bolsa e do câmbio ao 2º turno da eleição supera rali do 1º; veja números",
-    "fonte": "Valor Economico",
-    "publicado": "02/11 11:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A reação negativa da bolsa e do câmbio após o segundo turno da eleição brasileira indica uma percepção de maior risco por parte dos investidores. Se essa aversão ao risco persistir, pode haver um impacto contínuo nos ativos domésticos. A magnitude da reversão em relação ao primeiro turno sugere que o resultado final gerou maior incerteza para o mercado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793637953.196115,
     "titulo": "BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula",
     "titulo_original": "BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula - InfoMoney",
@@ -1071,6 +1047,125 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O fechamento da unidade da Gerdau em Divinópolis reflete desafios de competitividade no setor siderúrgico brasileiro, possivelmente agravados pela concorrência externa. Se a empresa conseguir otimizar suas operações em outras unidades, o impacto geral pode ser mitigado; caso contrário, pode haver pressão sobre a capacidade produtiva e o emprego no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793743249.804259,
+    "titulo": "Proposta de André Lara Resende para reduzir juros gera debate entre economistas - JOTA Info",
+    "titulo_original": "Proposta de André Lara Resende para reduzir juros gera debate entre economistas - JOTA Info",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/11 16:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de André Lara Resende para reduzir juros está provocando discussões entre economistas. Se a proposta ganhar tração e for considerada por autoridades monetárias, pode haver pressão para mudanças na política de juros; caso contrário, o debate pode permanecer restrito ao meio acadêmico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793743254.1783657,
+    "titulo": "Focus: analistas veem risco fiscal limitando cortes da Selic após mercado elevar projeções de inflação e juros - O GLOBO",
+    "titulo_original": "Focus: analistas veem risco fiscal limitando cortes da Selic após mercado elevar projeções de inflação e juros - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/11 17:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O relatório Focus indica que o risco fiscal pode ser um limitador para cortes na Selic, em um cenário de projeções de inflação e juros mais altas. Se o governo apresentar medidas fiscais concretas e eficazes, pode haver espaço para cortes de juros; caso contrário, a política monetária pode permanecer restritiva por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793743258.621726,
+    "titulo": "Juros futuros avançam com mal-estar sobre política econômica do Lula 4",
+    "titulo_original": "Juros futuros avançam com mal-estar sobre política econômica do Lula 4",
+    "fonte": "Valor Economico",
+    "publicado": "03/11 17:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta dos juros futuros reflete a incerteza do mercado quanto à política econômica do governo Lula 4, com destaque para a proposta de redução brusca da Selic e especulações sobre cargos chave. Se a clareza sobre a política econômica aumentar e as expectativas de inflação se estabilizarem, os juros futuros podem ceder; caso contrário, a pressão altista pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793743263.0228984,
+    "titulo": "Empresas buscam entender efeitos da reforma no dia a dia da operação, diz levantamento da Tunad",
+    "titulo_original": "Empresas buscam entender efeitos da reforma no dia a dia da operação, diz levantamento da Tunad",
+    "fonte": "Valor Economico",
+    "publicado": "03/11 18:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O levantamento da Tunad mostra que as empresas estão ativamente buscando compreender a reforma tributária, com foco em aspectos operacionais. Se a clareza sobre a aplicação da reforma aumentar, pode haver maior previsibilidade para os negócios; caso contrário, a incerteza pode persistir, impactando decisões de investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793743268.681885,
+    "titulo": "Itaú lucra R$ 12,6 bilhões, com alta de 1,7% no trimestre e 6,2% em 12 meses",
+    "titulo_original": "Itaú lucra R$ 12,6 bilhões, com alta de 1,7% no trimestre e 6,2% em 12 meses",
+    "fonte": "Valor Economico",
+    "publicado": "03/11 18:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O resultado do Itaú demonstra a resiliência do setor bancário em um cenário de juros elevados. Se a inadimplência continuar a subir, pode haver pressão sobre os resultados futuros; caso contrário, a tendência de crescimento pode se manter.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793743268.6837616,
+    "titulo": "Itaú (ITUB4) tem lucro de R$ 12,6 bilhões e ROE de 23,6% no 3T26; veja os detalhes do balanço",
+    "titulo_original": "Itaú (ITUB4) tem lucro de R$ 12,6 bilhões e ROE de 23,6% no 3T26; veja os detalhes do balanço",
+    "fonte": "Money Times",
+    "publicado": "03/11 18:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O resultado do Itaú está em linha com as expectativas, indicando estabilidade no setor bancário. Se os próximos balanços mantiverem essa performance, pode sinalizar um cenário de menor volatilidade para o setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793743268.6856043,
+    "titulo": "Itaú prioriza crédito imobiliário e consignado, e lucro cresce para R$ 12,6 bi",
+    "titulo_original": "Itaú prioriza crédito imobiliário e consignado, e lucro cresce para R$ 12,6 bi",
+    "fonte": "Folha Mercado",
+    "publicado": "03/11 18:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O foco do Itaú em crédito imobiliário e consignado resultou em um lucro expressivo, indicando uma estratégia bem-sucedida em segmentos específicos. Se a demanda por esses tipos de crédito se mantiver forte, o banco pode continuar a apresentar bons resultados; caso contrário, a estratégia pode precisar de ajustes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793743268.6874208,
+    "titulo": "Bradesco (BBDC4) derreteu quase 40% após as eleições, mas Morgan Stanley diz que a conta não fecha — e mantém compra",
+    "titulo_original": "Bradesco (BBDC4) derreteu quase 40% após as eleições, mas Morgan Stanley diz que a conta não fecha — e mantém compra",
+    "fonte": "Money Times",
+    "publicado": "03/11 17:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte queda das ações do Bradesco após as eleições levanta questionamentos sobre o valuation, com o Morgan Stanley vendo oportunidade de compra. Se a análise do banco se confirmar, pode haver uma recuperação nos papéis; caso contrário, a desvalorização pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793743268.6888936,
+    "titulo": "Nasdaq e S&P sobem com tecnologia; Apple derruba Dow em sessão cautelosa",
+    "titulo_original": "Nasdaq e S&P sobem com tecnologia; Apple derruba Dow em sessão cautelosa",
+    "fonte": "Valor Economico",
+    "publicado": "03/11 18:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho misto das bolsas americanas reflete a cautela dos investidores, com o setor de tecnologia liderando as altas e a Apple pesando no Dow Jones. Se os resultados de outras big techs seguirem a linha da Apple, pode haver pressão sobre o setor; caso contrário, a recuperação tecnológica pode se sustentar.",
     "is_stocks": true
   }
 ]
