@@ -1,81 +1,5 @@
 [
   {
-    "_timestamp": 1793625348.1945162,
-    "titulo": "Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora",
-    "titulo_original": "Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A notícia aborda estratégias de investimento no exterior, o que pode indicar movimentações de capital. Se a volatilidade do dólar persistir, isso pode influenciar decisões de alocação de recursos por parte de investidores, afetando o fluxo de capital para diferentes mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793625353.6702213,
-    "titulo": "Guerra reduziu estoques de petróleo em quase 1 bilhão de barris, diz CEO de estatal dos Emirados Árabes",
-    "titulo_original": "Guerra reduziu estoques de petróleo em quase 1 bilhão de barris, diz CEO de estatal dos Emirados Árabes",
-    "fonte": "Folha Mercado",
-    "publicado": "02/11 09:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A redução significativa nos estoques de petróleo, decorrente de conflitos geopolíticos, pode pressionar os preços da commodity. Se essa tendência se mantiver, o aumento nos custos de energia pode se refletir em pressões inflacionárias globais, impactando decisões de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793625360.3358986,
-    "titulo": "Reservas globais de energia foram reduzidas, diz presidente da Adnoc",
-    "titulo_original": "Reservas globais de energia foram reduzidas, diz presidente da Adnoc",
-    "fonte": "Valor Economico",
-    "publicado": "02/11 09:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A drástica redução nos estoques de petróleo e a disparada nos preços do diesel representam um risco inflacionário global. Se essa pressão inflacionária se materializar, pode levar bancos centrais a adotar posturas mais restritivas em suas políticas monetárias, impactando as taxas de juros e o custo de capital.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793625366.5880537,
-    "titulo": "Petróleo cai mais de 4% com esperança de paz; Goldman projeta US$ 140",
-    "titulo_original": "Petróleo cai mais de 4% com esperança de paz; Goldman projeta US$ 140 - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "02/11 09:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda no preço do petróleo, impulsionada por expectativas de paz, pode aliviar pressões inflacionárias globais. No entanto, a projeção do Goldman Sachs para um patamar mais elevado no futuro indica volatilidade e incerteza no mercado de energia, o que pode influenciar decisões de política monetária e fiscal a médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793625373.7664876,
-    "titulo": "A Petrobras e a defasagem do preço do diesel",
-    "titulo_original": "A Petrobras e a defasagem do preço do diesel - O GLOBO",
-    "fonte": "Google News Acoes",
-    "publicado": "02/11 09:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A defasagem no preço do diesel pode ter implicações na política de preços da Petrobras e, consequentemente, em sua rentabilidade. Se essa defasagem se traduzir em subsídios ou perdas significativas, pode haver discussões sobre a política fiscal ou a saúde financeira da empresa, mas a notícia em si não detalha esses desdobramentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793625373.7671328,
-    "titulo": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço",
-    "titulo_original": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "02/11 09:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia descreve o desempenho misto das bolsas asiáticas, com a queda do petróleo como um dos fatores. A informação sobre ações de uma empresa específica (Hybe) é um evento corporativo. Não há conexão explícita com canais macroeconômicos brasileiros, exceto pela menção ao petróleo, que pode ter impacto global.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793632550.0993607,
     "titulo": "Pezeshkian do Irã diz que Líder Supremo concedeu ao governo alguma autoridade em diálogo",
     "titulo_original": "Iran’s Pezeshkian says Supreme Leader has granted government some authority on dialogue",
@@ -1043,6 +967,110 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A liderança da Cogna nas perdas do Ibovespa é um movimento específico de uma ação no mercado de renda variável. Sem informações adicionais sobre os motivos da queda da empresa ou um impacto setorial mais amplo, a notícia não se conecta diretamente aos canais macroeconômicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793737856.918696,
+    "titulo": "Orçamento de 2027 pode ser votado ainda neste ano, afirma presidente da comissão mista",
+    "titulo_original": "Orçamento de 2027 pode ser votado ainda neste ano, afirma presidente da comissão mista",
+    "fonte": "Valor Economico",
+    "publicado": "03/11 17:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A antecipação da votação do orçamento pode indicar uma tentativa de consolidar as propostas fiscais do novo governo antes de sua posse. Se a votação ocorrer dentro do prazo, o mercado terá maior clareza sobre as diretrizes fiscais para 2027; caso contrário, a incerteza sobre o planejamento orçamentário pode se estender.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793737861.133871,
+    "titulo": "PT prepara ofensiva contra o Banco Central após decisão sobre juros - VEJA",
+    "titulo_original": "PT prepara ofensiva contra o Banco Central após decisão sobre juros - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/11 12:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica uma possível pressão política sobre a autonomia do Banco Central, o que pode gerar incertezas sobre a condução da política monetária. Se a ofensiva do PT ganhar força, isso pode levar a debates sobre a independência do BC e impactar as expectativas de juros; se a pressão for contida, a política monetária pode seguir seu curso.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793737865.354123,
+    "titulo": "Senador Eduardo Braga será o relator do Orçamento para 2027",
+    "titulo_original": "Senador Eduardo Braga será o relator do Orçamento para 2027",
+    "fonte": "Folha Mercado",
+    "publicado": "03/11 15:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nomeação de Eduardo Braga como relator do Orçamento de 2027 indica a condução do processo orçamentário por um senador com experiência política. Se o relator conseguir conciliar as demandas do governo eleito com a responsabilidade fiscal, o orçamento aprovado pode trazer maior previsibilidade; caso contrário, pode haver pressões por gastos que aumentem o déficit.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793737869.6520793,
+    "titulo": "Tensões no Irã aumentam com relatório detalhando contingência de ataque dos EUA e divisões de inteligência",
+    "titulo_original": "Iran tensions rise as report details U.S. strike contingency and intelligence divisions",
+    "fonte": "ForexLive",
+    "publicado": "03/11 15:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada das tensões no Oriente Médio pode impactar o preço do petróleo e aumentar a aversão ao risco global. Se os EUA decidirem por uma ação militar, isso pode desestabilizar a região e afetar cadeias de suprimentos; uma resolução diplomática, por outro lado, poderia aliviar as pressões no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793737874.910009,
+    "titulo": "Nubank (NU) despencou 17% e abriu uma bela oportunidade de compra, calcula XP; veja potencial",
+    "titulo_original": "Nubank (NU) despencou 17% e abriu uma bela oportunidade de compra, calcula XP; veja potencial",
+    "fonte": "Money Times",
+    "publicado": "03/11 17:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte desvalorização do Nubank após o resultado eleitoral sugere uma precificação de risco associada ao cenário político. Se a empresa conseguir manter seu crescimento e rentabilidade apesar das incertezas políticas, a ação pode se recuperar; caso contrário, a volatilidade pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793737874.911979,
+    "titulo": "Estrangeiros retiram R$ 100,8 milhões em ações da B3 em 29 de outubro - Valor Econômico",
+    "titulo_original": "Estrangeiros retiram R$ 100,8 milhões em ações da B3 em 29 de outubro - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "03/11 12:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída líquida de capital estrangeiro da bolsa brasileira pode indicar uma cautela dos investidores em relação ao cenário doméstico. Se essa tendência de saída se mantiver, pode pressionar o Ibovespa; se for um movimento pontual, o fluxo pode se reverter com melhora nas perspectivas econômicas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793737874.9137905,
+    "titulo": "10 ações com potencial de alta de até 83% para se posicionar após as eleições, segundo o BTG Pactual",
+    "titulo_original": "10 ações com potencial de alta de até 83% para se posicionar após as eleições, segundo o BTG Pactual",
+    "fonte": "Money Times",
+    "publicado": "03/11 16:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A carteira recomendada do BTG Pactual sugere uma visão otimista para o mercado de ações após as eleições, com foco em setores específicos. Se as ações recomendadas apresentarem o potencial de alta projetado, isso pode ser uma oportunidade para investidores; caso contrário, a performance pode ser afetada por fatores macroeconômicos ou específicos das empresas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793737874.9155948,
+    "titulo": "Gerdau encerra produção de aço em Divinópolis (MG)",
+    "titulo_original": "Gerdau encerra produção de aço em Divinópolis (MG)",
+    "fonte": "Valor Economico",
+    "publicado": "03/11 16:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O fechamento da unidade da Gerdau em Divinópolis reflete desafios de competitividade no setor siderúrgico brasileiro, possivelmente agravados pela concorrência externa. Se a empresa conseguir otimizar suas operações em outras unidades, o impacto geral pode ser mitigado; caso contrário, pode haver pressão sobre a capacidade produtiva e o emprego no setor.",
     "is_stocks": true
   }
 ]
