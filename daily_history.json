@@ -1,167 +1,5 @@
 [
   {
-    "_timestamp": 1793617266.6330934,
-    "titulo": "Volatilidade pós-eleições impulsiona busca por ativos de proteção",
-    "titulo_original": "Volatilidade pós-eleições impulsiona busca por ativos de proteção",
-    "fonte": "Folha Mercado",
-    "publicado": "01/11 23:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A busca por ativos de proteção após um evento eleitoral de alta volatilidade é um movimento esperado, indicando cautela dos investidores. Se o novo governo sinalizar políticas econômicas que aumentem a previsibilidade e reduzam o risco fiscal, a busca por ativos de proteção pode diminuir, favorecendo ativos de maior risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793617271.620574,
-    "titulo": "Lula 4 ou ‘Dilma 3’? Rogério Xavier, da SPX Capital, alerta para riscos da política econômica",
-    "titulo_original": "Lula 4 ou ‘Dilma 3’? Rogério Xavier, da SPX Capital, alerta para riscos da política econômica",
-    "fonte": "Money Times",
-    "publicado": "01/11 12:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise da SPX Capital levanta preocupações sobre a sustentabilidade da política econômica, especialmente no que tange ao equilíbrio entre objetivos políticos e restrições fiscais. Se o governo priorizar gastos sem um plano claro de ajuste fiscal, a dívida pública pode aumentar, pressionando os juros e a atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793617276.827741,
-    "titulo": "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008",
-    "titulo_original": "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008 - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "30/10 19:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte valorização do dólar em relação ao real, a maior desde 2008, sugere uma aversão ao risco em relação ao Brasil ou uma busca por segurança em ativos internacionais. Se essa tendência persistir, pode pressionar a inflação via importados e aumentar o custo da dívida externa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793617281.8623645,
-    "titulo": "Decisão do Copom sobre Selic é ponto alto da agenda da semana mais curta",
-    "titulo_original": "Decisão do Copom sobre Selic é ponto alto da agenda da semana mais curta - Valor Investe",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "01/11 12:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Copom sobre a taxa Selic é crucial para a precificação de ativos e a atividade econômica. Se o comitê optar por um corte de juros mais agressivo do que o esperado, isso pode estimular o consumo e o investimento; caso contrário, um corte mais modesto ou a manutenção da taxa podem indicar cautela com a inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793617287.841645,
-    "titulo": "Ibovespa: tombo de 18% iguala semana de 11 de Setembro e chega perto da pandemia; o que esperar?",
-    "titulo_original": "Ibovespa: tombo de 18% iguala semana de 11 de Setembro e chega perto da pandemia; o que esperar? - G1",
-    "fonte": "Google News Acoes",
-    "publicado": "31/10 04:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda acentuada do Ibovespa indica uma forte aversão ao risco no mercado brasileiro, possivelmente ligada a fatores políticos ou econômicos. Se os receios que levaram a essa queda persistirem, o fluxo de capital estrangeiro para a bolsa pode ser afetado negativamente, pressionando ainda mais o índice.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793617287.84206,
-    "titulo": "PMI industrial do Japão cai para 53,3, mínima de sete meses, com aumento das pressões de custo",
-    "titulo_original": "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
-    "fonte": "ForexLive",
-    "publicado": "01/11 21:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda no PMI industrial japonês, apesar de ainda indicar expansão, juntamente com o aumento das pressões de custo, pode reforçar a expectativa de normalização da política monetária pelo Banco do Japão. Se os custos de energia continuarem a subir, isso representa um risco de alta para a inflação de bens no Japão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793619050.3596957,
-    "titulo": "Enquanto a bolsa sofre, estas são as ações preferidas para enfrentar a incerteza fiscal",
-    "titulo_original": "Enquanto a bolsa sofre, estas são as ações preferidas para enfrentar a incerteza fiscal - Money Times",
-    "fonte": "Google News Acoes",
-    "publicado": "02/11 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para um cenário de incerteza fiscal afetando a bolsa. Se a incerteza fiscal se materializar em decisões concretas que alterem o quadro macroeconômico, o mercado acionário pode reagir de forma mais acentuada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793619054.8751032,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "02/11 04:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os dados de PMI industrial podem fornecer indicações sobre a atividade econômica. A proposta do Irã e a resposta dos EUA podem influenciar o cenário geopolítico e, consequentemente, os preços de commodities como o petróleo, com potenciais reflexos na inflação global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793619059.3075728,
-    "titulo": "Irã propõe reabrir Estreito de Ormuz em dois dias se EUA aceitarem condições",
-    "titulo_original": "Irã propõe reabrir Estreito de Ormuz em dois dias se EUA aceitarem condições - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "02/11 07:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A proposta do Irã para reabrir o Estreito de Ormuz pode ter implicações na segurança energética e nos preços do petróleo. Se a tensão geopolítica diminuir, isso pode impactar a inflação global e o fluxo de capital em busca de ativos de menor risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793619063.7865388,
-    "titulo": "Vendas no varejo da Alemanha caem em setembro com fraqueza do consumidor adicionando dor de cabeça ao BCE",
-    "titulo_original": "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
-    "fonte": "ForexLive",
-    "publicado": "02/11 04:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nas vendas no varejo alemão sugere uma fraqueza na atividade econômica e pode pressionar o Banco Central Europeu (BCE) em suas decisões de política monetária. Se a fraqueza persistir, pode indicar pressões inflacionárias menores, mas também um cenário de desaceleração econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793619069.1117165,
-    "titulo": "Tributação de dividendos: como funciona o imposto mínimo e o que falta definir",
-    "titulo_original": "Tributação de dividendos: como funciona o imposto mínimo e o que falta definir",
-    "fonte": "InvestNews",
-    "publicado": "02/11 08:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A definição das regras de tributação de dividendos e a resolução de ações judiciais relacionadas podem impactar a atratividade de investimentos em renda variável. A clareza regulatória tende a reduzir a volatilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793619069.1127963,
-    "titulo": "Emissões longas das ‘big techs’ já equivalem a 13% da oferta de Treasuries",
-    "titulo_original": "Emissões longas das ‘big techs’ já equivalem a 13% da oferta de Treasuries",
-    "fonte": "Valor Economico",
-    "publicado": "02/11 07:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento da emissão de dívida por grandes empresas de tecnologia nos EUA pode indicar uma demanda por capital e influenciar o mercado de títulos. Se essa emissão competir com a oferta de Treasuries, pode haver impacto nas taxas de juros de longo prazo e no fluxo de capital.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793625348.1945162,
     "titulo": "Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora",
     "titulo_original": "Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora - InfoMoney",
@@ -1060,5 +898,151 @@
     "origem": "domestica",
     "leitura_critica": "O avanço do plantio de soja é um indicador importante para o agronegócio brasileiro, que tem grande peso na economia. Se o clima e as condições de plantio se mantiverem favoráveis, isso pode sinalizar uma boa safra, com potencial impacto positivo nas exportações e na balança comercial. A notícia em si é um dado de acompanhamento setorial.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1793730654.7836971,
+    "titulo": "Esquenta do Copom | Reação ao cenário de inflação mais desfavorável: vemos agora uma pausa para avaliação - XP Investimentos",
+    "titulo_original": "Esquenta do Copom | Reação ao cenário de inflação mais desfavorável: vemos agora uma pausa para avaliação - XP Investimentos",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/11 12:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pausa na avaliação do Copom, motivada por um cenário inflacionário desfavorável, sugere que o Banco Central pode manter a taxa Selic em patamares elevados por mais tempo. Se os próximos dados de inflação vierem consistentemente abaixo do esperado, o Copom poderá retomar o ciclo de cortes; caso contrário, a manutenção da taxa pode se estender.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793730658.9306915,
+    "titulo": "Dólar encosta em R$ 5,50 e Bolsa cai à espera de decisão do BC sobre juros - UOL Economia",
+    "titulo_original": "Dólar encosta em R$ 5,50 e Bolsa cai à espera de decisão do BC sobre juros - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/11 11:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar e a queda da Bolsa, em antecipação a uma decisão do Banco Central sobre juros, indicam a forte influência da política monetária sobre os ativos brasileiros. Se o BC sinalizar manutenção da taxa de juros em patamar elevado, isso pode sustentar o dólar e pressionar a bolsa; um corte inesperado poderia ter o efeito oposto.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793730662.7935755,
+    "titulo": "Vagas de emprego nos EUA aumentam em 333 mil em setembro",
+    "titulo_original": "Vagas de emprego nos EUA aumentam em 333 mil em setembro",
+    "fonte": "Folha Mercado",
+    "publicado": "03/11 14:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento nas vagas de emprego nos EUA sugere uma economia resiliente, o que pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Se os dados de inflação continuarem a surpreender para cima, o Fed pode adiar qualquer flexibilização monetária, impactando mercados globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793730666.6792262,
+    "titulo": "Trump confirma ataque contra instalação antiaérea no Irã - CartaCapital",
+    "titulo_original": "Trump confirma ataque contra instalação antiaérea no Irã - CartaCapital",
+    "fonte": "Google News Geopolitica",
+    "publicado": "03/11 11:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A confirmação de um ataque a uma instalação antiaérea no Irã por Trump pode aumentar a tensão geopolítica na região. Se o conflito escalar, isso poderia impactar os preços globais de energia e afetar o fluxo de capital para mercados emergentes, dependendo da magnitude e do desdobramento dos eventos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793730672.725918,
+    "titulo": "Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês - InfoMoney",
+    "titulo_original": "Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "03/11 12:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa associada a temores fiscais indica que incertezas sobre as contas públicas do Brasil pesam sobre o mercado. Se o governo apresentar medidas concretas para o ajuste fiscal, isso poderia reverter o sentimento negativo; caso contrário, a pressão sobre a bolsa pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793730672.7276757,
+    "titulo": "Nvidia exige que parceiros de data centers reduzam negócios com clientes da China",
+    "titulo_original": "Nvidia exige que parceiros de data centers reduzam negócios com clientes da China",
+    "fonte": "Folha Mercado",
+    "publicado": "03/11 12:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A exigência da Nvidia para que parceiros reduzam negócios com a China intensifica a disputa tecnológica entre EUA e China em inteligência artificial. Se essa restrição se ampliar, pode impactar cadeias de suprimentos globais e o desenvolvimento de tecnologias, com potenciais efeitos indiretos em mercados de capitais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793730672.7293334,
+    "titulo": "Ibovespa chega a cair mais de 2% com temor fiscal e eleições nos EUA; dólar e juros futuros sobem - Folha de S.Paulo",
+    "titulo_original": "Ibovespa chega a cair mais de 2% com temor fiscal e eleições nos EUA; dólar e juros futuros sobem - Folha de S.Paulo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "03/11 09:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda do Ibovespa, a alta do dólar e dos juros futuros, atribuídas a temores fiscais e às eleições nos EUA, demonstram a sensibilidade do mercado brasileiro a fatores domésticos e externos. Se as eleições nos EUA resultarem em um cenário de maior incerteza fiscal global, isso pode pressionar ainda mais os ativos brasileiros; por outro lado, uma resolução clara pode aliviar as tensões.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793730672.7309916,
+    "titulo": "Três gatilhos que podem destravar uma recuperação do Ibovespa, segundo analista da EQI",
+    "titulo_original": "Três gatilhos que podem destravar uma recuperação do Ibovespa, segundo analista da EQI",
+    "fonte": "Money Times",
+    "publicado": "03/11 15:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A falta de clareza na política econômica e a pressão dos juros são fatores que limitam a recuperação do Ibovespa. Se o governo apresentar um plano fiscal crível e o Banco Central sinalizar um ciclo de cortes de juros mais acelerado, isso poderia destravar o mercado de ações brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793730672.73263,
+    "titulo": "As disputas das ‘midterms’ que Wall Street e outras instituições financeiras estão acompanhando",
+    "titulo_original": "As disputas das ‘midterms’ que Wall Street e outras instituições financeiras estão acompanhando",
+    "fonte": "Valor Economico",
+    "publicado": "03/11 15:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O acompanhamento das eleições de meio de mandato por Wall Street indica que os resultados podem ter implicações regulatórias para o setor financeiro e para o avanço de tecnologias como IA. Se houver mudanças significativas na regulação, isso pode afetar o apetite por risco e o fluxo de capital para determinados setores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793730672.734318,
+    "titulo": "Ação da Embraer sobe mais de 4% após pedido de aviões KC-390 pela Grécia",
+    "titulo_original": "Ação da Embraer sobe mais de 4% após pedido de aviões KC-390 pela Grécia",
+    "fonte": "Folha Mercado",
+    "publicado": "03/11 14:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento expressivo nas ações da Embraer, impulsionado por um pedido de aviões, demonstra a sensibilidade do setor de defesa e aeroespacial a contratos significativos. Este evento é específico da empresa e não aponta diretamente para um impacto nos canais macroeconômicos de juros, inflação ou fiscal no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793730672.7360094,
+    "titulo": "Cogna lidera perdas do Ibovespa hoje; veja maiores altas e baixas - Estadão",
+    "titulo_original": "Cogna lidera perdas do Ibovespa hoje; veja maiores altas e baixas - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "03/11 11:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A liderança da Cogna nas perdas do Ibovespa é um movimento específico de uma ação no mercado de renda variável. Sem informações adicionais sobre os motivos da queda da empresa ou um impacto setorial mais amplo, a notícia não se conecta diretamente aos canais macroeconômicos.",
+    "is_stocks": true
   }
 ]
