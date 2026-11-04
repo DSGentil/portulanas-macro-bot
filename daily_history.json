@@ -1,98 +1,5 @@
 [
   {
-    "_timestamp": 1793705478.989459,
-    "titulo": "Mercado aposta que taxa Selic pare de cair e teme soluções heterodoxas na economia",
-    "titulo_original": "Mercado aposta que taxa Selic pare de cair e teme soluções heterodoxas na economia - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/11 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de que a Selic pare de cair sugere que o mercado precifica um cenário de juros mais estáveis ou até em alta futura. O temor por \"soluções heterodoxas\" pode indicar preocupação com a sustentabilidade fiscal ou com a previsibilidade da política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793705483.2293696,
-    "titulo": "O que está em jogo na primeira decisão do Copom após a reeleição de Lula",
-    "titulo_original": "O que está em jogo na primeira decisão do Copom após a reeleição de Lula - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/11 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A primeira decisão do Copom após a reeleição de Lula é crucial para entender os rumos da política monetária sob o novo governo. Se o Copom sinalizar uma mudança na trajetória de juros, isso pode impactar diretamente o custo do crédito e a inflação no país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793705487.42865,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "03/11 04:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os dados de inflação suíça e emprego nos EUA podem influenciar as expectativas sobre as políticas monetárias de seus respectivos bancos centrais. O resultado das eleições americanas é o principal evento do dia, com potencial para gerar volatilidade nos mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793705491.6402593,
-    "titulo": "Midterms: Estados Unidos votam hoje sob medo de contestação de Donald Trump",
-    "titulo_original": "Midterms: Estados Unidos votam hoje sob medo de contestação de Donald Trump",
-    "fonte": "Money Times",
-    "publicado": "03/11 08:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O resultado das eleições de meio de mandato nos EUA pode definir o equilíbrio de poder no Congresso, impactando a agenda legislativa do país. Se a contestação dos resultados por parte de Donald Trump se concretizar, isso pode gerar instabilidade política e incerteza nos mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793705496.7297215,
-    "titulo": "EUA lançam novos ataques contra ilha iraniana no Estreito de Ormuz",
-    "titulo_original": "EUA lançam novos ataques contra ilha iraniana no Estreito de Ormuz",
-    "fonte": "Valor Economico",
-    "publicado": "03/11 08:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões no Oriente Médio pode impactar os preços do petróleo, caso haja interrupções nas rotas de exportação. Se os ataques se intensificarem, o risco geopolítico global tende a aumentar, afetando o apetite por risco dos investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793705496.7312896,
-    "titulo": "Futuros de Wall Street recuam com alta do petróleo e cautela antes das eleições nos EUA",
-    "titulo_original": "Futuros de Wall Street recuam com alta do petróleo e cautela antes das eleições nos EUA - Bloomberg Línea Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "03/11 07:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do petróleo, possivelmente ligada a tensões geopolíticas, e a incerteza eleitoral nos EUA criam um cenário de aversão ao risco nos mercados globais. Se os resultados das eleições americanas gerarem instabilidade política, o petróleo pode continuar pressionado e as bolsas globais em baixa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793705496.7327387,
-    "titulo": "Austrália aumenta taxa de juros para 4,85%, maior patamar em 18 anos",
-    "titulo_original": "Austrália aumenta taxa de juros para 4,85%, maior patamar em 18 anos",
-    "fonte": "Folha Mercado",
-    "publicado": "03/11 07:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aperto monetário na Austrália sinaliza a persistência da inflação no país e a determinação do banco central em combatê-la. Se outros bancos centrais seguirem um caminho semelhante de elevação de juros, isso pode impactar o custo do crédito globalmente.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793711745.6046078,
     "titulo": "Dólar hoje sobe e se aproxima de R$ 5,50 no retorno do feriado - InfoMoney",
     "titulo_original": "Dólar hoje sobe e se aproxima de R$ 5,50 no retorno do feriado - InfoMoney",
@@ -1161,6 +1068,98 @@
     ],
     "origem": "externa",
     "leitura_critica": "A forte rejeição a data centers nas eleições americanas indica uma tendência de maior escrutínio e restrições a esse tipo de empreendimento. Se essa tendência se espalhar para outras regiões ou setores, pode impactar investimentos em infraestrutura de tecnologia. A notícia não conecta diretamente essa decisão a um impacto fiscal ou regulatório em larga escala, mas a proibição em si é uma forma de regulação local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793817047.0029736,
+    "titulo": "Com menores receitas, lucro da Marcopolo recua 42,2% para R$ 187 milhões no 3º trimestre",
+    "titulo_original": "Com menores receitas, lucro da Marcopolo recua 42,2% para R$ 187 milhões no 3º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "04/11 14:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda no lucro da Marcopolo, associada à retração nas operações internacionais, pode indicar um cenário de menor atividade econômica em mercados importantes para a empresa. Se essa tendência se generalizar para outras empresas do setor de transporte, pode haver impacto no emprego e na atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793817051.0265615,
+    "titulo": "Líder Democrata da Câmara Jeffries diz que aprovará projeto para parar tarifas e acabar com a Guerra do Irã",
+    "titulo_original": "House Democratic leader Jeffries says will pass bill to stop tariffs and to end the Iran War",
+    "fonte": "ForexLive",
+    "publicado": "04/11 14:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A aprovação de legislação para reverter tarifas pode impactar custos de importação e preços de bens. Se a proposta de fim da guerra no Irã avançar, isso poderá ter implicações nos preços de energia. A centralidade dos custos de saúde na agenda democrata pode influenciar o setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793817055.5979922,
+    "titulo": "Bolsas da Europa fecham com alta de mais de 1% com ‘onda azul’ nos EUA",
+    "titulo_original": "Bolsas da Europa fecham com alta de mais de 1% com ‘onda azul’ nos EUA",
+    "fonte": "Money Times",
+    "publicado": "04/11 15:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta nas bolsas europeias sugere que o mercado interpretou a vitória democrata nos EUA como um fator positivo para a economia europeia, possivelmente pela reversão de tarifas ou por uma política externa menos protecionista. Se a nova configuração política nos EUA levar a uma maior estabilidade comercial, o otimismo pode se estender.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793817059.7903929,
+    "titulo": "Fed ganha blindagem contra Trump com vitória democrata no Senado americano",
+    "titulo_original": "Fed ganha blindagem contra Trump com vitória democrata no Senado americano - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/11 13:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A maior autonomia do Fed pode indicar uma política monetária menos suscetível a influências políticas de curto prazo. Se o Fed mantiver uma postura independente, isso pode gerar maior previsibilidade nas decisões de juros, o que seria positivo para a estabilidade do mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793817064.7789264,
+    "titulo": "Petróleo cai mais de 9% com derrota de Trump nas midterms; Petrobras recua 6%",
+    "titulo_original": "Petróleo cai mais de 9% com derrota de Trump nas midterms; Petrobras recua 6%",
+    "fonte": "Folha Mercado",
+    "publicado": "04/11 14:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda expressiva no preço do petróleo pode ser interpretada como uma reação direta ao resultado eleitoral nos EUA, sugerindo que o mercado precificou um cenário de menor tensão geopolítica ou mudanças na política energética. Se a tendência de queda se mantiver, pode haver pressão sobre outras commodities e empresas ligadas ao setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793817064.7809331,
+    "titulo": "Petrobras (PETR4): Fitch eleva perfil de crédito individual da estatal",
+    "titulo_original": "Petrobras (PETR4): Fitch eleva perfil de crédito individual da estatal - Suno - Investimentos Inteligentes",
+    "fonte": "Google News Acoes",
+    "publicado": "04/11 12:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A elevação do perfil de crédito de uma grande estatal como a Petrobras pode ser interpretada como um sinal de melhora na saúde financeira da empresa. Se essa percepção se consolidar, pode haver um impacto positivo no preço das ações da companhia e, potencialmente, em outros ativos relacionados ao setor de energia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793817064.78273,
+    "titulo": "Cade aprova fusão bilionária questionada pela Petrobras no setor de óleo e gás, mas impõe restrição",
+    "titulo_original": "Cade aprova fusão bilionária questionada pela Petrobras no setor de óleo e gás, mas impõe restrição",
+    "fonte": "Folha Mercado",
+    "publicado": "04/11 12:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação da fusão pelo Cade, com restrições, representa uma decisão regulatória que afeta o setor de óleo e gás. Se as restrições impostas forem significativas, podem impactar a dinâmica competitiva e os investimentos futuros na área. A participação da Petrobras como questionadora adiciona um elemento de atenção.",
     "is_stocks": true
   }
 ]
