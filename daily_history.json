@@ -1,75 +1,5 @@
 [
   {
-    "_timestamp": 1793724348.5380747,
-    "titulo": "ANP multa distribuidoras de combustíveis em mais de R$ 700 milhões por elevação abusiva de preços",
-    "titulo_original": "ANP multa distribuidoras de combustíveis em mais de R$ 700 milhões por elevação abusiva de preços",
-    "fonte": "Valor Economico",
-    "publicado": "03/11 13:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da ANP representa uma ação regulatória concreta com impacto financeiro direto para as distribuidoras. Se a prática de preços abusivos for recorrente e a fiscalização se intensificar, isso pode levar a uma maior cautela nas precificações futuras. Caso as medidas provisórias que permitiram essa fiscalização não sejam renovadas, a capacidade de punição da ANP nessa área específica pode ser limitada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793724353.120641,
-    "titulo": "Boletim Focus: mercado eleva projeções para Selic, dólar e inflação",
-    "titulo_original": "Boletim Focus: mercado eleva projeções para Selic, dólar e inflação - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/11 08:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A elevação das projeções para Selic, dólar e inflação no Boletim Focus sugere um cenário de maior pressão inflacionária e expectativas de juros mais altos por mais tempo, o que pode impactar o custo de crédito e o fluxo de capital. Se essas projeções se confirmarem, o Banco Central pode ter sua margem de manobra para cortes de juros reduzida. A expectativa de um dólar mais alto pode indicar menor entrada de capital estrangeiro ou maior saída.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793724357.5390544,
-    "titulo": "Economistas sobem previsão da inflação, juros e dólar até 2029 no primeiro Focus com impacto de vitória de Lula",
-    "titulo_original": "Economistas sobem previsão da inflação, juros e dólar até 2029 no primeiro Focus com impacto de vitória de Lula",
-    "fonte": "Folha Mercado",
-    "publicado": "03/11 09:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento das projeções de inflação, juros e dólar no Boletim Focus, associado à vitória de Lula, indica que o mercado antecipa um cenário de maior pressão inflacionária e possivelmente um câmbio mais volátil. Se as políticas econômicas do novo governo levarem a um aumento efetivo da inflação e a uma necessidade de juros mais altos, isso pode afetar o custo de capital e o fluxo de investimentos no país. A expectativa de um dólar mais alto pode sinalizar menor atratividade para capital estrangeiro.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793724362.070621,
-    "titulo": "Petróleo no Amapá: Davi Alcolumbre celebra nova descoberta em poço perfurado",
-    "titulo_original": "Petróleo no Amapá: Davi Alcolumbre celebra nova descoberta em poço perfurado - Senado",
-    "fonte": "Google News Commodities",
-    "publicado": "03/11 12:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A descoberta de petróleo no Amapá pode ter implicações futuras para a produção energética do Brasil, mas a notícia em si não detalha o volume ou o potencial econômico da descoberta. Se essa descoberta se concretizar em produção significativa, pode impactar a balança comercial brasileira e a dependência de importações de petróleo, mas o impacto imediato é limitado pela falta de detalhes concretos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793724366.582527,
-    "titulo": "Plantio de soja avança para 53% da área no Brasil, diz AgRural",
-    "titulo_original": "Plantio de soja avança para 53% da área no Brasil, diz AgRural - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "03/11 07:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O avanço do plantio de soja é um indicador importante para o agronegócio brasileiro, que tem grande peso na economia. Se o clima e as condições de plantio se mantiverem favoráveis, isso pode sinalizar uma boa safra, com potencial impacto positivo nas exportações e na balança comercial. A notícia em si é um dado de acompanhamento setorial.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1793730654.7836971,
     "titulo": "Esquenta do Copom | Reação ao cenário de inflação mais desfavorável: vemos agora uma pausa para avaliação - XP Investimentos",
     "titulo_original": "Esquenta do Copom | Reação ao cenário de inflação mais desfavorável: vemos agora uma pausa para avaliação - XP Investimentos",
@@ -1097,5 +1027,63 @@
     "origem": "domestica",
     "leitura_critica": "A queda do dólar e a alta do Ibovespa indicam um cenário de melhora no sentimento do mercado, possivelmente influenciado por fatores externos. Se o alívio externo persistir e as incertezas internas diminuírem, o dólar pode continuar a se desvalorizar frente ao real e a bolsa a se valorizar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793835050.9525597,
+    "titulo": "BC reconhece cenário mais desafiador, mas não dá pistas sobre próximos passos, diz BV",
+    "titulo_original": "BC reconhece cenário mais desafiador, mas não dá pistas sobre próximos passos, diz BV",
+    "fonte": "Valor Economico",
+    "publicado": "04/11 19:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Se o Banco Central mantiver a postura de cautela em futuras comunicações, isso pode reforçar a percepção de juros em patamares elevados por mais tempo. Caso a próxima ata traga alguma sinalização de flexibilização, mesmo que sutil, o mercado pode reagir com otimismo em relação a cortes futuros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793835056.4573214,
+    "titulo": "Lula vai destacar compromisso com responsabilidade fiscal em pronunciamento na TV",
+    "titulo_original": "Lula vai destacar compromisso com responsabilidade fiscal em pronunciamento na TV",
+    "fonte": "Valor Economico",
+    "publicado": "04/11 19:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ênfase na responsabilidade fiscal pode sinalizar um esforço para acalmar os mercados, mas a defesa da redução de juros pode gerar expectativas conflitantes. Se a equipe econômica conseguir apresentar medidas concretas para conter despesas, a credibilidade fiscal pode ser fortalecida, abrindo espaço para discussões sobre juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793835061.9997168,
+    "titulo": "Preço de alimentos volta a subir em outubro, mas já perde força",
+    "titulo_original": "Preço de alimentos volta a subir em outubro, mas já perde força",
+    "fonte": "Folha Mercado",
+    "publicado": "04/11 19:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aceleração do preço dos alimentos em outubro é um fator de atenção para a inflação geral, mas a desaceleração observada no final do mês pode ser um sinal positivo. Se essa perda de força se mantiver nos próximos meses, pode aliviar a pressão sobre o índice de preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793835067.7295508,
+    "titulo": "Brasil registra pior setembro na criação de empregos formais desde o início da série histórica, diz Caged",
+    "titulo_original": "Brasil registra pior setembro na criação de empregos formais desde o início da série histórica, diz Caged",
+    "fonte": "Folha Mercado",
+    "publicado": "04/11 15:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada na criação de empregos formais em setembro é um indicador preocupante para a atividade econômica. Se essa tendência de desaceleração se confirmar nos próximos meses, pode pressionar o consumo e a demanda agregada.",
+    "is_stocks": false
   }
 ]
