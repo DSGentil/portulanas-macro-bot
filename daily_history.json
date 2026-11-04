@@ -1,318 +1,5 @@
 [
   {
-    "_timestamp": 1793644249.915975,
-    "titulo": "Dólar e renda fixa lideram investimentos em outubro; Bolsa foi o pior",
-    "titulo_original": "Dólar e renda fixa lideram investimentos em outubro; Bolsa foi o pior - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 10:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A preferência por dólar e renda fixa em detrimento da bolsa em outubro pode indicar um cenário de maior aversão ao risco por parte dos investidores. Se essa tendência se mantiver, pode haver uma pressão contínua sobre os ativos de renda variável no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793644254.5676548,
-    "titulo": "Após derrotas na Justiça, Trump leva plano de intervenção federal nas eleições na Califórnia à Suprema Corte",
-    "titulo_original": "Após derrotas na Justiça, Trump leva plano de intervenção federal nas eleições na Califórnia à Suprema Corte - O GLOBO",
-    "fonte": "Google News Geopolitica",
-    "publicado": "02/11 15:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da Suprema Corte sobre o plano de intervenção federal de Trump pode definir um precedente para futuras disputas eleitorais nos EUA. Se o plano for aceito, isso poderá gerar incertezas sobre a estabilidade do processo democrático americano.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793644259.246762,
-    "titulo": "Mercado Bitcoin sofre ataque hacker e trava saques",
-    "titulo_original": "Mercado Bitcoin sofre ataque hacker e trava saques",
-    "fonte": "InvestNews",
-    "publicado": "02/11 15:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A segurança em plataformas de criptomoedas é um ponto crítico para a confiança dos investidores. Se investigações posteriores confirmarem falhas de segurança significativas, isso pode afetar a percepção de risco do setor no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793644263.8704689,
-    "titulo": "SAC de empresas terá atendimento humano obrigatório a partir desta segunda-feira",
-    "titulo_original": "SAC de empresas terá atendimento humano obrigatório a partir desta segunda-feira",
-    "fonte": "Valor Economico",
-    "publicado": "02/11 14:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A nova regulamentação para SACs visa melhorar a experiência do consumidor. Se as empresas cumprirem as novas regras, isso pode aumentar a satisfação do cliente e reduzir reclamações; caso contrário, podem enfrentar sanções.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793644269.7727818,
-    "titulo": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço",
-    "titulo_original": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "02/11 09:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda do petróleo pode afetar economias dependentes da exportação de commodities. Se o balanço da Hybe apresentar resultados abaixo do esperado, isso pode gerar volatilidade específica para as ações da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793644269.7739978,
-    "titulo": "O que Wall Street espera das eleições nos EUA? O histórico do S&P 500 dá pistas",
-    "titulo_original": "O que Wall Street espera das eleições nos EUA? O histórico do S&P 500 dá pistas",
-    "fonte": "Money Times",
-    "publicado": "02/11 15:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho histórico do S&P 500 após eleições de meio de mandato pode oferecer um indicativo para os investidores. Se o padrão se repetir, o mercado de ações americano pode apresentar uma recuperação após a definição do cenário político.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793651444.8894603,
-    "titulo": "O desafio é grande, e soluções mágicas, perigosas",
-    "titulo_original": "O desafio é grande, e soluções mágicas, perigosas",
-    "fonte": "Folha Mercado",
-    "publicado": "02/11 16:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da dívida bruta do PIB sugere que o atual arcabouço fiscal pode não ser suficiente para estabilizar as contas públicas, especialmente com juros mais altos. Se o governo não apresentar medidas adicionais para controle de gastos ou aumento de receitas, a trajetória da dívida pode se tornar insustentável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793651450.2984614,
-    "titulo": "Cotado para ser ministro da Fazenda, Rafael Fonteles enaltece o equilíbrio fiscal nas redes sociais",
-    "titulo_original": "Cotado para ser ministro da Fazenda, Rafael Fonteles enaltece o equilíbrio fiscal nas redes sociais",
-    "fonte": "Valor Economico",
-    "publicado": "02/11 15:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Fonteles sinaliza uma possível prioridade para o equilíbrio fiscal em um eventual ministério. Se ele assumir a pasta e implementar políticas de austeridade, isso pode trazer maior previsibilidade fiscal; caso contrário, as críticas sobre o desequilíbrio das contas públicas podem persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793651455.6889381,
-    "titulo": "El Niño pode reduzir a produtividade da soja em 13 estados brasileiros",
-    "titulo_original": "El Niño pode reduzir a produtividade da soja em 13 estados brasileiros - Canal Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "02/11 14:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A redução na produtividade da soja devido ao El Niño pode impactar a oferta e os preços do grão no mercado interno e externo. Se os efeitos do fenômeno forem severos, isso pode levar a uma menor oferta e a um aumento nos preços da soja.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793651461.0895045,
-    "titulo": "El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco",
-    "titulo_original": "El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco",
-    "fonte": "Money Times",
-    "publicado": "02/11 16:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O El Niño pode gerar pressões inflacionárias futuras nos EUA, o que pode influenciar as decisões de política monetária do Fed. Se os efeitos do fenômeno se materializarem em alta de preços, isso pode levar o Fed a manter uma postura mais restritiva por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793651467.0430286,
-    "titulo": "Iran and US reportedly on verge of preliminary agreement",
-    "titulo_original": "Iran and US reportedly on verge of preliminary agreement",
-    "fonte": "ForexLive",
-    "publicado": "02/11 15:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Um acordo preliminar entre Irã e EUA poderia mitigar o risco geopolítico no Oriente Médio, impactando os preços do petróleo. Se o acordo for confirmado e detalhado, o petróleo pode cair mais; caso contrário, a incerteza e a volatilidade podem permanecer.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793656860.3970475,
-    "titulo": "Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes",
-    "titulo_original": "Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes",
-    "fonte": "Money Times",
-    "publicado": "02/11 17:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão da projeção do Inter, que antes era otimista quanto aos cortes de juros, indica uma mudança de percepção sobre o cenário econômico. Se a inflação persistir elevada, o Banco Central pode de fato pausar os cortes; se os dados mostrarem arrefecimento, a expectativa de corte pode retornar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793656866.0364792,
-    "titulo": "André Lara Resende quer conselho para levar Selic a 7,5%",
-    "titulo_original": "André Lara Resende quer conselho para levar Selic a 7,5% - Poder360",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 14:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de André Lara Resende sugere uma visão de política monetária mais expansionista. Se tal conselho for implementado e conseguir atingir a meta, isso poderia estimular a economia; caso contrário, a manutenção de juros elevados pode continuar a restringir o crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793656871.6556854,
-    "titulo": "'Propostas como tabelar os juros ou queimar reservas cambiais não estão em avaliação', diz Durigan",
-    "titulo_original": "'Propostas como tabelar os juros ou queimar reservas cambiais não estão em avaliação', diz Durigan - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 16:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Durigan afasta medidas extremas no controle de juros e reservas cambiais. Se o governo mantiver essa postura, o mercado terá mais previsibilidade; se houver qualquer sinalização em contrário, isso poderia gerar volatilidade significativa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793656877.235059,
-    "titulo": "Banco Central deve manter Selic em 13,75% após turbulência nos mercados",
-    "titulo_original": "Banco Central deve manter Selic em 13,75% após turbulência nos mercados - Vero Notícias",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 15:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de manutenção da Selic em 13,75% sugere que o Banco Central pode estar priorizando a estabilidade em detrimento de cortes agressivos. Se a turbulência persistir, a taxa pode se manter elevada por mais tempo; se os mercados se acalmarem, a pressão por cortes pode aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793656883.6897495,
-    "titulo": "Ibovespa encerra semana pós-eleição com perda de 18%; dólar vai a R$ 5,44",
-    "titulo_original": "Ibovespa encerra semana pós-eleição com perda de 18%; dólar vai a R$ 5,44 - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 18:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte desvalorização do Ibovespa e a alta do dólar após a eleição indicam uma reação negativa do mercado ao cenário político. Se as incertezas políticas persistirem, o mercado acionário pode continuar sob pressão; se houver sinais de estabilidade e clareza nas políticas econômicas, a confiança pode ser restaurada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793656883.6905627,
-    "titulo": "Safra ajusta carteira após queda de 10% e aposta em ações de dividendos; confira",
-    "titulo_original": "Safra ajusta carteira após queda de 10% e aposta em ações de dividendos; confira",
-    "fonte": "Money Times",
-    "publicado": "02/11 18:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A estratégia do Safra reflete uma postura mais cautelosa em relação ao mercado acionário, buscando empresas com fluxo de caixa mais estável. Se o cenário econômico se deteriorar, a preferência por dividendos pode se intensificar; caso contrário, o mercado pode voltar a precificar ações com maior potencial de crescimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793662246.095011,
-    "titulo": "Copom: mercado espera fim do corte de juros na quarta",
-    "titulo_original": "Copom: mercado espera fim do corte de juros na quarta - Acia Araçatuba",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 18:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Se o Copom de fato encerrar o ciclo de corte de juros, isso pode sinalizar uma pausa na política monetária expansionista. Caso a decisão venha acompanhada de um comunicado mais cauteloso sobre a inflação, o mercado pode reagir com maior volatilidade no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793662251.0422118,
-    "titulo": "Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom",
-    "titulo_original": "Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "02/11 19:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A pressão política sobre o Banco Central pode influenciar a comunicação do Copom, mesmo que a decisão técnica sobre a Selic seja mantida. Se essa retórica se intensificar após a reunião, pode haver um aumento na percepção de risco fiscal, impactando a curva de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793662256.1612973,
-    "titulo": "Apple divulga receita acima do esperado, mas alerta para alta dos preços de chips",
-    "titulo_original": "Apple divulga receita acima do esperado, mas alerta para alta dos preços de chips",
-    "fonte": "Folha Mercado",
-    "publicado": "02/11 18:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Se a pressão nos preços dos chips persistir, a Apple pode ter que repassar esses custos aos consumidores, o que poderia afetar o volume de vendas. A capacidade da empresa em gerenciar os custos de IA será crucial para a manutenção de suas margens de lucro no médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793662261.1156945,
-    "titulo": "Petróleo fecha em queda de mais de 7% com expectativa de acordo para encerrar guerra no Oriente Médio",
-    "titulo_original": "Petróleo fecha em queda de mais de 7% com expectativa de acordo para encerrar guerra no Oriente Médio - Seu Dinheiro",
-    "fonte": "Google News Commodities",
-    "publicado": "02/11 16:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Se um acordo de paz for efetivamente firmado, a queda nos preços do petróleo pode se consolidar, impactando positivamente a inflação global. Caso as negociações falhem ou o conflito se agrave, os preços do petróleo podem reverter a tendência de queda rapidamente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793662266.889387,
-    "titulo": "Apple supera projeção de venda do iPhone, mas fica devendo em serviços",
-    "titulo_original": "Apple supera projeção de venda do iPhone, mas fica devendo em serviços",
-    "fonte": "Valor Economico",
-    "publicado": "02/11 19:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Se a pressão de custos de memória se intensificar, a Apple pode ter dificuldades em manter suas margens de lucro. Caso a divisão de serviços apresente uma recuperação consistente nos próximos trimestres, a dependência do iPhone pode ser mitigada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793662266.8906786,
-    "titulo": "Apple lucra US$ 30,7 bilhões no quarto trimestre fiscal, alta de 11,8%",
-    "titulo_original": "Apple lucra US$ 30,7 bilhões no quarto trimestre fiscal, alta de 11,8%",
-    "fonte": "Valor Economico",
-    "publicado": "02/11 19:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho robusto do iPhone sugere uma demanda resiliente, o que pode sustentar o valuation da empresa. Se o crescimento da receita de serviços desacelerar ainda mais, a Apple pode precisar reavaliar suas estratégias de diversificação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793662266.8918343,
-    "titulo": "investingLive Americas FX news wrap 2 Nov: AI selling overwhelms oil’s plunge",
-    "titulo_original": "investingLive Americas FX news wrap 2 Nov: It’s a wrap: AI selling overwhelms oil’s plunge",
-    "fonte": "ForexLive",
-    "publicado": "02/11 18:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A expectativa de alta de juros pelo RBA pode indicar um cenário global de aperto monetário, o que impactaria mercados de risco. Se os dados de PMI manufatureiro continuarem fortes, isso pode reforçar a visão de resiliência da economia americana, apesar dos gastos com construção terem vindo abaixo do esperado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793705478.989459,
     "titulo": "Mercado aposta que taxa Selic pare de cair e teme soluções heterodoxas na economia",
     "titulo_original": "Mercado aposta que taxa Selic pare de cair e teme soluções heterodoxas na economia - Valor Econômico",
@@ -1138,5 +825,98 @@
     "origem": "externa",
     "leitura_critica": "O aumento inesperado do desemprego na Nova Zelândia enfraquece os argumentos para um aperto monetário, mas a atenção se volta para a inflação e os custos de combustível. Se as pesquisas de expectativas de inflação confirmarem pressões, o debate sobre a taxa de juros pode continuar acirrado.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1793791858.79574,
+    "titulo": "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic - Agência Brasil",
+    "titulo_original": "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/11 07:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Copom sobre a Taxa Selic é um dos principais fatores de influência para o mercado financeiro. Se a taxa for mantida, pode indicar preocupação com a inflação; se for cortada, pode sinalizar confiança na desaceleração dos preços. A comunicação do Banco Central após a decisão será crucial para entender os próximos passos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793791864.2353382,
+    "titulo": "BC define hoje novo patamar dos juros básicos em meio a incertezas fiscais - UOL Economia",
+    "titulo_original": "BC define hoje novo patamar dos juros básicos em meio a incertezas fiscais - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/11 05:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Banco Central sobre os juros, em um contexto de incertezas fiscais, é crucial. Se o BC optar por manter os juros elevados, pode ser um sinal de preocupação com a inflação e a estabilidade fiscal. Caso contrário, um corte pode indicar uma tentativa de estimular a economia, mas com riscos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793791869.6122634,
+    "titulo": "Faria Lima e governo fazem leitura seletiva da proposta de André Lara Resende, diz economista",
+    "titulo_original": "Faria Lima e governo fazem leitura seletiva da proposta de André Lara Resende, diz economista",
+    "fonte": "Folha Mercado",
+    "publicado": "04/11 08:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A interpretação divergente da proposta de André Lara Resende sobre a Selic sugere que o debate sobre a política monetária pode estar mais influenciado por interesses do que por uma análise técnica unificada. Se o governo e o mercado adotarem leituras opostas, a comunicação sobre futuras decisões de juros pode se tornar mais confusa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793791874.8775496,
+    "titulo": "Mercado cripto brasileiro agora é regulado: o que muda para o investidor?",
+    "titulo_original": "Mercado cripto brasileiro agora é regulado: o que muda para o investidor?",
+    "fonte": "InvestNews",
+    "publicado": "04/11 07:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A regulamentação do mercado cripto brasileiro pelo Banco Central representa um passo importante para a formalização do setor. Se a regulamentação for clara e eficaz, pode atrair mais investidores institucionais e aumentar a segurança para os usuários. Caso contrário, pode gerar incertezas e afastar participantes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793791880.8773258,
+    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "04/11 07:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento dos movimentos do Ibovespa, Dólar e Juros é essencial para entender o sentimento do mercado. Se a decisão do Copom sobre a Selic for de corte, isso pode impulsionar a bolsa e pressionar o dólar para baixo; se for de manutenção, o cenário pode ser de maior cautela.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793791880.8962986,
+    "titulo": "Day Trade hoje (04): Ibovespa cai pelo 6º dia; queda pode continuar? - InfoMoney",
+    "titulo_original": "Day Trade hoje (04): Ibovespa cai pelo 6º dia; queda pode continuar? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "04/11 07:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A sequência de quedas do Ibovespa sugere um sentimento de aversão ao risco no mercado. Se os fatores que impulsionam essa queda persistirem, como incertezas fiscais ou juros elevados, a tendência de baixa pode se prolongar. Uma reversão dependerá de notícias positivas ou de uma mudança no cenário macroeconômico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793791880.8976173,
+    "titulo": "'Creio que governo Lula deu demonstrações importantíssimas de confiança para os mercados', diz Botín, do Santander",
+    "titulo_original": "'Creio que governo Lula deu demonstrações importantíssimas de confiança para os mercados', diz Botín, do Santander",
+    "fonte": "Valor Economico",
+    "publicado": "04/11 08:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Ana Botín, do Santander, sobre a confiança do governo Lula nos mercados, especialmente pela independência do Banco Central, pode reforçar a percepção positiva de investidores internacionais. Se essa confiança se traduzir em maior fluxo de capital, isso pode beneficiar a economia brasileira.",
+    "is_stocks": true
   }
 ]
