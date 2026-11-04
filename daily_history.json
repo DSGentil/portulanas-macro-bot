@@ -1039,5 +1039,128 @@
     "origem": "externa",
     "leitura_critica": "A desaceleração do crescimento na zona do euro, indicada pelo PMI, reforça a preocupação com a atividade econômica. Se a demanda continuar fraca e os custos elevados, o BCE pode ter que ponderar entre combater a inflação e estimular a economia; caso contrário, uma melhora nos indicadores pode aliviar essa pressão.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793810747.2955222,
+    "titulo": "Gestores desmontam ‘kit Brasil’ e apostam no dólar antes do Copom; maioria agora vê Selic estável",
+    "titulo_original": "Gestores desmontam ‘kit Brasil’ e apostam no dólar antes do Copom; maioria agora vê Selic estável",
+    "fonte": "Money Times",
+    "publicado": "04/11 12:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A mudança de postura dos gestores, com a aposta no dólar e a expectativa de Selic estável, sugere uma cautela maior em relação ao cenário econômico doméstico. Se o Copom de fato decidir pela estabilidade da Selic, isso pode reforçar a tendência de valorização do dólar no curto prazo, a menos que haja surpresas na comunicação do banco central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793810752.944001,
+    "titulo": "Taxa selic: Durigan joga água na fervura de Lara Resende - Capital S/A - Correio Braziliense",
+    "titulo_original": "Taxa selic: Durigan joga água na fervura de Lara Resende - Capital S/A - Correio Braziliense",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/11 08:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A menção a Durigan e Lara Resende em relação à Selic sugere um debate interno ou entre especialistas sobre os rumos da política monetária. Se essa discussão refletir uma divergência de opiniões dentro do próprio Copom, isso pode aumentar a incerteza sobre a próxima decisão de juros, especialmente se houver sinais de que um corte mais agressivo está sendo questionado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793810758.3631253,
+    "titulo": "Alcolumbre escolhe senador do PL para relatar lei que dá diretrizes para o Orçamento",
+    "titulo_original": "Alcolumbre escolhe senador do PL para relatar lei que dá diretrizes para o Orçamento",
+    "fonte": "Folha Mercado",
+    "publicado": "04/11 13:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A escolha do relator da LDO é um passo importante na definição das diretrizes orçamentárias para o próximo ano. Se o relator indicado tiver uma linha de atuação que favoreça o aumento de gastos ou a flexibilização fiscal, isso pode gerar preocupações quanto ao controle das contas públicas. Acompanhar a tramitação e as propostas do relator será crucial para avaliar o impacto fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793810763.9608638,
+    "titulo": "Mercado espera que Copom interrompa cortes na Selic e reconheça piora do cenário econômico - Valor Econômico",
+    "titulo_original": "Mercado espera que Copom interrompa cortes na Selic e reconheça piora do cenário econômico - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/11 10:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa do mercado de que o Copom interrompa os cortes na Selic e reconheça uma piora no cenário econômico sugere que a comunicação do banco central será crucial. Se o Copom de fato sinalizar o fim do ciclo de cortes, isso pode impactar as expectativas de investimento e consumo. Caso a comunicação venha com um tom mais pessimista do que o esperado, isso pode intensificar a aversão ao risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793810770.8151,
+    "titulo": "Ações da SpaceX e Tesla despencam mais de 5% após revés para Musk nas eleições",
+    "titulo_original": "Ações da SpaceX e Tesla despencam mais de 5% após revés para Musk nas eleições",
+    "fonte": "Folha Mercado",
+    "publicado": "04/11 13:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda expressiva nas ações de empresas ligadas a Elon Musk reflete a percepção do mercado sobre o impacto de resultados eleitorais em seus negócios. Se a polarização política nos EUA se intensificar, isso pode gerar volatilidade adicional em empresas de tecnologia e outros setores sensíveis a decisões regulatórias e políticas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793810770.8171248,
+    "titulo": "Ibovespa abre em alta, apesar de receio fiscal e incertezas com Copom - UOL Economia",
+    "titulo_original": "Ibovespa abre em alta, apesar de receio fiscal e incertezas com Copom - UOL Economia",
+    "fonte": "Google News Acoes",
+    "publicado": "04/11 10:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A abertura em alta do Ibovespa, apesar dos receios fiscais e incertezas com o Copom, indica que outros fatores podem estar impulsionando o mercado no curto prazo, como o otimismo externo ou a precificação de eventos específicos. Se as incertezas fiscais se materializarem em decisões concretas, isso pode reverter a tendência de alta do índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793810770.8189716,
+    "titulo": "Ibovespa sobe e dólar vira à espera do Copom; bolsas em NY disparam - Valor Investe",
+    "titulo_original": "Ibovespa sobe e dólar vira à espera do Copom; bolsas em NY disparam - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "04/11 13:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa e a virada do dólar, em conjunto com o desempenho positivo das bolsas em Nova York, indicam um otimismo geral no mercado, possivelmente impulsionado por fatores externos. A espera pela decisão do Copom adiciona um elemento de cautela, e se a decisão for diferente do esperado, pode haver uma reversão rápida dessas tendências.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793810770.8208458,
+    "titulo": "Magazine Luiza (MGLU3): Citi passa tesoura no preço-alvo e rebaixa ação após vitória de Lula; veja as preferências no varejo",
+    "titulo_original": "Magazine Luiza (MGLU3): Citi passa tesoura no preço-alvo e rebaixa ação após vitória de Lula; veja as preferências no varejo",
+    "fonte": "Money Times",
+    "publicado": "04/11 12:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A revisão de recomendação do Citi para Magazine Luiza e Alpargatas reflete a percepção do banco sobre o impacto da vitória de Lula no setor de varejo. Se a política econômica do novo governo for percebida como menos favorável ao setor, isso pode continuar pressionando empresas como a Magazine Luiza. Por outro lado, a melhora na recomendação da Alpargatas sugere que o banco vê oportunidades específicas para essa empresa no novo cenário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793810770.8227232,
+    "titulo": "The biggest loser of the US elections was data centers",
+    "titulo_original": "The biggest loser of the US elections was data centers",
+    "fonte": "ForexLive",
+    "publicado": "04/11 11:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A forte rejeição a data centers nas eleições americanas indica uma tendência de maior escrutínio e restrições a esse tipo de empreendimento. Se essa tendência se espalhar para outras regiões ou setores, pode impactar investimentos em infraestrutura de tecnologia. A notícia não conecta diretamente essa decisão a um impacto fiscal ou regulatório em larga escala, mas a proibição em si é uma forma de regulação local.",
+    "is_stocks": true
   }
 ]
