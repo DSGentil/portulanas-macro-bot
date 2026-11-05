@@ -1,126 +1,5 @@
 [
   {
-    "_timestamp": 1793798155.0845861,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "04/11 04:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O relatório de inflação da zona do euro é crucial para as decisões futuras do BCE. Se o CPI vier acima do esperado, a probabilidade de um novo aumento de juros em dezembro aumenta significativamente; caso contrário, o banco central pode ter mais margem para manter a política monetária atual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793798159.186796,
-    "titulo": "Aumento de juros pelo Banco Central Europeu parece quase certo após inflação atingir maior nível em três anos",
-    "titulo_original": "Aumento de juros pelo Banco Central Europeu parece quase certo após inflação atingir maior nível em três anos",
-    "fonte": "Money Times",
-    "publicado": "04/11 09:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta inflacionária na zona do euro torna um aumento de juros pelo BCE quase certo. Se o BCE subir os juros, isso pode frear a economia europeia; caso contrário, a inflação descontrolada pode gerar efeitos negativos mais duradouros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793798163.3388922,
-    "titulo": "Políticos brasileiros repercutem derrota de Trump: 'humilhante' e 'reação a excessos e autoritarismo'",
-    "titulo_original": "Políticos brasileiros repercutem derrota de Trump: 'humilhante' e ' reação a excessos e autoritarismo'",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 10:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A repercussão de políticos brasileiros sobre o resultado das eleições americanas indica uma leitura de que o cenário político global pode influenciar discursos internos. Se a tendência de rejeição a governos considerados autoritários se consolidar internacionalmente, isso pode reforçar argumentos de oposição no Brasil; caso contrário, a narrativa pode perder força.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793798167.430464,
-    "titulo": "Trump diz que aceitará derrota, mas posta imagem de boné com a palavra 'veto'",
-    "titulo_original": "Trump diz que aceitará derrota, mas posta imagem de boné com a palavra 'veto' - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "04/11 08:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Trump sobre aceitar a derrota, combinada com a imagem do boné 'veto', sugere uma postura ambígua e a possibilidade de contestações. Se ele realmente contestar os resultados, isso pode gerar instabilidade política nos EUA; caso contrário, a aceitação pode ser mais formal do que efetiva.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793798172.8771815,
-    "titulo": "Sessão europeia de investingLive: Ações se recuperam, ouro dispara e dólar cai após 'blue sweep' nas midterms dos EUA",
-    "titulo_original": "investingLive European session wrap: Stocks rebound, gold soars as dollar tumbles after blue sweep in US midterms",
-    "fonte": "ForexLive",
-    "publicado": "04/11 09:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A reação dos mercados globais à vitória democrata nas midterms americanas sugere uma precificação de menor expansão fiscal nos EUA. Se essa percepção se mantiver, pode haver pressão sobre o dólar e um fluxo para ativos de refúgio como o ouro; caso contrário, a reversão pode ser rápida.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793798172.878936,
-    "titulo": "Inflação na zona do euro sobe a 4% em outubro e atinge maior nível em três anos",
-    "titulo_original": "Inflação na zona do euro sobe a 4% em outubro e atinge maior nível em três anos",
-    "fonte": "Folha Mercado",
-    "publicado": "04/11 09:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O pico de inflação na zona do euro em três anos reforça a pressão sobre o BCE para agir. Se o banco central decidir por um novo aumento de juros, isso pode desacelerar ainda mais a economia da região; caso contrário, a inflação persistente pode corroer o poder de compra e gerar instabilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793798172.880639,
-    "titulo": "Itaú vê cenário mais difícil em 2027, com juros elevados por mais tempo, diz Maluhy",
-    "titulo_original": "Itaú vê cenário mais difícil em 2027, com juros elevados por mais tempo, diz Maluhy",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 09:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Itaú para 2027, com juros elevados por mais tempo, sugere um cenário de aperto monetário prolongado. Se essa perspectiva se concretizar, o custo do crédito continuará alto, impactando o consumo e o investimento; caso contrário, uma antecipação de cortes de juros poderia estimular a economia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793798172.8822885,
-    "titulo": "Dow Jones hoje dispara após vitória dos democratas nas eleições dos EUA; dólar e petróleo caem",
-    "titulo_original": "Dow Jones hoje dispara após vitória dos democratas nas eleições dos EUA; dólar e petróleo caem - Estadão",
-    "fonte": "Google News Commodities",
-    "publicado": "04/11 07:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte alta do Dow Jones e a queda do dólar e petróleo após as midterms americanas indicam uma precificação de menor risco e potencial para expansão fiscal controlada. Se essa percepção se consolidar, pode haver um ambiente favorável para ativos de risco; caso contrário, a volatilidade pode retornar rapidamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793798172.8839905,
-    "titulo": "Crescimento econômico da zona do euro desacelera para menor nível em quatro meses, mostra PMI",
-    "titulo_original": "Crescimento econômico da zona do euro desacelera para menor nível em quatro meses, mostra PMI",
-    "fonte": "Folha Mercado",
-    "publicado": "04/11 09:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração do crescimento na zona do euro, indicada pelo PMI, reforça a preocupação com a atividade econômica. Se a demanda continuar fraca e os custos elevados, o BCE pode ter que ponderar entre combater a inflação e estimular a economia; caso contrário, uma melhora nos indicadores pode aliviar essa pressão.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793810747.2955222,
     "titulo": "Gestores desmontam ‘kit Brasil’ e apostam no dólar antes do Copom; maioria agora vê Selic estável",
     "titulo_original": "Gestores desmontam ‘kit Brasil’ e apostam no dólar antes do Copom; maioria agora vê Selic estável",
@@ -1118,6 +997,76 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A queda nas ações da Rheinmetall, apesar do lucro recorde, está ligada a uma revisão de guidance de vendas, indicando desafios operacionais. Se atrasos em contratos militares se tornarem um padrão em empresas do setor, pode sinalizar um cenário de maior incerteza na indústria de defesa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793910667.313819,
+    "titulo": "Limitar expansão dos gastos não é tesouraço",
+    "titulo_original": "Limitar expansão dos gastos não é tesouraço",
+    "fonte": "Folha Mercado",
+    "publicado": "05/11 17:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A proposta de ajuste fiscal visa a estabilização da dívida pública brasileira. Se o governo conseguir implementar as metas de superávit primário, a trajetória da dívida pode se tornar mais sustentável; caso contrário, a pressão sobre as contas públicas pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793910671.693108,
+    "titulo": "Durigan diz que é preciso dar condições para a queda dos juros - Bora Investir",
+    "titulo_original": "Durigan diz que é preciso dar condições para a queda dos juros - Bora Investir",
+    "fonte": "Google News Acoes",
+    "publicado": "05/11 15:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Durigan sugere que a queda dos juros no Brasil depende de fatores macroeconômicos específicos. Se as condições fiscais e de inflação se mostrarem favoráveis, a queda dos juros pode se concretizar; caso contrário, a política monetária restritiva pode ser mantida.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793910676.0610466,
+    "titulo": "Banco central do México surpreende e corta taxa básica de juros para 6,25%",
+    "titulo_original": "Banco central do México surpreende e corta taxa básica de juros para 6,25%",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 16:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O corte de juros pelo Banco Central do México, contra o consenso do mercado, pode sinalizar uma preocupação com a atividade econômica local. Se a inflação se mantiver sob controle, o banco pode continuar com o ciclo de cortes; caso contrário, pode reavaliar a política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793910680.7637863,
+    "titulo": "Lagarde afirma que dados indicarão necessidade de alta de juros pelo BCE em dezembro",
+    "titulo_original": "Lagarde afirma que dados indicarão necessidade de alta de juros pelo BCE em dezembro",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 16:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Christine Lagarde indica que o BCE está considerando um aperto monetário, dependendo dos indicadores econômicos. Se os dados de inflação vierem elevados, o BCE provavelmente aumentará os juros; se houver sinais de desaceleração, a decisão pode ser diferente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793910685.7890902,
+    "titulo": "Banco da Inglaterra eleva juros pela primeira vez desde 2023 e diz que poderá haver mais aumentos",
+    "titulo_original": "Banco da Inglaterra eleva juros pela primeira vez desde 2023 e diz que poderá haver mais aumentos",
+    "fonte": "Folha Mercado",
+    "publicado": "05/11 16:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A elevação de juros pelo Banco da Inglaterra, em linha com outros bancos centrais, indica uma postura de combate à inflação. Se a inflação persistir elevada, o banco pode continuar com os aumentos; se houver sinais de desaceleração, a política monetária pode se tornar mais branda.",
     "is_stocks": true
   }
 ]
