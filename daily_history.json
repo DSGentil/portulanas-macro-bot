@@ -1,98 +1,5 @@
 [
   {
-    "_timestamp": 1793791858.79574,
-    "titulo": "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic - Agência Brasil",
-    "titulo_original": "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/11 07:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Copom sobre a Taxa Selic é um dos principais fatores de influência para o mercado financeiro. Se a taxa for mantida, pode indicar preocupação com a inflação; se for cortada, pode sinalizar confiança na desaceleração dos preços. A comunicação do Banco Central após a decisão será crucial para entender os próximos passos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793791864.2353382,
-    "titulo": "BC define hoje novo patamar dos juros básicos em meio a incertezas fiscais - UOL Economia",
-    "titulo_original": "BC define hoje novo patamar dos juros básicos em meio a incertezas fiscais - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/11 05:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Banco Central sobre os juros, em um contexto de incertezas fiscais, é crucial. Se o BC optar por manter os juros elevados, pode ser um sinal de preocupação com a inflação e a estabilidade fiscal. Caso contrário, um corte pode indicar uma tentativa de estimular a economia, mas com riscos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793791869.6122634,
-    "titulo": "Faria Lima e governo fazem leitura seletiva da proposta de André Lara Resende, diz economista",
-    "titulo_original": "Faria Lima e governo fazem leitura seletiva da proposta de André Lara Resende, diz economista",
-    "fonte": "Folha Mercado",
-    "publicado": "04/11 08:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A interpretação divergente da proposta de André Lara Resende sobre a Selic sugere que o debate sobre a política monetária pode estar mais influenciado por interesses do que por uma análise técnica unificada. Se o governo e o mercado adotarem leituras opostas, a comunicação sobre futuras decisões de juros pode se tornar mais confusa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793791874.8775496,
-    "titulo": "Mercado cripto brasileiro agora é regulado: o que muda para o investidor?",
-    "titulo_original": "Mercado cripto brasileiro agora é regulado: o que muda para o investidor?",
-    "fonte": "InvestNews",
-    "publicado": "04/11 07:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A regulamentação do mercado cripto brasileiro pelo Banco Central representa um passo importante para a formalização do setor. Se a regulamentação for clara e eficaz, pode atrair mais investidores institucionais e aumentar a segurança para os usuários. Caso contrário, pode gerar incertezas e afastar participantes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793791880.8773258,
-    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "04/11 07:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento dos movimentos do Ibovespa, Dólar e Juros é essencial para entender o sentimento do mercado. Se a decisão do Copom sobre a Selic for de corte, isso pode impulsionar a bolsa e pressionar o dólar para baixo; se for de manutenção, o cenário pode ser de maior cautela.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793791880.8962986,
-    "titulo": "Day Trade hoje (04): Ibovespa cai pelo 6º dia; queda pode continuar? - InfoMoney",
-    "titulo_original": "Day Trade hoje (04): Ibovespa cai pelo 6º dia; queda pode continuar? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "04/11 07:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A sequência de quedas do Ibovespa sugere um sentimento de aversão ao risco no mercado. Se os fatores que impulsionam essa queda persistirem, como incertezas fiscais ou juros elevados, a tendência de baixa pode se prolongar. Uma reversão dependerá de notícias positivas ou de uma mudança no cenário macroeconômico.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793791880.8976173,
-    "titulo": "'Creio que governo Lula deu demonstrações importantíssimas de confiança para os mercados', diz Botín, do Santander",
-    "titulo_original": "'Creio que governo Lula deu demonstrações importantíssimas de confiança para os mercados', diz Botín, do Santander",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 08:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Ana Botín, do Santander, sobre a confiança do governo Lula nos mercados, especialmente pela independência do Banco Central, pode reforçar a percepção positiva de investidores internacionais. Se essa confiança se traduzir em maior fluxo de capital, isso pode beneficiar a economia brasileira.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793798155.0845861,
     "titulo": "Quais são os principais eventos para hoje?",
     "titulo_original": "What are the main events for today?",
@@ -1109,6 +1016,108 @@
     ],
     "origem": "externa",
     "leitura_critica": "As ações da China para atrair investidores para sua bolsa, através de ETFs de bancos estatais, podem sinalizar uma tentativa de estabilizar o mercado acionário. Se essas medidas forem eficazes, podem atrair capital estrangeiro e impulsionar o desempenho de empresas chinesas listadas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793903455.041491,
+    "titulo": "El Niño ameaça safra brasileira de soja com potencial perda de 17 milhões de toneladas e prejuízo de R$ 33 bilhões",
+    "titulo_original": "El Niño ameaça safra brasileira de soja com potencial perda de 17 milhões de toneladas e prejuízo de R$ 33 bilhões - Notícias Agrícolas",
+    "fonte": "Google News Commodities",
+    "publicado": "05/11 14:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ameaça do El Niño à safra de soja pode impactar os preços dos alimentos e a balança comercial brasileira. Se as perdas se confirmarem, pode haver pressão inflacionária e redução na receita de exportações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793903461.7801137,
+    "titulo": "Ala do governo vê risco de judicialização de projeto sobre socorro a bancos pelo FGC",
+    "titulo_original": "Ala do governo vê risco de judicialização de projeto sobre socorro a bancos pelo FGC",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 15:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Se o projeto for aprovado e judicializado, a decisão do STF definirá a autonomia do FGC frente a imposições do Banco Central. Caso a judicialização seja bem-sucedida, a capacidade de intervenção em crises bancárias pode ser limitada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793903468.227144,
+    "titulo": "Colapso do Ueno derruba presidente e aliado de Trump no Paraguai",
+    "titulo_original": "Colapso do Ueno derruba presidente e aliado de Trump no Paraguai",
+    "fonte": "InvestNews",
+    "publicado": "05/11 14:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A crise bancária no Paraguai, com a renúncia do presidente, sinaliza instabilidade financeira e regulatória no país. Se o contágio se espalhar para outros países da região, pode haver um impacto no apetite por risco em mercados emergentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793903477.030985,
+    "titulo": "Ações da C&A (CEAB3) disparam até 10% com balanço melhor do que o esperado; o que agradou no 3T26?",
+    "titulo_original": "Ações da C&A (CEAB3) disparam até 10% com balanço melhor do que o esperado; o que agradou no 3T26?",
+    "fonte": "Money Times",
+    "publicado": "05/11 12:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho positivo das ações da C&A está diretamente ligado ao resultado financeiro divulgado, indicando uma boa recepção do mercado a esses números. Se os próximos balanços apresentarem resultados semelhantes, a tendência de alta pode se sustentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793903477.0328789,
+    "titulo": "Bolsas europeias caem em meio à liquidação global no setor de tecnologia; Paris avança",
+    "titulo_original": "Bolsas europeias caem em meio à liquidação global no setor de tecnologia; Paris avança",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 14:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas bolsas europeias reflete um sentimento global de aversão ao risco no setor de tecnologia. Se essa tendência se intensificar, pode impactar fluxos de capital para mercados emergentes, incluindo o Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793903477.034674,
+    "titulo": "O que está por trás da queda da Porto (PSSA3)? Conta dos calotes chega, com provisões 48% maiores e mudança no guidance",
+    "titulo_original": "O que está por trás da queda da Porto (PSSA3)? Conta dos calotes chega, com provisões 48% maiores e mudança no guidance",
+    "fonte": "Money Times",
+    "publicado": "05/11 12:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas ações da Porto está associada a fatores específicos do seu balanço financeiro, como o aumento das provisões para calotes. Se essa tendência de deterioração de crédito se generalizar no setor financeiro, pode indicar um cenário de maior inadimplência na economia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793903477.0364754,
+    "titulo": "Bancos saem, Petrobras e Sabesp dominam: cautela toma conta das carteiras recomendadas de novembro",
+    "titulo_original": "Bancos saem, Petrobras e Sabesp dominam: cautela toma conta das carteiras recomendadas de novembro - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "05/11 10:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A mudança nas carteiras recomendadas reflete uma percepção de risco no setor bancário e um otimismo seletivo em relação a Petrobras e Sabesp. Se a cautela se generalizar, pode indicar uma menor disposição ao risco por parte dos investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793903477.0382571,
+    "titulo": "Rheinmetall tem lucro recorde com tanques, mas ações desabam 17%",
+    "titulo_original": "Rheinmetall tem lucro recorde com tanques, mas ações desabam 17%",
+    "fonte": "Folha Mercado",
+    "publicado": "05/11 13:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas ações da Rheinmetall, apesar do lucro recorde, está ligada a uma revisão de guidance de vendas, indicando desafios operacionais. Se atrasos em contratos militares se tornarem um padrão em empresas do setor, pode sinalizar um cenário de maior incerteza na indústria de defesa.",
     "is_stocks": true
   }
 ]
