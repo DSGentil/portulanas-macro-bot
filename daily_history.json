@@ -1068,5 +1068,128 @@
     "origem": "externa",
     "leitura_critica": "A elevação de juros pelo Banco da Inglaterra, em linha com outros bancos centrais, indica uma postura de combate à inflação. Se a inflação persistir elevada, o banco pode continuar com os aumentos; se houver sinais de desaceleração, a política monetária pode se tornar mais branda.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793916053.3175879,
+    "titulo": "Em reunião do conselho de minerais críticos, Lula fala em ter ‘economia arrumada’ para atrair investimentos",
+    "titulo_original": "Em reunião do conselho de minerais críticos, Lula fala em ter ‘economia arrumada’ para atrair investimentos",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 18:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ênfase na responsabilidade fiscal pode sinalizar um esforço para acalmar o mercado em relação a gastos públicos. Se as ações concretas de ajuste fiscal forem implementadas, isso pode favorecer a atração de capital; caso contrário, a retórica pode não ser suficiente para sustentar o fluxo de investimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793916059.2019696,
+    "titulo": "Lula grava primeiro pronunciamento pós-eleição e reforça compromisso fiscal e políticas sociais",
+    "titulo_original": "Lula grava primeiro pronunciamento pós-eleição e reforça compromisso fiscal e políticas sociais",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 18:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Lula sobre responsabilidade fiscal, combinada com a preocupação com juros altos, sugere uma busca por equilíbrio entre controle de gastos e estímulo à economia. Se o governo conseguir implementar medidas de ajuste fiscal que permitam a redução da Selic, isso pode impulsionar investimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793916064.617862,
+    "titulo": "Selic parada em 13,75%: do que depende o próximo corte?",
+    "titulo_original": "Selic parada em 13,75%: do que depende o próximo corte? - Forbes Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/11 16:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da Selic em 13,75% indica cautela do Banco Central. Se os indicadores de inflação e atividade econômica mostrarem sinais de arrefecimento, isso pode abrir espaço para o próximo corte; caso contrário, a taxa pode permanecer elevada por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793916070.0171702,
+    "titulo": "Camex deve prorrogar Imposto de Exportação sobre petróleo até 31 de dezembro, segundo fonte",
+    "titulo_original": "Camex deve prorrogar Imposto de Exportação sobre petróleo até 31 de dezembro, segundo fonte",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 18:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação do Imposto de Exportação sobre petróleo impacta a arrecadação federal. Se a cobrança for mantida, pode haver um efeito positivo na receita do governo, mas também pode influenciar os preços do petróleo no mercado internacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793916076.7034452,
+    "titulo": "Número de pedidos de auxílio-desemprego nos EUA atinge menor nível em 57 anos",
+    "titulo_original": "Número de pedidos de auxílio-desemprego nos EUA atinge menor nível em 57 anos",
+    "fonte": "Folha Mercado",
+    "publicado": "05/11 16:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um mercado de trabalho forte nos EUA pode levar o Federal Reserve a manter uma postura mais restritiva em relação aos juros. Se os dados de emprego continuarem robustos, isso pode sustentar um dólar mais forte globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793916076.7050781,
+    "titulo": "Temor de maior regulação de IA após 'midterms' derruba bolsas de NY; Ibovespa cai e dólar sobe",
+    "titulo_original": "Temor de maior regulação de IA após 'midterms' derruba bolsas de NY; Ibovespa cai e dólar sobe",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 18:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A reação negativa das bolsas de NY a uma possível maior regulação de IA sugere que o mercado precificou riscos nesse setor. Se a regulação se tornar mais rígida, isso pode impactar o desempenho de empresas de tecnologia e, consequentemente, os mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793916076.7073846,
+    "titulo": "Wall Street perde US$ 3,2 trilhões após vitória democrata nos EUA provocar queda em ações de IA",
+    "titulo_original": "Wall Street perde US$ 3,2 trilhões após vitória democrata nos EUA provocar queda em ações de IA",
+    "fonte": "Folha Mercado",
+    "publicado": "05/11 16:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda expressiva em Wall Street após a vitória democrata indica que o mercado precificou riscos relacionados a uma possível maior regulação de tecnologia. Se essa regulação se materializar, pode haver um impacto prolongado no setor de IA e em outras empresas de tecnologia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793916076.708858,
+    "titulo": "Ibovespa desvaloriza depois de decisão do Copom de manter juros em 13,75% ao ano",
+    "titulo_original": "Ibovespa desvaloriza depois de decisão do Copom de manter juros em 13,75% ao ano - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/11 18:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa após a decisão do Copom de manter a Selic em 13,75% reflete a expectativa do mercado por uma política monetária mais frouxa. Se a inflação e os riscos fiscais persistirem, a taxa Selic pode permanecer elevada, pressionando o desempenho da bolsa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793916076.710521,
+    "titulo": "Wall Street despenca no dia seguinte à ‘onda azul’ com liquidação do setor tech",
+    "titulo_original": "Wall Street despenca no dia seguinte à ‘onda azul’ com liquidação do setor tech",
+    "fonte": "Money Times",
+    "publicado": "05/11 18:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte queda em Wall Street após a vitória democrata sugere uma reavaliação do mercado sobre o impacto de políticas regulatórias no setor de tecnologia. Se os receios sobre a regulação se confirmarem, isso pode levar a uma correção mais profunda no setor.",
+    "is_stocks": true
   }
 ]
