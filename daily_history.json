@@ -1,416 +1,5 @@
 [
   {
-    "_timestamp": 1793730654.7836971,
-    "titulo": "Esquenta do Copom | Reação ao cenário de inflação mais desfavorável: vemos agora uma pausa para avaliação - XP Investimentos",
-    "titulo_original": "Esquenta do Copom | Reação ao cenário de inflação mais desfavorável: vemos agora uma pausa para avaliação - XP Investimentos",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/11 12:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A pausa na avaliação do Copom, motivada por um cenário inflacionário desfavorável, sugere que o Banco Central pode manter a taxa Selic em patamares elevados por mais tempo. Se os próximos dados de inflação vierem consistentemente abaixo do esperado, o Copom poderá retomar o ciclo de cortes; caso contrário, a manutenção da taxa pode se estender.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793730658.9306915,
-    "titulo": "Dólar encosta em R$ 5,50 e Bolsa cai à espera de decisão do BC sobre juros - UOL Economia",
-    "titulo_original": "Dólar encosta em R$ 5,50 e Bolsa cai à espera de decisão do BC sobre juros - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/11 11:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar e a queda da Bolsa, em antecipação a uma decisão do Banco Central sobre juros, indicam a forte influência da política monetária sobre os ativos brasileiros. Se o BC sinalizar manutenção da taxa de juros em patamar elevado, isso pode sustentar o dólar e pressionar a bolsa; um corte inesperado poderia ter o efeito oposto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793730662.7935755,
-    "titulo": "Vagas de emprego nos EUA aumentam em 333 mil em setembro",
-    "titulo_original": "Vagas de emprego nos EUA aumentam em 333 mil em setembro",
-    "fonte": "Folha Mercado",
-    "publicado": "03/11 14:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento nas vagas de emprego nos EUA sugere uma economia resiliente, o que pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Se os dados de inflação continuarem a surpreender para cima, o Fed pode adiar qualquer flexibilização monetária, impactando mercados globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793730666.6792262,
-    "titulo": "Trump confirma ataque contra instalação antiaérea no Irã - CartaCapital",
-    "titulo_original": "Trump confirma ataque contra instalação antiaérea no Irã - CartaCapital",
-    "fonte": "Google News Geopolitica",
-    "publicado": "03/11 11:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A confirmação de um ataque a uma instalação antiaérea no Irã por Trump pode aumentar a tensão geopolítica na região. Se o conflito escalar, isso poderia impactar os preços globais de energia e afetar o fluxo de capital para mercados emergentes, dependendo da magnitude e do desdobramento dos eventos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793730672.725918,
-    "titulo": "Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês - InfoMoney",
-    "titulo_original": "Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "03/11 12:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa associada a temores fiscais indica que incertezas sobre as contas públicas do Brasil pesam sobre o mercado. Se o governo apresentar medidas concretas para o ajuste fiscal, isso poderia reverter o sentimento negativo; caso contrário, a pressão sobre a bolsa pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793730672.7276757,
-    "titulo": "Nvidia exige que parceiros de data centers reduzam negócios com clientes da China",
-    "titulo_original": "Nvidia exige que parceiros de data centers reduzam negócios com clientes da China",
-    "fonte": "Folha Mercado",
-    "publicado": "03/11 12:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A exigência da Nvidia para que parceiros reduzam negócios com a China intensifica a disputa tecnológica entre EUA e China em inteligência artificial. Se essa restrição se ampliar, pode impactar cadeias de suprimentos globais e o desenvolvimento de tecnologias, com potenciais efeitos indiretos em mercados de capitais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793730672.7293334,
-    "titulo": "Ibovespa chega a cair mais de 2% com temor fiscal e eleições nos EUA; dólar e juros futuros sobem - Folha de S.Paulo",
-    "titulo_original": "Ibovespa chega a cair mais de 2% com temor fiscal e eleições nos EUA; dólar e juros futuros sobem - Folha de S.Paulo",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/11 09:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A queda do Ibovespa, a alta do dólar e dos juros futuros, atribuídas a temores fiscais e às eleições nos EUA, demonstram a sensibilidade do mercado brasileiro a fatores domésticos e externos. Se as eleições nos EUA resultarem em um cenário de maior incerteza fiscal global, isso pode pressionar ainda mais os ativos brasileiros; por outro lado, uma resolução clara pode aliviar as tensões.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793730672.7309916,
-    "titulo": "Três gatilhos que podem destravar uma recuperação do Ibovespa, segundo analista da EQI",
-    "titulo_original": "Três gatilhos que podem destravar uma recuperação do Ibovespa, segundo analista da EQI",
-    "fonte": "Money Times",
-    "publicado": "03/11 15:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A falta de clareza na política econômica e a pressão dos juros são fatores que limitam a recuperação do Ibovespa. Se o governo apresentar um plano fiscal crível e o Banco Central sinalizar um ciclo de cortes de juros mais acelerado, isso poderia destravar o mercado de ações brasileiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793730672.73263,
-    "titulo": "As disputas das ‘midterms’ que Wall Street e outras instituições financeiras estão acompanhando",
-    "titulo_original": "As disputas das ‘midterms’ que Wall Street e outras instituições financeiras estão acompanhando",
-    "fonte": "Valor Economico",
-    "publicado": "03/11 15:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O acompanhamento das eleições de meio de mandato por Wall Street indica que os resultados podem ter implicações regulatórias para o setor financeiro e para o avanço de tecnologias como IA. Se houver mudanças significativas na regulação, isso pode afetar o apetite por risco e o fluxo de capital para determinados setores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793730672.734318,
-    "titulo": "Ação da Embraer sobe mais de 4% após pedido de aviões KC-390 pela Grécia",
-    "titulo_original": "Ação da Embraer sobe mais de 4% após pedido de aviões KC-390 pela Grécia",
-    "fonte": "Folha Mercado",
-    "publicado": "03/11 14:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento expressivo nas ações da Embraer, impulsionado por um pedido de aviões, demonstra a sensibilidade do setor de defesa e aeroespacial a contratos significativos. Este evento é específico da empresa e não aponta diretamente para um impacto nos canais macroeconômicos de juros, inflação ou fiscal no Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793730672.7360094,
-    "titulo": "Cogna lidera perdas do Ibovespa hoje; veja maiores altas e baixas - Estadão",
-    "titulo_original": "Cogna lidera perdas do Ibovespa hoje; veja maiores altas e baixas - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "03/11 11:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A liderança da Cogna nas perdas do Ibovespa é um movimento específico de uma ação no mercado de renda variável. Sem informações adicionais sobre os motivos da queda da empresa ou um impacto setorial mais amplo, a notícia não se conecta diretamente aos canais macroeconômicos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793737856.918696,
-    "titulo": "Orçamento de 2027 pode ser votado ainda neste ano, afirma presidente da comissão mista",
-    "titulo_original": "Orçamento de 2027 pode ser votado ainda neste ano, afirma presidente da comissão mista",
-    "fonte": "Valor Economico",
-    "publicado": "03/11 17:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A antecipação da votação do orçamento pode indicar uma tentativa de consolidar as propostas fiscais do novo governo antes de sua posse. Se a votação ocorrer dentro do prazo, o mercado terá maior clareza sobre as diretrizes fiscais para 2027; caso contrário, a incerteza sobre o planejamento orçamentário pode se estender.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793737861.133871,
-    "titulo": "PT prepara ofensiva contra o Banco Central após decisão sobre juros - VEJA",
-    "titulo_original": "PT prepara ofensiva contra o Banco Central após decisão sobre juros - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/11 12:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica uma possível pressão política sobre a autonomia do Banco Central, o que pode gerar incertezas sobre a condução da política monetária. Se a ofensiva do PT ganhar força, isso pode levar a debates sobre a independência do BC e impactar as expectativas de juros; se a pressão for contida, a política monetária pode seguir seu curso.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793737865.354123,
-    "titulo": "Senador Eduardo Braga será o relator do Orçamento para 2027",
-    "titulo_original": "Senador Eduardo Braga será o relator do Orçamento para 2027",
-    "fonte": "Folha Mercado",
-    "publicado": "03/11 15:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A nomeação de Eduardo Braga como relator do Orçamento de 2027 indica a condução do processo orçamentário por um senador com experiência política. Se o relator conseguir conciliar as demandas do governo eleito com a responsabilidade fiscal, o orçamento aprovado pode trazer maior previsibilidade; caso contrário, pode haver pressões por gastos que aumentem o déficit.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793737869.6520793,
-    "titulo": "Tensões no Irã aumentam com relatório detalhando contingência de ataque dos EUA e divisões de inteligência",
-    "titulo_original": "Iran tensions rise as report details U.S. strike contingency and intelligence divisions",
-    "fonte": "ForexLive",
-    "publicado": "03/11 15:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada das tensões no Oriente Médio pode impactar o preço do petróleo e aumentar a aversão ao risco global. Se os EUA decidirem por uma ação militar, isso pode desestabilizar a região e afetar cadeias de suprimentos; uma resolução diplomática, por outro lado, poderia aliviar as pressões no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793737874.910009,
-    "titulo": "Nubank (NU) despencou 17% e abriu uma bela oportunidade de compra, calcula XP; veja potencial",
-    "titulo_original": "Nubank (NU) despencou 17% e abriu uma bela oportunidade de compra, calcula XP; veja potencial",
-    "fonte": "Money Times",
-    "publicado": "03/11 17:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte desvalorização do Nubank após o resultado eleitoral sugere uma precificação de risco associada ao cenário político. Se a empresa conseguir manter seu crescimento e rentabilidade apesar das incertezas políticas, a ação pode se recuperar; caso contrário, a volatilidade pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793737874.911979,
-    "titulo": "Estrangeiros retiram R$ 100,8 milhões em ações da B3 em 29 de outubro - Valor Econômico",
-    "titulo_original": "Estrangeiros retiram R$ 100,8 milhões em ações da B3 em 29 de outubro - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "03/11 12:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A saída líquida de capital estrangeiro da bolsa brasileira pode indicar uma cautela dos investidores em relação ao cenário doméstico. Se essa tendência de saída se mantiver, pode pressionar o Ibovespa; se for um movimento pontual, o fluxo pode se reverter com melhora nas perspectivas econômicas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793737874.9137905,
-    "titulo": "10 ações com potencial de alta de até 83% para se posicionar após as eleições, segundo o BTG Pactual",
-    "titulo_original": "10 ações com potencial de alta de até 83% para se posicionar após as eleições, segundo o BTG Pactual",
-    "fonte": "Money Times",
-    "publicado": "03/11 16:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A carteira recomendada do BTG Pactual sugere uma visão otimista para o mercado de ações após as eleições, com foco em setores específicos. Se as ações recomendadas apresentarem o potencial de alta projetado, isso pode ser uma oportunidade para investidores; caso contrário, a performance pode ser afetada por fatores macroeconômicos ou específicos das empresas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793737874.9155948,
-    "titulo": "Gerdau encerra produção de aço em Divinópolis (MG)",
-    "titulo_original": "Gerdau encerra produção de aço em Divinópolis (MG)",
-    "fonte": "Valor Economico",
-    "publicado": "03/11 16:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O fechamento da unidade da Gerdau em Divinópolis reflete desafios de competitividade no setor siderúrgico brasileiro, possivelmente agravados pela concorrência externa. Se a empresa conseguir otimizar suas operações em outras unidades, o impacto geral pode ser mitigado; caso contrário, pode haver pressão sobre a capacidade produtiva e o emprego no setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793743249.804259,
-    "titulo": "Proposta de André Lara Resende para reduzir juros gera debate entre economistas - JOTA Info",
-    "titulo_original": "Proposta de André Lara Resende para reduzir juros gera debate entre economistas - JOTA Info",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/11 16:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de André Lara Resende para reduzir juros está provocando discussões entre economistas. Se a proposta ganhar tração e for considerada por autoridades monetárias, pode haver pressão para mudanças na política de juros; caso contrário, o debate pode permanecer restrito ao meio acadêmico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793743254.1783657,
-    "titulo": "Focus: analistas veem risco fiscal limitando cortes da Selic após mercado elevar projeções de inflação e juros - O GLOBO",
-    "titulo_original": "Focus: analistas veem risco fiscal limitando cortes da Selic após mercado elevar projeções de inflação e juros - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "03/11 17:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O relatório Focus indica que o risco fiscal pode ser um limitador para cortes na Selic, em um cenário de projeções de inflação e juros mais altas. Se o governo apresentar medidas fiscais concretas e eficazes, pode haver espaço para cortes de juros; caso contrário, a política monetária pode permanecer restritiva por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793743258.621726,
-    "titulo": "Juros futuros avançam com mal-estar sobre política econômica do Lula 4",
-    "titulo_original": "Juros futuros avançam com mal-estar sobre política econômica do Lula 4",
-    "fonte": "Valor Economico",
-    "publicado": "03/11 17:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta dos juros futuros reflete a incerteza do mercado quanto à política econômica do governo Lula 4, com destaque para a proposta de redução brusca da Selic e especulações sobre cargos chave. Se a clareza sobre a política econômica aumentar e as expectativas de inflação se estabilizarem, os juros futuros podem ceder; caso contrário, a pressão altista pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793743263.0228984,
-    "titulo": "Empresas buscam entender efeitos da reforma no dia a dia da operação, diz levantamento da Tunad",
-    "titulo_original": "Empresas buscam entender efeitos da reforma no dia a dia da operação, diz levantamento da Tunad",
-    "fonte": "Valor Economico",
-    "publicado": "03/11 18:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O levantamento da Tunad mostra que as empresas estão ativamente buscando compreender a reforma tributária, com foco em aspectos operacionais. Se a clareza sobre a aplicação da reforma aumentar, pode haver maior previsibilidade para os negócios; caso contrário, a incerteza pode persistir, impactando decisões de investimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793743268.681885,
-    "titulo": "Itaú lucra R$ 12,6 bilhões, com alta de 1,7% no trimestre e 6,2% em 12 meses",
-    "titulo_original": "Itaú lucra R$ 12,6 bilhões, com alta de 1,7% no trimestre e 6,2% em 12 meses",
-    "fonte": "Valor Economico",
-    "publicado": "03/11 18:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O resultado do Itaú demonstra a resiliência do setor bancário em um cenário de juros elevados. Se a inadimplência continuar a subir, pode haver pressão sobre os resultados futuros; caso contrário, a tendência de crescimento pode se manter.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793743268.6837616,
-    "titulo": "Itaú (ITUB4) tem lucro de R$ 12,6 bilhões e ROE de 23,6% no 3T26; veja os detalhes do balanço",
-    "titulo_original": "Itaú (ITUB4) tem lucro de R$ 12,6 bilhões e ROE de 23,6% no 3T26; veja os detalhes do balanço",
-    "fonte": "Money Times",
-    "publicado": "03/11 18:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O resultado do Itaú está em linha com as expectativas, indicando estabilidade no setor bancário. Se os próximos balanços mantiverem essa performance, pode sinalizar um cenário de menor volatilidade para o setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793743268.6856043,
-    "titulo": "Itaú prioriza crédito imobiliário e consignado, e lucro cresce para R$ 12,6 bi",
-    "titulo_original": "Itaú prioriza crédito imobiliário e consignado, e lucro cresce para R$ 12,6 bi",
-    "fonte": "Folha Mercado",
-    "publicado": "03/11 18:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O foco do Itaú em crédito imobiliário e consignado resultou em um lucro expressivo, indicando uma estratégia bem-sucedida em segmentos específicos. Se a demanda por esses tipos de crédito se mantiver forte, o banco pode continuar a apresentar bons resultados; caso contrário, a estratégia pode precisar de ajustes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793743268.6874208,
-    "titulo": "Bradesco (BBDC4) derreteu quase 40% após as eleições, mas Morgan Stanley diz que a conta não fecha — e mantém compra",
-    "titulo_original": "Bradesco (BBDC4) derreteu quase 40% após as eleições, mas Morgan Stanley diz que a conta não fecha — e mantém compra",
-    "fonte": "Money Times",
-    "publicado": "03/11 17:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda das ações do Bradesco após as eleições levanta questionamentos sobre o valuation, com o Morgan Stanley vendo oportunidade de compra. Se a análise do banco se confirmar, pode haver uma recuperação nos papéis; caso contrário, a desvalorização pode continuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793743268.6888936,
-    "titulo": "Nasdaq e S&P sobem com tecnologia; Apple derruba Dow em sessão cautelosa",
-    "titulo_original": "Nasdaq e S&P sobem com tecnologia; Apple derruba Dow em sessão cautelosa",
-    "fonte": "Valor Economico",
-    "publicado": "03/11 18:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho misto das bolsas americanas reflete a cautela dos investidores, com o setor de tecnologia liderando as altas e a Apple pesando no Dow Jones. Se os resultados de outras big techs seguirem a linha da Apple, pode haver pressão sobre o setor; caso contrário, a recuperação tecnológica pode se sustentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793748638.9992175,
-    "titulo": "Carney diz que conversas comerciais com os EUA se intensificarão, pois Washington pede menos e oferece mais",
-    "titulo_original": "Carney says US trade talks to intensify as Washington asks less and offers mor",
-    "fonte": "ForexLive",
-    "publicado": "03/11 19:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "Se as negociações comerciais resultarem em um acordo concreto, isso poderá impulsionar o dólar canadense e aliviar a pressão sobre os exportadores. Caso contrário, a sensibilidade do par USD/CAD a outros fatores, como os resultados das eleições de meio de mandato nos EUA e os preços do petróleo, deve permanecer elevada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793748642.9526682,
-    "titulo": "Notícias do mercado americano: Abertura de vagas salta com a votação nos EUA",
-    "titulo_original": "investingLive Americas market news wrap: Job openings jump as the US votes",
-    "fonte": "ForexLive",
-    "publicado": "03/11 18:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O forte dado de abertura de vagas e pedidos de fábrica nos EUA sugere uma economia resiliente, o que pode levar o Federal Reserve a manter uma postura mais restritiva por mais tempo. Se as projeções de mercado para o controle democrata do Congresso se confirmarem, isso pode influenciar a política fiscal futura.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793748646.86892,
-    "titulo": "Taxa de desemprego da Nova Zelândia no 3º trimestre 5,7% (esperado 5,5%, anterior 5,6%)",
-    "titulo_original": "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
-    "fonte": "ForexLive",
-    "publicado": "03/11 18:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento inesperado do desemprego na Nova Zelândia enfraquece os argumentos para um aperto monetário, mas a atenção se volta para a inflação e os custos de combustível. Se as pesquisas de expectativas de inflação confirmarem pressões, o debate sobre a taxa de juros pode continuar acirrado.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1793791858.79574,
     "titulo": "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic - Agência Brasil",
     "titulo_original": "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic - Agência Brasil",
@@ -1085,5 +674,142 @@
     "origem": "domestica",
     "leitura_critica": "A queda acentuada na criação de empregos formais em setembro é um indicador preocupante para a atividade econômica. Se essa tendência de desaceleração se confirmar nos próximos meses, pode pressionar o consumo e a demanda agregada.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1793878248.4079583,
+    "titulo": "Investidores reagem ao pós-Copom após Selic ser mantida em 13,75% ao ano",
+    "titulo_original": "Investidores reagem ao pós-Copom após Selic ser mantida em 13,75% ao ano",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 08:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da Selic em linha com o esperado tende a limitar reações bruscas no mercado. Se os sinais fiscais se confirmarem como positivos, pode haver um alívio adicional na curva de juros. Caso contrário, a incerteza fiscal pode manter a volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793878253.8111284,
+    "titulo": "O BC está contra a parede e, sem ajuste fiscal, o Brasil entra em recessão, diz Tony Volpon",
+    "titulo_original": "O BC está contra a parede e, sem ajuste fiscal, o Brasil entra em recessão, diz Tony Volpon",
+    "fonte": "InvestNews",
+    "publicado": "05/11 05:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão de Tony Volpon sugere que a política monetária pode ter atingido seu limite sem o suporte de uma política fiscal mais sólida. Se o ajuste fiscal não for implementado, o cenário de recessão pode se tornar mais provável, pressionando o Banco Central.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793878259.5282443,
+    "titulo": "Dilema do Copom escancara risco de estagflação - Valor Econômico",
+    "titulo_original": "Dilema do Copom escancara risco de estagflação - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/11 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O risco de estagflação, cenário de inflação alta com baixo crescimento, coloca o Banco Central em uma posição delicada. Se a inflação persistir sem melhora na atividade econômica, o Copom terá que decidir entre combater a inflação com juros altos ou estimular a economia com juros baixos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793878264.9488926,
+    "titulo": "Manhã no mercado: Sinais fiscais e exterior dividem atenções após manutenção da Selic em 13,75%",
+    "titulo_original": "Manhã no mercado: Sinais fiscais e exterior dividem atenções após manutenção da Selic em 13,75%",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 08:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Copom, ao vir em linha com o esperado, tende a estabilizar o mercado de juros no curto prazo. A atenção se volta agora para os sinais fiscais e o comportamento do exterior, que podem influenciar a trajetória futura da política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793878271.2967684,
+    "titulo": "Caruso, do Santander: barra para novos cortes da Selic agora parece ser alta - Valor Econômico",
+    "titulo_original": "Caruso, do Santander: barra para novos cortes da Selic agora parece ser alta - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "05/11 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de que a 'barra' para novos cortes de juros está alta sugere que o Banco Central pode estar mais cauteloso em reduzir a Selic. Se a inflação persistir ou a atividade econômica não mostrar sinais claros de desaceleração, os juros podem permanecer elevados por mais tempo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793878271.2981744,
+    "titulo": "Indústria alemã registra aumento de 4,4% em pedidos em setembro; carros impulsionam alta",
+    "titulo_original": "Indústria alemã registra aumento de 4,4% em pedidos em setembro; carros impulsionam alta",
+    "fonte": "Folha Mercado",
+    "publicado": "05/11 07:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Um desempenho positivo na indústria alemã pode sinalizar uma melhora na atividade econômica europeia. Se essa tendência se mantiver, pode haver um impacto indireto na demanda por commodities e bens industriais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793878271.2995,
+    "titulo": "Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa - InfoMoney",
+    "titulo_original": "Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "05/11 07:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A tentativa de reação do mini-índice após uma sequência de quedas do Ibovespa pode indicar uma pausa na tendência de baixa. Se o movimento se consolidar, pode haver uma melhora no sentimento do mercado acionário no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793878271.3008304,
+    "titulo": "Ações de empresas de tecnologia desabam na Ásia; Bolsas da China sobem",
+    "titulo_original": "Ações de empresas de tecnologia desabam na Ásia; Bolsas da China sobem",
+    "fonte": "Folha Mercado",
+    "publicado": "05/11 07:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade no setor de tecnologia asiático pode refletir um ajuste de expectativas após o resultado eleitoral nos EUA. Se essa tendência de queda se estender a outros mercados, pode impactar o fluxo de capital para ações de tecnologia globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793878271.302291,
+    "titulo": "Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar? - InfoMoney",
+    "titulo_original": "Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "05/11 07:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A interrupção da queda do Ibovespa pode ser um sinal de reversão de tendência, mas a continuidade da alta dependerá de fatores macroeconômicos e do sentimento do mercado. Se os indicadores econômicos continuarem favoráveis, a bolsa pode apresentar ganhos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793878271.3036377,
+    "titulo": "OpenAI inicia ofensiva para mudar percepção dos eleitores nos EUA sobre centros de dados",
+    "titulo_original": "OpenAI inicia ofensiva para mudar percepção dos eleitores nos EUA sobre centros de dados",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 08:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A iniciativa da OpenAI visa melhorar a aceitação de seus projetos de infraestrutura. Se essa estratégia for bem-sucedida, pode facilitar a expansão do setor de tecnologia e seus investimentos em infraestrutura, com potenciais reflexos em mercados globais.",
+    "is_stocks": true
   }
 ]
