@@ -811,5 +811,86 @@
     "origem": "externa",
     "leitura_critica": "A iniciativa da OpenAI visa melhorar a aceitação de seus projetos de infraestrutura. Se essa estratégia for bem-sucedida, pode facilitar a expansão do setor de tecnologia e seus investimentos em infraestrutura, com potenciais reflexos em mercados globais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793884546.8736541,
+    "titulo": "Ajuste fiscal com justiça social",
+    "titulo_original": "Ajuste fiscal com justiça social",
+    "fonte": "Folha Mercado",
+    "publicado": "05/11 06:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo da dívida bruta do governo brasileiro para 82,9% do PIB em setembro de 2026 sinaliza a urgência de um ajuste fiscal. A necessidade de um ajuste primário de pelo menos 3% do PIB aponta para a magnitude dos desafios em controlar as contas públicas e a importância de decisões fiscais futuras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793884551.8570306,
+    "titulo": "PACC11: a combinação ideal do ativo que oferece exposição a títulos indexados à inflação",
+    "titulo_original": "PACC11: a combinação ideal do ativo que oferece exposição a títulos indexados à inflação",
+    "fonte": "Money Times",
+    "publicado": "05/11 10:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação do PACC11 sugere que o mercado continua a ver valor em ativos protegidos da inflação, especialmente em um cenário de incerteza fiscal. A persistência de taxas reais elevadas pode indicar que o mercado espera que a inflação permaneça como um fator relevante no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793884556.7928617,
+    "titulo": "Riscos inflacionários podem justificar nova alta de juros, mostra ata do Banco da Inglaterra",
+    "titulo_original": "Riscos inflacionários podem justificar nova alta de juros, mostra ata do Banco da Inglaterra",
+    "fonte": "Valor Economico",
+    "publicado": "05/11 10:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A ata sugere que o Banco da Inglaterra está monitorando de perto os riscos inflacionários, o que pode levar a novas altas de juros. Se os preços da energia continuarem a subir devido ao conflito, o banco central pode ser forçado a agir novamente para conter a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793884561.884879,
+    "titulo": "Vitória democrata nas eleições de meio de mandato pressiona governo Trump",
+    "titulo_original": "Vitória democrata nas eleições de meio de mandato pressiona governo Trump - Jornal da USP",
+    "fonte": "Google News Geopolitica",
+    "publicado": "05/11 09:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O resultado das eleições de meio de mandato nos EUA tem implicações políticas internas para o governo Trump e também repercussões internacionais, influenciando a dinâmica política em Israel. A notícia aponta para um cenário de maior pressão política para os governantes mencionados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793884567.9016826,
+    "titulo": "Notícias europeias: BoE eleva taxa bancária para 4,00% como esperado",
+    "titulo_original": "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
+    "fonte": "ForexLive",
+    "publicado": "05/11 09:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do Banco da Inglaterra de elevar a taxa de juros em linha com as expectativas sugere um cenário de estabilidade monetária no Reino Unido no curto prazo. A menção a outros eventos globais indica a interconexão dos mercados e a influência de fatores geopolíticos e econômicos diversos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793884567.9028199,
+    "titulo": "Porto Seguro tem queda de 14% no lucro e reduz projeção de receita diante de cenário de crédito adverso",
+    "titulo_original": "Porto Seguro tem queda de 14% no lucro e reduz projeção de receita diante de cenário de crédito adverso",
+    "fonte": "Folha Mercado",
+    "publicado": "05/11 09:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda no lucro e a redução na projeção de receita da Porto Seguro indicam um ambiente desafiador para o setor de seguros, possivelmente refletindo um cenário de crédito mais restritivo. A performance da empresa pode ser um termômetro para a saúde do setor financeiro e do consumo no Brasil.",
+    "is_stocks": true
   }
 ]
