@@ -1,142 +1,5 @@
 [
   {
-    "_timestamp": 1793878248.4079583,
-    "titulo": "Investidores reagem ao pós-Copom após Selic ser mantida em 13,75% ao ano",
-    "titulo_original": "Investidores reagem ao pós-Copom após Selic ser mantida em 13,75% ao ano",
-    "fonte": "Valor Economico",
-    "publicado": "05/11 08:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da Selic em linha com o esperado tende a limitar reações bruscas no mercado. Se os sinais fiscais se confirmarem como positivos, pode haver um alívio adicional na curva de juros. Caso contrário, a incerteza fiscal pode manter a volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793878253.8111284,
-    "titulo": "O BC está contra a parede e, sem ajuste fiscal, o Brasil entra em recessão, diz Tony Volpon",
-    "titulo_original": "O BC está contra a parede e, sem ajuste fiscal, o Brasil entra em recessão, diz Tony Volpon",
-    "fonte": "InvestNews",
-    "publicado": "05/11 05:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A visão de Tony Volpon sugere que a política monetária pode ter atingido seu limite sem o suporte de uma política fiscal mais sólida. Se o ajuste fiscal não for implementado, o cenário de recessão pode se tornar mais provável, pressionando o Banco Central.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793878259.5282443,
-    "titulo": "Dilema do Copom escancara risco de estagflação - Valor Econômico",
-    "titulo_original": "Dilema do Copom escancara risco de estagflação - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/11 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O risco de estagflação, cenário de inflação alta com baixo crescimento, coloca o Banco Central em uma posição delicada. Se a inflação persistir sem melhora na atividade econômica, o Copom terá que decidir entre combater a inflação com juros altos ou estimular a economia com juros baixos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793878264.9488926,
-    "titulo": "Manhã no mercado: Sinais fiscais e exterior dividem atenções após manutenção da Selic em 13,75%",
-    "titulo_original": "Manhã no mercado: Sinais fiscais e exterior dividem atenções após manutenção da Selic em 13,75%",
-    "fonte": "Valor Economico",
-    "publicado": "05/11 08:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Copom, ao vir em linha com o esperado, tende a estabilizar o mercado de juros no curto prazo. A atenção se volta agora para os sinais fiscais e o comportamento do exterior, que podem influenciar a trajetória futura da política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793878271.2967684,
-    "titulo": "Caruso, do Santander: barra para novos cortes da Selic agora parece ser alta - Valor Econômico",
-    "titulo_original": "Caruso, do Santander: barra para novos cortes da Selic agora parece ser alta - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/11 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A percepção de que a 'barra' para novos cortes de juros está alta sugere que o Banco Central pode estar mais cauteloso em reduzir a Selic. Se a inflação persistir ou a atividade econômica não mostrar sinais claros de desaceleração, os juros podem permanecer elevados por mais tempo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793878271.2981744,
-    "titulo": "Indústria alemã registra aumento de 4,4% em pedidos em setembro; carros impulsionam alta",
-    "titulo_original": "Indústria alemã registra aumento de 4,4% em pedidos em setembro; carros impulsionam alta",
-    "fonte": "Folha Mercado",
-    "publicado": "05/11 07:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Um desempenho positivo na indústria alemã pode sinalizar uma melhora na atividade econômica europeia. Se essa tendência se mantiver, pode haver um impacto indireto na demanda por commodities e bens industriais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793878271.2995,
-    "titulo": "Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa - InfoMoney",
-    "titulo_original": "Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "05/11 07:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A tentativa de reação do mini-índice após uma sequência de quedas do Ibovespa pode indicar uma pausa na tendência de baixa. Se o movimento se consolidar, pode haver uma melhora no sentimento do mercado acionário no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793878271.3008304,
-    "titulo": "Ações de empresas de tecnologia desabam na Ásia; Bolsas da China sobem",
-    "titulo_original": "Ações de empresas de tecnologia desabam na Ásia; Bolsas da China sobem",
-    "fonte": "Folha Mercado",
-    "publicado": "05/11 07:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A volatilidade no setor de tecnologia asiático pode refletir um ajuste de expectativas após o resultado eleitoral nos EUA. Se essa tendência de queda se estender a outros mercados, pode impactar o fluxo de capital para ações de tecnologia globalmente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793878271.302291,
-    "titulo": "Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar? - InfoMoney",
-    "titulo_original": "Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "05/11 07:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A interrupção da queda do Ibovespa pode ser um sinal de reversão de tendência, mas a continuidade da alta dependerá de fatores macroeconômicos e do sentimento do mercado. Se os indicadores econômicos continuarem favoráveis, a bolsa pode apresentar ganhos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793878271.3036377,
-    "titulo": "OpenAI inicia ofensiva para mudar percepção dos eleitores nos EUA sobre centros de dados",
-    "titulo_original": "OpenAI inicia ofensiva para mudar percepção dos eleitores nos EUA sobre centros de dados",
-    "fonte": "Valor Economico",
-    "publicado": "05/11 08:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A iniciativa da OpenAI visa melhorar a aceitação de seus projetos de infraestrutura. Se essa estratégia for bem-sucedida, pode facilitar a expansão do setor de tecnologia e seus investimentos em infraestrutura, com potenciais reflexos em mercados globais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793884546.8736541,
     "titulo": "Ajuste fiscal com justiça social",
     "titulo_original": "Ajuste fiscal com justiça social",
@@ -1257,6 +1120,116 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A forte queda das ações da Vivara após a divulgação do balanço trimestral sugere que o mercado reagiu negativamente aos resultados apresentados. Se os motivos da insatisfação do mercado forem pontuais e não estruturais, a ação pode se recuperar; caso contrário, a tendência de baixa pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793989852.8196871,
+    "titulo": "Recessão, inflação a 6% e risco monetário mais grave que o fiscal: os alertas da Genoa para 2027",
+    "titulo_original": "Recessão, inflação a 6% e risco monetário mais grave que o fiscal: os alertas da Genoa para 2027",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 14:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Se as nomeações para o Banco Central forem mais alinhadas com a manutenção de juros elevados, o cenário de recessão e inflação pode se agravar. Caso contrário, uma postura mais flexível do BC poderia mitigar parte desses riscos, embora a projeção de contração do PIB em 2027 permaneça um ponto de atenção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793989858.256486,
+    "titulo": "Lula defende responsabilidade fiscal, mas reforça que 'o pobre não pagará a conta' por mais ajuste",
+    "titulo_original": "Lula defende responsabilidade fiscal, mas reforça que 'o pobre não pagará a conta' por mais ajuste",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 14:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente busca equilibrar a necessidade de responsabilidade fiscal com a proteção social, o que pode gerar diferentes interpretações no mercado. Se a política fiscal seguir um caminho de ajuste sem comprometer o gasto social, pode haver um cenário de maior estabilidade; caso contrário, a retórica pode não ser suficiente para conter pressões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793989863.6565056,
+    "titulo": "Sem cortes: XP abandona previsão de queda da Selic até o fim de 2027 – e não descarta altas",
+    "titulo_original": "Sem cortes: XP abandona previsão de queda da Selic até o fim de 2027 – e não descarta altas",
+    "fonte": "Money Times",
+    "publicado": "06/11 13:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão da XP Investimentos, que agora projeta juros mais altos por mais tempo, sugere uma mudança na expectativa do mercado quanto ao ciclo de afrouxamento monetário. Se essa visão se consolidar, pode haver um impacto na precificação de ativos e nas decisões de investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793989869.099544,
+    "titulo": "Lula volta a defender responsabilidade nas contas e diz que será 'fiscal' de entregas do governo",
+    "titulo_original": "Lula volta a defender responsabilidade nas contas e diz que será 'fiscal' de entregas do governo",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 14:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente reforça a retórica de responsabilidade fiscal, o que pode ser visto positivamente pelo mercado. No entanto, a efetividade dessa postura será medida pela capacidade de cumprir as metas fiscais e pela implementação concreta das políticas anunciadas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793989876.4681454,
+    "titulo": "Payroll não agrícola dos EUA em outubro: +165K vs +65K esperado",
+    "titulo_original": "US October non-farm payrolls +165K vs +65K expected",
+    "fonte": "ForexLive",
+    "publicado": "06/11 10:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte resultado do payroll americano, com criação de vagas acima do esperado e queda na taxa de desemprego, pode reforçar a visão de que a economia dos EUA mantém resiliência. Se o Federal Reserve interpretar esses dados como um sinal de aquecimento excessivo, isso pode adiar ou reduzir o ritmo de cortes de juros, impactando mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793989876.4701571,
+    "titulo": "Microsoft está encerrando seu acordo com a Oracle para capacidade de nuvem de IA",
+    "titulo_original": "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capacity",
+    "fonte": "ForexLive",
+    "publicado": "06/11 14:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Se a notícia se confirmar e indicar uma real mudança na estratégia de nuvem da Microsoft, isso pode impactar a demanda por serviços de IA e a receita da Oracle. A incerteza sobre a escala e o timing do encerramento do acordo sugere que o mercado ainda está precificando o impacto real.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793989876.4720736,
+    "titulo": "Amazon lança recurso de compras por mensagens de texto com a Alexa",
+    "titulo_original": "Amazon lança recurso de compras por mensagens de texto com a Alexa",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 14:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O lançamento do novo recurso de compras da Amazon reflete a evolução das interações com IA no comércio eletrônico. A decisão judicial mencionada pode indicar um cenário de maior regulamentação ou disputa em torno do uso de IA por terceiros em plataformas de e-commerce.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793989876.473954,
+    "titulo": "Assaí vê espaço para reduzir peso de custos, se ritmo de vendas pós-bets continuar",
+    "titulo_original": "Assaí vê espaço para reduzir peso de custos, se ritmo de vendas pós-bets continuar",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 13:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho de vendas do Assaí, especialmente após o fim da proibição das bets, pode ser um indicador do comportamento do consumo em setores específicos. Se esse ritmo se mantiver e a inflação permitir, a empresa pode conseguir diluir custos, o que seria um sinal positivo para o setor de varejo.",
     "is_stocks": true
   }
 ]
