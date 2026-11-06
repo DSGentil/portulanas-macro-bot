@@ -915,5 +915,117 @@
     "origem": "domestica",
     "leitura_critica": "Os resultados trimestrais de grandes empresas como Suzano e Sabesp fornecem um panorama da performance corporativa no Brasil. A negociação da Cosan sobre a Compass pode indicar movimentos estratégicos no setor de energia e infraestrutura.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793971069.1522882,
+    "titulo": "BODB11 tem combinação interessante em ambiente de juros reais elevados",
+    "titulo_original": "BODB11 tem combinação interessante em ambiente de juros reais elevados",
+    "fonte": "Money Times",
+    "publicado": "06/11 10:11",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A menção a juros reais elevados sugere um cenário macroeconômico onde a remuneração da renda fixa é alta. Se os juros reais permanecerem elevados, fundos de infraestrutura com taxas atrativas podem continuar sendo uma opção interessante para investidores que buscam diversificação e retorno. Caso os juros comecem a cair, a atratividade desses fundos pode diminuir em comparação com outras classes de ativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793971073.2196262,
+    "titulo": "Dólar sobe em linha com movimento externo e à espera do ‘payroll’",
+    "titulo_original": "Dólar sobe em linha com movimento externo e à espera do ‘payroll’",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 09:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O fortalecimento global do dólar, aliado à expectativa pelo payroll, sugere um cenário de cautela nos mercados internacionais. Se o payroll americano indicar uma economia resiliente, pode reforçar a perspectiva de juros mais altos pelo Fed, pressionando o real. A atenção à política fiscal brasileira também é crucial, pois qualquer sinalização de descontrole pode agravar a pressão sobre o câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793971077.1157367,
+    "titulo": "Juros futuros têm leve queda de olho em sinais fiscais do governo e à espera de ‘payroll’",
+    "titulo_original": "Juros futuros têm leve queda de olho em sinais fiscais do governo e à espera de ‘payroll’",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 09:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda modesta dos juros futuros reflete um cenário de incerteza, onde a expectativa pelo payroll americano e a atenção aos sinais fiscais do governo brasileiro criam um ambiente de cautela. Se o payroll americano vier fraco, pode reforçar a expectativa de cortes de juros no Brasil; se os sinais fiscais forem negativos, pode pressionar os juros para cima.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793971082.2815022,
+    "titulo": "Abertura | Mercado fica à espera de payroll, monitora petróleo e repercute balanços",
+    "titulo_original": "Abertura | Mercado fica à espera de payroll, monitora petróleo e repercute balanços - InvesTalk",
+    "fonte": "Google News Commodities",
+    "publicado": "06/11 09:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A expectativa pelo payroll nos EUA é o principal fator de atenção para os mercados globais, influenciando o apetite por risco e as decisões de política monetária. A monitoração do petróleo e a repercussão de balanços corporativos adicionam camadas de complexidade ao cenário, podendo gerar volatilidade em diferentes setores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793971087.737152,
+    "titulo": "Non-farm payrolls preview: October numbers show a skew",
+    "titulo_original": "Non-farm payrolls preview: October numbers show a skew",
+    "fonte": "ForexLive",
+    "publicado": "06/11 09:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A expectativa de um número de empregos mais baixo em outubro comparado a meses anteriores pode indicar uma desaceleração no mercado de trabalho americano. Se o payroll confirmar essa tendência, pode aumentar a pressão por cortes de juros pelo Fed; se vier acima do esperado, pode reforçar a visão de uma economia robusta e juros mais altos por mais tempo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793971087.7389324,
+    "titulo": "Bradesco reduz PIB de 2027 a 0,4%, eleva inflação e adia cortes na Selic para 2027",
+    "titulo_original": "Bradesco reduz PIB de 2027 a 0,4%, eleva inflação e adia cortes na Selic para 2027",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 08:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Bradesco de crescimento mais fraco, inflação mais alta e Selic elevada por mais tempo sugere um cenário econômico desafiador para o Brasil. Se o arcabouço fiscal não for reforçado, a confiança dos agentes econômicos pode diminuir, impactando negativamente o investimento. A expectativa de juros altos por mais tempo pode continuar a pressionar o custo de crédito e a atividade econômica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793971087.7405584,
+    "titulo": "Por que investidores tiraram US$ 2,5 trilhões da Nasdaq em um único dia",
+    "titulo_original": "Por que investidores tiraram US$ 2,5 trilhões da Nasdaq em um único dia",
+    "fonte": "Money Times",
+    "publicado": "06/11 09:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A expressiva saída de capital da Nasdaq, motivada por preocupações com a regulamentação da IA, pode sinalizar um movimento de aversão ao risco em setores de tecnologia. Se essa tendência se mantiver, pode impactar o fluxo de capital para mercados emergentes, incluindo o Brasil, especialmente em ações de tecnologia locais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793971087.7422326,
+    "titulo": "Assaí já sente aumento de vendas com fim das bets: ‘movimento de maior volume de compra’",
+    "titulo_original": "Assaí já sente aumento de vendas com fim das bets: ‘movimento de maior volume de compra’",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 09:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento nas vendas do Assaí após o fim das apostas esportivas pode indicar uma realocação de gastos por parte dos consumidores. Se essa tendência se mantiver, pode beneficiar o setor de varejo de alimentos. A sustentabilidade desse movimento dependerá da capacidade de outras indústrias de capturar parte desse gasto realocado.",
+    "is_stocks": true
   }
 ]
