@@ -1,86 +1,5 @@
 [
   {
-    "_timestamp": 1793884546.8736541,
-    "titulo": "Ajuste fiscal com justiça social",
-    "titulo_original": "Ajuste fiscal com justiça social",
-    "fonte": "Folha Mercado",
-    "publicado": "05/11 06:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento expressivo da dívida bruta do governo brasileiro para 82,9% do PIB em setembro de 2026 sinaliza a urgência de um ajuste fiscal. A necessidade de um ajuste primário de pelo menos 3% do PIB aponta para a magnitude dos desafios em controlar as contas públicas e a importância de decisões fiscais futuras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793884551.8570306,
-    "titulo": "PACC11: a combinação ideal do ativo que oferece exposição a títulos indexados à inflação",
-    "titulo_original": "PACC11: a combinação ideal do ativo que oferece exposição a títulos indexados à inflação",
-    "fonte": "Money Times",
-    "publicado": "05/11 10:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação do PACC11 sugere que o mercado continua a ver valor em ativos protegidos da inflação, especialmente em um cenário de incerteza fiscal. A persistência de taxas reais elevadas pode indicar que o mercado espera que a inflação permaneça como um fator relevante no médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793884556.7928617,
-    "titulo": "Riscos inflacionários podem justificar nova alta de juros, mostra ata do Banco da Inglaterra",
-    "titulo_original": "Riscos inflacionários podem justificar nova alta de juros, mostra ata do Banco da Inglaterra",
-    "fonte": "Valor Economico",
-    "publicado": "05/11 10:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A ata sugere que o Banco da Inglaterra está monitorando de perto os riscos inflacionários, o que pode levar a novas altas de juros. Se os preços da energia continuarem a subir devido ao conflito, o banco central pode ser forçado a agir novamente para conter a inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793884561.884879,
-    "titulo": "Vitória democrata nas eleições de meio de mandato pressiona governo Trump",
-    "titulo_original": "Vitória democrata nas eleições de meio de mandato pressiona governo Trump - Jornal da USP",
-    "fonte": "Google News Geopolitica",
-    "publicado": "05/11 09:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O resultado das eleições de meio de mandato nos EUA tem implicações políticas internas para o governo Trump e também repercussões internacionais, influenciando a dinâmica política em Israel. A notícia aponta para um cenário de maior pressão política para os governantes mencionados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793884567.9016826,
-    "titulo": "Notícias europeias: BoE eleva taxa bancária para 4,00% como esperado",
-    "titulo_original": "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
-    "fonte": "ForexLive",
-    "publicado": "05/11 09:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A decisão do Banco da Inglaterra de elevar a taxa de juros em linha com as expectativas sugere um cenário de estabilidade monetária no Reino Unido no curto prazo. A menção a outros eventos globais indica a interconexão dos mercados e a influência de fatores geopolíticos e econômicos diversos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793884567.9028199,
-    "titulo": "Porto Seguro tem queda de 14% no lucro e reduz projeção de receita diante de cenário de crédito adverso",
-    "titulo_original": "Porto Seguro tem queda de 14% no lucro e reduz projeção de receita diante de cenário de crédito adverso",
-    "fonte": "Folha Mercado",
-    "publicado": "05/11 09:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda no lucro e a redução na projeção de receita da Porto Seguro indicam um ambiente desafiador para o setor de seguros, possivelmente refletindo um cenário de crédito mais restritivo. A performance da empresa pode ser um termômetro para a saúde do setor financeiro e do consumo no Brasil.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793891756.3847737,
     "titulo": "Governo Lula estuda mudar arcabouço para reduzir limite de gastos após frustração de receitas",
     "titulo_original": "Governo Lula estuda mudar arcabouço para reduzir limite de gastos após frustração de receitas",
@@ -1231,5 +1150,72 @@
     "origem": "domestica",
     "leitura_critica": "O desempenho de vendas do Assaí, especialmente após o fim da proibição das bets, pode ser um indicador do comportamento do consumo em setores específicos. Se esse ritmo se mantiver e a inflação permitir, a empresa pode conseguir diluir custos, o que seria um sinal positivo para o setor de varejo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793997043.5592494,
+    "titulo": "Brasil tem maior juro real do mundo, seguido por Turquia e Argentina",
+    "titulo_original": "Brasil tem maior juro real do mundo, seguido por Turquia e Argentina - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/11 16:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta taxa de juros real no Brasil pode ser um indicativo de esforços para conter a inflação, mas também pode impactar o crescimento econômico. Se a inflação ceder mais rapidamente, o Banco Central poderá considerar cortes nos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793997047.4995043,
+    "titulo": "Brasil tem superávit comercial de US$ 9,3 bilhões em outubro, recorde para o mês",
+    "titulo_original": "Brasil tem superávit comercial de US$ 9,3 bilhões em outubro, recorde para o mês",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 15:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde no superávit comercial brasileiro, impulsionado pelas exportações de petróleo, demonstra a força do setor primário na balança. Se a demanda global por commodities se mantiver, esse resultado pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793997051.606178,
+    "titulo": "Óleo de soja tem maior cotação desde o fim de 2022",
+    "titulo_original": "Óleo de soja tem maior cotação desde o fim de 2022 - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "06/11 16:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na cotação do óleo de soja pode ser influenciado por fatores de oferta e demanda globais. Se as condições climáticas continuarem favoráveis à produção, a pressão sobre os preços pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793997055.5533264,
+    "titulo": "Fachin homologa proposta de delação premiada de Mansur, fundador da Reag",
+    "titulo_original": "Fachin homologa proposta de delação premiada de Mansur, fundador da Reag",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 16:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A homologação da delação premiada de João Carlos Mansur pode trazer à tona novas informações sobre esquemas financeiros e lavagem de dinheiro. Se as revelações confirmarem ligações com o sistema financeiro, isso pode gerar desdobramentos regulatórios e judiciais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793997059.5421562,
+    "titulo": "Ouro cai com dados fortes de emprego nos EUA e apostas em alta de juros",
+    "titulo_original": "Ouro cai com dados fortes de emprego nos EUA e apostas em alta de juros",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 17:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Dados de emprego robustos nos EUA reforçam a expectativa de juros mais altos, o que tende a desvalorizar ativos como o ouro. Se os próximos indicadores de emprego vierem mais fracos, o cenário de juros altos pode ser reavaliado.",
+    "is_stocks": false
   }
 ]
