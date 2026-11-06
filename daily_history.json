@@ -1,77 +1,5 @@
 [
   {
-    "_timestamp": 1793891756.3847737,
-    "titulo": "Governo Lula estuda mudar arcabouço para reduzir limite de gastos após frustração de receitas",
-    "titulo_original": "Governo Lula estuda mudar arcabouço para reduzir limite de gastos após frustração de receitas",
-    "fonte": "Folha Mercado",
-    "publicado": "05/11 11:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica uma possível mudança na regra fiscal brasileira, o que pode gerar volatilidade. Se a alteração for confirmada e implicar em cortes de gastos mais significativos, pode haver um impacto positivo nas contas públicas; caso contrário, se a mudança for apenas retórica ou não resolver a frustração de receitas, a percepção de risco fiscal pode se manter elevada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793891775.7282944,
-    "titulo": "Juro alto pode ser principal influência para resultado negativo da indústria em 2026, diz IBGE",
-    "titulo_original": "Juro alto pode ser principal influência para resultado negativo da indústria em 2026, diz IBGE",
-    "fonte": "Valor Economico",
-    "publicado": "05/11 11:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação do IBGE reforça a conexão entre a política monetária restritiva e o desempenho negativo da indústria brasileira. Se a taxa de juros se mantiver elevada por mais tempo, a pressão sobre a atividade industrial tende a persistir; caso haja uma sinalização de corte de juros mais rápida, isso poderia aliviar o cenário para o setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793891782.6474683,
-    "titulo": "Imposto seletivo não aumenta carga tributária em 2027; veja novas alíquotas e entenda",
-    "titulo_original": "Imposto seletivo não aumenta carga tributária em 2027; veja novas alíquotas e entenda",
-    "fonte": "Folha Mercado",
-    "publicado": "05/11 10:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia detalha o funcionamento inicial do Imposto Seletivo, indicando que não haverá aumento da carga tributária em 2027. Se a implementação seguir conforme o previsto, o impacto inicial sobre o consumo de bens específicos pode ser limitado; caso haja revisões ou mudanças nas alíquotas futuras, isso pode alterar o cenário.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793891790.5892296,
-    "titulo": "Será necessário levar política monetária a uma postura restritiva, diz Hammack, do Fed",
-    "titulo_original": "Será necessário levar política monetária a uma postura restritiva, diz Hammack, do Fed",
-    "fonte": "Valor Economico",
-    "publicado": "05/11 11:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A declaração de uma dirigente do Fed reforça a perspectiva de juros altos nos EUA por mais tempo, o que pode impactar o fluxo de capital para mercados emergentes. Se o Fed de fato mantiver uma postura restritiva, isso tende a sustentar um dólar mais forte globalmente; se houver sinais de flexibilização antecipada, o cenário pode se inverter.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793891806.5711298,
-    "titulo": "US initial jobless claims 189K vs 196K estimate",
-    "titulo_original": "US initial jobless claims 189K vs 196K estimate",
-    "fonte": "ForexLive",
-    "publicado": "05/11 10:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda nos pedidos iniciais de seguro-desemprego nos EUA sugere um mercado de trabalho resiliente, o que pode reforçar a postura do Federal Reserve em manter juros mais altos por mais tempo. Se os próximos dados de emprego continuarem fortes, isso pode aumentar a pressão por juros elevados; caso contrário, uma desaceleração mais acentuada poderia abrir espaço para discussões sobre cortes.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1793897147.2703164,
     "titulo": "Copom só volta a cortar juros em 2027. Isso se o governo ajudar, dizem economistas",
     "titulo_original": "Copom só volta a cortar juros em 2027. Isso se o governo ajudar, dizem economistas",
@@ -1217,5 +1145,154 @@
     "origem": "externa",
     "leitura_critica": "Dados de emprego robustos nos EUA reforçam a expectativa de juros mais altos, o que tende a desvalorizar ativos como o ouro. Se os próximos indicadores de emprego vierem mais fracos, o cenário de juros altos pode ser reavaliado.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1794002513.9822242,
+    "titulo": "Bets voltaram? Entenda a decisão da Justiça Federal",
+    "titulo_original": "Bets voltaram? Entenda a decisão da Justiça Federal",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 18:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão liminar da Justiça Federal abre um precedente para a operação de algumas casas de apostas online no Brasil. Caso a AGU não consiga reverter a decisão em instâncias superiores, isso pode gerar um cenário de maior clareza regulatória para o setor, ou, alternativamente, intensificar a disputa judicial sobre o tema.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794002518.17167,
+    "titulo": "Novas altas de juros pelo Fed devem ser necessárias para reduzir inflação, diz Mary Daly - Valor Econômico",
+    "titulo_original": "Novas altas de juros pelo Fed devem ser necessárias para reduzir inflação, diz Mary Daly - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/11 16:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Mary Daly sugere que o Fed pode manter uma postura mais hawkish em relação à política monetária, com o objetivo de combater a inflação. Se o Fed realmente prosseguir com novas altas de juros, isso pode pressionar os mercados globais e impactar o fluxo de capital para economias emergentes; caso a inflação ceda mais rapidamente do que o esperado, o Fed pode sinalizar o fim do ciclo de aperto monetário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794002522.5011973,
+    "titulo": "Veja quem são os indicados por Espanha e Holanda para suceder Lagarde no BCE",
+    "titulo_original": "Veja quem são os indicados por Espanha e Holanda para suceder Lagarde no BCE",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 18:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A indicação de sucessores para a presidência do BCE é um evento relevante para a política monetária da zona do euro. Se os indicados mantiverem uma linha de continuidade com a gestão de Lagarde, isso pode sinalizar estabilidade nas decisões de juros; caso contrário, novas abordagens podem surgir, impactando as expectativas de mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794002526.861711,
+    "titulo": "Trump: Estamos conversando com o Irã, estamos indo muito bem com o Irã",
+    "titulo_original": "Trump: We are talking to Iran, we are doing very well with Iran",
+    "fonte": "ForexLive",
+    "publicado": "06/11 17:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre o Irã pode indicar uma mudança na postura diplomática dos EUA em relação ao país. Se essa aproximação se confirmar, isso poderia aliviar as tensões geopolíticas e, consequentemente, reduzir a volatilidade nos preços do petróleo; caso contrário, o receio de escalada pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794002532.9402256,
+    "titulo": "Bradesco e XP pioram significativamente projeções para inflação e atividade econômica em 2027",
+    "titulo_original": "Bradesco e XP pioram significativamente projeções para inflação e atividade econômica em 2027",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 18:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A piora nas projeções de inflação e atividade econômica para 2027 por instituições financeiras relevantes como Bradesco e XP sugere um cenário de maior cautela para o futuro. Se essas expectativas se concretizarem, o Banco Central pode ter que manter uma política monetária mais restritiva por mais tempo; caso contrário, uma melhora inesperada nos indicadores pode abrir espaço para um ciclo de afrouxamento monetário antecipado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794002532.9426055,
+    "titulo": "Governo retoma avaliação ambiental a fim de liberar áreas para exploração de óleo",
+    "titulo_original": "Governo retoma avaliação ambiental a fim de liberar áreas para exploração de óleo",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 18:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retomada da avaliação ambiental para exploração de petróleo pode impulsionar o setor de energia no Brasil e gerar novas receitas fiscais. Se o processo for agilizado e bem-sucedido, isso pode atrair investimentos significativos; caso contrário, a burocracia e preocupações ambientais podem atrasar ou inviabilizar os projetos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794002532.9444988,
+    "titulo": "Ibovespa e dólar sobem e juros futuros caem em dia de 'payroll' forte; Nasdaq e S&P 500 se recuperam após tombo",
+    "titulo_original": "Ibovespa e dólar sobem e juros futuros caem em dia de 'payroll' forte; Nasdaq e S&P 500 se recuperam após tombo",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 18:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O 'payroll' forte nos EUA, que geralmente indica aquecimento da economia, gerou uma reação mista nos mercados: alta do dólar e queda nos juros futuros no Brasil, enquanto as bolsas americanas se recuperaram. Se os dados de emprego continuarem fortes, o Fed pode manter a pressão por altas de juros, o que pode impactar negativamente os ativos de risco globais; caso contrário, uma desaceleração pode abrir espaço para cortes de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794002532.946312,
+    "titulo": "Ibovespa fecha em forte alta com recuperação e apoio de balanços",
+    "titulo_original": "Ibovespa fecha em forte alta com recuperação e apoio de balanços",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 18:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O forte avanço do Ibovespa, com recuperação e bons balanços, demonstra um otimismo pontual no mercado acionário brasileiro. A expectativa por sinalizações sobre ajuste fiscal é crucial; se o governo apresentar um plano crível, isso pode sustentar a alta do índice; caso contrário, a incerteza fiscal pode reverter os ganhos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794002532.9481347,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa avança com bancos, varejo e VALE3; PETR4 cai - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa avança com bancos, varejo e VALE3; PETR4 cai - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "06/11 15:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho positivo do Ibovespa, impulsionado por setores específicos como bancos e varejo, pode indicar uma recuperação pontual do mercado acionário brasileiro. Se a tendência de alta se mantiver, isso pode atrair mais investidores para a bolsa; caso contrário, a queda de PETR4 e outros fatores podem reverter o movimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794002532.949981,
+    "titulo": "Ibovespa retoma os 168 mil pontos e dólar sobe e fecha a R$ 5,51 - Valor Investe",
+    "titulo_original": "Ibovespa retoma os 168 mil pontos e dólar sobe e fecha a R$ 5,51 - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/11 17:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação do Ibovespa para os 168 mil pontos, acompanhada pela alta do dólar, pode indicar um cenário de maior aversão ao risco no mercado doméstico. Se essa tendência se mantiver, o dólar pode continuar pressionado; caso contrário, a melhora no humor do investidor pode reverter o movimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794002532.951936,
+    "titulo": "Ibovespa avança mais de 1% com Vale e Itaú, enquanto dólar sobe a R$ 5,50 - UOL Economia",
+    "titulo_original": "Ibovespa avança mais de 1% com Vale e Itaú, enquanto dólar sobe a R$ 5,50 - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/11 18:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O avanço do Ibovespa, liderado por Vale e Itaú, sugere um desempenho positivo em setores importantes da economia brasileira. Se essa força se mantiver, pode indicar um otimismo renovado no mercado acionário; caso contrário, a alta do dólar pode ser um sinal de alerta para a instabilidade cambial.",
+    "is_stocks": true
   }
 ]
