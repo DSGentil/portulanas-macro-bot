@@ -1,151 +1,5 @@
 [
   {
-    "_timestamp": 1793897147.2703164,
-    "titulo": "Copom só volta a cortar juros em 2027. Isso se o governo ajudar, dizem economistas",
-    "titulo_original": "Copom só volta a cortar juros em 2027. Isso se o governo ajudar, dizem economistas",
-    "fonte": "InvestNews",
-    "publicado": "05/11 11:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de que o Copom só voltará a cortar juros em 2027, e apenas se o governo apresentar medidas de austeridade, indica um cenário de juros elevados por um período prolongado. Se o governo não cumprir com as expectativas fiscais, a taxa Selic pode permanecer alta por mais tempo, impactando o custo do crédito e o investimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793897151.1383615,
-    "titulo": "Justiça suspende concessões de petróleo e gás no Amazonas",
-    "titulo_original": "Justiça suspende concessões de petróleo e gás no Amazonas - Agência Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "05/11 12:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A suspensão judicial das concessões de petróleo e gás no Amazonas pode gerar incertezas para o setor energético na região. Se a decisão se mantiver, pode afetar a produção e os investimentos em exploração, além de impactar a arrecadação fiscal local.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793897155.1177406,
-    "titulo": "Endividamento e inadimplência recuam em outubro, mostra CNC",
-    "titulo_original": "Endividamento e inadimplência recuam em outubro, mostra CNC",
-    "fonte": "Valor Economico",
-    "publicado": "05/11 13:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda no endividamento e inadimplência em outubro, conforme aponta a CNC, pode ser um sinal de melhora na capacidade de pagamento das famílias. A possível contribuição do fim das apostas online para a quitação de dívidas sugere que fatores comportamentais e regulatórios podem ter impacto direto no consumo e na saúde financeira dos consumidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793897159.0292299,
-    "titulo": "Dólar sobe no Brasil com avanço global após vitória democrata nos EUA",
-    "titulo_original": "Dólar sobe no Brasil com avanço global após vitória democrata nos EUA - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/11 11:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta do dólar no Brasil, atrelada a um movimento global após a vitória democrata nos EUA, sugere um cenário de maior aversão ao risco. Se essa tendência se mantiver, pode pressionar a inflação importada e aumentar o custo de dívidas em moeda estrangeira para empresas brasileiras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793897164.647545,
-    "titulo": "‘O Brasil tem 3 problemas: o fiscal, o fiscal e o fiscal’, diz economista-chefe do Santander Brasil",
-    "titulo_original": "‘O Brasil tem 3 problemas: o fiscal, o fiscal e o fiscal’, diz economista-chefe do Santander Brasil",
-    "fonte": "Valor Economico",
-    "publicado": "05/11 13:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistência do problema fiscal no Brasil, como apontado pelo economista, sugere que a pressão sobre a inflação e os juros pode continuar. Se o governo não apresentar medidas concretas para o reequilíbrio das contas, a trajetória de crescimento econômico pode ser ainda mais limitada do que o projetado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793897164.6494353,
-    "titulo": "Wall Street em queda livre? Nasdaq tomba 5% com temor de regulação de IA após vitória dos democratas",
-    "titulo_original": "Wall Street em queda livre? Nasdaq tomba 5% com temor de regulação de IA após vitória dos democratas",
-    "fonte": "Money Times",
-    "publicado": "05/11 13:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda acentuada no Nasdaq, impulsionada pelo receio de regulação de IA após a vitória democrata, sugere que o mercado pode precificar um cenário de maior controle governamental sobre o setor de tecnologia. Se essa regulação se materializar de forma restritiva, pode impactar o crescimento e a lucratividade das empresas de IA.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793897164.6518407,
-    "titulo": "Ibovespa Futuro sobe com Selic mantida e expectativa de fim da guerra no Irã",
-    "titulo_original": "Ibovespa Futuro sobe com Selic mantida e expectativa de fim da guerra no Irã - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "05/11 09:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A manutenção da Selic pelo Copom, combinada com a expectativa de resolução do conflito no Irã, pode criar um ambiente mais favorável para a renda variável brasileira. Se a guerra realmente se encerrar, a redução da aversão ao risco global pode impulsionar ainda mais o Ibovespa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793897164.6540926,
-    "titulo": "Ibovespa e dólar hoje: bolsa cai e moeda sobe após Copom pausar cortes na Selic",
-    "titulo_original": "Ibovespa e dólar hoje: bolsa cai e moeda sobe após Copom pausar cortes na Selic - Valor Investe",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/11 12:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A pausa nos cortes da Selic pelo Copom, com o Ibovespa em queda e o dólar em alta, reforça a percepção de que juros mais altos por mais tempo podem desestimular o investimento em renda variável. Se a taxa Selic permanecer elevada, o custo de capital para empresas pode aumentar, afetando a lucratividade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793897164.656155,
-    "titulo": "Dólar oscila e Ibovespa sobe após Copom manter a Selic em 13,75%",
-    "titulo_original": "Dólar oscila e Ibovespa sobe após Copom manter a Selic em 13,75% - Suno - Investimentos Inteligentes",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "05/11 11:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da Selic em 13,75% pelo Copom, com o Ibovespa em alta e o dólar oscilando, sugere que o mercado pode estar precificando um cenário de juros altos por mais tempo, o que pode favorecer a renda fixa em detrimento da variável no longo prazo. Se a inflação ceder, a pressão por cortes pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793897164.6621835,
-    "titulo": "O mercado está dizendo aos hiperscaladores que está feliz com uma construção mais lenta de data centers",
-    "titulo_original": "The market is telling the hyperscalers it's happy about a slower data center buildout",
-    "fonte": "ForexLive",
-    "publicado": "05/11 12:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A preferência do mercado por uma desaceleração na construção de data centers pode indicar uma mudança na alocação de capital das empresas de tecnologia. Se essa tendência se confirmar, pode haver uma redução na demanda por certos insumos e um foco maior em eficiência e lucratividade, em vez de expansão agressiva.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793897164.6638725,
-    "titulo": "China incentiva ETFs de bancos para atrair investidores na Bolsa",
-    "titulo_original": "China incentiva ETFs de bancos para atrair investidores na Bolsa",
-    "fonte": "Folha Mercado",
-    "publicado": "05/11 13:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "As ações da China para atrair investidores para sua bolsa, através de ETFs de bancos estatais, podem sinalizar uma tentativa de estabilizar o mercado acionário. Se essas medidas forem eficazes, podem atrair capital estrangeiro e impulsionar o desempenho de empresas chinesas listadas.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1793903455.041491,
     "titulo": "El Niño ameaça safra brasileira de soja com potencial perda de 17 milhões de toneladas e prejuízo de R$ 33 bilhões",
     "titulo_original": "El Niño ameaça safra brasileira de soja com potencial perda de 17 milhões de toneladas e prejuízo de R$ 33 bilhões - Notícias Agrícolas",
@@ -1293,6 +1147,96 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O avanço do Ibovespa, liderado por Vale e Itaú, sugere um desempenho positivo em setores importantes da economia brasileira. Se essa força se mantiver, pode indicar um otimismo renovado no mercado acionário; caso contrário, a alta do dólar pode ser um sinal de alerta para a instabilidade cambial.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794007848.1960468,
+    "titulo": "Juros futuros recuam e têm semana de alívio depois de estresse pós-eleição",
+    "titulo_original": "Juros futuros recuam e têm semana de alívio depois de estresse pós-eleição",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 17:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recuo dos juros futuros sugere uma melhora na percepção de risco fiscal e monetário no Brasil. Se o governo mantiver a sinalização de ajuste fiscal e o Banco Central confirmar a estabilidade da Selic, os juros podem continuar em trajetória de queda; se houver reversão nessas expectativas, o cenário pode mudar rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794007853.6515267,
+    "titulo": "Raízen aprova pacote de reestruturação com aumento de capital de até R$ 39,8 bi",
+    "titulo_original": "Raízen aprova pacote de reestruturação com aumento de capital de até R$ 39,8 bi",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 19:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A Raízen busca reestruturação financeira com um aporte significativo de capital. Se o aumento de capital for totalmente realizado, a empresa pode fortalecer sua posição financeira; caso contrário, a eficácia do plano de recuperação pode ser comprometida.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794007859.0773907,
+    "titulo": "Exportação de petróleo bruto mais do que dobrou em outubro",
+    "titulo_original": "Exportação de petróleo bruto mais do que dobrou em outubro",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 17:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O forte desempenho das exportações de petróleo bruto impactou positivamente a balança comercial brasileira. Se essa tendência de alta se mantiver, pode haver um impacto positivo na arrecadação fiscal; caso contrário, o superávit pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794007865.4034548,
+    "titulo": "CVM recebe 11 propostas para testar tokenização de ativos no mercado de capitais",
+    "titulo_original": "CVM recebe 11 propostas para testar tokenização de ativos no mercado de capitais",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 19:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A CVM avança na exploração de novas tecnologias para o mercado financeiro. Se os testes forem bem-sucedidos e as regulamentações forem adaptadas, a tokenização pode aumentar a eficiência e a liquidez de diversos ativos; a ausência de adaptação regulatória pode limitar a adoção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794007865.4059763,
+    "titulo": "Acionistas da Braskem retiram proposta de aporte de capital, diz agência",
+    "titulo_original": "Acionistas da Braskem retiram proposta de aporte de capital, diz agência",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 17:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A retirada da proposta de aporte de capital na Braskem aumenta a incerteza sobre a saúde financeira da empresa. Se um pedido de proteção judicial for efetivado, isso pode impactar a negociação das ações e a confiança dos credores; se um acordo alternativo for alcançado, a situação pode se estabilizar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794007865.4080763,
+    "titulo": "Fechamento de ações: recuperação decente ou um 'dead-cat bounce'?",
+    "titulo_original": "Equity close: Decent rebound or a dead-cat bounce",
+    "fonte": "ForexLive",
+    "publicado": "06/11 18:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A semana nos mercados americanos foi marcada por volatilidade, com uma recuperação parcial no fechamento que pode ser temporária. Se os dados de emprego continuarem a sugerir pressão inflacionária, o Federal Reserve pode manter uma postura mais restritiva, limitando a recuperação; se os dados mostrarem desaceleração, o otimismo pode retornar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794007865.4100943,
+    "titulo": "Bolsas de NY fecham sem direção única em meio à recuperação do setor de tech",
+    "titulo_original": "Bolsas de NY fecham sem direção única em meio à recuperação do setor de tech",
+    "fonte": "Money Times",
+    "publicado": "06/11 19:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação do setor de tecnologia em Nova York pode indicar uma busca por barganhas após quedas recentes. Se essa recuperação for sustentada por novos desenvolvimentos ou dados econômicos favoráveis, pode impulsionar os índices; caso contrário, pode ser apenas um alívio temporário antes de novas quedas.",
     "is_stocks": true
   }
 ]
