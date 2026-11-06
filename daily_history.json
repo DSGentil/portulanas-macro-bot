@@ -1027,5 +1027,133 @@
     "origem": "domestica",
     "leitura_critica": "O aumento nas vendas do Assaí após o fim das apostas esportivas pode indicar uma realocação de gastos por parte dos consumidores. Se essa tendência se mantiver, pode beneficiar o setor de varejo de alimentos. A sustentabilidade desse movimento dependerá da capacidade de outras indústrias de capturar parte desse gasto realocado.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793978167.9226146,
+    "titulo": "Tesouro Direto hoje: taxas sobem e prefixados longos se mantêm acima de 15%",
+    "titulo_original": "Tesouro Direto hoje: taxas sobem e prefixados longos se mantêm acima de 15%",
+    "fonte": "InvestNews",
+    "publicado": "06/11 11:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta nas taxas do Tesouro Direto, especialmente nos prefixados longos, reflete a expectativa de juros mais altos por mais tempo após a decisão do Copom. Se o Banco Central mantiver o tom de cautela em suas próximas comunicações, essas taxas podem se sustentar ou até subir; uma mudança para um discurso mais dovish poderia levar a uma queda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793978171.977165,
+    "titulo": "Estoque da Eztec está ‘em nível máximo’ e lançamentos vão depender do escoamento, diz presidente",
+    "titulo_original": "Estoque da Eztec está ‘em nível máximo’ e lançamentos vão depender do escoamento, diz presidente",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 11:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O alto nível de estoque e a dependência do escoamento para novos lançamentos indicam um cenário de demanda restrita no setor imobiliário. Se as taxas de juros permanecerem elevadas, a capacidade de compra dos consumidores pode continuar limitada, impactando o ritmo de vendas e lançamentos futuros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793978175.8792179,
+    "titulo": "EUA criam 165 mil vagas de trabalho em outubro e superam projeções",
+    "titulo_original": "EUA criam 165 mil vagas de trabalho em outubro e superam projeções",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 11:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A criação de empregos nos EUA, significativamente acima do esperado, sugere uma economia robusta e pode levar o Federal Reserve a manter uma postura mais restritiva em relação aos juros. Se os dados de inflação continuarem a vir fortes, a pressão por juros altos pode se manter; se a inflação ceder, o Fed pode reconsiderar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793978179.8054335,
+    "titulo": "Bitcoin cai abaixo de US$ 76 mil com incerteza regulatória nos EUA e relatório de empregos aquecido",
+    "titulo_original": "Bitcoin drops below $76k on U.S. regulatory uncertainty, hot jobs report",
+    "fonte": "Investing.com",
+    "publicado": "06/11 11:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do Bitcoin pode ser interpretada como uma reação a fatores de risco percebidos no mercado financeiro dos EUA. Se a incerteza regulatória se intensificar, isso pode pressionar ainda mais ativos digitais; caso contrário, uma resolução favorável poderia impulsionar uma recuperação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793978211.1214542,
+    "titulo": "Estrangeiros retiram R$ 1,6 bilhão em ações da B3 em 4 de novembro",
+    "titulo_original": "Estrangeiros retiram R$ 1,6 bilhão em ações da B3 em 4 de novembro",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 11:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de capital estrangeiro da bolsa brasileira, mesmo com o Ibovespa em alta no dia, pode indicar uma percepção de risco ou busca por outros mercados. Se essa tendência de saída se mantiver, pode pressionar o desempenho da bolsa; uma reversão desse fluxo, impulsionada por notícias positivas ou melhoria do cenário global, poderia impulsionar o mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793978211.1232924,
+    "titulo": "Renner retira projeções de crescimento de receita até 2030 citando desafios no varejo",
+    "titulo_original": "Renner retira projeções de crescimento de receita até 2030 citando desafios no varejo",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 11:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A retirada de projeções de longo prazo pela Renner sinaliza uma cautela significativa em relação ao futuro do setor de varejo. Se os desafios de concorrência e consumo persistirem, a empresa pode ter dificuldades em atingir patamares de crescimento anteriores; uma melhora no cenário econômico e de consumo poderia reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793978211.1250422,
+    "titulo": "Irã responde positivamente à última proposta do mediador - relatório",
+    "titulo_original": "Iran responds positively to latest mediator proposal - report",
+    "fonte": "ForexLive",
+    "publicado": "06/11 11:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A resposta positiva do Irã às propostas de mediação pode sinalizar uma diminuição das tensões geopolíticas. Se Washington tomar passos práticos para construir confiança, isso pode levar a uma maior estabilidade no mercado de petróleo e impulsionar o apetite por risco em outros ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793978211.1267874,
+    "titulo": "Petróleo chega a ultrapassar US$ 100, mas depois cai quase 2%",
+    "titulo_original": "Petróleo chega a ultrapassar US$ 100, mas depois cai quase 2%",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 10:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A volatilidade no preço do petróleo, com uma alta inicial seguida de queda, sugere incertezas no mercado. Se os fatores que impulsionam a oferta ou a demanda global se alterarem, o preço do petróleo pode continuar a oscilar, impactando custos de energia e inflação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793978211.1285307,
+    "titulo": "Painel S.A.: Big techs perdem mais que uma B3 inteira em um único dia",
+    "titulo_original": "Painel S.A.: Big techs perdem mais que uma B3 inteira em um único dia - Folha de S.Paulo",
+    "fonte": "Google News Acoes",
+    "publicado": "06/11 11:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A expressiva desvalorização das big techs indica um movimento de aversão ao risco no setor de tecnologia. Se essa tendência se mantiver, pode impactar o desempenho de bolsas globais e fundos de investimento focados em tecnologia; uma recuperação nesse setor poderia impulsionar o mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793978211.130293,
+    "titulo": "Nvidia aguarda liberação da China para enviar 600 mil chips ao país",
+    "titulo_original": "Nvidia aguarda liberação da China para enviar 600 mil chips ao país",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 10:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A liberação de chips pela China para a Nvidia é um fator importante para o setor de tecnologia e para as projeções de receita da empresa. Se a aprovação for concedida, isso pode impulsionar o desempenho da Nvidia e de empresas relacionadas; a demora na liberação pode gerar incertezas e impactar a cadeia de suprimentos.",
+    "is_stocks": true
   }
 ]
