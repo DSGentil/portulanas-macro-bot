@@ -1155,5 +1155,108 @@
     "origem": "externa",
     "leitura_critica": "A liberação de chips pela China para a Nvidia é um fator importante para o setor de tecnologia e para as projeções de receita da empresa. Se a aprovação for concedida, isso pode impulsionar o desempenho da Nvidia e de empresas relacionadas; a demora na liberação pode gerar incertezas e impactar a cadeia de suprimentos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1793983544.3186564,
+    "titulo": "Para onde vai o dólar? Moeda tem instabilidade à espera de sinalização fiscal. Veja como se proteger",
+    "titulo_original": "Para onde vai o dólar? Moeda tem instabilidade à espera de sinalização fiscal. Veja como se proteger - InvestNews",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/11 12:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A instabilidade do dólar à espera de sinalização fiscal indica que o mercado monetário está sensível a definições na política econômica do país. Se as sinalizações fiscais forem claras e positivas, o dólar pode se estabilizar ou depreciar; caso contrário, a volatilidade pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793983549.1229167,
+    "titulo": "Governo prorroga até 31 de dezembro cobrança de imposto de 12% sobre exportação de petróleo",
+    "titulo_original": "Governo prorroga até 31 de dezembro cobrança de imposto de 12% sobre exportação de petróleo - G1",
+    "fonte": "Google News Commodities",
+    "publicado": "06/11 09:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação da cobrança de imposto sobre exportação de petróleo é uma decisão fiscal com impacto direto no setor. Se essa medida for mantida ou alterada em futuras decisões, pode afetar a rentabilidade das empresas exportadoras e a arrecadação governamental. A extensão do prazo pode indicar uma necessidade contínua de arrecadação ou uma estratégia para estabilizar o setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793983553.7867105,
+    "titulo": "Com 2026 positivo, Moura Dubeux fica cautelosa para 2027 e pode rever aposta no MCMV",
+    "titulo_original": "Com 2026 positivo, Moura Dubeux fica cautelosa para 2027 e pode rever aposta no MCMV",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 13:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A cautela da Moura Dubeux em relação a 2027, citando a interrupção da queda de juros e inflação mais alta, sugere que o cenário macroeconômico pode impactar diretamente as decisões de lançamento de novos projetos. Se a taxa de juros voltar a cair e a inflação se estabilizar, a empresa poderá retomar planos de expansão mais agressivos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793983558.534689,
+    "titulo": "Bolsas do Japão têm maior queda desde tarifas de Trump; Coreia do Sul aciona circuit breaker",
+    "titulo_original": "Bolsas do Japão têm maior queda desde tarifas de Trump; Coreia do Sul aciona circuit breaker",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 12:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda acentuada nas bolsas do Japão e Coreia do Sul, com o acionamento do circuit breaker na Coreia, sinaliza um forte receio do mercado em relação ao setor de tecnologia e inteligência artificial. Se os temores sobre o fim do boom da IA se confirmarem, podemos ver uma correção mais ampla no setor tecnológico global; caso contrário, pode ser uma reação exagerada a notícias pontuais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793983564.4287183,
+    "titulo": "Ibovespa vai a 168 mil pontos e dólar desacelera alta com alívio em NY",
+    "titulo_original": "Ibovespa vai a 168 mil pontos e dólar desacelera alta com alívio em NY - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "06/11 13:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa e a desaceleração do dólar, influenciadas por um alívio em Nova York, sugerem um movimento de melhora no apetite por risco. Se o alívio em NY se mantiver, podemos ver continuidade na valorização dos ativos brasileiros; uma reversão desse cenário externo pode impactar negativamente o mercado local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793983564.4301896,
+    "titulo": "Wall Street perde trilhões em um dia: entenda o que derrubou as ações de IA",
+    "titulo_original": "Wall Street perde trilhões em um dia: entenda o que derrubou as ações de IA - G1",
+    "fonte": "Google News Acoes",
+    "publicado": "06/11 09:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A expressiva queda em Wall Street, focada em ações de IA, pode indicar uma correção de mercado ou uma reavaliação de expectativas para o setor. Se a correção for pontual, o mercado pode se recuperar rapidamente; se for um sinal de desvalorização estrutural, o impacto pode ser mais duradouro e se espalhar para outros setores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793983564.4314847,
+    "titulo": "Moderna reverte prejuízo e registra lucro no 3º trimestre",
+    "titulo_original": "Moderna reverte prejuízo e registra lucro no 3º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 13:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O lucro da Moderna no terceiro trimestre, superando as expectativas, indica uma recuperação em seu desempenho financeiro. Se a demanda por suas vacinas continuar estável ou crescer, a empresa pode apresentar resultados ainda mais fortes nos próximos trimestres, impactando seu valor de mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793983564.4327512,
+    "titulo": "Ação da Vivara (VIVA3) despenca após balanço do 3º trimestre; do que o mercado não gostou?",
+    "titulo_original": "Ação da Vivara (VIVA3) despenca após balanço do 3º trimestre; do que o mercado não gostou?",
+    "fonte": "Money Times",
+    "publicado": "06/11 13:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte queda das ações da Vivara após a divulgação do balanço trimestral sugere que o mercado reagiu negativamente aos resultados apresentados. Se os motivos da insatisfação do mercado forem pontuais e não estruturais, a ação pode se recuperar; caso contrário, a tendência de baixa pode persistir.",
+    "is_stocks": true
   }
 ]
