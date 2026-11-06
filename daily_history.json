@@ -1,344 +1,5 @@
 [
   {
-    "_timestamp": 1793817047.0029736,
-    "titulo": "Com menores receitas, lucro da Marcopolo recua 42,2% para R$ 187 milhões no 3º trimestre",
-    "titulo_original": "Com menores receitas, lucro da Marcopolo recua 42,2% para R$ 187 milhões no 3º trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 14:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda no lucro da Marcopolo, associada à retração nas operações internacionais, pode indicar um cenário de menor atividade econômica em mercados importantes para a empresa. Se essa tendência se generalizar para outras empresas do setor de transporte, pode haver impacto no emprego e na atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793817051.0265615,
-    "titulo": "Líder Democrata da Câmara Jeffries diz que aprovará projeto para parar tarifas e acabar com a Guerra do Irã",
-    "titulo_original": "House Democratic leader Jeffries says will pass bill to stop tariffs and to end the Iran War",
-    "fonte": "ForexLive",
-    "publicado": "04/11 14:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A aprovação de legislação para reverter tarifas pode impactar custos de importação e preços de bens. Se a proposta de fim da guerra no Irã avançar, isso poderá ter implicações nos preços de energia. A centralidade dos custos de saúde na agenda democrata pode influenciar o setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793817055.5979922,
-    "titulo": "Bolsas da Europa fecham com alta de mais de 1% com ‘onda azul’ nos EUA",
-    "titulo_original": "Bolsas da Europa fecham com alta de mais de 1% com ‘onda azul’ nos EUA",
-    "fonte": "Money Times",
-    "publicado": "04/11 15:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A alta nas bolsas europeias sugere que o mercado interpretou a vitória democrata nos EUA como um fator positivo para a economia europeia, possivelmente pela reversão de tarifas ou por uma política externa menos protecionista. Se a nova configuração política nos EUA levar a uma maior estabilidade comercial, o otimismo pode se estender.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793817059.7903929,
-    "titulo": "Fed ganha blindagem contra Trump com vitória democrata no Senado americano",
-    "titulo_original": "Fed ganha blindagem contra Trump com vitória democrata no Senado americano - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/11 13:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A maior autonomia do Fed pode indicar uma política monetária menos suscetível a influências políticas de curto prazo. Se o Fed mantiver uma postura independente, isso pode gerar maior previsibilidade nas decisões de juros, o que seria positivo para a estabilidade do mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793817064.7789264,
-    "titulo": "Petróleo cai mais de 9% com derrota de Trump nas midterms; Petrobras recua 6%",
-    "titulo_original": "Petróleo cai mais de 9% com derrota de Trump nas midterms; Petrobras recua 6%",
-    "fonte": "Folha Mercado",
-    "publicado": "04/11 14:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda expressiva no preço do petróleo pode ser interpretada como uma reação direta ao resultado eleitoral nos EUA, sugerindo que o mercado precificou um cenário de menor tensão geopolítica ou mudanças na política energética. Se a tendência de queda se mantiver, pode haver pressão sobre outras commodities e empresas ligadas ao setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793817064.7809331,
-    "titulo": "Petrobras (PETR4): Fitch eleva perfil de crédito individual da estatal",
-    "titulo_original": "Petrobras (PETR4): Fitch eleva perfil de crédito individual da estatal - Suno - Investimentos Inteligentes",
-    "fonte": "Google News Acoes",
-    "publicado": "04/11 12:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A elevação do perfil de crédito de uma grande estatal como a Petrobras pode ser interpretada como um sinal de melhora na saúde financeira da empresa. Se essa percepção se consolidar, pode haver um impacto positivo no preço das ações da companhia e, potencialmente, em outros ativos relacionados ao setor de energia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793817064.78273,
-    "titulo": "Cade aprova fusão bilionária questionada pela Petrobras no setor de óleo e gás, mas impõe restrição",
-    "titulo_original": "Cade aprova fusão bilionária questionada pela Petrobras no setor de óleo e gás, mas impõe restrição",
-    "fonte": "Folha Mercado",
-    "publicado": "04/11 12:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação da fusão pelo Cade, com restrições, representa uma decisão regulatória que afeta o setor de óleo e gás. Se as restrições impostas forem significativas, podem impactar a dinâmica competitiva e os investimentos futuros na área. A participação da Petrobras como questionadora adiciona um elemento de atenção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793824248.119155,
-    "titulo": "Saldos bancários desaparecem antes do amanhecer em choque no Paraguai",
-    "titulo_original": "Saldos bancários desaparecem antes do amanhecer em choque no Paraguai",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 16:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intervenção no ueno bank pode gerar desconfiança no sistema financeiro paraguaio, impactando a liquidez e o acesso a crédito. Se a investigação revelar falhas sistêmicas, outros bancos podem enfrentar pressão, exigindo ações mais contundentes do Banco Central para restaurar a confiança.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793824253.256893,
-    "titulo": "Paraguai nomeia novo presidente para banco central após escândalo de quebra de instituição financeira",
-    "titulo_original": "Paraguai nomeia novo presidente para banco central após escândalo de quebra de instituição financeira",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 16:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A nomeação de um novo comando para o Banco Central do Paraguai sinaliza uma tentativa de estabilização após a crise do ueno bank. Se o Senado ratificar as indicações e a nova diretoria agir com firmeza, a confiança no sistema financeiro pode ser gradualmente restaurada; caso contrário, a instabilidade pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793824258.2923787,
-    "titulo": "Fluxo cambial registra entrada de US$ 9,498 bilhões na semana até 30 de outubro",
-    "titulo_original": "Fluxo cambial registra entrada de US$ 9,498 bilhões na semana até 30 de outubro",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 15:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada líquida robusta no fluxo cambial, especialmente pela conta financeira, sugere um aumento do apetite por ativos brasileiros. Se essa tendência se mantiver, pode haver pressão de valorização sobre o real e maior liquidez no mercado financeiro; contudo, é crucial observar a origem e a sustentabilidade desses fluxos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793824263.3463387,
-    "titulo": "Marinho diz que governo deve publicar decreto para regulamentar fim da 6x1 na segunda-feira",
-    "titulo_original": "Marinho diz que governo deve publicar decreto para regulamentar fim da 6x1 na segunda-feira",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 15:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A regulamentação do fim da escala 6x1 pode alterar as dinâmicas de contratação e jornada de trabalho em diversos setores. Se o decreto for publicado conforme o esperado, empresas que utilizam essa escala precisarão se adaptar, o que pode gerar impactos na produtividade e nos custos trabalhistas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793824268.3463202,
-    "titulo": "Exclusivo: Articulação na Câmara tenta ‘ressuscitar’ proposta que obriga FGC a socorrer banco quebrado",
-    "titulo_original": "Exclusivo: Articulação na Câmara tenta ‘ressuscitar’ proposta que obriga FGC a socorrer banco quebrado",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 15:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A tentativa de ressuscitar a proposta de obrigar o FGC a socorrer bancos quebrados pode indicar preocupações com a estabilidade do sistema financeiro. Se aprovada, essa medida alteraria o escopo de atuação do FGC e poderia aumentar a percepção de risco para os depositantes em instituições menores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793829661.987891,
-    "titulo": "BC mantém Selic em 13,75% ao ano e interrompe sequência de cinco cortes",
-    "titulo_original": "BC mantém Selic em 13,75% ao ano e interrompe sequência de cinco cortes",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 18:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da Selic em 13,75% sinaliza cautela do Banco Central diante da inflação. Se os próximos dados de inflação continuarem a surpreender para cima, o BC pode adiar o início de um novo ciclo de cortes; caso contrário, a pressão por flexibilização monetária pode retornar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793829667.54448,
-    "titulo": "Copom decide corte ou manutenção da taxa de juros",
-    "titulo_original": "Copom decide corte ou manutenção da taxa de juros - Acia Araçatuba",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/11 15:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Copom sobre a taxa de juros é um fator determinante para o cenário econômico. Se a decisão for por corte, pode estimular a atividade econômica; se for por manutenção, pode indicar cautela com a inflação ou outros fatores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793829672.9522145,
-    "titulo": "Selic em 13,75% mantém atratividade da renda fixa pós-fixada; veja como ficam os investimentos",
-    "titulo_original": "Selic em 13,75% mantém atratividade da renda fixa pós-fixada; veja como ficam os investimentos",
-    "fonte": "Folha Mercado",
-    "publicado": "04/11 18:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da Selic em 13,75% reforça a atratividade da renda fixa, o que pode desviar capital de outras classes de ativos. Se a taxa de juros permanecer elevada por mais tempo, isso pode continuar a sustentar a preferência por investimentos de menor risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793829678.3738253,
-    "titulo": "Diante de incertezas fiscais e inflacionárias, pausa nos cortes da Selic é necessária",
-    "titulo_original": "Diante de incertezas fiscais e inflacionárias, pausa nos cortes da Selic é necessária - FecomercioSP",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "04/11 16:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A opinião da FecomercioSP reforça a justificativa para a manutenção da Selic em patamares mais elevados. Se as incertezas fiscais e inflacionárias persistirem, o Banco Central pode manter a taxa de juros mais alta por mais tempo, impactando o custo do crédito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793829684.7666488,
-    "titulo": "Ibovespa sobe 1,15% e dólar fecha a R$ 5,45 nesta quarta-feira",
-    "titulo_original": "Ibovespa sobe 1,15% e dólar fecha a R$ 5,45 nesta quarta-feira - Agrolink",
-    "fonte": "Google News Acoes",
-    "publicado": "04/11 18:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do Ibovespa e a queda do dólar podem ser reflexo de um alívio no cenário externo, como a resolução de incertezas políticas nos EUA. Se o cenário externo se mantiver favorável, a bolsa pode continuar a recuperação; caso contrário, a volatilidade pode retornar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793829684.7687516,
-    "titulo": "Em NY, Dow Jones dispara e tem o melhor dia desde abril de 2025 após as ‘midterms’",
-    "titulo_original": "Em NY, Dow Jones dispara e tem o melhor dia desde abril de 2025 após as ‘midterms’",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 18:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte alta das bolsas americanas após as eleições de meio de mandato sugere uma redução da incerteza política nos EUA. Se essa tendência de melhora no sentimento de risco global se mantiver, pode haver um fluxo de capital para mercados emergentes; caso contrário, a volatilidade pode retornar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793829684.770585,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e caminha para encerrar sequência de quedas",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe e caminha para encerrar sequência de quedas - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "04/11 14:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recuperação do Ibovespa sugere um alívio no sentimento do mercado, possivelmente impulsionado por fatores externos ou expectativas de anúncios internos. Se o fluxo de notícias positivas se mantiver, a bolsa pode consolidar a tendência de alta; caso contrário, a volatilidade pode retornar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793829684.7723987,
-    "titulo": "Ibovespa sobe mais de 1% com alívio externo e expectativa de anúncio fiscal",
-    "titulo_original": "Ibovespa sobe mais de 1% com alívio externo e expectativa de anúncio fiscal",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 18:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa reflete a influência positiva de fatores externos e a expectativa de anúncios fiscais domésticos. Se o pronunciamento sobre ajuste fiscal for bem recebido pelo mercado, pode sustentar a alta da bolsa; caso contrário, a incerteza pode voltar a pressionar os ativos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793829684.7742066,
-    "titulo": "Dólar fecha em queda, a R$ 5,45; Ibovespa interrompe sequência de perdas",
-    "titulo_original": "Dólar fecha em queda, a R$ 5,45; Ibovespa interrompe sequência de perdas - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "04/11 18:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar e a alta do Ibovespa indicam um cenário de melhora no sentimento do mercado, possivelmente influenciado por fatores externos. Se o alívio externo persistir e as incertezas internas diminuírem, o dólar pode continuar a se desvalorizar frente ao real e a bolsa a se valorizar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1793835050.9525597,
-    "titulo": "BC reconhece cenário mais desafiador, mas não dá pistas sobre próximos passos, diz BV",
-    "titulo_original": "BC reconhece cenário mais desafiador, mas não dá pistas sobre próximos passos, diz BV",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 19:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Se o Banco Central mantiver a postura de cautela em futuras comunicações, isso pode reforçar a percepção de juros em patamares elevados por mais tempo. Caso a próxima ata traga alguma sinalização de flexibilização, mesmo que sutil, o mercado pode reagir com otimismo em relação a cortes futuros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793835056.4573214,
-    "titulo": "Lula vai destacar compromisso com responsabilidade fiscal em pronunciamento na TV",
-    "titulo_original": "Lula vai destacar compromisso com responsabilidade fiscal em pronunciamento na TV",
-    "fonte": "Valor Economico",
-    "publicado": "04/11 19:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ênfase na responsabilidade fiscal pode sinalizar um esforço para acalmar os mercados, mas a defesa da redução de juros pode gerar expectativas conflitantes. Se a equipe econômica conseguir apresentar medidas concretas para conter despesas, a credibilidade fiscal pode ser fortalecida, abrindo espaço para discussões sobre juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793835061.9997168,
-    "titulo": "Preço de alimentos volta a subir em outubro, mas já perde força",
-    "titulo_original": "Preço de alimentos volta a subir em outubro, mas já perde força",
-    "fonte": "Folha Mercado",
-    "publicado": "04/11 19:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aceleração do preço dos alimentos em outubro é um fator de atenção para a inflação geral, mas a desaceleração observada no final do mês pode ser um sinal positivo. Se essa perda de força se mantiver nos próximos meses, pode aliviar a pressão sobre o índice de preços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1793835067.7295508,
-    "titulo": "Brasil registra pior setembro na criação de empregos formais desde o início da série histórica, diz Caged",
-    "titulo_original": "Brasil registra pior setembro na criação de empregos formais desde o início da série histórica, diz Caged",
-    "fonte": "Folha Mercado",
-    "publicado": "04/11 15:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda acentuada na criação de empregos formais em setembro é um indicador preocupante para a atividade econômica. Se essa tendência de desaceleração se confirmar nos próximos meses, pode pressionar o consumo e a demanda agregada.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1793878248.4079583,
     "titulo": "Investidores reagem ao pós-Copom após Selic ser mantida em 13,75% ao ano",
     "titulo_original": "Investidores reagem ao pós-Copom após Selic ser mantida em 13,75% ao ano",
@@ -1115,6 +776,144 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A forte queda no Nasdaq 100, especialmente em ações ligadas à inteligência artificial, indica um ajuste significativo no mercado de tecnologia. Se essa tendência de aversão ao risco se estender, pode haver pressão sobre outros ativos de maior volatilidade e um fluxo de capital para ativos mais seguros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793964649.083049,
+    "titulo": "Small caps sob juros altos: as 9 ações preferidas dos analistas no Lula 4 - InfoMoney",
+    "titulo_original": "Small caps sob juros altos: as 9 ações preferidas dos analistas no Lula 4 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "06/11 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A matéria conecta o desempenho de ações de small caps ao cenário de juros altos, indicando uma estratégia de investimento em um ambiente macroeconômico específico. A relevância reside na análise de mercado em resposta a condições de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793964653.2542038,
+    "titulo": "Imposto sobre exportação de petróleo e subsídios ao diesel seguem até o fim do ano - Agência eixos",
+    "titulo_original": "Imposto sobre exportação de petróleo e subsídios ao diesel seguem até o fim do ano - Agência eixos",
+    "fonte": "Google News Commodities",
+    "publicado": "06/11 07:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia informa a prorrogação de medidas fiscais relacionadas ao setor de petróleo e diesel. A decisão de manter essas políticas até o fim do ano tem implicações para os preços de energia e para a arrecadação fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793964657.4223897,
+    "titulo": "'Fora da Bolha': Onda azul decreta fim de Trump? Quem vai ser o ministro da Fazenda de Lula?",
+    "titulo_original": "'Fora da Bolha': Onda azul decreta fim de Trump? Quem vai ser o ministro da Fazenda de Lula? - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "06/11 06:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "O título levanta questões sobre o cenário político nos EUA e no Brasil, com foco na sucessão de Trump e na formação ministerial de Lula. A relevância está na análise de possíveis desdobramentos políticos que podem influenciar o ambiente econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793964661.5984387,
+    "titulo": "Derrota eleitoral deve frear indicações de Trump à Suprema Corte - Consultor Jurídico",
+    "titulo_original": "Derrota eleitoral deve frear indicações de Trump à Suprema Corte - Consultor Jurídico",
+    "fonte": "Google News Geopolitica",
+    "publicado": "06/11 08:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia sugere uma consequência política de um resultado eleitoral nos EUA, impactando futuras nomeações para a Suprema Corte. Embora seja um evento político, não há conexão direta com decisões fiscais ou regulatórias concretas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1793964667.5525157,
+    "titulo": "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth concerns",
+    "titulo_original": "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth concerns",
+    "fonte": "ForexLive",
+    "publicado": "06/11 05:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia aponta para potenciais mudanças na política comercial dos EUA e para a volatilidade nos mercados globais, especialmente no setor de tecnologia. A incerteza política interna nos EUA pode influenciar o sentimento de risco global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793964667.5542336,
+    "titulo": "Taiwan cobra medidas de regulador para estabilizar Bolsa em dia de forte queda",
+    "titulo_original": "Taiwan cobra medidas de regulador para estabilizar Bolsa em dia de forte queda",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 08:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A intervenção regulatória em Taiwan reflete a preocupação com a volatilidade do mercado de ações, especialmente em empresas de tecnologia, em um contexto de quedas globais. Isso pode indicar um receio de contágio e instabilidade financeira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793964667.5558743,
+    "titulo": "What are the main events for today?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "06/11 04:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A notícia destaca a influência das eleições de meio de mandato nos EUA e a situação geopolítica na redução das expectativas de alta de juros do Fed. A divulgação do payroll americano e dados de emprego canadenses serão cruciais para avaliar o cenário econômico e a política monetária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793964667.557158,
+    "titulo": "Ações ligadas à IA despencam na Ásia; Bolsa de Tóquio tem maior queda desde 'Dia da Libertação'",
+    "titulo_original": "Ações ligadas à IA despencam na Ásia; Bolsa de Tóquio tem maior queda desde 'Dia da Libertação'",
+    "fonte": "Folha Mercado",
+    "publicado": "06/11 07:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia aponta para uma forte desvalorização de ações de tecnologia na Ásia, ligada à expectativa de maior regulamentação de IA após o resultado eleitoral nos EUA. Isso reflete um receio do mercado em relação ao futuro do setor e seu potencial de crescimento sob novas regras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793964667.5585065,
+    "titulo": "Payroll fecha semana antes de pronunciamento de Lula ao mercado; Ibovespa em dólar cai nesta sexta-feira (6)",
+    "titulo_original": "Payroll fecha semana antes de pronunciamento de Lula ao mercado; Ibovespa em dólar cai nesta sexta-feira (6)",
+    "fonte": "Money Times",
+    "publicado": "06/11 07:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divulgação do payroll americano é um evento chave para avaliar as expectativas de corte de juros pelo Fed. A queda do Ibovespa em dólar sugere uma pressão externa ou uma reação a dados econômicos que impactam o apetite por risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793964667.559826,
+    "titulo": "Nikkei entra em ‘bear market’ e mercados despencam com liquidação de ações de tecnologia - Estadão",
+    "titulo_original": "Nikkei entra em ‘bear market’ e mercados despencam com liquidação de ações de tecnologia - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "06/11 06:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A entrada do Nikkei em 'bear market' e a liquidação de ações de tecnologia na Ásia indicam uma forte aversão ao risco e preocupações com o setor tecnológico. Isso pode ter repercussões em outros mercados globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1793964667.561151,
+    "titulo": "Agenda de empresas: Lucro da Suzano soma R$ 2 bi; Cosan negocia venda de fatia na Compass",
+    "titulo_original": "Agenda de empresas: Lucro da Suzano soma R$ 2 bi; Cosan negocia venda de fatia na Compass",
+    "fonte": "Valor Economico",
+    "publicado": "06/11 08:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados trimestrais de grandes empresas como Suzano e Sabesp fornecem um panorama da performance corporativa no Brasil. A negociação da Cosan sobre a Compass pode indicar movimentos estratégicos no setor de energia e infraestrutura.",
     "is_stocks": true
   }
 ]
