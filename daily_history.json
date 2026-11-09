@@ -855,5 +855,124 @@
     "origem": "domestica",
     "leitura_critica": "A declaração de um diretor da ANP sobre a Petrobras tentar impedir a atuação da agência sugere um conflito regulatório. Se a Petrobras conseguir de fato interferir nas decisões da ANP, isso pode impactar o setor de petróleo e gás e a política regulatória do governo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794267042.6121309,
+    "titulo": "Lucro da TIM Brasil soma R$ 1,11 bilhão no 3º trimestre",
+    "titulo_original": "Lucro da TIM Brasil soma R$ 1,11 bilhão no 3º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 19:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O resultado da TIM Brasil, embora apresente números de receita e Ebitda positivos, mostra uma queda no lucro líquido devido a maiores despesas com impostos e resultado financeiro. Se a tendência de aumento de custos tributários se mantiver em outras empresas, isso pode pressionar os lucros corporativos no geral.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794267047.8005424,
+    "titulo": "Juros futuros têm forte queda com alívio do petróleo e apetite global por risco",
+    "titulo_original": "Juros futuros têm forte queda com alívio do petróleo e apetite global por risco",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 17:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A queda nos juros futuros, associada ao alívio nos preços do petróleo e ao apetite global por risco, sugere um cenário de menor percepção de inflação no curto prazo. Se a queda do petróleo se consolidar e o apetite por risco persistir, isso pode reforçar a expectativa de um ciclo de afrouxamento monetário mais rápido.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794267066.6660345,
+    "titulo": "Colômbia busca acordo de US$ 15 bilhões com o FMI",
+    "titulo_original": "Colômbia busca acordo de US$ 15 bilhões com o FMI",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 19:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A busca da Colômbia por um acordo com o FMI indica uma necessidade de estabilização fiscal externa. Se o acordo for concretizado, isso pode sinalizar um cenário de maior cautela para economias emergentes em busca de financiamento, o que poderia, em um cenário mais amplo, influenciar o apetite por risco em outras regiões.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794267066.667594,
+    "titulo": "Wall Street sobe à medida que recuo do petróleo ameniza temores de inflação - CNN Brasil",
+    "titulo_original": "Wall Street sobe à medida que recuo do petróleo ameniza temores de inflação - CNN Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "09/11 18:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta em Wall Street, atrelada à queda do petróleo e à consequente amenização dos temores inflacionários, sugere um cenário externo mais favorável ao risco. Se essa percepção de menor pressão inflacionária se mantiver, pode influenciar as decisões de política monetária em diversas economias, incluindo o Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794267066.6690454,
+    "titulo": "Notícias do mercado das Américas da investingLive: otimismo com o Irã e recuperação tecnológica levam a um aumento do risco",
+    "titulo_original": "investingLive Americas market news wrap: Iran optimism and tech rebound leads to risk surge",
+    "fonte": "ForexLive",
+    "publicado": "09/11 18:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "As falas de membros do Fed indicam que a inflação de serviços está em ascensão, enquanto o mercado de trabalho permanece resiliente. Se as expectativas de inflação de longo prazo se mantiverem estáveis, isso pode dar ao Fed espaço para manter a política monetária atual por mais tempo, mas a inflação de serviços é um ponto de atenção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794267066.6705234,
+    "titulo": "Itaúsa (ITSA4) tem alta de 25% no lucro recorrente para R$ 5,1 bi no 3T26",
+    "titulo_original": "Itaúsa (ITSA4) tem alta de 25% no lucro recorrente para R$ 5,1 bi no 3T26",
+    "fonte": "Money Times",
+    "publicado": "09/11 20:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte crescimento no lucro recorrente da Itaúsa indica uma performance positiva de seus ativos no terceiro trimestre. Se essa tendência de melhora nos resultados corporativos se estender a outras empresas, pode sinalizar uma recuperação na atividade econômica ou uma gestão de custos eficiente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794267066.6719785,
+    "titulo": "Caixa Seguridade (CXSE3) vai pagar R$ 1,08 bilhão em dividendos; veja quem tem direito ao dinheiro",
+    "titulo_original": "Caixa Seguridade (CXSE3) vai pagar R$ 1,08 bilhão em dividendos; veja quem tem direito ao dinheiro",
+    "fonte": "Money Times",
+    "publicado": "09/11 19:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação de dividendos pela Caixa Seguridade demonstra a distribuição de lucros aos acionistas. Se outras empresas do setor de seguros ou financeiro apresentarem resultados robustos e optarem por distribuir dividendos significativos, isso pode indicar um fluxo de capital para investidores e um cenário de maior liquidez.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794267066.6734567,
+    "titulo": "Copasa (CSMG3): resultado vem acima do esperado no 3T26; veja números",
+    "titulo_original": "Copasa (CSMG3): resultado vem acima do esperado no 3T26; veja números",
+    "fonte": "Money Times",
+    "publicado": "09/11 19:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A Copasa apresentou um Ebitda ajustado em crescimento, apesar da queda no lucro líquido. Se a gestão de custos operacionais e a eficiência na prestação de serviços continuarem a impulsionar o Ebitda, isso pode ser um indicativo de resiliência operacional em setores de infraestrutura, mesmo diante de pressões em outras linhas de resultado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794267066.674947,
+    "titulo": "Klabin (KLBN11) capta US$ 150 milhões com agência canadense para gestão da dívida",
+    "titulo_original": "Klabin (KLBN11) capta US$ 150 milhões com agência canadense para gestão da dívida",
+    "fonte": "Money Times",
+    "publicado": "09/11 19:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A captação de recursos pela Klabin junto a uma agência de crédito à exportação canadense indica um movimento de fluxo de capital internacional para financiamento de dívidas. Se empresas brasileiras continuarem a buscar financiamento externo para otimizar sua estrutura de capital, isso pode sinalizar confiança na capacidade de pagamento e no ambiente de negócios.",
+    "is_stocks": true
   }
 ]
