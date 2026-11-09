@@ -566,5 +566,75 @@
     "origem": "domestica",
     "leitura_critica": "A alta do Ibovespa e a tentativa de superar os 170 mil pontos indicam um movimento de recuperação no mercado acionário brasileiro. Se os fatores que impulsionam essa alta se mantiverem, como a melhora em setores específicos ou a diminuição de incertezas, a bolsa pode consolidar esse movimento; caso contrário, a volta de pressões de venda pode reverter o quadro.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794249043.9751132,
+    "titulo": "Dólar inverte sinal e passa a subir de olho nas contas públicas",
+    "titulo_original": "Dólar inverte sinal e passa a subir de olho nas contas públicas - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/11 14:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar, impulsionada pela atenção às contas públicas, sugere que o mercado financeiro está precificando um risco fiscal maior para o Brasil. Se as contas públicas não apresentarem melhora ou se houver deterioração, o dólar pode continuar sua trajetória de alta; uma melhora significativa no quadro fiscal poderia reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794249048.2464106,
+    "titulo": "Alta do dólar não afeta só quem viaja ao exterior ou compra importados",
+    "titulo_original": "Alta do dólar não afeta só quem viaja ao exterior ou compra importados - Monitor Mercantil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/11 13:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia destaca a amplitude dos efeitos da alta do dólar na economia brasileira, indicando que o impacto é mais difuso do que geralmente percebido. Compreender essas ramificações é crucial para avaliar o cenário econômico geral, pois a desvalorização cambial pode influenciar desde custos de produção até a inflação de bens e serviços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794249057.1043682,
+    "titulo": "Aziz defende nova PEC para 6 X 1 e exploração de petróleo na Amazônia",
+    "titulo_original": "Aziz defende nova PEC para 6 X 1 e exploração de petróleo na Amazônia - Poder360",
+    "fonte": "Google News Commodities",
+    "publicado": "09/11 14:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A defesa de uma nova PEC pelo senador Omar Aziz para o regime de 6 X 1 e exploração de petróleo na Amazônia indica uma movimentação política em busca de novas regras e fontes de receita. Se essa PEC for adiante e aprovada, poderá ter implicações fiscais e regulatórias, mas o impacto dependerá do conteúdo final e da sua aprovação no Congresso.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794249061.5808911,
+    "titulo": "Direção adequada da política monetária é ‘relativamente clara’, diz Barkin, do Fed",
+    "titulo_original": "Direção adequada da política monetária é ‘relativamente clara’, diz Barkin, do Fed",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 14:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Tom Barkin sugere que o Fed pode manter sua postura atual em relação à política monetária, dada a persistência da inflação e a robustez da demanda. Se os próximos dados de inflação vierem em desaceleração, isso poderia abrir espaço para uma revisão dessa clareza em direção a um tom mais flexível.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794249075.610181,
+    "titulo": "Bradesco diz que ano seguinte à eleição sempre tem ofertas de ações e prevê ao menos 10 operações",
+    "titulo_original": "Bradesco diz que ano seguinte à eleição sempre tem ofertas de ações e prevê ao menos 10 operações",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 14:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa do Bradesco sobre ofertas de ações em 2027 sugere um otimismo cauteloso com o mercado de capitais brasileiro, condicionado à queda de juros e à clareza fiscal. Se o cenário fiscal se mostrar mais claro e os juros continuarem em trajetória de queda, o volume de IPOs pode se concretizar; caso contrário, o foco permanecerá em follow-ons.",
+    "is_stocks": true
   }
 ]
