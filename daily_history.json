@@ -636,5 +636,71 @@
     "origem": "domestica",
     "leitura_critica": "A expectativa do Bradesco sobre ofertas de ações em 2027 sugere um otimismo cauteloso com o mercado de capitais brasileiro, condicionado à queda de juros e à clareza fiscal. Se o cenário fiscal se mostrar mais claro e os juros continuarem em trajetória de queda, o volume de IPOs pode se concretizar; caso contrário, o foco permanecerá em follow-ons.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794256248.4975915,
+    "titulo": "Commodities em queda ajudaram a frear inflação no IGP-DI, diz FGV",
+    "titulo_original": "Commodities em queda ajudaram a frear inflação no IGP-DI, diz FGV",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 16:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração da inflação no IGP-DI, impulsionada pela queda de commodities, sugere um alívio pontual na pressão de preços. Se essa tendência de queda nas commodities se mantiver, pode haver um impacto mais duradouro na inflação; caso contrário, a pressão inflacionária pode retornar com mais força.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794256253.0625951,
+    "titulo": "BC divulga lista de empresas que pediram autorização para atuar com criptoativos",
+    "titulo_original": "BC divulga lista de empresas que pediram autorização para atuar com criptoativos",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 16:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação da lista de empresas que buscam autorização para atuar com criptoativos pelo BC demonstra um avanço na regulamentação do setor no Brasil. Se o processo de análise e concessão de licenças for ágil e transparente, pode atrair mais investimentos e legitimar o mercado; se houver lentidão ou burocracia excessiva, pode desestimular a entrada de novos players.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794256257.5727592,
+    "titulo": "Volume diário de transações com Pix bate novo recorde",
+    "titulo_original": "Volume diário de transações com Pix bate novo recorde",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 16:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O novo recorde de transações diárias do Pix reforça sua consolidação como infraestrutura de pagamentos no Brasil. Se a adoção continuar crescendo nesse ritmo, pode impulsionar a digitalização financeira e reduzir o uso de dinheiro em espécie; se a taxa de crescimento desacelerar, pode indicar saturação ou a necessidade de novas funcionalidades para manter o engajamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794256262.0619183,
+    "titulo": "Ouro sobe com alívio no petróleo reduzindo pressão inflacionária",
+    "titulo_original": "Ouro sobe com alívio no petróleo reduzindo pressão inflacionária",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 16:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta do ouro, atrelada à queda do petróleo e à desvalorização do dólar, indica um movimento de busca por ativos de refúgio em meio a incertezas geopolíticas e inflacionárias. Se a tensão no Oriente Médio diminuir e o dólar se fortalecer, o ouro pode perder atratividade; caso contrário, a tendência de alta pode se sustentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794256266.5474126,
+    "titulo": "Candidato à presidência do BCE, Klaas Knot ‘não hesitará’ em agir diante de uma crise de dívida",
+    "titulo_original": "Candidato à presidência do BCE, Klaas Knot ‘não hesitará’ em agir diante de uma crise de dívida",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 15:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Klaas Knot sobre a disposição em agir contra uma crise de dívida sugere uma postura proativa do BCE sob sua potencial liderança. Se ele for eleito e uma crise de dívida se materializar, a agilidade e eficácia de suas novas ferramentas serão cruciais; caso contrário, a falta de ação pode agravar a situação.",
+    "is_stocks": false
   }
 ]
