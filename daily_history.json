@@ -121,5 +121,112 @@
     "origem": "externa",
     "leitura_critica": "A decisão da Berkshire Hathaway de aumentar a recompra de ações, mesmo com a queda no lucro operacional, pode ser interpretada como um sinal de confiança da gestão no valor de longo prazo da empresa. No entanto, a queda no lucro operacional pode indicar desafios setoriais ou macroeconômicos que afetam a empresa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794223877.0064974,
+    "titulo": "Reforma tributária deve aumentar pedágios em 5% a partir de janeiro, dizem concessionárias",
+    "titulo_original": "Reforma tributária deve aumentar pedágios em 5% a partir de janeiro, dizem concessionárias",
+    "fonte": "Folha Mercado",
+    "publicado": "09/11 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica um potencial impacto direto no custo de vida e na logística de transporte caso as concessionárias repassem integralmente o aumento de impostos. Se o repasse for parcial ou inexistente, pode haver pressão sobre a rentabilidade das empresas do setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794223882.4109511,
+    "titulo": "IPC-S sobe 0,38% na primeira quadrissemana de novembro",
+    "titulo_original": "IPC-S sobe 0,38% na primeira quadrissemana de novembro",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 08:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aceleração na taxa de variação do IPC-S, especialmente no grupo Alimentação, pode indicar pressões inflacionárias persistentes. Se essa tendência se mantiver, pode reforçar a necessidade de o Banco Central manter uma postura mais cautelosa em relação à política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794223887.9567173,
+    "titulo": "Revisão tarifária de gasodutos gera ameaças de judicialização e corte de investimentos",
+    "titulo_original": "Revisão tarifária de gasodutos gera ameaças de judicialização e corte de investimentos",
+    "fonte": "Folha Mercado",
+    "publicado": "09/11 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ameaça de judicialização e corte de investimentos por parte da NTS em resposta à revisão tarifária da ANP pode gerar incertezas regulatórias e impactar a infraestrutura de gás no país. Se a judicialização ocorrer, o desfecho pode afetar a atratividade do setor para novos investimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794223893.4067097,
+    "titulo": "Montadoras chinesas e preocupação com juros marcam edição 2026 da Fenatran",
+    "titulo_original": "Montadoras chinesas e preocupação com juros marcam edição 2026 da Fenatran",
+    "fonte": "Folha Mercado",
+    "publicado": "09/11 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A presença de montadoras chinesas na Fenatran pode indicar uma maior competição no mercado de veículos comerciais. A preocupação com juros altos sugere que as condições de financiamento podem ser um fator limitante para as vendas e investimentos no setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794223900.1533039,
+    "titulo": "Agenda de empresas: Alpargatas lucra R$ 175,5 milhões; Braskem tem dificuldades em negociação com credores",
+    "titulo_original": "Agenda de empresas: Alpargatas lucra R$ 175,5 milhões; Braskem tem dificuldades em negociação com credores",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 08:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação de resultados corporativos como o da Alpargatas oferece um termômetro da saúde de setores específicos da economia. Para a Braskem, a notícia aponta para um cenário de maior aversão a risco em relação a empresas com endividamento elevado, caso as negociações com credores não avancem.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794223900.153952,
+    "titulo": "Ibovespa se prepara para avalanche de balanços, com Petrobras, BB e Boletim Focus no radar",
+    "titulo_original": "Ibovespa se prepara para avalanche de balanços, com Petrobras, BB e Boletim Focus no radar - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "09/11 04:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação de balanços de grandes empresas como Petrobras e Banco do Brasil pode gerar volatilidade no Ibovespa, com resultados acima ou abaixo das expectativas influenciando o desempenho do índice. O Boletim Focus trará as projeções de mercado para inflação e atividade econômica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794223900.154664,
+    "titulo": "Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais?",
+    "titulo_original": "Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "09/11 07:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A aproximação do Ibovespa a níveis elevados sugere um otimismo do mercado, mas a sustentabilidade dessa alta dependerá da continuidade de fatores positivos, como resultados corporativos robustos e um cenário macroeconômico favorável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794223900.1552284,
+    "titulo": "EUA não divulga balanço completo de receita de petróleo venezuelano",
+    "titulo_original": "EUA não divulga balanço completo de receita de petróleo venezuelano - UOL Notícias",
+    "fonte": "Google News Commodities",
+    "publicado": "09/11 06:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A falta de transparência nos dados de receita de petróleo venezuelano pode gerar incertezas sobre o fluxo financeiro do país e seus impactos no mercado global de energia. Se houver informações adicionais sobre o tema, isso pode influenciar as cotações do petróleo.",
+    "is_stocks": true
   }
 ]
