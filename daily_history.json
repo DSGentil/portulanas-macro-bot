@@ -443,5 +443,128 @@
     "origem": "domestica",
     "leitura_critica": "O crescimento da Mirandinha em um cenário de juros elevados e incertezas políticas demonstra resiliência e estratégia de expansão internacional. Se a estratégia de internacionalização continuar a gerar bons resultados, pode servir de exemplo para outras empresas de porte similar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794242778.1568518,
+    "titulo": "Focus: Mercado eleva estimativa para Selic de 2026 e IPCA de 2027",
+    "titulo_original": "Focus: Mercado eleva estimativa para Selic de 2026 e IPCA de 2027 - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/11 08:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A elevação das estimativas para a Selic e o IPCA em 2026 e 2027, respectivamente, indica uma percepção de que as pressões inflacionárias podem persistir por mais tempo, demandando juros mais altos por um período prolongado. Se esses números se confirmarem, o Banco Central pode precisar manter uma postura mais restritiva por mais tempo do que o esperado; caso contrário, uma eventual melhora no cenário pode permitir antecipar a queda dos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794242782.83048,
+    "titulo": "Economistas creem que juros serão mantidos em 13,75% neste ano, aponta Focus",
+    "titulo_original": "Economistas creem que juros serão mantidos em 13,75% neste ano, aponta Focus",
+    "fonte": "Folha Mercado",
+    "publicado": "09/11 08:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa dos economistas de que a Selic será mantida em 13,75% até o final do ano, conforme o boletim Focus, indica uma percepção de que o Banco Central pode optar por uma postura mais cautelosa em relação aos cortes de juros. Se a inflação persistir em patamares elevados ou se os riscos fiscais aumentarem, essa manutenção da taxa pode se estender; caso contrário, uma melhora nos indicadores pode permitir a antecipação de cortes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794242787.476023,
+    "titulo": "Tesouro Direto hoje: IPCA+ e prefixados recuam após discurso de Lula",
+    "titulo_original": "Tesouro Direto hoje: IPCA+ e prefixados recuam após discurso de Lula",
+    "fonte": "InvestNews",
+    "publicado": "09/11 10:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos papéis do Tesouro Direto após o discurso de Lula sugere que o mercado pode ter interpretado as falas como um sinal de que as expectativas de inflação ou a trajetória futura dos juros podem ser afetadas. Se o discurso for seguido por ações que aumentem a percepção de risco inflacionário, os juros de longo prazo podem continuar pressionados; caso contrário, a estabilidade pode retornar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794242792.0386236,
+    "titulo": "Abertura | Ata do Copom e inflação no Brasil e EUA, além de balanços, ficam no radar",
+    "titulo_original": "Abertura | Ata do Copom e inflação no Brasil e EUA, além de balanços, ficam no radar - InvesTalk",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/11 09:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divulgação da ata do Copom e dos dados de inflação no Brasil e nos EUA são eventos cruciais para a definição da política monetária e das expectativas de mercado. Se a ata do Copom indicar um viés mais duro ou se os dados de inflação vierem acima do esperado, isso pode pressionar os juros; se os indicadores forem mais benignos, pode haver espaço para otimismo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794242798.2693481,
+    "titulo": "Petrobras pede período de transição para compreender as mudanças da reforma tributária",
+    "titulo_original": "Petrobras pede período de transição para compreender as mudanças da reforma tributária",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 13:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A solicitação da Petrobras por um período de transição na reforma tributária indica que a complexidade das novas regras pode gerar incertezas operacionais e fiscais para a empresa. Se o Ministério da Fazenda acatar o pedido, isso pode sinalizar uma flexibilidade na implementação, o que seria positivo para a previsibilidade da companhia; caso contrário, a falta de clareza pode aumentar os riscos de multas e custos adicionais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794242798.2701712,
+    "titulo": "“Ele vai se aproximando do mercado com falas genéricas”, afirma diretor de análise sobre discurso de Lula",
+    "titulo_original": "“Ele vai se aproximando do mercado com falas genéricas”, afirma diretor de análise sobre discurso de Lula",
+    "fonte": "Money Times",
+    "publicado": "09/11 13:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de que o discurso do presidente Lula é genérico pode indicar uma falta de clareza sobre as próximas ações de política econômica, o que pode gerar volatilidade no mercado. Se o governo apresentar medidas concretas e direcionadas, isso pode sustentar a alta do Ibovespa; caso contrário, a ausência de novidades pode levar a uma reversão do movimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794242798.270957,
+    "titulo": "Ibovespa estende recuperação com Vale e bancos, apesar de queda da Petrobras",
+    "titulo_original": "Ibovespa estende recuperação com Vale e bancos, apesar de queda da Petrobras - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "09/11 10:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação do Ibovespa, liderada por setores específicos como mineração e financeiro, sugere que há setores da economia brasileira apresentando bom desempenho, apesar de eventos pontuais negativos em outras empresas. Se a força desses setores se mantiver e outros segmentos começarem a apresentar melhora, o índice pode consolidar sua alta; caso contrário, a dependência de poucos setores pode limitar o avanço.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794242798.2716284,
+    "titulo": "Ibovespa sobe após Trump afirmar que não vai atacar o Irã",
+    "titulo_original": "Ibovespa sobe após Trump afirmar que não vai atacar o Irã - VEJA",
+    "fonte": "Google News Acoes",
+    "publicado": "09/11 10:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre a improvável ação militar contra o Irã contribuiu para a alta do Ibovespa, sugerindo que a redução das tensões geopolíticas é um fator positivo para o mercado brasileiro. Se a percepção de risco geopolítico diminuir, isso pode favorecer fluxos de capital para mercados emergentes; caso contrário, a instabilidade pode retornar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794242798.2723954,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e tenta retomar os 170 mil pontos",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe e tenta retomar os 170 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "09/11 10:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa e a tentativa de superar os 170 mil pontos indicam um movimento de recuperação no mercado acionário brasileiro. Se os fatores que impulsionam essa alta se mantiverem, como a melhora em setores específicos ou a diminuição de incertezas, a bolsa pode consolidar esse movimento; caso contrário, a volta de pressões de venda pode reverter o quadro.",
+    "is_stocks": true
   }
 ]
