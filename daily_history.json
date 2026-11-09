@@ -702,5 +702,158 @@
     "origem": "externa",
     "leitura_critica": "A declaração de Klaas Knot sobre a disposição em agir contra uma crise de dívida sugere uma postura proativa do BCE sob sua potencial liderança. Se ele for eleito e uma crise de dívida se materializar, a agilidade e eficácia de suas novas ferramentas serão cruciais; caso contrário, a falta de ação pode agravar a situação.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1794261677.756134,
+    "titulo": "Mudanças de rumo na Selic: é o fim do ciclo de queda de juros? - C6 Bank",
+    "titulo_original": "Mudanças de rumo na Selic: é o fim do ciclo de queda de juros? - C6 Bank",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/11 16:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre o fim do ciclo de queda de juros é crucial para as expectativas de mercado. Se o ciclo de queda for interrompido, isso pode impactar o custo do crédito e o apetite por risco no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794261682.2525961,
+    "titulo": "O que muda na renda fixa com a Selic em 13,75%? - Suno - Investimentos Inteligentes",
+    "titulo_original": "O que muda na renda fixa com a Selic em 13,75%? - Suno - Investimentos Inteligentes",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/11 13:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A taxa Selic em 13,75% tem implicações diretas para os rendimentos da renda fixa. Se a taxa permanecer nesse patamar ou subir, os investimentos atrelados à Selic continuarão atrativos, mas podem desestimular investimentos em ativos de maior risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794261686.835081,
+    "titulo": "Qual é a hora certa de deixar de aplicar no Tesouro Selic? Entenda - CBN",
+    "titulo_original": "Qual é a hora certa de deixar de aplicar no Tesouro Selic? Entenda - CBN",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/11 18:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão de sair do Tesouro Selic está diretamente ligada às expectativas sobre a taxa de juros. Se o ciclo de queda de juros se confirmar e as taxas de retorno de outros ativos se tornarem mais atrativas, pode ser o momento de diversificar os investimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794261691.4384124,
+    "titulo": "Petróleo cai mais de 5% após Trump dizer que novos ataques ao Irã são improváveis",
+    "titulo_original": "Petróleo cai mais de 5% após Trump dizer que novos ataques ao Irã são improváveis",
+    "fonte": "Folha Mercado",
+    "publicado": "09/11 17:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda acentuada do petróleo, decorrente de declarações de Donald Trump sobre o Irã, pode ter impacto na inflação global e em países exportadores de petróleo. A redução da tensão geopolítica tende a diminuir a volatilidade nos mercados de commodities.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794261697.2733285,
+    "titulo": "ANP suspende revisão tarifária de dutos e expõe embate com Petrobras",
+    "titulo_original": "ANP suspende revisão tarifária de dutos e expõe embate com Petrobras",
+    "fonte": "Folha Mercado",
+    "publicado": "09/11 18:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão da revisão tarifária pode indicar uma negociação em curso ou um impasse regulatório. Se a Petrobras conseguir manter as tarifas atuais, isso pode sustentar sua receita; caso contrário, uma revisão pode impactar seus resultados e investimentos futuros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794261697.2743607,
+    "titulo": "Magazine Luiza (MGLU3) reverte lucro e registra prejuízo de R$ 10,7 milhões no 3T26, com e-commerce ainda sob pressão",
+    "titulo_original": "Magazine Luiza (MGLU3) reverte lucro e registra prejuízo de R$ 10,7 milhões no 3T26, com e-commerce ainda sob pressão",
+    "fonte": "Money Times",
+    "publicado": "09/11 18:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O prejuízo do Magazine Luiza reflete o cenário de juros altos e a pressão sobre o consumo. Se as taxas de juros começarem a cair de forma consistente, a empresa pode apresentar uma recuperação mais rápida, mas a concorrência no e-commerce continua sendo um desafio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794261697.2754204,
+    "titulo": "Ibovespa ganha mais de 3 mil pontos em um dia, mas dólar não acompanha a festa - Suno - Investimentos Inteligentes",
+    "titulo_original": "Ibovespa ganha mais de 3 mil pontos em um dia, mas dólar não acompanha a festa - Suno - Investimentos Inteligentes",
+    "fonte": "Google News Acoes",
+    "publicado": "09/11 18:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa, sem a correspondente valorização do dólar, pode indicar um fluxo de capital mais direcionado à renda variável local. No entanto, a ausência de acompanhamento do dólar pode sinalizar cautela ou outros fatores atuando na moeda.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794261697.276313,
+    "titulo": "Ibovespa acompanha exterior e fecha em alta com Vale e bancos, estendendo recuperação",
+    "titulo_original": "Ibovespa acompanha exterior e fecha em alta com Vale e bancos, estendendo recuperação",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 18:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa, alinhada com as bolsas globais, sugere um fluxo de capital estrangeiro positivo para o Brasil. A recuperação das ações de Vale e bancos indica confiança nesses setores, mas a aguarda por sinalizações fiscais mais concretas pode limitar ganhos futuros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794261697.2771585,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e chega a beliscar os 171 mil pontos - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe e chega a beliscar os 171 mil pontos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "09/11 15:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, mesmo que pontual, indica um movimento positivo no mercado acionário brasileiro. A continuidade dessa tendência dependerá de fatores macroeconômicos e do fluxo de capital estrangeiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794261697.2780426,
+    "titulo": "Em NY, Nasdaq avança quase 3%, apesar de receios com Nvidia",
+    "titulo_original": "Em NY, Nasdaq avança quase 3%, apesar de receios com Nvidia",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 18:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A forte alta do Nasdaq, refletindo um apetite global por risco, pode sinalizar um fluxo de capital mais positivo para mercados emergentes, incluindo o Brasil. A queda da Nvidia, apesar do movimento geral, indica seletividade no mercado de tecnologia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794261697.2789814,
+    "titulo": "“Petrobras tenta impedir a ANP de atuar”. O desabafo de um diretor da agência - Brazil Journal",
+    "titulo_original": "“Petrobras tenta impedir a ANP de atuar”. O desabafo de um diretor da agência - Brazil Journal",
+    "fonte": "Google News Acoes",
+    "publicado": "09/11 18:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de um diretor da ANP sobre a Petrobras tentar impedir a atuação da agência sugere um conflito regulatório. Se a Petrobras conseguir de fato interferir nas decisões da ANP, isso pode impactar o setor de petróleo e gás e a política regulatória do governo.",
+    "is_stocks": true
   }
 ]
