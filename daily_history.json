@@ -228,5 +228,86 @@
     "origem": "externa",
     "leitura_critica": "A falta de transparência nos dados de receita de petróleo venezuelano pode gerar incertezas sobre o fluxo financeiro do país e seus impactos no mercado global de energia. Se houver informações adicionais sobre o tema, isso pode influenciar as cotações do petróleo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794230153.636705,
+    "titulo": "Dólar abre em queda com projeções de inflação e dados da balança comercial no radar - G1",
+    "titulo_original": "Dólar abre em queda com projeções de inflação e dados da balança comercial no radar - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/11 09:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar pode ser interpretada como uma reação a expectativas de inflação mais controlada ou a um desempenho positivo na balança comercial. Se os dados de inflação futuros confirmarem essa tendência, o Banco Central pode ter mais espaço para flexibilizar a política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794230159.2584062,
+    "titulo": "Dólar ronda a estabilidade e não segue tendência global de olho em riscos locais",
+    "titulo_original": "Dólar ronda a estabilidade e não segue tendência global de olho em riscos locais",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 09:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A divergência do dólar brasileiro em relação à tendência global sugere que fatores domésticos, como a incerteza política ou econômica, estão pesando mais sobre a moeda. Se os riscos locais se materializarem, o dólar pode apresentar maior volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794230165.2557,
+    "titulo": "Juros futuros não firmam direção única com riscos locais e alívio no exterior",
+    "titulo_original": "Juros futuros não firmam direção única com riscos locais e alívio no exterior",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 09:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A falta de uma direção única nos juros futuros reflete a disputa entre fatores externos positivos e riscos domésticos. Se os riscos locais se intensificarem, a pressão sobre as taxas de juros de longo prazo pode aumentar, afetando o custo de capital no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794230170.873726,
+    "titulo": "Japão gastou o recorde de US$ 50 bilhões em um único dia para sustentar o iene em meio a pressões cambiais e de juros",
+    "titulo_original": "Japão gastou o recorde de US$ 50 bilhões em um único dia para sustentar o iene em meio a pressões cambiais e de juros",
+    "fonte": "Money Times",
+    "publicado": "09/11 09:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A intervenção massiva do Japão no câmbio sugere uma forte preocupação com a desvalorização do iene, possivelmente ligada a divergências de juros com outras economias. Se a pressão sobre o iene persistir, o Japão pode precisar de novas medidas, impactando fluxos de capital globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794230177.1850266,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "09/11 09:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": null,
+    "leitura_critica": "O acompanhamento em tempo real da cotação do dólar é fundamental para entender as flutuações diárias. Se a moeda apresentar movimentos bruscos, isso pode indicar reações a notícias ou eventos que ainda não foram totalmente precificados pelo mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794230177.1857078,
+    "titulo": "Governo prorroga Gás do Povo para até 19 de novembro de 2031",
+    "titulo_original": "Governo prorroga Gás do Povo para até 19 de novembro de 2031",
+    "fonte": "Valor Economico",
+    "publicado": "09/11 10:05",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A prorrogação do Auxílio Gás do Povo demonstra a continuidade de políticas de assistência social. Se a gestão fiscal futura mantiver programas similares, isso pode representar um custo contínuo para o orçamento público.",
+    "is_stocks": true
   }
 ]
