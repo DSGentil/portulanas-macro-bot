@@ -1241,5 +1241,99 @@
     "origem": "externa",
     "leitura_critica": "As investigações sobre o CEO da Nvidia podem gerar volatilidade nas ações da empresa e levantar questões sobre a continuidade de sua liderança em um setor crucial. Se a investigação resultar em sua saída, isso pode impactar o desenvolvimento e a percepção do mercado sobre a inteligência artificial.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794323744.6136737,
+    "titulo": "Tesouro Direto hoje: prefixado 2029 lidera queda e RendA+ longo sobe",
+    "titulo_original": "Tesouro Direto hoje: prefixado 2029 lidera queda e RendA+ longo sobe",
+    "fonte": "InvestNews",
+    "publicado": "10/11 09:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência entre a queda do prefixado 2029 e a alta do RendA+ longo sugere um movimento de ajuste nas expectativas de juros futuros. Se a tendência de queda nos juros de curto e médio prazo se confirmar, títulos mais longos podem continuar a se valorizar; caso contrário, a inversão dessa tendência pode afetar o desempenho desses papéis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794323749.1841266,
+    "titulo": "PGR aciona AGU para conseguir R$ 324 milhões para pagar penduricalhos",
+    "titulo_original": "PGR aciona AGU para conseguir R$ 324 milhões para pagar penduricalhos",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 11:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A solicitação de recursos extraordinários para o pagamento de penduricalhos indica uma pressão sobre o orçamento público. Se o STF aprovar a liberação desses recursos, isso pode representar um aumento nos gastos públicos; caso contrário, a PGR precisará buscar outras fontes de financiamento ou renegociar os pagamentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794323753.8963912,
+    "titulo": "Rogério Xavier, da SPX, alerta que perda de confiança no BC pode agravar quadro fiscal",
+    "titulo_original": "Rogério Xavier, da SPX, alerta que perda de confiança no BC pode agravar quadro fiscal",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 11:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O alerta sobre a perda de confiança no Banco Central e seu potencial impacto no quadro fiscal ressalta a importância da autonomia e credibilidade da instituição. Se a confiança no BC for abalada, isso pode levar a um aumento da percepção de risco do país, pressionando juros e dificultando o ajuste fiscal; caso contrário, a manutenção da confiança pode ser um fator estabilizador.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794323758.5316062,
+    "titulo": "Produção de petróleo no ES sobe 84% desde 2022",
+    "titulo_original": "Produção de petróleo no ES sobe 84% desde 2022 - ES Brasil",
+    "fonte": "Google News Commodities",
+    "publicado": "10/11 11:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O expressivo aumento na produção de petróleo no Espírito Santo pode contribuir para a balança comercial brasileira e para a receita do setor energético. Se essa tendência de crescimento se mantiver, pode haver um impacto positivo na economia do estado e no fornecimento de petróleo para o mercado interno e externo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794323764.3202238,
+    "titulo": "Bradesco adia cortes da Selic para 2º semestre de 2027 e prevê PIB de 0,4%",
+    "titulo_original": "Bradesco adia cortes da Selic para 2º semestre de 2027 e prevê PIB de 0,4% - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/11 11:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de adiamento dos cortes da Selic para 2027, aliada a uma previsão de PIB modesta, indica um cenário de política monetária mais restritiva por um período prolongado. Se a economia brasileira apresentar sinais de recuperação mais fortes, o Banco Central pode antecipar os cortes de juros; caso contrário, a permanência de juros altos pode continuar a limitar o crescimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794323764.322394,
+    "titulo": "Após atingir mínima em 5 anos, participação de pessoas físicas na negociação de FIIs se recupera",
+    "titulo_original": "Após atingir mínima em 5 anos, participação de pessoas físicas na negociação de FIIs se recupera",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 11:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação da participação de pessoas físicas em FIIs pode indicar um aumento na confiança dos investidores de varejo no mercado imobiliário. Se essa tendência de retomada se consolidar, pode haver um maior fluxo de capital para o setor de FIIs, impulsionando o desempenho desses fundos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794323764.3243976,
+    "titulo": "Por que faltam aviões se as encomendas batem recordes?",
+    "titulo_original": "Por que faltam aviões se as encomendas batem recordes?",
+    "fonte": "InvestNews",
+    "publicado": "10/11 07:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O paradoxo entre recordes de encomendas e a falta de entrega de aviões aponta para desafios na cadeia produtiva da indústria aeronáutica. Se os gargalos industriais não forem resolvidos, isso pode continuar a impactar a expansão das frotas aéreas globais e a receita das fabricantes.",
+    "is_stocks": true
   }
 ]
