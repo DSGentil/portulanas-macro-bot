@@ -1107,5 +1107,139 @@
     "origem": "externa",
     "leitura_critica": "A recuperação das ações da Nvidia após perdas significativas pode indicar uma reação do mercado a notícias específicas da empresa, possivelmente com a precificação de um cenário menos adverso do que inicialmente temido. Se a investigação interna da Nvidia não revelar irregularidades graves, a tendência de alta pode se sustentar.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794316545.260822,
+    "titulo": "Trump considera 'praticamente' terminada a guerra com o Irã após reunião com o Catar - Exame",
+    "titulo_original": "Trump considera 'praticamente' terminada a guerra com o Irã após reunião com o Catar - Exame",
+    "fonte": "Google News Geopolitica",
+    "publicado": "10/11 06:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre o fim da guerra com o Irã pode ter implicações geopolíticas significativas. Se essa percepção se confirmar, isso poderia levar a uma redução da tensão na região, com potencial impacto nos preços do petróleo e no sentimento de risco global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794316550.635203,
+    "titulo": "Maioria dos americanos quer que Congresso democrata encerre guerra contra o Irã",
+    "titulo_original": "Maioria dos americanos quer que Congresso democrata encerre guerra contra o Irã",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 09:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A pressão da opinião pública americana por um fim à guerra com o Irã e a revogação de tarifas pode influenciar as decisões políticas do novo Congresso. Se houver uma mudança de política nesse sentido, isso pode ter repercussões na estabilidade geopolítica e nas relações comerciais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794316556.3335395,
+    "titulo": "Petróleo brent cai abaixo de US$ 90 com apostas sobre resolução para guerra no Irã - InfoMoney",
+    "titulo_original": "Petróleo brent cai abaixo de US$ 90 com apostas sobre resolução para guerra no Irã - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "10/11 08:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do petróleo Brent abaixo de US$ 90 sugere que o mercado precifica uma menor probabilidade de escalada no conflito com o Irã. Se a tensão regional diminuir, isso pode levar a uma queda adicional nos preços do petróleo, impactando países produtores e consumidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794316561.645293,
+    "titulo": "Soja: relatório do USDA concentra atenções do mercado - Agrolink",
+    "titulo_original": "Soja: relatório do USDA concentra atenções do mercado - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "10/11 09:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Relatórios do USDA sobre a produção de soja são importantes para o mercado de commodities agrícolas. Se o relatório apresentar números surpreendentes, isso pode impactar os preços da soja e, consequentemente, afetar exportadores e importadores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794316569.0022738,
+    "titulo": "Anthropic busca captar até US$ 64,4 bilhões e avaliação de US$ 1 trilhão em mega-IPO",
+    "titulo_original": "Anthropic busca captar até US$ 64,4 bilhões e avaliação de US$ 1 trilhão em mega-IPO",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 09:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O sucesso deste IPO pode testar o apetite dos investidores por empresas de inteligência artificial em larga escala. Se a captação atingir o valor esperado, isso pode sinalizar um forte fluxo de capital para o setor de tecnologia, influenciando outras ofertas futuras.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794316569.0041592,
+    "titulo": "Magalu surfa crise da Casas Bahia e fala em 'oportunidade histórica' de ganho de mercado",
+    "titulo_original": "Magalu surfa crise da Casas Bahia e fala em 'oportunidade histórica' de ganho de mercado",
+    "fonte": "Folha Mercado",
+    "publicado": "10/11 09:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação judicial da Casas Bahia abre espaço para concorrentes como a Magalu ganharem mercado. Se a Magalu conseguir consolidar esses ganhos, isso pode indicar uma reconfiguração no setor de varejo, com potencial impacto em outras empresas do segmento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794316569.0057495,
+    "titulo": "Petrobras (PETR4), Caixa Seguridade (CXSE3), JBS (JBSS32) e outros destaques desta terça-feira (10)",
+    "titulo_original": "Petrobras (PETR4), Caixa Seguridade (CXSE3), JBS (JBSS32) e outros destaques desta terça-feira (10)",
+    "fonte": "Money Times",
+    "publicado": "10/11 09:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados da Petrobras e a distribuição de dividendos da Caixa Seguridade são eventos corporativos que podem influenciar o desempenho das ações dessas empresas. A aquisição pela JBS também merece atenção quanto à sua integração e impacto futuro no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794316569.0073647,
+    "titulo": "Quatro empresas avaliam disputa no leilão da ferrovia Minas-Rio",
+    "titulo_original": "Quatro empresas avaliam disputa no leilão da ferrovia Minas-Rio",
+    "fonte": "Folha Mercado",
+    "publicado": "10/11 09:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O interesse de múltiplas empresas no leilão da ferrovia Minas-Rio sugere um potencial de investimento em infraestrutura. O resultado do leilão e a participação das empresas podem indicar tendências no setor de logística e transporte.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794316569.0089235,
+    "titulo": "FIIs de escritórios seguem descontados na bolsa, aponta BTG; veja os favoritos do banco",
+    "titulo_original": "FIIs de escritórios seguem descontados na bolsa, aponta BTG; veja os favoritos do banco",
+    "fonte": "Money Times",
+    "publicado": "10/11 08:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação do BTG Pactual para FIIs de escritórios sugere uma visão positiva para o setor imobiliário comercial. Se os fundos recomendados apresentarem boa performance, isso pode atrair mais capital para essa classe de ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794316569.010488,
+    "titulo": "Aumento de distratos na Direcional foi causado por fim de subsídios estaduais, diz CEO",
+    "titulo_original": "Aumento de distratos na Direcional foi causado por fim de subsídios estaduais, diz CEO",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 09:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do CEO da Direcional aponta para um impacto da redução de subsídios estaduais no setor imobiliário. Se essa tendência se confirmar em outras empresas do setor, pode indicar uma desaceleração na demanda por imóveis populares.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794316569.0120661,
+    "titulo": "Huang vai resistir às investigações sobre ter sido alvo de suposta espionagem?",
+    "titulo_original": "Huang vai resistir às investigações sobre ter sido alvo de suposta espionagem?",
+    "fonte": "Folha Mercado",
+    "publicado": "10/11 08:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "As investigações sobre o CEO da Nvidia podem gerar volatilidade nas ações da empresa e levantar questões sobre a continuidade de sua liderança em um setor crucial. Se a investigação resultar em sua saída, isso pode impactar o desenvolvimento e a percepção do mercado sobre a inteligência artificial.",
+    "is_stocks": true
   }
 ]
