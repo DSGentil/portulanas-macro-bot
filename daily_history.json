@@ -1,235 +1,5 @@
 [
   {
-    "_timestamp": 1794222073.0166442,
-    "titulo": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
-    "titulo_original": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
-    "fonte": "Folha Mercado",
-    "publicado": "08/11 23:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A vitória de Lula e a consequente preocupação com as contas públicas podem levar a um cenário de juros mais altos por mais tempo no Brasil. Se o governo não apresentar um plano fiscal crível, a pressão sobre as small caps pode se intensificar, afetando a atratividade do mercado acionário doméstico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794222077.756376,
-    "titulo": "Petróleo e acordo com UE sustentam maior superávit comercial brasileiro em quase 40 anos",
-    "titulo_original": "Petróleo e acordo com UE sustentam maior superávit comercial brasileiro em quase 40 anos",
-    "fonte": "InvestNews",
-    "publicado": "07/11 14:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O forte superávit comercial brasileiro, sustentado por commodities e acordos comerciais, pode indicar uma melhora na balança de pagamentos. Contudo, a dependência de preços de commodities e acordos setoriais pode gerar volatilidade futura, dependendo de fatores externos e da renovação desses acordos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794222082.3930898,
-    "titulo": "Títulos atrelados à Selic dobram e colchão para rolar dívida pública de curto prazo diminui",
-    "titulo_original": "Títulos atrelados à Selic dobram e colchão para rolar dívida pública de curto prazo diminui",
-    "fonte": "Folha Mercado",
-    "publicado": "08/11 23:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da participação de títulos atrelados à Selic na dívida pública e a diminuição do prazo para rolagem indicam uma maior sensibilidade da dívida à política monetária e um desafio crescente para o governo. Se a taxa Selic permanecer elevada ou subir, o custo da dívida pública aumentará, pressionando ainda mais as contas públicas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794222086.8808062,
-    "titulo": "Ata da reunião do Copom é destaque da semana na agenda do BC",
-    "titulo_original": "Ata da reunião do Copom é destaque da semana da agenda do BC - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "08/11 08:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ata da reunião do Copom fornecerá detalhes sobre as discussões e o raciocínio por trás das decisões de política monetária. Se a ata indicar uma postura mais cautelosa ou mais flexível do que o esperado, isso poderá influenciar as expectativas do mercado sobre os próximos passos da taxa Selic.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794222093.2074175,
-    "titulo": "China Outubro 2026 CPI +0,7% a/a (esperado +0,8%, anterior +0,9%)",
-    "titulo_original": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
-    "fonte": "ForexLive",
-    "publicado": "08/11 22:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A defasagem entre a inflação ao produtor e ao consumidor na China sugere pressões de custo para empresas e fragilidade na demanda interna. Se a política monetária chinesa for flexibilizada para estimular a economia, isso pode ter implicações para moedas de países emergentes e para o preço de commodities.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794222093.2078254,
-    "titulo": "Resumo das notícias do mercado americano: folha de pagamento não agrícola superou estimativas",
-    "titulo_original": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
-    "fonte": "ForexLive",
-    "publicado": "06/11 18:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Dados de emprego mais fortes nos EUA do que o esperado podem reforçar a expectativa de que o Federal Reserve mantenha uma postura mais restritiva em relação aos juros. Se a taxa de desemprego no Canadá continuar elevada, isso pode indicar fraqueza na economia canadense, com potenciais reflexos em fluxos de capital.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794222093.2083073,
-    "titulo": "Fechamento de ações: recuperação decente ou um 'dead-cat bounce'?",
-    "titulo_original": "Equity close: Decent rebound or a dead-cat bounce",
-    "fonte": "ForexLive",
-    "publicado": "06/11 18:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A recuperação observada nos mercados de ações dos EUA, após uma semana volátil, pode ser um sinal de alívio temporário ou o início de uma tendência de alta. Se os dados de emprego continuarem fortes, o Federal Reserve pode manter uma postura mais restritiva, o que pode limitar o entusiasmo dos investidores no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794222093.2086866,
-    "titulo": "Trump mira encontro com Xi e Putin na APEC sobre guerra no Irã, diz que 'certamente aceitaria' Huang",
-    "titulo_original": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
-    "fonte": "ForexLive",
-    "publicado": "08/11 20:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A possibilidade de um encontro entre líderes de potências mundiais para discutir a guerra no Irã pode ser um catalisador para a desescalada de tensões na região. Se essa reunião ocorrer e levar a um acordo, isso pode impactar os preços do petróleo e a estabilidade geopolítica global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794222093.2090847,
-    "titulo": "Berkshire Hathaway amplia recompra de ações enquanto lucro operacional recua",
-    "titulo_original": "Berkshire Hathaway amplia recompra de ações enquanto lucro operacional recua - Bloomberg Linea Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "08/11 21:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A decisão da Berkshire Hathaway de aumentar a recompra de ações, mesmo com a queda no lucro operacional, pode ser interpretada como um sinal de confiança da gestão no valor de longo prazo da empresa. No entanto, a queda no lucro operacional pode indicar desafios setoriais ou macroeconômicos que afetam a empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794223877.0064974,
-    "titulo": "Reforma tributária deve aumentar pedágios em 5% a partir de janeiro, dizem concessionárias",
-    "titulo_original": "Reforma tributária deve aumentar pedágios em 5% a partir de janeiro, dizem concessionárias",
-    "fonte": "Folha Mercado",
-    "publicado": "09/11 04:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica um potencial impacto direto no custo de vida e na logística de transporte caso as concessionárias repassem integralmente o aumento de impostos. Se o repasse for parcial ou inexistente, pode haver pressão sobre a rentabilidade das empresas do setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794223882.4109511,
-    "titulo": "IPC-S sobe 0,38% na primeira quadrissemana de novembro",
-    "titulo_original": "IPC-S sobe 0,38% na primeira quadrissemana de novembro",
-    "fonte": "Valor Economico",
-    "publicado": "09/11 08:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aceleração na taxa de variação do IPC-S, especialmente no grupo Alimentação, pode indicar pressões inflacionárias persistentes. Se essa tendência se mantiver, pode reforçar a necessidade de o Banco Central manter uma postura mais cautelosa em relação à política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794223887.9567173,
-    "titulo": "Revisão tarifária de gasodutos gera ameaças de judicialização e corte de investimentos",
-    "titulo_original": "Revisão tarifária de gasodutos gera ameaças de judicialização e corte de investimentos",
-    "fonte": "Folha Mercado",
-    "publicado": "09/11 04:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ameaça de judicialização e corte de investimentos por parte da NTS em resposta à revisão tarifária da ANP pode gerar incertezas regulatórias e impactar a infraestrutura de gás no país. Se a judicialização ocorrer, o desfecho pode afetar a atratividade do setor para novos investimentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794223893.4067097,
-    "titulo": "Montadoras chinesas e preocupação com juros marcam edição 2026 da Fenatran",
-    "titulo_original": "Montadoras chinesas e preocupação com juros marcam edição 2026 da Fenatran",
-    "fonte": "Folha Mercado",
-    "publicado": "09/11 04:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A presença de montadoras chinesas na Fenatran pode indicar uma maior competição no mercado de veículos comerciais. A preocupação com juros altos sugere que as condições de financiamento podem ser um fator limitante para as vendas e investimentos no setor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794223900.1533039,
-    "titulo": "Agenda de empresas: Alpargatas lucra R$ 175,5 milhões; Braskem tem dificuldades em negociação com credores",
-    "titulo_original": "Agenda de empresas: Alpargatas lucra R$ 175,5 milhões; Braskem tem dificuldades em negociação com credores",
-    "fonte": "Valor Economico",
-    "publicado": "09/11 08:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação de resultados corporativos como o da Alpargatas oferece um termômetro da saúde de setores específicos da economia. Para a Braskem, a notícia aponta para um cenário de maior aversão a risco em relação a empresas com endividamento elevado, caso as negociações com credores não avancem.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794223900.153952,
-    "titulo": "Ibovespa se prepara para avalanche de balanços, com Petrobras, BB e Boletim Focus no radar",
-    "titulo_original": "Ibovespa se prepara para avalanche de balanços, com Petrobras, BB e Boletim Focus no radar - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "09/11 04:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação de balanços de grandes empresas como Petrobras e Banco do Brasil pode gerar volatilidade no Ibovespa, com resultados acima ou abaixo das expectativas influenciando o desempenho do índice. O Boletim Focus trará as projeções de mercado para inflação e atividade econômica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794223900.154664,
-    "titulo": "Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais?",
-    "titulo_original": "Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "09/11 07:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A aproximação do Ibovespa a níveis elevados sugere um otimismo do mercado, mas a sustentabilidade dessa alta dependerá da continuidade de fatores positivos, como resultados corporativos robustos e um cenário macroeconômico favorável.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794223900.1552284,
-    "titulo": "EUA não divulga balanço completo de receita de petróleo venezuelano",
-    "titulo_original": "EUA não divulga balanço completo de receita de petróleo venezuelano - UOL Notícias",
-    "fonte": "Google News Commodities",
-    "publicado": "09/11 06:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A falta de transparência nos dados de receita de petróleo venezuelano pode gerar incertezas sobre o fluxo financeiro do país e seus impactos no mercado global de energia. Se houver informações adicionais sobre o tema, isso pode influenciar as cotações do petróleo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794230153.636705,
     "titulo": "Dólar abre em queda com projeções de inflação e dados da balança comercial no radar - G1",
     "titulo_original": "Dólar abre em queda com projeções de inflação e dados da balança comercial no radar - G1",
@@ -1334,6 +1104,106 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O paradoxo entre recordes de encomendas e a falta de entrega de aviões aponta para desafios na cadeia produtiva da indústria aeronáutica. Se os gargalos industriais não forem resolvidos, isso pode continuar a impactar a expansão das frotas aéreas globais e a receita das fabricantes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794335450.9090073,
+    "titulo": "Ata do Copom aponta 4 riscos à inflação e joga pressão sobre gastos do governo",
+    "titulo_original": "Ata do Copom aponta 4 riscos à inflação e joga pressão sobre gastos do governo - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/11 11:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A menção de 4 riscos à inflação na ata do Copom reforça a cautela do Banco Central e pode justificar a manutenção de juros em patamares elevados. Se o governo não apresentar um plano claro para controlar os gastos, a pressão inflacionária pode persistir, levando a novas altas de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794335456.006029,
+    "titulo": "Receita Estadual e Ministério Público deflagram operação contra fraude fiscal na comercialização de soja",
+    "titulo_original": "Receita Estadual e Ministério Público deflagram operação contra fraude fiscal na comercialização de soja - Portal do Estado do Rio Grande do Sul",
+    "fonte": "Google News Commodities",
+    "publicado": "10/11 11:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A operação contra fraude fiscal na comercialização de soja demonstra um esforço para coibir irregularidades tributárias no agronegócio. Se a ação resultar em recuperação de impostos e em maior conformidade fiscal, isso pode ter um efeito positivo na arrecadação estadual.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794335460.957299,
+    "titulo": "Franklin Templeton vê continuidade com Lula 4 e corta risco",
+    "titulo_original": "Franklin Templeton vê continuidade com Lula 4 e corta risco",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 14:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de continuidade na política econômica do governo Lula, com ajustes fiscais moderados, pode sustentar juros em patamares elevados por mais tempo. Se o governo apresentar um plano fiscal mais robusto do que o esperado, isso poderia abrir espaço para uma queda mais rápida dos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794335466.3394644,
+    "titulo": "Dólar dispara e Bolsa cai após ata do Copom e inflação acima do esperado nos EUA",
+    "titulo_original": "Dólar dispara e Bolsa cai após ata do Copom e inflação acima do esperado nos EUA",
+    "fonte": "Folha Mercado",
+    "publicado": "10/11 09:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A ata do Copom indicando riscos à inflação e a inflação nos EUA acima do esperado reforçam a pressão sobre o dólar e a queda da bolsa. Se os próximos dados de inflação nos EUA vierem abaixo do esperado, isso pode aliviar a pressão sobre o Banco Central brasileiro e reverter parte da queda da bolsa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794335472.1823719,
+    "titulo": "US October core CPI +0.3% vs +0.2% expected",
+    "titulo_original": "US October core CPI +0.3% vs +0.2% expected",
+    "fonte": "ForexLive",
+    "publicado": "10/11 10:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de inflação subjacente nos EUA acima do esperado sugere que as pressões inflacionárias podem persistir, o que pode levar o Federal Reserve a manter uma postura mais restritiva por mais tempo. Se a inflação geral começar a ceder consistentemente nos próximos meses, isso pode abrir espaço para o Fed sinalizar um fim do ciclo de alta de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794335472.184099,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e dólar dispara 1%",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e dólar dispara 1% - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "10/11 12:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A virada do Ibovespa para queda e a alta do dólar indicam uma aversão ao risco no mercado brasileiro. Se os fatores que impulsionam a queda, como a ata do Copom e dados externos, persistirem, a tendência de baixa na bolsa pode se acentuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794335472.1856918,
+    "titulo": "European news wrap: Fed's Waller floats case for 50 bps hike in December",
+    "titulo_original": "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in December",
+    "fonte": "ForexLive",
+    "publicado": "10/11 09:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A fala de Waller sobre um possível aumento de 50 bps nos juros dos EUA aumenta a incerteza sobre a política monetária americana. Se o Fed realmente optar por um aperto mais agressivo, isso pode impactar negativamente os mercados globais, incluindo o Bitcoin.",
     "is_stocks": true
   }
 ]
