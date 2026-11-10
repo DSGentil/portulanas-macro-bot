@@ -974,5 +974,138 @@
     "origem": "ambas",
     "leitura_critica": "A captação de recursos pela Klabin junto a uma agência de crédito à exportação canadense indica um movimento de fluxo de capital internacional para financiamento de dívidas. Se empresas brasileiras continuarem a buscar financiamento externo para otimizar sua estrutura de capital, isso pode sinalizar confiança na capacidade de pagamento e no ambiente de negócios.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794310254.1456711,
+    "titulo": "BC divulga ata do Copom para detalhar pausa nos cortes de juros - O GLOBO",
+    "titulo_original": "BC divulga ata do Copom para detalhar pausa nos cortes de juros - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/11 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ata do Copom pode fornecer insights cruciais sobre a visão do Banco Central para a inflação e a atividade econômica, influenciando as expectativas futuras sobre a Selic. Se a ata indicar preocupações com a inflação, isso pode reforçar a postura de juros altos por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794310258.748081,
+    "titulo": "Banco Central passa a divulgar lista de empresas aptas a operar com criptomoedas",
+    "titulo_original": "Banco Central passa a divulgar lista de empresas aptas a operar com criptomoedas",
+    "fonte": "Money Times",
+    "publicado": "10/11 08:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação dessa lista pelo Banco Central aumenta a transparência e a segurança para investidores no mercado de criptomoedas no Brasil. Se a lista for extensa e incluir grandes players, isso pode sinalizar um amadurecimento regulatório e potencial maior adoção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794310264.9233418,
+    "titulo": "Manhã no mercado: Ata do Copom e Waller, do Fed, concentram as atenções em dia de inflação nos EUA",
+    "titulo_original": "Manhã no mercado: Ata do Copom e Waller, do Fed, concentram as atenções em dia de inflação nos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 07:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A ata do Copom pode detalhar os motivos por trás da decisão de manter a Selic, oferecendo pistas sobre o futuro da política monetária. Se Waller sinalizar uma postura mais hawkish do que o esperado, isso pode reforçar a expectativa de juros mais altos nos EUA, impactando o cenário global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794310269.4141028,
+    "titulo": "Qual é a distribuição das previsões para o CPI dos EUA?",
+    "titulo_original": "What is the distribution of forecasts for the US CPI?",
+    "fonte": "ForexLive",
+    "publicado": "10/11 06:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Uma divulgação do CPI significativamente abaixo do consenso pode reforçar a probabilidade de o Fed não aumentar os juros em dezembro. Se, por outro lado, o dado vier acima do esperado, isso pode aumentar a pressão por uma alta mais agressiva, alterando as expectativas de mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794310276.2306514,
+    "titulo": "Ata do Copom, 6x1, gasolina, leilão de fábrica, taxa de luz, dólar, Ibovespa e mais economia 10.11 - GZH",
+    "titulo_original": "Ata do Copom, 6x1, gasolina, leilão de fábrica, taxa de luz, dólar, Ibovespa e mais economia 10.11 - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "10/11 07:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ata do Copom fornecerá detalhes sobre a decisão de política monetária, enquanto os preços da gasolina e a taxa de luz são indicadores relevantes de inflação. A dinâmica do dólar e do Ibovespa refletirá o sentimento do mercado em relação a esses fatores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794310276.2322435,
+    "titulo": "Prévia do CPI dos EUA: Wall Street vê inflação mais fria, mas o Fed pode não ceder",
+    "titulo_original": "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
+    "fonte": "ForexLive",
+    "publicado": "10/11 02:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Se o CPI vier abaixo do esperado, a probabilidade de o Fed manter os juros inalterados em dezembro pode aumentar. No entanto, se o banco central americano mantiver sua postura restritiva, mesmo com inflação mais baixa, isso pode gerar frustração no mercado e pressionar ativos de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794310276.2337105,
+    "titulo": "Ibovespa tem mais um dia de recuperação e avança 2% - Valor Econômico",
+    "titulo_original": "Ibovespa tem mais um dia de recuperação e avança 2% - Valor Econômico",
+    "fonte": "Google News Acoes",
+    "publicado": "10/11 05:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A recuperação contínua do Ibovespa pode indicar um aumento do apetite por risco no mercado brasileiro. Se essa tendência se mantiver, pode haver um fluxo de capital mais positivo para a bolsa nas próximas semanas, especialmente se os indicadores macroeconômicos continuarem favoráveis.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794310276.2351553,
+    "titulo": "História mostra que Ibovespa dispara em meses seguintes a 'circuit breakers' - Valor Investe",
+    "titulo_original": "História mostra que Ibovespa dispara em meses seguintes a 'circuit breakers' - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "10/11 06:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O histórico de recuperação do Ibovespa após 'circuit breakers' sugere que o mercado pode ter resiliência e apresentar ganhos expressivos em períodos de instabilidade. Se um novo 'circuit breaker' ocorrer, essa tendência histórica pode se repetir, impulsionando o índice.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794310276.23662,
+    "titulo": "Agenda de empresas: Embraer tem lucro no trimestre e ajusta projeções; ganho da TIM recua 8%",
+    "titulo_original": "Agenda de empresas: Embraer tem lucro no trimestre e ajusta projeções; ganho da TIM recua 8%",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 08:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados trimestrais da Embraer, com elevação de projeções, podem ser um sinal positivo para o setor de aviação. A queda no lucro da TIM, apesar do aumento de faturamento, pode indicar pressão em margens. Os resultados da Copasa, Direcional e Brava Energia oferecem um panorama do setor de saneamento e construção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794310276.2381053,
+    "titulo": "Ações da Nvidia sobem nas principais Bolsas após perda de quase US$ 200 bilhões em um dia",
+    "titulo_original": "Ações da Nvidia sobem nas principais Bolsas após perda de quase US$ 200 bilhões em um dia",
+    "fonte": "Folha Mercado",
+    "publicado": "10/11 07:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das ações da Nvidia após perdas significativas pode indicar uma reação do mercado a notícias específicas da empresa, possivelmente com a precificação de um cenário menos adverso do que inicialmente temido. Se a investigação interna da Nvidia não revelar irregularidades graves, a tendência de alta pode se sustentar.",
+    "is_stocks": true
   }
 ]
