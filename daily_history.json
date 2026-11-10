@@ -1,86 +1,5 @@
 [
   {
-    "_timestamp": 1794230153.636705,
-    "titulo": "Dólar abre em queda com projeções de inflação e dados da balança comercial no radar - G1",
-    "titulo_original": "Dólar abre em queda com projeções de inflação e dados da balança comercial no radar - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/11 09:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar pode ser interpretada como uma reação a expectativas de inflação mais controlada ou a um desempenho positivo na balança comercial. Se os dados de inflação futuros confirmarem essa tendência, o Banco Central pode ter mais espaço para flexibilizar a política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794230159.2584062,
-    "titulo": "Dólar ronda a estabilidade e não segue tendência global de olho em riscos locais",
-    "titulo_original": "Dólar ronda a estabilidade e não segue tendência global de olho em riscos locais",
-    "fonte": "Valor Economico",
-    "publicado": "09/11 09:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A divergência do dólar brasileiro em relação à tendência global sugere que fatores domésticos, como a incerteza política ou econômica, estão pesando mais sobre a moeda. Se os riscos locais se materializarem, o dólar pode apresentar maior volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794230165.2557,
-    "titulo": "Juros futuros não firmam direção única com riscos locais e alívio no exterior",
-    "titulo_original": "Juros futuros não firmam direção única com riscos locais e alívio no exterior",
-    "fonte": "Valor Economico",
-    "publicado": "09/11 09:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A falta de uma direção única nos juros futuros reflete a disputa entre fatores externos positivos e riscos domésticos. Se os riscos locais se intensificarem, a pressão sobre as taxas de juros de longo prazo pode aumentar, afetando o custo de capital no país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794230170.873726,
-    "titulo": "Japão gastou o recorde de US$ 50 bilhões em um único dia para sustentar o iene em meio a pressões cambiais e de juros",
-    "titulo_original": "Japão gastou o recorde de US$ 50 bilhões em um único dia para sustentar o iene em meio a pressões cambiais e de juros",
-    "fonte": "Money Times",
-    "publicado": "09/11 09:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A intervenção massiva do Japão no câmbio sugere uma forte preocupação com a desvalorização do iene, possivelmente ligada a divergências de juros com outras economias. Se a pressão sobre o iene persistir, o Japão pode precisar de novas medidas, impactando fluxos de capital globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794230177.1850266,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "09/11 09:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": null,
-    "leitura_critica": "O acompanhamento em tempo real da cotação do dólar é fundamental para entender as flutuações diárias. Se a moeda apresentar movimentos bruscos, isso pode indicar reações a notícias ou eventos que ainda não foram totalmente precificados pelo mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794230177.1857078,
-    "titulo": "Governo prorroga Gás do Povo para até 19 de novembro de 2031",
-    "titulo_original": "Governo prorroga Gás do Povo para até 19 de novembro de 2031",
-    "fonte": "Valor Economico",
-    "publicado": "09/11 10:05",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A prorrogação do Auxílio Gás do Povo demonstra a continuidade de políticas de assistência social. Se a gestão fiscal futura mantiver programas similares, isso pode representar um custo contínuo para o orçamento público.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794237342.4460452,
     "titulo": "Empresas de capital aberto ampliam contribuição para economia do país em quase 10% em 2025, mostra estudo da FGV",
     "titulo_original": "Empresas de capital aberto ampliam contribuição para economia do país em quase 10% em 2025, mostra estudo da FGV",
@@ -1204,6 +1123,87 @@
     ],
     "origem": "externa",
     "leitura_critica": "A fala de Waller sobre um possível aumento de 50 bps nos juros dos EUA aumenta a incerteza sobre a política monetária americana. Se o Fed realmente optar por um aperto mais agressivo, isso pode impactar negativamente os mercados globais, incluindo o Bitcoin.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794342648.8683214,
+    "titulo": "BC é um médico responsável por tratar uma doença específica que precisa considerar os riscos de não agir, diz Galípolo",
+    "titulo_original": "BC é um médico responsável por tratar uma doença específica que precisa considerar os riscos de não agir, diz Galípolo",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 16:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A analogia do presidente do Banco Central com um médico tratando a inflação reforça a visão de que a autoridade monetária age para combater um problema específico, mesmo com riscos. Se a inflação persistir elevada, essa postura pode justificar a manutenção de juros altos por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794342653.3757038,
+    "titulo": "Dívida pública em reais não garante juros menores para o Brasil, diz Galípolo",
+    "titulo_original": "Dívida pública em reais não garante juros menores para o Brasil, diz Galípolo",
+    "fonte": "Folha Mercado",
+    "publicado": "10/11 16:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Galípolo de que a dívida em reais não garante juros menores sugere que outros fatores, como a percepção de risco e a política monetária, são determinantes. Se o mercado continuar a precificar um risco elevado, os juros podem permanecer altos mesmo com a dívida em moeda local.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794342657.848148,
+    "titulo": "'Sempre que alguém apresentar solução simples para problema complexo, desconfie', diz Galípolo",
+    "titulo_original": "'Sempre que alguém apresentar solução simples para problema complexo, desconfie', diz Galípolo",
+    "fonte": "Valor Economico",
+    "publicado": "10/11 16:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O alerta de Galípolo sobre soluções simples para problemas complexos, especialmente em relação a juros e câmbio, sugere que a política monetária continuará a ser abordada com cautela. Se o mercado buscar simplificações, o BC pode manter uma postura mais rigorosa para evitar erros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794342662.402299,
+    "titulo": "Vendas de soja perdem ritmo no Mato Grosso com queda dos preços internacionais",
+    "titulo_original": "Vendas de soja perdem ritmo no Mato Grosso com queda dos preços internacionais - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "10/11 14:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração nas vendas de soja em Mato Grosso, ligada à queda dos preços internacionais, pode impactar a receita dos produtores e a balança comercial brasileira. Se os preços internacionais continuarem em baixa, pode haver uma redução na área plantada na próxima safra.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794342667.8899403,
+    "titulo": "Nu Asset amplia aposta no exterior e lança ETFs globais com e sem proteção cambial",
+    "titulo_original": "Nu Asset amplia aposta no exterior e lança ETFs globais com e sem proteção cambial",
+    "fonte": "Money Times",
+    "publicado": "10/11 17:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento de ETFs globais pela Nu Asset indica uma estratégia de diversificação para investidores brasileiros e pode facilitar o fluxo de capital para mercados internacionais. Se a demanda por esses produtos for alta, pode sinalizar um apetite crescente por investimentos fora do Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794342667.8917558,
+    "titulo": "Pico do petróleo ameaça maior parte do investimento planejado pela Petrobras em novos campos até 2040, dizem organizações",
+    "titulo_original": "Pico do petróleo ameaça maior parte do investimento planejado pela Petrobras em novos campos até 2040, dizem organizações - eixos",
+    "fonte": "Google News Acoes",
+    "publicado": "10/11 15:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A ameaça do pico do petróleo aos investimentos da Petrobras levanta questões sobre a estratégia de longo prazo da empresa e a transição energética. Se a empresa não diversificar suas fontes de receita, pode enfrentar desafios significativos no futuro.",
     "is_stocks": true
   }
 ]
