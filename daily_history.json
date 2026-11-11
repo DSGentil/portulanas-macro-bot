@@ -770,5 +770,73 @@
     "origem": "externa",
     "leitura_critica": "O fechamento do mercado de títulos dos EUA pode limitar a liquidez e aumentar a volatilidade nos mercados de ações. A ressaca dos dados de CPI quentes ainda deve influenciar o sentimento do mercado, com investidores digerindo as implicações para a política monetária do Fed.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794402944.747893,
+    "titulo": "Analistas veem Selic em 13,75% até o fim de 2026 - Agrolink",
+    "titulo_original": "Analistas veem Selic em 13,75% até o fim de 2026 - Agrolink",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/11 07:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de Selic em 13,75% até o fim de 2026 indica uma expectativa de juros elevados por um período prolongado. Se a inflação ceder mais rapidamente do que o esperado, o Banco Central pode antecipar cortes na taxa básica de juros, alterando essa projeção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794402949.4696927,
+    "titulo": "IBGE: Produção da indústria de SP recua 3,8% em setembro e acumula perda de 8,3% em 5 meses",
+    "titulo_original": "IBGE: Produção da indústria de SP recua 3,8% em setembro e acumula perda de 8,3% em 5 meses",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 09:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A contínua retração da indústria paulista, que representa um terço do setor industrial nacional, é um sinal preocupante para a atividade econômica. Se os setores de derivados de petróleo e alimentos não apresentarem recuperação, o desempenho geral da indústria pode ser ainda mais afetado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794402959.3688462,
+    "titulo": "Poupança tem saída líquida de R$ 8,878 bilhões em outubro",
+    "titulo_original": "Poupança tem saída líquida de R$ 8,878 bilhões em outubro",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 09:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A saída líquida da poupança em outubro, a maior do ano, sugere que investidores buscam alternativas de maior rentabilidade. Se os juros continuarem altos, essa tendência de migração de recursos da poupança para outros investimentos pode se acentuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794402964.067455,
+    "titulo": "Quer investir em dólar e também aproveitar os juros altos locais? Conheça os ETFs com proteção cambial",
+    "titulo_original": "Quer investir em dólar e também aproveitar os juros altos locais? Conheça os ETFs com proteção cambial",
+    "fonte": "InvestNews",
+    "publicado": "11/11 05:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "ETFs com proteção cambial podem oferecer uma alternativa para diversificar investimentos em cenários de juros elevados e volatilidade cambial. Se a taxa de juros doméstica se mantiver alta, esses ETFs podem atrair mais investidores em busca de retornos atrativos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794402969.3881545,
+    "titulo": "País contou com aumento de 250 mil funcionários públicos municipais em 2025, diz IBGE",
+    "titulo_original": "País contou com aumento de 250 mil funcionários públicos municipais em 2025, diz IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento de funcionários públicos municipais pode indicar um movimento de expansão da máquina pública. Se esse crescimento se mantiver, pode haver um impacto nos gastos públicos e na arrecadação, dependendo da eficiência da gestão.",
+    "is_stocks": true
   }
 ]
