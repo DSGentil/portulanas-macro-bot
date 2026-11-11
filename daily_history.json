@@ -1,138 +1,5 @@
 [
   {
-    "_timestamp": 1794310254.1456711,
-    "titulo": "BC divulga ata do Copom para detalhar pausa nos cortes de juros - O GLOBO",
-    "titulo_original": "BC divulga ata do Copom para detalhar pausa nos cortes de juros - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/11 08:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ata do Copom pode fornecer insights cruciais sobre a visão do Banco Central para a inflação e a atividade econômica, influenciando as expectativas futuras sobre a Selic. Se a ata indicar preocupações com a inflação, isso pode reforçar a postura de juros altos por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794310258.748081,
-    "titulo": "Banco Central passa a divulgar lista de empresas aptas a operar com criptomoedas",
-    "titulo_original": "Banco Central passa a divulgar lista de empresas aptas a operar com criptomoedas",
-    "fonte": "Money Times",
-    "publicado": "10/11 08:27",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação dessa lista pelo Banco Central aumenta a transparência e a segurança para investidores no mercado de criptomoedas no Brasil. Se a lista for extensa e incluir grandes players, isso pode sinalizar um amadurecimento regulatório e potencial maior adoção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794310264.9233418,
-    "titulo": "Manhã no mercado: Ata do Copom e Waller, do Fed, concentram as atenções em dia de inflação nos EUA",
-    "titulo_original": "Manhã no mercado: Ata do Copom e Waller, do Fed, concentram as atenções em dia de inflação nos EUA",
-    "fonte": "Valor Economico",
-    "publicado": "10/11 07:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A ata do Copom pode detalhar os motivos por trás da decisão de manter a Selic, oferecendo pistas sobre o futuro da política monetária. Se Waller sinalizar uma postura mais hawkish do que o esperado, isso pode reforçar a expectativa de juros mais altos nos EUA, impactando o cenário global.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794310269.4141028,
-    "titulo": "Qual é a distribuição das previsões para o CPI dos EUA?",
-    "titulo_original": "What is the distribution of forecasts for the US CPI?",
-    "fonte": "ForexLive",
-    "publicado": "10/11 06:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Uma divulgação do CPI significativamente abaixo do consenso pode reforçar a probabilidade de o Fed não aumentar os juros em dezembro. Se, por outro lado, o dado vier acima do esperado, isso pode aumentar a pressão por uma alta mais agressiva, alterando as expectativas de mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794310276.2306514,
-    "titulo": "Ata do Copom, 6x1, gasolina, leilão de fábrica, taxa de luz, dólar, Ibovespa e mais economia 10.11 - GZH",
-    "titulo_original": "Ata do Copom, 6x1, gasolina, leilão de fábrica, taxa de luz, dólar, Ibovespa e mais economia 10.11 - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/11 07:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ata do Copom fornecerá detalhes sobre a decisão de política monetária, enquanto os preços da gasolina e a taxa de luz são indicadores relevantes de inflação. A dinâmica do dólar e do Ibovespa refletirá o sentimento do mercado em relação a esses fatores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794310276.2322435,
-    "titulo": "Prévia do CPI dos EUA: Wall Street vê inflação mais fria, mas o Fed pode não ceder",
-    "titulo_original": "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
-    "fonte": "ForexLive",
-    "publicado": "10/11 02:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Se o CPI vier abaixo do esperado, a probabilidade de o Fed manter os juros inalterados em dezembro pode aumentar. No entanto, se o banco central americano mantiver sua postura restritiva, mesmo com inflação mais baixa, isso pode gerar frustração no mercado e pressionar ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794310276.2337105,
-    "titulo": "Ibovespa tem mais um dia de recuperação e avança 2% - Valor Econômico",
-    "titulo_original": "Ibovespa tem mais um dia de recuperação e avança 2% - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "10/11 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A recuperação contínua do Ibovespa pode indicar um aumento do apetite por risco no mercado brasileiro. Se essa tendência se mantiver, pode haver um fluxo de capital mais positivo para a bolsa nas próximas semanas, especialmente se os indicadores macroeconômicos continuarem favoráveis.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794310276.2351553,
-    "titulo": "História mostra que Ibovespa dispara em meses seguintes a 'circuit breakers' - Valor Investe",
-    "titulo_original": "História mostra que Ibovespa dispara em meses seguintes a 'circuit breakers' - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "10/11 06:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O histórico de recuperação do Ibovespa após 'circuit breakers' sugere que o mercado pode ter resiliência e apresentar ganhos expressivos em períodos de instabilidade. Se um novo 'circuit breaker' ocorrer, essa tendência histórica pode se repetir, impulsionando o índice.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794310276.23662,
-    "titulo": "Agenda de empresas: Embraer tem lucro no trimestre e ajusta projeções; ganho da TIM recua 8%",
-    "titulo_original": "Agenda de empresas: Embraer tem lucro no trimestre e ajusta projeções; ganho da TIM recua 8%",
-    "fonte": "Valor Economico",
-    "publicado": "10/11 08:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Os resultados trimestrais da Embraer, com elevação de projeções, podem ser um sinal positivo para o setor de aviação. A queda no lucro da TIM, apesar do aumento de faturamento, pode indicar pressão em margens. Os resultados da Copasa, Direcional e Brava Energia oferecem um panorama do setor de saneamento e construção.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794310276.2381053,
-    "titulo": "Ações da Nvidia sobem nas principais Bolsas após perda de quase US$ 200 bilhões em um dia",
-    "titulo_original": "Ações da Nvidia sobem nas principais Bolsas após perda de quase US$ 200 bilhões em um dia",
-    "fonte": "Folha Mercado",
-    "publicado": "10/11 07:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recuperação das ações da Nvidia após perdas significativas pode indicar uma reação do mercado a notícias específicas da empresa, possivelmente com a precificação de um cenário menos adverso do que inicialmente temido. Se a investigação interna da Nvidia não revelar irregularidades graves, a tendência de alta pode se sustentar.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794316545.260822,
     "titulo": "Trump considera 'praticamente' terminada a guerra com o Irã após reunião com o Catar - Exame",
     "titulo_original": "Trump considera 'praticamente' terminada a guerra com o Irã após reunião com o Catar - Exame",
@@ -1129,6 +996,107 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A persistência dos saques de capital estrangeiro na B3 pode indicar uma percepção de risco elevada no mercado brasileiro ou uma busca por oportunidades em outros mercados. Se o fluxo de capital estrangeiro se reverter, com entradas significativas, isso pode impulsionar o desempenho da bolsa brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794421854.0634043,
+    "titulo": "Medidas fiscais terão impacto de cerca de R$ 60 bi e podem ser votadas hoje, diz ministro do Planejamento",
+    "titulo_original": "Medidas fiscais terão impacto de cerca de R$ 60 bi e podem ser votadas hoje, diz ministro do Planejamento",
+    "fonte": "Folha Mercado",
+    "publicado": "11/11 15:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A iminente votação de medidas fiscais com impacto significativo no orçamento pode alterar a percepção de risco fiscal do país. Se aprovadas, a consolidação fiscal pode ser vista como positiva; se houver adiamentos ou alterações substanciais, a incerteza sobre o quadro fiscal pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794421859.7065952,
+    "titulo": "A conta da demora fiscal",
+    "titulo_original": "A conta da demora fiscal",
+    "fonte": "Folha Mercado",
+    "publicado": "11/11 14:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aponta para riscos de recessão e inflação alta em 2027 devido à demora na resolução do desequilíbrio fiscal, o que já pressiona juros de longo prazo. Se as políticas fiscais não forem ajustadas, o cenário de inflação e juros elevados pode se concretizar; se houver um ajuste fiscal efetivo, a perspectiva de recessão e inflação alta pode ser mitigada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794421866.3094301,
+    "titulo": "El Niño pode \"esquentar\" a inflação para até 6% e travar a Selic",
+    "titulo_original": "El Niño pode \"esquentar\" a inflação para até 6% e travar a Selic - NeoFeed",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/11 12:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A previsão de que o El Niño pode elevar a inflação para até 6% sugere um cenário de pressão sobre os preços, o que pode levar o Banco Central a manter a Selic em patamares elevados. Se a inflação realmente atingir esse patamar, a manutenção da Selic seria provável; se os efeitos do El Niño forem menores que o esperado, a pressão inflacionária pode ser menor, abrindo espaço para discussões sobre corte de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794421871.752731,
+    "titulo": "O “dólar brasileiro” como alternativa à Selic elevada e à venda de reservas internacionais",
+    "titulo_original": "O “dólar brasileiro” como alternativa à Selic elevada e à venda de reservas internacionais - Diplomatique",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/11 14:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre o \"dólar brasileiro\" como alternativa à Selic elevada sugere uma análise de estratégias de investimento em um cenário de juros altos. Se essa alternativa se consolidar, pode impactar a demanda por instrumentos de renda fixa e a dinâmica cambial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794421878.2632008,
+    "titulo": "Sabesp muda conta de água para se adequar à reforma tributária; veja o que muda",
+    "titulo_original": "Sabesp muda conta de água para se adequar à reforma tributária; veja o que muda",
+    "fonte": "Folha Mercado",
+    "publicado": "11/11 14:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A mudança na conta de água da Sabesp para se adequar à reforma tributária demonstra a implementação prática das novas regras fiscais. A adaptação de empresas a novas legislações tributárias é um reflexo direto de decisões fiscais e regulatórias, indicando a transição para o novo sistema.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794421878.2650743,
+    "titulo": "Setores de aço e cimento vão receber R$ 81 milhões para reduzir emissão de CO2",
+    "titulo_original": "Setores de aço e cimento vão receber R$ 81 milhões para reduzir emissão de CO2",
+    "fonte": "Folha Mercado",
+    "publicado": "11/11 12:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O financiamento de R$ 81 milhões para projetos de redução de emissões de CO2 nos setores de aço e cimento representa uma iniciativa de política ambiental e industrial. Se esses projetos resultarem em novas tecnologias ou processos, podem impactar a competitividade e a estrutura de custos dessas indústrias, com possíveis reflexos na atividade econômica setorial.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794421878.2668517,
+    "titulo": "Venda de veículos cresce 16,1% no ano e Anfavea fala em discutir política para o setor com o governo reeleito",
+    "titulo_original": "Venda de veículos cresce 16,1% no ano e Anfavea fala em discutir política para o setor com o governo reeleito",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 13:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O crescimento nas vendas de veículos e a intenção da Anfavea de discutir políticas industriais com o governo indicam um diálogo entre o setor produtivo e o executivo sobre o futuro da indústria automotiva. Se novas políticas industriais forem implementadas, especialmente com incentivos fiscais, isso pode impactar a produção e o consumo do setor.",
     "is_stocks": true
   }
 ]
