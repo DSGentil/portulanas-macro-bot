@@ -838,5 +838,148 @@
     "origem": "domestica",
     "leitura_critica": "O aumento de funcionários públicos municipais pode indicar um movimento de expansão da máquina pública. Se esse crescimento se mantiver, pode haver um impacto nos gastos públicos e na arrecadação, dependendo da eficiência da gestão.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794410247.0919745,
+    "titulo": "Tesouro Direto hoje: prefixados e IPCA+ abrem em compasso de espera",
+    "titulo_original": "Tesouro Direto hoje: prefixados e IPCA+ abrem em compasso de espera",
+    "fonte": "InvestNews",
+    "publicado": "11/11 10:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O compasso de espera nos títulos do Tesouro Direto, com variações de poucos centésimos, pode refletir a ausência de novos dados ou decisões que movimentem o mercado de juros no curto prazo. Se o Banco Central sinalizar uma postura mais clara sobre a trajetória futura da Selic, isso poderá direcionar o comportamento desses papéis.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794410253.130409,
+    "titulo": "Produtores mantêm projeções de demanda e oferta de petróleo em 2026 e 2027",
+    "titulo_original": "Produtores mantém projeções de demanda e oferta de petróleo em 2026 e 2027 - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "11/11 11:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A manutenção das projeções de demanda e oferta de petróleo sugere que os produtores não antecipam grandes choques no mercado de commodities no médio prazo. Se houver revisões significativas nessas projeções no futuro, isso poderá impactar a inflação global e as decisões de política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794410262.8174477,
+    "titulo": "Petróleo sobe após sinalização do Irã e com ataques persistentes em Ormuz",
+    "titulo_original": "Petróleo sobe após sinalização do Irã e com ataques persistentes em Ormuz - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "11/11 09:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo, impulsionada por tensões geopolíticas envolvendo o Irã e ataques em Ormuz, pode gerar pressões inflacionárias e impactar os custos de produção em diversos setores. Se a instabilidade na região se intensificar, isso poderá levar a um aumento mais acentuado dos preços da commodity e afetar o fluxo de capital global.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794410270.836625,
+    "titulo": "“Instabilidade geopolítica veio para ficar”, mesmo após Trump, avalia Oliver Stuenkel",
+    "titulo_original": "“Instabilidade geopolítica veio para ficar”, mesmo após Trump, avalia Oliver Stuenkel",
+    "fonte": "Money Times",
+    "publicado": "11/11 11:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A avaliação de que a instabilidade geopolítica é permanente pode indicar um cenário de maior aversão ao risco nos mercados globais. Se essa percepção se consolidar, isso pode levar a uma maior demanda por ativos de refúgio e afetar o fluxo de capital para mercados emergentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794410278.42036,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com fiscal, balanços e exterior; PETR4 cai 3% - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com fiscal, balanços e exterior; PETR4 cai 3% - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "11/11 10:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A alta do Ibovespa, influenciada por fatores fiscais, sugere que o mercado está precificando positivamente as notícias relacionadas a políticas de ajuste fiscal. Se as medidas fiscais anunciadas se concretizarem e trouxerem resultados positivos para as contas públicas, isso pode sustentar a valorização da bolsa e atrair capital estrangeiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794410278.4217608,
+    "titulo": "Megagestoras relutam em retomar risco após derrocada eleitoral",
+    "titulo_original": "Megagestoras relutam em retomar risco após derrocada eleitoral",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 11:57",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A relutância de megagestoras em retomar o risco em ativos locais, devido à instabilidade pós-eleitoral e à valorização do dólar, indica uma saída de capital estrangeiro e uma expectativa de juros mais altos por mais tempo. Se a confiança dos investidores retornar e o cenário fiscal se estabilizar, isso poderá reverter o fluxo de capital e pressionar os juros para baixo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794410278.423018,
+    "titulo": "Ibovespa sobe, dólar e juros futuros caem com plano de ajuste fiscal de Lula no foco",
+    "titulo_original": "Ibovespa sobe, dólar e juros futuros caem com plano de ajuste fiscal de Lula no foco",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 11:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar e dos juros futuros, em conjunto com a alta do Ibovespa, sugere que o plano de ajuste fiscal está sendo bem recebido pelo mercado, aumentando a confiança e atraindo capital. Se as medidas fiscais forem eficazes na redução do déficit público, isso poderá consolidar a tendência de queda dos juros e atrair mais investimentos estrangeiros para o Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794410278.4242582,
+    "titulo": "S&P 500 e Nasdaq sobem com impulso de ações de tecnologia",
+    "titulo_original": "S&P 500 e Nasdaq sobem com impulso de ações de tecnologia",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 11:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do Nasdaq e S&P 500, impulsionada por ações de tecnologia, sugere um fluxo de capital para o setor de renda variável nos EUA. Se as preocupações com um Federal Reserve mais restritivo persistirem, isso pode limitar a valorização desses índices e sustentar um dólar mais forte globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794410278.4254978,
+    "titulo": "Amazon e Google podem ganhar bilhões de dólares com IPO da Anthropic",
+    "titulo_original": "Amazon e Google podem ganhar bilhões de dólares com IPO da Anthropic",
+    "fonte": "Folha Mercado",
+    "publicado": "11/11 11:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O evento de IPO da Anthropic, com potencial de movimentar bilhões, pode indicar um apetite por investimentos em tecnologia e IA. Se a demanda por ações de tecnologia se mantiver forte, isso pode influenciar o fluxo de capital para o setor de renda variável global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794410278.4267652,
+    "titulo": "Wall Street opera sem direção única com recuperação do setor tech e alta do petróleo",
+    "titulo_original": "Wall Street opera sem direção única com recuperação do setor tech e alta do petróleo",
+    "fonte": "Money Times",
+    "publicado": "11/11 12:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A falta de direção única em Wall Street, influenciada pela recuperação de ações de tecnologia e pela alta do petróleo, sugere um cenário de incerteza no mercado global. Se a alta do petróleo persistir, isso pode gerar pressões inflacionárias e impactar decisões de política monetária em outras economias.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794410278.4280274,
+    "titulo": "Bancos buscam ampliar IPO da Anthropic para US$ 1,5 trilhão",
+    "titulo_original": "Bancos buscam ampliar IPO da Anthropic para US$ 1,5 trilhão",
+    "fonte": "Folha Mercado",
+    "publicado": "11/11 10:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A potencial elevação do valor da IPO da Anthropic para US$ 1,5 trilhão, impulsionada pela demanda de investidores, reforça o interesse em empresas de inteligência artificial e pode atrair mais capital para o setor de tecnologia. Se essa tendência de investimento em IA se mantiver, pode haver um fluxo de capital significativo para empresas do setor.",
+    "is_stocks": true
   }
 ]
