@@ -1014,5 +1014,151 @@
     "origem": "domestica",
     "leitura_critica": "A perspectiva de dobrar o patrimônio em renda fixa é atraente, mas o alerta sobre volatilidade é crucial. Se as taxas de juros se mantiverem elevadas, a renda fixa pode ser uma opção rentável, mas a cautela na alocação será fundamental para mitigar riscos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794439975.3560412,
+    "titulo": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal - Agência Brasil",
+    "titulo_original": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/11 19:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de um pacote fiscal mais robusto contribuiu para a valorização do real frente ao dólar. Se o pacote fiscal for efetivamente implementado e gerar confiança, o real pode continuar sua trajetória de valorização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794439979.3971334,
+    "titulo": "Dólar à vista recua com expectativa de ajuste fiscal e real é a melhor moeda do dia - Valor Econômico",
+    "titulo_original": "Dólar à vista recua com expectativa de ajuste fiscal e real é a melhor moeda do dia - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "11/11 17:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de ajuste fiscal tem impulsionado o real, demonstrando a sensibilidade do mercado a sinais de responsabilidade fiscal. Se o ajuste fiscal for efetivamente implementado e gerar resultados concretos, o real pode continuar sua trajetória de valorização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794439983.4641826,
+    "titulo": "Relator do PLP do ajuste fiscal estima corte entre R$ 43 bi e R$ 54 bilhões em 2027",
+    "titulo_original": "Relator do PLP do ajuste fiscal estima corte entre R$ 43 bi e R$ 54 bilhões em 2027",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 19:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As estimativas de corte fiscal entre R$ 43 bilhões e R$ 54 bilhões em 2027 indicam um esforço do governo para equilibrar as contas públicas. Se o projeto for aprovado conforme o esperado, pode trazer maior previsibilidade fiscal; caso contrário, a incerteza pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794439987.5475466,
+    "titulo": "Petróleo sobe sem sinais concretos de progresso diplomático entre EUA e Irã - Valor Econômico",
+    "titulo_original": "Petróleo sobe sem sinais concretos de progresso diplomático entre EUA e Irã - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "11/11 17:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A falta de progresso diplomático entre EUA e Irã sustenta a alta do petróleo, refletindo a incerteza geopolítica. Se as tensões escalarem, o preço do petróleo pode continuar a subir; uma resolução diplomática, por outro lado, poderia levar a uma queda.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794439992.9037864,
+    "titulo": "Nvidia prepara destituição de Jensen Huang, diz jornal",
+    "titulo_original": "Nvidia prepara destituição de Jensen Huang, diz jornal",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 19:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Se a destituição de Jensen Huang for confirmada, isso pode gerar instabilidade na liderança da Nvidia e impactar a confiança dos investidores. A investigação em curso adiciona um elemento de incerteza sobre a governança corporativa da empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794439992.9056847,
+    "titulo": "Ações da Nvidia despencam após o horário de negociação com o New York Times relatando nova alegação de relacionamento de Jensen Huang",
+    "titulo_original": "Nvidia stock plunges after hours as New York Times reports new Jensen Huang relationship allegation",
+    "fonte": "ForexLive",
+    "publicado": "11/11 19:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A nova alegação de relacionamento pode adicionar um problema de governança corporativa à Nvidia, impactando o desempenho de suas ações. Se as alegações forem confirmadas, a empresa pode enfrentar maior escrutínio e pressão do conselho.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794439992.9074905,
+    "titulo": "Banco do Brasil tem queda de 66,5% no lucro com inadimplência do agronegócio",
+    "titulo_original": "Banco do Brasil tem queda de 66,5% no lucro com inadimplência do agronegócio",
+    "fonte": "Folha Mercado",
+    "publicado": "11/11 19:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A inadimplência no agronegócio impactou significativamente o lucro do Banco do Brasil, sinalizando desafios no setor. Se a tendência de inadimplência persistir, o banco pode precisar provisionar mais recursos, afetando resultados futuros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794439992.9092147,
+    "titulo": "Banco do Brasil (BBAS3) corta projeção de lucro pela metade e acende alerta com custo do crédito; veja o que aconteceu",
+    "titulo_original": "Banco do Brasil (BBAS3) corta projeção de lucro pela metade e acende alerta com custo do crédito; veja o que aconteceu",
+    "fonte": "Money Times",
+    "publicado": "11/11 20:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão para baixo da projeção de lucro do Banco do Brasil indica um cenário desafiador para a instituição, especialmente no que tange ao custo do crédito. Se as condições de mercado não melhorarem, o banco pode ter dificuldades em atingir até mesmo as novas metas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794439992.910997,
+    "titulo": "Entenda os problemas do Banco do Brasil com empréstimos ao agronegócio",
+    "titulo_original": "Entenda os problemas do Banco do Brasil com empréstimos ao agronegócio",
+    "fonte": "Folha Mercado",
+    "publicado": "11/11 19:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A inadimplência no agronegócio representa um risco significativo para o Banco do Brasil, afetando diretamente seus resultados. Se as condições climáticas ou de mercado piorarem para os produtores rurais, a situação pode se agravar, exigindo maiores provisões do banco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794439992.9128268,
+    "titulo": "Impulsionada pela Ipiranga, Ultrapar lucra R$ 2,7 bilhões no 3º trimestre",
+    "titulo_original": "Impulsionada pela Ipiranga, Ultrapar lucra R$ 2,7 bilhões no 3º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "11/11 19:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O forte lucro da Ultrapar, impulsionado pela Ipiranga e créditos fiscais, demonstra resiliência operacional. Se os créditos fiscais extraordinários forem um evento pontual, a sustentabilidade do lucro dependerá do desempenho operacional contínuo da Ipiranga.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794439992.9146683,
+    "titulo": "Wall Street fecha em alta com impulso do setor de tecnologia após balanço da CoreWeave",
+    "titulo_original": "Wall Street fecha em alta com impulso do setor de tecnologia após balanço da CoreWeave",
+    "fonte": "Money Times",
+    "publicado": "11/11 19:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O desempenho positivo de Wall Street, liderado pelo setor de tecnologia, sugere um otimismo pontual no mercado. Se os resultados de outras empresas de tecnologia seguirem essa linha, o setor pode continuar a impulsionar os índices; caso contrário, a tendência pode reverter.",
+    "is_stocks": true
   }
 ]
