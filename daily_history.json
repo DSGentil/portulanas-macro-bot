@@ -1,128 +1,5 @@
 [
   {
-    "_timestamp": 1794396651.4024496,
-    "titulo": "Câmara aprova MP da renegociação das dívidas rurais; texto segue para Senado",
-    "titulo_original": "Câmara aprova MP da renegociação das dívidas rurais; texto segue para Senado",
-    "fonte": "Money Times",
-    "publicado": "11/11 08:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação da MP da renegociação das dívidas rurais pela Câmara representa um passo importante na legislação. O desfecho no Senado será crucial para determinar o impacto final sobre o setor e a política fiscal relacionada ao agronegócio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794396655.3609502,
-    "titulo": "Fim da escala 6x1 pode pressionar reajuste das escolas particulares para 2027; entenda motivos",
-    "titulo_original": "Fim da escala 6x1 pode pressionar reajuste das escolas particulares para 2027; entenda motivos",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 04:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A mudança na escala de trabalho pode ter um impacto direto nos custos operacionais das escolas particulares, refletindo-se nos reajustes de mensalidades. A magnitude desse impacto dependerá da implementação e das estratégias adotadas pelas instituições de ensino.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794396660.6658792,
-    "titulo": "Dólar sobe para R$ 5,586 com ata do Copom e inflação nos EUA",
-    "titulo_original": "Dólar sobe para R$ 5,586 com ata do Copom e inflação nos EUA - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/11 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar reflete a cautela do mercado com a política monetária brasileira, indicada pela ata do Copom, e a pressão externa vinda da inflação nos EUA. Se a ata do Copom sinalizar um viés mais duro para a política monetária, isso pode sustentar o dólar em patamares elevados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794396664.658349,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "11/11 04:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A ausência de dados econômicos chave nos EUA e o fechamento do mercado de títulos podem levar a um dia de negociação volátil, com os mercados ainda digerindo os dados de inflação recentes. A possibilidade de uma alta de juros mais agressiva pelo Fed, mencionada por um dirigente, continuará sendo um ponto de atenção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794396670.4659035,
-    "titulo": "Agenda de empresas: Lucro da Petrobras soma R$ 39,7 bilhões; ganho da Telefônica cresce 30%",
-    "titulo_original": "Agenda de empresas: Lucro da Petrobras soma R$ 39,7 bilhões; ganho da Telefônica cresce 30%",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 08:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Os resultados trimestrais da Petrobras e da Telefônica Brasil indicam um desempenho corporativo positivo, com a estatal de petróleo elevando projeções de produção e investimentos. A análise desses resultados pode fornecer insights sobre a saúde de setores específicos da economia brasileira, mas não implica diretamente em movimentos de mercado macro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794396670.467263,
-    "titulo": "Ações da Nvidia têm forte alta e chegam a subir mais de 5% após perderem US$ 428 bilhões",
-    "titulo_original": "Ações da Nvidia têm forte alta e chegam a subir mais de 5% após perderem US$ 428 bilhões",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 07:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recuperação das ações da Nvidia após dias de queda sugere uma possível estabilização ou reversão de sentimento no setor de tecnologia. No entanto, a magnitude e sustentabilidade dessa alta dependerão de fatores macroeconômicos e do desempenho futuro da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794396670.4685621,
-    "titulo": "Petrobras aumenta previsões de produção e investimentos e indica o que esperar no próximo plano",
-    "titulo_original": "Petrobras aumenta previsões de produção e investimentos e indica o que esperar no próximo plano - eixos",
-    "fonte": "Google News Acoes",
-    "publicado": "11/11 07:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento das previsões de produção e investimentos pela Petrobras sugere uma perspectiva otimista da empresa em relação ao seu futuro e ao setor de energia. A clareza sobre o próximo plano estratégico pode oferecer mais visibilidade sobre os direcionamentos da companhia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794396670.4698126,
-    "titulo": "Agenda do dia: Fala de Galípolo e dado de serviços são destaque",
-    "titulo_original": "Agenda do dia: Fala de Galípolo e dado de serviços são destaque",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 07:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A fala de Gabriel Galípolo é um ponto de atenção para o mercado em busca de sinais sobre a política monetária. A divulgação do dado de serviços e do IGP-M fornecerá mais elementos para a análise do cenário econômico brasileiro. Se a fala de Galípolo reforçar um viés mais duro, isso pode impactar as expectativas de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794396670.4711983,
-    "titulo": "Atenção: Mercado de títulos dos EUA fechado para o Dia dos Veteranos, enquanto ações enfrentam ressaca de CPI quente",
-    "titulo_original": "Heads up: US bond market closed for Veterans Day as stocks face a hot CPI hangover",
-    "fonte": "ForexLive",
-    "publicado": "11/11 03:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O fechamento do mercado de títulos dos EUA pode limitar a liquidez e aumentar a volatilidade nos mercados de ações. A ressaca dos dados de CPI quentes ainda deve influenciar o sentimento do mercado, com investidores digerindo as implicações para a política monetária do Fed.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794402944.747893,
     "titulo": "Analistas veem Selic em 13,75% até o fim de 2026 - Agrolink",
     "titulo_original": "Analistas veem Selic em 13,75% até o fim de 2026 - Agrolink",
@@ -1370,6 +1247,142 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A notícia descreve um movimento atípico no mercado de ações da Hapvida, com alta expressiva mesmo diante de queda no lucro. Embora seja um fato relevante para o mercado acionário, não há conexão explícita com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital que justifique uma relevância macroeconômica para o mercado de WDO.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794508245.6775749,
+    "titulo": "UBS vê alta da Selic como ‘extremamente improvável’ até 2027 - Valor Investe",
+    "titulo_original": "UBS vê alta da Selic como ‘extremamente improvável’ até 2027 - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/11 12:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A visão do UBS de que uma alta da Selic é improvável até 2027 sugere um cenário de estabilidade ou queda da taxa de juros no Brasil no médio prazo. Se o Banco Central confirmar essa perspectiva em suas comunicações futuras, isso pode sustentar um ambiente de crédito mais favorável e incentivar investimentos de maior risco; caso contrário, uma mudança abrupta nesse cenário indicaria pressões inflacionárias ou fiscais inesperadas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794508249.580779,
+    "titulo": "A alta do dólar e os impactos nos preços — Rádio Universidade FM - Universidade Federal do Maranhão",
+    "titulo_original": "A alta do dólar e os impactos nos preços — Rádio Universidade FM - Universidade Federal do Maranhão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/11 15:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre a alta do dólar e seus impactos nos preços é relevante para a análise inflacionária. Se a valorização do dólar persistir, isso pode pressionar a inflação de bens importados e, consequentemente, o índice geral de preços; caso contrário, uma reversão na tendência de alta do dólar pode aliviar pressões inflacionárias e favorecer a manutenção da estabilidade de preços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794508253.476235,
+    "titulo": "Direito e Selic - CartaCapital",
+    "titulo_original": "Direito e Selic - CartaCapital",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/11 14:44",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda a intersecção entre o campo jurídico e a taxa Selic. Se a discussão se aprofundar em como decisões judiciais ou mudanças na legislação podem impactar a política monetária ou a percepção de risco em relação à Selic, isso pode gerar cenários de incerteza; caso contrário, a análise tende a ser mais teórica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794508257.3139315,
+    "titulo": "Trump: Não precisamos de um acordo com o Irã",
+    "titulo_original": "Trump: We don’t need a deal with Iran",
+    "fonte": "ForexLive",
+    "publicado": "12/11 10:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sobre o Irã e a menção à corrupção interna nos EUA impactaram negativamente os futures do S&P 500. Se a retórica de Trump sobre a política externa e as questões internas americanas se intensificar, isso pode gerar maior volatilidade nos mercados globais, especialmente se houver percepção de aumento de riscos geopolíticos ou de instabilidade política interna nos EUA.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794508262.8929229,
+    "titulo": "Ibovespa cai e dólar salta, com pacote fiscal mal recebido - Valor Investe",
+    "titulo_original": "Ibovespa cai e dólar salta, com pacote fiscal mal recebido - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/11 13:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reação negativa do mercado ao pacote fiscal, com queda do Ibovespa e alta do dólar, indica preocupações com a sustentabilidade das contas públicas. Se as medidas fiscais propostas não forem suficientes para gerar confiança, o cenário de juros mais altos e menor investimento pode se prolongar; por outro lado, se houver ajustes que melhorem a percepção de risco fiscal, o mercado pode reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794508262.894798,
+    "titulo": "Sem disputa, Conasa repactua concessão da BR-163 e terá de investir R$ 10,6 bi na rodovia",
+    "titulo_original": "Sem disputa, Conasa repactua concessão da BR-163 e terá de investir R$ 10,6 bi na rodovia",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 15:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A repactuação da concessão da BR-163 pela Conasa, com um vultoso investimento em infraestrutura, representa uma decisão regulatória concreta com impacto no setor de transportes. Se o cronograma de investimentos for cumprido, isso pode otimizar o fluxo logístico e reduzir custos de transporte no país; caso contrário, atrasos podem comprometer a eficiência da rota e gerar questionamentos sobre a gestão do contrato.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794508262.8966475,
+    "titulo": "Sem concorrentes, Conasa arremata Rota Arco Norte, que liga Mato Grosso ao Pará",
+    "titulo_original": "Sem concorrentes, Conasa arremata Rota Arco Norte, que liga Mato Grosso ao Pará",
+    "fonte": "Folha Mercado",
+    "publicado": "12/11 14:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O arremate da Rota Arco Norte pela Conasa em um leilão sem concorrência reforça a decisão regulatória de concessão de infraestrutura. Se a operação da rodovia pela Conasa for eficiente e os investimentos prometidos forem realizados, isso pode melhorar a logística e reduzir custos de transporte; caso contrário, a falta de concorrência pode levantar questões sobre a competitividade do processo e o valor justo do contrato.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794508262.898389,
+    "titulo": "B3 compra 40% da empresa de índices IDEX de olho em demanda de ETFs de renda fixa",
+    "titulo_original": "B3 compra 40% da empresa de índices IDEX de olho em demanda de ETFs de renda fixa",
+    "fonte": "InvestNews",
+    "publicado": "12/11 09:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aquisição de participação na IDEX pela B3 demonstra um movimento estratégico para capitalizar sobre a crescente demanda por ETFs de renda fixa. Se a expansão do mercado de ETFs de renda fixa continuar, isso pode atrair mais capital estrangeiro para o mercado de renda fixa brasileiro, aumentando a liquidez e potencialmente reduzindo custos de captação para emissores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794508262.9001572,
+    "titulo": "Análise: Viés eleitoral do agronegócio pode ter influenciado a inadimplência do BB?",
+    "titulo_original": "Análise: Viés eleitoral do agronegócio pode ter influenciado a inadimplência do BB?",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 15:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise levanta a possibilidade de fatores políticos terem influenciado a inadimplência no agronegócio, além de causas econômicas como juros altos e queda de commodities. Se houver evidências de que decisões de crédito foram pautadas por viés político, isso pode indicar fragilidades na governança do Banco do Brasil e gerar desconfiança sobre a gestão de riscos; caso contrário, a inadimplência pode ser atribuída puramente a fatores de mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794508262.901884,
+    "titulo": "Petrobras avalia alterar regras para atender política de preços de combustíveis",
+    "titulo_original": "Petrobras avalia alterar regras para atender política de preços de combustíveis",
+    "fonte": "Money Times",
+    "publicado": "12/11 13:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação da Petrobras em alterar suas regras de precificação de combustíveis, em resposta ao cenário geopolítico, pode indicar uma maior flexibilidade ou uma tentativa de mitigar impactos de volatilidade. Se a empresa decidir por uma política de preços mais alinhada às flutuações internacionais, isso pode gerar maior volatilidade nos preços internos; caso contrário, uma manutenção da política atual pode ser vista como um sinal de estabilidade, mas com riscos de perdas.",
     "is_stocks": true
   }
 ]
