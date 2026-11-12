@@ -1155,5 +1155,88 @@
     "origem": "domestica",
     "leitura_critica": "A revisão da oferta do Santander da Espanha visa tornar a aquisição da unidade brasileira mais atrativa para os acionistas. O sucesso da OPA pode consolidar a estrutura acionária do banco no Brasil e impactar a liquidez das ações remanescentes.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794496757.3345723,
+    "titulo": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
+    "titulo_original": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
+    "fonte": "Folha Mercado",
+    "publicado": "12/11 11:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta na inflação de alimentos pressiona o índice geral de preços, o que pode levar o Banco Central a manter uma postura mais cautelosa em relação à política monetária. Se os problemas climáticos persistirem, a pressão sobre os preços dos alimentos pode continuar, impactando o poder de compra da população.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794496762.5551631,
+    "titulo": "Congresso aprova proposta que permite emissão de títulos da dívida pública para financiar benefícios sociais",
+    "titulo_original": "Congresso aprova proposta que permite emissão de títulos da dívida pública para financiar benefícios sociais",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 12:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação de um projeto de lei que permite a emissão de títulos da dívida pública para financiar benefícios sociais representa uma decisão fiscal concreta. Se o governo captar todo o valor autorizado, isso pode aumentar a dívida pública. A forma como essa dívida será gerida e o impacto no cenário fiscal serão cruciais para a percepção de risco do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794496767.506188,
+    "titulo": "Setubal, da Itaúsa, vê cenário econômico mais difícil em 2027, com risco de estagnação ou recessão",
+    "titulo_original": "Setubal, da Itaúsa, vê cenário econômico mais difícil em 2027, com risco de estagnação ou recessão",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 11:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de um cenário econômico mais difícil, com risco de estagnação ou recessão, feita por um executivo de peso como o presidente da Itaúsa, sugere que as taxas de juros podem permanecer elevadas por mais tempo. Se a atividade econômica desacelerar significativamente, isso pode impactar o mercado de trabalho. A persistência de juros altos e a desaceleração da atividade são fatores que merecem atenção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794496772.6539602,
+    "titulo": "Governo calcula esforço de R$ 46 bi a R$ 56 bi em 2027 com plano de ajuste; veja os impactos",
+    "titulo_original": "Governo calcula esforço de R$ 46 bi a R$ 56 bi em 2027 com plano de ajuste; veja os impactos",
+    "fonte": "Folha Mercado",
+    "publicado": "12/11 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia detalha o esforço fiscal que o governo pretende realizar em 2027. Se o plano for implementado conforme o previsto, pode haver uma redução do déficit primário, o que seria positivo para a percepção de risco fiscal. No entanto, a magnitude do esforço e a forma como ele será alcançado são cruciais para determinar seu impacto real.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794496778.4196613,
+    "titulo": "Presidente do BB diz que banco atravessa pior crise da história no agronegócio; ações caem mais de 9%",
+    "titulo_original": "Presidente do BB diz que banco atravessa pior crise da história no agronegócio; ações caem mais de 9%",
+    "fonte": "Folha Mercado",
+    "publicado": "12/11 10:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A crise no agronegócio mencionada pelo presidente do BB e as perdas com empréstimos podem indicar um cenário de maior dificuldade para o setor, o que pode ter reflexos na atividade econômica geral e no mercado de crédito. Se essa crise se aprofundar, pode haver impacto no emprego e na demanda por bens e serviços.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794496778.4214275,
+    "titulo": "Lula discute guerra e Estreito de Ormuz com presidente do Irã; veja balanço das reuniões na COP31",
+    "titulo_original": "Lula discute guerra e Estreito de Ormuz com presidente do Irã; veja balanço das reuniões na COP31 - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "12/11 10:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia aborda discussões diplomáticas de alto nível que podem ter implicações geopolíticas. Embora não afete diretamente os canais macroeconômicos listados, tensões em rotas marítimas importantes como o Estreito de Ormuz podem, em cenários extremos, impactar o comércio global e os preços de commodities, o que, por sua vez, poderia ter reflexos secundários na inflação ou atividade econômica.",
+    "is_stocks": true
   }
 ]
