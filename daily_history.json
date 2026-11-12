@@ -1,154 +1,5 @@
 [
   {
-    "_timestamp": 1794415547.927307,
-    "titulo": "Dólar recua após salto da véspera, de olho em possível ajuste fiscal - Valor Econômico",
-    "titulo_original": "Dólar recua após salto da véspera, de olho em possível ajuste fiscal - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/11 09:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de um ajuste fiscal pode estar influenciando a valorização do real e, consequentemente, a queda do dólar. Se o governo anunciar medidas concretas de ajuste fiscal que sejam críveis, isso pode sustentar a tendência de valorização da moeda brasileira; caso contrário, o dólar pode retomar sua alta.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794415551.9479303,
-    "titulo": "Bitcoin enfraquece para US$ 73,6 mil com dados de CPI quentes impulsionando apostas de alta de juros",
-    "titulo_original": "Bitcoin weakens to $73.6k as hot CPI data spurs rate hike bets",
-    "fonte": "Investing.com",
-    "publicado": "11/11 11:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Se os próximos dados de inflação continuarem a surpreender para cima, o Fed pode adiar o início do ciclo de cortes de juros, pressionando ainda mais ativos de risco como o Bitcoin. Caso a inflação ceda nas próximas divulgações, o cenário para uma reversão na política monetária pode se reabrir, favorecendo a criptomoeda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794415557.2343917,
-    "titulo": "Bitcoin recua para US$ 73,6 mil com apostas de alta de juros do Fed e saídas de ETFs - Valor Econômico",
-    "titulo_original": "Bitcoin recua para US$ 73,6 mil com apostas de alta de juros do Fed e saídas de ETFs - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/11 10:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A combinação de expectativas de juros mais altos e a saída de capital de ETFs de criptoativos reforça a pressão vendedora sobre o Bitcoin. Se o Fed sinalizar um corte de juros mais próximo, ou se houver um fluxo de entrada em ETFs, o cenário para uma recuperação do Bitcoin se tornaria mais favorável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794415561.301803,
-    "titulo": "Alemanha deixará de usar drones da China por preocupações com segurança",
-    "titulo_original": "Alemanha deixará de usar drones da China por preocupações com segurança",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 13:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A decisão da Alemanha de abandonar drones chineses reflete uma tendência de maior escrutínio sobre a tecnologia de origem chinesa em países ocidentais. Se essa tendência se intensificar, pode haver um impacto na cadeia de suprimentos de tecnologia e nas relações comerciais entre China e o Ocidente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794415570.8610091,
-    "titulo": "Telefônica vê viabilidade para reajustar preços mesmo com inflação mais alta e reforma tributária",
-    "titulo_original": "Telefônica vê viabilidade para reajustar preços mesmo com inflação mais alta e reforma tributária",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 13:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A capacidade da Telefônica de repassar custos via reajuste de preços sugere que a empresa pode ter mais resiliência a choques inflacionários do que outros setores. Se a reforma tributária apresentar desdobramentos mais complexos do que o previsto, a projeção de impacto neutro pode ser desafiada, exigindo monitoramento das próximas atualizações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794415570.862743,
-    "titulo": "Sessão europeia da Investing.com: Ações em alta, dólar sobe enquanto mercado de títulos fica de fora da ação pós-CPI",
-    "titulo_original": "investingLive European session wrap: Stocks rally, dollar climbs as bond market sits out post-CPI action",
-    "fonte": "ForexLive",
-    "publicado": "11/11 09:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A força do dólar e a alta das ações, apesar do receio inflacionário, podem indicar uma busca por ativos considerados mais seguros em meio à incerteza. Se o mercado de títulos reabrir com a precificação de juros mais altos, isso pode reverter o movimento de alta das ações e pressionar o dólar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794415570.8644223,
-    "titulo": "Ações do Magalu sobem mais de 20% em dois dias com crise da Casas Bahia no radar",
-    "titulo_original": "Ações do Magalu sobem mais de 20% em dois dias com crise da Casas Bahia no radar",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 13:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A valorização das ações do Magalu sugere que o mercado está precificando um cenário de consolidação no varejo, onde a empresa pode se beneficiar da fragilidade de concorrentes. Se o cenário de juros elevados persistir por mais tempo, o impacto no consumo pode limitar o potencial de recuperação do setor como um todo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794415570.866109,
-    "titulo": "Petrobras (PETR4) eleva projeções de produção e Capex para 2026 - Suno - Investimentos Inteligentes",
-    "titulo_original": "Petrobras (PETR4) eleva projeções de produção e Capex para 2026 - Suno - Investimentos Inteligentes",
-    "fonte": "Google News Acoes",
-    "publicado": "11/11 10:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do Capex pode indicar uma estratégia de investimento mais agressiva da Petrobras para o futuro. Se esses investimentos se traduzirem em aumento de produção e eficiência, isso pode ser positivo para a empresa a longo prazo; caso contrário, pode gerar preocupações sobre a alocação de capital.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794415570.867801,
-    "titulo": "Alta de investimentos da Petrobras preocupa mercado, e ações caem",
-    "titulo_original": "Alta de investimentos da Petrobras preocupa mercado, e ações caem",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 13:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A preocupação do mercado com a queda nos dividendos futuros em decorrência do aumento do Capex da Petrobras sugere uma preferência por distribuição de lucros no curto prazo. Se a empresa conseguir demonstrar que os investimentos aumentarão a rentabilidade futura, a percepção do mercado pode mudar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794415570.8694694,
-    "titulo": "Petrobras (PETR4) aprova R$ 15,3 bilhões em proventos; veja valor por ação e datas - Suno - Investimentos Inteligentes",
-    "titulo_original": "Petrobras (PETR4) aprova R$ 15,3 bilhões em proventos; veja valor por ação e datas - Suno - Investimentos Inteligentes",
-    "fonte": "Google News Acoes",
-    "publicado": "11/11 11:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de R$ 15,3 bilhões em proventos pela Petrobras é um sinal positivo para os acionistas que buscam retorno financeiro. Se a empresa mantiver essa política de distribuição de lucros mesmo com o aumento do Capex, isso pode mitigar as preocupações do mercado sobre os dividendos futuros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794415570.87118,
-    "titulo": "Estrangeiros completam 12 pregões de saques na B3; saída no mês soma R$ 4,3 bilhões - Valor Econômico",
-    "titulo_original": "Estrangeiros completam 12 pregões de saques na B3; saída no mês soma R$ 4,3 bilhões - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "11/11 11:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistência dos saques de capital estrangeiro na B3 pode indicar uma percepção de risco elevada no mercado brasileiro ou uma busca por oportunidades em outros mercados. Se o fluxo de capital estrangeiro se reverter, com entradas significativas, isso pode impulsionar o desempenho da bolsa brasileira.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794421854.0634043,
     "titulo": "Medidas fiscais terão impacto de cerca de R$ 60 bi e podem ser votadas hoje, diz ministro do Planejamento",
     "titulo_original": "Medidas fiscais terão impacto de cerca de R$ 60 bi e podem ser votadas hoje, diz ministro do Planejamento",
@@ -1314,6 +1165,73 @@
     ],
     "origem": "externa",
     "leitura_critica": "A queda nas bolsas de Nova York, influenciada pela crise na Nvidia e pela cautela do Fed, sugere um cenário de incerteza no mercado financeiro. Se as declarações do Fed indicarem uma manutenção da política monetária restritiva, as bolsas podem continuar sob pressão; caso contrário, uma recuperação pode ocorrer.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794526252.0979476,
+    "titulo": "Petróleo Brent sobe 3,3% com tensões no Oriente Médio - SBT News",
+    "titulo_original": "Petróleo Brent sobe 3,3% com tensões no Oriente Médio - SBT News",
+    "fonte": "Google News Commodities",
+    "publicado": "12/11 18:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento do preço do petróleo Brent, impulsionado por tensões geopolíticas, pode gerar pressões inflacionárias globais. Se o conflito se intensificar, o barril pode continuar a subir, impactando custos de produção e transporte em diversos setores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794526318.337401,
+    "titulo": "Estoque de renda fixa na B3 supera R$ 10 tri pela primeira vez",
+    "titulo_original": "Estoque de renda fixa na B3 supera R$ 10 tri pela primeira vez",
+    "fonte": "Folha Mercado",
+    "publicado": "12/11 19:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O marco de R$ 10 trilhões em renda fixa na B3 indica um forte interesse dos investidores por ativos de menor risco. Se essa tendência se mantiver, pode haver uma consolidação do capital em renda fixa, com potenciais impactos na liquidez para outros mercados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794526318.3394713,
+    "titulo": "PMI manufatureiro da Nova Zelândia diminui para 54,9 em outubro, mas estende a corrida de expansão para 16 meses",
+    "titulo_original": "NZ manufacturing PMI eases to 54.9 in October but extends expansion run to 16 months",
+    "fonte": "ForexLive",
+    "publicado": "12/11 18:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Apesar da leve queda, o PMI acima de 50 sugere continuidade da recuperação econômica neozelandesa, o que pode manter o Banco de Reserva da Nova Zelândia (RBNZ) cauteloso em relação a cortes de juros. Se a incerteza eleitoral persistir, pode haver um impacto negativo nas decisões de investimento das empresas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794526318.3414688,
+    "titulo": "Conselho da Braskem discute novas propostas de credores nesta quinta (12)",
+    "titulo_original": "Conselho da Braskem discute novas propostas de credores nesta quinta (12)",
+    "fonte": "Folha Mercado",
+    "publicado": "12/11 14:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A discussão de novas propostas de credores pela Braskem indica um avanço no processo de reestruturação de sua dívida. Se um acordo for alcançado, isso pode trazer mais clareza sobre o futuro da empresa; caso contrário, a incerteza pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794526318.3434117,
+    "titulo": "MRV espera vendas mais fortes e benefício com reforma tributária e mudança de jornada",
+    "titulo_original": "MRV espera vendas mais fortes e benefício com reforma tributária e mudança de jornada",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 19:52",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa da MRV em relação à reforma tributária e mudanças na jornada de trabalho sugere um otimismo com o ambiente regulatório e econômico. Se essas medidas trouxerem os benefícios esperados, a empresa pode ver um impulso nas suas vendas.",
     "is_stocks": true
   }
 ]
