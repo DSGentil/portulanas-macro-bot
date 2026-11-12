@@ -1,293 +1,5 @@
 [
   {
-    "_timestamp": 1794335450.9090073,
-    "titulo": "Ata do Copom aponta 4 riscos à inflação e joga pressão sobre gastos do governo",
-    "titulo_original": "Ata do Copom aponta 4 riscos à inflação e joga pressão sobre gastos do governo - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "10/11 11:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A menção de 4 riscos à inflação na ata do Copom reforça a cautela do Banco Central e pode justificar a manutenção de juros em patamares elevados. Se o governo não apresentar um plano claro para controlar os gastos, a pressão inflacionária pode persistir, levando a novas altas de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794335456.006029,
-    "titulo": "Receita Estadual e Ministério Público deflagram operação contra fraude fiscal na comercialização de soja",
-    "titulo_original": "Receita Estadual e Ministério Público deflagram operação contra fraude fiscal na comercialização de soja - Portal do Estado do Rio Grande do Sul",
-    "fonte": "Google News Commodities",
-    "publicado": "10/11 11:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A operação contra fraude fiscal na comercialização de soja demonstra um esforço para coibir irregularidades tributárias no agronegócio. Se a ação resultar em recuperação de impostos e em maior conformidade fiscal, isso pode ter um efeito positivo na arrecadação estadual.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794335460.957299,
-    "titulo": "Franklin Templeton vê continuidade com Lula 4 e corta risco",
-    "titulo_original": "Franklin Templeton vê continuidade com Lula 4 e corta risco",
-    "fonte": "Valor Economico",
-    "publicado": "10/11 14:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de continuidade na política econômica do governo Lula, com ajustes fiscais moderados, pode sustentar juros em patamares elevados por mais tempo. Se o governo apresentar um plano fiscal mais robusto do que o esperado, isso poderia abrir espaço para uma queda mais rápida dos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794335466.3394644,
-    "titulo": "Dólar dispara e Bolsa cai após ata do Copom e inflação acima do esperado nos EUA",
-    "titulo_original": "Dólar dispara e Bolsa cai após ata do Copom e inflação acima do esperado nos EUA",
-    "fonte": "Folha Mercado",
-    "publicado": "10/11 09:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A ata do Copom indicando riscos à inflação e a inflação nos EUA acima do esperado reforçam a pressão sobre o dólar e a queda da bolsa. Se os próximos dados de inflação nos EUA vierem abaixo do esperado, isso pode aliviar a pressão sobre o Banco Central brasileiro e reverter parte da queda da bolsa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794335472.1823719,
-    "titulo": "US October core CPI +0.3% vs +0.2% expected",
-    "titulo_original": "US October core CPI +0.3% vs +0.2% expected",
-    "fonte": "ForexLive",
-    "publicado": "10/11 10:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de inflação subjacente nos EUA acima do esperado sugere que as pressões inflacionárias podem persistir, o que pode levar o Federal Reserve a manter uma postura mais restritiva por mais tempo. Se a inflação geral começar a ceder consistentemente nos próximos meses, isso pode abrir espaço para o Fed sinalizar um fim do ciclo de alta de juros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794335472.184099,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e dólar dispara 1%",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e dólar dispara 1% - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "10/11 12:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A virada do Ibovespa para queda e a alta do dólar indicam uma aversão ao risco no mercado brasileiro. Se os fatores que impulsionam a queda, como a ata do Copom e dados externos, persistirem, a tendência de baixa na bolsa pode se acentuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794335472.1856918,
-    "titulo": "European news wrap: Fed's Waller floats case for 50 bps hike in December",
-    "titulo_original": "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in December",
-    "fonte": "ForexLive",
-    "publicado": "10/11 09:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A fala de Waller sobre um possível aumento de 50 bps nos juros dos EUA aumenta a incerteza sobre a política monetária americana. Se o Fed realmente optar por um aperto mais agressivo, isso pode impactar negativamente os mercados globais, incluindo o Bitcoin.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794342648.8683214,
-    "titulo": "BC é um médico responsável por tratar uma doença específica que precisa considerar os riscos de não agir, diz Galípolo",
-    "titulo_original": "BC é um médico responsável por tratar uma doença específica que precisa considerar os riscos de não agir, diz Galípolo",
-    "fonte": "Valor Economico",
-    "publicado": "10/11 16:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A analogia do presidente do Banco Central com um médico tratando a inflação reforça a visão de que a autoridade monetária age para combater um problema específico, mesmo com riscos. Se a inflação persistir elevada, essa postura pode justificar a manutenção de juros altos por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794342653.3757038,
-    "titulo": "Dívida pública em reais não garante juros menores para o Brasil, diz Galípolo",
-    "titulo_original": "Dívida pública em reais não garante juros menores para o Brasil, diz Galípolo",
-    "fonte": "Folha Mercado",
-    "publicado": "10/11 16:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Galípolo de que a dívida em reais não garante juros menores sugere que outros fatores, como a percepção de risco e a política monetária, são determinantes. Se o mercado continuar a precificar um risco elevado, os juros podem permanecer altos mesmo com a dívida em moeda local.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794342657.848148,
-    "titulo": "'Sempre que alguém apresentar solução simples para problema complexo, desconfie', diz Galípolo",
-    "titulo_original": "'Sempre que alguém apresentar solução simples para problema complexo, desconfie', diz Galípolo",
-    "fonte": "Valor Economico",
-    "publicado": "10/11 16:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O alerta de Galípolo sobre soluções simples para problemas complexos, especialmente em relação a juros e câmbio, sugere que a política monetária continuará a ser abordada com cautela. Se o mercado buscar simplificações, o BC pode manter uma postura mais rigorosa para evitar erros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794342662.402299,
-    "titulo": "Vendas de soja perdem ritmo no Mato Grosso com queda dos preços internacionais",
-    "titulo_original": "Vendas de soja perdem ritmo no Mato Grosso com queda dos preços internacionais - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "10/11 14:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração nas vendas de soja em Mato Grosso, ligada à queda dos preços internacionais, pode impactar a receita dos produtores e a balança comercial brasileira. Se os preços internacionais continuarem em baixa, pode haver uma redução na área plantada na próxima safra.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794342667.8899403,
-    "titulo": "Nu Asset amplia aposta no exterior e lança ETFs globais com e sem proteção cambial",
-    "titulo_original": "Nu Asset amplia aposta no exterior e lança ETFs globais com e sem proteção cambial",
-    "fonte": "Money Times",
-    "publicado": "10/11 17:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O lançamento de ETFs globais pela Nu Asset indica uma estratégia de diversificação para investidores brasileiros e pode facilitar o fluxo de capital para mercados internacionais. Se a demanda por esses produtos for alta, pode sinalizar um apetite crescente por investimentos fora do Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794342667.8917558,
-    "titulo": "Pico do petróleo ameaça maior parte do investimento planejado pela Petrobras em novos campos até 2040, dizem organizações",
-    "titulo_original": "Pico do petróleo ameaça maior parte do investimento planejado pela Petrobras em novos campos até 2040, dizem organizações - eixos",
-    "fonte": "Google News Acoes",
-    "publicado": "10/11 15:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A ameaça do pico do petróleo aos investimentos da Petrobras levanta questões sobre a estratégia de longo prazo da empresa e a transição energética. Se a empresa não diversificar suas fontes de receita, pode enfrentar desafios significativos no futuro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794348049.54579,
-    "titulo": "Senado aprova projeto que amplia fiscalização da ANP após Carbono Oculto",
-    "titulo_original": "Senado aprova projeto que amplia fiscalização da ANP após Carbono Oculto",
-    "fonte": "Folha Mercado",
-    "publicado": "10/11 18:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação deste projeto de lei representa uma decisão regulatória concreta que visa combater o crime organizado no setor de combustíveis. Se a fiscalização mais rigorosa e as novas autorizações impactarem a operação de empresas do setor, isso pode influenciar a dinâmica de mercado e a arrecadação, mas o texto não detalha o alcance exato dessas mudanças.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794348054.2741897,
-    "titulo": "Crescimento do PIB da soja e do biodiesel deve ficar acima de 7% em 2026 - Globo Rural",
-    "titulo_original": "Crescimento do PIB da soja e do biodiesel deve ficar acima de 7% em 2026 - Globo Rural",
-    "fonte": "Google News Commodities",
-    "publicado": "10/11 17:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de crescimento acima de 7% para o PIB da soja e do biodiesel em 2026 indica um desempenho robusto para o agronegócio. Se essa projeção se concretizar, pode ter um impacto positivo na balança comercial e na atividade econômica geral do país, especialmente em setores ligados à produção e exportação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794348058.8239985,
-    "titulo": "Parlamentares da Venezuela aprovam abertura do setor elétrico ao investimento privado",
-    "titulo_original": "Parlamentares da Venezuela aprovam abertura do setor elétrico ao investimento privado",
-    "fonte": "Folha Mercado",
-    "publicado": "10/11 18:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A abertura do setor elétrico venezuelano ao investimento privado pode atrair capital estrangeiro e melhorar a infraestrutura energética do país. Se essa abertura resultar em maior estabilidade e crescimento econômico na Venezuela, isso pode ter um impacto indireto em fluxos de capital regionais, embora a notícia não detalhe esse efeito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794348063.3272173,
-    "titulo": "Quais estratégias fizeram as ações renderem mais nos últimos dez anos?",
-    "titulo_original": "Quais estratégias fizeram as ações renderem mais nos últimos dez anos?",
-    "fonte": "Folha Mercado",
-    "publicado": "10/11 18:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia apresenta um comparativo de rentabilidade de investimentos em ações ao longo de uma década, destacando estratégias de seleção de ativos. Se essas estratégias se tornarem mais difundidas, podem influenciar o comportamento de investidores em busca de retornos superiores, mas a notícia não especifica um impacto direto em canais macroeconômicos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794348068.756941,
-    "titulo": "Bradesco vê juros em queda e inflação mais alta em 2027, mas destaca incerteza do cenário",
-    "titulo_original": "Bradesco vê juros em queda e inflação mais alta em 2027, mas destaca incerteza do cenário",
-    "fonte": "Folha Mercado",
-    "publicado": "10/11 13:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão das projeções de inflação e juros pelo Bradesco indica uma expectativa de cenário econômico com pressões inflacionárias mais persistentes, apesar da previsão de queda na taxa básica. Se essa visão se consolidar, pode influenciar as decisões futuras do Banco Central sobre a política monetária e a percepção de risco dos investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794348068.7585967,
-    "titulo": "Do fim da escala 6×1 às bets: o plano do Assaí (ASAI3) para atravessar uma tempestade perfeita",
-    "titulo_original": "Do fim da escala 6×1 às bets: o plano do Assaí (ASAI3) para atravessar uma tempestade perfeita",
-    "fonte": "Money Times",
-    "publicado": "10/11 18:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia descreve os desafios enfrentados pelo Assaí, incluindo juros elevados e a reforma tributária, que são fatores macroeconômicos relevantes. Se a estratégia da empresa para lidar com esses desafios for bem-sucedida, pode indicar resiliência do setor de varejo em um ambiente de juros altos, mas a notícia foca na perspectiva da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794353447.6716356,
-    "titulo": "Governo sinaliza ao Congresso economia de R$ 70 bi em 2027 e foco em corte de incentivos",
-    "titulo_original": "Governo sinaliza ao Congresso economia de R$ 70 bi em 2027 e foco em corte de incentivos",
-    "fonte": "Valor Economico",
-    "publicado": "10/11 19:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A sinalização de corte de R$ 70 bilhões em 2027 indica uma tentativa de ajuste fiscal para atingir o superávit primário. Se as medidas propostas forem aprovadas e implementadas com sucesso, isso pode contribuir para a sustentabilidade da dívida pública; caso contrário, o objetivo fiscal pode ser comprometido.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794353453.733539,
-    "titulo": "Em outubro, índice de reclamações contra operadoras de planos de saúde é o maior desde 2024",
-    "titulo_original": "Em outubro, índice de reclamações contra operadoras de planos de saúde  é o maior desde 2024",
-    "fonte": "Valor Economico",
-    "publicado": "10/11 19:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento contínuo nas reclamações contra operadoras de planos de saúde sugere uma deterioração na qualidade do serviço ou nas condições contratuais oferecidas aos consumidores. Se essa tendência persistir, pode haver maior pressão regulatória ou judicial sobre o setor.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794396651.4024496,
     "titulo": "Câmara aprova MP da renegociação das dívidas rurais; texto segue para Senado",
     "titulo_original": "Câmara aprova MP da renegociação das dívidas rurais; texto segue para Senado",
@@ -1159,6 +871,149 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O desempenho positivo de Wall Street, liderado pelo setor de tecnologia, sugere um otimismo pontual no mercado. Se os resultados de outras empresas de tecnologia seguirem essa linha, o setor pode continuar a impulsionar os índices; caso contrário, a tendência pode reverter.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794483046.7684927,
+    "titulo": "Inflação do CPI da Índia em outubro sobe para 6,09%, inflação de alimentos acelera para 8,94%",
+    "titulo_original": "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
+    "fonte": "ForexLive",
+    "publicado": "12/11 07:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento da inflação na Índia, impulsionado significativamente pelos alimentos, eleva a probabilidade de o Reserve Bank of India (RBI) adotar uma postura mais restritiva em sua próxima reunião. Se o RBI optar por um aperto monetário mais agressivo do que o esperado, isso pode impactar o crescimento econômico do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794483050.5681674,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "12/11 04:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O forte desempenho do PIB do Reino Unido sugere que o Banco da Inglaterra (BOE) tem espaço para manter uma política monetária mais restritiva para combater a inflação. Se o BOE confirmar a alta de juros em dezembro, isso pode impactar o custo do crédito no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794483054.3700695,
+    "titulo": "Perspectiva de Fed mais restritivo fortalece dólar em âmbito global",
+    "titulo_original": "Perspectiva de Fed mais restritivo fortalece dólar em âmbito global - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/11 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O fortalecimento do dólar globalmente, impulsionado pela perspectiva de um Fed mais restritivo, pode pressionar moedas de outros países. Se o Fed mantiver o tom hawkish, isso pode levar a uma valorização contínua do dólar frente a outras divisas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794483058.1707172,
+    "titulo": "PIB do 3º trimestre do Reino Unido atinge estimativas com crescimento resiliente dando ao BOE mais espaço para combater a inflação",
+    "titulo_original": "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle inflation",
+    "fonte": "ForexLive",
+    "publicado": "12/11 04:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O crescimento resiliente do PIB do Reino Unido no terceiro trimestre, em linha com as expectativas, pode dar ao Banco da Inglaterra (BOE) mais confiança para manter uma política monetária focada no combate à inflação. Se a inflação persistir alta, o BOE pode considerar novas altas de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794483063.9073615,
+    "titulo": "Analistas dizem que BB ainda não atingiu o fundo do poço e citam preocupação com capital",
+    "titulo_original": "Analistas dizem que BB ainda não atingiu o fundo do poço e citam preocupação com capital",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 08:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Se as provisões para o agronegócio continuarem a pressionar os resultados do Banco do Brasil, isso pode indicar um cenário de maior risco para o setor financeiro doméstico. Caso o banco consiga implementar medidas eficazes para fortalecer seu capital, o impacto negativo pode ser mitigado no médio prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794483063.9087944,
+    "titulo": "Escândalo na Nvidia leva empresas chinesas a buscarem alternativas e fornecedores a reverem planos",
+    "titulo_original": "Escândalo na Nvidia leva empresas chineses a buscarem alternativas e fornecedores a reverem planos",
+    "fonte": "Folha Mercado",
+    "publicado": "12/11 08:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A turbulência em torno da Nvidia e a busca por alternativas por empresas chinesas podem indicar uma reconfiguração na cadeia de suprimentos de tecnologia. Se os EUA impuserem restrições mais severas, isso pode afetar o desenvolvimento de IA em ambas as regiões.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794483063.910093,
+    "titulo": "Alibaba e outras ações de IA caem em Hong Kong com turbulência na Nvidia e temores de restrições a chips",
+    "titulo_original": "Alibaba e outras ações de IA caem em Hong Kong com turbulência na Nvidia e temores de restrições a chips",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 08:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das ações de IA na China, ligada à Nvidia, sinaliza a vulnerabilidade do setor a tensões geopolíticas e regulatórias. Se os EUA endurecerem as restrições a chips, isso pode impactar o desenvolvimento tecnológico chinês e as empresas listadas em Hong Kong.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794483063.9113886,
+    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "12/11 07:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Acompanhar os fatores que influenciam o Ibovespa, o dólar e os juros é crucial para entender a dinâmica do mercado financeiro brasileiro. Se as expectativas sobre a política monetária mudarem, isso pode gerar volatilidade nesses ativos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794483063.9126942,
+    "titulo": "Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos",
+    "titulo_original": "Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "12/11 07:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O Ibovespa ganhar força sugere um movimento positivo no mercado acionário brasileiro. Se essa tendência se mantiver, pode haver oportunidades para operações de day trade, mas a volatilidade inerente a esse tipo de operação deve ser considerada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794483063.9140077,
+    "titulo": "Agenda de empresas: Lucro da Ultrapar soma R$ 2,7 bi; prejuízo da Hapvida mais que dobra",
+    "titulo_original": "Agenda de empresas: Lucro da Ultrapar soma R$ 2,7 bi; prejuízo da Hapvida mais que dobra",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 08:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados trimestrais das empresas mostram cenários distintos: a Ultrapar com forte crescimento, o Banco do Brasil com queda expressiva e a Hapvida com prejuízo ampliado. Se a Ultrapar conseguir manter essa performance, pode ser um indicativo de força em seu setor de atuação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794483063.915325,
+    "titulo": "Nubank (ROXO34) deve manter lucro em alta no 3T26, mas crédito preocupa analistas para 2027",
+    "titulo_original": "Nubank (ROXO34) deve manter lucro em alta no 3T26, mas crédito preocupa analistas para 2027",
+    "fonte": "Money Times",
+    "publicado": "12/11 07:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de lucro em alta para o Nubank contrasta com as preocupações sobre o cenário de crédito em 2027. Se a desaceleração do crédito se concretizar, o Nubank pode precisar ajustar suas estratégias para manter a rentabilidade.",
     "is_stocks": true
   }
 ]
