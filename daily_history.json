@@ -1,73 +1,5 @@
 [
   {
-    "_timestamp": 1794402944.747893,
-    "titulo": "Analistas veem Selic em 13,75% até o fim de 2026 - Agrolink",
-    "titulo_original": "Analistas veem Selic em 13,75% até o fim de 2026 - Agrolink",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/11 07:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de Selic em 13,75% até o fim de 2026 indica uma expectativa de juros elevados por um período prolongado. Se a inflação ceder mais rapidamente do que o esperado, o Banco Central pode antecipar cortes na taxa básica de juros, alterando essa projeção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794402949.4696927,
-    "titulo": "IBGE: Produção da indústria de SP recua 3,8% em setembro e acumula perda de 8,3% em 5 meses",
-    "titulo_original": "IBGE: Produção da indústria de SP recua 3,8% em setembro e acumula perda de 8,3% em 5 meses",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 09:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A contínua retração da indústria paulista, que representa um terço do setor industrial nacional, é um sinal preocupante para a atividade econômica. Se os setores de derivados de petróleo e alimentos não apresentarem recuperação, o desempenho geral da indústria pode ser ainda mais afetado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794402959.3688462,
-    "titulo": "Poupança tem saída líquida de R$ 8,878 bilhões em outubro",
-    "titulo_original": "Poupança tem saída líquida de R$ 8,878 bilhões em outubro",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 09:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A saída líquida da poupança em outubro, a maior do ano, sugere que investidores buscam alternativas de maior rentabilidade. Se os juros continuarem altos, essa tendência de migração de recursos da poupança para outros investimentos pode se acentuar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794402964.067455,
-    "titulo": "Quer investir em dólar e também aproveitar os juros altos locais? Conheça os ETFs com proteção cambial",
-    "titulo_original": "Quer investir em dólar e também aproveitar os juros altos locais? Conheça os ETFs com proteção cambial",
-    "fonte": "InvestNews",
-    "publicado": "11/11 05:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "ETFs com proteção cambial podem oferecer uma alternativa para diversificar investimentos em cenários de juros elevados e volatilidade cambial. Se a taxa de juros doméstica se mantiver alta, esses ETFs podem atrair mais investidores em busca de retornos atrativos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794402969.3881545,
-    "titulo": "País contou com aumento de 250 mil funcionários públicos municipais em 2025, diz IBGE",
-    "titulo_original": "País contou com aumento de 250 mil funcionários públicos municipais em 2025, diz IBGE",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 10:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento de funcionários públicos municipais pode indicar um movimento de expansão da máquina pública. Se esse crescimento se mantiver, pode haver um impacto nos gastos públicos e na arrecadação, dependendo da eficiência da gestão.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794410247.0919745,
     "titulo": "Tesouro Direto hoje: prefixados e IPCA+ abrem em compasso de espera",
     "titulo_original": "Tesouro Direto hoje: prefixados e IPCA+ abrem em compasso de espera",
@@ -1383,6 +1315,77 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A avaliação da Petrobras em alterar suas regras de precificação de combustíveis, em resposta ao cenário geopolítico, pode indicar uma maior flexibilidade ou uma tentativa de mitigar impactos de volatilidade. Se a empresa decidir por uma política de preços mais alinhada às flutuações internacionais, isso pode gerar maior volatilidade nos preços internos; caso contrário, uma manutenção da política atual pode ser vista como um sinal de estabilidade, mas com riscos de perdas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794515450.6447794,
+    "titulo": "Dólar sobe forte e fecha a R$ 5,6519 com incertezas sobre o ajuste fiscal",
+    "titulo_original": "Dólar sobe forte e fecha a R$ 5,6519 com incertezas sobre o ajuste fiscal",
+    "fonte": "Money Times",
+    "publicado": "12/11 17:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar reflete a cautela do mercado com o pacote de ajuste fiscal. Se as medidas anunciadas não forem suficientes para restaurar a confiança na trajetória fiscal do país, o dólar pode continuar pressionado; caso contrário, uma percepção de maior credibilidade pode levar à sua desvalorização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794515455.5250738,
+    "titulo": "Dólar avança 1,5% com adiamento de votação de medidas fiscais e IPCA - UOL Economia",
+    "titulo_original": "Dólar avança 1,5% com adiamento de votação de medidas fiscais e IPCA - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "12/11 14:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O avanço do dólar, atrelado ao adiamento de medidas fiscais e à divulgação do IPCA, sugere que a incerteza política e a inflação continuam sendo fatores de peso para o câmbio. Se a votação das medidas fiscais for adiada novamente ou se o IPCA vier acima do esperado, a pressão sobre o dólar pode se intensificar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794515460.4059572,
+    "titulo": "Plano de ajuste do governo Lula retoma medida já rejeitada pelo Congresso",
+    "titulo_original": "Plano de ajuste do governo Lula retoma medida já rejeitada pelo Congresso",
+    "fonte": "Folha Mercado",
+    "publicado": "12/11 17:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A retomada de uma medida já rejeitada pelo Congresso pelo plano de ajuste fiscal pode gerar atritos políticos e incerteza sobre a aprovação do pacote. Se a medida for novamente barrada, isso pode minar a confiança na capacidade do governo de implementar seu plano fiscal, impactando o câmbio e os juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794515465.2879577,
+    "titulo": "AGU cria Exame Nacional da Advocacia Pública",
+    "titulo_original": "AGU cria Exame Nacional da Advocacia Pública",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 16:46",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A criação do ENAP pela AGU é uma decisão regulatória interna para a seleção de carreiras públicas. Embora envolva um órgão fiscalizador, seu impacto direto nos canais macroeconômicos é limitado, a menos que haja repercussões significativas na eficiência ou nos custos da máquina pública.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794515470.738372,
+    "titulo": "Dólar fecha no maior nível desde junho de 2025 com mau humor externo e pacote fiscal no foco; ações do BB desabam",
+    "titulo_original": "Dólar fecha no maior nível desde junho de 2025 com mau humor externo e pacote fiscal no foco; ações do BB desabam",
+    "fonte": "Valor Economico",
+    "publicado": "12/11 17:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de mau humor externo e a percepção de insuficiência do pacote fiscal brasileiro pressiona o dólar e os juros futuros. Se o governo não apresentar medidas adicionais para fortalecer a âncora fiscal, a volatilidade cambial e a alta dos juros de longo prazo podem persistir, impactando o desempenho da bolsa.",
     "is_stocks": true
   }
 ]
