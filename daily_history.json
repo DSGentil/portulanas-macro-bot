@@ -1,396 +1,5 @@
 [
   {
-    "_timestamp": 1794421854.0634043,
-    "titulo": "Medidas fiscais terão impacto de cerca de R$ 60 bi e podem ser votadas hoje, diz ministro do Planejamento",
-    "titulo_original": "Medidas fiscais terão impacto de cerca de R$ 60 bi e podem ser votadas hoje, diz ministro do Planejamento",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 15:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A iminente votação de medidas fiscais com impacto significativo no orçamento pode alterar a percepção de risco fiscal do país. Se aprovadas, a consolidação fiscal pode ser vista como positiva; se houver adiamentos ou alterações substanciais, a incerteza sobre o quadro fiscal pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794421859.7065952,
-    "titulo": "A conta da demora fiscal",
-    "titulo_original": "A conta da demora fiscal",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 14:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para riscos de recessão e inflação alta em 2027 devido à demora na resolução do desequilíbrio fiscal, o que já pressiona juros de longo prazo. Se as políticas fiscais não forem ajustadas, o cenário de inflação e juros elevados pode se concretizar; se houver um ajuste fiscal efetivo, a perspectiva de recessão e inflação alta pode ser mitigada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794421866.3094301,
-    "titulo": "El Niño pode \"esquentar\" a inflação para até 6% e travar a Selic",
-    "titulo_original": "El Niño pode \"esquentar\" a inflação para até 6% e travar a Selic - NeoFeed",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/11 12:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A previsão de que o El Niño pode elevar a inflação para até 6% sugere um cenário de pressão sobre os preços, o que pode levar o Banco Central a manter a Selic em patamares elevados. Se a inflação realmente atingir esse patamar, a manutenção da Selic seria provável; se os efeitos do El Niño forem menores que o esperado, a pressão inflacionária pode ser menor, abrindo espaço para discussões sobre corte de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794421871.752731,
-    "titulo": "O “dólar brasileiro” como alternativa à Selic elevada e à venda de reservas internacionais",
-    "titulo_original": "O “dólar brasileiro” como alternativa à Selic elevada e à venda de reservas internacionais - Diplomatique",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/11 14:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre o \"dólar brasileiro\" como alternativa à Selic elevada sugere uma análise de estratégias de investimento em um cenário de juros altos. Se essa alternativa se consolidar, pode impactar a demanda por instrumentos de renda fixa e a dinâmica cambial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794421878.2632008,
-    "titulo": "Sabesp muda conta de água para se adequar à reforma tributária; veja o que muda",
-    "titulo_original": "Sabesp muda conta de água para se adequar à reforma tributária; veja o que muda",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 14:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A mudança na conta de água da Sabesp para se adequar à reforma tributária demonstra a implementação prática das novas regras fiscais. A adaptação de empresas a novas legislações tributárias é um reflexo direto de decisões fiscais e regulatórias, indicando a transição para o novo sistema.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794421878.2650743,
-    "titulo": "Setores de aço e cimento vão receber R$ 81 milhões para reduzir emissão de CO2",
-    "titulo_original": "Setores de aço e cimento vão receber R$ 81 milhões para reduzir emissão de CO2",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 12:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O financiamento de R$ 81 milhões para projetos de redução de emissões de CO2 nos setores de aço e cimento representa uma iniciativa de política ambiental e industrial. Se esses projetos resultarem em novas tecnologias ou processos, podem impactar a competitividade e a estrutura de custos dessas indústrias, com possíveis reflexos na atividade econômica setorial.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794421878.2668517,
-    "titulo": "Venda de veículos cresce 16,1% no ano e Anfavea fala em discutir política para o setor com o governo reeleito",
-    "titulo_original": "Venda de veículos cresce 16,1% no ano e Anfavea fala em discutir política para o setor com o governo reeleito",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 13:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O crescimento nas vendas de veículos e a intenção da Anfavea de discutir políticas industriais com o governo indicam um diálogo entre o setor produtivo e o executivo sobre o futuro da indústria automotiva. Se novas políticas industriais forem implementadas, especialmente com incentivos fiscais, isso pode impactar a produção e o consumo do setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794434448.5519094,
-    "titulo": "Deputado do PT diz a ministro que ajuste fiscal não pode ser aprovado 'goela abaixo'",
-    "titulo_original": "Deputado do PT diz a ministro que ajuste fiscal não pode ser aprovado 'goela abaixo'",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 18:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do deputado sugere que a aprovação do ajuste fiscal pode enfrentar resistência política, o que pode levar a negociações e possíveis alterações no texto. Se o governo não conseguir o apoio necessário, o alcance do ajuste fiscal pode ser comprometido.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794434452.3167274,
-    "titulo": "Senado aprova MP das dívidas rurais e texto vai à sanção presidencial",
-    "titulo_original": "Senado aprova MP das dívidas rurais e texto vai à sanção presidencial",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 18:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação da MP das dívidas rurais pelo Senado representa um avanço na renegociação de débitos para produtores. Se sancionada, a medida pode aliviar a situação financeira de muitos agricultores, impactando o setor. A extensão do prazo para contratação das operações é um ponto chave a ser observado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794434456.361358,
-    "titulo": "Economistas questionam alcance de pacote fiscal de cortes extras no Orçamento",
-    "titulo_original": "Economistas questionam alcance de pacote fiscal de cortes extras no Orçamento",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 17:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As dúvidas dos economistas sobre o alcance do pacote fiscal indicam que o mercado pode estar cético quanto à sua eficácia em atingir as metas de ajuste. Se os cortes não forem suficientes, isso pode gerar pressão sobre as contas públicas. A votação do projeto de lei complementar até o fim do dia é um ponto de atenção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794434460.3823197,
-    "titulo": "SLC Agrícola (SLCE3) reverte prejuízo e lucra R$ 192 milhões no 3T26; soja recorde e venda de terras impulsionam resultado",
-    "titulo_original": "SLC Agrícola (SLCE3) reverte prejuízo e lucra R$ 192 milhões no 3T26; soja recorde e venda de terras impulsionam resultado",
-    "fonte": "Money Times",
-    "publicado": "11/11 18:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A reversão do prejuízo demonstra a capacidade da empresa de gerar resultados positivos em condições adversas de receita. Se a venda de terras continuar a ser uma estratégia eficaz, isso pode sustentar o lucro mesmo com flutuações na receita operacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794434466.4023733,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com fiscal, balanços e exterior; PETR4 cai - InfoMoney",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa sobe com fiscal, balanços e exterior; PETR4 cai - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "11/11 15:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa sugere um otimismo geral no mercado, influenciado por notícias fiscais e externas positivas. Se os balanços corporativos continuarem a surpreender positivamente, isso pode sustentar a alta da bolsa. A queda da PETR4, no entanto, indica seletividade no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794434466.4040415,
-    "titulo": "Lucro da Equatorial cresce 53% no 3º trimestre",
-    "titulo_original": "Lucro da Equatorial cresce 53% no 3º trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 18:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento do lucro, apesar da queda na receita, sugere uma gestão de custos eficaz. Se os custos continuarem sob controle e a receita se recuperar, o cenário para a empresa pode ser positivo. Caso contrário, a queda na receita pode se tornar um fator limitante.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794434466.4056349,
-    "titulo": "investingLive Americas FX news wrap 11 Nov. It’s a Wrap: Dollar climbs as stocks rise and oil fades",
-    "titulo_original": "investingLive Americas FX news wrap 11 Nov. It’s a Wrap: Dollar climbs as stocks rise and oil fades",
-    "fonte": "ForexLive",
-    "publicado": "11/11 17:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta do dólar em conjunto com o avanço das ações pode indicar um apetite por risco seletivo no mercado global. Se o aperto monetário mencionado pelo BOE se concretizar, isso pode pressionar outras moedas e ativos de risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794434466.40722,
-    "titulo": "B3 e Leto investem R$ 40 milhões na empresa dona do Idex, referência em crédito privado no país",
-    "titulo_original": "B3 e Leto investem R$ 40 milhões na empresa dona do Idex, referência em crédito privado no país",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 18:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O investimento da B3 na Idex Analytics pode indicar um movimento de consolidação ou expansão no mercado de dados e precificação de renda fixa. Se a Idex Analytics conseguir expandir sua atuação com o aporte, isso pode trazer mais eficiência e transparência ao mercado de crédito privado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794434466.408774,
-    "titulo": "Vance considera conversas cara a cara com alto oficial de segurança iraniano — WSJ",
-    "titulo_original": "Vance considers face-to-face talks with top Iranian security official — WSJ",
-    "fonte": "ForexLive",
-    "publicado": "11/11 16:44",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia aponta para uma potencial abertura diplomática entre EUA e Irã, com o VP Vance liderando as negociações. Se estas conversas avançarem e levarem a um fim da guerra, isso poderia ter implicações geopolíticas e econômicas, como a possível redução do preço do petróleo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794434466.4103763,
-    "titulo": "IPO da Anthropic atrai procura várias vezes maior que oferta de ações",
-    "titulo_original": "IPO da Anthropic atrai procura várias vezes maior que oferta de ações",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 17:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte demanda pelo IPO da Anthropic indica um grande interesse do mercado em empresas de inteligência artificial. Se o IPO for bem-sucedido, isso pode impulsionar o setor de tecnologia e atrair mais investimentos para empresas com foco em IA.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794434466.411962,
-    "titulo": "Renda fixa pode dobrar patrimônio até 2032? Bradesco Asset aponta oportunidades, mas faz alerta",
-    "titulo_original": "Renda fixa pode dobrar patrimônio até 2032? Bradesco Asset aponta oportunidades, mas faz alerta",
-    "fonte": "Money Times",
-    "publicado": "11/11 18:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de dobrar o patrimônio em renda fixa é atraente, mas o alerta sobre volatilidade é crucial. Se as taxas de juros se mantiverem elevadas, a renda fixa pode ser uma opção rentável, mas a cautela na alocação será fundamental para mitigar riscos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794439975.3560412,
-    "titulo": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal - Agência Brasil",
-    "titulo_original": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/11 19:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de um pacote fiscal mais robusto contribuiu para a valorização do real frente ao dólar. Se o pacote fiscal for efetivamente implementado e gerar confiança, o real pode continuar sua trajetória de valorização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794439979.3971334,
-    "titulo": "Dólar à vista recua com expectativa de ajuste fiscal e real é a melhor moeda do dia - Valor Econômico",
-    "titulo_original": "Dólar à vista recua com expectativa de ajuste fiscal e real é a melhor moeda do dia - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "11/11 17:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de ajuste fiscal tem impulsionado o real, demonstrando a sensibilidade do mercado a sinais de responsabilidade fiscal. Se o ajuste fiscal for efetivamente implementado e gerar resultados concretos, o real pode continuar sua trajetória de valorização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794439983.4641826,
-    "titulo": "Relator do PLP do ajuste fiscal estima corte entre R$ 43 bi e R$ 54 bilhões em 2027",
-    "titulo_original": "Relator do PLP do ajuste fiscal estima corte entre R$ 43 bi e R$ 54 bilhões em 2027",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 19:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As estimativas de corte fiscal entre R$ 43 bilhões e R$ 54 bilhões em 2027 indicam um esforço do governo para equilibrar as contas públicas. Se o projeto for aprovado conforme o esperado, pode trazer maior previsibilidade fiscal; caso contrário, a incerteza pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794439987.5475466,
-    "titulo": "Petróleo sobe sem sinais concretos de progresso diplomático entre EUA e Irã - Valor Econômico",
-    "titulo_original": "Petróleo sobe sem sinais concretos de progresso diplomático entre EUA e Irã - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "11/11 17:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A falta de progresso diplomático entre EUA e Irã sustenta a alta do petróleo, refletindo a incerteza geopolítica. Se as tensões escalarem, o preço do petróleo pode continuar a subir; uma resolução diplomática, por outro lado, poderia levar a uma queda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794439992.9037864,
-    "titulo": "Nvidia prepara destituição de Jensen Huang, diz jornal",
-    "titulo_original": "Nvidia prepara destituição de Jensen Huang, diz jornal",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 19:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Se a destituição de Jensen Huang for confirmada, isso pode gerar instabilidade na liderança da Nvidia e impactar a confiança dos investidores. A investigação em curso adiciona um elemento de incerteza sobre a governança corporativa da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794439992.9056847,
-    "titulo": "Ações da Nvidia despencam após o horário de negociação com o New York Times relatando nova alegação de relacionamento de Jensen Huang",
-    "titulo_original": "Nvidia stock plunges after hours as New York Times reports new Jensen Huang relationship allegation",
-    "fonte": "ForexLive",
-    "publicado": "11/11 19:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A nova alegação de relacionamento pode adicionar um problema de governança corporativa à Nvidia, impactando o desempenho de suas ações. Se as alegações forem confirmadas, a empresa pode enfrentar maior escrutínio e pressão do conselho.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794439992.9074905,
-    "titulo": "Banco do Brasil tem queda de 66,5% no lucro com inadimplência do agronegócio",
-    "titulo_original": "Banco do Brasil tem queda de 66,5% no lucro com inadimplência do agronegócio",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 19:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A inadimplência no agronegócio impactou significativamente o lucro do Banco do Brasil, sinalizando desafios no setor. Se a tendência de inadimplência persistir, o banco pode precisar provisionar mais recursos, afetando resultados futuros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794439992.9092147,
-    "titulo": "Banco do Brasil (BBAS3) corta projeção de lucro pela metade e acende alerta com custo do crédito; veja o que aconteceu",
-    "titulo_original": "Banco do Brasil (BBAS3) corta projeção de lucro pela metade e acende alerta com custo do crédito; veja o que aconteceu",
-    "fonte": "Money Times",
-    "publicado": "11/11 20:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão para baixo da projeção de lucro do Banco do Brasil indica um cenário desafiador para a instituição, especialmente no que tange ao custo do crédito. Se as condições de mercado não melhorarem, o banco pode ter dificuldades em atingir até mesmo as novas metas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794439992.910997,
-    "titulo": "Entenda os problemas do Banco do Brasil com empréstimos ao agronegócio",
-    "titulo_original": "Entenda os problemas do Banco do Brasil com empréstimos ao agronegócio",
-    "fonte": "Folha Mercado",
-    "publicado": "11/11 19:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A inadimplência no agronegócio representa um risco significativo para o Banco do Brasil, afetando diretamente seus resultados. Se as condições climáticas ou de mercado piorarem para os produtores rurais, a situação pode se agravar, exigindo maiores provisões do banco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794439992.9128268,
-    "titulo": "Impulsionada pela Ipiranga, Ultrapar lucra R$ 2,7 bilhões no 3º trimestre",
-    "titulo_original": "Impulsionada pela Ipiranga, Ultrapar lucra R$ 2,7 bilhões no 3º trimestre",
-    "fonte": "Valor Economico",
-    "publicado": "11/11 19:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O forte lucro da Ultrapar, impulsionado pela Ipiranga e créditos fiscais, demonstra resiliência operacional. Se os créditos fiscais extraordinários forem um evento pontual, a sustentabilidade do lucro dependerá do desempenho operacional contínuo da Ipiranga.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794439992.9146683,
-    "titulo": "Wall Street fecha em alta com impulso do setor de tecnologia após balanço da CoreWeave",
-    "titulo_original": "Wall Street fecha em alta com impulso do setor de tecnologia após balanço da CoreWeave",
-    "fonte": "Money Times",
-    "publicado": "11/11 19:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho positivo de Wall Street, liderado pelo setor de tecnologia, sugere um otimismo pontual no mercado. Se os resultados de outras empresas de tecnologia seguirem essa linha, o setor pode continuar a impulsionar os índices; caso contrário, a tendência pode reverter.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794483046.7684927,
     "titulo": "Inflação do CPI da Índia em outubro sobe para 6,09%, inflação de alimentos acelera para 8,94%",
     "titulo_original": "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
@@ -1232,6 +841,109 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A expectativa da MRV em relação à reforma tributária e mudanças na jornada de trabalho sugere um otimismo com o ambiente regulatório e econômico. Se essas medidas trouxerem os benefícios esperados, a empresa pode ver um impulso nas suas vendas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794569457.3370035,
+    "titulo": "Crédito climático com juros de 1% bancado pelo governo financia apartamentos de luxo",
+    "titulo_original": "Crédito climático com juros de 1% bancado pelo governo financia apartamentos de luxo",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O uso de crédito climático com juros subsidiados pelo governo para financiar empreendimentos de luxo levanta questões sobre a alocação de recursos públicos. Se essa política se expandir, pode distorcer o mercado imobiliário e a percepção sobre o custo real do crédito para diferentes setores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794569461.9613097,
+    "titulo": "Plantio da soja no Brasil atingiu 67% da área prevista - Agrolink",
+    "titulo_original": "Plantio da soja no Brasil atingiu 67% da área prevista - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "13/11 04:43",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O avanço do plantio da soja no Brasil é um indicador importante para o agronegócio, mas a notícia não fornece contexto sobre o desempenho esperado ou comparações com anos anteriores. Sem essa informação, a relevância para projeções de atividade econômica é limitada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794569466.6836262,
+    "titulo": "Varejo brasileiro, PPI americano e falas do Fed e Galípolo: o que move os mercados - Exame",
+    "titulo_original": "Varejo brasileiro, PPI americano e falas do Fed e Galípolo: o que move os mercados - Exame",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/11 05:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de dados de varejo doméstico, inflação ao produtor nos EUA e declarações de autoridades monetárias sugere um dia com potencial para volatilidade. Se as falas de Galípolo indicarem uma postura mais cautelosa em relação à inflação, isso pode reforçar a expectativa de manutenção da política monetária atual.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794569471.2959163,
+    "titulo": "Preço da soja atinge máxima do ano com impulso do dólar - Globo Rural",
+    "titulo_original": "Preço da soja atinge máxima do ano com impulso do dólar - Globo Rural",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/11 06:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A alta do preço da soja, associada à valorização do dólar, sugere um cenário onde o câmbio tem um papel significativo na precificação das commodities. Se o dólar continuar forte, isso pode beneficiar exportadores de commodities, mas encarecer importações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794569477.194135,
+    "titulo": "Agenda de empresas: Braskem tem prejuízo de R$ 1,07 bilhão; lucro da Cemig sobe 115%",
+    "titulo_original": "Agenda de empresas: Braskem tem prejuízo de R$ 1,07 bilhão; lucro da Cemig sobe 115%",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 08:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados da Braskem indicam desafios na sua estrutura financeira, o que pode gerar incertezas para seus acionistas e credores. A forte alta no lucro da Cemig sugere uma performance operacional positiva, mas é importante observar se essa tendência se mantém em trimestres futuros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794569477.1958635,
+    "titulo": "Nubank melhora perspectivas para índice de eficiência de 2026",
+    "titulo_original": "Nubank melhora perspectivas para índice de eficiência de 2026",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 08:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A melhora nas perspectivas de eficiência do Nubank, aliada a um lucro em linha com o esperado, sugere uma gestão operacional eficaz. A utilização de IA para otimizar contratações pode indicar uma tendência de maior automação e redução de custos no setor bancário.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794569477.1975148,
+    "titulo": "Ações chinesas ligadas a IA caem em meio a temores de aperto dos EUA após renúncia de Huang na Nvidia",
+    "titulo_original": "Ações chinesas ligadas a IA caem em meio a temores de aperto dos EUA após renúncia de Huang na Nvidia",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 08:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das ações chinesas ligadas à IA, motivada pela renúncia de um executivo da Nvidia e temores de um aperto tecnológico dos EUA, reflete tensões geopolíticas e tecnológicas. Se essa divisão se aprofundar, pode haver impactos indiretos em cadeias de suprimentos globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794569477.1990921,
+    "titulo": "CSN (CSNA3) reverte lucro e registra prejuízo líquido de R$ 1,247 bilhão no 3º trimestre",
+    "titulo_original": "CSN (CSNA3) reverte lucro e registra prejuízo líquido de R$ 1,247 bilhão no 3º trimestre",
+    "fonte": "Money Times",
+    "publicado": "13/11 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A reversão de lucro para prejuízo na CSN, acompanhada de uma queda expressiva no Ebitda, indica um trimestre desafiador para a empresa. A análise do desempenho setorial e das condições de mercado que levaram a esse resultado seria importante para entender a extensão do impacto.",
     "is_stocks": true
   }
 ]
