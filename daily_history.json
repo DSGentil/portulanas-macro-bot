@@ -945,5 +945,156 @@
     "origem": "domestica",
     "leitura_critica": "A reversão de lucro para prejuízo na CSN, acompanhada de uma queda expressiva no Ebitda, indica um trimestre desafiador para a empresa. A análise do desempenho setorial e das condições de mercado que levaram a esse resultado seria importante para entender a extensão do impacto.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794575749.8549652,
+    "titulo": "Dólar abre perto da estabilidade com aprovação de plano fiscal no radar",
+    "titulo_original": "Dólar abre perto da estabilidade com aprovação de plano fiscal no radar",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 09:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do plano fiscal pelo Senado é um passo importante para a credibilidade da política econômica do governo. Se o plano for efetivamente implementado e gerar os resultados esperados na redução do déficit, isso pode trazer mais confiança ao mercado e favorecer a apreciação do real. Caso contrário, a desconfiança pode retornar e pressionar o dólar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794575755.1455233,
+    "titulo": "Japão alerta para possíveis medidas contra volatilidade do câmbio",
+    "titulo_original": "Japão alerta para possíveis medidas contra volatilidade do câmbio",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 10:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração do Japão sugere uma possível intervenção cambial para conter a desvalorização do iene. Se o governo japonês de fato intervir, isso pode gerar volatilidade em outras moedas, incluindo o dólar, e afetar fluxos de capital globais. A ausência de intervenção, por outro lado, pode reforçar a tendência de valorização do dólar frente ao iene.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794575760.3031783,
+    "titulo": "Instalação de enriquecimento de urânio do Irã preocupa cada vez mais AIEA",
+    "titulo_original": "Instalação de enriquecimento de urânio do Irã preocupa cada vez mais AIEA",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 09:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A crescente preocupação da AIEA com a instalação de enriquecimento de urânio no Irã eleva o risco de escalada de tensões geopolíticas na região. Se a situação não for resolvida diplomaticamente, isso pode levar a novas sanções ou até mesmo a um conflito, com potenciais impactos nos preços do petróleo e na estabilidade global. A falta de transparência por parte do Irã agrava a situação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794575766.6712863,
+    "titulo": "Petróleo sobe US$ 3 com ataques a energéticas sauditas e interrupções em Ormuz",
+    "titulo_original": "Petróleo sobe US$ 3 com ataques a energéticas sauditas e interrupções em Ormuz - BiodieselBR",
+    "fonte": "Google News Commodities",
+    "publicado": "13/11 08:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta do petróleo, impulsionada por tensões geopolíticas no Oriente Médio, pode ter um impacto indireto na inflação global e nos custos de produção. Se os conflitos se intensificarem, o preço do barril pode continuar a subir, o que pode levar a um repasse para os preços de combustíveis e outros bens. A duração e a magnitude dessas interrupções serão determinantes para o impacto a longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794575839.4426718,
+    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "13/11 08:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Acompanhar os fatores que movimentam a Bolsa, o Dólar e os Juros é crucial para entender a dinâmica do mercado financeiro. Se os juros apresentarem volatilidade, isso pode influenciar diretamente as decisões de investimento em renda fixa e renda variável. A interação entre esses três ativos é um termômetro importante da confiança do investidor no cenário econômico.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794575839.444436,
+    "titulo": "Ibovespa e dólar hoje: mercado opera de lado após pacote fiscal",
+    "titulo_original": "Ibovespa e dólar hoje: mercado opera de lado após pacote fiscal - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/11 09:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A operação 'de lado' do mercado após a aprovação do pacote fiscal pode indicar uma cautela dos investidores em precificar totalmente os efeitos da medida. Se o mercado interpretar o pacote como insuficiente ou com riscos de implementação, podemos ver uma reversão dessa estabilidade. A clareza sobre os próximos passos e a efetividade das medidas fiscais serão cruciais para definir a direção futura.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794575839.4461458,
+    "titulo": "Dólar tem leve alta com pacote fiscal e inflação americana no foco",
+    "titulo_original": "Dólar tem leve alta com pacote fiscal e inflação americana no foco",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 09:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria",
+      "inflacao"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de desconfiança fiscal doméstica e a postura hawkish do Fed nos EUA pressiona o dólar. A divulgação do PPI americano será crucial para avaliar as expectativas de inflação e a futura política monetária do Fed. Se o PPI vier acima do esperado, pode reforçar a alta do dólar e a cautela no mercado brasileiro. Caso contrário, pode haver um alívio e uma melhora na percepção de risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794575839.4478579,
+    "titulo": "Sessão europeia: Wall Street busca recuperação, mas rendimentos crescentes dos Treasuries mantêm traders apreensivos",
+    "titulo_original": "investingLive European session wrap: Wall Street eyes a rebound but rising Treasury yields keep traders on edge",
+    "fonte": "ForexLive",
+    "publicado": "13/11 09:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O aumento dos rendimentos dos Treasuries dos EUA sugere que o Federal Reserve pode manter uma postura de juros altos por mais tempo, o que tende a fortalecer o dólar e pressionar ativos de risco. Se os rendimentos continuarem a subir, isso pode limitar a recuperação de Wall Street e afetar o desempenho de commodities como o ouro. A menção ao Japão e ao nível de 160 no câmbio USD/JPY indica uma preocupação global com a força do dólar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794575839.449556,
+    "titulo": "Dos 150 mil aos 200 mil pontos: As projeções da Empiricus para o Ibovespa a depender dos rumos do cenário fiscal brasileiro",
+    "titulo_original": "Dos 150 mil aos 200 mil pontos: As projeções da Empiricus para o Ibovespa a depender dos rumos do cenário fiscal brasileiro",
+    "fonte": "Money Times",
+    "publicado": "13/11 10:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As projeções para o Ibovespa dependem diretamente da clareza e da efetividade das políticas fiscais a serem implementadas. Se o governo conseguir transmitir segurança sobre a trajetória fiscal, isso pode impulsionar a bolsa. No entanto, a persistência do temor fiscal, como evidenciado pela queda após a reeleição, sugere que qualquer sinal de descontrole nas contas públicas pode gerar volatilidade negativa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794575839.4513235,
+    "titulo": "Goldman Sachs projeta cobre a US$ 15.600 por tonelada até 2027 impulsionado por IA e data centers",
+    "titulo_original": "Goldman Sachs projeta cobre a US$ 15.600 por tonelada até 2027 impulsionado por IA e data centers - ADVFN",
+    "fonte": "Google News Commodities",
+    "publicado": "13/11 08:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A projeção otimista para o cobre, impulsionada por tendências tecnológicas como IA e data centers, sugere uma demanda crescente por commodities essenciais para a infraestrutura digital. Se essa demanda se concretizar, pode haver um impacto positivo nos países produtores de cobre e, indiretamente, em cadeias de suprimentos globais. A concretização dessa projeção dependerá da evolução tecnológica e da capacidade de produção.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794575839.4530756,
+    "titulo": "Juros altos, eventos climáticos e preço de grãos elevaram dívidas do agro, dizem produtores",
+    "titulo_original": "Juros altos, eventos climáticos e preço de grãos elevaram dívidas do agro, dizem produtores",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 09:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O endividamento do agronegócio, influenciado por juros altos e fatores climáticos, pode ter implicações na inadimplência e afetar o setor financeiro. Se os juros permanecerem elevados, isso pode dificultar a recuperação do setor e pressionar ainda mais os balanços de bancos. A volatilidade nos preços dos grãos e os eventos climáticos também contribuem para a incerteza no setor.",
+    "is_stocks": true
   }
 ]
