@@ -1096,5 +1096,76 @@
     "origem": "domestica",
     "leitura_critica": "O endividamento do agronegócio, influenciado por juros altos e fatores climáticos, pode ter implicações na inadimplência e afetar o setor financeiro. Se os juros permanecerem elevados, isso pode dificultar a recuperação do setor e pressionar ainda mais os balanços de bancos. A volatilidade nos preços dos grãos e os eventos climáticos também contribuem para a incerteza no setor.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794582941.8647313,
+    "titulo": "PIB cresceu em todos os Estados em 2024, menos em MS e MT, diz IBGE",
+    "titulo_original": "PIB cresceu em todos os Estados em 2024, menos em MS e MT, diz IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 11:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho heterogêneo do PIB regional, com destaque para as regiões Nordeste e Norte, pode indicar uma diversificação econômica em curso, embora a dependência do agronegócio em alguns estados ainda os torne vulneráveis a choques climáticos. Se os dados de anos subsequentes confirmarem essa tendência de crescimento em outras regiões, isso pode sustentar um cenário de maior resiliência econômica nacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794582946.481907,
+    "titulo": "Kassab, sobre ajuste fiscal: ‘Estou vendo com bastante otimismo o posicionamento do governo’",
+    "titulo_original": "Kassab, sobre ajuste fiscal: ‘Estou vendo com bastante otimismo o posicionamento do governo’",
+    "fonte": "Money Times",
+    "publicado": "13/11 12:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Kassab sugere um apoio político relevante à agenda de ajuste fiscal do governo, o que pode facilitar a tramitação e aprovação de medidas futuras. Se essa percepção de otimismo se mantiver e for acompanhada por ações concretas, isso pode sinalizar um ambiente mais favorável para investimentos e para a estabilidade das contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794582953.7933137,
+    "titulo": "Quando a piora do cenário macro deixa de ser apenas risco e começa a criar oportunidade",
+    "titulo_original": "Quando a piora do cenário macro deixa de ser apenas risco e começa a criar oportunidade",
+    "fonte": "Money Times",
+    "publicado": "13/11 11:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda a relação entre o cenário macroeconômico, preocupações fiscais e oportunidades de investimento, sugerindo que momentos de piora podem ser pontos de entrada. Se as preocupações fiscais se materializarem em decisões concretas que elevem ainda mais os juros, isso pode criar um ambiente de maior volatilidade, mas também de potencial retorno para investidores com perfil de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794582958.2983158,
+    "titulo": "‘Aumento de imposto na veia’: CNI e Fiesp criticam texto do ajuste fiscal",
+    "titulo_original": "‘Aumento de imposto na veia’: CNI e Fiesp criticam texto do ajuste fiscal",
+    "fonte": "Money Times",
+    "publicado": "13/11 10:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As críticas da CNI e Fiesp ao texto do ajuste fiscal indicam uma forte oposição do setor industrial a medidas que possam aumentar a carga tributária. Se essas críticas levarem a negociações e alterações no texto, o impacto fiscal final pode ser diferente do proposto inicialmente, com potenciais consequências para a arrecadação e o ambiente de negócios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794582965.8731093,
+    "titulo": "Copom usa juros altos para reforçar chantagem contra fim da 6×1",
+    "titulo_original": "Copom usa juros altos para reforçar chantagem contra fim da 6×1 - CONTEE",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/11 11:46",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A interpretação de que o Copom utiliza juros altos como 'chantagem' é uma visão crítica sobre a condução da política monetária. Se essa percepção se disseminar, pode gerar ruído e desconfiança no mercado sobre as reais intenções por trás das decisões de juros, embora não apresente um fato concreto de política monetária.",
+    "is_stocks": false
   }
 ]
