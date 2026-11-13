@@ -1,88 +1,5 @@
 [
   {
-    "_timestamp": 1794496757.3345723,
-    "titulo": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
-    "titulo_original": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
-    "fonte": "Folha Mercado",
-    "publicado": "12/11 11:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte alta na inflação de alimentos pressiona o índice geral de preços, o que pode levar o Banco Central a manter uma postura mais cautelosa em relação à política monetária. Se os problemas climáticos persistirem, a pressão sobre os preços dos alimentos pode continuar, impactando o poder de compra da população.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794496762.5551631,
-    "titulo": "Congresso aprova proposta que permite emissão de títulos da dívida pública para financiar benefícios sociais",
-    "titulo_original": "Congresso aprova proposta que permite emissão de títulos da dívida pública para financiar benefícios sociais",
-    "fonte": "Valor Economico",
-    "publicado": "12/11 12:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de um projeto de lei que permite a emissão de títulos da dívida pública para financiar benefícios sociais representa uma decisão fiscal concreta. Se o governo captar todo o valor autorizado, isso pode aumentar a dívida pública. A forma como essa dívida será gerida e o impacto no cenário fiscal serão cruciais para a percepção de risco do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794496767.506188,
-    "titulo": "Setubal, da Itaúsa, vê cenário econômico mais difícil em 2027, com risco de estagnação ou recessão",
-    "titulo_original": "Setubal, da Itaúsa, vê cenário econômico mais difícil em 2027, com risco de estagnação ou recessão",
-    "fonte": "Valor Economico",
-    "publicado": "12/11 11:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de um cenário econômico mais difícil, com risco de estagnação ou recessão, feita por um executivo de peso como o presidente da Itaúsa, sugere que as taxas de juros podem permanecer elevadas por mais tempo. Se a atividade econômica desacelerar significativamente, isso pode impactar o mercado de trabalho. A persistência de juros altos e a desaceleração da atividade são fatores que merecem atenção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794496772.6539602,
-    "titulo": "Governo calcula esforço de R$ 46 bi a R$ 56 bi em 2027 com plano de ajuste; veja os impactos",
-    "titulo_original": "Governo calcula esforço de R$ 46 bi a R$ 56 bi em 2027 com plano de ajuste; veja os impactos",
-    "fonte": "Folha Mercado",
-    "publicado": "12/11 11:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia detalha o esforço fiscal que o governo pretende realizar em 2027. Se o plano for implementado conforme o previsto, pode haver uma redução do déficit primário, o que seria positivo para a percepção de risco fiscal. No entanto, a magnitude do esforço e a forma como ele será alcançado são cruciais para determinar seu impacto real.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794496778.4196613,
-    "titulo": "Presidente do BB diz que banco atravessa pior crise da história no agronegócio; ações caem mais de 9%",
-    "titulo_original": "Presidente do BB diz que banco atravessa pior crise da história no agronegócio; ações caem mais de 9%",
-    "fonte": "Folha Mercado",
-    "publicado": "12/11 10:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A crise no agronegócio mencionada pelo presidente do BB e as perdas com empréstimos podem indicar um cenário de maior dificuldade para o setor, o que pode ter reflexos na atividade econômica geral e no mercado de crédito. Se essa crise se aprofundar, pode haver impacto no emprego e na demanda por bens e serviços.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794496778.4214275,
-    "titulo": "Lula discute guerra e Estreito de Ormuz com presidente do Irã; veja balanço das reuniões na COP31",
-    "titulo_original": "Lula discute guerra e Estreito de Ormuz com presidente do Irã; veja balanço das reuniões na COP31 - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "12/11 10:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia aborda discussões diplomáticas de alto nível que podem ter implicações geopolíticas. Embora não afete diretamente os canais macroeconômicos listados, tensões em rotas marítimas importantes como o Estreito de Ormuz podem, em cenários extremos, impactar o comércio global e os preços de commodities, o que, por sua vez, poderia ter reflexos secundários na inflação ou atividade econômica.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794501946.786779,
     "titulo": "Além da Bolsa: como dólar e juros altos podem ameaçar investimentos e empregos",
     "titulo_original": "Além da Bolsa: como dólar e juros altos podem ameaçar investimentos e empregos - InfoMoney",
@@ -1180,6 +1097,110 @@
     ],
     "origem": "externa",
     "leitura_critica": "Se os indicadores de consumo continuarem a mostrar sinais de fraqueza, isso pode levar o Federal Reserve a reconsiderar sua postura em relação a futuras elevações de juros. Um enfraquecimento sustentado do consumidor americano pode impactar a atividade econômica global, especialmente se as empresas começarem a reduzir investimentos e contratações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794607247.1832135,
+    "titulo": "O dólar fechou o dia perto da estabilidade, com alta de 0,08%, cotado a R$ 5,655, nesta sexta-feira (13). A moeda chegou a R$ 5,666 na máxima do dia e encerrou o pregão na maior cotação de fechamento de 2026, no maior patamar desde 2 de junho de 2",
+    "titulo_original": "O dólar fechou o dia perto da estabilidade, com alta de 0,08%, cotado a R$ 5,655, nesta sexta-feira (13). A moeda chegou a R$ 5,666 na máxima do dia e encerrou o pregão na maior cotação de fechamento de 2026, no maior patamar desde 2 de junho de 2 - Instagram",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/11 18:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O dólar atingindo a maior cotação de fechamento do ano pode indicar uma pressão contínua sobre a moeda brasileira, possivelmente ligada a fatores externos ou à percepção de risco doméstico. Se o Banco Central intervir no mercado para conter a volatilidade, o comportamento futuro da moeda pode ser alterado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794607250.9923058,
+    "titulo": "Executivo é derrotado na disputa pelo excedente do teto no Judiciário",
+    "titulo_original": "Executivo é derrotado na disputa pelo excedente do teto no Judiciário",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 18:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do pacote fiscal com concessões pode ser vista como um sinal de que o governo busca viabilizar o ajuste, mas a percepção de insuficiência pelo mercado pode manter a pressão sobre os ativos. Se novas emendas forem propostas no Congresso, o impacto fiscal final pode divergir do texto aprovado hoje.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794607254.886856,
+    "titulo": "Reforma da Previdência completa 7 anos e reacende debate sobre ajuste nas regras da aposentadoria do INSS",
+    "titulo_original": "Reforma da Previdência completa 7 anos e reacende debate sobre ajuste nas regras da aposentadoria do INSS",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 17:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre um novo ajuste nas regras da Previdência indica a persistência do desafio fiscal relacionado ao envelhecimento populacional. Se uma nova reforma for implementada, ela poderá ter impactos significativos nas contas públicas e no mercado de trabalho.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794607258.711957,
+    "titulo": "Caixa estuda reajuste dos juros no financiamento imobiliário, diz VP do banco",
+    "titulo_original": "Caixa estuda reajuste dos juros no financiamento imobiliário, diz VP do banco",
+    "fonte": "Money Times",
+    "publicado": "13/11 16:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A possibilidade de reajuste nos juros do financiamento imobiliário pela Caixa pode encarecer o crédito para a compra de imóveis. Se essa elevação se concretizar, pode haver um impacto na demanda por imóveis e no setor da construção civil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794607263.708215,
+    "titulo": "Nasdaq e S&P 500 caem pressionados por ‘techs’; Nvidia segue em queda após crise",
+    "titulo_original": "Nasdaq e S&P 500 caem pressionados por ‘techs’; Nvidia segue em queda após crise",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 18:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda nos índices de tecnologia, especialmente a Nvidia, pode indicar um receio do mercado em relação a valuations esticados no setor de IA. Se os dados de inflação continuarem a vir acima do esperado, o Federal Reserve pode adiar cortes de juros, pressionando ainda mais as ações de tecnologia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794607263.7101593,
+    "titulo": "CSN afunda 10% e atinge menor patamar em 10 anos após prejuízo bilionário",
+    "titulo_original": "CSN afunda 10% e atinge menor patamar em 10 anos após prejuízo bilionário",
+    "fonte": "InvestNews",
+    "publicado": "13/11 17:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O forte recuo das ações da CSN reflete a percepção do mercado sobre a gravidade do prejuízo e a insuficiência das medidas de recuperação. Se a empresa não apresentar um plano de reestruturação mais robusto, a pressão sobre o preço das ações pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794607263.7120461,
+    "titulo": "Falha da Microsoft expõe dependência global de big techs",
+    "titulo_original": "Falha da Microsoft expõe dependência global de big techs",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 18:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A interrupção global dos serviços da Microsoft demonstra a fragilidade da infraestrutura digital e a concentração de poder nas mãos de poucas big techs. Se incidentes como este se tornarem mais frequentes, pode haver um aumento na pressão regulatória sobre essas empresas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794607263.7139087,
+    "titulo": "Relação do BB com o agronegócio permanece 'inabalável', diz CEO",
+    "titulo_original": "Relação do BB com o agronegócio permanece 'inabalável', diz CEO",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 17:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da CEO do Banco do Brasil busca mitigar preocupações sobre a inadimplência no agronegócio, reforçando a solidez da carteira. Se a renegociação de dívidas com o grupo específico de produtores for bem-sucedida, isso pode fortalecer a percepção de risco do setor.",
     "is_stocks": true
   }
 ]
