@@ -1167,5 +1167,126 @@
     "origem": "domestica",
     "leitura_critica": "A interpretação de que o Copom utiliza juros altos como 'chantagem' é uma visão crítica sobre a condução da política monetária. Se essa percepção se disseminar, pode gerar ruído e desconfiança no mercado sobre as reais intenções por trás das decisões de juros, embora não apresente um fato concreto de política monetária.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1794588376.1764379,
+    "titulo": "Galípolo descarta adiantar o futuro da Selic em tempos de incerteza - VEJA",
+    "titulo_original": "Galípolo descarta adiantar o futuro da Selic em tempos de incerteza - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/11 12:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Galípolo reforça a cautela do Banco Central em relação à condução da política monetária, indicando que a Selic permanecerá dependente dos dados econômicos futuros. Se as incertezas econômicas persistirem, o ciclo de cortes de juros pode ser mais lento ou interrompido; se o cenário se estabilizar, o BC pode ter mais clareza para definir os próximos passos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794588383.2413845,
+    "titulo": "Pagamento do 13º salário injeta R$ 339 bilhões na economia; veja calendário e quem recebe",
+    "titulo_original": "Pagamento do 13º salário injeta R$ 339 bilhões na economia; veja calendário e quem recebe",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 12:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A injeção de R$ 339,21 bilhões na economia com o pagamento do 13º salário tende a impulsionar o consumo no curto prazo. Se esse aumento de demanda se traduzir em maior atividade econômica e vendas para as empresas, isso pode ter um efeito positivo no PIB. No entanto, é crucial observar se esse impulso será sustentável ou apenas um pico sazonal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794588387.7571049,
+    "titulo": "US October PPI +6.5% vs +6.6% expected",
+    "titulo_original": "US October PPI +6.5% vs +6.6% expected",
+    "fonte": "ForexLive",
+    "publicado": "13/11 10:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado do PPI americano, vindo ligeiramente abaixo do esperado, pode ser interpretado como um pequeno alívio no cenário inflacionário, o que poderia influenciar a precificação de futuras altas de juros pelo Federal Reserve. Se os próximos indicadores de inflação continuarem nessa trajetória de desaceleração, o Fed pode ter mais espaço para pausar ou reduzir o ritmo de aperto monetário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794588392.3973207,
+    "titulo": "Goolsbee diz na CNBC que Fed precisa se precaver contra superaquecimento da demanda - InfoMoney",
+    "titulo_original": "Goolsbee diz na CNBC que Fed precisa se precaver contra superaquecimento da demanda - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/11 11:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Goolsbee, membro do Fed, sobre a necessidade de se precaver contra o superaquecimento da demanda reforça a postura cautelosa do banco central em relação à inflação. Se o Fed interpretar que a demanda está excessivamente aquecida, isso pode levar a uma manutenção ou até mesmo a novas altas nas taxas de juros. Se, por outro lado, os dados mostrarem moderação na demanda, o Fed pode ter mais flexibilidade para reduzir juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794588398.4215252,
+    "titulo": "‘Relação com o agro é inabalável’: presidente do Banco do Brasil explica avanço da inadimplência no campo",
+    "titulo_original": "‘Relação com o agro é inabalável’: presidente do Banco do Brasil explica avanço da inadimplência no campo",
+    "fonte": "Money Times",
+    "publicado": "13/11 13:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O comentário da presidente do Banco do Brasil sobre a inadimplência no agronegócio pode indicar um aumento na necessidade de provisões para o setor, o que impactaria os resultados do banco. Se essa tendência de inadimplência se confirmar em outros setores ou instituições financeiras, pode ser um sinal de alerta para a saúde econômica do país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794588398.4230828,
+    "titulo": "Petrobras busca aprimoramento logístico com a compra da Logum, diz presidente",
+    "titulo_original": "Petrobras busca aprimoramento logístico com a compra da Logum, diz presidente",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 13:35",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aquisição da Logum pela Petrobras representa uma decisão estratégica da empresa para fortalecer sua atuação em logística e energias renováveis. Se a operação for aprovada pelo Cade, isso pode otimizar a cadeia de suprimentos de etanol e reforçar a posição da Petrobras no setor, potencialmente impactando a competitividade de outras empresas do ramo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794588398.424413,
+    "titulo": "SpaceX planeja investir US$ 74 bilhões em data centers no Texas e Arizona",
+    "titulo_original": "SpaceX planeja investir US$ 74 bilhões em data centers no Texas e Arizona",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 12:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O investimento massivo da SpaceX em data centers demonstra a crescente demanda por infraestrutura de computação, especialmente impulsionada pela inteligência artificial. Se esse investimento se concretizar, pode gerar um impacto significativo nos setores de tecnologia e infraestrutura nos EUA, além de sinalizar uma corrida global por capacidade de processamento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794588398.4258885,
+    "titulo": "Vender fatia minoritária em infraestrutura não é a melhor saída, diz presidente da CSN",
+    "titulo_original": "Vender fatia minoritária em infraestrutura não é a melhor saída, diz presidente da CSN",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 13:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente da CSN sobre a estratégia de monetização de ativos indica uma reavaliação da abordagem da empresa. Se a CSN optar pela venda individualizada de ativos, isso pode gerar fluxos de caixa pontuais, mas a falta de uma venda de participação majoritária pode limitar o impacto imediato na estrutura de capital da empresa. É importante observar quais ativos serão vendidos e a que preço.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794588398.4272661,
+    "titulo": "Banco Inter salta mais de 8% após balanço: a inadimplência deixou de assustar os investidores?",
+    "titulo_original": "Banco Inter salta mais de 8% após balanço: a inadimplência deixou de assustar os investidores?",
+    "fonte": "Money Times",
+    "publicado": "13/11 13:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte alta das ações do Banco Inter sugere que os investidores estão mais otimistas em relação à qualidade de sua carteira de crédito e à gestão da inadimplência. Se o banco conseguir manter essa performance e continuar a apresentar resultados sólidos, a tendência de valorização de suas ações pode se sustentar. Caso contrário, a percepção de risco pode retornar.",
+    "is_stocks": true
   }
 ]
