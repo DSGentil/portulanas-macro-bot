@@ -1,148 +1,5 @@
 [
   {
-    "_timestamp": 1794483046.7684927,
-    "titulo": "Inflação do CPI da Índia em outubro sobe para 6,09%, inflação de alimentos acelera para 8,94%",
-    "titulo_original": "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
-    "fonte": "ForexLive",
-    "publicado": "12/11 07:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O aumento da inflação na Índia, impulsionado significativamente pelos alimentos, eleva a probabilidade de o Reserve Bank of India (RBI) adotar uma postura mais restritiva em sua próxima reunião. Se o RBI optar por um aperto monetário mais agressivo do que o esperado, isso pode impactar o crescimento econômico do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794483050.5681674,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "12/11 04:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O forte desempenho do PIB do Reino Unido sugere que o Banco da Inglaterra (BOE) tem espaço para manter uma política monetária mais restritiva para combater a inflação. Se o BOE confirmar a alta de juros em dezembro, isso pode impactar o custo do crédito no país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794483054.3700695,
-    "titulo": "Perspectiva de Fed mais restritivo fortalece dólar em âmbito global",
-    "titulo_original": "Perspectiva de Fed mais restritivo fortalece dólar em âmbito global - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/11 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O fortalecimento do dólar globalmente, impulsionado pela perspectiva de um Fed mais restritivo, pode pressionar moedas de outros países. Se o Fed mantiver o tom hawkish, isso pode levar a uma valorização contínua do dólar frente a outras divisas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794483058.1707172,
-    "titulo": "PIB do 3º trimestre do Reino Unido atinge estimativas com crescimento resiliente dando ao BOE mais espaço para combater a inflação",
-    "titulo_original": "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle inflation",
-    "fonte": "ForexLive",
-    "publicado": "12/11 04:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O crescimento resiliente do PIB do Reino Unido no terceiro trimestre, em linha com as expectativas, pode dar ao Banco da Inglaterra (BOE) mais confiança para manter uma política monetária focada no combate à inflação. Se a inflação persistir alta, o BOE pode considerar novas altas de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794483063.9073615,
-    "titulo": "Analistas dizem que BB ainda não atingiu o fundo do poço e citam preocupação com capital",
-    "titulo_original": "Analistas dizem que BB ainda não atingiu o fundo do poço e citam preocupação com capital",
-    "fonte": "Valor Economico",
-    "publicado": "12/11 08:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Se as provisões para o agronegócio continuarem a pressionar os resultados do Banco do Brasil, isso pode indicar um cenário de maior risco para o setor financeiro doméstico. Caso o banco consiga implementar medidas eficazes para fortalecer seu capital, o impacto negativo pode ser mitigado no médio prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794483063.9087944,
-    "titulo": "Escândalo na Nvidia leva empresas chinesas a buscarem alternativas e fornecedores a reverem planos",
-    "titulo_original": "Escândalo na Nvidia leva empresas chineses a buscarem alternativas e fornecedores a reverem planos",
-    "fonte": "Folha Mercado",
-    "publicado": "12/11 08:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A turbulência em torno da Nvidia e a busca por alternativas por empresas chinesas podem indicar uma reconfiguração na cadeia de suprimentos de tecnologia. Se os EUA impuserem restrições mais severas, isso pode afetar o desenvolvimento de IA em ambas as regiões.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794483063.910093,
-    "titulo": "Alibaba e outras ações de IA caem em Hong Kong com turbulência na Nvidia e temores de restrições a chips",
-    "titulo_original": "Alibaba e outras ações de IA caem em Hong Kong com turbulência na Nvidia e temores de restrições a chips",
-    "fonte": "Valor Economico",
-    "publicado": "12/11 08:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda das ações de IA na China, ligada à Nvidia, sinaliza a vulnerabilidade do setor a tensões geopolíticas e regulatórias. Se os EUA endurecerem as restrições a chips, isso pode impactar o desenvolvimento tecnológico chinês e as empresas listadas em Hong Kong.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794483063.9113886,
-    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "12/11 07:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Acompanhar os fatores que influenciam o Ibovespa, o dólar e os juros é crucial para entender a dinâmica do mercado financeiro brasileiro. Se as expectativas sobre a política monetária mudarem, isso pode gerar volatilidade nesses ativos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794483063.9126942,
-    "titulo": "Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos",
-    "titulo_original": "Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "12/11 07:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O Ibovespa ganhar força sugere um movimento positivo no mercado acionário brasileiro. Se essa tendência se mantiver, pode haver oportunidades para operações de day trade, mas a volatilidade inerente a esse tipo de operação deve ser considerada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794483063.9140077,
-    "titulo": "Agenda de empresas: Lucro da Ultrapar soma R$ 2,7 bi; prejuízo da Hapvida mais que dobra",
-    "titulo_original": "Agenda de empresas: Lucro da Ultrapar soma R$ 2,7 bi; prejuízo da Hapvida mais que dobra",
-    "fonte": "Valor Economico",
-    "publicado": "12/11 08:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Os resultados trimestrais das empresas mostram cenários distintos: a Ultrapar com forte crescimento, o Banco do Brasil com queda expressiva e a Hapvida com prejuízo ampliado. Se a Ultrapar conseguir manter essa performance, pode ser um indicativo de força em seu setor de atuação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794483063.915325,
-    "titulo": "Nubank (ROXO34) deve manter lucro em alta no 3T26, mas crédito preocupa analistas para 2027",
-    "titulo_original": "Nubank (ROXO34) deve manter lucro em alta no 3T26, mas crédito preocupa analistas para 2027",
-    "fonte": "Money Times",
-    "publicado": "12/11 07:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa de lucro em alta para o Nubank contrasta com as preocupações sobre o cenário de crédito em 2027. Se a desaceleração do crédito se concretizar, o Nubank pode precisar ajustar suas estratégias para manter a rentabilidade.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794489575.8060472,
     "titulo": "Verde teme “exotismos”, corta bolsa e aposta em dólar: “Não há boas notícias”",
     "titulo_original": "Verde teme “exotismos”, corta bolsa e aposta em dólar: “Não há boas notícias” - InfoMoney",
@@ -1287,6 +1144,96 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A forte alta das ações do Banco Inter sugere que os investidores estão mais otimistas em relação à qualidade de sua carteira de crédito e à gestão da inadimplência. Se o banco conseguir manter essa performance e continuar a apresentar resultados sólidos, a tendência de valorização de suas ações pode se sustentar. Caso contrário, a percepção de risco pode retornar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794594644.8648834,
+    "titulo": "Boletim Cambial (12/11): Euro e Dólar PTAX - TradeMap",
+    "titulo_original": "Boletim Cambial (12/11): Euro e Dólar PTAX - TradeMap",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/11 13:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação do boletim cambial com as cotações do Euro e Dólar PTAX é um dado de mercado. Se houver volatilidade significativa nessas cotações, isso pode influenciar a inflação de bens importados e o custo de dívidas em moeda estrangeira, mas a notícia em si apenas reporta os valores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794594648.6064835,
+    "titulo": "Risco fiscal: como as contas públicas podem influenciar dólar, juros e Bolsa?",
+    "titulo_original": "Risco fiscal: como as contas públicas podem influenciar dólar, juros e Bolsa? - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "13/11 13:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A relação entre risco fiscal, contas públicas e os principais indicadores do mercado financeiro é um tema central para a análise econômica. Se o risco fiscal aumentar, pode haver pressão de alta sobre o dólar e os juros, e queda na Bolsa. Acompanhar as decisões fiscais e a evolução das contas públicas é crucial para entender esses movimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794594652.3964083,
+    "titulo": "AIE projeta excesso de oferta de petróleo pela 1ª vez desde guerra no Irã",
+    "titulo_original": "AIE projeta excesso de oferta de petróleo pela 1ª vez desde guerra no Irã - UOL Economia",
+    "fonte": "Google News Commodities",
+    "publicado": "13/11 12:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A projeção de excesso de oferta de petróleo pela AIE pode levar a uma queda nos preços do barril. Se isso ocorrer, pode impactar a inflação global e a receita de países exportadores de petróleo. Para o Brasil, pode influenciar os custos de combustíveis e a performance de empresas ligadas ao setor, mas a notícia não detalha esses impactos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794594657.4968662,
+    "titulo": "Ibovespa sobe, dólar e juros futuros caem com ajustes após mau humor da véspera; bolsas de NY sofrem com techs",
+    "titulo_original": "Ibovespa sobe, dólar e juros futuros caem com ajustes após mau humor da véspera; bolsas de NY sofrem com techs",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 15:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A recuperação do Ibovespa e a queda dos juros futuros podem indicar uma melhora momentânea no apetite por risco local. Se as preocupações com a política fiscal se intensificarem, o movimento de queda dos juros pode ser revertido rapidamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794594657.4988773,
+    "titulo": "B3 (B3SA3) bate recorde e movimenta R$ 1,3 trilhão em um mês; o que aconteceu?",
+    "titulo_original": "B3 (B3SA3) bate recorde e movimenta R$ 1,3 trilhão em um mês; o que aconteceu? - Suno - Investimentos Inteligentes",
+    "fonte": "Google News Acoes",
+    "publicado": "13/11 14:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde de movimentação na B3 pode indicar um aumento na atividade do mercado financeiro. Se esse volume estiver associado a um maior fluxo de capital estrangeiro ou a uma maior liquidez no mercado, pode ser um indicativo de maior confiança dos investidores, mas a notícia não especifica a origem desse fluxo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794594657.5008562,
+    "titulo": "Pedidos de ações no IPO da Anthropic vindos da China e Hong Kong teriam sido rejeitados",
+    "titulo_original": "Pedidos de ações no IPO da Anthropic vindos da China e Hong Kong teriam sido rejeitados",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 14:55",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A rejeição de pedidos de IPO de investidores chineses na Anthropic pode indicar um endurecimento nas relações comerciais e tecnológicas entre EUA e China. Se essa tendência se generalizar, pode afetar fluxos de capital para empresas de tecnologia em ambos os países, mas a notícia é específica para um IPO.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794594657.5028148,
+    "titulo": "Braskem vê margens menores em 2027 e 'segue engajada' em acordo com credores, diz diretoria",
+    "titulo_original": "Braskem vê margens menores em 2027 e 'segue engajada' em acordo com credores, diz diretoria",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 13:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de margens menores para a Braskem em 2027 e a menção ao fim do período de margens elevadas podem indicar uma desaceleração em setores específicos da indústria. Se essa tendência se confirmar para outras empresas, pode impactar a atividade econômica e o emprego, mas a notícia é específica para a Braskem.",
     "is_stocks": true
   }
 ]
