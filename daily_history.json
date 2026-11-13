@@ -1,138 +1,5 @@
 [
   {
-    "_timestamp": 1794501946.786779,
-    "titulo": "Além da Bolsa: como dólar e juros altos podem ameaçar investimentos e empregos",
-    "titulo_original": "Além da Bolsa: como dólar e juros altos podem ameaçar investimentos e empregos - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/11 13:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A combinação de dólar alto e juros elevados no Brasil cria um cenário desafiador para investimentos e geração de empregos. Se a taxa de juros se mantiver alta por um período prolongado, isso pode desacelerar o consumo e o investimento produtivo. A trajetória futura dos juros e a gestão da política cambial serão determinantes para a recuperação da atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794501951.233243,
-    "titulo": "TST enquadra dispensa em massa na Casa da Moeda como etarismo",
-    "titulo_original": "TST enquadra dispensa em massa na Casa da Moeda como etarismo",
-    "fonte": "Valor Economico",
-    "publicado": "12/11 12:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do TST sobre a dispensa em massa na Casa da Moeda configura uma decisão regulatória com impacto trabalhista e social. Se decisões judiciais com esse teor se tornarem mais frequentes, podem aumentar os custos para empresas e afetar a dinâmica do mercado de trabalho. A interpretação de 'etarismo' como critério de dispensa pode influenciar futuras decisões em casos semelhantes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794501955.694367,
-    "titulo": "Cocos fecha 1ª rodada de investimentos com captação de US$ 34 mi liderada pela Kaszek",
-    "titulo_original": "Cocos fecha 1ª rodada de investimentos com captação de US$ 34 mi liderada pela Kaszek",
-    "fonte": "Valor Economico",
-    "publicado": "12/11 12:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre uma rodada de investimentos em uma fintech, indicando um fluxo de capital para o setor. Se essa tendência de investimento em fintechs se mantiver, pode impulsionar a inovação e a competição no setor financeiro. A expansão da Warren no Brasil, sujeita à aprovação do Banco Central, pode ter implicações regulatórias futuras.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794501960.1931512,
-    "titulo": "Brasil e Venezuela prometem estreitar relações com negociações sobre investimentos em petróleo",
-    "titulo_original": "Brasil e Venezuela prometem estreitar relações com negociações sobre investimentos em petróleo - O GLOBO",
-    "fonte": "Google News Commodities",
-    "publicado": "12/11 12:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A notícia indica um possível estreitamento de relações entre Brasil e Venezuela com foco em investimentos em petróleo. Embora possa ter implicações para o setor energético, a notícia não conecta explicitamente esses desenvolvimentos a decisões de juros, inflação, atividade/emprego, fiscal/regulatória ou fluxo de capital que afetem diretamente o mercado brasileiro de forma clara.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794501967.1838918,
-    "titulo": "Banco do Brasil derrete na bolsa e ação cai 10%. Para analistas, o pior ainda não passou",
-    "titulo_original": "Banco do Brasil derrete na bolsa e ação cai 10%. Para analistas, o pior ainda não passou",
-    "fonte": "InvestNews",
-    "publicado": "12/11 13:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda nas ações do Banco do Brasil, associada à deterioração do crédito rural, pode indicar um cenário de maior inadimplência e menor atividade econômica no agronegócio. Se essa tendência se generalizar para outros setores, pode pressionar a atividade econômica geral. A capacidade do banco de gerenciar seus riscos de crédito será crucial para a estabilidade do setor financeiro doméstico.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794501967.18606,
-    "titulo": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026",
-    "titulo_original": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026 - G1",
-    "fonte": "Google News Acoes",
-    "publicado": "12/11 12:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda nas ações do Banco do Brasil, impulsionada pela queda no lucro e corte de projeções, reflete preocupações com a saúde financeira da instituição e seu impacto no setor bancário. Se a inadimplência continuar a crescer, isso pode afetar a oferta de crédito e, consequentemente, a atividade econômica. A capacidade do banco de reverter essa tendência será um fator importante para o mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794501967.1881618,
-    "titulo": "BB tem cenário preocupante à frente e amplia distância de pares privados, dizem analistas",
-    "titulo_original": "BB tem cenário preocupante à frente e amplia distância de pares privados, dizem analistas",
-    "fonte": "Folha Mercado",
-    "publicado": "12/11 12:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise sobre o Banco do Brasil aponta para uma deterioração na inadimplência do agronegócio, o que pode ser um indicativo de dificuldades em um setor importante da economia. Se essa tendência se confirmar em outros setores, pode levar a uma desaceleração da atividade econômica. A capacidade do setor bancário de absorver perdas e continuar a ofertar crédito será crucial para a estabilidade econômica.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794501967.1902413,
-    "titulo": "Sessão europeia de investingLive: Ouro tropeça, ações mistas com Nvidia arrastando futuros dos EUA para baixo",
-    "titulo_original": "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia drags US futures down",
-    "fonte": "ForexLive",
-    "publicado": "12/11 09:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia descreve movimentos no mercado de ações e commodities no exterior, com destaque para a Nvidia. Embora a volatilidade em mercados globais possa ter algum reflexo, a notícia não conecta explicitamente esses movimentos a decisões de juros, inflação, atividade/emprego, fiscal/regulatória ou fluxo de capital que afetem diretamente o mercado brasileiro de forma clara.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794501967.1923296,
-    "titulo": "Banco do Brasil (BBAS3) prepara IPO de duas empresas do grupo; BB Seguridade não está à venda, diz CFO",
-    "titulo_original": "Banco do Brasil (BBAS3) prepara IPO de duas empresas do grupo; BB Seguridade não está à venda, diz CFO",
-    "fonte": "Money Times",
-    "publicado": "12/11 12:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia informa sobre planos de IPOs de empresas ligadas ao Banco do Brasil. Embora possa ter impacto no mercado de ações, não há conexão explícita com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital que justifique uma relevância macroeconômica direta para o mercado de WDO.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794501967.194417,
-    "titulo": "Hapvida (HAPV3): ações disparam 15% mesmo com queda de 68% no lucro do 3º trimestre; o que dizem analistas?",
-    "titulo_original": "Hapvida (HAPV3): ações disparam 15% mesmo com queda de 68% no lucro do 3º trimestre; o que dizem analistas?",
-    "fonte": "Money Times",
-    "publicado": "12/11 12:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia descreve um movimento atípico no mercado de ações da Hapvida, com alta expressiva mesmo diante de queda no lucro. Embora seja um fato relevante para o mercado acionário, não há conexão explícita com os canais de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital que justifique uma relevância macroeconômica para o mercado de WDO.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794508245.6775749,
     "titulo": "UBS vê alta da Selic como ‘extremamente improvável’ até 2027 - Valor Investe",
     "titulo_original": "UBS vê alta da Selic como ‘extremamente improvável’ até 2027 - Valor Investe",
@@ -1201,6 +1068,118 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A declaração da CEO do Banco do Brasil busca mitigar preocupações sobre a inadimplência no agronegócio, reforçando a solidez da carteira. Se a renegociação de dívidas com o grupo específico de produtores for bem-sucedida, isso pode fortalecer a percepção de risco do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794612648.6536179,
+    "titulo": "Destaque ao PLP do ajuste pode derrubar artigo que limita compensação tributária e arrecadaria até R$ 18 bi",
+    "titulo_original": "Destaque ao PLP do ajuste pode derrubar artigo que limita compensação tributária e arrecadaria até R$ 18 bi",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 19:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A votação deste destaque é crucial para o cenário fiscal do governo, pois a aprovação da restrição à compensação tributária representa uma importante fonte de receita. Se o artigo for derrubado, o governo precisará buscar outras fontes para atingir suas metas de arrecadação, o que pode gerar pressão em outras áreas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794612653.5656633,
+    "titulo": "Fazenda informa que subvenção de R$ 1,40 ao diesel importado venceu e não será renovada",
+    "titulo_original": "Fazenda informa que subvenção de R$ 1,40 ao diesel importado venceu e não será renovada",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 19:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O fim da subvenção adicional ao diesel importado contribui para a redução do descasamento entre receitas e despesas do governo. Se os preços do petróleo continuarem estáveis ou em queda, o impacto para o consumidor pode ser mitigado; caso contrário, o fim do subsídio pode pressionar a inflação de transportes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794612658.5232942,
+    "titulo": "Presidente do PT diz que debate sobre ajuste fiscal tem 'desinformação' e nega corte em programas sociais",
+    "titulo_original": "Presidente do PT diz que debate sobre ajuste fiscal tem 'desinformação' e nega corte em programas sociais",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 19:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente do PT busca tranquilizar a população sobre os impactos do ajuste fiscal, mas a percepção do mercado sobre a sustentabilidade das contas públicas dependerá da efetiva aprovação e implementação das medidas. Se o Congresso aprovar o pacote fiscal sem alterações significativas, isso pode reforçar a confiança na gestão econômica; caso contrário, a incerteza pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794612663.4424753,
+    "titulo": "Galípolo afirma ter 'desafio pedagógico' de explicar política monetária e diz que 'verdade custa caro'",
+    "titulo_original": "Galípolo afirma ter 'desafio pedagógico' de explicar política monetária e diz que 'verdade custa caro'",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 17:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Galípolo reflete a complexidade da comunicação da política monetária em um ambiente de muitas opiniões divergentes. Se o Banco Central conseguir comunicar de forma mais clara suas decisões e o racional por trás delas, isso pode reduzir a volatilidade gerada por especulações; caso contrário, a percepção de incerteza pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794612669.479736,
+    "titulo": "Nubank recebe aprovação do BC para obter licença bancária no Brasil",
+    "titulo_original": "Nubank recebe aprovação do BC para obter licença bancária no Brasil",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 19:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A obtenção da licença bancária pelo Nubank reforça sua posição no sistema financeiro nacional e pode intensificar a concorrência no setor. Se o Nubank conseguir integrar efetivamente suas operações sob a nova licença, isso pode resultar em maior oferta de produtos e serviços bancários tradicionais para seus clientes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794612669.4817374,
+    "titulo": "Tecnologia pesa sobre NY enquanto mercado avalia próximo passo do Fed",
+    "titulo_original": "Tecnologia pesa sobre NY enquanto mercado avalia próximo passo do Fed",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 18:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de um aumento de 0,50 p.p. nos juros pelo Fed em dezembro sinaliza uma postura mais restritiva da política monetária americana, o que pode impactar mercados globais. Se o Fed realmente optar por um aperto maior, isso tende a fortalecer o dólar e pressionar ativos de risco; caso a comunicação futura indique moderação, o cenário pode se reverter.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794612669.4835062,
+    "titulo": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
+    "titulo_original": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
+    "fonte": "ForexLive",
+    "publicado": "13/11 19:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A leitura do PPI ligeiramente abaixo do esperado pode aliviar as preocupações com a inflação, mas as falas de membros do Fed ainda sugerem um viés hawkish. Se a inflação continuar a dar sinais de arrefecimento, isso pode abrir espaço para o Fed moderar o ritmo de alta de juros; caso contrário, o aperto monetário pode se intensificar, afetando o apetite por risco global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794612669.4852421,
+    "titulo": "B3 espera quarto trimestre forte após recordes em volumes em outubro",
+    "titulo_original": "B3 espera quarto trimestre forte após recordes em volumes em outubro",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 15:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de um quarto trimestre forte para a B3, impulsionada por volumes recordes em outubro, sugere um cenário de atividade de mercado aquecida. Se a tendência de alta nos volumes se mantiver, isso pode indicar um maior interesse dos investidores em renda variável; caso contrário, uma desaceleração mais acentuada pode sinalizar cautela no mercado.",
     "is_stocks": true
   }
 ]
