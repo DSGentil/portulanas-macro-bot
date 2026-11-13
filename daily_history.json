@@ -1,145 +1,5 @@
 [
   {
-    "_timestamp": 1794489575.8060472,
-    "titulo": "Verde teme “exotismos”, corta bolsa e aposta em dólar: “Não há boas notícias”",
-    "titulo_original": "Verde teme “exotismos”, corta bolsa e aposta em dólar: “Não há boas notícias” - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "12/11 08:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A postura defensiva do fundo Verde, com corte em bolsa e aposta em dólar, pode refletir uma percepção de risco elevada no mercado doméstico. Se essa visão se disseminar, pode haver pressão de saída de capital e valorização da moeda estrangeira.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794489580.75939,
-    "titulo": "IPCA deve ser de até 0,39% no último bimestre para inflação ficar no teto da meta de 2026",
-    "titulo_original": "IPCA deve ser de até 0,39% no último bimestre para inflação ficar no teto da meta de 2026",
-    "fonte": "Valor Economico",
-    "publicado": "12/11 09:55",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A necessidade de uma inflação controlada nos últimos dois meses do ano para atingir o teto da meta indica a sensibilidade do resultado final. Se o IPCA superar 0,39% no bimestre, a meta de inflação será descumprida, o que pode influenciar as decisões futuras de política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794489585.6609755,
-    "titulo": "Ataques russos e apoio incerto de Trump ampliam apagões e falta de aquecimento na Ucrânia",
-    "titulo_original": "Ataques russos e apoio incerto de Trump ampliam apagões e falta de aquecimento na Ucrânia - Estadão",
-    "fonte": "Google News Geopolitica",
-    "publicado": "12/11 05:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada dos ataques russos na Ucrânia, combinada com a incerteza política externa, cria um cenário humanitário e de infraestrutura cada vez mais crítico. A falta de aquecimento e os apagões podem ter implicações na estabilidade regional e na economia ucraniana.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794489590.5232515,
-    "titulo": "Ataque israelense mata seis pessoas em hospital no sul de Gaza, diz Defesa Civil",
-    "titulo_original": "Ataque israelense mata seis pessoas em hospital no sul de Gaza, diz Defesa Civil - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "12/11 05:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O incidente em Gaza agrava a crise humanitária na região e pode intensificar as tensões geopolíticas. A repercussão internacional e as possíveis reações diplomáticas são pontos a serem observados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794489596.9580884,
-    "titulo": "Estrangeiros completam 13 pregões de saques na B3; saída no mês passa de R$ 5 bi",
-    "titulo_original": "Estrangeiros completam 13 pregões de saques na B3; saída no mês passa de R$ 5 bi",
-    "fonte": "Valor Economico",
-    "publicado": "12/11 10:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade dos saques por investidores estrangeiros na B3 por 13 pregões seguidos indica uma aversão ao risco ou busca por outros mercados. Se essa tendência persistir, pode pressionar o mercado acionário brasileiro e o câmbio.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794489596.9596415,
-    "titulo": "Petrobras (PETR4), Raízen (RAIZ55), Taesa (TAEE11) e outros destaques desta quinta-feira (12)",
-    "titulo_original": "Petrobras (PETR4), Raízen (RAIZ55), Taesa (TAEE11) e outros destaques desta quinta-feira (12)",
-    "fonte": "Money Times",
-    "publicado": "12/11 09:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Os resultados trimestrais de grandes empresas como Petrobras podem influenciar o desempenho do setor de energia e a confiança do investidor. A comunicação sobre o aumento de capex e a redução de dividendos da Petrobras pode gerar reações no mercado acionário.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794489596.9610758,
-    "titulo": "B3 compra 40% da empresa de índices IDEX de olho no crescimento de ETFs de renda fixa",
-    "titulo_original": "B3 compra 40% da empresa de índices IDEX de olho no crescimento de ETFs de renda fixa - InvestNews",
-    "fonte": "Google News Acoes",
-    "publicado": "12/11 09:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A aquisição pela B3 sinaliza uma aposta no potencial de crescimento dos ETFs de renda fixa no mercado brasileiro. A expansão desses produtos pode atrair mais investidores para essa classe de ativos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794489596.9625244,
-    "titulo": "BTG Pactual tem lucro recorde de R$ 5,33 bilhões no 3º trimestre e anuncia recompra de ações",
-    "titulo_original": "BTG Pactual tem lucro recorde de R$ 5,33 bilhões no 3º trimestre e anuncia recompra de ações",
-    "fonte": "Folha Mercado",
-    "publicado": "12/11 07:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O resultado recorde do BTG Pactual em um cenário de desaceleração na concessão de crédito demonstra a resiliência do modelo de negócios do banco. A recompra de ações pode ser interpretada como um sinal de confiança da gestão no valor da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794489596.9639933,
-    "titulo": "Petrobras (PETR4) despenca após balanço: até onde pode cair a ação?",
-    "titulo_original": "Petrobras (PETR4) despenca após balanço: até onde pode cair a ação? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "12/11 09:09",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda das ações da Petrobras após o balanço sugere que os resultados ou as projeções apresentadas não atenderam às expectativas do mercado. A análise dos fundamentos e do cenário setorial será crucial para determinar o piso dessa desvalorização.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794489596.9654467,
-    "titulo": "Economia do Reino Unido cresce 0,7% no terceiro trimestre com impulso da IA",
-    "titulo_original": "Economia do Reino Unido cresce 0,7% no terceiro trimestre com impulso da IA",
-    "fonte": "Folha Mercado",
-    "publicado": "12/11 07:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O crescimento da economia do Reino Unido, impulsionado pela IA, demonstra o impacto de novas tecnologias no desempenho macroeconômico. Se essa tendência se mantiver, pode indicar um novo motor de crescimento para outras economias.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794489596.9668896,
-    "titulo": "Santander da Espanha revisa oferta para compra de ações da unidade brasileira",
-    "titulo_original": "Santander da Espanha revisa oferta para compra de ações da unidade brasileira",
-    "fonte": "Folha Mercado",
-    "publicado": "12/11 07:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A revisão da oferta do Santander da Espanha visa tornar a aquisição da unidade brasileira mais atrativa para os acionistas. O sucesso da OPA pode consolidar a estrutura acionária do banco no Brasil e impactar a liquidez das ações remanescentes.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794496757.3345723,
     "titulo": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
     "titulo_original": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
@@ -1234,6 +1094,92 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A projeção de margens menores para a Braskem em 2027 e a menção ao fim do período de margens elevadas podem indicar uma desaceleração em setores específicos da indústria. Se essa tendência se confirmar para outras empresas, pode impactar a atividade econômica e o emprego, mas a notícia é específica para a Braskem.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794601869.656615,
+    "titulo": "Governadores eleitos se unem contra pacote fiscal e dizem que Estados podem ser penalizados",
+    "titulo_original": "Governadores eleitos se unem contra pacote fiscal e dizem que Estados podem ser penalizados",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 17:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A articulação dos governadores contra o pacote fiscal pode indicar uma futura pressão por alterações no texto, caso a proposta avance sem modificações significativas. Se a oposição dos governadores se mantiver forte e se traduzir em ações políticas concretas, o Senado pode ser levado a rever alguns pontos do ajuste fiscal para garantir maior apoio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794601874.820259,
+    "titulo": "Entenda o que mudou no pacote fiscal de R$ 60 bilhões e quais destaques ainda serão votados pelo Senado",
+    "titulo_original": "Entenda o que mudou no pacote fiscal de R$ 60 bilhões e quais destaques ainda serão votados pelo Senado",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 16:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do texto-base do ajuste fiscal pelo Senado é um passo importante na consolidação das contas públicas. Se os destaques restantes forem aprovados sem alterações significativas que comprometam o montante do ajuste, isso pode reforçar a confiança na trajetória fiscal. Caso contrário, a incerteza sobre o resultado final pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794601878.779721,
+    "titulo": "Rede D’Or: Novo cenário de juros não muda planos de expansão",
+    "titulo_original": "Rede D’Or: Novo cenário de juros não muda planos de expansão",
+    "fonte": "Valor Economico",
+    "publicado": "13/11 16:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da Rede D’Or de manter seus planos de expansão, mesmo em um cenário de juros mais altos, sugere uma confiança da empresa em seus fundamentos e projeções futuras. Se outras empresas do setor adotarem postura semelhante, isso pode indicar resiliência da atividade econômica apesar do aperto monetário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794601882.8054838,
+    "titulo": "Lula atravessará o Rubicão?",
+    "titulo_original": "Lula atravessará o Rubicão?",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 16:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise aponta para uma tensão entre a política monetária e a política fiscal sob a gestão atual. Se a política fiscal expansionista persistir, isso pode forçar o Banco Central a manter os juros em patamares elevados por mais tempo para controlar a inflação. A eventual decisão de Lula em priorizar um dos lados dessa balança definirá o cenário futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794601887.4713778,
+    "titulo": "Preços ao produtor nos EUA voltam a subir em outubro",
+    "titulo_original": "Preços ao produtor nos EUA voltam a subir em outubro",
+    "fonte": "Folha Mercado",
+    "publicado": "13/11 16:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento nos preços ao produtor nos EUA é um forte indicativo de pressões inflacionárias persistentes, o que pode levar o Federal Reserve a manter uma política monetária mais restritiva. Se o Fed continuar a elevar os juros, isso pode impactar o custo do crédito globalmente e afetar o apetite por risco nos mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794601887.4726737,
+    "titulo": "O consumidor americano pode estar batendo em uma parede. Uma olhada em oito indicadores",
+    "titulo_original": "The US consumer may be hitting a wall. A look at eight indicators",
+    "fonte": "ForexLive",
+    "publicado": "13/11 15:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Se os indicadores de consumo continuarem a mostrar sinais de fraqueza, isso pode levar o Federal Reserve a reconsiderar sua postura em relação a futuras elevações de juros. Um enfraquecimento sustentado do consumidor americano pode impactar a atividade econômica global, especialmente se as empresas começarem a reduzir investimentos e contratações.",
     "is_stocks": true
   }
 ]
