@@ -625,5 +625,129 @@
     "origem": "externa",
     "leitura_critica": "A recorrência de falhas em infraestruturas críticas, incluindo sistemas bancários, pode minar a confiança dos consumidores e gerar preocupações sobre a segurança e estabilidade dos serviços digitais. Se esses problemas se tornarem mais frequentes, podem impactar a percepção de risco e a eficiência das operações financeiras.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794866447.8151493,
+    "titulo": "Com Lula no Brasil, Planalto prepara reuniões com base de apoio para alinhar defesa ao ajuste fiscal",
+    "titulo_original": "Com Lula no Brasil, Planalto prepara reuniões com base de apoio para alinhar defesa ao ajuste fiscal",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 18:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A articulação política em torno do ajuste fiscal é crucial para sua aprovação e para a estabilidade econômica. Se o governo conseguir unificar a base de apoio e defender a proposta de forma convincente, a incerteza fiscal pode diminuir; se o atrito interno persistir, a aprovação da medida pode ser comprometida, gerando mais volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794866452.6380863,
+    "titulo": "Juros futuros disparam em meio a desconfiança com política econômica do governo",
+    "titulo_original": "Juros futuros disparam em meio a desconfiança com política econômica do governo",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 17:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A disparada dos juros futuros indica que o mercado precifica um cenário de maior inflação ou de juros mais altos por mais tempo, em resposta à incerteza fiscal. Se o governo apresentar um plano fiscal crível, a curva de juros pode se ajustar para baixo; caso contrário, a pressão por taxas mais elevadas tende a se manter.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794866459.0752583,
+    "titulo": "Dólar dispara e fecha no maior nível desde abril de 2025 com política fiscal no foco; Ibovespa despenca e juros avançam",
+    "titulo_original": "Dólar dispara e fecha no maior nível desde abril de 2025 com política fiscal no foco; Ibovespa despenca e juros avançam",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 18:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do dólar e a queda do Ibovespa indicam uma desconfiança acentuada do mercado com a sustentabilidade da dívida pública brasileira. Se o governo conseguir apresentar medidas concretas e críveis para o ajuste fiscal, a pressão sobre o câmbio e a bolsa pode diminuir; caso contrário, a tendência de aversão ao risco tende a se intensificar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794866459.0765412,
+    "titulo": "Ibovespa cede 1,8% com incerteza fiscal e rebaixamento de ações brasileiras",
+    "titulo_original": "Ibovespa cede 1,8% com incerteza fiscal e rebaixamento de ações brasileiras",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 18:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa reflete a preocupação do mercado com a trajetória fiscal e possíveis novas taxações, além de um cenário externo desfavorável. Se as incertezas fiscais persistirem e o Banco Central sinalizar alta da Selic, a pressão sobre a bolsa pode continuar; uma melhora na percepção fiscal ou um cenário externo mais positivo poderiam reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794866459.0776858,
+    "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
+    "titulo_original": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
+    "fonte": "Money Times",
+    "publicado": "16/11 18:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, influenciada por fatores fiscais e pelo petróleo, demonstra a sensibilidade do mercado a riscos domésticos e globais. Se as incertezas fiscais forem resolvidas com medidas claras, e o cenário do petróleo se estabilizar, a bolsa pode se recuperar; caso contrário, a volatilidade tende a persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794866459.0788052,
+    "titulo": "Ibovespa cai cerca de 2% e fica abaixo dos 170 mil pontos: o que explica forte queda?",
+    "titulo_original": "Ibovespa cai cerca de 2% e fica abaixo dos 170 mil pontos: o que explica forte queda? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "16/11 15:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda acentuada do Ibovespa abaixo dos 170 mil pontos sinaliza uma deterioração da confiança do investidor, fortemente ligada às incertezas fiscais. Se o governo conseguir apresentar um plano fiscal claro e convincente, a bolsa pode encontrar suporte para uma recuperação; a persistência da incerteza, no entanto, pode levar a novas quedas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794866459.0799909,
+    "titulo": "Morgan Stanley acende alerta para Bolsa brasileira e prevê Ibovespa a 160 mil pontos no fim de 2027",
+    "titulo_original": "Morgan Stanley acende alerta para Bolsa brasileira e prevê Ibovespa a 160 mil pontos no fim de 2027 - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "16/11 17:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Morgan Stanley para o Ibovespa em 2027 sugere um cenário de desempenho moderado ou em queda para a bolsa brasileira nos próximos anos. Se os fundamentos econômicos do Brasil não melhorarem significativamente, essa projeção pode se concretizar; uma melhora substancial na política fiscal e econômica, contudo, poderia levar a revisões positivas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794866459.0811749,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa já desce mais de 2% e dólar sobe mais de 2,2%",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa já desce mais de 2% e dólar sobe mais de 2,2% - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "16/11 15:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte queda do Ibovespa e a alta expressiva do dólar indicam um momento de grande apreensão no mercado financeiro brasileiro. Se os fatores que causam essa aversão ao risco, como incertezas fiscais, forem mitigados, podemos ver uma reversão desse movimento; caso contrário, a volatilidade tende a se acentuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794866459.082378,
+    "titulo": "Fazenda diz estar em ‘tratativas preliminares’ sobre pedido do BB para flexibilizar regras para registro de crédito agro",
+    "titulo_original": "Fazenda diz estar em ‘tratativas preliminares’ sobre pedido do BB para flexibilizar regras para registro de crédito agro",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 18:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica uma possível flexibilização em regras de crédito, o que pode ter implicações para a gestão de risco e a saúde financeira do setor agro. Se a flexibilização for aprovada, pode haver um impacto na forma como as instituições financeiras provisionam perdas; se as tratativas não avançarem, as regras atuais permanecerão.",
+    "is_stocks": true
   }
 ]
