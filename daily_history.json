@@ -157,5 +157,74 @@
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa em dólar, em meio à espera pela definição da equipe econômica, sugere que a incerteza política pode estar pesando sobre o mercado. Se a nova equipe econômica apresentar um plano claro e consistente, isso pode gerar um fluxo de capital estrangeiro e impulsionar o índice. Caso contrário, a volatilidade pode persistir.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794834961.5597937,
+    "titulo": "Pequenas e médias recuam 4,8% em outubro com resultado mais fraco no comércio, aponta IODE-PMEs",
+    "titulo_original": "Pequenas e médias recuam 4,8% em outubro com resultado mais fraco no comércio, aponta IODE-PMEs",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 10:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda na atividade das PMEs, combinada com a manutenção da Selic em patamar elevado, sugere um cenário de demanda restrita. Se o Copom iniciar um ciclo de cortes mais agressivo nas próximas reuniões, isso pode aliviar a pressão sobre o fluxo de caixa dessas empresas; caso contrário, o cenário de retração tende a persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794834967.2770603,
+    "titulo": "Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4",
+    "titulo_original": "Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4",
+    "fonte": "Folha Mercado",
+    "publicado": "16/11 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do texto-base do plano Moretti representa um passo concreto para o ajuste fiscal. Se o texto for mantido sem alterações significativas no plenário, o impacto na contenção de gastos será mais previsível; contudo, emendas que flexibilizem as medidas podem comprometer o objetivo de redução do déficit.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794834972.8935747,
+    "titulo": "Previsão de Selic no fim de 2027 aumenta de 12,50% para 12,75%; 2026 segue em 13,75% - UOL Economia",
+    "titulo_original": "Previsão de Selic no fim de 2027 aumenta de 12,50% para 12,75%; 2026 segue em 13,75% - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/11 08:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento na projeção da Selic para 2027 indica uma expectativa de juros mais altos por um período mais prolongado. Se essa tendência se confirmar nas próximas divulgações, pode sinalizar preocupações persistentes com a inflação ou a necessidade de manter o aperto monetário por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794834978.8272264,
+    "titulo": "Pix completa 6 anos e deve movimentar US$ 203,4 bilhões no e-commerce em 2027, projeta Ebanx",
+    "titulo_original": "Pix completa 6 anos e deve movimentar US$ 203,4 bilhões no e-commerce em 2027, projeta Ebanx",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 09:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de crescimento do Pix no e-commerce indica uma consolidação do sistema de pagamentos instantâneos na economia brasileira. O avanço do Pix pode impactar a eficiência das transações e a concorrência no setor financeiro, mas a notícia não conecta diretamente com juros, inflação ou decisões fiscais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794834984.4627929,
+    "titulo": "IGP-10 desacelera para 0,76% em novembro, com pressão menor de petróleo e soja - InfoMoney",
+    "titulo_original": "IGP-10 desacelera para 0,76% em novembro, com pressão menor de petróleo e soja - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "16/11 08:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração do IGP-10 em novembro, com menor pressão de petróleo e soja, sugere uma moderação na inflação ao produtor. Se essa tendência de desaceleração se mantiver nos próximos meses, pode aliviar as pressões inflacionárias gerais; caso contrário, a volatilidade nos preços das commodities pode reverter esse quadro.",
+    "is_stocks": false
   }
 ]
