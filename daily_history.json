@@ -226,5 +226,84 @@
     "origem": "domestica",
     "leitura_critica": "A desaceleração do IGP-10 em novembro, com menor pressão de petróleo e soja, sugere uma moderação na inflação ao produtor. Se essa tendência de desaceleração se mantiver nos próximos meses, pode aliviar as pressões inflacionárias gerais; caso contrário, a volatilidade nos preços das commodities pode reverter esse quadro.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1794842165.0392704,
+    "titulo": "Tesouro Direto hoje: taxas sobem com continuidade de dívidas sobre pacote fiscal",
+    "titulo_original": "Tesouro Direto hoje: taxas sobem com continuidade de dívidas sobre pacote fiscal",
+    "fonte": "InvestNews",
+    "publicado": "16/11 10:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta nas taxas do Tesouro Direto reflete a percepção de risco fiscal contínua, o que pode pressionar o custo de captação do governo e impactar outras taxas de juros na economia. Se o pacote fiscal for aprovado com maior clareza e compromisso com o ajuste, as taxas podem ceder; caso contrário, a pressão por juros mais altos pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794842170.8173046,
+    "titulo": "Análise: Fogo amigo eleva ruído em torno do pacote fiscal em ambiente já desfavorável",
+    "titulo_original": "Análise: Fogo amigo eleva ruído em torno do pacote fiscal em ambiente já desfavorável",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 11:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O ruído político em torno do pacote fiscal pode gerar incerteza sobre a execução das medidas e o compromisso com o ajuste. Se a aprovação final do pacote for acompanhada de clareza e garantias de cumprimento, o cenário fiscal pode se estabilizar. Caso contrário, a volatilidade e a desconfiança podem persistir, impactando a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794842176.5253844,
+    "titulo": "Canadá Outubro CPI 3,1% vs +3,2% esperado",
+    "titulo_original": "Canada October CPI 3.1% vs +3.2% expected",
+    "fonte": "ForexLive",
+    "publicado": "16/11 10:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de inflação no Canadá veio ligeiramente abaixo do esperado, o que pode sinalizar um alívio nas pressões de preços. Se os próximos indicadores mantiverem essa tendência, o Banco do Canadá pode ter mais espaço para considerar ajustes na política monetária. Caso contrário, se a inflação voltar a acelerar, o banco central pode manter uma postura mais restritiva.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794842185.5420644,
+    "titulo": "Israel mata comandante do Hamas em ataque no sul de Gaza - 16/11/2026 - Mundo - Folha de S.Paulo",
+    "titulo_original": "Israel mata comandante do Hamas em ataque no sul de Gaza - 16/11/2026 - Mundo - Folha de S.Paulo",
+    "fonte": "Google News Geopolitica",
+    "publicado": "16/11 10:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O conflito em Gaza é um evento geopolítico com potencial de afetar o preço do petróleo e a confiança dos investidores globais. No entanto, a notícia em si não detalha esses impactos ou os conecta a canais específicos de análise macroeconômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794842191.807531,
+    "titulo": "Dez maiores IPOs do ano amargam queda nas ações",
+    "titulo_original": "Dez maiores IPOs do ano amargam queda nas ações",
+    "fonte": "Folha Mercado",
+    "publicado": "16/11 11:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A performance negativa dos maiores IPOs em Wall Street pode indicar um apetite a risco reduzido no mercado de ações, especialmente no setor de tecnologia. Se essa tendência se mantiver, pode haver uma maior cautela em novas ofertas. Caso os mercados se recuperem e a confiança retorne, o desempenho dos IPOs pode melhorar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794842191.8080535,
+    "titulo": "Wall Street opera no vermelho com pressão no setor de tecnologia e anúncio de Trump sobre chips",
+    "titulo_original": "Wall Street opera no vermelho com pressão no setor de tecnologia e anúncio de Trump sobre chips",
+    "fonte": "Money Times",
+    "publicado": "16/11 11:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda em Wall Street reflete uma aversão ao risco global, com destaque para o setor de tecnologia e questões relacionadas a chips. Se as preocupações com a tecnologia e as tensões comerciais se intensificarem, o mercado pode continuar sob pressão. Uma resolução positiva dessas questões ou sinais de melhora na economia podem reverter o cenário.",
+    "is_stocks": true
   }
 ]
