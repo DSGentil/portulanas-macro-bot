@@ -60,5 +60,102 @@
     "origem": "ambas",
     "leitura_critica": "A notícia detalha o impacto de uma crise corporativa na Nvidia sobre investidores brasileiros. Embora afete o mercado de ações, a notícia não conecta diretamente essa crise a fatores macroeconômicos como juros, inflação, fiscal ou fluxo de capital em larga escala.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794828657.2645552,
+    "titulo": "O céu é o limite para o dólar se o ajuste fiscal decepcionar, diz economista do UBS",
+    "titulo_original": "O céu é o limite para o dólar se o ajuste fiscal decepcionar, diz economista do UBS - Exame",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/11 06:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do economista do UBS sobre o potencial de alta do dólar em caso de decepção com o ajuste fiscal ressalta a importância da credibilidade das políticas fiscais para a estabilidade cambial. Se o governo não apresentar um plano fiscal robusto, a desvalorização do real pode se acentuar. Por outro lado, um ajuste fiscal bem-sucedido pode trazer alívio para o câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794828662.1462724,
+    "titulo": "Banco BV firma parceria com Ademicon para entrar em consórcios",
+    "titulo_original": "Banco BV firma parceria com Ademicon para entrar em consórcios",
+    "fonte": "Folha Mercado",
+    "publicado": "16/11 07:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A parceria entre Banco BV e Ademicon para oferecer consórcios sem juros remuneratórios pode atrair consumidores que buscam alternativas de financiamento. Se essa modalidade ganhar tração, pode impactar o mercado de crédito e financiamento. A oferta de produtos sem juros pode ser um diferencial competitivo para o banco BV em um cenário de taxas de juros elevadas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794828667.109617,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "16/11 04:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A menção de um possível aumento de 50 bps pelo Fed e dados de inflação mais altos que o esperado indicam um cenário de aperto monetário mais agressivo. Se o Fed realmente optar por um aumento maior, isso pode sustentar um dólar mais forte e pressionar mercados de risco. A escalada de tensões no Oriente Médio e a pressão sobre o Irã podem levar a um aumento nos preços do petróleo, o que, por sua vez, pode alimentar a inflação global e gerar preocupações com o crescimento econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794828672.0490663,
+    "titulo": "Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira - InfoMoney",
+    "titulo_original": "Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/11 06:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A divulgação da prévia do PIB e do Boletim Focus fornecerá importantes indicadores sobre a atividade econômica e as expectativas de mercado no Brasil. As falas de membros do Fed são cruciais para entender os próximos passos da política monetária nos EUA. Se a prévia do PIB vier abaixo do esperado, isso pode reforçar a necessidade de estímulos. Se as falas do Fed indicarem um tom mais duro, isso pode impactar os juros globais e o câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794828677.8397875,
+    "titulo": "Vendas no varejo, produção industrial e investimentos desaceleram na China",
+    "titulo_original": "Vendas no varejo, produção industrial e investimentos desaceleram na China",
+    "fonte": "Folha Mercado",
+    "publicado": "16/11 08:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração mais acentuada que o esperado nos principais indicadores econômicos da China sugere uma fraqueza na demanda interna. Se as autoridades chinesas implementarem estímulos fiscais significativos, isso pode impulsionar a economia chinesa e ter repercussões em commodities e no comércio global. Caso os estímulos sejam insuficientes, a desaceleração pode persistir, afetando o crescimento global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794828677.840302,
+    "titulo": "Day Trade hoje (16): Ibovespa retoma alta; recuperação vai ganhar força?",
+    "titulo_original": "Day Trade hoje (16): Ibovespa retoma alta; recuperação vai ganhar força? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "16/11 07:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A retomada da alta do Ibovespa sugere um movimento de otimismo no mercado acionário brasileiro. Se a recuperação ganhar força, pode indicar um cenário mais favorável para investimentos em renda variável. A continuidade dessa tendência dependerá de fatores como a definição da equipe econômica e o cenário macroeconômico global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794828677.8411515,
+    "titulo": "Investidores aguardam definição da equipe econômica em semana mais curta; Ibovespa em dólar cai nesta segunda-feira (16)",
+    "titulo_original": "Investidores aguardam definição da equipe econômica em semana mais curta; Ibovespa em dólar cai nesta segunda-feira (16) - Money Times",
+    "fonte": "Google News Acoes",
+    "publicado": "16/11 07:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa em dólar, em meio à espera pela definição da equipe econômica, sugere que a incerteza política pode estar pesando sobre o mercado. Se a nova equipe econômica apresentar um plano claro e consistente, isso pode gerar um fluxo de capital estrangeiro e impulsionar o índice. Caso contrário, a volatilidade pode persistir.",
+    "is_stocks": true
   }
 ]
