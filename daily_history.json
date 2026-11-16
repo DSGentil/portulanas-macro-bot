@@ -305,5 +305,133 @@
     "origem": "externa",
     "leitura_critica": "A queda em Wall Street reflete uma aversão ao risco global, com destaque para o setor de tecnologia e questões relacionadas a chips. Se as preocupações com a tecnologia e as tensões comerciais se intensificarem, o mercado pode continuar sob pressão. Uma resolução positiva dessas questões ou sinais de melhora na economia podem reverter o cenário.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794847543.3564484,
+    "titulo": "Mercado reduz projeções para inflação e crescimento econômico em 2026",
+    "titulo_original": "Mercado reduz projeções para inflação e crescimento econômico em 2026 - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/11 09:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A redução das projeções de inflação e crescimento para 2026 pelo mercado pode indicar uma percepção de desaceleração econômica mais acentuada ou de maior controle inflacionário. Se a inflação de fato se mostrar mais controlada, isso pode abrir espaço para discussões sobre política monetária; se o crescimento for revisado para baixo de forma significativa, pode sinalizar desafios para a geração de empregos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794847547.975631,
+    "titulo": "‘Fantasma’ de 2024 faz mercado temer nova disparada do dólar, alerta HSBC",
+    "titulo_original": "‘Fantasma’ de 2024 faz mercado temer nova disparada do dólar, alerta HSBC - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/11 13:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O alerta do HSBC sobre uma potencial disparada do dólar em 2024, associado a um \"fantasma\" não especificado, sugere incertezas significativas para o câmbio. Se os fatores que geram esse temor se materializarem, podemos ver uma fuga de capitais e uma desvalorização acentuada da moeda brasileira; a clareza sobre as causas desse temor é crucial para antecipar movimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794847552.382853,
+    "titulo": "Dólar rompe R$ 5,70 e volta ao nível de maio de 2025; até onde a moeda pode ir?",
+    "titulo_original": "Dólar rompe R$ 5,70 e volta ao nível de maio de 2025; até onde a moeda pode ir? - Exame",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/11 10:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ruptura do dólar acima de R$ 5,70, atingindo níveis de maio de 2025, indica uma pressão de desvalorização significativa da moeda brasileira. Se essa tendência se mantiver, pode haver um impacto na inflação de importados e um aumento na atratividade de investimentos em ativos dolarizados, afetando o fluxo de capital. A análise dos fatores que impulsionam essa alta é crucial para prever os próximos movimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794847556.7350016,
+    "titulo": "Resolução impede inclusão de pais e mães de servidor em plano de saúde do BC",
+    "titulo_original": "Resolução impede inclusão de pais e mães de servidor em plano de saúde do BC",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 13:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A resolução do Banco Central sobre o plano de saúde de seus servidores representa uma mudança regulatória com impacto direto nos beneficiários. Se a medida for vista como um sinal de contenção de gastos públicos, pode ser interpretada como positiva para a gestão fiscal; caso contrário, pode gerar insatisfação entre os servidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794847561.944406,
+    "titulo": "Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
+    "titulo_original": "Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
+    "fonte": "Folha Mercado",
+    "publicado": "16/11 12:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A reavaliação de um banco de investimento de grande porte pode influenciar o fluxo de capital estrangeiro para o mercado brasileiro. Se a percepção de risco se confirmar, pode haver uma saída de recursos, pressionando o índice para baixo; caso contrário, a reversão dessa recomendação pode atrair novos investimentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794847561.9453013,
+    "titulo": "A curva de juros vai matar muita gente no meio do caminho, diz CEO da BrasilAgro (AGRO3)",
+    "titulo_original": "A curva de juros vai matar muita gente no meio do caminho, diz CEO da BrasilAgro (AGRO3)",
+    "fonte": "Money Times",
+    "publicado": "16/11 13:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do CEO da BrasilAgro sobre a alta dos juros e seus impactos no agronegócio sugere que o cenário de juros elevados pode levar a uma reestruturação do setor, com possíveis fusões e aquisições. Se a taxa de juros se mantiver alta por um período prolongado, isso pode afetar a rentabilidade e a capacidade de investimento das empresas do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794847561.946268,
+    "titulo": "Morgan rebaixa Brasil para “underweight” e vê Ibovespa a 160 mil pontos em 2027",
+    "titulo_original": "Morgan rebaixa Brasil para “underweight” e vê Ibovespa a 160 mil pontos em 2027 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "16/11 08:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A reclassificação do Brasil para \"underweight\" pelo Morgan Stanley sugere uma visão cautelosa do banco sobre o mercado acionário brasileiro. Se essa perspectiva se consolidar, pode haver uma redução no fluxo de capital estrangeiro para a bolsa, pressionando o Ibovespa para baixo; caso contrário, uma melhora nas perspectivas econômicas ou fiscais pode reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794847561.9470432,
+    "titulo": "Ibovespa abre em queda em meio ao Boletim Focus e ao IBC-Br",
+    "titulo_original": "Ibovespa abre em queda em meio ao Boletim Focus e ao IBC-Br - TradeMap",
+    "fonte": "Google News Acoes",
+    "publicado": "16/11 10:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, em resposta ao Boletim Focus e ao IBC-Br, sugere que as expectativas de inflação e os dados de atividade econômica podem estar divergindo das projeções do mercado. Se o IBC-Br apresentar um desempenho significativamente pior que o esperado, isso pode reforçar a percepção de desaceleração econômica, enquanto o Boletim Focus pode indicar uma revisão nas expectativas de inflação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794847561.9478326,
+    "titulo": "Pacote fiscal é bom, mas não é o suficiente para melhora definitiva do Brasil, diz sócio fundador da AW Capital",
+    "titulo_original": "Pacote fiscal é bom, mas não é o suficiente para melhora definitiva do Brasil, diz sócio fundador da AW Capital",
+    "fonte": "Money Times",
+    "publicado": "16/11 13:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação de que o pacote fiscal é bom, mas insuficiente, indica que o mercado pode ainda ter ressalvas sobre a sustentabilidade da melhora fiscal brasileira. Se as medidas fiscais não forem percebidas como robustas o suficiente para garantir a trajetória da dívida pública, a confiança dos investidores pode ser abalada, impactando o fluxo de capital e a percepção de risco do país.",
+    "is_stocks": true
   }
 ]
