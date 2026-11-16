@@ -749,5 +749,73 @@
     "origem": "domestica",
     "leitura_critica": "A notícia indica uma possível flexibilização em regras de crédito, o que pode ter implicações para a gestão de risco e a saúde financeira do setor agro. Se a flexibilização for aprovada, pode haver um impacto na forma como as instituições financeiras provisionam perdas; se as tratativas não avançarem, as regras atuais permanecerão.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794871847.7721643,
+    "titulo": "Pimenta atribui resistência a pacote do ajuste fiscal a desconhecimento e descarta envio de PEC",
+    "titulo_original": "Pimenta atribui resistência a pacote do ajuste fiscal a desconhecimento e descarta envio de PEC",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 19:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A articulação política em torno do pacote fiscal é crucial para a estabilidade das contas públicas brasileiras. Se o texto for aprovado sem grandes alterações, o governo poderá avançar em suas metas de ajuste fiscal; caso contrário, a incerteza sobre a trajetória das despesas e receitas pode aumentar, impactando a confiança do mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794871852.0198367,
+    "titulo": "Alckmin diz não ver 'razão sólida' para oscilação do dólar se manter",
+    "titulo_original": "Alckmin diz não ver 'razão sólida' para oscilação do dólar se manter",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 19:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção do presidente em exercício sobre a estabilidade do dólar e a solidez do ajuste fiscal pode influenciar a confiança dos investidores. Se o mercado interpretar as declarações de Alckmin como um sinal de controle da situação, a volatilidade cambial pode diminuir; caso contrário, a pressão sobre o dólar pode persistir, refletindo incertezas fiscais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794871856.442566,
+    "titulo": "Com dólar a R$ 5,80 toda a sociedade perde e não só o mercado financeiro, diz André Esteves",
+    "titulo_original": "Com dólar a R$ 5,80 toda a sociedade perde e não só o mercado financeiro, diz André Esteves - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/11 17:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de André Esteves sobre o impacto do dólar a R$ 5,80 na sociedade em geral aponta para uma percepção de que a volatilidade cambial excessiva tem consequências macroeconômicas amplas. Se essa percepção se consolidar, pode haver maior pressão por políticas que visem a estabilização cambial, com potenciais reflexos em decisões de política monetária e fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794871860.7270312,
+    "titulo": "Mercado precifica possibilidade de alta de juros em dezembro e Selic de 15,50% em 2027",
+    "titulo_original": "Mercado precifica possibilidade de alta de juros em dezembro e Selic de 15,50% em 2027 - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "16/11 15:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A precificação de alta de juros pelo mercado sugere uma antecipação de que o Banco Central pode precisar intervir para controlar a inflação ou estabilizar a economia. Se essa expectativa se concretizar com uma alta em dezembro, isso pode impactar o custo do crédito e o apetite por investimentos de maior risco no curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794871866.670541,
+    "titulo": "investingLive Americas market news wrap: Chip stocks dump again",
+    "titulo_original": "investingLive Americas market news wrap: Chip stocks dump again",
+    "fonte": "ForexLive",
+    "publicado": "16/11 18:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O dado de manufatura dos EUA abaixo do esperado e a queda nos rendimentos dos títulos podem indicar uma desaceleração na atividade econômica americana. Se essa tendência se confirmar, pode haver implicações para a política monetária do Federal Reserve e, consequentemente, para os mercados globais, incluindo o fluxo de capital para economias emergentes.",
+    "is_stocks": true
   }
 ]
