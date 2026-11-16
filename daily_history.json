@@ -537,5 +537,93 @@
     "origem": "domestica",
     "leitura_critica": "A crítica do governador Tarcísio de Freitas ao plano de ajuste fiscal e a defesa do adiamento da reforma tributária indicam divergências políticas sobre o caminho fiscal do país. Se a reforma tributária for de fato adiada, isso pode postergar a simplificação e a modernização do sistema tributário brasileiro, mantendo a incerteza para empresas e investidores.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794862846.7062993,
+    "titulo": "O formato do ajuste fiscal importa",
+    "titulo_original": "O formato do ajuste fiscal importa",
+    "fonte": "Folha Mercado",
+    "publicado": "16/11 17:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A magnitude do déficit nominal em comparação com o primário evidencia a importância do custo da dívida pública no cenário fiscal brasileiro. Se as medidas de ajuste focarem apenas no lado primário sem abordar a sustentabilidade da dívida, o problema pode se agravar. A forma como o governo pretende reduzir o déficit nominal será crucial para a percepção de risco fiscal do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794862851.0156617,
+    "titulo": "Pix parcelado na Black Friday: como funciona, quanto custa e onde aceita",
+    "titulo_original": "Pix parcelado na Black Friday: como funciona, quanto custa e onde aceita",
+    "fonte": "InvestNews",
+    "publicado": "16/11 15:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A oferta de crédito facilitado, mesmo com juros, pode impulsionar o consumo durante a Black Friday. Se essa modalidade se popularizar, pode haver um aumento no endividamento de consumidores. A análise de custo-benefício para o consumidor é o ponto central desta notícia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794862855.327873,
+    "titulo": "Soja: Alta do dólar impulsiona preços",
+    "titulo_original": "Soja: Alta do dólar impulsiona preços - Sociedade Nacional de Agricultura",
+    "fonte": "Google News Commodities",
+    "publicado": "16/11 16:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar em relação ao real torna a soja brasileira mais competitiva no mercado internacional, o que pode levar a um aumento nos preços. Se essa tendência se mantiver, pode beneficiar os exportadores de soja, mas também impactar o custo para o consumidor interno de produtos derivados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794862859.7117994,
+    "titulo": "BC projeta Pix por aproximação offline e integração internacional",
+    "titulo_original": "BC projeta Pix por aproximação offline e integração internacional",
+    "fonte": "Folha Mercado",
+    "publicado": "16/11 16:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expansão do Pix para funcionalidades offline e integração internacional pode aumentar a inclusão financeira e facilitar transações em diversas situações. Se essas projeções se concretizarem, o Pix pode se tornar uma ferramenta de pagamento ainda mais versátil e competitiva globalmente. A viabilidade técnica e a adoção dessas novas funcionalidades serão pontos a serem observados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794862864.9848857,
+    "titulo": "Websites de bancos dos EUA estão tendo problemas",
+    "titulo_original": "US banking websites are having problems",
+    "fonte": "ForexLive",
+    "publicado": "16/11 15:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Problemas técnicos generalizados em instituições financeiras de grande porte podem gerar desconfiança e aumentar a aversão ao risco no curto prazo. Se as falhas persistirem ou se tornarem mais graves, isso pode impactar a confiança dos investidores e a liquidez do mercado. No entanto, uma fonte indicou que não há atores mal-intencionados envolvidos nas falhas do JPMorgan.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794862864.986054,
+    "titulo": "Petróleo tem forte queda com sinais de melhora na oferta",
+    "titulo_original": "Petróleo tem forte queda com sinais de melhora na oferta",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 17:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nos preços do petróleo pode aliviar pressões inflacionárias globais e reduzir custos para empresas e consumidores. No entanto, a persistência de hostilidades no Golfo pode criar volatilidade e limitar a queda. Se o superávit de oferta se confirmar e os preços continuarem a cair, isso pode impactar a receita de países produtores e a dinâmica de investimentos no setor energético.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794862864.9871192,
+    "titulo": "Após problemas com Microsoft e sistema aéreo dos EUA, clientes relatam dificuldades para acessar bancos americanos",
+    "titulo_original": "Após problemas com Microsoft e sistema aéreo dos EUA, clientes relatam dificuldades para acessar bancos americanos",
+    "fonte": "Valor Economico",
+    "publicado": "16/11 16:23",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recorrência de falhas em infraestruturas críticas, incluindo sistemas bancários, pode minar a confiança dos consumidores e gerar preocupações sobre a segurança e estabilidade dos serviços digitais. Se esses problemas se tornarem mais frequentes, podem impactar a percepção de risco e a eficiência das operações financeiras.",
+    "is_stocks": true
   }
 ]
