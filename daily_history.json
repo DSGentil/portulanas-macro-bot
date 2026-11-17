@@ -1,84 +1,5 @@
 [
   {
-    "_timestamp": 1794842165.0392704,
-    "titulo": "Tesouro Direto hoje: taxas sobem com continuidade de dívidas sobre pacote fiscal",
-    "titulo_original": "Tesouro Direto hoje: taxas sobem com continuidade de dívidas sobre pacote fiscal",
-    "fonte": "InvestNews",
-    "publicado": "16/11 10:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta nas taxas do Tesouro Direto reflete a percepção de risco fiscal contínua, o que pode pressionar o custo de captação do governo e impactar outras taxas de juros na economia. Se o pacote fiscal for aprovado com maior clareza e compromisso com o ajuste, as taxas podem ceder; caso contrário, a pressão por juros mais altos pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794842170.8173046,
-    "titulo": "Análise: Fogo amigo eleva ruído em torno do pacote fiscal em ambiente já desfavorável",
-    "titulo_original": "Análise: Fogo amigo eleva ruído em torno do pacote fiscal em ambiente já desfavorável",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 11:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O ruído político em torno do pacote fiscal pode gerar incerteza sobre a execução das medidas e o compromisso com o ajuste. Se a aprovação final do pacote for acompanhada de clareza e garantias de cumprimento, o cenário fiscal pode se estabilizar. Caso contrário, a volatilidade e a desconfiança podem persistir, impactando a confiança dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794842176.5253844,
-    "titulo": "Canadá Outubro CPI 3,1% vs +3,2% esperado",
-    "titulo_original": "Canada October CPI 3.1% vs +3.2% expected",
-    "fonte": "ForexLive",
-    "publicado": "16/11 10:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de inflação no Canadá veio ligeiramente abaixo do esperado, o que pode sinalizar um alívio nas pressões de preços. Se os próximos indicadores mantiverem essa tendência, o Banco do Canadá pode ter mais espaço para considerar ajustes na política monetária. Caso contrário, se a inflação voltar a acelerar, o banco central pode manter uma postura mais restritiva.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794842185.5420644,
-    "titulo": "Israel mata comandante do Hamas em ataque no sul de Gaza - 16/11/2026 - Mundo - Folha de S.Paulo",
-    "titulo_original": "Israel mata comandante do Hamas em ataque no sul de Gaza - 16/11/2026 - Mundo - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "16/11 10:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O conflito em Gaza é um evento geopolítico com potencial de afetar o preço do petróleo e a confiança dos investidores globais. No entanto, a notícia em si não detalha esses impactos ou os conecta a canais específicos de análise macroeconômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794842191.807531,
-    "titulo": "Dez maiores IPOs do ano amargam queda nas ações",
-    "titulo_original": "Dez maiores IPOs do ano amargam queda nas ações",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 11:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A performance negativa dos maiores IPOs em Wall Street pode indicar um apetite a risco reduzido no mercado de ações, especialmente no setor de tecnologia. Se essa tendência se mantiver, pode haver uma maior cautela em novas ofertas. Caso os mercados se recuperem e a confiança retorne, o desempenho dos IPOs pode melhorar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794842191.8080535,
-    "titulo": "Wall Street opera no vermelho com pressão no setor de tecnologia e anúncio de Trump sobre chips",
-    "titulo_original": "Wall Street opera no vermelho com pressão no setor de tecnologia e anúncio de Trump sobre chips",
-    "fonte": "Money Times",
-    "publicado": "16/11 11:46",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda em Wall Street reflete uma aversão ao risco global, com destaque para o setor de tecnologia e questões relacionadas a chips. Se as preocupações com a tecnologia e as tensões comerciais se intensificarem, o mercado pode continuar sob pressão. Uma resolução positiva dessas questões ou sinais de melhora na economia podem reverter o cenário.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794847543.3564484,
     "titulo": "Mercado reduz projeções para inflação e crescimento econômico em 2026",
     "titulo_original": "Mercado reduz projeções para inflação e crescimento econômico em 2026 - Agência Brasil",
@@ -1213,6 +1134,125 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A convocação de Jensen Huang pelo Congresso dos EUA para depor sobre chips de IA e China pode trazer à tona questões geopolíticas e de segurança nacional relacionadas à tecnologia. Se as discussões revelarem novas regulamentações ou restrições comerciais, isso pode impactar o setor de semicondutores globalmente; caso contrário, pode ser um depoimento informativo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794952886.757684,
+    "titulo": "Motta evita fixar data para votar pacote fiscal após Senado adiar análise dos destaques",
+    "titulo_original": "Motta evita fixar data para votar pacote fiscal após Senado adiar análise dos destaques",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 18:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O adiamento da votação no Senado indica que o consenso sobre o pacote fiscal ainda não foi alcançado, o que pode gerar incertezas sobre o cronograma de aprovação. Se os destaques no Senado forem aprovados de forma a alterar significativamente o texto, a Câmara poderá ter que reavaliar pontos cruciais, impactando o prazo final.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794952890.7652464,
+    "titulo": "Dólar tem leve alta diante de cautela com política fiscal brasileira | Finanças - Valor Econômico",
+    "titulo_original": "Dólar tem leve alta diante de cautela com política fiscal brasileira | Finanças - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 17:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A cautela com a política fiscal brasileira, refletida na leve alta do dólar, sugere que o mercado está atento aos desdobramentos da agenda fiscal. Se não houver clareza ou avanços concretos na área fiscal, a pressão sobre o dólar pode aumentar, impactando o fluxo de capital e a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794952894.910434,
+    "titulo": "BC observa 'uso intensivo' de agentes de IA em ataques cibernéticos",
+    "titulo_original": "BC observa 'uso intensivo' de agentes de IA em ataques cibernéticos",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 18:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O alerta do Banco Central sobre o aumento do risco cibernético com o uso de IA por criminosos é um ponto de atenção para a segurança do sistema financeiro. Se os ataques se tornarem mais frequentes ou sofisticados, isso pode gerar custos adicionais para as instituições financeiras e impactar a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794952898.945106,
+    "titulo": "Senado adia votação de destaques do 'plano Moretti' de ajuste nas contas",
+    "titulo_original": "Senado adia votação de destaques do 'plano Moretti' de ajuste nas contas",
+    "fonte": "Folha Mercado",
+    "publicado": "17/11 17:28",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O adiamento da votação dos destaques do plano fiscal no Senado indica que ainda há divergências a serem resolvidas, o que pode atrasar a aprovação e gerar incertezas sobre o alcance das metas fiscais. Se o plano for aprovado com alterações significativas que comprometam o ajuste, isso pode aumentar a cautela do mercado em relação à trajetória fiscal do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794952904.1463757,
+    "titulo": "Dólar chega a R$ 5,78 e fecha no maior nível desde abril de 2025; Ibovespa avança - Estadão",
+    "titulo_original": "Dólar chega a R$ 5,78 e fecha no maior nível desde abril de 2025; Ibovespa avança - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "17/11 13:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte valorização do dólar, atingindo um patamar não visto desde abril de 2025, sugere uma pressão de saída de capital ou uma menor entrada de recursos externos no Brasil. Se essa tendência persistir, pode impactar negativamente a inflação e o custo de importação, apesar do avanço do Ibovespa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794952904.14854,
+    "titulo": "Nvidia lucra US$ 65,3 bi no 3º trimestre fiscal, alta de 105%",
+    "titulo_original": "Nvidia lucra US$ 65,3 bi no 3º trimestre fiscal, alta de 105%",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 18:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Os resultados excepcionais da Nvidia, líder em inteligência artificial, reforçam a força do setor de tecnologia e podem impulsionar o apetite por risco global. Se o desempenho da Nvidia continuar a superar as expectativas, isso pode influenciar positivamente o fluxo de capital para empresas de tecnologia em outros mercados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794952904.150755,
+    "titulo": "Petrobras (PETR4): Citi coloca novo risco para dividendos e corta preço-alvo",
+    "titulo_original": "Petrobras (PETR4): Citi coloca novo risco para dividendos e corta preço-alvo",
+    "fonte": "Money Times",
+    "publicado": "17/11 18:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise do Citi sugere uma mudança na política de distribuição de proventos da Petrobras, o que pode afetar a atratividade da ação para investidores focados em dividendos. Se a Petrobras confirmar um aumento significativo de investimentos em detrimento de dividendos, isso pode levar a uma reavaliação do valuation da empresa por parte do mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794952904.1526475,
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa diminui ritmo de alta e segura os 170 mil - InfoMoney",
+    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa diminui ritmo de alta e segura os 170 mil - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "17/11 14:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração do ritmo de alta do Ibovespa, mesmo mantendo os 170 mil pontos, pode indicar uma consolidação do mercado ou uma pausa antes de novos movimentos. Se o índice não conseguir sustentar a tendência de alta, pode haver uma correção, especialmente se fatores de risco macroeconômico se intensificarem.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794952904.1544716,
+    "titulo": "Ibovespa sobe e dólar mantém cotação de R$ 5,77 nesta terça-feira - VEJA",
+    "titulo_original": "Ibovespa sobe e dólar mantém cotação de R$ 5,77 nesta terça-feira - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 18:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar em R$ 5,77, apesar da alta do Ibovespa, sugere que os fluxos de capital podem estar equilibrados no momento, com o mercado precificando tanto o desempenho da bolsa quanto a cautela cambial. Se a política fiscal continuar a gerar incertezas, a pressão sobre o dólar pode se intensificar, mesmo com um Ibovespa em alta.",
     "is_stocks": true
   }
 ]
