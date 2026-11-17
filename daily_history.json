@@ -817,5 +817,152 @@
     "origem": "externa",
     "leitura_critica": "O dado de manufatura dos EUA abaixo do esperado e a queda nos rendimentos dos títulos podem indicar uma desaceleração na atividade econômica americana. Se essa tendência se confirmar, pode haver implicações para a política monetária do Federal Reserve e, consequentemente, para os mercados globais, incluindo o fluxo de capital para economias emergentes.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794915050.9794056,
+    "titulo": "Dólar supera R$ 5,77 e bolsa recua 1,83% com incertezas fiscais no radar",
+    "titulo_original": "Dólar supera R$ 5,77 e bolsa recua 1,83% com incertezas fiscais no radar - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar e a queda da bolsa refletem a aversão ao risco gerada pelas incertezas fiscais. Se o governo conseguir apresentar um plano fiscal crível e obter aprovação no Congresso, o dólar pode ceder e a bolsa se recuperar; caso contrário, a pressão sobre os ativos brasileiros tende a aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794915056.5078242,
+    "titulo": "O Tesouro Direto está cheio de oportunidades – e elas podem durar por um bom tempo",
+    "titulo_original": "O Tesouro Direto está cheio de oportunidades – e elas podem durar por um bom tempo",
+    "fonte": "InvestNews",
+    "publicado": "17/11 06:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sugere que o cenário de juros altos pode persistir, criando oportunidades no Tesouro Direto. Se as taxas de juros se mantiverem elevadas por mais tempo, os investidores em renda fixa podem continuar a se beneficiar; caso o Banco Central inicie um ciclo de cortes antecipado, o atrativo desses títulos pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794915061.647104,
+    "titulo": "Sentimento econômico ZEW da Alemanha em novembro 35.6 vs 28.8 esperado",
+    "titulo_original": "Germany November ZEW economic sentiment 35.6 vs 28.8 expected",
+    "fonte": "ForexLive",
+    "publicado": "17/11 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A melhora no sentimento econômico alemão sugere um otimismo crescente em relação à recuperação. Se os pedidos de manufatura e a queda nos preços do petróleo continuarem a impulsionar a economia, a tendência de melhora pode se sustentar; caso contrário, a heterogeneidade entre setores pode limitar o ritmo da recuperação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794915066.7808347,
+    "titulo": "Regra antidesmatamento europeia pode encarecer em 12% soja brasileira vendida ao bloco",
+    "titulo_original": "Regra antidesmatamento europeia pode encarecer em 12% soja brasileira vendida ao bloco",
+    "fonte": "Folha Mercado",
+    "publicado": "17/11 08:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A nova regulamentação europeia impõe um custo adicional à soja brasileira, o que pode afetar a competitividade do produto. Se os produtores brasileiros conseguirem adaptar suas cadeias de suprimentos para cumprir as novas exigências sem grandes perdas, o impacto pode ser mitigado; caso contrário, pode haver uma reconfiguração das exportações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794915084.5235171,
+    "titulo": "Seagems fecha contrato de US$ 410 mi com Petrobras para serviços de apoio",
+    "titulo_original": "Seagems fecha contrato de US$ 410 mi com Petrobras para serviços de apoio",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 08:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Este contrato representa um movimento significativo no setor de serviços para a Petrobras. Se a execução do projeto ocorrer conforme o planejado, pode sinalizar maior investimento em infraestrutura energética; caso contrário, atrasos ou renegociações poderiam impactar a receita da Seagems.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794915084.5250297,
+    "titulo": "PETR4, ITUB4, CEAB3 e MULT3: o que dizem os analistas após os balanços do terceiro trimestre",
+    "titulo_original": "PETR4, ITUB4, CEAB3 e MULT3: o que dizem os analistas após os balanços do terceiro trimestre",
+    "fonte": "Money Times",
+    "publicado": "17/11 08:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Os balanços do 3T26 refletem o impacto dos juros altos e incertezas fiscais no desempenho das empresas. Se as políticas fiscais se tornarem mais claras e os juros começarem a ceder, as empresas com bons fundamentos podem apresentar recuperação; caso contrário, a pressão sobre os resultados pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794915084.5265567,
+    "titulo": "STJ nega isenção de adicional de frete marítimo no regime Repex à Petrobras",
+    "titulo_original": "STJ nega isenção de adicional de frete marítimo no regime Repex à Petrobras - JOTA Info",
+    "fonte": "Google News Acoes",
+    "publicado": "17/11 07:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STJ sobre a isenção fiscal para a Petrobras pode impactar os custos da empresa. Se a Petrobras precisar arcar com o adicional de frete, isso pode afetar sua lucratividade; caso a empresa consiga reverter a decisão em instâncias superiores, o impacto financeiro seria evitado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794915084.5280604,
+    "titulo": "OpenAI firma parceria com Otan para reforçar defesas cibernéticas",
+    "titulo_original": "OpenAI firma parceria com Otan para reforçar defesas cibernéticas",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 08:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A parceria entre OpenAI e Otan visa fortalecer a segurança cibernética em um cenário de crescentes ameaças. Se os modelos da OpenAI se mostrarem eficazes na proteção das redes da Otan, isso pode estabelecer um novo padrão em cibersegurança militar; caso contrário, a eficácia da colaboração pode ser limitada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794915084.529572,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "17/11 04:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Os dados do mercado de trabalho do Reino Unido e as expectativas de juros do BoE e BCE moldam o cenário europeu. Se o BoE continuar a subir juros, isso pode reforçar a tendência de aperto monetário na Europa; caso o BCE adote uma postura mais cautelosa, a divergência nas políticas monetárias pode se acentuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794915084.5310526,
+    "titulo": "Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)",
+    "titulo_original": "Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)",
+    "fonte": "Money Times",
+    "publicado": "17/11 07:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A incerteza fiscal no Brasil está pressionando o mercado, refletida na queda do Ibovespa. Se o Congresso aprovar o pacote fiscal com medidas que tragam credibilidade, o mercado pode reagir positivamente; caso contrário, a volatilidade e a pressão sobre o câmbio podem persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794915084.5325909,
+    "titulo": "Agenda de empresas: XP lucra R$ 1,38 bi; Petrobras recebe nova parcela de subvenção",
+    "titulo_original": "Agenda de empresas: XP lucra R$ 1,38 bi; Petrobras recebe nova parcela de subvenção",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 08:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os resultados da XP e o recebimento de subvenção pela Petrobras indicam movimentos corporativos relevantes. Se a XP mantiver seu crescimento, pode continuar a ser um player importante no mercado financeiro; caso a Cosan conclua as vendas de participações, isso pode reconfigurar seu portfólio de investimentos.",
+    "is_stocks": true
   }
 ]
