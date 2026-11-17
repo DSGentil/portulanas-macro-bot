@@ -964,5 +964,101 @@
     "origem": "domestica",
     "leitura_critica": "Os resultados da XP e o recebimento de subvenção pela Petrobras indicam movimentos corporativos relevantes. Se a XP mantiver seu crescimento, pode continuar a ser um player importante no mercado financeiro; caso a Cosan conclua as vendas de participações, isso pode reconfigurar seu portfólio de investimentos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794921342.391572,
+    "titulo": "Com quase US$ 17 bi em compras de estrangeiros, dólar se aproxima de R$ 6",
+    "titulo_original": "Com quase US$ 17 bi em compras de estrangeiros, dólar se aproxima de R$ 6 - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 05:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Um fluxo de capital estrangeiro expressivo, especialmente se direcionado para renda fixa, pode fortalecer o real e pressionar o dólar para baixo. Se essa entrada de capital se mantiver, pode indicar maior apetite por ativos brasileiros, mas a aproximação do dólar a R$ 6 sugere outros fatores em jogo, como a política monetária ou o cenário fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794921348.172213,
+    "titulo": "Sem resposta fiscal de Lula, dólar pode romper a barreira dos R$ 6",
+    "titulo_original": "Sem resposta fiscal de Lula, dólar pode romper a barreira dos R$ 6 - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 09:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A falta de clareza na política fiscal é um fator de incerteza que pode pressionar o câmbio. Se o governo não apresentar medidas fiscais concretas e convincentes, a desvalorização do real pode se acentuar, impactando a inflação e o custo de importados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794921352.8030896,
+    "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
+    "titulo_original": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 08:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divergência de opiniões sobre a política monetária, com um defensor do corte da Selic criticando a manutenção de juros elevados, pode gerar ruído no mercado. Se a pressão por corte de juros aumentar, e for acompanhada por dados de inflação mais favoráveis, pode abrir espaço para discussões sobre redução da taxa básica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794921358.4136596,
+    "titulo": "Irã ataca base americana no Bahrein, enquanto embarcações se chocam com minas-navais em Ormuz",
+    "titulo_original": "Irã ataca base americana no Bahrein, enquanto embarcações se chocam com minas-navais em Ormuz - O GLOBO",
+    "fonte": "Google News Geopolitica",
+    "publicado": "17/11 08:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A escalada de tensões no Oriente Médio pode impactar os preços do petróleo e gerar aversão ao risco globalmente. Se o conflito se intensificar, pode haver reflexos nos mercados financeiros e no fluxo de capital para economias emergentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794921364.1635838,
+    "titulo": "Crédito deve seguir em desaceleração em 2027 com juros elevados e comprometimento de renda em patamar recorde, diz CEO do Itaú",
+    "titulo_original": "Crédito deve seguir em desaceleração em 2027 com juros elevados e comprometimento de renda em patamar recorde, diz CEO do Itaú",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 09:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de desaceleração do crédito, associada a juros elevados, sugere um ambiente de menor atividade econômica. Se as taxas de juros permanecerem altas, isso pode continuar a restringir o acesso ao crédito e impactar o consumo e o investimento.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794921364.1647596,
+    "titulo": "Notícias europeias: o sentimento de risco permanece hesitante em meio ao Fed hawkish e ao impasse EUA-Irã",
+    "titulo_original": "investingLive European news wrap: Risk sentiment remains tentative amid hawkish Fed and US-Iran stalemate",
+    "fonte": "ForexLive",
+    "publicado": "17/11 09:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A postura hawkish do Fed sugere que as taxas de juros nos EUA podem permanecer elevadas por mais tempo, o que tende a pressionar ativos de risco globalmente. Se o impasse EUA-Irã se intensificar, isso pode gerar volatilidade em commodities e aumentar a aversão ao risco, impactando mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794921364.1658316,
+    "titulo": "Governo avalia mudança no comando do Banco do Brasil",
+    "titulo_original": "Governo avalia mudança no comando do Banco do Brasil",
+    "fonte": "InvestNews",
+    "publicado": "17/11 09:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Mudanças na liderança de empresas estatais podem sinalizar alterações na condução de políticas públicas ou na gestão de ativos do governo. Se a mudança ocorrer, pode haver implicações na estratégia de crédito ou na alocação de recursos públicos.",
+    "is_stocks": true
   }
 ]
