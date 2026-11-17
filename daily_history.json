@@ -1,74 +1,5 @@
 [
   {
-    "_timestamp": 1794834961.5597937,
-    "titulo": "Pequenas e médias recuam 4,8% em outubro com resultado mais fraco no comércio, aponta IODE-PMEs",
-    "titulo_original": "Pequenas e médias recuam 4,8% em outubro com resultado mais fraco no comércio, aponta IODE-PMEs",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 10:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda na atividade das PMEs, combinada com a manutenção da Selic em patamar elevado, sugere um cenário de demanda restrita. Se o Copom iniciar um ciclo de cortes mais agressivo nas próximas reuniões, isso pode aliviar a pressão sobre o fluxo de caixa dessas empresas; caso contrário, o cenário de retração tende a persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794834967.2770603,
-    "titulo": "Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4",
-    "titulo_original": "Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do texto-base do plano Moretti representa um passo concreto para o ajuste fiscal. Se o texto for mantido sem alterações significativas no plenário, o impacto na contenção de gastos será mais previsível; contudo, emendas que flexibilizem as medidas podem comprometer o objetivo de redução do déficit.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794834972.8935747,
-    "titulo": "Previsão de Selic no fim de 2027 aumenta de 12,50% para 12,75%; 2026 segue em 13,75% - UOL Economia",
-    "titulo_original": "Previsão de Selic no fim de 2027 aumenta de 12,50% para 12,75%; 2026 segue em 13,75% - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/11 08:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento na projeção da Selic para 2027 indica uma expectativa de juros mais altos por um período mais prolongado. Se essa tendência se confirmar nas próximas divulgações, pode sinalizar preocupações persistentes com a inflação ou a necessidade de manter o aperto monetário por mais tempo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794834978.8272264,
-    "titulo": "Pix completa 6 anos e deve movimentar US$ 203,4 bilhões no e-commerce em 2027, projeta Ebanx",
-    "titulo_original": "Pix completa 6 anos e deve movimentar US$ 203,4 bilhões no e-commerce em 2027, projeta Ebanx",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 09:23",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de crescimento do Pix no e-commerce indica uma consolidação do sistema de pagamentos instantâneos na economia brasileira. O avanço do Pix pode impactar a eficiência das transações e a concorrência no setor financeiro, mas a notícia não conecta diretamente com juros, inflação ou decisões fiscais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794834984.4627929,
-    "titulo": "IGP-10 desacelera para 0,76% em novembro, com pressão menor de petróleo e soja - InfoMoney",
-    "titulo_original": "IGP-10 desacelera para 0,76% em novembro, com pressão menor de petróleo e soja - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "16/11 08:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração do IGP-10 em novembro, com menor pressão de petróleo e soja, sugere uma moderação na inflação ao produtor. Se essa tendência de desaceleração se mantiver nos próximos meses, pode aliviar as pressões inflacionárias gerais; caso contrário, a volatilidade nos preços das commodities pode reverter esse quadro.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1794842165.0392704,
     "titulo": "Tesouro Direto hoje: taxas sobem com continuidade de dívidas sobre pacote fiscal",
     "titulo_original": "Tesouro Direto hoje: taxas sobem com continuidade de dívidas sobre pacote fiscal",
@@ -1187,6 +1118,101 @@
     "canais_afetados": [],
     "origem": "ambas",
     "leitura_critica": "A participação da Bradesco Asset em um projeto internacional de fundos tokenizados demonstra uma movimentação do setor financeiro em direção a novas tecnologias de distribuição. Se a adoção de blockchain para fundos se consolidar, isso pode otimizar processos e reduzir custos para investidores.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794947466.445422,
+    "titulo": "Juros futuros têm forte queda de olho em rumos da política econômica",
+    "titulo_original": "Juros futuros têm forte queda de olho em rumos da política econômica",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 17:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nos juros futuros sugere uma percepção de menor risco fiscal ou incerteza política no curto prazo. Se as definições para o Ministério da Fazenda se concretizarem com nomes alinhados às expectativas do mercado, a tendência de queda pode se sustentar; caso contrário, a volatilidade nas taxas pode retornar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794947470.749749,
+    "titulo": "Alcolumbre diz que senadores buscam acordo para encerrar votação do PLP do ajuste fiscal",
+    "titulo_original": "Alcolumbre diz que senadores buscam acordo para encerrar votação do PLP do ajuste fiscal",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 17:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A busca por um acordo para votar o PLP do ajuste fiscal no Senado é crucial para a definição das medidas de economia governamental. Se um acordo for alcançado e o texto-base for mantido, a economia esperada de R$ 60 bilhões pode se concretizar; caso contrário, a aprovação pode ser adiada ou o texto pode ser desidratado, impactando o resultado fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794947475.177506,
+    "titulo": "Ajuste fiscal: governo teme perder nos destaques e já conta com desidratação do texto na Câmara",
+    "titulo_original": "Ajuste fiscal: governo teme perder nos destaques e já conta com desidratação do texto na Câmara",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 16:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O temor do governo em perder votos nos destaques do PLP do ajuste fiscal indica a fragilidade da base aliada e a força da oposição em certas pautas. Se os destaques que limitam a compensação tributária e adiam repasses forem aprovados, o impacto fiscal do ajuste será menor do que o planejado; caso contrário, a aprovação do texto original pode fortalecer a posição fiscal do governo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794947479.6574414,
+    "titulo": "Relator do pacote fiscal na Câmara critica destaque sobre compensação tributária",
+    "titulo_original": "Relator do pacote fiscal na Câmara critica destaque sobre compensação tributária",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 16:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A posição do relator do pacote fiscal na Câmara, Mauro Benevides, em defender a aprovação do texto sem alterações significativas, especialmente em relação à compensação tributária, sinaliza um esforço para manter a integridade do ajuste fiscal. Se o destaque for rejeitado e o texto aprovado como está, o impacto fiscal esperado será mantido; caso contrário, a desidratação do texto pode comprometer os objetivos de economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794947484.8843079,
+    "titulo": "Taxar dividendos e grandes fortunas pode prejudicar empresas e gerar fuga de capital, alerta economista",
+    "titulo_original": "Taxar dividendos e grandes fortunas pode prejudicar empresas e gerar fuga de capital, alerta economista",
+    "fonte": "Money Times",
+    "publicado": "17/11 15:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alerta de que a taxação de dividendos e grandes fortunas pode gerar fuga de capital é um ponto de atenção para o fluxo de investimentos no país. Se a proposta for implementada e resultar em saída de recursos, isso pode impactar negativamente o mercado de capitais e a economia brasileira; caso contrário, se a tributação for moderada ou acompanhada de outras medidas de incentivo, o efeito pode ser mitigado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794947484.8863125,
+    "titulo": "Pior margem em 10 anos, mas sem crise de caixa: Itaú BBA vê usinas pressionadas em 2026/27",
+    "titulo_original": "Pior margem em 10 anos, mas sem crise de caixa: Itaú BBA vê usinas pressionadas em 2026/27",
+    "fonte": "Money Times",
+    "publicado": "17/11 16:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de margens pressionadas para usinas de açúcar e etanol em 2026/27, apesar da ausência de crise de liquidez, indica um cenário desafiador para o setor. Se os preços das commodities agrícolas continuarem voláteis ou se os custos de produção aumentarem, a rentabilidade pode ser ainda mais afetada; caso contrário, a resiliência do setor pode se confirmar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794947484.8877852,
+    "titulo": "Congresso dos EUA convoca Jensen Huang para depor sobre chips de IA e China",
+    "titulo_original": "Congresso dos EUA convoca Jensen Huang para depor sobre chips de IA e China",
+    "fonte": "Money Times",
+    "publicado": "17/11 14:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A convocação de Jensen Huang pelo Congresso dos EUA para depor sobre chips de IA e China pode trazer à tona questões geopolíticas e de segurança nacional relacionadas à tecnologia. Se as discussões revelarem novas regulamentações ou restrições comerciais, isso pode impactar o setor de semicondutores globalmente; caso contrário, pode ser um depoimento informativo.",
     "is_stocks": true
   }
 ]
