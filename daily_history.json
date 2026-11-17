@@ -1,133 +1,5 @@
 [
   {
-    "_timestamp": 1794847543.3564484,
-    "titulo": "Mercado reduz projeções para inflação e crescimento econômico em 2026",
-    "titulo_original": "Mercado reduz projeções para inflação e crescimento econômico em 2026 - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/11 09:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A redução das projeções de inflação e crescimento para 2026 pelo mercado pode indicar uma percepção de desaceleração econômica mais acentuada ou de maior controle inflacionário. Se a inflação de fato se mostrar mais controlada, isso pode abrir espaço para discussões sobre política monetária; se o crescimento for revisado para baixo de forma significativa, pode sinalizar desafios para a geração de empregos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794847547.975631,
-    "titulo": "‘Fantasma’ de 2024 faz mercado temer nova disparada do dólar, alerta HSBC",
-    "titulo_original": "‘Fantasma’ de 2024 faz mercado temer nova disparada do dólar, alerta HSBC - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/11 13:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O alerta do HSBC sobre uma potencial disparada do dólar em 2024, associado a um \"fantasma\" não especificado, sugere incertezas significativas para o câmbio. Se os fatores que geram esse temor se materializarem, podemos ver uma fuga de capitais e uma desvalorização acentuada da moeda brasileira; a clareza sobre as causas desse temor é crucial para antecipar movimentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794847552.382853,
-    "titulo": "Dólar rompe R$ 5,70 e volta ao nível de maio de 2025; até onde a moeda pode ir?",
-    "titulo_original": "Dólar rompe R$ 5,70 e volta ao nível de maio de 2025; até onde a moeda pode ir? - Exame",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/11 10:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A ruptura do dólar acima de R$ 5,70, atingindo níveis de maio de 2025, indica uma pressão de desvalorização significativa da moeda brasileira. Se essa tendência se mantiver, pode haver um impacto na inflação de importados e um aumento na atratividade de investimentos em ativos dolarizados, afetando o fluxo de capital. A análise dos fatores que impulsionam essa alta é crucial para prever os próximos movimentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794847556.7350016,
-    "titulo": "Resolução impede inclusão de pais e mães de servidor em plano de saúde do BC",
-    "titulo_original": "Resolução impede inclusão de pais e mães de servidor em plano de saúde do BC",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 13:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A resolução do Banco Central sobre o plano de saúde de seus servidores representa uma mudança regulatória com impacto direto nos beneficiários. Se a medida for vista como um sinal de contenção de gastos públicos, pode ser interpretada como positiva para a gestão fiscal; caso contrário, pode gerar insatisfação entre os servidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794847561.944406,
-    "titulo": "Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
-    "titulo_original": "Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 12:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A reavaliação de um banco de investimento de grande porte pode influenciar o fluxo de capital estrangeiro para o mercado brasileiro. Se a percepção de risco se confirmar, pode haver uma saída de recursos, pressionando o índice para baixo; caso contrário, a reversão dessa recomendação pode atrair novos investimentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794847561.9453013,
-    "titulo": "A curva de juros vai matar muita gente no meio do caminho, diz CEO da BrasilAgro (AGRO3)",
-    "titulo_original": "A curva de juros vai matar muita gente no meio do caminho, diz CEO da BrasilAgro (AGRO3)",
-    "fonte": "Money Times",
-    "publicado": "16/11 13:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do CEO da BrasilAgro sobre a alta dos juros e seus impactos no agronegócio sugere que o cenário de juros elevados pode levar a uma reestruturação do setor, com possíveis fusões e aquisições. Se a taxa de juros se mantiver alta por um período prolongado, isso pode afetar a rentabilidade e a capacidade de investimento das empresas do setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794847561.946268,
-    "titulo": "Morgan rebaixa Brasil para “underweight” e vê Ibovespa a 160 mil pontos em 2027",
-    "titulo_original": "Morgan rebaixa Brasil para “underweight” e vê Ibovespa a 160 mil pontos em 2027 - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "16/11 08:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A reclassificação do Brasil para \"underweight\" pelo Morgan Stanley sugere uma visão cautelosa do banco sobre o mercado acionário brasileiro. Se essa perspectiva se consolidar, pode haver uma redução no fluxo de capital estrangeiro para a bolsa, pressionando o Ibovespa para baixo; caso contrário, uma melhora nas perspectivas econômicas ou fiscais pode reverter essa tendência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794847561.9470432,
-    "titulo": "Ibovespa abre em queda em meio ao Boletim Focus e ao IBC-Br",
-    "titulo_original": "Ibovespa abre em queda em meio ao Boletim Focus e ao IBC-Br - TradeMap",
-    "fonte": "Google News Acoes",
-    "publicado": "16/11 10:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, em resposta ao Boletim Focus e ao IBC-Br, sugere que as expectativas de inflação e os dados de atividade econômica podem estar divergindo das projeções do mercado. Se o IBC-Br apresentar um desempenho significativamente pior que o esperado, isso pode reforçar a percepção de desaceleração econômica, enquanto o Boletim Focus pode indicar uma revisão nas expectativas de inflação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794847561.9478326,
-    "titulo": "Pacote fiscal é bom, mas não é o suficiente para melhora definitiva do Brasil, diz sócio fundador da AW Capital",
-    "titulo_original": "Pacote fiscal é bom, mas não é o suficiente para melhora definitiva do Brasil, diz sócio fundador da AW Capital",
-    "fonte": "Money Times",
-    "publicado": "16/11 13:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A avaliação de que o pacote fiscal é bom, mas insuficiente, indica que o mercado pode ainda ter ressalvas sobre a sustentabilidade da melhora fiscal brasileira. Se as medidas fiscais não forem percebidas como robustas o suficiente para garantir a trajetória da dívida pública, a confiança dos investidores pode ser abalada, impactando o fluxo de capital e a percepção de risco do país.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794853848.6237426,
     "titulo": "Por que o dólar ultrapassou os R$ 5,75 nesta segunda?",
     "titulo_original": "Por que o dólar ultrapassou os R$ 5,75 nesta segunda? - InfoMoney",
@@ -1253,6 +1125,65 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A estabilidade do dólar em R$ 5,77, apesar da alta do Ibovespa, sugere que os fluxos de capital podem estar equilibrados no momento, com o mercado precificando tanto o desempenho da bolsa quanto a cautela cambial. Se a política fiscal continuar a gerar incertezas, a pressão sobre o dólar pode se intensificar, mesmo com um Ibovespa em alta.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794958243.7000978,
+    "titulo": "Foco em crescimento do PIB para lidar com problemas fiscais vai resultar em juro mais alto, diz ex-FMI",
+    "titulo_original": "Foco em crescimento do PIB para lidar com problemas fiscais vai resultar em juro mais alto, diz ex-FMI",
+    "fonte": "InvestNews",
+    "publicado": "17/11 19:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ex-economista-chefe do FMI sugere que a priorização do crescimento do PIB em detrimento de medidas fiscais mais rigorosas pode levar a um cenário de juros mais elevados no futuro. Se a política fiscal continuar focada apenas em crescimento sem ajuste, pode haver pressão para o Banco Central manter uma taxa de juros restritiva por mais tempo para controlar a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794958248.129961,
+    "titulo": "Com dólar a R$ 5,78, máxima em 19 meses, Banco Central anuncia intervenção no câmbio",
+    "titulo_original": "Com dólar a R$ 5,78, máxima em 19 meses, Banco Central anuncia intervenção no câmbio - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 19:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A intervenção do Banco Central no câmbio indica uma preocupação com a valorização excessiva do dólar, que pode impactar a inflação e o fluxo de capital. Se as intervenções forem contínuas e eficazes, podem ajudar a estabilizar a taxa de câmbio; caso contrário, a pressão de alta pode persistir, afetando a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794958253.6264615,
+    "titulo": "Notícias do mercado americano: vendas no varejo dos EUA continuam a mostrar resiliência",
+    "titulo_original": "investingLive Americas market news wrap: US retail sales continue to show resilience",
+    "fonte": "ForexLive",
+    "publicado": "17/11 18:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A resiliência das vendas no varejo sugere uma demanda ainda robusta, o que pode manter a pressão inflacionária. Por outro lado, a queda na produção industrial pode indicar um arrefecimento em alguns setores da economia. A persistência de dados mistos pode levar o Federal Reserve a manter uma postura cautelosa em relação a cortes de juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794958253.6279044,
+    "titulo": "Calendário econômico e de eventos na Ásia 18 de novembro de 2026.",
+    "titulo_original": "Economic and event calendar in Asia 18 November 2026.",
+    "fonte": "ForexLive",
+    "publicado": "17/11 18:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Os dados de salários na Austrália são cruciais para a decisão futura do RBA sobre juros. Se a inflação salarial vier acima do esperado, pode reforçar a visão de que o RBA precisará manter os juros elevados por mais tempo. Caso contrário, a aposta contra o aumento de juros pode se fortalecer.",
     "is_stocks": true
   }
 ]
