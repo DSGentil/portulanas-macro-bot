@@ -1,164 +1,5 @@
 [
   {
-    "_timestamp": 1794826847.801705,
-    "titulo": "Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana",
-    "titulo_original": "Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "13/11 18:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia reporta a variação do câmbio no fechamento da semana. A estabilidade diária contrasta com a valorização semanal da moeda americana, indicando uma tendência de alta que pode influenciar custos de importação e exportação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794826852.2990215,
-    "titulo": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil",
-    "titulo_original": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil - Estadão",
-    "fonte": "Google News Commodities",
-    "publicado": "15/11 05:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia aponta para um cenário de menor competitividade para mineradoras brasileiras devido ao fim de um ciclo favorável para o minério de ferro. Isso pode impactar a receita de empresas do setor e, consequentemente, a arrecadação fiscal, caso a notícia detalhasse o impacto em termos de decisão fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794826856.7659216,
-    "titulo": "Tendência do dólar é ter valorização ainda maior, diz especialista",
-    "titulo_original": "Tendência do dólar é ter valorização ainda maior, diz especialista - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "14/11 18:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A opinião de um especialista sobre a tendência de valorização do dólar sugere um cenário de câmbio mais desfavorável para o real. Se essa valorização se concretizar, pode haver impactos nos custos de importação e na inflação, mas a notícia em si não detalha esses mecanismos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794826861.2748404,
-    "titulo": "Juros altos atrapalham até quem vive disso",
-    "titulo_original": "Juros altos atrapalham até quem vive disso",
-    "fonte": "Folha Mercado",
-    "publicado": "15/11 23:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A análise sugere que a percepção de que bancos sempre se beneficiam de juros altos pode ser simplista, com os resultados recentes do setor financeiro indicando que a rentabilidade pode ser afetada negativamente por taxas extremas. A discussão se concentra na complexidade da relação entre o setor bancário e o nível das taxas de juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794826866.1738522,
-    "titulo": "Crise da Nvidia afeta investidores brasileiros; entenda",
-    "titulo_original": "Crise da Nvidia afeta investidores brasileiros; entenda",
-    "fonte": "Folha Mercado",
-    "publicado": "15/11 23:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A notícia detalha o impacto de uma crise corporativa na Nvidia sobre investidores brasileiros. Embora afete o mercado de ações, a notícia não conecta diretamente essa crise a fatores macroeconômicos como juros, inflação, fiscal ou fluxo de capital em larga escala.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794828657.2645552,
-    "titulo": "O céu é o limite para o dólar se o ajuste fiscal decepcionar, diz economista do UBS",
-    "titulo_original": "O céu é o limite para o dólar se o ajuste fiscal decepcionar, diz economista do UBS - Exame",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/11 06:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do economista do UBS sobre o potencial de alta do dólar em caso de decepção com o ajuste fiscal ressalta a importância da credibilidade das políticas fiscais para a estabilidade cambial. Se o governo não apresentar um plano fiscal robusto, a desvalorização do real pode se acentuar. Por outro lado, um ajuste fiscal bem-sucedido pode trazer alívio para o câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794828662.1462724,
-    "titulo": "Banco BV firma parceria com Ademicon para entrar em consórcios",
-    "titulo_original": "Banco BV firma parceria com Ademicon para entrar em consórcios",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 07:00",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A parceria entre Banco BV e Ademicon para oferecer consórcios sem juros remuneratórios pode atrair consumidores que buscam alternativas de financiamento. Se essa modalidade ganhar tração, pode impactar o mercado de crédito e financiamento. A oferta de produtos sem juros pode ser um diferencial competitivo para o banco BV em um cenário de taxas de juros elevadas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794828667.109617,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "16/11 04:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A menção de um possível aumento de 50 bps pelo Fed e dados de inflação mais altos que o esperado indicam um cenário de aperto monetário mais agressivo. Se o Fed realmente optar por um aumento maior, isso pode sustentar um dólar mais forte e pressionar mercados de risco. A escalada de tensões no Oriente Médio e a pressão sobre o Irã podem levar a um aumento nos preços do petróleo, o que, por sua vez, pode alimentar a inflação global e gerar preocupações com o crescimento econômico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794828672.0490663,
-    "titulo": "Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira - InfoMoney",
-    "titulo_original": "Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/11 06:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A divulgação da prévia do PIB e do Boletim Focus fornecerá importantes indicadores sobre a atividade econômica e as expectativas de mercado no Brasil. As falas de membros do Fed são cruciais para entender os próximos passos da política monetária nos EUA. Se a prévia do PIB vier abaixo do esperado, isso pode reforçar a necessidade de estímulos. Se as falas do Fed indicarem um tom mais duro, isso pode impactar os juros globais e o câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794828677.8397875,
-    "titulo": "Vendas no varejo, produção industrial e investimentos desaceleram na China",
-    "titulo_original": "Vendas no varejo, produção industrial e investimentos desaceleram na China",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 08:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração mais acentuada que o esperado nos principais indicadores econômicos da China sugere uma fraqueza na demanda interna. Se as autoridades chinesas implementarem estímulos fiscais significativos, isso pode impulsionar a economia chinesa e ter repercussões em commodities e no comércio global. Caso os estímulos sejam insuficientes, a desaceleração pode persistir, afetando o crescimento global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794828677.840302,
-    "titulo": "Day Trade hoje (16): Ibovespa retoma alta; recuperação vai ganhar força?",
-    "titulo_original": "Day Trade hoje (16): Ibovespa retoma alta; recuperação vai ganhar força? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "16/11 07:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A retomada da alta do Ibovespa sugere um movimento de otimismo no mercado acionário brasileiro. Se a recuperação ganhar força, pode indicar um cenário mais favorável para investimentos em renda variável. A continuidade dessa tendência dependerá de fatores como a definição da equipe econômica e o cenário macroeconômico global.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794828677.8411515,
-    "titulo": "Investidores aguardam definição da equipe econômica em semana mais curta; Ibovespa em dólar cai nesta segunda-feira (16)",
-    "titulo_original": "Investidores aguardam definição da equipe econômica em semana mais curta; Ibovespa em dólar cai nesta segunda-feira (16) - Money Times",
-    "fonte": "Google News Acoes",
-    "publicado": "16/11 07:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa em dólar, em meio à espera pela definição da equipe econômica, sugere que a incerteza política pode estar pesando sobre o mercado. Se a nova equipe econômica apresentar um plano claro e consistente, isso pode gerar um fluxo de capital estrangeiro e impulsionar o índice. Caso contrário, a volatilidade pode persistir.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794834961.5597937,
     "titulo": "Pequenas e médias recuam 4,8% em outubro com resultado mais fraco no comércio, aponta IODE-PMEs",
     "titulo_original": "Pequenas e médias recuam 4,8% em outubro com resultado mais fraco no comércio, aponta IODE-PMEs",
@@ -1279,6 +1120,73 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A análise do BTG sobre o mercado de etanol sugere que os fundamentos atuais podem sustentar uma alta nos preços do combustível renovável. Essa perspectiva pode ser relevante para o setor de energia e para a inflação de combustíveis, dependendo da participação do etanol na matriz energética.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794940248.8095937,
+    "titulo": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula - G1",
+    "titulo_original": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 11:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte desvalorização do real frente ao dólar desde a reeleição de Lula levanta preocupações sobre a estabilidade cambial. Se essa tendência de alta do dólar persistir, pode haver impactos negativos na inflação e no custo de importações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794940253.0482752,
+    "titulo": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
+    "titulo_original": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
+    "fonte": "Folha Mercado",
+    "publicado": "17/11 13:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A crítica da Brookfield à revisão de tarifas de gasodutos pela ANP levanta preocupações sobre o ambiente de negócios para investimentos em infraestrutura no Brasil. Se a revisão for mantida, pode haver desincentivo a novos projetos e impactar a atração de capital estrangeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794940257.532462,
+    "titulo": "Dirigentes do Fed citam inflação e risco de estresse e admitem alta de juros - UOL Economia",
+    "titulo_original": "Dirigentes do Fed citam inflação e risco de estresse e admitem alta de juros - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 13:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A admissão de dirigentes do Fed sobre a possibilidade de alta de juros, citando inflação e risco de estresse, sinaliza uma postura mais cautelosa da política monetária americana. Se os juros subirem, isso pode impactar o fluxo de capital global e o custo de financiamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794940261.7764826,
+    "titulo": "Juíza bloqueia política de Trump que restringia opções de trabalho para estudantes estrangeiros",
+    "titulo_original": "Juíza bloqueia política de Trump que restringia opções de trabalho para estudantes estrangeiros",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 14:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão judicial que bloqueia a política de Trump sobre estudantes estrangeiros pode ter um impacto positivo para o setor educacional americano e para a atração de talentos. Se a política original fosse mantida, poderia haver uma redução no fluxo de estudantes qualificados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794940266.5657935,
+    "titulo": "Bradesco Asset entra em projeto internacional para distribuir fundos tokenizados pela Solana",
+    "titulo_original": "Bradesco Asset entra em projeto internacional para distribuir fundos tokenizados pela Solana",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 15:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A participação da Bradesco Asset em um projeto internacional de fundos tokenizados demonstra uma movimentação do setor financeiro em direção a novas tecnologias de distribuição. Se a adoção de blockchain para fundos se consolidar, isso pode otimizar processos e reduzir custos para investidores.",
     "is_stocks": true
   }
 ]
