@@ -1166,5 +1166,119 @@
     "origem": "externa",
     "leitura_critica": "A expectativa em torno do balanço da Nvidia é alta, com o mercado atento não apenas aos números, mas também às perspectivas futuras da empresa e do setor de IA. Se os resultados superarem as expectativas e a guidance for positiva, isso pode impulsionar não só as ações da Nvidia, mas também o setor de tecnologia como um todo; resultados decepcionantes podem gerar o efeito oposto.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1794933969.1583388,
+    "titulo": "Tesouro Direto hoje: taxas recuam e Prefixado 2029 volta a pagar menos de 15%",
+    "titulo_original": "Tesouro Direto hoje: taxas recuam e Prefixado 2029 volta a pagar menos de 15%",
+    "fonte": "InvestNews",
+    "publicado": "17/11 09:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas taxas do Tesouro Direto indica uma possível precificação de juros futuros mais baixos ou um aumento na demanda por títulos públicos. Se essa tendência se confirmar, pode sinalizar uma mudança na expectativa do mercado em relação à política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794933974.8199673,
+    "titulo": "Boletim Cambial (17/11): Euro e Dólar PTAX - TradeMap",
+    "titulo_original": "Boletim Cambial (17/11): Euro e Dólar PTAX - TradeMap",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 13:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia se refere à divulgação de cotações cambiais e PTAX. Sem informações adicionais sobre os fatores que influenciaram essas cotações, a relevância se limita à informação em si.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794933979.3758843,
+    "titulo": "Dólar em alta: 7 fatores que podem mudar a trajetória da moeda - InfoMoney",
+    "titulo_original": "Dólar em alta: 7 fatores que podem mudar a trajetória da moeda - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "17/11 12:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia aborda os fatores que podem influenciar a cotação do dólar, um ativo de grande relevância para o mercado financeiro. A compreensão desses fatores é crucial para antecipar movimentos cambiais e seus impactos na economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794933984.0559697,
+    "titulo": "BC: 84% das instituições estão em fase de elaboração ou aprovação da política de qualidade das informações",
+    "titulo_original": "BC: 84% das instituições estão em fase de elaboração ou aprovação da política de qualidade das informações",
+    "fonte": "Valor Economico",
+    "publicado": "17/11 13:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia descreve o estágio de adequação das instituições financeiras a uma nova regulamentação do Banco Central. A dificuldade na rastreabilidade de dados pode indicar desafios na implementação de normas de transparência e segurança, com potencial impacto na eficiência do sistema financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1794933990.09576,
+    "titulo": "Dólar sobe e opera acima de R$ 5,79; Ibovespa avança mais de 1% com Petrobras e Vale em alta - Estadão",
+    "titulo_original": "Dólar sobe e opera acima de R$ 5,79; Ibovespa avança mais de 1% com Petrobras e Vale em alta - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "17/11 11:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar e a valorização do Ibovespa, com destaque para commodities, podem refletir um cenário de maior aversão ao risco ou expectativas específicas do mercado brasileiro. A persistência dessa tendência dependerá de fatores macroeconômicos e fiscais domésticos e internacionais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794933990.0979912,
+    "titulo": "Ibovespa Futuro amplia perdas após tombo na véspera, em meio a temores fiscais - InfoMoney",
+    "titulo_original": "Ibovespa Futuro amplia perdas após tombo na véspera, em meio a temores fiscais - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "17/11 09:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa Futuro, atribuída a temores fiscais, indica que a percepção de risco em relação às contas públicas do Brasil está impactando negativamente o mercado acionário. Se esses temores se materializarem em decisões fiscais desfavoráveis, a pressão sobre o índice pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794933990.099784,
+    "titulo": "Está ficando difícil acreditar que todas essas interrupções de internet são coincidência",
+    "titulo_original": "It's getting tough to believe all these internet outages are a coincidence",
+    "fonte": "ForexLive",
+    "publicado": "17/11 12:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia aponta para uma série de falhas técnicas em sistemas críticos e levanta a hipótese de ataques cibernéticos, o que pode gerar incertezas no mercado financeiro. Se houver confirmação de ataques coordenados, isso poderia impactar a confiança dos investidores e a estabilidade de infraestruturas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794933990.1015353,
+    "titulo": "Índice de mercado imobiliário NAHB para novembro 25 vs estimativa de 29",
+    "titulo_original": "NAHB housing market index for November 25 vs 29 estimate",
+    "fonte": "ForexLive",
+    "publicado": "17/11 12:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda no índice de confiança dos construtores imobiliários nos EUA sugere um arrefecimento na atividade do setor, o que pode ter implicações para o crescimento econômico e o emprego. Se essa tendência se mantiver, pode sinalizar um cenário de desaceleração na economia americana.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1794933990.103292,
+    "titulo": "Estoques apertados e gasolina defasada: por que o BTG segue otimista com o etanol no curto prazo",
+    "titulo_original": "Estoques apertados e gasolina defasada: por que o BTG segue otimista com o etanol no curto prazo",
+    "fonte": "Money Times",
+    "publicado": "17/11 12:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise do BTG sobre o mercado de etanol sugere que os fundamentos atuais podem sustentar uma alta nos preços do combustível renovável. Essa perspectiva pode ser relevante para o setor de energia e para a inflação de combustíveis, dependendo da participação do etanol na matriz energética.",
+    "is_stocks": true
   }
 ]
