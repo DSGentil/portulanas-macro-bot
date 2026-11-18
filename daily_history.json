@@ -1001,5 +1001,98 @@
     "origem": "externa",
     "leitura_critica": "Os números impressionantes da Nvidia e a preocupação com a sucessão de seu CEO criam um cenário de otimismo cauteloso. Se a transição de liderança ocorrer de forma suave e a demanda por IA se mantiver alta, as ações podem continuar a subir; caso contrário, a incerteza pode gerar volatilidade.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795014944.6157107,
+    "titulo": "Diretor do BC defende atualização na lei de liquidação de bancos",
+    "titulo_original": "Diretor do BC defende atualização na lei de liquidação de bancos",
+    "fonte": "Folha Mercado",
+    "publicado": "18/11 11:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A defesa de uma atualização na lei de liquidação de bancos pelo Banco Central sugere uma busca por maior eficiência e segurança no sistema financeiro. Se aprovada, a nova lei poderá alterar os procedimentos em caso de intervenção, impactando a percepção de risco do setor bancário.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795014948.9966211,
+    "titulo": "Apesar de estresse no câmbio, dólar corrigido pela inflação está longe do pico de R$ 8,45 de 2002",
+    "titulo_original": "Apesar de estresse no câmbio, dólar corrigido pela inflação está longe do pico de R$ 8,45 de 2002",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 11:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A comparação histórica do dólar corrigido pela inflação oferece um contexto para a atual valorização da moeda. Se a tendência de alta do dólar persistir sem um correspondente aumento da inflação, isso pode indicar uma força externa ou uma percepção de risco maior no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795014953.3414428,
+    "titulo": "Tesouro Direto hoje: prefixados sobem e IPCA+ cai",
+    "titulo_original": "Tesouro Direto hoje: prefixados sobem e IPCA+ cai",
+    "fonte": "InvestNews",
+    "publicado": "18/11 11:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A movimentação dos títulos do Tesouro Direto reflete a expectativa do mercado em relação à votação fiscal no Senado. Se a votação resultar em um cenário fiscal mais favorável, os títulos prefixados podem continuar a subir; caso contrário, a pressão sobre os títulos IPCA+ pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795014959.87616,
+    "titulo": "Alta do dólar pode pressionar inflação, mas repasse depende da estabilidade do câmbio em novo patamar. Entenda",
+    "titulo_original": "Alta do dólar pode pressionar inflação, mas repasse depende da estabilidade do câmbio em novo patamar. Entenda - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/11 11:25",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A relação entre a alta do dólar e a inflação é complexa e depende de fatores como a persistência da valorização cambial. Se o dólar se estabilizar em um patamar mais alto, o repasse para os preços pode ser mais acentuado, impactando o poder de compra.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795014991.5595918,
+    "titulo": "Bolsas em NY operam majoritariamente em queda com investidores cautelosos",
+    "titulo_original": "Bolsas em NY operam majoritariamente em queda com investidores cautelosos",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 12:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A cautela dos investidores em Nova York, refletida na queda dos índices, pode indicar um apetite a risco reduzido no mercado global. Se os resultados de outras empresas de tecnologia seguirem o padrão da Nvidia, o setor pode apresentar volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795014991.5614307,
+    "titulo": "Estrangeiros aportam R$ 241,5 milhões na B3 e interrompem 16 pregões de saídas",
+    "titulo_original": "Estrangeiros aportam R$ 241,5 milhões na B3 e interrompem 16 pregões de saídas",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 11:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A entrada de capital estrangeiro na B3 após um período de saídas pode ser um sinal de melhora na confiança dos investidores. Se essa tendência se mantiver, pode indicar um fluxo de capital mais positivo para a renda variável brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795014991.563131,
+    "titulo": "Bitcoin cai 1,7% e fica abaixo de US$ 64 mil mesmo com melhora no setor de tecnologia",
+    "titulo_original": "Bitcoin cai 1,7% e fica abaixo de US$ 64 mil mesmo com melhora no setor de tecnologia",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 11:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do bitcoin, mesmo com a recuperação de ações de tecnologia, reforça a influência das expectativas de juros nos EUA sobre ativos de risco. Se a ata do Fed confirmar um tom mais duro em relação aos juros, o bitcoin pode continuar sob pressão.",
+    "is_stocks": true
   }
 ]
