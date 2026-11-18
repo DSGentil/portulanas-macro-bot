@@ -884,5 +884,122 @@
     "origem": "domestica",
     "leitura_critica": "A inclusão de Nubank, XP e JBS em ETFs e fundos pode alterar a composição e o desempenho desses veículos de investimento. Investidores que acompanham esses índices devem analisar como essas mudanças afetam suas carteiras.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795007739.7770386,
+    "titulo": "Finalidade arrecadatória do imposto de exportação sobre o petróleo contraria a Constituição - JOTA Info",
+    "titulo_original": "Finalidade arrecadatória do imposto de exportação sobre o petróleo contraria a Constituição - JOTA Info",
+    "fonte": "Google News Commodities",
+    "publicado": "18/11 08:53",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia de que a finalidade arrecadatória do imposto de exportação sobre petróleo contraria a Constituição pode levar a questionamentos legais e fiscais. Se essa interpretação for confirmada em instâncias superiores, pode haver impacto na arrecadação e na política tributária sobre o setor; caso contrário, a questão pode ser resolvida administrativamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795007743.8371522,
+    "titulo": "Mercado de trabalho segue desigual na ocupação e no rendimento entre pretos, pardos e brancos, mostra IBGE",
+    "titulo_original": "Mercado de trabalho segue desigual na ocupação e no rendimento entre pretos, pardos e brancos, mostra IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 10:00",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistência de desigualdades raciais no mercado de trabalho, evidenciada pelos dados do IBGE, sugere que políticas de inclusão e equidade podem necessitar de aprimoramento. Se houver uma melhora significativa nos indicadores para pretos e pardos nas próximas divulgações, isso pode indicar a eficácia de novas medidas implementadas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795007747.6708853,
+    "titulo": "Abertura | Ata do Fed, petróleo e ajuste fiscal ficam no foco do mercado - InvesTalk",
+    "titulo_original": "Abertura | Ata do Fed, petróleo e ajuste fiscal ficam no foco do mercado - InvesTalk",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/11 09:44",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A atenção concentrada na ata do Fed, petróleo e ajuste fiscal sugere que o mercado busca direcionamento em temas de política monetária, commodities e finanças públicas. Se a ata do Fed indicar um viés mais duro, isso pode pressionar os juros; se o ajuste fiscal for detalhado, pode haver impacto na percepção de risco do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795007753.8798013,
+    "titulo": "Nova era diplomática? Trump chega em desvantagem para a cúpula histórica com Putin sorridente e Xi cauteloso - G1",
+    "titulo_original": "Nova era diplomática? Trump chega em desvantagem para a cúpula histórica com Putin sorridente e Xi cauteloso - G1",
+    "fonte": "Google News Geopolitica",
+    "publicado": "18/11 08:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A dinâmica da cúpula entre Trump, Putin e Xi Jinping, com Trump em desvantagem e os outros líderes com posturas distintas, pode influenciar as relações geopolíticas. Se as conversas resultarem em acordos de cooperação, isso pode estabilizar o cenário internacional; caso contrário, a tensão pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795007759.428516,
+    "titulo": "Resumo das notícias europeias: o sentimento de risco permanece negativo em meio a crescentes preocupações com o crescimento",
+    "titulo_original": "investingLive European news wrap: Risk sentiment remains negative amid rising growth concerns",
+    "fonte": "ForexLive",
+    "publicado": "18/11 09:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O sentimento negativo de risco na Europa, associado a preocupações com o crescimento, pode indicar uma aversão a ativos mais voláteis. Se as tensões geopolíticas se intensificarem, a pressão sobre os mercados pode aumentar; caso contrário, uma melhora no cenário de crescimento pode reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795007759.430136,
+    "titulo": "Xi Jinping defende comércio livre e aberto na cúpula da Apec",
+    "titulo_original": "Xi Jinping defende comércio livre e aberto na cúpula da Apec",
+    "fonte": "Folha Mercado",
+    "publicado": "18/11 09:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A defesa do comércio livre por Xi Jinping na Apec, em um contexto de tensões comerciais, pode sinalizar uma tentativa de estabilizar as relações internacionais. Se as conversas com os líderes dos EUA e da Rússia resultarem em acordos concretos, isso pode mitigar o protecionismo global; caso contrário, a retórica pode não se traduzir em ações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795007759.4317117,
+    "titulo": "Piora do crédito separa os bancões no 3T26: quem tem mais fôlego para proteger lucros e dividendos em 2027",
+    "titulo_original": "Piora do crédito separa os bancões no 3T26: quem tem mais fôlego para proteger lucros e dividendos em 2027",
+    "fonte": "Money Times",
+    "publicado": "18/11 10:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A piora do crédito e seus impactos nos resultados bancários podem indicar um cenário de maior cautela econômica no Brasil. Se a deterioração do crédito se acentuar, os bancos podem precisar de mais medidas para preservar capital; caso contrário, uma melhora na inadimplência pode aliviar a pressão sobre os lucros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795007759.433248,
+    "titulo": "Ações da Nvidia sobem quase 3% após balanço positivo no 3º trimestre - UOL Economia",
+    "titulo_original": "Ações da Nvidia sobem quase 3% após balanço positivo no 3º trimestre - UOL Economia",
+    "fonte": "Google News Acoes",
+    "publicado": "18/11 08:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta das ações da Nvidia após um balanço positivo sugere confiança do mercado na empresa e no setor de tecnologia. Se a demanda por seus produtos continuar forte, as ações podem manter a tendência de alta; caso contrário, a valorização pode ser temporária.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795007759.4347768,
+    "titulo": "Números da Nvidia impressionam, mas investidores temem sucessão de Huang",
+    "titulo_original": "Números da Nvidia impressionam, mas investidores temem sucessão de Huang",
+    "fonte": "Folha Mercado",
+    "publicado": "18/11 08:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Os números impressionantes da Nvidia e a preocupação com a sucessão de seu CEO criam um cenário de otimismo cauteloso. Se a transição de liderança ocorrer de forma suave e a demanda por IA se mantiver alta, as ações podem continuar a subir; caso contrário, a incerteza pode gerar volatilidade.",
+    "is_stocks": true
   }
 ]
