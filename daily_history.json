@@ -1,389 +1,5 @@
 [
   {
-    "_timestamp": 1794853848.6237426,
-    "titulo": "Por que o dólar ultrapassou os R$ 5,75 nesta segunda?",
-    "titulo_original": "Por que o dólar ultrapassou os R$ 5,75 nesta segunda? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/11 15:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar acima de R$ 5,75 pode indicar um aumento da aversão ao risco no mercado brasileiro ou fatores externos que pressionam a moeda. Se essa tendência de valorização persistir, pode haver um impacto inflacionário e na balança comercial do país, afetando o poder de compra e o custo de importações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794853854.022637,
-    "titulo": "Governo do Rio envia à Alerj projeto de lei que cria programa de negociação de créditos tributários",
-    "titulo_original": "Governo do Rio envia à Alerj projeto de lei que cria programa de negociação de créditos tributários",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 14:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O projeto de lei para negociação de créditos tributários no Rio de Janeiro, com descontos expressivos, busca impulsionar a arrecadação estadual e reduzir o contencioso. Se aprovado, o programa pode incentivar empresas a regularizarem suas pendências fiscais, o que, em tese, fortaleceria as finanças do estado e poderia ter um efeito positivo na sua capacidade de investimento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794853859.3321233,
-    "titulo": "Índice de atividade econômica contrai 0,9% no terceiro trimestre, aponta BC",
-    "titulo_original": "Índice de atividade econômica contrai 0,9% no terceiro trimestre, aponta BC",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 10:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A contração de 0,9% na atividade econômica brasileira no terceiro trimestre, conforme apontado pelo Banco Central, confirma uma desaceleração mais acentuada do que o esperado. Se essa tendência de retração se mantiver, pode haver pressão para o Banco Central reavaliar sua política monetária, possivelmente antecipando cortes de juros para estimular a economia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794853864.5438914,
-    "titulo": "Defesa de Vorcaro entra com mandado de segurança no STF contra decisão de Fachin de assumir processo da Compliance Zero",
-    "titulo_original": "Defesa de Vorcaro entra com mandado de segurança no STF contra decisão de Fachin de assumir processo da Compliance Zero",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 15:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do STF em avocar o processo pode gerar um precedente sobre a separação de poderes e a atuação administrativa em investigações judiciais. Se o mandado de segurança for aceito, isso pode reforçar a autonomia dos ministros designados para relatar casos específicos, em detrimento de uma centralização de poder na presidência da Corte.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794853871.0443397,
-    "titulo": "Vale (VALE3): ações caem mais de 3% com minério na mínima em 16 meses",
-    "titulo_original": "Vale (VALE3): ações caem mais de 3% com minério na mínima em 16 meses - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "16/11 12:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda expressiva nas ações da Vale, atrelada à mínima de 16 meses do minério de ferro, sinaliza um cenário desafiador para a mineradora e para o setor de commodities. Se os preços do minério continuarem em trajetória de baixa, isso pode impactar significativamente a receita e os lucros da Vale, além de afetar o desempenho do Ibovespa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794853871.0454538,
-    "titulo": "Justiça determina que Genial e BTG prestem informações sobre negócio entre os bancos",
-    "titulo_original": "Justiça determina que Genial e BTG prestem informações sobre negócio entre os bancos",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 14:55",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A solicitação de informações pela Justiça sobre a transação entre Genial e BTG pode indicar um escrutínio maior sobre operações financeiras entre instituições. Se as informações revelarem irregularidades, isso pode impactar a confiança no setor e levar a uma maior regulamentação ou fiscalização de fusões e aquisições.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794853871.0464942,
-    "titulo": "Investidores buscam esclarecimentos sobre parcerias e clientes após saída de Huang da Nvidia",
-    "titulo_original": "Investidores buscam esclarecimentos sobre parcerias e clientes após saída de Huang da Nvidia",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 15:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A saída inesperada do CEO da Nvidia levanta questões sobre a continuidade da estratégia da empresa e sua liderança no setor de IA. Se os resultados trimestrais apresentarem números fracos ou projeções pessimistas, isso pode impactar não apenas as ações da Nvidia, mas também o sentimento geral em relação a empresas de tecnologia e inteligência artificial.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794853871.0474198,
-    "titulo": "Tarcísio critica 'plano Moretti' e defende possibilidade de adiar reforma tributária",
-    "titulo_original": "Tarcísio critica 'plano Moretti' e defende possibilidade de adiar reforma tributária",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 13:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A crítica do governador Tarcísio de Freitas ao plano de ajuste fiscal e a defesa do adiamento da reforma tributária indicam divergências políticas sobre o caminho fiscal do país. Se a reforma tributária for de fato adiada, isso pode postergar a simplificação e a modernização do sistema tributário brasileiro, mantendo a incerteza para empresas e investidores.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794862846.7062993,
-    "titulo": "O formato do ajuste fiscal importa",
-    "titulo_original": "O formato do ajuste fiscal importa",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 17:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A magnitude do déficit nominal em comparação com o primário evidencia a importância do custo da dívida pública no cenário fiscal brasileiro. Se as medidas de ajuste focarem apenas no lado primário sem abordar a sustentabilidade da dívida, o problema pode se agravar. A forma como o governo pretende reduzir o déficit nominal será crucial para a percepção de risco fiscal do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794862851.0156617,
-    "titulo": "Pix parcelado na Black Friday: como funciona, quanto custa e onde aceita",
-    "titulo_original": "Pix parcelado na Black Friday: como funciona, quanto custa e onde aceita",
-    "fonte": "InvestNews",
-    "publicado": "16/11 15:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A oferta de crédito facilitado, mesmo com juros, pode impulsionar o consumo durante a Black Friday. Se essa modalidade se popularizar, pode haver um aumento no endividamento de consumidores. A análise de custo-benefício para o consumidor é o ponto central desta notícia.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794862855.327873,
-    "titulo": "Soja: Alta do dólar impulsiona preços",
-    "titulo_original": "Soja: Alta do dólar impulsiona preços - Sociedade Nacional de Agricultura",
-    "fonte": "Google News Commodities",
-    "publicado": "16/11 16:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do dólar em relação ao real torna a soja brasileira mais competitiva no mercado internacional, o que pode levar a um aumento nos preços. Se essa tendência se mantiver, pode beneficiar os exportadores de soja, mas também impactar o custo para o consumidor interno de produtos derivados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794862859.7117994,
-    "titulo": "BC projeta Pix por aproximação offline e integração internacional",
-    "titulo_original": "BC projeta Pix por aproximação offline e integração internacional",
-    "fonte": "Folha Mercado",
-    "publicado": "16/11 16:16",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A expansão do Pix para funcionalidades offline e integração internacional pode aumentar a inclusão financeira e facilitar transações em diversas situações. Se essas projeções se concretizarem, o Pix pode se tornar uma ferramenta de pagamento ainda mais versátil e competitiva globalmente. A viabilidade técnica e a adoção dessas novas funcionalidades serão pontos a serem observados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794862864.9848857,
-    "titulo": "Websites de bancos dos EUA estão tendo problemas",
-    "titulo_original": "US banking websites are having problems",
-    "fonte": "ForexLive",
-    "publicado": "16/11 15:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Problemas técnicos generalizados em instituições financeiras de grande porte podem gerar desconfiança e aumentar a aversão ao risco no curto prazo. Se as falhas persistirem ou se tornarem mais graves, isso pode impactar a confiança dos investidores e a liquidez do mercado. No entanto, uma fonte indicou que não há atores mal-intencionados envolvidos nas falhas do JPMorgan.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794862864.986054,
-    "titulo": "Petróleo tem forte queda com sinais de melhora na oferta",
-    "titulo_original": "Petróleo tem forte queda com sinais de melhora na oferta",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 17:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda nos preços do petróleo pode aliviar pressões inflacionárias globais e reduzir custos para empresas e consumidores. No entanto, a persistência de hostilidades no Golfo pode criar volatilidade e limitar a queda. Se o superávit de oferta se confirmar e os preços continuarem a cair, isso pode impactar a receita de países produtores e a dinâmica de investimentos no setor energético.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794862864.9871192,
-    "titulo": "Após problemas com Microsoft e sistema aéreo dos EUA, clientes relatam dificuldades para acessar bancos americanos",
-    "titulo_original": "Após problemas com Microsoft e sistema aéreo dos EUA, clientes relatam dificuldades para acessar bancos americanos",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 16:23",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A recorrência de falhas em infraestruturas críticas, incluindo sistemas bancários, pode minar a confiança dos consumidores e gerar preocupações sobre a segurança e estabilidade dos serviços digitais. Se esses problemas se tornarem mais frequentes, podem impactar a percepção de risco e a eficiência das operações financeiras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794866447.8151493,
-    "titulo": "Com Lula no Brasil, Planalto prepara reuniões com base de apoio para alinhar defesa ao ajuste fiscal",
-    "titulo_original": "Com Lula no Brasil, Planalto prepara reuniões com base de apoio para alinhar defesa ao ajuste fiscal",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 18:10",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A articulação política em torno do ajuste fiscal é crucial para sua aprovação e para a estabilidade econômica. Se o governo conseguir unificar a base de apoio e defender a proposta de forma convincente, a incerteza fiscal pode diminuir; se o atrito interno persistir, a aprovação da medida pode ser comprometida, gerando mais volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794866452.6380863,
-    "titulo": "Juros futuros disparam em meio a desconfiança com política econômica do governo",
-    "titulo_original": "Juros futuros disparam em meio a desconfiança com política econômica do governo",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 17:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A disparada dos juros futuros indica que o mercado precifica um cenário de maior inflação ou de juros mais altos por mais tempo, em resposta à incerteza fiscal. Se o governo apresentar um plano fiscal crível, a curva de juros pode se ajustar para baixo; caso contrário, a pressão por taxas mais elevadas tende a se manter.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794866459.0752583,
-    "titulo": "Dólar dispara e fecha no maior nível desde abril de 2025 com política fiscal no foco; Ibovespa despenca e juros avançam",
-    "titulo_original": "Dólar dispara e fecha no maior nível desde abril de 2025 com política fiscal no foco; Ibovespa despenca e juros avançam",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 18:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte alta do dólar e a queda do Ibovespa indicam uma desconfiança acentuada do mercado com a sustentabilidade da dívida pública brasileira. Se o governo conseguir apresentar medidas concretas e críveis para o ajuste fiscal, a pressão sobre o câmbio e a bolsa pode diminuir; caso contrário, a tendência de aversão ao risco tende a se intensificar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794866459.0765412,
-    "titulo": "Ibovespa cede 1,8% com incerteza fiscal e rebaixamento de ações brasileiras",
-    "titulo_original": "Ibovespa cede 1,8% com incerteza fiscal e rebaixamento de ações brasileiras",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 18:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa reflete a preocupação do mercado com a trajetória fiscal e possíveis novas taxações, além de um cenário externo desfavorável. Se as incertezas fiscais persistirem e o Banco Central sinalizar alta da Selic, a pressão sobre a bolsa pode continuar; uma melhora na percepção fiscal ou um cenário externo mais positivo poderiam reverter essa tendência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794866459.0776858,
-    "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-    "titulo_original": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-    "fonte": "Money Times",
-    "publicado": "16/11 18:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, influenciada por fatores fiscais e pelo petróleo, demonstra a sensibilidade do mercado a riscos domésticos e globais. Se as incertezas fiscais forem resolvidas com medidas claras, e o cenário do petróleo se estabilizar, a bolsa pode se recuperar; caso contrário, a volatilidade tende a persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794866459.0788052,
-    "titulo": "Ibovespa cai cerca de 2% e fica abaixo dos 170 mil pontos: o que explica forte queda?",
-    "titulo_original": "Ibovespa cai cerca de 2% e fica abaixo dos 170 mil pontos: o que explica forte queda? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "16/11 15:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda acentuada do Ibovespa abaixo dos 170 mil pontos sinaliza uma deterioração da confiança do investidor, fortemente ligada às incertezas fiscais. Se o governo conseguir apresentar um plano fiscal claro e convincente, a bolsa pode encontrar suporte para uma recuperação; a persistência da incerteza, no entanto, pode levar a novas quedas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794866459.0799909,
-    "titulo": "Morgan Stanley acende alerta para Bolsa brasileira e prevê Ibovespa a 160 mil pontos no fim de 2027",
-    "titulo_original": "Morgan Stanley acende alerta para Bolsa brasileira e prevê Ibovespa a 160 mil pontos no fim de 2027 - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "16/11 17:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Morgan Stanley para o Ibovespa em 2027 sugere um cenário de desempenho moderado ou em queda para a bolsa brasileira nos próximos anos. Se os fundamentos econômicos do Brasil não melhorarem significativamente, essa projeção pode se concretizar; uma melhora substancial na política fiscal e econômica, contudo, poderia levar a revisões positivas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794866459.0811749,
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa já desce mais de 2% e dólar sobe mais de 2,2%",
-    "titulo_original": "Ibovespa Hoje Ao Vivo: Bolsa já desce mais de 2% e dólar sobe mais de 2,2% - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "16/11 15:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A forte queda do Ibovespa e a alta expressiva do dólar indicam um momento de grande apreensão no mercado financeiro brasileiro. Se os fatores que causam essa aversão ao risco, como incertezas fiscais, forem mitigados, podemos ver uma reversão desse movimento; caso contrário, a volatilidade tende a se acentuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794866459.082378,
-    "titulo": "Fazenda diz estar em ‘tratativas preliminares’ sobre pedido do BB para flexibilizar regras para registro de crédito agro",
-    "titulo_original": "Fazenda diz estar em ‘tratativas preliminares’ sobre pedido do BB para flexibilizar regras para registro de crédito agro",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 18:31",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica uma possível flexibilização em regras de crédito, o que pode ter implicações para a gestão de risco e a saúde financeira do setor agro. Se a flexibilização for aprovada, pode haver um impacto na forma como as instituições financeiras provisionam perdas; se as tratativas não avançarem, as regras atuais permanecerão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794871847.7721643,
-    "titulo": "Pimenta atribui resistência a pacote do ajuste fiscal a desconhecimento e descarta envio de PEC",
-    "titulo_original": "Pimenta atribui resistência a pacote do ajuste fiscal a desconhecimento e descarta envio de PEC",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 19:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A articulação política em torno do pacote fiscal é crucial para a estabilidade das contas públicas brasileiras. Se o texto for aprovado sem grandes alterações, o governo poderá avançar em suas metas de ajuste fiscal; caso contrário, a incerteza sobre a trajetória das despesas e receitas pode aumentar, impactando a confiança do mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794871852.0198367,
-    "titulo": "Alckmin diz não ver 'razão sólida' para oscilação do dólar se manter",
-    "titulo_original": "Alckmin diz não ver 'razão sólida' para oscilação do dólar se manter",
-    "fonte": "Valor Economico",
-    "publicado": "16/11 19:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A percepção do presidente em exercício sobre a estabilidade do dólar e a solidez do ajuste fiscal pode influenciar a confiança dos investidores. Se o mercado interpretar as declarações de Alckmin como um sinal de controle da situação, a volatilidade cambial pode diminuir; caso contrário, a pressão sobre o dólar pode persistir, refletindo incertezas fiscais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794871856.442566,
-    "titulo": "Com dólar a R$ 5,80 toda a sociedade perde e não só o mercado financeiro, diz André Esteves",
-    "titulo_original": "Com dólar a R$ 5,80 toda a sociedade perde e não só o mercado financeiro, diz André Esteves - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/11 17:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de André Esteves sobre o impacto do dólar a R$ 5,80 na sociedade em geral aponta para uma percepção de que a volatilidade cambial excessiva tem consequências macroeconômicas amplas. Se essa percepção se consolidar, pode haver maior pressão por políticas que visem a estabilização cambial, com potenciais reflexos em decisões de política monetária e fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794871860.7270312,
-    "titulo": "Mercado precifica possibilidade de alta de juros em dezembro e Selic de 15,50% em 2027",
-    "titulo_original": "Mercado precifica possibilidade de alta de juros em dezembro e Selic de 15,50% em 2027 - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "16/11 15:54",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A precificação de alta de juros pelo mercado sugere uma antecipação de que o Banco Central pode precisar intervir para controlar a inflação ou estabilizar a economia. Se essa expectativa se concretizar com uma alta em dezembro, isso pode impactar o custo do crédito e o apetite por investimentos de maior risco no curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794871866.670541,
-    "titulo": "investingLive Americas market news wrap: Chip stocks dump again",
-    "titulo_original": "investingLive Americas market news wrap: Chip stocks dump again",
-    "fonte": "ForexLive",
-    "publicado": "16/11 18:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de manufatura dos EUA abaixo do esperado e a queda nos rendimentos dos títulos podem indicar uma desaceleração na atividade econômica americana. Se essa tendência se confirmar, pode haver implicações para a política monetária do Federal Reserve e, consequentemente, para os mercados globais, incluindo o fluxo de capital para economias emergentes.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794915050.9794056,
     "titulo": "Dólar supera R$ 5,77 e bolsa recua 1,83% com incertezas fiscais no radar",
     "titulo_original": "Dólar supera R$ 5,77 e bolsa recua 1,83% com incertezas fiscais no radar - Valor Econômico",
@@ -1184,6 +800,89 @@
     ],
     "origem": "externa",
     "leitura_critica": "Os dados de salários na Austrália são cruciais para a decisão futura do RBA sobre juros. Se a inflação salarial vier acima do esperado, pode reforçar a visão de que o RBA precisará manter os juros elevados por mais tempo. Caso contrário, a aposta contra o aumento de juros pode se fortalecer.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795001445.8767178,
+    "titulo": "IGP-M sobe 0,97% na segunda prévia de novembro, informa FGV",
+    "titulo_original": "IGP-M sobe 0,97% na segunda prévia de novembro, informa FGV",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 08:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração na alta do IGP-M em relação à prévia anterior pode ser um sinal de alívio na pressão inflacionária, especialmente no setor produtivo. Se essa tendência de desaceleração se confirmar nas próximas leituras, isso pode influenciar as expectativas sobre a política monetária futura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795001449.5878782,
+    "titulo": "Dólar dispara e mantém soja no Brasil no maior valor do ano",
+    "titulo_original": "Dólar dispara e mantém soja no Brasil no maior valor do ano - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/11 05:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A disparada do dólar impacta diretamente o custo de importação e o valor de exportação de commodities. Se a alta do dólar se mantiver, isso pode favorecer exportadores de commodities como a soja, mas também encarecer produtos importados e pressionar a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795001453.4917297,
+    "titulo": "O câmbio disparou — e agora? Como ficam os investimentos com o dólar em alta",
+    "titulo_original": "O câmbio disparou — e agora? Como ficam os investimentos com o dólar em alta - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/11 05:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A disparada do dólar pode afetar diversos tipos de investimento, tornando ativos dolarizados mais atrativos para investidores locais e impactando o custo de produtos importados. Se a alta do dólar persistir, isso pode levar a uma reavaliação das estratégias de alocação de portfólio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795001457.2435694,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "18/11 04:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A inflação de serviços abaixo do esperado no Reino Unido pode levar a uma reavaliação das expectativas de corte de juros pelo BoE. Se as atas do FOMC indicarem uma postura mais cautelosa em relação à inflação nos EUA, isso pode sustentar o dólar e influenciar decisões de juros globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795001461.703991,
+    "titulo": "Credores da Braskem resistem a oferta e discutem contraproposta",
+    "titulo_original": "Credores da Braskem resistem a oferta e discutem contraproposta",
+    "fonte": "Folha Mercado",
+    "publicado": "18/11 08:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A resistência dos credores e a discussão de contrapropostas indicam um cenário de negociação complexo para a Braskem. Se um acordo não for alcançado, um pedido de recuperação judicial poderia gerar incertezas no setor e para os investidores da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795001461.7054958,
+    "titulo": "Ibovespa com Nubank, XP e JBS: o que muda para quem investe em ETFs e fundos?",
+    "titulo_original": "Ibovespa com Nubank, XP e JBS: o que muda para quem investe em ETFs e fundos? - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "18/11 06:10",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "acoes"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A inclusão de Nubank, XP e JBS em ETFs e fundos pode alterar a composição e o desempenho desses veículos de investimento. Investidores que acompanham esses índices devem analisar como essas mudanças afetam suas carteiras.",
     "is_stocks": true
   }
 ]
