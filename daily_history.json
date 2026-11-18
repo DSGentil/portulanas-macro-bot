@@ -1,111 +1,5 @@
 [
   {
-    "_timestamp": 1794928578.881923,
-    "titulo": "Senado conclui nesta terça (17) votação do 'plano Moretti'; veja o que falta ser decidido",
-    "titulo_original": "Senado conclui nesta terça (17) votação do 'plano Moretti'; veja o que falta ser decidido",
-    "fonte": "Folha Mercado",
-    "publicado": "17/11 11:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A conclusão da votação do 'plano Moretti' no Senado é um passo importante para a consolidação fiscal do país. Se o plano for aprovado com as premissas originais, isso pode trazer mais confiança ao mercado sobre a trajetória da dívida pública; caso haja alterações significativas que flexibilizem o ajuste, isso pode gerar preocupações fiscais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794928586.6219075,
-    "titulo": "Não há licença para 'gasto indiscriminado' pelos Três Poderes, diz Durigan",
-    "titulo_original": "Não há licença para 'gasto indiscriminado' pelos Três Poderes, diz Durigan",
-    "fonte": "Valor Economico",
-    "publicado": "17/11 11:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro Durigan reforça a necessidade de responsabilidade fiscal e a ausência de margem para gastos excessivos. Se essa postura for mantida e se traduzir em ações concretas de controle de despesas, isso pode trazer mais credibilidade à política fiscal do governo; caso contrário, a retórica pode não ser suficiente para ancorar as expectativas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794928592.1894698,
-    "titulo": "Crise fiscal nas economias ricas drena recursos e afeta países pobres e emergentes",
-    "titulo_original": "Crise fiscal nas economias ricas drena recursos e afeta países pobres e emergentes",
-    "fonte": "Folha Mercado",
-    "publicado": "17/11 10:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A crise fiscal em economias desenvolvidas, ao drenar recursos, pode limitar o investimento e o financiamento para países emergentes e pobres. Se as economias ricas não conseguirem controlar suas dívidas, isso pode levar a um cenário de aversão ao risco global, impactando o fluxo de capital para mercados emergentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794928599.347336,
-    "titulo": "Preços de importação dos EUA em outubro 1,1% vs 0,7% esperado. Preços de exportação 1,1% vs 0,5% esperado.",
-    "titulo_original": "US Import prices 1.1% vs 0.7% est. Export prices 1.1% vs 0.5% est.",
-    "fonte": "ForexLive",
-    "publicado": "17/11 10:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de preços de importação acima do esperado reforça a pressão inflacionária nos EUA, o que pode levar o Federal Reserve a manter uma postura mais cautelosa em relação a cortes de juros. Se os próximos dados de inflação continuarem quentes, o mercado pode precificar um ciclo de aperto monetário mais prolongado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794928608.3517163,
-    "titulo": "Bolsas em NY abrem majoritariamente em queda com techs em foco",
-    "titulo_original": "Bolsas em NY abrem majoritariamente em queda com techs em foco",
-    "fonte": "Valor Economico",
-    "publicado": "17/11 12:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda em Nova York, com foco em techs, indica que o mercado está aguardando os resultados da Nvidia para definir o sentimento. Se os resultados da Nvidia vierem abaixo das expectativas, isso pode pressionar ainda mais o setor de tecnologia e, consequentemente, os índices.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794928608.3530836,
-    "titulo": "Wall Street opera em leve queda à espera do resultado da Nvidia e preços do petróleo",
-    "titulo_original": "Wall Street opera em leve queda à espera do resultado da Nvidia e preços do petróleo",
-    "fonte": "Money Times",
-    "publicado": "17/11 11:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A leve queda em Wall Street reflete a expectativa em torno dos resultados da Nvidia e a tensão nos preços do petróleo. Se os resultados da Nvidia vierem fortes, isso pode impulsionar o setor de tecnologia; caso contrário, a pressão sobre os índices pode aumentar. A escalada nos preços do petróleo, se mantida, pode alimentar preocupações inflacionárias.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794928608.354284,
-    "titulo": "Estrangeiros retiram R$ 85,1 milhões da B3 em 13 de novembro e completam 16 sessões de saques",
-    "titulo_original": "Estrangeiros retiram R$ 85,1 milhões da B3 em 13 de novembro e completam 16 sessões de saques",
-    "fonte": "Valor Economico",
-    "publicado": "17/11 12:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade dos saques de estrangeiros na B3 pode indicar uma aversão ao risco no mercado brasileiro ou uma realocação de capital para outros mercados. Se essa tendência de saída se intensificar, pode pressionar o Ibovespa; caso contrário, uma reversão desse fluxo poderia impulsionar a bolsa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794928608.3554611,
-    "titulo": "Balanço da Nvidia (NVDA): o que esperar dos resultados — e do futuro da empresa sem Jensen Huang",
-    "titulo_original": "Balanço da Nvidia (NVDA): o que esperar dos resultados — e do futuro da empresa sem Jensen Huang",
-    "fonte": "Money Times",
-    "publicado": "17/11 11:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A expectativa em torno do balanço da Nvidia é alta, com o mercado atento não apenas aos números, mas também às perspectivas futuras da empresa e do setor de IA. Se os resultados superarem as expectativas e a guidance for positiva, isso pode impulsionar não só as ações da Nvidia, mas também o setor de tecnologia como um todo; resultados decepcionantes podem gerar o efeito oposto.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794933969.1583388,
     "titulo": "Tesouro Direto hoje: taxas recuam e Prefixado 2029 volta a pagar menos de 15%",
     "titulo_original": "Tesouro Direto hoje: taxas recuam e Prefixado 2029 volta a pagar menos de 15%",
@@ -1200,6 +1094,104 @@
     ],
     "origem": "domestica",
     "leitura_critica": "O pedido de proteção contra credores do grupo Fazendão, com dívida bilionária, pode indicar dificuldades no setor agropecuário e gerar perdas para os bancos credores. Se outros grandes players do agronegócio enfrentarem problemas semelhantes, isso pode aumentar a percepção de risco no setor e impactar o crédito rural.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795039372.2265244,
+    "titulo": "Dólar sobe a R$ 5,87 com fiscal e acumula alta de 17,6% desde reeleição de Lula - InfoMoney",
+    "titulo_original": "Dólar sobe a R$ 5,87 com fiscal e acumula alta de 17,6% desde reeleição de Lula - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/11 17:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar ligada a questões fiscais sugere que a percepção de risco em relação às contas públicas do Brasil está aumentando. Se a incerteza fiscal persistir ou se agravar, o dólar pode continuar pressionado, impactando a inflação de importados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795039376.4533758,
+    "titulo": "Dino determina extinção de processos sobre Moratória da Soja no Cade e na Justiça - JOTA Info",
+    "titulo_original": "Dino determina extinção de processos sobre Moratória da Soja no Cade e na Justiça - JOTA Info",
+    "fonte": "Google News Commodities",
+    "publicado": "18/11 16:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A extinção de processos sobre a Moratória da Soja, determinada pelo Ministério da Justiça, pode sinalizar uma mudança na abordagem regulatória ou uma resolução de disputas. Se essa decisão impactar a dinâmica comercial de commodities agrícolas, pode ter reflexos indiretos na atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795039382.0868924,
+    "titulo": "Dólar rumo ao hexa – alta acelera e moeda americana chega a R$ 5,87 - InvestNews",
+    "titulo_original": "Dólar rumo ao hexa – alta acelera e moeda americana chega a R$ 5,87 - InvestNews",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/11 17:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aceleração da alta do dólar, associada à atenção sobre o cenário fiscal, reforça a percepção de risco cambial no Brasil. Se a incerteza fiscal persistir, o dólar pode continuar sua trajetória ascendente, impactando custos e a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795039386.399723,
+    "titulo": "Dólar salta a R$ 5,86 com pressão sobre ajuste nas contas públicas - UOL Economia",
+    "titulo_original": "Dólar salta a R$ 5,86 com pressão sobre ajuste nas contas públicas - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/11 14:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O salto do dólar para R$ 5,86, com a justificativa de pressão sobre o ajuste fiscal, indica que o mercado está reagindo negativamente às perspectivas de controle das contas públicas. Se a incerteza fiscal persistir, o dólar pode continuar sua valorização.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795039392.0096464,
+    "titulo": "Ibovespa recua 1% com rebaixamento do Goldman Sachs e fiscal no radar - UOL Economia",
+    "titulo_original": "Ibovespa recua 1% com rebaixamento do Goldman Sachs e fiscal no radar - UOL Economia",
+    "fonte": "Google News Acoes",
+    "publicado": "18/11 15:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, associada a preocupações fiscais e a um rebaixamento de recomendação de um banco de investimento, indica um sentimento de cautela no mercado acionário brasileiro. Se as questões fiscais não forem resolvidas, a pressão sobre o índice pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795039392.0110967,
+    "titulo": "Dólar fecha a R$ 5,87, maior valor desde com fiscal no radar; Ibovespa cai - UOL Economia",
+    "titulo_original": "Dólar fecha a R$ 5,87, maior valor desde com fiscal no radar; Ibovespa cai - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "18/11 17:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O fechamento do dólar em R$ 5,87, o maior valor em meio a preocupações fiscais, e a queda do Ibovespa indicam um dia de aversão ao risco no mercado brasileiro. Se as questões fiscais não forem endereçadas de forma convincente, a pressão sobre o câmbio e a bolsa pode se manter.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795039392.012304,
+    "titulo": "Ibovespa perde os 168 mil pontos com votação do PLP do ajuste fiscal e queda forte de bancos",
+    "titulo_original": "Ibovespa perde os 168 mil pontos com votação do PLP do ajuste fiscal e queda forte de bancos",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 18:24",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perda de patamares importantes pelo Ibovespa, em meio à votação de um projeto de ajuste fiscal e à desvalorização de bancos, sugere que o mercado está precificando riscos relacionados à política fiscal. Se o resultado da votação for percebido como insatisfatório, a pressão sobre o índice e o setor bancário pode continuar.",
     "is_stocks": true
   }
 ]
