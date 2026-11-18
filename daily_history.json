@@ -1,101 +1,5 @@
 [
   {
-    "_timestamp": 1794921342.391572,
-    "titulo": "Com quase US$ 17 bi em compras de estrangeiros, dólar se aproxima de R$ 6",
-    "titulo_original": "Com quase US$ 17 bi em compras de estrangeiros, dólar se aproxima de R$ 6 - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/11 05:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Um fluxo de capital estrangeiro expressivo, especialmente se direcionado para renda fixa, pode fortalecer o real e pressionar o dólar para baixo. Se essa entrada de capital se mantiver, pode indicar maior apetite por ativos brasileiros, mas a aproximação do dólar a R$ 6 sugere outros fatores em jogo, como a política monetária ou o cenário fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794921348.172213,
-    "titulo": "Sem resposta fiscal de Lula, dólar pode romper a barreira dos R$ 6",
-    "titulo_original": "Sem resposta fiscal de Lula, dólar pode romper a barreira dos R$ 6 - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/11 09:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A falta de clareza na política fiscal é um fator de incerteza que pode pressionar o câmbio. Se o governo não apresentar medidas fiscais concretas e convincentes, a desvalorização do real pode se acentuar, impactando a inflação e o custo de importados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794921352.8030896,
-    "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
-    "titulo_original": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "17/11 08:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divergência de opiniões sobre a política monetária, com um defensor do corte da Selic criticando a manutenção de juros elevados, pode gerar ruído no mercado. Se a pressão por corte de juros aumentar, e for acompanhada por dados de inflação mais favoráveis, pode abrir espaço para discussões sobre redução da taxa básica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794921358.4136596,
-    "titulo": "Irã ataca base americana no Bahrein, enquanto embarcações se chocam com minas-navais em Ormuz",
-    "titulo_original": "Irã ataca base americana no Bahrein, enquanto embarcações se chocam com minas-navais em Ormuz - O GLOBO",
-    "fonte": "Google News Geopolitica",
-    "publicado": "17/11 08:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de tensões no Oriente Médio pode impactar os preços do petróleo e gerar aversão ao risco globalmente. Se o conflito se intensificar, pode haver reflexos nos mercados financeiros e no fluxo de capital para economias emergentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1794921364.1635838,
-    "titulo": "Crédito deve seguir em desaceleração em 2027 com juros elevados e comprometimento de renda em patamar recorde, diz CEO do Itaú",
-    "titulo_original": "Crédito deve seguir em desaceleração em 2027 com juros elevados e comprometimento de renda em patamar recorde, diz CEO do Itaú",
-    "fonte": "Valor Economico",
-    "publicado": "17/11 09:53",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de desaceleração do crédito, associada a juros elevados, sugere um ambiente de menor atividade econômica. Se as taxas de juros permanecerem altas, isso pode continuar a restringir o acesso ao crédito e impactar o consumo e o investimento.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794921364.1647596,
-    "titulo": "Notícias europeias: o sentimento de risco permanece hesitante em meio ao Fed hawkish e ao impasse EUA-Irã",
-    "titulo_original": "investingLive European news wrap: Risk sentiment remains tentative amid hawkish Fed and US-Iran stalemate",
-    "fonte": "ForexLive",
-    "publicado": "17/11 09:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A postura hawkish do Fed sugere que as taxas de juros nos EUA podem permanecer elevadas por mais tempo, o que tende a pressionar ativos de risco globalmente. Se o impasse EUA-Irã se intensificar, isso pode gerar volatilidade em commodities e aumentar a aversão ao risco, impactando mercados emergentes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1794921364.1658316,
-    "titulo": "Governo avalia mudança no comando do Banco do Brasil",
-    "titulo_original": "Governo avalia mudança no comando do Banco do Brasil",
-    "fonte": "InvestNews",
-    "publicado": "17/11 09:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Mudanças na liderança de empresas estatais podem sinalizar alterações na condução de políticas públicas ou na gestão de ativos do governo. Se a mudança ocorrer, pode haver implicações na estratégia de crédito ou na alocação de recursos públicos.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1794928578.881923,
     "titulo": "Senado conclui nesta terça (17) votação do 'plano Moretti'; veja o que falta ser decidido",
     "titulo_original": "Senado conclui nesta terça (17) votação do 'plano Moretti'; veja o que falta ser decidido",
@@ -1199,6 +1103,103 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A notícia associa o aumento de distratos no programa habitacional a juros elevados e endividamento familiar, além de critérios de crédito. Se a taxa de juros permanecer alta, isso pode continuar pressionando o setor imobiliário e o programa Minha Casa Minha Vida.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795033849.9622877,
+    "titulo": "ANP rejeita pedidos para suspender processo de revisão das tarifas de gasodutos",
+    "titulo_original": "ANP rejeita pedidos para suspender processo de revisão das tarifas de gasodutos",
+    "fonte": "Folha Mercado",
+    "publicado": "18/11 17:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão da ANP de seguir com a revisão tarifária de gasodutos, apesar dos protestos, pode gerar incertezas para investidores do setor. Se a revisão resultar em tarifas menos favoráveis do que o esperado, isso pode desestimular novos investimentos em infraestrutura de gás no Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795033854.6335485,
+    "titulo": "Um Onix ou R$ 85 mil? GM oferece carro zero em pacote para demissão voluntária",
+    "titulo_original": "Um Onix ou R$ 85 mil? GM oferece carro zero em pacote para demissão voluntária",
+    "fonte": "InvestNews",
+    "publicado": "18/11 16:40",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A oferta de demissão voluntária pela GM, com benefícios atrativos, pode indicar uma reestruturação da força de trabalho da empresa. Se um número significativo de funcionários aderir, isso pode impactar a produção local e a dinâmica do mercado de trabalho automotivo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795033859.3533757,
+    "titulo": "Dirigentes do Fed esperam mais altas de juros para levar inflação à meta, diz ata",
+    "titulo_original": "Dirigentes do Fed esperam mais altas de juros para levar inflação à meta, diz ata",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 16:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A ata do Fed indica uma postura mais dura em relação à inflação, com a possibilidade de altas de juros superiores a 0,25 ponto percentual. Se os próximos dados de inflação nos EUA vierem acima do esperado, o Fed pode intensificar o aperto monetário, o que tende a fortalecer o dólar e pressionar ativos de risco globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795033864.2197275,
+    "titulo": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
+    "titulo_original": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
+    "fonte": "Money Times",
+    "publicado": "18/11 16:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A possibilidade de o Fed considerar uma alta de juros acima de 0,25 ponto em dezembro reforça a perspectiva de aperto monetário nos EUA. Se essa decisão se concretizar, o dólar tende a se fortalecer, o que pode pressionar moedas emergentes e commodities.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795033869.8901868,
+    "titulo": "BB comunica clientes sobre vazamentos de dados pessoais, mas nega invasão a seus sistemas",
+    "titulo_original": "BB comunica clientes sobre vazamentos de dados pessoais, mas nega invasão a seus sistemas",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 17:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O vazamento de dados no Banco do Brasil, embora negue invasão de sistemas, pode gerar desconfiança em parte da base de clientes. Se o incidente levar a um aumento na procura por serviços de segurança ou a questionamentos regulatórios, isso pode impactar a percepção de risco do setor bancário no Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795033869.8922331,
+    "titulo": "Mercado Livre acerta financiamento de US$ 735 mi com IFC para ampliar crédito na Amazônia",
+    "titulo_original": "Mercado Livre acerta financiamento de US$ 735 mi com IFC para ampliar crédito na Amazônia",
+    "fonte": "Valor Economico",
+    "publicado": "18/11 16:21",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O financiamento de US$ 735 milhões entre Mercado Livre e IFC para crédito na Amazônia pode impulsionar a atividade econômica local. Se esse modelo de parceria se expandir para outras regiões ou setores, pode sinalizar um novo caminho para o fomento ao empreendedorismo com apoio de instituições financeiras internacionais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795033869.893988,
+    "titulo": "Grupo do Tocantins do agro entra com pedido de proteção bilionário contra credores e atinge BB (BBAS3) e mais bancos; veja lista",
+    "titulo_original": "Grupo do Tocantins do agro entra com pedido de proteção bilionário contra credores e atinge BB (BBAS3) e mais bancos; veja lista",
+    "fonte": "Money Times",
+    "publicado": "18/11 15:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O pedido de proteção contra credores do grupo Fazendão, com dívida bilionária, pode indicar dificuldades no setor agropecuário e gerar perdas para os bancos credores. Se outros grandes players do agronegócio enfrentarem problemas semelhantes, isso pode aumentar a percepção de risco no setor e impactar o crédito rural.",
     "is_stocks": true
   }
 ]
