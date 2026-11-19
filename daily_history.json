@@ -917,5 +917,101 @@
     "origem": "externa",
     "leitura_critica": "A conquista do primeiro cliente externo para uma nova categoria de chips pela Intel é um passo importante para a diversificação de receita da empresa. Se a tecnologia for bem aceita pelo mercado, pode impulsionar a demanda por esses novos produtos e fortalecer a posição da Intel.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795101347.1216757,
+    "titulo": "Lula: 'Não é o mercado que deseja o controle fiscal, sou eu'",
+    "titulo_original": "Lula: 'Não é o mercado que deseja o controle fiscal, sou eu'",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 12:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do presidente reforça a intenção do governo em manter o controle fiscal, o que pode ser visto como um sinal positivo para o mercado. Se as ações subsequentes do governo demonstrarem compromisso com a responsabilidade fiscal, isso pode mitigar as preocupações com especulação e atrair investimentos. Caso contrário, a persistência de boatos e a falta de clareza nas medidas podem manter a volatilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795101352.0686483,
+    "titulo": "Pacote fiscal e inflação elevada: cenário continua favorecendo PACC11",
+    "titulo_original": "Pacote fiscal e inflação elevada: cenário continua favorecendo PACC11",
+    "fonte": "Money Times",
+    "publicado": "19/11 10:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do pacote fiscal no Senado, com um impacto reduzido, pode ser vista como um passo na direção da consolidação fiscal, o que é positivo. Se a Câmara dos Deputados mantiver o texto aprovado, isso reforçará a previsibilidade fiscal. A menção de que o cenário de inflação elevada favorece o PACC11 sugere que a persistência da inflação pode ser um fator a ser monitorado para o desempenho desse ativo específico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795101356.9391108,
+    "titulo": "Lula diz que parte de seus aliados não entendeu plano Moretti de ajuste nas contas",
+    "titulo_original": "Lula diz que parte de seus aliados não entendeu plano Moretti de ajuste nas contas",
+    "fonte": "Folha Mercado",
+    "publicado": "19/11 11:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Lula sugere que pode haver divergências internas sobre a implementação do ajuste fiscal, o que pode gerar incertezas quanto à sua efetividade. Se a falta de entendimento persistir entre os aliados, a aprovação e execução de medidas fiscais podem enfrentar obstáculos. Por outro lado, um alinhamento posterior pode fortalecer a credibilidade do plano.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795101361.9085543,
+    "titulo": "Putin assina comunicado conjunto pela paz e minutos depois diz que não negociará com a Ucrânia",
+    "titulo_original": "Putin assina comunicado conjunto pela paz e minutos depois diz que não negociará com a Ucrânia",
+    "fonte": "Money Times",
+    "publicado": "19/11 11:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A contradição entre a assinatura de um comunicado pela paz e a declaração de não negociação por parte de Putin indica uma postura agressiva e imprevisível da Rússia. Se a retórica se traduzir em ações militares intensificadas, isso pode aumentar a aversão ao risco global e impactar mercados de energia e commodities. A ausência de um caminho claro para a diplomacia eleva a incerteza geopolítica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795101429.4629722,
+    "titulo": "Esperamos que governo faça ‘lição de casa’, e aí fluxo estrangeiro pode voltar, diz Bofa",
+    "titulo_original": "Esperamos que governo faça ‘lição de casa’, e aí fluxo estrangeiro pode voltar, diz Bofa",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 12:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do BofA estabelece uma condição clara para o retorno do fluxo de capital estrangeiro: a execução de uma 'lição de casa' fiscal pelo governo. Se o governo demonstrar compromisso com a responsabilidade fiscal, isso pode atrair investimentos e impulsionar os ativos brasileiros. Caso contrário, a persistência das indefinições e a postura negativa dos investidores podem manter o cenário de aversão ao risco para o Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795101429.464609,
+    "titulo": "Empresa de genro de Trump investe US$ 33,5 milhões no Nubank",
+    "titulo_original": "Empresa de genro de Trump investe US$ 33,5 milhões no Nubank - InvesTalk",
+    "fonte": "Google News Geopolitica",
+    "publicado": "19/11 10:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "O investimento de capital estrangeiro no Nubank, mesmo que de uma fonte específica, pode ser interpretado como um sinal de confiança no setor financeiro brasileiro. Se esse tipo de investimento se generalizar, pode indicar um fluxo de capital mais robusto para o país. No entanto, a relevância individual dessa notícia depende da continuidade e do volume de aportes semelhantes para confirmar uma tendência macro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795101429.466139,
+    "titulo": "BNDES tem lucro de R$ 20,3 bi até setembro, puxado por venda de ações da Petrobras",
+    "titulo_original": "BNDES tem lucro de R$ 20,3 bi até setembro, puxado por venda de ações da Petrobras",
+    "fonte": "Folha Mercado",
+    "publicado": "19/11 11:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O lucro expressivo do BNDES, impulsionado pela venda de ativos da Petrobras, demonstra uma gestão financeira positiva para o banco de desenvolvimento. Se essa venda de ativos for parte de uma estratégia mais ampla de desinvestimento ou reestruturação, pode ter implicações fiscais e de mercado. No entanto, a notícia em si foca no resultado financeiro do BNDES e não em uma decisão fiscal ou regulatória com impacto geral.",
+    "is_stocks": true
   }
 ]
