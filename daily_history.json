@@ -1,88 +1,5 @@
 [
   {
-    "_timestamp": 1795001445.8767178,
-    "titulo": "IGP-M sobe 0,97% na segunda prévia de novembro, informa FGV",
-    "titulo_original": "IGP-M sobe 0,97% na segunda prévia de novembro, informa FGV",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 08:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração na alta do IGP-M em relação à prévia anterior pode ser um sinal de alívio na pressão inflacionária, especialmente no setor produtivo. Se essa tendência de desaceleração se confirmar nas próximas leituras, isso pode influenciar as expectativas sobre a política monetária futura.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795001449.5878782,
-    "titulo": "Dólar dispara e mantém soja no Brasil no maior valor do ano",
-    "titulo_original": "Dólar dispara e mantém soja no Brasil no maior valor do ano - brasilagro.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/11 05:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A disparada do dólar impacta diretamente o custo de importação e o valor de exportação de commodities. Se a alta do dólar se mantiver, isso pode favorecer exportadores de commodities como a soja, mas também encarecer produtos importados e pressionar a inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795001453.4917297,
-    "titulo": "O câmbio disparou — e agora? Como ficam os investimentos com o dólar em alta",
-    "titulo_original": "O câmbio disparou — e agora? Como ficam os investimentos com o dólar em alta - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/11 05:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A disparada do dólar pode afetar diversos tipos de investimento, tornando ativos dolarizados mais atrativos para investidores locais e impactando o custo de produtos importados. Se a alta do dólar persistir, isso pode levar a uma reavaliação das estratégias de alocação de portfólio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795001457.2435694,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "18/11 04:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A inflação de serviços abaixo do esperado no Reino Unido pode levar a uma reavaliação das expectativas de corte de juros pelo BoE. Se as atas do FOMC indicarem uma postura mais cautelosa em relação à inflação nos EUA, isso pode sustentar o dólar e influenciar decisões de juros globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795001461.703991,
-    "titulo": "Credores da Braskem resistem a oferta e discutem contraproposta",
-    "titulo_original": "Credores da Braskem resistem a oferta e discutem contraproposta",
-    "fonte": "Folha Mercado",
-    "publicado": "18/11 08:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A resistência dos credores e a discussão de contrapropostas indicam um cenário de negociação complexo para a Braskem. Se um acordo não for alcançado, um pedido de recuperação judicial poderia gerar incertezas no setor e para os investidores da companhia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795001461.7054958,
-    "titulo": "Ibovespa com Nubank, XP e JBS: o que muda para quem investe em ETFs e fundos?",
-    "titulo_original": "Ibovespa com Nubank, XP e JBS: o que muda para quem investe em ETFs e fundos? - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "18/11 06:10",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "acoes"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A inclusão de Nubank, XP e JBS em ETFs e fundos pode alterar a composição e o desempenho desses veículos de investimento. Investidores que acompanham esses índices devem analisar como essas mudanças afetam suas carteiras.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795007739.7770386,
     "titulo": "Finalidade arrecadatória do imposto de exportação sobre o petróleo contraria a Constituição - JOTA Info",
     "titulo_original": "Finalidade arrecadatória do imposto de exportação sobre o petróleo contraria a Constituição - JOTA Info",
@@ -1097,6 +1014,77 @@
     ],
     "origem": "ambas",
     "leitura_critica": "A alta do dólar pode ser interpretada como um reflexo da aversão a risco global e das incertezas fiscais domésticas. Se o pacote fiscal for percebido como positivo para as contas públicas, isso pode aliviar a pressão sobre o real; caso contrário, a moeda brasileira pode continuar sob pressão. A estreia da Anthropic, embora externa, contribui para o sentimento de mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795113077.108981,
+    "titulo": "O dólar reduziu a alta nesta quinta-feira (19) após o Banco Central realizar um leilão extraordinário de venda de US$ 1 bilhão no mercado à vista, em uma intervenção para aumentar a oferta da moeda americana e conter a pressão sobre o câmbio.",
+    "titulo_original": "O dólar reduziu a alta nesta quinta-feira (19) após o Banco Central realizar um leilão extraordinário de venda de US$ 1 bilhão no mercado à vista, em uma intervenção para aumentar a oferta da moeda americana e conter a pressão sobre o câmbio. Por volta - Instagram",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/11 13:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A intervenção do Banco Central com a venda de dólares busca aliviar a pressão sobre o câmbio. Se essa ação for acompanhada por outras medidas ou se a percepção de risco doméstico diminuir, o dólar pode encontrar um patamar mais estável. Caso contrário, a pressão vendedora pode persistir, exigindo novas intervenções.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795113080.9690852,
+    "titulo": "BC passa a queimar reservas para conter o dólar, que está perto de R$ 6 - VEJA",
+    "titulo_original": "BC passa a queimar reservas para conter o dólar, que está perto de R$ 6 - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/11 12:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A utilização de reservas para conter o dólar indica uma forte pressão de desvalorização da moeda brasileira. Se essa estratégia não for suficiente, o BC pode ter que recorrer a medidas mais drásticas, como aumento de juros. A aproximação do dólar a R$ 6 pode gerar pressões inflacionárias e impactar o custo de importação de bens e serviços.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795113084.884289,
+    "titulo": "BC intervém no câmbio, mas dólar volta a subir forte e supera R$ 5,93; Bolsa recua - Folha de S.Paulo",
+    "titulo_original": "BC intervém no câmbio, mas dólar volta a subir forte e supera R$ 5,93; Bolsa recua - Folha de S.Paulo",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/11 09:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistência da alta do dólar, mesmo após intervenção do BC, sugere uma pressão vendedora significativa sobre o real. Se essa tendência se mantiver, pode haver um impacto negativo na inflação e na confiança dos investidores. A queda da bolsa em paralelo indica a aversão ao risco no mercado doméstico, possivelmente ligada à instabilidade cambial e à falta de clareza sobre a política econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795113088.7685132,
+    "titulo": "Bancos veem oferta de crédito restritiva no quarto trimestre, diz BC",
+    "titulo_original": "Bancos veem oferta de crédito restritiva no quarto trimestre, diz BC",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 15:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A restrição na oferta de crédito pode desacelerar a atividade econômica e o consumo, impactando o crescimento do PIB. Se essa tendência se confirmar, o Banco Central pode considerar a política monetária para estimular a economia. A avaliação dos bancos sobre a oferta de crédito é um indicador importante da saúde econômica futura.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795113093.2365158,
+    "titulo": "BC intervém no câmbio, mas dólar sobe até R$ 5,93; juros vão às máximas e Ibovespa cai",
+    "titulo_original": "BC intervém no câmbio, mas dólar sobe até R$ 5,93; juros vão às máximas e Ibovespa cai",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 15:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A intervenção do BC no câmbio, apesar de volumosa, não foi suficiente para conter a alta do dólar, indicando forte pressão vendedora. Se a volatilidade cambial persistir, o BC pode precisar de medidas mais contundentes, o que pressionaria ainda mais os juros. A incerteza sobre a nomeação do Ministro da Fazenda adiciona um fator de risco doméstico que pode intensificar a aversão ao risco no mercado.",
     "is_stocks": true
   }
 ]
