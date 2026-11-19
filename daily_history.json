@@ -824,5 +824,98 @@
     "origem": "externa",
     "leitura_critica": "A notícia sugere uma conexão entre o IPO da Anthropic e a pressão sobre o Bitcoin e altcoins, com analistas apontando para a venda de cripto para levantar recursos. Embora mencione criptomoedas, a notícia não estabelece uma ligação direta com os canais macroeconômicos de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital no Brasil.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795094152.7815568,
+    "titulo": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
+    "titulo_original": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
+    "fonte": "Money Times",
+    "publicado": "19/11 08:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção de insuficiência do ajuste fiscal pelo mercado pode gerar desconfiança e pressionar os juros. Se o governo não apresentar medidas adicionais ou mais eficazes, a dívida pública pode continuar em trajetória de alta, impactando a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795094159.6027384,
+    "titulo": "Ibovespa futuro avança após aprovação o ajuste fiscal no Senado - Valor Investe",
+    "titulo_original": "Ibovespa futuro avança após aprovação o ajuste fiscal no Senado - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "19/11 09:07",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação de um ajuste fiscal no Senado tende a ser vista positivamente pelo mercado, pois sinaliza um compromisso com a disciplina fiscal. Se o ajuste for implementado de forma eficaz, pode atrair investimentos e melhorar a confiança dos agentes econômicos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795094159.6038022,
+    "titulo": "Juros futuros avançam de olho em ajuste fiscal e nomes para Fazenda",
+    "titulo_original": "Juros futuros avançam de olho em ajuste fiscal e nomes para Fazenda",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 09:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta dos juros futuros reflete a percepção do mercado sobre riscos fiscais e incertezas na condução da política econômica. Se os nomes para a Fazenda trouxerem confiança e o ajuste fiscal for robusto, os juros podem ceder; caso contrário, a pressão altista pode continuar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795094159.6054115,
+    "titulo": "Japan Tobacco terá perda de US$ 8,6 bilhões após perder controle de sua operação na Rússia",
+    "titulo_original": "Japan Tobacco terá perda de US$ 8,6 bilhões após perder controle de sua operação na Rússia",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 09:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A perda de controle de operações em um mercado específico pode impactar a saúde financeira de empresas multinacionais. Se a situação geopolítica na Rússia se agravar, outras empresas com exposição similar podem enfrentar desafios semelhantes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795094159.6065476,
+    "titulo": "ETF de ações de empresas brasileiras negociadas nos EUA chega à B3 - Valor Investe",
+    "titulo_original": "ETF de ações de empresas brasileiras negociadas nos EUA chega à B3 - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "19/11 09:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A chegada de um ETF de ações brasileiras negociadas nos EUA à B3 pode facilitar o acesso de investidores a esses ativos e potencialmente aumentar o fluxo de capital para a bolsa brasileira. Se houver demanda significativa, isso pode impulsionar a liquidez e o desempenho do mercado local.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795094159.607553,
+    "titulo": "Alibaba triplica lucro no 2º trimestre fiscal com a melhora da rentabilidade em IA",
+    "titulo_original": "Alibaba triplica lucro no 2º trimestre fiscal com a melhora da rentabilidade em IA",
+    "fonte": "Money Times",
+    "publicado": "19/11 09:10",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O forte crescimento do lucro do Alibaba, especialmente em IA, demonstra o potencial de monetização dessa tecnologia. Se a tendência de melhora na rentabilidade de IA se mantiver, pode impulsionar ainda mais os resultados da empresa e atrair investimentos no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795094159.608554,
+    "titulo": "Intel fecha com primeiro cliente externo para nova categoria de chips",
+    "titulo_original": "Intel fecha com primeiro cliente externo para nova categoria de chips",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 09:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A conquista do primeiro cliente externo para uma nova categoria de chips pela Intel é um passo importante para a diversificação de receita da empresa. Se a tecnologia for bem aceita pelo mercado, pode impulsionar a demanda por esses novos produtos e fortalecer a posição da Intel.",
+    "is_stocks": true
   }
 ]
