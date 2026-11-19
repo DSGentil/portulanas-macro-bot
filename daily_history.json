@@ -1,152 +1,5 @@
 [
   {
-    "_timestamp": 1795020347.21152,
-    "titulo": "‘Quadro fiscal não é esse desastre que a Faria Lima acha’, diz Salto, da Warren",
-    "titulo_original": "‘Quadro fiscal não é esse desastre que a Faria Lima acha’, diz Salto, da Warren",
-    "fonte": "Money Times",
-    "publicado": "18/11 13:19",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração sugere uma visão mais otimista sobre o cenário fiscal brasileiro em comparação com a percepção de alguns analistas. Se o governo conseguir implementar medidas efetivas de controle de gastos, a percepção de risco fiscal pode diminuir; a ausência de tais medidas, porém, pode reforçar as preocupações existentes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795020352.204286,
-    "titulo": "Parcela relevante do crédito permanece relativamente protegida das flutuações da Selic, mostra estudo do BC",
-    "titulo_original": "Parcela relevante do crédito permanece relativamente protegida das flutuações da Selic, mostra estudo do BC - Valor Econômico",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/11 10:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A constatação de que parte do crédito está protegida das flutuações da Selic sugere que o impacto de decisões de juros pode ser mais segmentado do que o esperado. Se essa proteção for ampla, pode mitigar os efeitos de uma política monetária mais restritiva; a extensão dessa proteção e sua durabilidade são pontos a serem observados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795020357.194465,
-    "titulo": "Análise: Estudo apoia tese de Lara Resende sobre inflação, mas não resolve nó fiscal",
-    "titulo_original": "Análise: Estudo apoia tese de Lara Resende sobre inflação, mas não resolve nó fiscal",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 13:22",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia apresenta um estudo que supostamente valida uma teoria econômica específica, mas não detalha os resultados do estudo ou como ele se conecta diretamente com a resolução do problema fiscal. Se o estudo apresentar dados concretos e replicáveis, poderá gerar debate sobre a política de juros; caso contrário, pode permanecer como uma discussão teórica sem impacto prático imediato.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795020362.1095893,
-    "titulo": "Boletim Cambial (18/11): Euro e Dólar PTAX - trademap.com.br",
-    "titulo_original": "Boletim Cambial (18/11): Euro e Dólar PTAX - trademap.com.br",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/11 13:13",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia se limita a informar a existência de um boletim cambial sem apresentar dados ou análises específicas. Se o boletim contiver informações sobre a PTAX e suas flutuações, pode ser relevante para operações de câmbio; caso contrário, sua utilidade é limitada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795020368.4346561,
-    "titulo": "Ibovespa Futuro cai com pacote fiscal no radar após adiamento da votação no Senado",
-    "titulo_original": "Ibovespa Futuro cai com pacote fiscal no radar após adiamento da votação no Senado - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "18/11 09:09",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O adiamento da votação do pacote fiscal gera incerteza no mercado, impactando negativamente o Ibovespa Futuro. Se a votação for concluída com aprovação de medidas que tragam clareza fiscal, o mercado pode reagir positivamente; a persistência da indefinição, contudo, tende a manter a pressão vendedora.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795020368.4362946,
-    "titulo": "Mais um bancão rebaixa Brasil após eleição de Lula; outros países ganham preferência",
-    "titulo_original": "Mais um bancão rebaixa Brasil após eleição de Lula; outros países ganham preferência",
-    "fonte": "Money Times",
-    "publicado": "18/11 12:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O rebaixamento da recomendação para ações brasileiras por um grande banco de investimento sinaliza uma percepção negativa sobre o cenário econômico doméstico. Se as políticas econômicas implementadas não demonstrarem capacidade de reverter a desaceleração, a preferência por outros mercados pode persistir; uma melhora nos indicadores econômicos, contudo, poderia mudar essa visão.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795020368.4378142,
-    "titulo": "Ibovespa recua com pressão do cenário fiscal; 5 coisas para saber antes de investir hoje (18)",
-    "titulo_original": "Ibovespa recua com pressão do cenário fiscal; 5 coisas para saber antes de investir hoje (18)",
-    "fonte": "Money Times",
-    "publicado": "18/11 10:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A pressão sobre o Ibovespa devido ao cenário fiscal indica que a aprovação de medidas de ajuste é crucial para a confiança do mercado. Se o Senado aprovar um pacote fiscal que traga clareza e credibilidade, o índice pode se recuperar; a ausência de avanços ou a aprovação de medidas insuficientes podem manter o viés de baixa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795020368.4393337,
-    "titulo": "Wall Street prevê que crescimento dos lucros das empresas cairá pela metade em 2027",
-    "titulo_original": "Wall Street prevê que crescimento dos lucros das empresas cairá pela metade em 2027",
-    "fonte": "Folha Mercado",
-    "publicado": "18/11 12:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A previsão de desaceleração no crescimento dos lucros das empresas globais pode indicar um cenário de menor apetite por risco no mercado acionário. Se a inovação em IA continuar a gerar novas oportunidades de investimento, a desaceleração pode ser menos pronunciada do que o previsto; caso contrário, o mercado pode buscar setores menos voláteis.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795020368.4408514,
-    "titulo": "Anthropic deve anunciar preço de ações para IPO nesta quarta-feira",
-    "titulo_original": "Anthropic deve anunciar preço de ações para IPO nesta quarta-feira",
-    "fonte": "Folha Mercado",
-    "publicado": "18/11 11:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O anúncio do preço de ações para o IPO da Anthropic é um evento de mercado que pode atrair atenção de investidores. Se o IPO for bem-sucedido e a empresa apresentar forte desempenho, pode impulsionar o setor de tecnologia; uma precificação inadequada ou desempenho fraco podem gerar cautela em ofertas futuras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795020368.4423802,
-    "titulo": "Minerva dispara 10% e BB lidera as maiores altas do Ibovespa hoje; veja os destaques do pregão",
-    "titulo_original": "Minerva dispara 10% e BB lidera as maiores altas do Ibovespa hoje; veja os destaques do pregão - Estadão",
-    "fonte": "Google News Acoes",
-    "publicado": "18/11 12:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia destaca o desempenho positivo de ações específicas no Ibovespa, sem fornecer um contexto macroeconômico claro para essas altas. Se os resultados da Minerva e do Banco do Brasil apresentarem fundamentos sólidos, o movimento pode ser sustentado; caso contrário, pode ser um movimento pontual influenciado por outros fatores de mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795020368.4439344,
-    "titulo": "Previ acumula perda bilionária com queda das ações do Banco do Brasil",
-    "titulo_original": "Previ acumula perda bilionária com queda das ações do Banco do Brasil",
-    "fonte": "Folha Mercado",
-    "publicado": "18/11 11:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A perda bilionária da Previ com as ações do Banco do Brasil reflete a volatilidade do mercado e o desempenho da instituição financeira. Se o Banco do Brasil apresentar melhora em seus resultados e o cenário econômico se estabilizar, as ações podem se recuperar; a persistência de resultados fracos ou um ambiente macroeconômico adverso, contudo, podem manter a pressão negativa.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795026652.7920284,
     "titulo": "Ajuste fiscal: 'Negociação com oposição está encerrada e não há acordo', diz líder do governo",
     "titulo_original": "Ajuste fiscal: 'Negociação com oposição está encerrada e não há acordo', diz líder do governo",
@@ -1026,6 +879,91 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A forte queda nas bolsas americanas, mesmo com o IPO da Anthropic, sugere um sentimento de aversão ao risco no mercado. Se essa tendência de venda se intensificar, pode haver um contágio para outros mercados globais, incluindo o brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795131045.6166282,
+    "titulo": "Relator do ajuste fiscal na Câmara defende aprovação do texto do Senado",
+    "titulo_original": "Relator do ajuste fiscal na Câmara defende aprovação do texto do Senado",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 19:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A defesa da aprovação do texto do Senado pelo relator do ajuste fiscal na Câmara indica um movimento em direção à consolidação da política fiscal. Se o texto for aprovado como está, o cenário fiscal pode se tornar mais previsível; caso haja alterações significativas, o impacto orçamentário pode divergir do esperado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795131049.6136498,
+    "titulo": "Nem atuação do BC segura o dólar, que já sobe quase R$ 1 desde a eleição; bolsa cai 19% - Valor Investe",
+    "titulo_original": "Nem atuação do BC segura o dólar, que já sobe quase R$ 1 desde a eleição; bolsa cai 19% - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/11 18:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia indica que a atuação do BC não foi suficiente para conter a alta do dólar e a queda da bolsa, sugerindo uma forte pressão vendedora no mercado. Se essa tendência de desvalorização do real e queda da bolsa persistir, pode sinalizar uma saída de capital estrangeiro do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795131053.4616659,
+    "titulo": "72 vezes, mas com juros: GPA (PCAR3) parcela dívida trabalhista milionária",
+    "titulo_original": "72 vezes, mas com juros: GPA (PCAR3) parcela dívida trabalhista milionária",
+    "fonte": "Money Times",
+    "publicado": "19/11 19:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O parcelamento da dívida trabalhista do GPA com correção pela Selic significa que o custo total da dívida será influenciado pela trajetória futura dos juros. Se a Selic permanecer alta, o valor total pago será maior; se houver cortes antecipados, o custo total será menor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795131057.2857966,
+    "titulo": "Estrangeiros não poupam críticas à intervenção do BC e veem espaço para dólar testar R$ 6,50",
+    "titulo_original": "Estrangeiros não poupam críticas à intervenção do BC e veem espaço para dólar testar R$ 6,50",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 20:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A crítica de investidores estrangeiros à intervenção do BC sugere que a percepção de risco e a confiança no mercado de câmbio brasileiro podem ser afetadas. Se o dólar realmente testar R$ 6,50, isso pode indicar uma saída de capital ou uma menor entrada de recursos no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795131061.8004348,
+    "titulo": "Notícias de câmbio FX das Américas da investingLive em 19 de novembro: preocupações com inflação afundam ações",
+    "titulo_original": "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks",
+    "fonte": "ForexLive",
+    "publicado": "19/11 18:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda das ações e as preocupações com a inflação nos EUA, com o Fed indicando dificuldade em atingir a meta de 2%, sugerem um cenário de juros mais altos por mais tempo. Se a inflação persistir elevada, isso pode levar a novas altas nas taxas de juros globais, impactando o fluxo de capital para mercados emergentes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795131061.801744,
+    "titulo": "TRT da 2ª Região aprova plano especial de pagamento trabalhista do GPA",
+    "titulo_original": "TRT da 2ª Região aprova plano especial de pagamento trabalhista do GPA",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 19:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação do plano especial de pagamento trabalhista do GPA, com parcelamento corrigido pela Selic, indica uma gestão do passivo da empresa. Se a taxa Selic se mantiver em patamares elevados, o custo total do pagamento poderá ser significativamente maior do que o valor principal.",
     "is_stocks": true
   }
 ]
