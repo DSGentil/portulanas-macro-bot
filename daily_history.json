@@ -1,98 +1,5 @@
 [
   {
-    "_timestamp": 1795014944.6157107,
-    "titulo": "Diretor do BC defende atualização na lei de liquidação de bancos",
-    "titulo_original": "Diretor do BC defende atualização na lei de liquidação de bancos",
-    "fonte": "Folha Mercado",
-    "publicado": "18/11 11:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A defesa de uma atualização na lei de liquidação de bancos pelo Banco Central sugere uma busca por maior eficiência e segurança no sistema financeiro. Se aprovada, a nova lei poderá alterar os procedimentos em caso de intervenção, impactando a percepção de risco do setor bancário.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795014948.9966211,
-    "titulo": "Apesar de estresse no câmbio, dólar corrigido pela inflação está longe do pico de R$ 8,45 de 2002",
-    "titulo_original": "Apesar de estresse no câmbio, dólar corrigido pela inflação está longe do pico de R$ 8,45 de 2002",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 11:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A comparação histórica do dólar corrigido pela inflação oferece um contexto para a atual valorização da moeda. Se a tendência de alta do dólar persistir sem um correspondente aumento da inflação, isso pode indicar uma força externa ou uma percepção de risco maior no país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795014953.3414428,
-    "titulo": "Tesouro Direto hoje: prefixados sobem e IPCA+ cai",
-    "titulo_original": "Tesouro Direto hoje: prefixados sobem e IPCA+ cai",
-    "fonte": "InvestNews",
-    "publicado": "18/11 11:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A movimentação dos títulos do Tesouro Direto reflete a expectativa do mercado em relação à votação fiscal no Senado. Se a votação resultar em um cenário fiscal mais favorável, os títulos prefixados podem continuar a subir; caso contrário, a pressão sobre os títulos IPCA+ pode aumentar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795014959.87616,
-    "titulo": "Alta do dólar pode pressionar inflação, mas repasse depende da estabilidade do câmbio em novo patamar. Entenda",
-    "titulo_original": "Alta do dólar pode pressionar inflação, mas repasse depende da estabilidade do câmbio em novo patamar. Entenda - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/11 11:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A relação entre a alta do dólar e a inflação é complexa e depende de fatores como a persistência da valorização cambial. Se o dólar se estabilizar em um patamar mais alto, o repasse para os preços pode ser mais acentuado, impactando o poder de compra.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795014991.5595918,
-    "titulo": "Bolsas em NY operam majoritariamente em queda com investidores cautelosos",
-    "titulo_original": "Bolsas em NY operam majoritariamente em queda com investidores cautelosos",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 12:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A cautela dos investidores em Nova York, refletida na queda dos índices, pode indicar um apetite a risco reduzido no mercado global. Se os resultados de outras empresas de tecnologia seguirem o padrão da Nvidia, o setor pode apresentar volatilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795014991.5614307,
-    "titulo": "Estrangeiros aportam R$ 241,5 milhões na B3 e interrompem 16 pregões de saídas",
-    "titulo_original": "Estrangeiros aportam R$ 241,5 milhões na B3 e interrompem 16 pregões de saídas",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 11:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A entrada de capital estrangeiro na B3 após um período de saídas pode ser um sinal de melhora na confiança dos investidores. Se essa tendência se mantiver, pode indicar um fluxo de capital mais positivo para a renda variável brasileira.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795014991.563131,
-    "titulo": "Bitcoin cai 1,7% e fica abaixo de US$ 64 mil mesmo com melhora no setor de tecnologia",
-    "titulo_original": "Bitcoin cai 1,7% e fica abaixo de US$ 64 mil mesmo com melhora no setor de tecnologia",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 11:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda do bitcoin, mesmo com a recuperação de ações de tecnologia, reforça a influência das expectativas de juros nos EUA sobre ativos de risco. Se a ata do Fed confirmar um tom mais duro em relação aos juros, o bitcoin pode continuar sob pressão.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795020347.21152,
     "titulo": "‘Quadro fiscal não é esse desastre que a Faria Lima acha’, diz Salto, da Warren",
     "titulo_original": "‘Quadro fiscal não é esse desastre que a Faria Lima acha’, diz Salto, da Warren",
@@ -1051,6 +958,74 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A notícia levanta questões sobre potenciais conflitos de interesse e o impacto de decisões regulatórias em investimentos pessoais. Se as regras para chips forem aprovadas de forma a beneficiar a Nvidia, isso pode impulsionar o preço das ações; caso contrário, a empresa pode enfrentar desafios regulatórios.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795125651.0635064,
+    "titulo": "Resolução do BC aprimora funcionamento do mercado aberto e do Sistema Especial de Liquidação e de Custódia",
+    "titulo_original": "Resolução do BC aprimora funcionamento do mercado aberto e do Sistema Especial de Liquidação e de Custódia",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 18:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A resolução visa aumentar a competitividade e a gestão da liquidez no sistema financeiro. Se o ajuste nos valores financeiros das operações compromissadas for eficaz, pode haver maior previsibilidade nas taxas de juros de curto prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795125656.0781531,
+    "titulo": "Tesouro Direto chega a suspender negociações em dia de forte estresse no mercado",
+    "titulo_original": "Tesouro Direto chega a suspender negociações em dia de forte estresse no mercado",
+    "fonte": "Folha Mercado",
+    "publicado": "19/11 18:37",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A suspensão das negociações no Tesouro Direto em dias de estresse de mercado indica a intensidade da volatilidade nas taxas de juros. Se essa volatilidade persistir, pode haver um impacto na confiança dos investidores em títulos públicos de longo prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795125660.98109,
+    "titulo": "Dólar hoje sobe 1,1% e fecha a R$ 5,93 em meio a temor fiscal, apesar de leilão do BC",
+    "titulo_original": "Dólar hoje sobe 1,1% e fecha a R$ 5,93 em meio a temor fiscal, apesar de leilão do BC - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "19/11 17:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar, mesmo com intervenção do BC, sugere que os receios fiscais estão pesando mais sobre o mercado. Se as incertezas fiscais persistirem, o dólar pode continuar pressionado, impactando a inflação e o custo de importações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795125665.9821522,
+    "titulo": "Medidas adicionais de ajuste fiscal serão apresentadas ao Congresso, se for necessário, diz Moretti",
+    "titulo_original": "Medidas adicionais de ajuste fiscal serão apresentadas ao Congresso, se for necessário, diz Moretti",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 18:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro indica que o governo está avaliando a necessidade de novas medidas fiscais para garantir a consolidação das contas públicas. Se o cenário fiscal exigir, a apresentação de novas propostas pode gerar volatilidade no mercado, dependendo do teor e do impacto dessas medidas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795125671.639841,
+    "titulo": "Bolsas de NY despencam após o IPO da Anthropic, com liquidação generalizada de posições",
+    "titulo_original": "Bolsas de NY despencam após o IPO da Anthropic, com liquidação generalizada de posições",
+    "fonte": "Valor Economico",
+    "publicado": "19/11 18:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte queda nas bolsas americanas, mesmo com o IPO da Anthropic, sugere um sentimento de aversão ao risco no mercado. Se essa tendência de venda se intensificar, pode haver um contágio para outros mercados globais, incluindo o brasileiro.",
     "is_stocks": true
   }
 ]
