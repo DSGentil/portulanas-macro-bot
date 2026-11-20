@@ -1,90 +1,5 @@
 [
   {
-    "_timestamp": 1795087844.694202,
-    "titulo": "Kinea teme inflação acima de 6% e opta por proteção da NTN-B",
-    "titulo_original": "Kinea teme inflação acima de 6% e opta por proteção da NTN-B",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 07:01",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa da Kinea de inflação acima de 6% e contração do PIB indica um cenário de risco para a economia brasileira. A adoção de uma postura defensiva com NTN-B sugere uma estratégia de proteção contra a inflação e a volatilidade econômica. Se o cenário de inflação elevada se concretizar, isso pode pressionar o Banco Central a manter ou elevar os juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795087848.5957737,
-    "titulo": "Dólar em alta, minério e petróleo em queda: o real pode perder mais força?",
-    "titulo_original": "Dólar em alta, minério e petróleo em queda: o real pode perder mais força? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 07:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar e a queda de commodities são fatores que podem influenciar o fluxo de capital e a força do real. Se a tendência de alta do dólar se mantiver, isso pode indicar uma saída de capital ou menor entrada no país, impactando a taxa de câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795087852.4997983,
-    "titulo": "Agenda do dia: Discursos de dirigentes do Fed são destaque",
-    "titulo_original": "Agenda do dia: Discursos de dirigentes do Fed são destaque",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 07:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros",
-      "atividade_emprego"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Discursos de dirigentes do Fed são cruciais para entender os próximos passos da política monetária americana, o que pode influenciar o cenário global e, consequentemente, o Brasil. A divulgação da Sondagem Econômica brasileira e dados de emprego podem fornecer pistas sobre a atividade econômica doméstica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795087856.4220054,
-    "titulo": "Preço da soja se mantém firme no Brasil com alta do dólar - Globo Rural",
-    "titulo_original": "Preço da soja se mantém firme no Brasil com alta do dólar - Globo Rural",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 06:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar impactando o preço da soja no Brasil indica uma relação direta entre o câmbio e o mercado de commodities agrícolas. Se a alta do dólar persistir, isso pode sustentar os preços de commodities exportadas, mas também pode refletir um fluxo de capital menos favorável ao real.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795087861.2648156,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "19/11 04:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A persistência de dados de emprego fortes nos EUA, com possível aumento de salários, pode reforçar a postura mais restritiva do Fed. Se os próximos dados de emprego mostrarem deterioração, isso pode aumentar os temores de recessão e pressionar o mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795087861.2662103,
-    "titulo": "Por que o IPO da Anthropic pressiona o bitcoin e as altcoins?",
-    "titulo_original": "Por que o IPO da Anthropic pressiona o bitcoin e as altcoins?",
-    "fonte": "InvestNews",
-    "publicado": "19/11 07:35",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia sugere uma conexão entre o IPO da Anthropic e a pressão sobre o Bitcoin e altcoins, com analistas apontando para a venda de cripto para levantar recursos. Embora mencione criptomoedas, a notícia não estabelece uma ligação direta com os canais macroeconômicos de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital no Brasil.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795094152.7815568,
     "titulo": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
     "titulo_original": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
@@ -1026,6 +941,125 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A queda das ações brasileiras em Nova York, em um contexto de mau humor internacional, reforça a percepção de aversão ao risco global. Se esse sentimento persistir, pode haver pressão contínua sobre ativos de mercados emergentes, incluindo o Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795199444.6462896,
+    "titulo": "‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação",
+    "titulo_original": "‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação",
+    "fonte": "Money Times",
+    "publicado": "20/11 15:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A declaração da diretora do Fed reforça a necessidade de combate à inflação através de política monetária mais restritiva. Se o Fed optar por aumentos de juros mais significativos, isso pode desacelerar a economia americana; se a inflação ceder mais rapidamente, o banco central pode ter margem para uma postura menos agressiva.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795199448.6283298,
+    "titulo": "Bessent defende alta mais moderada dos juros pelo Fed e cita choque de energia",
+    "titulo_original": "Bessent defende alta mais moderada dos juros pelo Fed e cita choque de energia - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/11 13:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A defesa de uma alta mais moderada dos juros pelo Fed por Bessent, considerando o choque de energia, sugere uma preocupação com os impactos econômicos de uma política monetária excessivamente restritiva. Se o Fed seguir essa linha, pode haver um alívio para a economia; se a inflação persistir, a pressão por juros mais altos pode se manter.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795199452.5872803,
+    "titulo": "Dólar caminha para quarta alta semanal, apoiado por expectativas de aperto do Fed e busca por proteção impulsionada pela IA",
+    "titulo_original": "Dólar caminha para quarta alta semanal, apoiado por expectativas de aperto do Fed e busca por proteção impulsionada pela IA",
+    "fonte": "Folha Mercado",
+    "publicado": "20/11 10:38",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A valorização contínua do dólar, impulsionada por expectativas de aperto do Fed e pela busca por proteção devido à IA, indica um cenário de aversão ao risco global. Se o Fed realmente apertar a política monetária, o dólar pode se fortalecer ainda mais; caso contrário, uma mudança na postura do Fed pode reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795199456.5901535,
+    "titulo": "Dólar valoriza globalmente com chances de Fed subir juro e receios com IA",
+    "titulo_original": "Dólar valoriza globalmente com chances de Fed subir juro e receios com IA - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/11 10:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A valorização global do dólar, atrelada a expectativas de alta de juros pelo Fed e receios com IA, sugere um ambiente de incerteza e busca por segurança. Se o Fed de fato elevar os juros, o dólar pode continuar sua trajetória de alta; caso contrário, a diminuição dessa expectativa pode enfraquecer a moeda americana.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795199461.776622,
+    "titulo": "Trump: Acordo comercial fechado, 10 outros em breve.",
+    "titulo_original": "Trump: Secured two new trade deals. 10 others coming very soon.",
+    "fonte": "ForexLive",
+    "publicado": "20/11 14:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As declarações de Trump sobre acordos comerciais e a crítica ao Fed indicam uma postura voltada para a renegociação de relações econômicas e uma pressão por política monetária mais expansionista. Se as negociações comerciais avançarem conforme o esperado, isso pode impulsionar o crescimento econômico; caso contrário, a retórica sobre o Fed pode continuar a gerar volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795199461.778089,
+    "titulo": "EWZ, principal ETF do Brasil no exterior, opera em queda; Vale e Petrobras recuam",
+    "titulo_original": "EWZ, principal ETF do Brasil no exterior, opera em queda; Vale e Petrobras recuam - Valor Investe",
+    "fonte": "Google News Acoes",
+    "publicado": "20/11 09:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do EWZ e de ações de grandes empresas brasileiras como Vale e Petrobras pode indicar um sentimento de aversão ao risco em relação ao mercado brasileiro. Se os fatores que impulsionam essa queda persistirem, o fluxo de capital para o país pode ser afetado; caso contrário, uma recuperação pode ocorrer rapidamente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795199461.7794435,
+    "titulo": "BTG desistiu de 'solução de mercado' para o Master e BC foi alertado sobre dúvidas, diz Esteves",
+    "titulo_original": "BTG desistiu de 'solução de mercado' para o Master e BC foi alertado sobre dúvidas, diz Esteves",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 13:59",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A desistência do BTG Pactual em encontrar uma \"solução de mercado\" para o Banco Master, com alerta ao Banco Central sobre dúvidas no valor dos ativos, sugere instabilidade no setor financeiro. Se as dificuldades do Banco Master se aprofundarem, isso pode gerar preocupações sistêmicas; caso contrário, uma reestruturação pode estabilizar a situação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795199461.7808185,
+    "titulo": "Lagarde, do BCE, diz que ameaças cibernéticas ampliadas pela IA são sua principal preocupação",
+    "titulo_original": "Lagarde, do BCE, diz que ameaças cibernéticas ampliadas pela IA são sua principal preocupação",
+    "fonte": "Folha Mercado",
+    "publicado": "20/11 14:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A preocupação de Christine Lagarde com ameaças cibernéticas potencializadas pela IA destaca um risco emergente para o setor financeiro. Se as defesas cibernéticas não acompanharem o avanço da IA, ataques podem se tornar mais frequentes e danosos; caso contrário, a implementação de medidas de segurança pode mitigar os riscos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795199461.7822075,
+    "titulo": "Aplicativo de mensagem Signal restringe capturas de tela para impedir que agentes de IA leiam conversas",
+    "titulo_original": "Aplicativo de mensagem Signal restringe capturas de tela para impedir que agentes de IA leiam conversas",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 13:54",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A medida do Signal de restringir capturas de tela para proteger conversas da IA demonstra a crescente preocupação com a privacidade na era da inteligência artificial. Se outras plataformas adotarem medidas semelhantes, a proteção de dados pode ser fortalecida; caso contrário, a vigilância por IA pode se tornar mais invasiva.",
     "is_stocks": true
   }
 ]
