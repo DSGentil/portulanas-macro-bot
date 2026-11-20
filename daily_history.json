@@ -851,5 +851,59 @@
     "origem": "externa",
     "leitura_critica": "A alta nos títulos públicos europeus, impulsionada por expectativas de desaceleração, pode indicar que os investidores precificam cortes de juros futuros. Se essa desaceleração se confirmar, o Banco Central Europeu pode ser pressionado a reduzir as taxas de juros para estimular a economia.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795187778.7341347,
+    "titulo": "Protesto contra plano econômico de Espriella provoca confrontos na Colômbia",
+    "titulo_original": "Protesto contra plano econômico de Espriella provoca confrontos na Colômbia",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 11:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Os protestos contra o plano econômico indicam forte resistência popular a medidas fiscais que podem afetar a população de menor renda. Se a pressão social levar a revisões significativas no projeto de lei, isso pode alterar o cenário fiscal projetado pelo governo. A instabilidade social decorrente pode impactar a confiança dos investidores no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795187784.183035,
+    "titulo": "Oito morrem na Ucrânia após Rússia retaliar ataques à ponte da Crimeia",
+    "titulo_original": "Oito morrem na Ucrânia após Rússia retaliar ataques à ponte da Crimeia",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 10:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O escalonamento dos ataques russos representa uma intensificação do conflito na Ucrânia. Se a Rússia continuar com retaliações em larga escala, isso pode levar a novas sanções internacionais e aumentar a instabilidade geopolítica. A continuidade dos ataques pode afetar a segurança energética e as cadeias de suprimentos globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795187795.3827958,
+    "titulo": "Rendimentos dos Treasuries estendem perdas com busca por segurança",
+    "titulo_original": "Rendimentos dos Treasuries estendem perdas com busca por segurança",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 10:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A busca por segurança nos Treasuries sugere um aumento da aversão ao risco no mercado global. Se essa tendência de queda nos rendimentos persistir, isso pode indicar expectativas de desaceleração econômica ou de cortes de juros futuros nos EUA. A queda nos rendimentos de títulos americanos pode influenciar o fluxo de capital para outros mercados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795187801.7175698,
+    "titulo": "Greer diz que extensão da trégua comercial EUA-China depende de terras raras",
+    "titulo_original": "Greer says US-China trade truce extension hinges on rare earths",
+    "fonte": "ForexLive",
+    "publicado": "20/11 11:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A dependência da extensão da trégua comercial em terras raras indica um ponto de atrito significativo nas relações EUA-China. Se não houver progresso nesse item, a trégua pode não ser estendida, aumentando a incerteza comercial. A questão das terras raras pode impactar cadeias de suprimentos globais e setores dependentes desses minerais.",
+    "is_stocks": false
   }
 ]
