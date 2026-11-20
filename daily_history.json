@@ -775,5 +775,81 @@
     "origem": "domestica",
     "leitura_critica": "O aumento expressivo nos distratos de imóveis indica uma potencial desaceleração no mercado imobiliário e pode refletir dificuldades financeiras dos compradores ou expectativas negativas sobre o futuro. Se essa tendência se mantiver, pode afetar o desempenho das incorporadoras e a atividade econômica relacionada ao setor.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795180612.6690683,
+    "titulo": "Dólar recua levemente no exterior, mas segue elevado com apostas em altas de juros pelo Fed",
+    "titulo_original": "Dólar recua levemente no exterior, mas segue elevado com apostas em altas de juros pelo Fed",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 09:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A persistência do dólar em patamares elevados, mesmo com uma leve recua, sugere que o mercado precifica um ciclo de juros mais longo nos EUA. Se os próximos dados de inflação vierem abaixo do esperado, o Fed pode sinalizar uma mudança de postura, o que tenderia a enfraquecer o dólar globalmente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795180618.1151228,
+    "titulo": "Petróleo cai com melhora na oferta e sinalização de Trump sobre o Irã",
+    "titulo_original": "Petróleo cai com melhora na oferta e sinalização de Trump sobre o Irã - Valor Econômico",
+    "fonte": "Google News Commodities",
+    "publicado": "20/11 08:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda no preço do petróleo pode aliviar pressões inflacionárias em economias dependentes de importação de energia. Se as sinalizações sobre o Irã levarem a uma diminuição das tensões geopolíticas na região, isso tenderia a manter os preços do petróleo sob pressão de baixa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795180623.5575254,
+    "titulo": "Lagarde diz que Europa deve enfrentar riscos antes que eles se concretizem",
+    "titulo_original": "Lagarde diz que Europa deve enfrentar riscos antes que eles se concretizem",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 08:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Christine Lagarde sugere uma abordagem mais proativa do BCE em relação a riscos econômicos. Se essa postura se traduzir em ações concretas antes que as crises se agravem, isso poderia mitigar a volatilidade futura; caso contrário, a inação pode levar a reações mais bruscas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795180629.2950208,
+    "titulo": "Preço do cobre cai ao menor nível desde março com dúvidas sobre investimentos em IA",
+    "titulo_original": "Preço do cobre cai ao menor nível desde março com dúvidas sobre investimentos em IA - InvestNews",
+    "fonte": "Google News Commodities",
+    "publicado": "20/11 09:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda no preço do cobre, associada a incertezas sobre investimentos em IA, pode indicar uma reavaliação do mercado sobre o ritmo de adoção e o impacto real dessa tecnologia em setores que demandam commodities. Se as dúvidas sobre IA se aprofundarem, isso pode afetar a demanda por cobre e outros metais industriais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795180635.7203104,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/11 09:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acompanhamento ao vivo da cotação do dólar é essencial para entender o comportamento da moeda no dia. Variações significativas podem ser influenciadas por notícias de juros, fluxo de capital ou eventos externos, sendo um indicador importante da percepção de risco e liquidez no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795180635.7213821,
+    "titulo": "Resumo de notícias europeias: mercados de ações sob pressão, títulos públicos em alta com expectativas de desaceleração",
+    "titulo_original": "investingLive European news wrap: Stock markets remain under pressure, bonds rally on slowdown expectations",
+    "fonte": "ForexLive",
+    "publicado": "20/11 09:31",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta nos títulos públicos europeus, impulsionada por expectativas de desaceleração, pode indicar que os investidores precificam cortes de juros futuros. Se essa desaceleração se confirmar, o Banco Central Europeu pode ser pressionado a reduzir as taxas de juros para estimular a economia.",
+    "is_stocks": true
   }
 ]
