@@ -1,306 +1,5 @@
 [
   {
-    "_timestamp": 1795026652.7920284,
-    "titulo": "Ajuste fiscal: 'Negociação com oposição está encerrada e não há acordo', diz líder do governo",
-    "titulo_original": "Ajuste fiscal: 'Negociação com oposição está encerrada e não há acordo', diz líder do governo",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 14:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Se o projeto de ajuste fiscal for aprovado sem alterações significativas, isso pode indicar uma consolidação da estratégia fiscal do governo. Caso haja mudanças de última hora para obter apoio da oposição, o impacto fiscal pode ser diferente do inicialmente previsto.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795026657.504027,
-    "titulo": "Safra de soja vive melhor momento com preço elevado pelo dólar, diz consultoria",
-    "titulo_original": "Safra de soja vive melhor momento com preço elevado pelo dólar, diz consultoria",
-    "fonte": "Folha Mercado",
-    "publicado": "18/11 14:07",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O preço elevado da soja, impulsionado pelo dólar forte, pode beneficiar a balança comercial brasileira. Se o dólar se mantiver em patamares elevados, isso pode sustentar o bom momento da commodity, mas também pode gerar pressões inflacionárias em outros setores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795026662.1446698,
-    "titulo": "Enviados de Trump vão a Berlim para negociações sobre a Ucrânia, diz autoridade dos EUA",
-    "titulo_original": "Enviados de Trump vão a Berlim para negociações sobre a Ucrânia, diz autoridade dos EUA",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 14:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia indica um esforço diplomático para a resolução do conflito na Ucrânia, com foco em segurança e recuperação econômica. Se as negociações avançarem e levarem a um cessar-fogo duradouro, isso poderia reduzir a incerteza geopolítica global, impactando positivamente mercados de commodities e apetite a risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795026666.8439705,
-    "titulo": "Conselho da Paz de Trump acusa Israel e Hamas de descumprir compromissos em Gaza - Folha de S.Paulo",
-    "titulo_original": "Conselho da Paz de Trump acusa Israel e Hamas de descumprir compromissos em Gaza - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "18/11 11:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A acusação de descumprimento de compromissos em Gaza por parte de Israel e Hamas pode indicar uma escalada ou persistência do conflito. Se a situação geopolítica na região se agravar, isso pode gerar volatilidade nos mercados globais, especialmente em commodities energéticas e em ativos de refúgio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795026673.1092746,
-    "titulo": "Novas regras de Trump para chips de IA preocupam Sudeste Asiático",
-    "titulo_original": "Novas regras de Trump para chips de IA preocupam Sudeste Asiático",
-    "fonte": "Folha Mercado",
-    "publicado": "18/11 11:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Restrições de EUA à China em tecnologia de IA podem reconfigurar cadeias de suprimentos e investimentos globais. Se essas medidas se intensificarem, podem afetar o fluxo de capital para a Ásia e a dinâmica de empresas de tecnologia, com potenciais reflexos em mercados globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795026673.1110976,
-    "titulo": "Base governista assusta investidores com pacote que taxa dividendos, produtos isentos e fortunas",
-    "titulo_original": "Base governista assusta investidores com pacote que taxa dividendos, produtos isentos e fortunas",
-    "fonte": "InvestNews",
-    "publicado": "18/11 13:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A proposta de novas tributações, como sobre dividendos e produtos de renda fixa, pode alterar o cenário de investimentos no Brasil. Se aprovadas, essas medidas podem levar a uma realocação de capital e impactar a atratividade de certos ativos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795026673.1128922,
-    "titulo": "Durigan defende equilíbrio entre políticas sociais e trajetória fiscal",
-    "titulo_original": "Durigan defende equilíbrio entre políticas sociais e trajetória fiscal",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 14:17",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro da Fazenda reforça a intenção do governo em manter um equilíbrio entre responsabilidade fiscal e investimentos sociais. Se a execução orçamentária futura demonstrar essa conciliação, pode haver maior confiança do mercado; caso contrário, a pressão sobre as contas públicas pode aumentar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795026673.1147485,
-    "titulo": "Além da Caixa, CEO da Direcional (DIRR3) aponta outra causa para alta dos distratos no Minha Casa Minha Vida",
-    "titulo_original": "Além da Caixa, CEO da Direcional (DIRR3) aponta outra causa para alta dos distratos no Minha Casa Minha Vida",
-    "fonte": "Money Times",
-    "publicado": "18/11 14:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia associa o aumento de distratos no programa habitacional a juros elevados e endividamento familiar, além de critérios de crédito. Se a taxa de juros permanecer alta, isso pode continuar pressionando o setor imobiliário e o programa Minha Casa Minha Vida.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795033849.9622877,
-    "titulo": "ANP rejeita pedidos para suspender processo de revisão das tarifas de gasodutos",
-    "titulo_original": "ANP rejeita pedidos para suspender processo de revisão das tarifas de gasodutos",
-    "fonte": "Folha Mercado",
-    "publicado": "18/11 17:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão da ANP de seguir com a revisão tarifária de gasodutos, apesar dos protestos, pode gerar incertezas para investidores do setor. Se a revisão resultar em tarifas menos favoráveis do que o esperado, isso pode desestimular novos investimentos em infraestrutura de gás no Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795033854.6335485,
-    "titulo": "Um Onix ou R$ 85 mil? GM oferece carro zero em pacote para demissão voluntária",
-    "titulo_original": "Um Onix ou R$ 85 mil? GM oferece carro zero em pacote para demissão voluntária",
-    "fonte": "InvestNews",
-    "publicado": "18/11 16:40",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A oferta de demissão voluntária pela GM, com benefícios atrativos, pode indicar uma reestruturação da força de trabalho da empresa. Se um número significativo de funcionários aderir, isso pode impactar a produção local e a dinâmica do mercado de trabalho automotivo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795033859.3533757,
-    "titulo": "Dirigentes do Fed esperam mais altas de juros para levar inflação à meta, diz ata",
-    "titulo_original": "Dirigentes do Fed esperam mais altas de juros para levar inflação à meta, diz ata",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 16:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A ata do Fed indica uma postura mais dura em relação à inflação, com a possibilidade de altas de juros superiores a 0,25 ponto percentual. Se os próximos dados de inflação nos EUA vierem acima do esperado, o Fed pode intensificar o aperto monetário, o que tende a fortalecer o dólar e pressionar ativos de risco globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795033864.2197275,
-    "titulo": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
-    "titulo_original": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
-    "fonte": "Money Times",
-    "publicado": "18/11 16:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A possibilidade de o Fed considerar uma alta de juros acima de 0,25 ponto em dezembro reforça a perspectiva de aperto monetário nos EUA. Se essa decisão se concretizar, o dólar tende a se fortalecer, o que pode pressionar moedas emergentes e commodities.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795033869.8901868,
-    "titulo": "BB comunica clientes sobre vazamentos de dados pessoais, mas nega invasão a seus sistemas",
-    "titulo_original": "BB comunica clientes sobre vazamentos de dados pessoais, mas nega invasão a seus sistemas",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 17:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O vazamento de dados no Banco do Brasil, embora negue invasão de sistemas, pode gerar desconfiança em parte da base de clientes. Se o incidente levar a um aumento na procura por serviços de segurança ou a questionamentos regulatórios, isso pode impactar a percepção de risco do setor bancário no Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795033869.8922331,
-    "titulo": "Mercado Livre acerta financiamento de US$ 735 mi com IFC para ampliar crédito na Amazônia",
-    "titulo_original": "Mercado Livre acerta financiamento de US$ 735 mi com IFC para ampliar crédito na Amazônia",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 16:21",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O financiamento de US$ 735 milhões entre Mercado Livre e IFC para crédito na Amazônia pode impulsionar a atividade econômica local. Se esse modelo de parceria se expandir para outras regiões ou setores, pode sinalizar um novo caminho para o fomento ao empreendedorismo com apoio de instituições financeiras internacionais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795033869.893988,
-    "titulo": "Grupo do Tocantins do agro entra com pedido de proteção bilionário contra credores e atinge BB (BBAS3) e mais bancos; veja lista",
-    "titulo_original": "Grupo do Tocantins do agro entra com pedido de proteção bilionário contra credores e atinge BB (BBAS3) e mais bancos; veja lista",
-    "fonte": "Money Times",
-    "publicado": "18/11 15:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O pedido de proteção contra credores do grupo Fazendão, com dívida bilionária, pode indicar dificuldades no setor agropecuário e gerar perdas para os bancos credores. Se outros grandes players do agronegócio enfrentarem problemas semelhantes, isso pode aumentar a percepção de risco no setor e impactar o crédito rural.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795039372.2265244,
-    "titulo": "Dólar sobe a R$ 5,87 com fiscal e acumula alta de 17,6% desde reeleição de Lula - InfoMoney",
-    "titulo_original": "Dólar sobe a R$ 5,87 com fiscal e acumula alta de 17,6% desde reeleição de Lula - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/11 17:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar ligada a questões fiscais sugere que a percepção de risco em relação às contas públicas do Brasil está aumentando. Se a incerteza fiscal persistir ou se agravar, o dólar pode continuar pressionado, impactando a inflação de importados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795039376.4533758,
-    "titulo": "Dino determina extinção de processos sobre Moratória da Soja no Cade e na Justiça - JOTA Info",
-    "titulo_original": "Dino determina extinção de processos sobre Moratória da Soja no Cade e na Justiça - JOTA Info",
-    "fonte": "Google News Commodities",
-    "publicado": "18/11 16:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A extinção de processos sobre a Moratória da Soja, determinada pelo Ministério da Justiça, pode sinalizar uma mudança na abordagem regulatória ou uma resolução de disputas. Se essa decisão impactar a dinâmica comercial de commodities agrícolas, pode ter reflexos indiretos na atividade econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795039382.0868924,
-    "titulo": "Dólar rumo ao hexa – alta acelera e moeda americana chega a R$ 5,87 - InvestNews",
-    "titulo_original": "Dólar rumo ao hexa – alta acelera e moeda americana chega a R$ 5,87 - InvestNews",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/11 17:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aceleração da alta do dólar, associada à atenção sobre o cenário fiscal, reforça a percepção de risco cambial no Brasil. Se a incerteza fiscal persistir, o dólar pode continuar sua trajetória ascendente, impactando custos e a inflação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795039386.399723,
-    "titulo": "Dólar salta a R$ 5,86 com pressão sobre ajuste nas contas públicas - UOL Economia",
-    "titulo_original": "Dólar salta a R$ 5,86 com pressão sobre ajuste nas contas públicas - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/11 14:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O salto do dólar para R$ 5,86, com a justificativa de pressão sobre o ajuste fiscal, indica que o mercado está reagindo negativamente às perspectivas de controle das contas públicas. Se a incerteza fiscal persistir, o dólar pode continuar sua valorização.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795039392.0096464,
-    "titulo": "Ibovespa recua 1% com rebaixamento do Goldman Sachs e fiscal no radar - UOL Economia",
-    "titulo_original": "Ibovespa recua 1% com rebaixamento do Goldman Sachs e fiscal no radar - UOL Economia",
-    "fonte": "Google News Acoes",
-    "publicado": "18/11 15:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, associada a preocupações fiscais e a um rebaixamento de recomendação de um banco de investimento, indica um sentimento de cautela no mercado acionário brasileiro. Se as questões fiscais não forem resolvidas, a pressão sobre o índice pode continuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795039392.0110967,
-    "titulo": "Dólar fecha a R$ 5,87, maior valor desde com fiscal no radar; Ibovespa cai - UOL Economia",
-    "titulo_original": "Dólar fecha a R$ 5,87, maior valor desde com fiscal no radar; Ibovespa cai - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "18/11 17:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O fechamento do dólar em R$ 5,87, o maior valor em meio a preocupações fiscais, e a queda do Ibovespa indicam um dia de aversão ao risco no mercado brasileiro. Se as questões fiscais não forem endereçadas de forma convincente, a pressão sobre o câmbio e a bolsa pode se manter.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795039392.012304,
-    "titulo": "Ibovespa perde os 168 mil pontos com votação do PLP do ajuste fiscal e queda forte de bancos",
-    "titulo_original": "Ibovespa perde os 168 mil pontos com votação do PLP do ajuste fiscal e queda forte de bancos",
-    "fonte": "Valor Economico",
-    "publicado": "18/11 18:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perda de patamares importantes pelo Ibovespa, em meio à votação de um projeto de ajuste fiscal e à desvalorização de bancos, sugere que o mercado está precificando riscos relacionados à política fiscal. Se o resultado da votação for percebido como insatisfatório, a pressão sobre o índice e o setor bancário pode continuar.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795087844.694202,
     "titulo": "Kinea teme inflação acima de 6% e opta por proteção da NTN-B",
     "titulo_original": "Kinea teme inflação acima de 6% e opta por proteção da NTN-B",
@@ -964,6 +663,117 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A aprovação do plano especial de pagamento trabalhista do GPA, com parcelamento corrigido pela Selic, indica uma gestão do passivo da empresa. Se a taxa Selic se mantiver em patamares elevados, o custo total do pagamento poderá ser significativamente maior do que o valor principal.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795174249.3690019,
+    "titulo": "Moretti e o temor crescente da Faria Lima com a próxima Fazenda",
+    "titulo_original": "Moretti e o temor crescente da Faria Lima com a próxima Fazenda",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 07:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A nomeação de um novo ministro da Fazenda pode gerar volatilidade no mercado financeiro. Se Bruno Moretti for confirmado, a reação do mercado dependerá da percepção sobre suas políticas econômicas e sua capacidade de gerir as contas públicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795174254.239845,
+    "titulo": "Alta do dólar fortalece preços da soja no Sul",
+    "titulo_original": "Alta do dólar fortalece preços da soja no Sul - Agrolink",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/11 07:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A valorização do dólar impacta diretamente os preços das commodities agrícolas em reais. Se a tendência de alta do dólar se mantiver, os produtores de soja podem se beneficiar de maiores receitas, mas isso pode ter implicações na inflação de alimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795174259.0918117,
+    "titulo": "Soja tem nova alta e se aproxima de R$ 170 em Paranaguá",
+    "titulo_original": "Soja tem nova alta e se aproxima de R$ 170 em Paranaguá - Globo Rural | O agro de ponta a ponta",
+    "fonte": "Google News Commodities",
+    "publicado": "20/11 06:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A contínua alta no preço da soja em reais sugere uma combinação de fatores, possivelmente incluindo a desvalorização do real frente ao dólar e a demanda internacional. Se essa tendência se mantiver, pode haver pressão inflacionária em produtos derivados da soja.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795174264.100952,
+    "titulo": "Soja: USDA reduz estoques americanos, enquanto plantio brasileiro mantém bom ritmo",
+    "titulo_original": "Soja: USDA reduz estoques americanos, enquanto plantio brasileiro mantém bom ritmo - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "20/11 07:12",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A redução dos estoques americanos pelo USDA, combinada com um bom ritmo de plantio no Brasil, pode criar um cenário de oferta mais restrita globalmente. Se a demanda se mantiver forte, isso tenderia a sustentar os preços da soja no mercado internacional.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795174270.5154185,
+    "titulo": "EM ALTA | O Ibovespa hoje recua 0,86% aos 166.096,22 pontos, pressionado pela queda de suas ações de maior peso – Vale, Itaú e Petrobras – e por declarações do presidente Luiz Inácio Lula da Silva (PT).",
+    "titulo_original": "EM ALTA | O Ibovespa hoje recua 0,86% aos 166.096,22 pontos, pressionado pela queda de suas ações de maior peso – Vale, Itaú e Petrobras – e por declarações do presidente Luiz Inácio Lula da Silva (PT). ⁣ ⁣ O presidente afirmou não ter pressa para n - Instagram",
+    "fonte": "Google News Acoes",
+    "publicado": "20/11 05:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, influenciada por ações de peso e declarações presidenciais, sugere um cenário de cautela no mercado acionário brasileiro. Se as declarações presidenciais gerarem incertezas sobre a política econômica, isso pode pressionar ainda mais o índice no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795174270.516331,
+    "titulo": "Bolsas de Tóquio e Seul caem após Anthropic não conseguir dissipar temores sobre a IA",
+    "titulo_original": "Bolsas de Tóquio e Seul caem após Anthropic não conseguir dissipar temores sobre a IA",
+    "fonte": "Folha Mercado",
+    "publicado": "20/11 07:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas bolsas asiáticas, ligada a preocupações com inteligência artificial, pode indicar um sentimento de aversão ao risco no setor de tecnologia. Se essas preocupações se intensificarem, isso pode afetar o desempenho de empresas de tecnologia globalmente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795174270.5171745,
+    "titulo": "Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)",
+    "titulo_original": "Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)",
+    "fonte": "Money Times",
+    "publicado": "20/11 06:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A agenda econômica externa, com foco em dados de atividade e confiança, pode influenciar o humor dos investidores globais. Decisões ou expectativas sobre juros do BCE e dados de confiança nos EUA são particularmente relevantes para o cenário macro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795174270.5179586,
+    "titulo": "Democratas abrem investigação sobre influência da Nvidia em apuração dos EUA contra a Megaspeed",
+    "titulo_original": "Democratas abrem investigação sobre influência da Nvidia em apuração dos EUA contra a Megaspeed",
+    "fonte": "Folha Mercado",
+    "publicado": "20/11 07:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A investigação sobre a Nvidia e a Megaspeed pode gerar incertezas regulatórias e de conformidade para as empresas envolvidas. Se a investigação resultar em sanções ou restrições, isso pode impactar o setor de semicondutores e as cadeias de suprimentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795174270.5278203,
+    "titulo": "Distratos de imóveis disparam e atingem até um quarto das vendas de incorporadoras do país",
+    "titulo_original": "Distratos de imóveis disparam e atingem até um quarto das vendas de incorporadoras do país",
+    "fonte": "Folha Mercado",
+    "publicado": "20/11 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo nos distratos de imóveis indica uma potencial desaceleração no mercado imobiliário e pode refletir dificuldades financeiras dos compradores ou expectativas negativas sobre o futuro. Se essa tendência se mantiver, pode afetar o desempenho das incorporadoras e a atividade econômica relacionada ao setor.",
     "is_stocks": true
   }
 ]
