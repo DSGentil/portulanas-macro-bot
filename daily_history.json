@@ -1,98 +1,5 @@
 [
   {
-    "_timestamp": 1795094152.7815568,
-    "titulo": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
-    "titulo_original": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
-    "fonte": "Money Times",
-    "publicado": "19/11 08:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A percepção de insuficiência do ajuste fiscal pelo mercado pode gerar desconfiança e pressionar os juros. Se o governo não apresentar medidas adicionais ou mais eficazes, a dívida pública pode continuar em trajetória de alta, impactando a confiança dos investidores.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795094159.6027384,
-    "titulo": "Ibovespa futuro avança após aprovação o ajuste fiscal no Senado - Valor Investe",
-    "titulo_original": "Ibovespa futuro avança após aprovação o ajuste fiscal no Senado - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "19/11 09:07",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de um ajuste fiscal no Senado tende a ser vista positivamente pelo mercado, pois sinaliza um compromisso com a disciplina fiscal. Se o ajuste for implementado de forma eficaz, pode atrair investimentos e melhorar a confiança dos agentes econômicos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795094159.6038022,
-    "titulo": "Juros futuros avançam de olho em ajuste fiscal e nomes para Fazenda",
-    "titulo_original": "Juros futuros avançam de olho em ajuste fiscal e nomes para Fazenda",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 09:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta dos juros futuros reflete a percepção do mercado sobre riscos fiscais e incertezas na condução da política econômica. Se os nomes para a Fazenda trouxerem confiança e o ajuste fiscal for robusto, os juros podem ceder; caso contrário, a pressão altista pode continuar.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795094159.6054115,
-    "titulo": "Japan Tobacco terá perda de US$ 8,6 bilhões após perder controle de sua operação na Rússia",
-    "titulo_original": "Japan Tobacco terá perda de US$ 8,6 bilhões após perder controle de sua operação na Rússia",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 09:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A perda de controle de operações em um mercado específico pode impactar a saúde financeira de empresas multinacionais. Se a situação geopolítica na Rússia se agravar, outras empresas com exposição similar podem enfrentar desafios semelhantes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795094159.6065476,
-    "titulo": "ETF de ações de empresas brasileiras negociadas nos EUA chega à B3 - Valor Investe",
-    "titulo_original": "ETF de ações de empresas brasileiras negociadas nos EUA chega à B3 - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "19/11 09:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A chegada de um ETF de ações brasileiras negociadas nos EUA à B3 pode facilitar o acesso de investidores a esses ativos e potencialmente aumentar o fluxo de capital para a bolsa brasileira. Se houver demanda significativa, isso pode impulsionar a liquidez e o desempenho do mercado local.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795094159.607553,
-    "titulo": "Alibaba triplica lucro no 2º trimestre fiscal com a melhora da rentabilidade em IA",
-    "titulo_original": "Alibaba triplica lucro no 2º trimestre fiscal com a melhora da rentabilidade em IA",
-    "fonte": "Money Times",
-    "publicado": "19/11 09:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O forte crescimento do lucro do Alibaba, especialmente em IA, demonstra o potencial de monetização dessa tecnologia. Se a tendência de melhora na rentabilidade de IA se mantiver, pode impulsionar ainda mais os resultados da empresa e atrair investimentos no setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795094159.608554,
-    "titulo": "Intel fecha com primeiro cliente externo para nova categoria de chips",
-    "titulo_original": "Intel fecha com primeiro cliente externo para nova categoria de chips",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 09:45",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A conquista do primeiro cliente externo para uma nova categoria de chips pela Intel é um passo importante para a diversificação de receita da empresa. Se a tecnologia for bem aceita pelo mercado, pode impulsionar a demanda por esses novos produtos e fortalecer a posição da Intel.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795101347.1216757,
     "titulo": "Lula: 'Não é o mercado que deseja o controle fiscal, sou eu'",
     "titulo_original": "Lula: 'Não é o mercado que deseja o controle fiscal, sou eu'",
@@ -1060,6 +967,82 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A medida do Signal de restringir capturas de tela para proteger conversas da IA demonstra a crescente preocupação com a privacidade na era da inteligência artificial. Se outras plataformas adotarem medidas semelhantes, a proteção de dados pode ser fortalecida; caso contrário, a vigilância por IA pode se tornar mais invasiva.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795206644.4854615,
+    "titulo": "Galípolo alertou PF sobre possível plano de fuga de Vorcaro",
+    "titulo_original": "Galípolo alertou PF sobre possível plano de fuga de Vorcaro",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 16:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A comunicação de Galípolo à PF, baseada em uma suspeita de fuga, pode indicar a gravidade da situação financeira do Banco Master e a preocupação das autoridades em evitar a dissipação de ativos. Se a fuga tivesse ocorrido, a recuperação de valores seria ainda mais complexa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795206649.2232814,
+    "titulo": "Temporal atinge o coração da produção de soja e deixa prejuízos incalculáveis em Tupanciretã - GZH",
+    "titulo_original": "Temporal atinge o coração da produção de soja e deixa prejuízos incalculáveis em Tupanciretã - GZH",
+    "fonte": "Google News Commodities",
+    "publicado": "20/11 15:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Os danos causados pelo temporal na produção de soja em Tupanciretã podem impactar a oferta da commodity no mercado doméstico e internacional. A extensão dos prejuízos e a capacidade de recuperação da safra serão determinantes para o comportamento dos preços da soja nas próximas semanas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795206653.8275712,
+    "titulo": "Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos - InfoMoney",
+    "titulo_original": "Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "20/11 16:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do ouro, tradicionalmente visto como porto seguro, sugere que o aumento das taxas de juros está tornando ativos de maior retorno mais atrativos. Se a política de juros elevados se mantiver, o ouro pode continuar sob pressão, enquanto outras commodities podem se beneficiar de um cenário de maior custo de oportunidade para o capital.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795206658.401191,
+    "titulo": "Burnham começa a reverter Brexit com acordo histórico com a UE",
+    "titulo_original": "Burnham começa a reverter Brexit com acordo histórico com a UE",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 15:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Este acordo representa um movimento de reaproximação entre o Reino Unido e a UE, o que pode suavizar tensões comerciais e de mobilidade. No entanto, a persistência de impasses sobre mensalidades de estudantes e dúvidas sobre os próximos passos da parceria indicam que a reversão completa do Brexit ainda enfrenta desafios.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795206663.9426823,
+    "titulo": "Ações europeias terminam uma semana difícil. DAX alemão cai 7,29%.",
+    "titulo_original": "European stocks end a bruising week. German DAX falls 7.29%.",
+    "fonte": "ForexLive",
+    "publicado": "20/11 15:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A acentuada queda das bolsas europeias, especialmente o DAX, sugere um sentimento de aversão ao risco no continente, possivelmente influenciado por fatores macroeconômicos ou geopolíticos. Se as causas dessa desvalorização persistirem, o cenário para investimentos na região pode se manter desafiador no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795206663.943984,
+    "titulo": "Ouro não protege ninguém, cai a mínima em um ano e falha como porto seguro - Seu Dinheiro",
+    "titulo_original": "Ouro não protege ninguém, cai a mínima em um ano e falha como porto seguro - Seu Dinheiro",
+    "fonte": "Google News Commodities",
+    "publicado": "20/11 16:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A perda de atratividade do ouro como ativo de proteção, em um ano de juros mais altos, sugere uma mudança no comportamento do mercado em busca de retornos mais expressivos. Se as taxas de juros continuarem elevadas, o ouro pode ter dificuldade em recuperar seu status de porto seguro, enquanto ativos de renda fixa se tornam mais competitivos.",
     "is_stocks": true
   }
 ]
