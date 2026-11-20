@@ -1,90 +1,5 @@
 [
   {
-    "_timestamp": 1795106744.3472753,
-    "titulo": "Proposta de ajuste fiscal deve passar na Câmara sem alterações substanciais",
-    "titulo_original": "Proposta de ajuste fiscal deve passar na Câmara sem alterações substanciais",
-    "fonte": "Folha Mercado",
-    "publicado": "19/11 12:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação da proposta de ajuste fiscal sem alterações significativas na Câmara é um sinal positivo para a consolidação fiscal. Se o texto for de fato aprovado como está, isso pode trazer mais previsibilidade e confiança aos investidores. Caso haja mudanças de última hora que flexibilizem as metas fiscais, isso pode gerar receio e pressionar o câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795106748.2179356,
-    "titulo": "Rumo aos R$ 6? Dólar rompe os R$ 5,90 hoje; entenda o que impulsiona a moeda",
-    "titulo_original": "Rumo aos R$ 6? Dólar rompe os R$ 5,90 hoje; entenda o que impulsiona a moeda",
-    "fonte": "Money Times",
-    "publicado": "19/11 12:57",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A contínua valorização do dólar pode indicar uma saída de capital estrangeiro do Brasil ou uma maior demanda pela moeda americana. Se os fatores que impulsionam essa alta persistirem, como incertezas fiscais ou juros mais altos no exterior, o dólar pode continuar a subir. Caso haja uma melhora no cenário doméstico ou externo, a pressão sobre o real pode diminuir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795106752.1567914,
-    "titulo": "Dólar hoje chega a zerar após leilão do BC, mas volta a subir e encosta nos R$ 5,90 - InfoMoney",
-    "titulo_original": "Dólar hoje chega a zerar após leilão do BC, mas volta a subir e encosta nos R$ 5,90 - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 12:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intervenção do Banco Central demonstra a preocupação com a volatilidade do câmbio. Se as intervenções se tornarem mais frequentes e eficazes, isso pode ajudar a estabilizar o dólar no curto prazo. No entanto, se os fundamentos que pressionam a moeda persistirem, a tendência de alta pode se restabelecer. A capacidade do BC de conter a volatilidade será crucial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795106755.9823291,
-    "titulo": "Medidas anunciadas pelo governo elevam despesas em R$ 40,1 bi e reduzem receitas em R$ 6,4 bi, diz IFI",
-    "titulo_original": "Medidas anunciadas pelo governo elevam despesas em R$ 40,1 bi e reduzem receitas em R$ 6,4 bi, diz IFI",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 13:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento de despesas e a redução de receitas apontados pela IFI indicam uma deterioração das contas públicas. Se essas medidas não forem acompanhadas por um plano de ajuste fiscal robusto, isso pode gerar preocupações com a dívida pública e pressionar o câmbio. Caso o governo consiga compensar essas despesas com cortes ou aumento de outras receitas, o impacto fiscal pode ser mitigado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795106760.6920037,
-    "titulo": "Aversão a risco domina mercados internacionais antes da estreia da Anthropic em NY",
-    "titulo_original": "Aversão a risco domina mercados internacionais antes da estreia da Anthropic em NY",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 13:24",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A cautela dos investidores e a busca por proteção indicam um cenário de menor apetite a risco global. Se a percepção de juros elevados nos EUA se mantiver, isso pode pressionar ativos de maior risco, como o real, e sustentar o dólar. Caso o Fed sinalize uma mudança de postura em reuniões futuras, o cenário pode se inverter rapidamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795106760.693731,
-    "titulo": "Dólar opera em alta e bate R$ 5,92, com foco no pacote fiscal e na estreia da Anthropic em Wall Street - G1",
-    "titulo_original": "Dólar opera em alta e bate R$ 5,92, com foco no pacote fiscal e na estreia da Anthropic em Wall Street - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria",
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do dólar pode ser interpretada como um reflexo da aversão a risco global e das incertezas fiscais domésticas. Se o pacote fiscal for percebido como positivo para as contas públicas, isso pode aliviar a pressão sobre o real; caso contrário, a moeda brasileira pode continuar sob pressão. A estreia da Anthropic, embora externa, contribui para o sentimento de mercado.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795113077.108981,
     "titulo": "O dólar reduziu a alta nesta quinta-feira (19) após o Banco Central realizar um leilão extraordinário de venda de US$ 1 bilhão no mercado à vista, em uma intervenção para aumentar a oferta da moeda americana e conter a pressão sobre o câmbio.",
     "titulo_original": "O dólar reduziu a alta nesta quinta-feira (19) após o Banco Central realizar um leilão extraordinário de venda de US$ 1 bilhão no mercado à vista, em uma intervenção para aumentar a oferta da moeda americana e conter a pressão sobre o câmbio. Por volta - Instagram",
@@ -1073,6 +988,32 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O rápido crescimento da Anthropic até uma avaliação de US$ 1 trilhão em seis anos destaca o potencial percebido no setor de IA. No entanto, a volatilidade subsequente das ações sugere que o mercado ainda está precificando o risco e o potencial de crescimento futuro, podendo levar a correções em outras empresas do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795217435.8532598,
+    "titulo": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia?",
+    "titulo_original": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia? - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/11 17:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A incapacidade de conter a alta do dólar com a intervenção cambial pode indicar pressões de demanda por moeda estrangeira que superam a oferta gerada pelas vendas do BC. Se essa tendência se mantiver, pode sinalizar um cenário de maior volatilidade cambial e pressão inflacionária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795217440.0715718,
+    "titulo": "Queda das ações em Wall Street reacende dúvidas sobre o fôlego do rali da IA",
+    "titulo_original": "Queda das ações em Wall Street reacende dúvidas sobre o fôlego do rali da IA",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 19:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Se a queda das ações de tecnologia persistir, o apetite por risco em mercados globais pode diminuir, impactando indiretamente ativos de maior volatilidade. Caso as empresas de IA apresentem resultados robustos apesar do cenário, o rali pode se reconfigurar em torno de fundamentos sólidos.",
     "is_stocks": true
   }
 ]
