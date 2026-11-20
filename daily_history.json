@@ -905,5 +905,127 @@
     "origem": "externa",
     "leitura_critica": "A dependência da extensão da trégua comercial em terras raras indica um ponto de atrito significativo nas relações EUA-China. Se não houver progresso nesse item, a trégua pode não ser estendida, aumentando a incerteza comercial. A questão das terras raras pode impactar cadeias de suprimentos globais e setores dependentes desses minerais.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1795193212.4337912,
+    "titulo": "Arábia Saudita lidera ataque a porto estratégico dos houthis no Iêmen",
+    "titulo_original": "Arábia Saudita lidera ataque a porto estratégico dos houthis no Iêmen",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 12:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O agravamento do conflito no Iêmen e o ataque ao porto de Hodeidah podem gerar instabilidade em rotas de comércio marítimo importantes. Se a escalada persistir, pode haver impacto nos custos de frete e, potencialmente, em cadeias de suprimentos globais, embora a notícia não detalhe essa conexão.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795193216.0724995,
+    "titulo": "Sentimento do consumidor da Universidade de Michigan 51.5 contra estimativa de 51.5",
+    "titulo_original": "University of Michigan consumer sentiment 51.5 versus 51.5 estimate",
+    "fonte": "ForexLive",
+    "publicado": "20/11 12:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A estabilidade no sentimento do consumidor americano, em linha com as expectativas, e a queda nas expectativas de inflação podem ser interpretadas como sinais de estabilização econômica. Se as expectativas de inflação continuarem a ceder, isso pode dar ao Federal Reserve mais espaço para considerar ajustes na política monetária.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795193219.8394504,
+    "titulo": "O apetite americano por híbridos e SUVs de luxo atrai novas fábricas de Honda e Audi",
+    "titulo_original": "O apetite americano por híbridos e SUVs de luxo atrai novas fábricas de Honda e Audi",
+    "fonte": "InvestNews",
+    "publicado": "20/11 12:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A decisão da Honda e da Audi de expandir a produção nos EUA, impulsionada pela demanda por híbridos e SUVs de luxo e favorecida por tarifas, pode indicar um movimento de realocação industrial. Se essa tendência se intensificar, pode afetar a produção automotiva em outros países e as cadeias de suprimentos globais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795193225.021615,
+    "titulo": "FT: EUA aprovaram venda de chips de Nvidia e AMD a empresas chinesas",
+    "titulo_original": "FT: EUA aprovaram venda de chips de Nvidia e AMD a empresas chinesas",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 10:05",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A aprovação da venda de chips avançados dos EUA para empresas chinesas, inclusive aquelas com ligações militares, pode ter implicações geopolíticas e tecnológicas. Se essa venda for vista como uma brecha nas restrições de tecnologia, pode haver reações de outros países ou novas regulamentações.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795193225.02285,
+    "titulo": "Bolsas em NY abrem em direções opostas com peso de 'techs' e Anthropic cai 7% após IPO recorde",
+    "titulo_original": "Bolsas em NY abrem em direções opostas com peso de 'techs' e Anthropic cai 7% após IPO recorde",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 11:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A performance de ações de tecnologia e a queda da Anthropic após seu IPO podem sinalizar um reajuste no otimismo em torno da inteligência artificial. Se essa cautela se estender a outras empresas do setor, pode haver um impacto mais amplo no mercado de ações de tecnologia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795193225.0239687,
+    "titulo": "Ações da Anthropic caem mais de 9% no pré-mercado de NY",
+    "titulo_original": "Ações da Anthropic caem mais de 9% no pré-mercado de NY",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 11:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte queda das ações da Anthropic no pré-mercado reforça a percepção de cautela dos investidores com o setor de inteligência artificial. Se essa tendência se confirmar após a abertura, pode haver um efeito cascata em outras empresas de tecnologia, impactando o desempenho geral dos índices.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795193225.0251942,
+    "titulo": "Ação da Nvidia acumula queda de 40% em relação às máximas, mas há esperança",
+    "titulo_original": "Ação da Nvidia acumula queda de 40% em relação às máximas, mas há esperança",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 09:33",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A significativa desvalorização da ação da Nvidia, aliada a investigações em curso, pode indicar um momento de maior cautela para o setor de semicondutores. Se as investigações resultarem em sanções ou novas regulamentações, isso pode impactar a recuperação esperada para a ação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795193225.02655,
+    "titulo": "Minerva (BEEF3) ganha fôlego com alta do dólar, e Natura (NATU3) fica na lanterna; veja o que rolou no Ibovespa",
+    "titulo_original": "Minerva (BEEF3) ganha fôlego com alta do dólar, e Natura (NATU3) fica na lanterna; veja o que rolou no Ibovespa",
+    "fonte": "Money Times",
+    "publicado": "20/11 10:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A performance do Ibovespa e a alta do dólar indicam um cenário de aversão ao risco no mercado brasileiro. Se a tendência de alta do dólar se mantiver, isso pode continuar a beneficiar exportadoras, mas também pressionar importadoras e a inflação ao consumidor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795193225.0276897,
+    "titulo": "Nvidia cai mais de 40% desde o pico. Mas Wall Street vê espaço para recuperação",
+    "titulo_original": "Nvidia cai mais de 40% desde o pico. Mas Wall Street vê espaço para recuperação",
+    "fonte": "InvestNews",
+    "publicado": "20/11 10:04",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte desvalorização da Nvidia, mesmo com projeções de recuperação por parte de Wall Street, pode refletir um ajuste de expectativas para o setor de semicondutores. Se as investigações em curso nos EUA resultarem em desdobramentos negativos, isso pode impactar a capacidade de recuperação da empresa e do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795193225.0288095,
+    "titulo": "Ações brasileiras caem em Nova York com B3 fechada e mau humor internacional - VEJA",
+    "titulo_original": "Ações brasileiras caem em Nova York com B3 fechada e mau humor internacional - VEJA",
+    "fonte": "Google News Acoes",
+    "publicado": "20/11 13:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das ações brasileiras em Nova York, em um contexto de mau humor internacional, reforça a percepção de aversão ao risco global. Se esse sentimento persistir, pode haver pressão contínua sobre ativos de mercados emergentes, incluindo o Brasil.",
+    "is_stocks": true
   }
 ]
