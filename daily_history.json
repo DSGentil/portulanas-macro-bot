@@ -1,101 +1,5 @@
 [
   {
-    "_timestamp": 1795101347.1216757,
-    "titulo": "Lula: 'Não é o mercado que deseja o controle fiscal, sou eu'",
-    "titulo_original": "Lula: 'Não é o mercado que deseja o controle fiscal, sou eu'",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 12:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do presidente reforça a intenção do governo em manter o controle fiscal, o que pode ser visto como um sinal positivo para o mercado. Se as ações subsequentes do governo demonstrarem compromisso com a responsabilidade fiscal, isso pode mitigar as preocupações com especulação e atrair investimentos. Caso contrário, a persistência de boatos e a falta de clareza nas medidas podem manter a volatilidade.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795101352.0686483,
-    "titulo": "Pacote fiscal e inflação elevada: cenário continua favorecendo PACC11",
-    "titulo_original": "Pacote fiscal e inflação elevada: cenário continua favorecendo PACC11",
-    "fonte": "Money Times",
-    "publicado": "19/11 10:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do pacote fiscal no Senado, com um impacto reduzido, pode ser vista como um passo na direção da consolidação fiscal, o que é positivo. Se a Câmara dos Deputados mantiver o texto aprovado, isso reforçará a previsibilidade fiscal. A menção de que o cenário de inflação elevada favorece o PACC11 sugere que a persistência da inflação pode ser um fator a ser monitorado para o desempenho desse ativo específico.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795101356.9391108,
-    "titulo": "Lula diz que parte de seus aliados não entendeu plano Moretti de ajuste nas contas",
-    "titulo_original": "Lula diz que parte de seus aliados não entendeu plano Moretti de ajuste nas contas",
-    "fonte": "Folha Mercado",
-    "publicado": "19/11 11:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Lula sugere que pode haver divergências internas sobre a implementação do ajuste fiscal, o que pode gerar incertezas quanto à sua efetividade. Se a falta de entendimento persistir entre os aliados, a aprovação e execução de medidas fiscais podem enfrentar obstáculos. Por outro lado, um alinhamento posterior pode fortalecer a credibilidade do plano.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795101361.9085543,
-    "titulo": "Putin assina comunicado conjunto pela paz e minutos depois diz que não negociará com a Ucrânia",
-    "titulo_original": "Putin assina comunicado conjunto pela paz e minutos depois diz que não negociará com a Ucrânia",
-    "fonte": "Money Times",
-    "publicado": "19/11 11:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A contradição entre a assinatura de um comunicado pela paz e a declaração de não negociação por parte de Putin indica uma postura agressiva e imprevisível da Rússia. Se a retórica se traduzir em ações militares intensificadas, isso pode aumentar a aversão ao risco global e impactar mercados de energia e commodities. A ausência de um caminho claro para a diplomacia eleva a incerteza geopolítica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795101429.4629722,
-    "titulo": "Esperamos que governo faça ‘lição de casa’, e aí fluxo estrangeiro pode voltar, diz Bofa",
-    "titulo_original": "Esperamos que governo faça ‘lição de casa’, e aí fluxo estrangeiro pode voltar, diz Bofa",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 12:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do BofA estabelece uma condição clara para o retorno do fluxo de capital estrangeiro: a execução de uma 'lição de casa' fiscal pelo governo. Se o governo demonstrar compromisso com a responsabilidade fiscal, isso pode atrair investimentos e impulsionar os ativos brasileiros. Caso contrário, a persistência das indefinições e a postura negativa dos investidores podem manter o cenário de aversão ao risco para o Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795101429.464609,
-    "titulo": "Empresa de genro de Trump investe US$ 33,5 milhões no Nubank",
-    "titulo_original": "Empresa de genro de Trump investe US$ 33,5 milhões no Nubank - InvesTalk",
-    "fonte": "Google News Geopolitica",
-    "publicado": "19/11 10:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O investimento de capital estrangeiro no Nubank, mesmo que de uma fonte específica, pode ser interpretado como um sinal de confiança no setor financeiro brasileiro. Se esse tipo de investimento se generalizar, pode indicar um fluxo de capital mais robusto para o país. No entanto, a relevância individual dessa notícia depende da continuidade e do volume de aportes semelhantes para confirmar uma tendência macro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795101429.466139,
-    "titulo": "BNDES tem lucro de R$ 20,3 bi até setembro, puxado por venda de ações da Petrobras",
-    "titulo_original": "BNDES tem lucro de R$ 20,3 bi até setembro, puxado por venda de ações da Petrobras",
-    "fonte": "Folha Mercado",
-    "publicado": "19/11 11:41",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O lucro expressivo do BNDES, impulsionado pela venda de ativos da Petrobras, demonstra uma gestão financeira positiva para o banco de desenvolvimento. Se essa venda de ativos for parte de uma estratégia mais ampla de desinvestimento ou reestruturação, pode ter implicações fiscais e de mercado. No entanto, a notícia em si foca no resultado financeiro do BNDES e não em uma decisão fiscal ou regulatória com impacto geral.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795106744.3472753,
     "titulo": "Proposta de ajuste fiscal deve passar na Câmara sem alterações substanciais",
     "titulo_original": "Proposta de ajuste fiscal deve passar na Câmara sem alterações substanciais",
@@ -1043,6 +947,132 @@
     ],
     "origem": "externa",
     "leitura_critica": "A perda de atratividade do ouro como ativo de proteção, em um ano de juros mais altos, sugere uma mudança no comportamento do mercado em busca de retornos mais expressivos. Se as taxas de juros continuarem elevadas, o ouro pode ter dificuldade em recuperar seu status de porto seguro, enquanto ativos de renda fixa se tornam mais competitivos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795212053.9367557,
+    "titulo": "Reino Unido e União Europeia querem interligar mercados de carbono a partir de 2028",
+    "titulo_original": "Reino Unido e União Europeia querem interligar mercados de carbono a partir de 2028",
+    "fonte": "Folha Mercado",
+    "publicado": "20/11 18:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A interligação dos mercados de carbono entre o Reino Unido e a União Europeia, a partir de 2028, representa uma decisão regulatória significativa que pode influenciar os custos de emissão para empresas em ambos os blocos. Se a implementação ocorrer conforme planejado, pode incentivar investimentos em tecnologias mais limpas e harmonizar políticas climáticas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795212058.335635,
+    "titulo": "Conselho da Paz da ONU admite falha em cessar-fogo enquanto Israel ataca Gaza - UOL Notícias",
+    "titulo_original": "Conselho da Paz da ONU admite falha em cessar-fogo enquanto Israel ataca Gaza - UOL Notícias",
+    "fonte": "Google News Geopolitica",
+    "publicado": "20/11 17:59",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A admissão de falha do Conselho da Paz da ONU em garantir um cessar-fogo em Gaza, em meio a ataques contínuos de Israel, indica uma persistência na instabilidade geopolítica da região. Essa situação pode continuar a gerar incertezas nos mercados globais, especialmente no que tange a preços de energia e afluxo de capital para regiões de risco.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795212062.6386342,
+    "titulo": "Petróleo tem leve alta no dia, mas encerra terceira semana consecutiva em queda",
+    "titulo_original": "Petróleo tem leve alta no dia, mas encerra terceira semana consecutiva em queda",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 17:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "Apesar da alta diária, a terceira semana consecutiva de queda nos preços do petróleo sugere uma pressão baixista persistente, possivelmente ligada a fatores de oferta e demanda globais. Se a incerteza no Oriente Médio diminuir e as exportações continuarem a se normalizar, os preços podem sofrer novas quedas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795212068.217306,
+    "titulo": "Aversão a risco derruba bolsas de NY em meio a dúvidas sobre IA",
+    "titulo_original": "Aversão a risco derruba bolsas de NY em meio a dúvidas sobre IA",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 18:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte queda nas bolsas americanas, especialmente no setor de tecnologia, pode indicar um reajuste nas expectativas de mercado em relação ao setor de IA. Se a correção se aprofundar, pode sinalizar uma aversão a risco mais generalizada, afetando outros mercados.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795212068.2184565,
+    "titulo": "SEC investiga contabilidade da Nvidia em meio a crise envolvendo ex-CEO, dizem fontes",
+    "titulo_original": "SEC investiga contabilidade da Nvidia em meio a crise envolvendo ex-CEO, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 16:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A investigação da SEC sobre as práticas contábeis da Nvidia adiciona um elemento de incerteza regulatória e fiscal para a empresa. Se a investigação resultar em sanções ou mudanças significativas nas práticas contábeis, isso pode impactar a confiança dos investidores e o desempenho das ações da Nvidia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795212068.2195096,
+    "titulo": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs",
+    "titulo_original": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs",
+    "fonte": "Money Times",
+    "publicado": "20/11 18:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte queda do Nasdaq e o aumento do \"índice do medo\" indicam um sentimento de mercado deteriorado, especialmente no setor de tecnologia. Se essa tendência de aversão ao risco persistir, pode haver um contágio para outros ativos e mercados, impactando a liquidez e o apetite por investimentos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795212068.2205322,
+    "titulo": "Mais uma bomba? Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis; ação afunda 11%",
+    "titulo_original": "Mais uma bomba? Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis; ação afunda 11%",
+    "fonte": "Money Times",
+    "publicado": "20/11 16:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A investigação da SEC sobre as práticas contábeis da Nvidia, somada à queda expressiva de suas ações, sinaliza um risco regulatório e de governança significativo. Se a investigação revelar irregularidades, isso pode levar a multas, restrições operacionais e uma desvalorização ainda maior da empresa.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795212068.2215252,
+    "titulo": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008 - G1",
+    "titulo_original": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008 - G1",
+    "fonte": "Google News Acoes",
+    "publicado": "20/11 15:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A sequência de quedas das ações da Nvidia, a pior desde 2008, evidencia a severidade das preocupações atuais em torno da empresa. Se essa tendência de desvalorização se mantiver, pode indicar uma perda de confiança sustentada dos investidores, possivelmente influenciada por fatores regulatórios e de mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795212068.2224987,
+    "titulo": "Ações da Anthropic recuam 8,50% no segundo dia de negociações na Nasdaq",
+    "titulo_original": "Ações da Anthropic recuam 8,50% no segundo dia de negociações na Nasdaq",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 18:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das ações da Anthropic após um IPO recorde pode ser interpretada como um sinal de cautela do mercado em relação a avaliações muito elevadas em setores de rápido crescimento. Se essa tendência se mantiver, pode haver pressão sobre outras empresas de IA com valuations semelhantes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795212068.2234778,
+    "titulo": "Anthropic: Quem construiu em seis anos uma empresa de US$ 1 trilhão",
+    "titulo_original": "Anthropic: Quem construiu em seis anos uma empresa de US$ 1 trilhão",
+    "fonte": "Valor Economico",
+    "publicado": "20/11 16:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O rápido crescimento da Anthropic até uma avaliação de US$ 1 trilhão em seis anos destaca o potencial percebido no setor de IA. No entanto, a volatilidade subsequente das ações sugere que o mercado ainda está precificando o risco e o potencial de crescimento futuro, podendo levar a correções em outras empresas do setor.",
     "is_stocks": true
   }
 ]
