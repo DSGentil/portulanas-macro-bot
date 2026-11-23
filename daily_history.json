@@ -342,5 +342,97 @@
     "origem": "domestica",
     "leitura_critica": "O programa de recompra de ações pela RD Saúde pode ser interpretado como um sinal de confiança da empresa em seu próprio valor de mercado. Se a empresa executar o programa conforme anunciado, isso pode sustentar o preço de suas ações no curto prazo.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795446937.934545,
+    "titulo": "Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda",
+    "titulo_original": "Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda",
+    "fonte": "Folha Mercado",
+    "publicado": "23/11 08:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A votação do plano Moretti na Câmara dos Deputados é um passo crucial para a consolidação fiscal do país. Se o plano for aprovado com as medidas propostas, pode sinalizar um compromisso com a disciplina fiscal, o que tende a ser positivo para a percepção de risco do Brasil.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795446941.926131,
+    "titulo": "Valor do dólar hoje: câmbio e Bolsa reagem a medidas fiscais e cenário externo",
+    "titulo_original": "Valor do dólar hoje: câmbio e Bolsa reagem a medidas fiscais e cenário externo - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/11 07:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A reação do câmbio e da Bolsa a medidas fiscais e ao cenário externo demonstra a sensibilidade do mercado brasileiro a fatores domésticos e internacionais. Se as medidas fiscais forem percebidas como positivas, isso pode levar a uma valorização do real e a uma melhora no desempenho da bolsa.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795446945.8289497,
+    "titulo": "Macron propõe retomar plano para incluir regras fiscais na Constituição da França",
+    "titulo_original": "Macron propõe retomar plano para incluir regras fiscais na Constituição da França",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 10:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A proposta de Macron de incluir regras fiscais na Constituição francesa visa aumentar a credibilidade fiscal do país. Se aprovada, essa medida pode reduzir a percepção de risco fiscal e influenciar a volatilidade dos títulos públicos franceses, com potencial reflexo em outros mercados europeus.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795446951.472784,
+    "titulo": "Bolsas de NY disparam com recuperação em 'techs' e retorno de Huang à Nvidia",
+    "titulo_original": "Bolsas de NY disparam com recuperação em 'techs' e retorno de Huang à Nvidia",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 11:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte alta das bolsas de Nova York, especialmente no setor de tecnologia, sugere um aumento do apetite a risco global. Se a recuperação em empresas de tecnologia se mantiver, isso pode indicar um fluxo de capital mais positivo para mercados de renda variável.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795446951.4735708,
+    "titulo": "Itaú BBA recomenda estratégia defensiva com exportadoras e ações de qualidade em cenário de juro alto",
+    "titulo_original": "Itaú BBA recomenda estratégia defensiva com exportadoras e ações de qualidade em cenário de juro alto",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 11:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação de estratégia defensiva reflete a percepção de um ambiente de juros altos e volatilidade. Se o cenário de juros elevados se prolongar, a performance de exportadoras pode ser favorecida pela taxa de câmbio, enquanto ações de qualidade podem oferecer maior resiliência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795446951.4743102,
+    "titulo": "Trump elogia decisão da Nvidia de reconduzir Jensen Huang ao cargo de CEO",
+    "titulo_original": "Trump elogia decisão da Nvidia de reconduzir Jensen Huang ao cargo de CEO",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 11:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O endosso de Donald Trump à liderança de Jensen Huang na Nvidia pode ser interpretado como um sinal de apoio político a empresas de tecnologia estratégicas. Se essa percepção de apoio se confirmar em outras declarações, pode influenciar o sentimento do investidor em relação ao setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795446951.4751313,
+    "titulo": "UBS BB corta B3 para neutra com visão de cenário desafiador para mercado de capitais",
+    "titulo_original": "UBS BB corta B3 para neutra com visão de cenário desafiador para mercado de capitais - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "23/11 10:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A redução da recomendação para a B3 para neutra pelo UBS BB sugere uma perspectiva cautelosa para o mercado de capitais. Se o cenário desafiador se concretizar, isso pode impactar negativamente o volume de negociações e a performance de ativos de renda variável.",
+    "is_stocks": true
   }
 ]
