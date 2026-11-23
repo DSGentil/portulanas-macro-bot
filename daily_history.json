@@ -768,5 +768,122 @@
     "origem": "externa",
     "leitura_critica": "A forte alta na bolsa europeia, impulsionada pelo setor de tecnologia, pode indicar uma recuperação do apetite por risco na região. Se essa tendência se consolidar, pode haver um fluxo de capital mais positivo para mercados europeus.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795471253.5728836,
+    "titulo": "Durigan diz que ajuste fiscal e revisão de gastos são necessários para queda dos juros",
+    "titulo_original": "Durigan diz que ajuste fiscal e revisão de gastos são necessários para queda dos juros",
+    "fonte": "Folha Mercado",
+    "publicado": "23/11 15:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Ministro da Fazenda reforça a ligação entre a saúde fiscal e a política monetária, indicando que a queda dos juros dependerá de avanços concretos no ajuste das contas públicas. Se o governo não conseguir apresentar resultados fiscais consistentes, a expectativa de redução de juros pode ser adiada, impactando o cenário de investimento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795471258.7830288,
+    "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira (23)",
+    "titulo_original": "Câmara pode votar ajuste fiscal nesta segunda-feira (23)",
+    "fonte": "Money Times",
+    "publicado": "23/11 17:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A possível votação do projeto de ajuste fiscal na Câmara dos Deputados é um evento crucial para a percepção de risco fiscal no país. Se o projeto for aprovado com as medidas de redução de despesas, pode sinalizar um compromisso com a consolidação fiscal; caso contrário, a incerteza pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795471264.162894,
+    "titulo": "Copom mantém previsão da taxa básica de juros para 13% em 2027 - Agência Brasil",
+    "titulo_original": "Copom mantém previsão da taxa básica de juros para 13% em 2027 - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/11 14:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A manutenção da previsão da taxa básica de juros em 13% para 2027 pelo Copom indica que o Banco Central espera que a Selic permaneça em patamar elevado por um período prolongado. Se os indicadores de inflação e atividade econômica permitirem, essa previsão pode ser revista para baixo; caso contrário, pode ser mantida ou até elevada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795471269.356174,
+    "titulo": "Juros futuros recuam com rumores de nomeações do governo para o BC",
+    "titulo_original": "Juros futuros recuam com rumores de nomeações do governo para o BC",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 17:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda dos juros futuros, impulsionada por rumores de nomeações mais alinhadas ao mercado no Banco Central e pela postura do presidente Galípolo, sugere uma expectativa de menor aperto monetário. Se as nomeações confirmarem essa linha e a política monetária se mantiver previsível, os juros podem continuar em trajetória de queda; caso contrário, qualquer sinal de desvio pode reverter essa tendência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795471279.6001735,
+    "titulo": "Ibovespa perde os 165 mil pontos e fecha no vermelho com incertezas fiscais",
+    "titulo_original": "Ibovespa perde os 165 mil pontos e fecha no vermelho com incertezas fiscais",
+    "fonte": "Money Times",
+    "publicado": "23/11 18:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A perda de patamar importante pelo Ibovespa reflete a apreensão do mercado com o cenário fiscal doméstico. Se as incertezas fiscais persistirem, o índice pode continuar sob pressão; uma resolução positiva ou clareza sobre as medidas fiscais poderia reverter essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795471279.6018834,
+    "titulo": "Ibovespa amplia perdas pelo 3º pregão com receio de ingerência política na Petrobras",
+    "titulo_original": "Ibovespa amplia perdas pelo 3º pregão com receio de ingerência política na Petrobras",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 18:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A continuidade das perdas do Ibovespa, especialmente com o receio de ingerência política na Petrobras, indica que a confiança do mercado está abalada por fatores de governança e risco político. Se as preocupações com a Petrobras se intensificarem, o índice pode sofrer mais quedas; uma maior clareza sobre a gestão da empresa poderia trazer alívio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795471279.6032279,
+    "titulo": "Citi eleva preços-alvo para Vivo e TIM levando em conta dados positivos do 3º trimestre",
+    "titulo_original": "Citi eleva preços-alvo para Vivo e TIM levando em conta dados positivos do 3º trimestre",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 18:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": null,
+    "leitura_critica": "A elevação dos preços-alvo e recomendação de compra pelo Citi para Vivo e TIM sugere uma perspectiva positiva para o setor de telecomunicações. Se os resultados futuros confirmarem essa tendência, as ações podem apresentar valorização adicional; caso contrário, a concorrência no segmento móvel pode voltar a pressionar as receitas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795471279.6045456,
+    "titulo": "Preço do petróleo usado nos EUA fica abaixo de US$ 80 após três meses",
+    "titulo_original": "Preço do petróleo usado nos EUA fica abaixo de US$ 80 após três meses",
+    "fonte": "Folha Mercado",
+    "publicado": "23/11 15:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda do preço do petróleo WTI abaixo de US$ 80 pode indicar uma desaceleração na demanda global ou um aumento na oferta. Se essa tendência de queda se mantiver, pode impactar a inflação e os custos de produção em diversos setores; caso contrário, uma recuperação nos preços pode pressionar os custos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795471279.6058667,
+    "titulo": "CSN Mineração (CMIN3): dívidas podem bater nos dividendos, vê BB Investimentos; ‘melhor vender’",
+    "titulo_original": "CSN Mineração (CMIN3): dívidas podem bater nos dividendos, vê BB Investimentos; ‘melhor vender’",
+    "fonte": "Money Times",
+    "publicado": "23/11 18:20",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A análise do BB Investimentos sobre a CSN Mineração sugere um cenário desafiador para a empresa devido ao endividamento e à pressão na geração de caixa. Se a empresa não conseguir reverter essa situação, a distribuição de dividendos pode ser afetada; uma melhora nas condições de mercado ou na gestão da dívida poderia mudar essa perspectiva.",
+    "is_stocks": true
   }
 ]
