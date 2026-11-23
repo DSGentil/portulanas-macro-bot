@@ -1,1019 +1,133 @@
 [
   {
-    "_timestamp": 1795113077.108981,
-    "titulo": "O dólar reduziu a alta nesta quinta-feira (19) após o Banco Central realizar um leilão extraordinário de venda de US$ 1 bilhão no mercado à vista, em uma intervenção para aumentar a oferta da moeda americana e conter a pressão sobre o câmbio.",
-    "titulo_original": "O dólar reduziu a alta nesta quinta-feira (19) após o Banco Central realizar um leilão extraordinário de venda de US$ 1 bilhão no mercado à vista, em uma intervenção para aumentar a oferta da moeda americana e conter a pressão sobre o câmbio. Por volta - Instagram",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 13:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intervenção do Banco Central com a venda de dólares busca aliviar a pressão sobre o câmbio. Se essa ação for acompanhada por outras medidas ou se a percepção de risco doméstico diminuir, o dólar pode encontrar um patamar mais estável. Caso contrário, a pressão vendedora pode persistir, exigindo novas intervenções.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795113080.9690852,
-    "titulo": "BC passa a queimar reservas para conter o dólar, que está perto de R$ 6 - VEJA",
-    "titulo_original": "BC passa a queimar reservas para conter o dólar, que está perto de R$ 6 - VEJA",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 12:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A utilização de reservas para conter o dólar indica uma forte pressão de desvalorização da moeda brasileira. Se essa estratégia não for suficiente, o BC pode ter que recorrer a medidas mais drásticas, como aumento de juros. A aproximação do dólar a R$ 6 pode gerar pressões inflacionárias e impactar o custo de importação de bens e serviços.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795113084.884289,
-    "titulo": "BC intervém no câmbio, mas dólar volta a subir forte e supera R$ 5,93; Bolsa recua - Folha de S.Paulo",
-    "titulo_original": "BC intervém no câmbio, mas dólar volta a subir forte e supera R$ 5,93; Bolsa recua - Folha de S.Paulo",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 09:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A persistência da alta do dólar, mesmo após intervenção do BC, sugere uma pressão vendedora significativa sobre o real. Se essa tendência se mantiver, pode haver um impacto negativo na inflação e na confiança dos investidores. A queda da bolsa em paralelo indica a aversão ao risco no mercado doméstico, possivelmente ligada à instabilidade cambial e à falta de clareza sobre a política econômica.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795113088.7685132,
-    "titulo": "Bancos veem oferta de crédito restritiva no quarto trimestre, diz BC",
-    "titulo_original": "Bancos veem oferta de crédito restritiva no quarto trimestre, diz BC",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 15:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A restrição na oferta de crédito pode desacelerar a atividade econômica e o consumo, impactando o crescimento do PIB. Se essa tendência se confirmar, o Banco Central pode considerar a política monetária para estimular a economia. A avaliação dos bancos sobre a oferta de crédito é um indicador importante da saúde econômica futura.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795113093.2365158,
-    "titulo": "BC intervém no câmbio, mas dólar sobe até R$ 5,93; juros vão às máximas e Ibovespa cai",
-    "titulo_original": "BC intervém no câmbio, mas dólar sobe até R$ 5,93; juros vão às máximas e Ibovespa cai",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 15:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intervenção do BC no câmbio, apesar de volumosa, não foi suficiente para conter a alta do dólar, indicando forte pressão vendedora. Se a volatilidade cambial persistir, o BC pode precisar de medidas mais contundentes, o que pressionaria ainda mais os juros. A incerteza sobre a nomeação do Ministro da Fazenda adiciona um fator de risco doméstico que pode intensificar a aversão ao risco no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795120245.5265338,
-    "titulo": "Real tem 2ª pior semana do ano com disparada de 5% do dólar no período; BC intervém, mas não contém movimento",
-    "titulo_original": "Real tem 2ª pior semana do ano com disparada de 5% do dólar no período; BC intervém, mas não contém movimento",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 17:18",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A forte desvalorização do real, mesmo com intervenção do Banco Central, sugere que as incertezas da política econômica brasileira continuam pesando sobre o câmbio. Se o BC intensificar suas intervenções ou se houver sinais de melhora na política econômica, o real pode encontrar suporte; caso contrário, a pressão de alta do dólar pode persistir.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795120249.7794378,
-    "titulo": "PTAX atinge o maior nível desde abril de 2025 em dia de leilão de US$ 1 bilhão do BC",
-    "titulo_original": "PTAX chega ao maior nível desde abril de 2025 em dia de leilão de US$ 1 bilhão do BC - TradeMap",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 16:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O fato de a PTAX atingir o maior nível em um período significativo, coincidindo com a intervenção do BC, reforça a pressão de alta sobre o dólar. Se o BC continuar a intervir no mercado de câmbio, isso pode ajudar a estabilizar o real; caso contrário, a tendência de valorização do dólar pode se manter.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795120254.3039148,
-    "titulo": "Juro alto no Brasil e o que nos separa de México e África do Sul",
-    "titulo_original": "Juro alto no Brasil e o que nos separa de México e África do Sul",
+    "_timestamp": 1795431656.4133415,
+    "titulo": "Real se desvaloriza mais de 17% desde vitória de Lula e impulsiona ativos de proteção",
+    "titulo_original": "Real se desvaloriza mais de 17% desde vitória de Lula e impulsiona ativos de proteção",
     "fonte": "Folha Mercado",
-    "publicado": "19/11 16:30",
+    "publicado": "22/11 23:00",
     "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "decisao_fiscal_regulatoria"
-    ],
+    "canais_afetados": [],
     "origem": "domestica",
-    "leitura_critica": "A persistência de juros reais elevados no Brasil, mesmo comparado a outros emergentes, sugere que fatores domésticos, possivelmente ligados à política fiscal, continuam a ser um entrave. Se o país conseguir implementar uma política fiscal mais crível e sustentável, isso pode abrir espaço para a redução dos juros; caso contrário, o diferencial de juros pode se manter.",
+    "leitura_critica": "A forte desvalorização do real desde a vitória de Lula pode indicar uma perda de confiança dos investidores na economia brasileira ou em políticas futuras. Se essa tendência persistir, pode pressionar a inflação importada e aumentar a demanda por ativos de proteção. A notícia não especifica os motivos exatos dessa desvalorização, mas a associa a um evento político.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1795120258.773785,
-    "titulo": "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar",
-    "titulo_original": "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar - G1",
+    "_timestamp": 1795431661.0742202,
+    "titulo": "Dólar digital chega a R$ 6,15 em negociação neste domingo",
+    "titulo_original": "Dólar digital chega a R$ 6,15 em negociação neste domingo - Poder360",
     "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 16:28",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
+    "publicado": "22/11 19:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
     "origem": "domestica",
-    "leitura_critica": "A fala de Lula sobre a escolha de ministros gerou incerteza no mercado de câmbio, levando à intervenção do BC. Se as nomeações ministeriais trouxerem clareza e sinalizarem uma agenda econômica alinhada com a estabilidade, o câmbio pode se estabilizar; caso contrário, a volatilidade pode persistir.",
+    "leitura_critica": "A cotação do dólar digital a R$ 6,15 em um domingo pode indicar movimentos de mercado fora do horário comercial regular. Se essa cotação se mantiver ou influenciar a abertura do mercado na segunda-feira, pode ser um indicativo de pressão sobre o câmbio. A notícia não especifica os fatores que levaram a essa cotação.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1795120264.7085304,
-    "titulo": "Apesar da ansiedade do mercado, Lula 4 não assume em ambiente de terra arrasada, diz André Esteves",
-    "titulo_original": "Apesar de ansiedade do mercado, Lula 4 não assume em ambiente de terra arrasada, diz André Esteves",
+    "_timestamp": 1795431665.8078306,
+    "titulo": "Verba para reajustes de servidores em 2027 é insuficiente para repor a inflação",
+    "titulo_original": "Verba para reajustes de servidores em 2027 é insuficiente para repor a inflação",
     "fonte": "Folha Mercado",
-    "publicado": "19/11 17:09",
+    "publicado": "22/11 23:00",
     "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de André Esteves sugere que, embora o cenário não seja de 'terra arrasada', a questão fiscal será o ponto central de atenção para o mercado. Se o governo apresentar um plano de ajuste fiscal crível, isso pode aliviar a ansiedade do mercado; caso contrário, a incerteza fiscal pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795120264.7124782,
-    "titulo": "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips",
-    "titulo_original": "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "19/11 15:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A notícia levanta questões sobre potenciais conflitos de interesse e o impacto de decisões regulatórias em investimentos pessoais. Se as regras para chips forem aprovadas de forma a beneficiar a Nvidia, isso pode impulsionar o preço das ações; caso contrário, a empresa pode enfrentar desafios regulatórios.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795125651.0635064,
-    "titulo": "Resolução do BC aprimora funcionamento do mercado aberto e do Sistema Especial de Liquidação e de Custódia",
-    "titulo_original": "Resolução do BC aprimora funcionamento do mercado aberto e do Sistema Especial de Liquidação e de Custódia",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 18:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A resolução visa aumentar a competitividade e a gestão da liquidez no sistema financeiro. Se o ajuste nos valores financeiros das operações compromissadas for eficaz, pode haver maior previsibilidade nas taxas de juros de curto prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795125656.0781531,
-    "titulo": "Tesouro Direto chega a suspender negociações em dia de forte estresse no mercado",
-    "titulo_original": "Tesouro Direto chega a suspender negociações em dia de forte estresse no mercado",
-    "fonte": "Folha Mercado",
-    "publicado": "19/11 18:37",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A suspensão das negociações no Tesouro Direto em dias de estresse de mercado indica a intensidade da volatilidade nas taxas de juros. Se essa volatilidade persistir, pode haver um impacto na confiança dos investidores em títulos públicos de longo prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795125660.98109,
-    "titulo": "Dólar hoje sobe 1,1% e fecha a R$ 5,93 em meio a temor fiscal, apesar de leilão do BC",
-    "titulo_original": "Dólar hoje sobe 1,1% e fecha a R$ 5,93 em meio a temor fiscal, apesar de leilão do BC - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 17:22",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar, mesmo com intervenção do BC, sugere que os receios fiscais estão pesando mais sobre o mercado. Se as incertezas fiscais persistirem, o dólar pode continuar pressionado, impactando a inflação e o custo de importações.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795125665.9821522,
-    "titulo": "Medidas adicionais de ajuste fiscal serão apresentadas ao Congresso, se for necessário, diz Moretti",
-    "titulo_original": "Medidas adicionais de ajuste fiscal serão apresentadas ao Congresso, se for necessário, diz Moretti",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 18:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro indica que o governo está avaliando a necessidade de novas medidas fiscais para garantir a consolidação das contas públicas. Se o cenário fiscal exigir, a apresentação de novas propostas pode gerar volatilidade no mercado, dependendo do teor e do impacto dessas medidas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795125671.639841,
-    "titulo": "Bolsas de NY despencam após o IPO da Anthropic, com liquidação generalizada de posições",
-    "titulo_original": "Bolsas de NY despencam após o IPO da Anthropic, com liquidação generalizada de posições",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 18:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte queda nas bolsas americanas, mesmo com o IPO da Anthropic, sugere um sentimento de aversão ao risco no mercado. Se essa tendência de venda se intensificar, pode haver um contágio para outros mercados globais, incluindo o brasileiro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795131045.6166282,
-    "titulo": "Relator do ajuste fiscal na Câmara defende aprovação do texto do Senado",
-    "titulo_original": "Relator do ajuste fiscal na Câmara defende aprovação do texto do Senado",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 19:21",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A defesa da aprovação do texto do Senado pelo relator do ajuste fiscal na Câmara indica um movimento em direção à consolidação da política fiscal. Se o texto for aprovado como está, o cenário fiscal pode se tornar mais previsível; caso haja alterações significativas, o impacto orçamentário pode divergir do esperado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795131049.6136498,
-    "titulo": "Nem atuação do BC segura o dólar, que já sobe quase R$ 1 desde a eleição; bolsa cai 19% - Valor Investe",
-    "titulo_original": "Nem atuação do BC segura o dólar, que já sobe quase R$ 1 desde a eleição; bolsa cai 19% - Valor Investe",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "19/11 18:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica que a atuação do BC não foi suficiente para conter a alta do dólar e a queda da bolsa, sugerindo uma forte pressão vendedora no mercado. Se essa tendência de desvalorização do real e queda da bolsa persistir, pode sinalizar uma saída de capital estrangeiro do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795131053.4616659,
-    "titulo": "72 vezes, mas com juros: GPA (PCAR3) parcela dívida trabalhista milionária",
-    "titulo_original": "72 vezes, mas com juros: GPA (PCAR3) parcela dívida trabalhista milionária",
-    "fonte": "Money Times",
-    "publicado": "19/11 19:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O parcelamento da dívida trabalhista do GPA com correção pela Selic significa que o custo total da dívida será influenciado pela trajetória futura dos juros. Se a Selic permanecer alta, o valor total pago será maior; se houver cortes antecipados, o custo total será menor.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795131057.2857966,
-    "titulo": "Estrangeiros não poupam críticas à intervenção do BC e veem espaço para dólar testar R$ 6,50",
-    "titulo_original": "Estrangeiros não poupam críticas à intervenção do BC e veem espaço para dólar testar R$ 6,50",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 20:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A crítica de investidores estrangeiros à intervenção do BC sugere que a percepção de risco e a confiança no mercado de câmbio brasileiro podem ser afetadas. Se o dólar realmente testar R$ 6,50, isso pode indicar uma saída de capital ou uma menor entrada de recursos no país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795131061.8004348,
-    "titulo": "Notícias de câmbio FX das Américas da investingLive em 19 de novembro: preocupações com inflação afundam ações",
-    "titulo_original": "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks",
-    "fonte": "ForexLive",
-    "publicado": "19/11 18:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A queda das ações e as preocupações com a inflação nos EUA, com o Fed indicando dificuldade em atingir a meta de 2%, sugerem um cenário de juros mais altos por mais tempo. Se a inflação persistir elevada, isso pode levar a novas altas nas taxas de juros globais, impactando o fluxo de capital para mercados emergentes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795131061.801744,
-    "titulo": "TRT da 2ª Região aprova plano especial de pagamento trabalhista do GPA",
-    "titulo_original": "TRT da 2ª Região aprova plano especial de pagamento trabalhista do GPA",
-    "fonte": "Valor Economico",
-    "publicado": "19/11 19:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do plano especial de pagamento trabalhista do GPA, com parcelamento corrigido pela Selic, indica uma gestão do passivo da empresa. Se a taxa Selic se mantiver em patamares elevados, o custo total do pagamento poderá ser significativamente maior do que o valor principal.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795174249.3690019,
-    "titulo": "Moretti e o temor crescente da Faria Lima com a próxima Fazenda",
-    "titulo_original": "Moretti e o temor crescente da Faria Lima com a próxima Fazenda",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 07:02",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A nomeação de um novo ministro da Fazenda pode gerar volatilidade no mercado financeiro. Se Bruno Moretti for confirmado, a reação do mercado dependerá da percepção sobre suas políticas econômicas e sua capacidade de gerir as contas públicas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795174254.239845,
-    "titulo": "Alta do dólar fortalece preços da soja no Sul",
-    "titulo_original": "Alta do dólar fortalece preços da soja no Sul - Agrolink",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/11 07:05",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A valorização do dólar impacta diretamente os preços das commodities agrícolas em reais. Se a tendência de alta do dólar se mantiver, os produtores de soja podem se beneficiar de maiores receitas, mas isso pode ter implicações na inflação de alimentos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795174259.0918117,
-    "titulo": "Soja tem nova alta e se aproxima de R$ 170 em Paranaguá",
-    "titulo_original": "Soja tem nova alta e se aproxima de R$ 170 em Paranaguá - Globo Rural | O agro de ponta a ponta",
-    "fonte": "Google News Commodities",
-    "publicado": "20/11 06:20",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A contínua alta no preço da soja em reais sugere uma combinação de fatores, possivelmente incluindo a desvalorização do real frente ao dólar e a demanda internacional. Se essa tendência se mantiver, pode haver pressão inflacionária em produtos derivados da soja.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795174264.100952,
-    "titulo": "Soja: USDA reduz estoques americanos, enquanto plantio brasileiro mantém bom ritmo",
-    "titulo_original": "Soja: USDA reduz estoques americanos, enquanto plantio brasileiro mantém bom ritmo - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "20/11 07:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "ambas",
-    "leitura_critica": "A redução dos estoques americanos pelo USDA, combinada com um bom ritmo de plantio no Brasil, pode criar um cenário de oferta mais restrita globalmente. Se a demanda se mantiver forte, isso tenderia a sustentar os preços da soja no mercado internacional.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795174270.5154185,
-    "titulo": "EM ALTA | O Ibovespa hoje recua 0,86% aos 166.096,22 pontos, pressionado pela queda de suas ações de maior peso – Vale, Itaú e Petrobras – e por declarações do presidente Luiz Inácio Lula da Silva (PT).",
-    "titulo_original": "EM ALTA | O Ibovespa hoje recua 0,86% aos 166.096,22 pontos, pressionado pela queda de suas ações de maior peso – Vale, Itaú e Petrobras – e por declarações do presidente Luiz Inácio Lula da Silva (PT). ⁣ ⁣ O presidente afirmou não ter pressa para n - Instagram",
-    "fonte": "Google News Acoes",
-    "publicado": "20/11 05:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa, influenciada por ações de peso e declarações presidenciais, sugere um cenário de cautela no mercado acionário brasileiro. Se as declarações presidenciais gerarem incertezas sobre a política econômica, isso pode pressionar ainda mais o índice no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795174270.516331,
-    "titulo": "Bolsas de Tóquio e Seul caem após Anthropic não conseguir dissipar temores sobre a IA",
-    "titulo_original": "Bolsas de Tóquio e Seul caem após Anthropic não conseguir dissipar temores sobre a IA",
-    "fonte": "Folha Mercado",
-    "publicado": "20/11 07:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda nas bolsas asiáticas, ligada a preocupações com inteligência artificial, pode indicar um sentimento de aversão ao risco no setor de tecnologia. Se essas preocupações se intensificarem, isso pode afetar o desempenho de empresas de tecnologia globalmente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795174270.5171745,
-    "titulo": "Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)",
-    "titulo_original": "Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)",
-    "fonte": "Money Times",
-    "publicado": "20/11 06:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A agenda econômica externa, com foco em dados de atividade e confiança, pode influenciar o humor dos investidores globais. Decisões ou expectativas sobre juros do BCE e dados de confiança nos EUA são particularmente relevantes para o cenário macro.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795174270.5179586,
-    "titulo": "Democratas abrem investigação sobre influência da Nvidia em apuração dos EUA contra a Megaspeed",
-    "titulo_original": "Democratas abrem investigação sobre influência da Nvidia em apuração dos EUA contra a Megaspeed",
-    "fonte": "Folha Mercado",
-    "publicado": "20/11 07:49",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A investigação sobre a Nvidia e a Megaspeed pode gerar incertezas regulatórias e de conformidade para as empresas envolvidas. Se a investigação resultar em sanções ou restrições, isso pode impactar o setor de semicondutores e as cadeias de suprimentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795174270.5278203,
-    "titulo": "Distratos de imóveis disparam e atingem até um quarto das vendas de incorporadoras do país",
-    "titulo_original": "Distratos de imóveis disparam e atingem até um quarto das vendas de incorporadoras do país",
-    "fonte": "Folha Mercado",
-    "publicado": "20/11 04:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento expressivo nos distratos de imóveis indica uma potencial desaceleração no mercado imobiliário e pode refletir dificuldades financeiras dos compradores ou expectativas negativas sobre o futuro. Se essa tendência se mantiver, pode afetar o desempenho das incorporadoras e a atividade econômica relacionada ao setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795180612.6690683,
-    "titulo": "Dólar recua levemente no exterior, mas segue elevado com apostas em altas de juros pelo Fed",
-    "titulo_original": "Dólar recua levemente no exterior, mas segue elevado com apostas em altas de juros pelo Fed",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 09:42",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A persistência do dólar em patamares elevados, mesmo com uma leve recua, sugere que o mercado precifica um ciclo de juros mais longo nos EUA. Se os próximos dados de inflação vierem abaixo do esperado, o Fed pode sinalizar uma mudança de postura, o que tenderia a enfraquecer o dólar globalmente.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795180618.1151228,
-    "titulo": "Petróleo cai com melhora na oferta e sinalização de Trump sobre o Irã",
-    "titulo_original": "Petróleo cai com melhora na oferta e sinalização de Trump sobre o Irã - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "20/11 08:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda no preço do petróleo pode aliviar pressões inflacionárias em economias dependentes de importação de energia. Se as sinalizações sobre o Irã levarem a uma diminuição das tensões geopolíticas na região, isso tenderia a manter os preços do petróleo sob pressão de baixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795180623.5575254,
-    "titulo": "Lagarde diz que Europa deve enfrentar riscos antes que eles se concretizem",
-    "titulo_original": "Lagarde diz que Europa deve enfrentar riscos antes que eles se concretizem",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 08:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A declaração de Christine Lagarde sugere uma abordagem mais proativa do BCE em relação a riscos econômicos. Se essa postura se traduzir em ações concretas antes que as crises se agravem, isso poderia mitigar a volatilidade futura; caso contrário, a inação pode levar a reações mais bruscas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795180629.2950208,
-    "titulo": "Preço do cobre cai ao menor nível desde março com dúvidas sobre investimentos em IA",
-    "titulo_original": "Preço do cobre cai ao menor nível desde março com dúvidas sobre investimentos em IA - InvestNews",
-    "fonte": "Google News Commodities",
-    "publicado": "20/11 09:12",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda no preço do cobre, associada a incertezas sobre investimentos em IA, pode indicar uma reavaliação do mercado sobre o ritmo de adoção e o impacto real dessa tecnologia em setores que demandam commodities. Se as dúvidas sobre IA se aprofundarem, isso pode afetar a demanda por cobre e outros metais industriais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795180635.7203104,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/11 09:03",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acompanhamento ao vivo da cotação do dólar é essencial para entender o comportamento da moeda no dia. Variações significativas podem ser influenciadas por notícias de juros, fluxo de capital ou eventos externos, sendo um indicador importante da percepção de risco e liquidez no mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795180635.7213821,
-    "titulo": "Resumo de notícias europeias: mercados de ações sob pressão, títulos públicos em alta com expectativas de desaceleração",
-    "titulo_original": "investingLive European news wrap: Stock markets remain under pressure, bonds rally on slowdown expectations",
-    "fonte": "ForexLive",
-    "publicado": "20/11 09:31",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta nos títulos públicos europeus, impulsionada por expectativas de desaceleração, pode indicar que os investidores precificam cortes de juros futuros. Se essa desaceleração se confirmar, o Banco Central Europeu pode ser pressionado a reduzir as taxas de juros para estimular a economia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795187778.7341347,
-    "titulo": "Protesto contra plano econômico de Espriella provoca confrontos na Colômbia",
-    "titulo_original": "Protesto contra plano econômico de Espriella provoca confrontos na Colômbia",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 11:17",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Os protestos contra o plano econômico indicam forte resistência popular a medidas fiscais que podem afetar a população de menor renda. Se a pressão social levar a revisões significativas no projeto de lei, isso pode alterar o cenário fiscal projetado pelo governo. A instabilidade social decorrente pode impactar a confiança dos investidores no país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795187784.183035,
-    "titulo": "Oito morrem na Ucrânia após Rússia retaliar ataques à ponte da Crimeia",
-    "titulo_original": "Oito morrem na Ucrânia após Rússia retaliar ataques à ponte da Crimeia",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 10:43",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O escalonamento dos ataques russos representa uma intensificação do conflito na Ucrânia. Se a Rússia continuar com retaliações em larga escala, isso pode levar a novas sanções internacionais e aumentar a instabilidade geopolítica. A continuidade dos ataques pode afetar a segurança energética e as cadeias de suprimentos globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795187795.3827958,
-    "titulo": "Rendimentos dos Treasuries estendem perdas com busca por segurança",
-    "titulo_original": "Rendimentos dos Treasuries estendem perdas com busca por segurança",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 10:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A busca por segurança nos Treasuries sugere um aumento da aversão ao risco no mercado global. Se essa tendência de queda nos rendimentos persistir, isso pode indicar expectativas de desaceleração econômica ou de cortes de juros futuros nos EUA. A queda nos rendimentos de títulos americanos pode influenciar o fluxo de capital para outros mercados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795187801.7175698,
-    "titulo": "Greer diz que extensão da trégua comercial EUA-China depende de terras raras",
-    "titulo_original": "Greer says US-China trade truce extension hinges on rare earths",
-    "fonte": "ForexLive",
-    "publicado": "20/11 11:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A dependência da extensão da trégua comercial em terras raras indica um ponto de atrito significativo nas relações EUA-China. Se não houver progresso nesse item, a trégua pode não ser estendida, aumentando a incerteza comercial. A questão das terras raras pode impactar cadeias de suprimentos globais e setores dependentes desses minerais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795193212.4337912,
-    "titulo": "Arábia Saudita lidera ataque a porto estratégico dos houthis no Iêmen",
-    "titulo_original": "Arábia Saudita lidera ataque a porto estratégico dos houthis no Iêmen",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 12:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O agravamento do conflito no Iêmen e o ataque ao porto de Hodeidah podem gerar instabilidade em rotas de comércio marítimo importantes. Se a escalada persistir, pode haver impacto nos custos de frete e, potencialmente, em cadeias de suprimentos globais, embora a notícia não detalhe essa conexão.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795193216.0724995,
-    "titulo": "Sentimento do consumidor da Universidade de Michigan 51.5 contra estimativa de 51.5",
-    "titulo_original": "University of Michigan consumer sentiment 51.5 versus 51.5 estimate",
-    "fonte": "ForexLive",
-    "publicado": "20/11 12:04",
-    "relevancia": "ALTA",
     "canais_afetados": [
       "inflacao"
     ],
-    "origem": "externa",
-    "leitura_critica": "A estabilidade no sentimento do consumidor americano, em linha com as expectativas, e a queda nas expectativas de inflação podem ser interpretadas como sinais de estabilização econômica. Se as expectativas de inflação continuarem a ceder, isso pode dar ao Federal Reserve mais espaço para considerar ajustes na política monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795193219.8394504,
-    "titulo": "O apetite americano por híbridos e SUVs de luxo atrai novas fábricas de Honda e Audi",
-    "titulo_original": "O apetite americano por híbridos e SUVs de luxo atrai novas fábricas de Honda e Audi",
-    "fonte": "InvestNews",
-    "publicado": "20/11 12:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A decisão da Honda e da Audi de expandir a produção nos EUA, impulsionada pela demanda por híbridos e SUVs de luxo e favorecida por tarifas, pode indicar um movimento de realocação industrial. Se essa tendência se intensificar, pode afetar a produção automotiva em outros países e as cadeias de suprimentos globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795193225.021615,
-    "titulo": "FT: EUA aprovaram venda de chips de Nvidia e AMD a empresas chinesas",
-    "titulo_original": "FT: EUA aprovaram venda de chips de Nvidia e AMD a empresas chinesas",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 10:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A aprovação da venda de chips avançados dos EUA para empresas chinesas, inclusive aquelas com ligações militares, pode ter implicações geopolíticas e tecnológicas. Se essa venda for vista como uma brecha nas restrições de tecnologia, pode haver reações de outros países ou novas regulamentações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795193225.02285,
-    "titulo": "Bolsas em NY abrem em direções opostas com peso de 'techs' e Anthropic cai 7% após IPO recorde",
-    "titulo_original": "Bolsas em NY abrem em direções opostas com peso de 'techs' e Anthropic cai 7% após IPO recorde",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 11:52",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A performance de ações de tecnologia e a queda da Anthropic após seu IPO podem sinalizar um reajuste no otimismo em torno da inteligência artificial. Se essa cautela se estender a outras empresas do setor, pode haver um impacto mais amplo no mercado de ações de tecnologia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795193225.0239687,
-    "titulo": "Ações da Anthropic caem mais de 9% no pré-mercado de NY",
-    "titulo_original": "Ações da Anthropic caem mais de 9% no pré-mercado de NY",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 11:18",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte queda das ações da Anthropic no pré-mercado reforça a percepção de cautela dos investidores com o setor de inteligência artificial. Se essa tendência se confirmar após a abertura, pode haver um efeito cascata em outras empresas de tecnologia, impactando o desempenho geral dos índices.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795193225.0251942,
-    "titulo": "Ação da Nvidia acumula queda de 40% em relação às máximas, mas há esperança",
-    "titulo_original": "Ação da Nvidia acumula queda de 40% em relação às máximas, mas há esperança",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 09:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A significativa desvalorização da ação da Nvidia, aliada a investigações em curso, pode indicar um momento de maior cautela para o setor de semicondutores. Se as investigações resultarem em sanções ou novas regulamentações, isso pode impactar a recuperação esperada para a ação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795193225.02655,
-    "titulo": "Minerva (BEEF3) ganha fôlego com alta do dólar, e Natura (NATU3) fica na lanterna; veja o que rolou no Ibovespa",
-    "titulo_original": "Minerva (BEEF3) ganha fôlego com alta do dólar, e Natura (NATU3) fica na lanterna; veja o que rolou no Ibovespa",
-    "fonte": "Money Times",
-    "publicado": "20/11 10:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
     "origem": "domestica",
-    "leitura_critica": "A performance do Ibovespa e a alta do dólar indicam um cenário de aversão ao risco no mercado brasileiro. Se a tendência de alta do dólar se mantiver, isso pode continuar a beneficiar exportadoras, mas também pressionar importadoras e a inflação ao consumidor.",
-    "is_stocks": true
+    "leitura_critica": "A verba destinada para reajustes de servidores em 2027 ser insuficiente para repor a inflação pode gerar insatisfação e pressão por mais gastos públicos. Se o governo precisar alocar mais recursos para cumprir as expectativas de reajuste, isso pode impactar o déficit fiscal. A notícia sugere que a gestão da inflação e dos gastos públicos continua sendo um desafio.",
+    "is_stocks": false
   },
   {
-    "_timestamp": 1795193225.0276897,
-    "titulo": "Nvidia cai mais de 40% desde o pico. Mas Wall Street vê espaço para recuperação",
-    "titulo_original": "Nvidia cai mais de 40% desde o pico. Mas Wall Street vê espaço para recuperação",
-    "fonte": "InvestNews",
-    "publicado": "20/11 10:04",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte desvalorização da Nvidia, mesmo com projeções de recuperação por parte de Wall Street, pode refletir um ajuste de expectativas para o setor de semicondutores. Se as investigações em curso nos EUA resultarem em desdobramentos negativos, isso pode impactar a capacidade de recuperação da empresa e do setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795193225.0288095,
-    "titulo": "Ações brasileiras caem em Nova York com B3 fechada e mau humor internacional - VEJA",
-    "titulo_original": "Ações brasileiras caem em Nova York com B3 fechada e mau humor internacional - VEJA",
-    "fonte": "Google News Acoes",
-    "publicado": "20/11 13:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda das ações brasileiras em Nova York, em um contexto de mau humor internacional, reforça a percepção de aversão ao risco global. Se esse sentimento persistir, pode haver pressão contínua sobre ativos de mercados emergentes, incluindo o Brasil.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795199444.6462896,
-    "titulo": "‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação",
-    "titulo_original": "‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação",
-    "fonte": "Money Times",
-    "publicado": "20/11 15:18",
+    "_timestamp": 1795431672.448221,
+    "titulo": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
+    "titulo_original": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar - G1",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "20/11 22:01",
     "relevancia": "ALTA",
     "canais_afetados": [
       "juros",
-      "inflacao"
+      "decisao_fiscal_regulatoria"
     ],
-    "origem": "externa",
-    "leitura_critica": "A declaração da diretora do Fed reforça a necessidade de combate à inflação através de política monetária mais restritiva. Se o Fed optar por aumentos de juros mais significativos, isso pode desacelerar a economia americana; se a inflação ceder mais rapidamente, o banco central pode ter margem para uma postura menos agressiva.",
+    "origem": "ambas",
+    "leitura_critica": "A notícia aponta para uma combinação de fatores internacionais (juros nos EUA) e domésticos (ajuste fiscal no Brasil) como causas da disparada do dólar. Se o ajuste fiscal brasileiro for percebido como insuficiente ou mal executado, isso pode agravar a pressão sobre o câmbio. Por outro lado, se os juros nos EUA continuarem em trajetória de alta, isso pode manter o dólar forte globalmente, independentemente das ações fiscais brasileiras.",
     "is_stocks": false
   },
   {
-    "_timestamp": 1795199448.6283298,
-    "titulo": "Bessent defende alta mais moderada dos juros pelo Fed e cita choque de energia",
-    "titulo_original": "Bessent defende alta mais moderada dos juros pelo Fed e cita choque de energia - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/11 13:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A defesa de uma alta mais moderada dos juros pelo Fed por Bessent, considerando o choque de energia, sugere uma preocupação com os impactos econômicos de uma política monetária excessivamente restritiva. Se o Fed seguir essa linha, pode haver um alívio para a economia; se a inflação persistir, a pressão por juros mais altos pode se manter.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795199452.5872803,
-    "titulo": "Dólar caminha para quarta alta semanal, apoiado por expectativas de aperto do Fed e busca por proteção impulsionada pela IA",
-    "titulo_original": "Dólar caminha para quarta alta semanal, apoiado por expectativas de aperto do Fed e busca por proteção impulsionada pela IA",
-    "fonte": "Folha Mercado",
-    "publicado": "20/11 10:38",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A valorização contínua do dólar, impulsionada por expectativas de aperto do Fed e pela busca por proteção devido à IA, indica um cenário de aversão ao risco global. Se o Fed realmente apertar a política monetária, o dólar pode se fortalecer ainda mais; caso contrário, uma mudança na postura do Fed pode reverter essa tendência.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795199456.5901535,
-    "titulo": "Dólar valoriza globalmente com chances de Fed subir juro e receios com IA",
-    "titulo_original": "Dólar valoriza globalmente com chances de Fed subir juro e receios com IA - CNN Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/11 10:26",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A valorização global do dólar, atrelada a expectativas de alta de juros pelo Fed e receios com IA, sugere um ambiente de incerteza e busca por segurança. Se o Fed de fato elevar os juros, o dólar pode continuar sua trajetória de alta; caso contrário, a diminuição dessa expectativa pode enfraquecer a moeda americana.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795199461.776622,
-    "titulo": "Trump: Acordo comercial fechado, 10 outros em breve.",
-    "titulo_original": "Trump: Secured two new trade deals. 10 others coming very soon.",
+    "_timestamp": 1795431678.892803,
+    "titulo": "PMI flash da Austrália afunda para 46,1 com contração mais rápida do setor privado em 5 anos",
+    "titulo_original": "Australia flash PMI sinks to 46.1 as private sector shrinks at fastest pace in 5 years",
     "fonte": "ForexLive",
-    "publicado": "20/11 14:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As declarações de Trump sobre acordos comerciais e a crítica ao Fed indicam uma postura voltada para a renegociação de relações econômicas e uma pressão por política monetária mais expansionista. Se as negociações comerciais avançarem conforme o esperado, isso pode impulsionar o crescimento econômico; caso contrário, a retórica sobre o Fed pode continuar a gerar volatilidade.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795199461.778089,
-    "titulo": "EWZ, principal ETF do Brasil no exterior, opera em queda; Vale e Petrobras recuam",
-    "titulo_original": "EWZ, principal ETF do Brasil no exterior, opera em queda; Vale e Petrobras recuam - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "20/11 09:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do EWZ e de ações de grandes empresas brasileiras como Vale e Petrobras pode indicar um sentimento de aversão ao risco em relação ao mercado brasileiro. Se os fatores que impulsionam essa queda persistirem, o fluxo de capital para o país pode ser afetado; caso contrário, uma recuperação pode ocorrer rapidamente.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795199461.7794435,
-    "titulo": "BTG desistiu de 'solução de mercado' para o Master e BC foi alertado sobre dúvidas, diz Esteves",
-    "titulo_original": "BTG desistiu de 'solução de mercado' para o Master e BC foi alertado sobre dúvidas, diz Esteves",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 13:59",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A desistência do BTG Pactual em encontrar uma \"solução de mercado\" para o Banco Master, com alerta ao Banco Central sobre dúvidas no valor dos ativos, sugere instabilidade no setor financeiro. Se as dificuldades do Banco Master se aprofundarem, isso pode gerar preocupações sistêmicas; caso contrário, uma reestruturação pode estabilizar a situação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795199461.7808185,
-    "titulo": "Lagarde, do BCE, diz que ameaças cibernéticas ampliadas pela IA são sua principal preocupação",
-    "titulo_original": "Lagarde, do BCE, diz que ameaças cibernéticas ampliadas pela IA são sua principal preocupação",
-    "fonte": "Folha Mercado",
-    "publicado": "20/11 14:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A preocupação de Christine Lagarde com ameaças cibernéticas potencializadas pela IA destaca um risco emergente para o setor financeiro. Se as defesas cibernéticas não acompanharem o avanço da IA, ataques podem se tornar mais frequentes e danosos; caso contrário, a implementação de medidas de segurança pode mitigar os riscos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795199461.7822075,
-    "titulo": "Aplicativo de mensagem Signal restringe capturas de tela para impedir que agentes de IA leiam conversas",
-    "titulo_original": "Aplicativo de mensagem Signal restringe capturas de tela para impedir que agentes de IA leiam conversas",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 13:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A medida do Signal de restringir capturas de tela para proteger conversas da IA demonstra a crescente preocupação com a privacidade na era da inteligência artificial. Se outras plataformas adotarem medidas semelhantes, a proteção de dados pode ser fortalecida; caso contrário, a vigilância por IA pode se tornar mais invasiva.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795206644.4854615,
-    "titulo": "Galípolo alertou PF sobre possível plano de fuga de Vorcaro",
-    "titulo_original": "Galípolo alertou PF sobre possível plano de fuga de Vorcaro",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 16:05",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A comunicação de Galípolo à PF, baseada em uma suspeita de fuga, pode indicar a gravidade da situação financeira do Banco Master e a preocupação das autoridades em evitar a dissipação de ativos. Se a fuga tivesse ocorrido, a recuperação de valores seria ainda mais complexa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795206649.2232814,
-    "titulo": "Temporal atinge o coração da produção de soja e deixa prejuízos incalculáveis em Tupanciretã - GZH",
-    "titulo_original": "Temporal atinge o coração da produção de soja e deixa prejuízos incalculáveis em Tupanciretã - GZH",
-    "fonte": "Google News Commodities",
-    "publicado": "20/11 15:33",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Os danos causados pelo temporal na produção de soja em Tupanciretã podem impactar a oferta da commodity no mercado doméstico e internacional. A extensão dos prejuízos e a capacidade de recuperação da safra serão determinantes para o comportamento dos preços da soja nas próximas semanas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795206653.8275712,
-    "titulo": "Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos - InfoMoney",
-    "titulo_original": "Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos - InfoMoney",
-    "fonte": "Google News Commodities",
-    "publicado": "20/11 16:41",
+    "publicado": "22/11 19:09",
     "relevancia": "ALTA",
     "canais_afetados": [
       "juros"
     ],
     "origem": "externa",
-    "leitura_critica": "A queda do ouro, tradicionalmente visto como porto seguro, sugere que o aumento das taxas de juros está tornando ativos de maior retorno mais atrativos. Se a política de juros elevados se mantiver, o ouro pode continuar sob pressão, enquanto outras commodities podem se beneficiar de um cenário de maior custo de oportunidade para o capital.",
-    "is_stocks": false
+    "leitura_critica": "A forte queda no PMI australiano sugere que a demanda doméstica e externa está enfraquecendo. Se os dados de inflação subsequentes confirmarem essa tendência, o Banco Central da Austrália pode ser pressionado a pausar ou reverter o aperto monetário. Caso contrário, a persistência da inflação pode levar a mais aumentos de juros, impactando negativamente a atividade econômica.",
+    "is_stocks": true
   },
   {
-    "_timestamp": 1795206658.401191,
-    "titulo": "Burnham começa a reverter Brexit com acordo histórico com a UE",
-    "titulo_original": "Burnham começa a reverter Brexit com acordo histórico com a UE",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 15:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Este acordo representa um movimento de reaproximação entre o Reino Unido e a UE, o que pode suavizar tensões comerciais e de mobilidade. No entanto, a persistência de impasses sobre mensalidades de estudantes e dúvidas sobre os próximos passos da parceria indicam que a reversão completa do Brexit ainda enfrenta desafios.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795206663.9426823,
-    "titulo": "Ações europeias terminam uma semana difícil. DAX alemão cai 7,29%.",
-    "titulo_original": "European stocks end a bruising week. German DAX falls 7.29%.",
+    "_timestamp": 1795431678.8932526,
+    "titulo": "Volumes de varejo na Nova Zelândia saltam 2,2% no 3º trimestre, mais de quatro vezes o ritmo esperado",
+    "titulo_original": "New Zealand retail volumes jump 2.2% in Q3, more than four times the expected pace",
     "fonte": "ForexLive",
-    "publicado": "20/11 15:12",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A acentuada queda das bolsas europeias, especialmente o DAX, sugere um sentimento de aversão ao risco no continente, possivelmente influenciado por fatores macroeconômicos ou geopolíticos. Se as causas dessa desvalorização persistirem, o cenário para investimentos na região pode se manter desafiador no curto prazo.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795206663.943984,
-    "titulo": "Ouro não protege ninguém, cai a mínima em um ano e falha como porto seguro - Seu Dinheiro",
-    "titulo_original": "Ouro não protege ninguém, cai a mínima em um ano e falha como porto seguro - Seu Dinheiro",
-    "fonte": "Google News Commodities",
-    "publicado": "20/11 16:40",
+    "publicado": "22/11 18:54",
     "relevancia": "ALTA",
     "canais_afetados": [
       "juros"
     ],
     "origem": "externa",
-    "leitura_critica": "A perda de atratividade do ouro como ativo de proteção, em um ano de juros mais altos, sugere uma mudança no comportamento do mercado em busca de retornos mais expressivos. Se as taxas de juros continuarem elevadas, o ouro pode ter dificuldade em recuperar seu status de porto seguro, enquanto ativos de renda fixa se tornam mais competitivos.",
+    "leitura_critica": "O forte aumento nas vendas de varejo na Nova Zelândia sugere uma resiliência da demanda doméstica, o que pode dar ao Banco Central da Nova Zelândia mais espaço para manter uma política monetária mais restritiva. Se a inflação continuar alta, isso pode levar a juros mais elevados por mais tempo. No entanto, a pressão global sobre o apetite por risco pode limitar o impacto positivo no dólar neozelandês.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1795212053.9367557,
-    "titulo": "Reino Unido e União Europeia querem interligar mercados de carbono a partir de 2028",
-    "titulo_original": "Reino Unido e União Europeia querem interligar mercados de carbono a partir de 2028",
+    "_timestamp": 1795431678.8937745,
+    "titulo": "Resumo de notícias de FX das Américas investingLive 20 de novembro: Ações são marteladas com queda de 5,28% no Nasdaq",
+    "titulo_original": "investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%",
+    "fonte": "ForexLive",
+    "publicado": "20/11 19:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A forte queda no Nasdaq, a pior desde março de 2020, sugere um sentimento de aversão ao risco generalizado nos mercados. A declaração de que a política monetária do Fed 'não é restritiva o suficiente' indica uma probabilidade de mais aperto monetário, o que pode continuar pressionando as ações. A notícia também menciona tensões geopolíticas (Irã) e questões regulatórias (Nvidia), que podem ter contribuído para o pessimismo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795431678.894169,
+    "titulo": "Venda de ações de tecnologia se intensifica na Ásia no começo da semana",
+    "titulo_original": "Venda de ações de tecnologia se intensifica na Ásia no começo da semana",
     "fonte": "Folha Mercado",
-    "publicado": "20/11 18:32",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A interligação dos mercados de carbono entre o Reino Unido e a União Europeia, a partir de 2028, representa uma decisão regulatória significativa que pode influenciar os custos de emissão para empresas em ambos os blocos. Se a implementação ocorrer conforme planejado, pode incentivar investimentos em tecnologias mais limpas e harmonizar políticas climáticas.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795212058.335635,
-    "titulo": "Conselho da Paz da ONU admite falha em cessar-fogo enquanto Israel ataca Gaza - UOL Notícias",
-    "titulo_original": "Conselho da Paz da ONU admite falha em cessar-fogo enquanto Israel ataca Gaza - UOL Notícias",
-    "fonte": "Google News Geopolitica",
-    "publicado": "20/11 17:59",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A admissão de falha do Conselho da Paz da ONU em garantir um cessar-fogo em Gaza, em meio a ataques contínuos de Israel, indica uma persistência na instabilidade geopolítica da região. Essa situação pode continuar a gerar incertezas nos mercados globais, especialmente no que tange a preços de energia e afluxo de capital para regiões de risco.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795212062.6386342,
-    "titulo": "Petróleo tem leve alta no dia, mas encerra terceira semana consecutiva em queda",
-    "titulo_original": "Petróleo tem leve alta no dia, mas encerra terceira semana consecutiva em queda",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 17:42",
+    "publicado": "22/11 23:13",
     "relevancia": "MEDIA",
     "canais_afetados": [],
     "origem": "externa",
-    "leitura_critica": "Apesar da alta diária, a terceira semana consecutiva de queda nos preços do petróleo sugere uma pressão baixista persistente, possivelmente ligada a fatores de oferta e demanda globais. Se a incerteza no Oriente Médio diminuir e as exportações continuarem a se normalizar, os preços podem sofrer novas quedas.",
-    "is_stocks": false
+    "leitura_critica": "A intensificação da venda de ações de tecnologia na Ásia pode sinalizar uma aversão ao risco em relação a esse setor específico. Se essa tendência se mantiver, pode haver um contágio para outros mercados de renda variável. No entanto, a notícia não especifica se essa venda está ligada a fatores macroeconômicos ou a questões específicas do setor de IA.",
+    "is_stocks": true
   },
   {
-    "_timestamp": 1795212068.217306,
-    "titulo": "Aversão a risco derruba bolsas de NY em meio a dúvidas sobre IA",
-    "titulo_original": "Aversão a risco derruba bolsas de NY em meio a dúvidas sobre IA",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 18:29",
-    "relevancia": "ALTA",
+    "_timestamp": 1795431678.894529,
+    "titulo": "Calendário econômico e de eventos na Ásia 23 de novembro de 2026. Mercados japoneses estão fechados hoje.",
+    "titulo_original": "Economic and event calendar in Asia 23 November 2026. Japanese markets are closed today.",
+    "fonte": "ForexLive",
+    "publicado": "22/11 18:03",
+    "relevancia": "MEDIA",
     "canais_afetados": [],
     "origem": "externa",
-    "leitura_critica": "A forte queda nas bolsas americanas, especialmente no setor de tecnologia, pode indicar um reajuste nas expectativas de mercado em relação ao setor de IA. Se a correção se aprofundar, pode sinalizar uma aversão a risco mais generalizada, afetando outros mercados.",
+    "leitura_critica": "O fechamento dos mercados japoneses reduz a liquidez na Ásia, o que pode levar a movimentos mais voláteis em outras praças. A divulgação das vendas no varejo da Nova Zelândia é o principal destaque econômico, e um resultado forte pode apoiar a moeda local. A ausência de participantes japoneses pode exacerbar os movimentos em outras moedas.",
     "is_stocks": true
   },
   {
-    "_timestamp": 1795212068.2184565,
-    "titulo": "SEC investiga contabilidade da Nvidia em meio a crise envolvendo ex-CEO, dizem fontes",
-    "titulo_original": "SEC investiga contabilidade da Nvidia em meio a crise envolvendo ex-CEO, dizem fontes",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 16:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A investigação da SEC sobre as práticas contábeis da Nvidia adiciona um elemento de incerteza regulatória e fiscal para a empresa. Se a investigação resultar em sanções ou mudanças significativas nas práticas contábeis, isso pode impactar a confiança dos investidores e o desempenho das ações da Nvidia.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795212068.2195096,
-    "titulo": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs",
-    "titulo_original": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs",
-    "fonte": "Money Times",
-    "publicado": "20/11 18:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte queda do Nasdaq e o aumento do \"índice do medo\" indicam um sentimento de mercado deteriorado, especialmente no setor de tecnologia. Se essa tendência de aversão ao risco persistir, pode haver um contágio para outros ativos e mercados, impactando a liquidez e o apetite por investimentos.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795212068.2205322,
-    "titulo": "Mais uma bomba? Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis; ação afunda 11%",
-    "titulo_original": "Mais uma bomba? Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis; ação afunda 11%",
-    "fonte": "Money Times",
-    "publicado": "20/11 16:48",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A investigação da SEC sobre as práticas contábeis da Nvidia, somada à queda expressiva de suas ações, sinaliza um risco regulatório e de governança significativo. Se a investigação revelar irregularidades, isso pode levar a multas, restrições operacionais e uma desvalorização ainda maior da empresa.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795212068.2215252,
-    "titulo": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008 - G1",
-    "titulo_original": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008 - G1",
+    "_timestamp": 1795431678.894912,
+    "titulo": "Petrobras divulga plano de negócios sob expectativa de investimentos maiores e pressão no caixa",
+    "titulo_original": "Petrobras divulga plano de negócios sob expectativa de investimentos maiores e pressão no caixa - Estadão",
     "fonte": "Google News Acoes",
-    "publicado": "20/11 15:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A sequência de quedas das ações da Nvidia, a pior desde 2008, evidencia a severidade das preocupações atuais em torno da empresa. Se essa tendência de desvalorização se mantiver, pode indicar uma perda de confiança sustentada dos investidores, possivelmente influenciada por fatores regulatórios e de mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795212068.2224987,
-    "titulo": "Ações da Anthropic recuam 8,50% no segundo dia de negociações na Nasdaq",
-    "titulo_original": "Ações da Anthropic recuam 8,50% no segundo dia de negociações na Nasdaq",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 18:16",
+    "publicado": "22/11 17:08",
     "relevancia": "MEDIA",
     "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda das ações da Anthropic após um IPO recorde pode ser interpretada como um sinal de cautela do mercado em relação a avaliações muito elevadas em setores de rápido crescimento. Se essa tendência se mantiver, pode haver pressão sobre outras empresas de IA com valuations semelhantes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795212068.2234778,
-    "titulo": "Anthropic: Quem construiu em seis anos uma empresa de US$ 1 trilhão",
-    "titulo_original": "Anthropic: Quem construiu em seis anos uma empresa de US$ 1 trilhão",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 16:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O rápido crescimento da Anthropic até uma avaliação de US$ 1 trilhão em seis anos destaca o potencial percebido no setor de IA. No entanto, a volatilidade subsequente das ações sugere que o mercado ainda está precificando o risco e o potencial de crescimento futuro, podendo levar a correções em outras empresas do setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795217435.8532598,
-    "titulo": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia?",
-    "titulo_original": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia? - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "20/11 17:52",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
     "origem": "domestica",
-    "leitura_critica": "A incapacidade de conter a alta do dólar com a intervenção cambial pode indicar pressões de demanda por moeda estrangeira que superam a oferta gerada pelas vendas do BC. Se essa tendência se mantiver, pode sinalizar um cenário de maior volatilidade cambial e pressão inflacionária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795217440.0715718,
-    "titulo": "Queda das ações em Wall Street reacende dúvidas sobre o fôlego do rali da IA",
-    "titulo_original": "Queda das ações em Wall Street reacende dúvidas sobre o fôlego do rali da IA",
-    "fonte": "Valor Economico",
-    "publicado": "20/11 19:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Se a queda das ações de tecnologia persistir, o apetite por risco em mercados globais pode diminuir, impactando indiretamente ativos de maior volatilidade. Caso as empresas de IA apresentem resultados robustos apesar do cenário, o rali pode se reconfigurar em torno de fundamentos sólidos.",
+    "leitura_critica": "O plano de negócios da Petrobras, com expectativa de maiores investimentos e pressão no caixa, pode indicar um período de maior endividamento ou necessidade de capital. A forma como a empresa gerenciará essa pressão e a eficácia dos investimentos serão cruciais para seu desempenho futuro. A notícia não detalha os motivos específicos para a pressão no caixa ou a natureza dos investimentos.",
     "is_stocks": true
   }
 ]
