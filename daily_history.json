@@ -885,5 +885,75 @@
     "origem": "domestica",
     "leitura_critica": "A análise do BB Investimentos sobre a CSN Mineração sugere um cenário desafiador para a empresa devido ao endividamento e à pressão na geração de caixa. Se a empresa não conseguir reverter essa situação, a distribuição de dividendos pode ser afetada; uma melhora nas condições de mercado ou na gestão da dívida poderia mudar essa perspectiva.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795476648.3032382,
+    "titulo": "Deputados aprovam urgência para projeto do ajuste fiscal por 318 votos a 135",
+    "titulo_original": "Deputados aprovam urgência para projeto do ajuste fiscal por 318 votos a 135",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 20:03",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação da urgência do projeto de ajuste fiscal indica um avanço no processo legislativo para a implementação de medidas fiscais. Se o mérito do texto for aprovado sem alterações significativas, o impacto fiscal será o previsto, com potencial de estabilização das contas públicas; caso haja mudanças substanciais, o alcance da economia projetada pode ser comprometido.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795476652.096297,
+    "titulo": "Compromisso de Motta é votar PLP do ajuste e eventuais destaques hoje, diz Guimarães",
+    "titulo_original": "Compromisso de Motta é votar PLP do ajuste e eventuais destaques hoje, diz Guimarães",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 17:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A confirmação do compromisso de votar o pacote fiscal e seus destaques hoje reforça a expectativa de uma decisão sobre o ajuste fiscal em curto prazo. Se a votação for concluída conforme o planejado, o mercado terá clareza sobre as novas regras fiscais; se houver adiamentos ou alterações significativas, a incerteza fiscal pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795476656.0132747,
+    "titulo": "Moretti intensifica articulação com Psol e PCdoB para diminuir resistência ao PLP do ajuste",
+    "titulo_original": "Moretti intensifica articulação com Psol e PCdoB para diminuir resistência ao PLP do ajuste",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 17:46",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A articulação política do ministro Moretti com partidos de esquerda visa obter apoio para o PLP do ajuste fiscal. Se essa articulação for bem-sucedida e reduzir a resistência, a aprovação do projeto pode ser facilitada, consolidando o cenário fiscal; caso contrário, a dificuldade em obter consenso pode atrasar ou modificar o escopo do ajuste.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795476660.0163977,
+    "titulo": "Área econômica sugeriu a Lula nomes ‘amigáveis ao mercado’ para o BC",
+    "titulo_original": "Área econômica sugeriu a Lula nomes ‘amigáveis ao mercado’ para o BC",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 19:05",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A sugestão de nomes 'amigáveis ao mercado' para o Banco Central pode indicar uma busca por maior alinhamento com as expectativas do mercado financeiro em relação à política monetária. Se os indicados forem aprovados e mantiverem uma postura previsível, isso pode reforçar a confiança na condução da política de juros; caso contrário, a incerteza sobre a direção futura pode aumentar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795476663.9356256,
+    "titulo": "Calendário econômico e de eventos na Ásia Terça-feira, 24 de novembro de 2026: Singapura e Japão",
+    "titulo_original": "Economic and event calendar in Asia Tuesday, November 24, 2026: Singapore and Japan",
+    "fonte": "ForexLive",
+    "publicado": "23/11 18:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "Os dados de PIB de Singapura podem indicar a força da demanda regional e o desempenho do setor manufatureiro asiático. Se os números vierem acima do esperado, isso pode reforçar a perspectiva de atividade econômica resiliente na Ásia; se vierem abaixo, pode gerar preocupações sobre a sustentabilidade desse momento.",
+    "is_stocks": false
   }
 ]
