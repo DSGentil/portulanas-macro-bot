@@ -434,5 +434,141 @@
     "origem": "domestica",
     "leitura_critica": "A redução da recomendação para a B3 para neutra pelo UBS BB sugere uma perspectiva cautelosa para o mercado de capitais. Se o cenário desafiador se concretizar, isso pode impactar negativamente o volume de negociações e a performance de ativos de renda variável.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795452342.182291,
+    "titulo": "Mercado eleva projeção do dólar para R$ 5,55 em 2026 - Agência Brasil",
+    "titulo_original": "Mercado eleva projeção do dólar para R$ 5,55 em 2026 - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/11 10:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A elevação da projeção do dólar indica uma percepção de maior volatilidade ou desvalorização futura da moeda brasileira. Se as preocupações fiscais domésticas se intensificarem ou o cenário externo se deteriorar, o dólar pode testar níveis ainda mais altos; se houver melhora na confiança com o ajuste fiscal, essa projeção pode ser revista para baixo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795452346.0096655,
+    "titulo": "Dólar supera R$ 6 com preocupação sobre cenário fiscal brasileiro - Panrotas",
+    "titulo_original": "Dólar supera R$ 6 com preocupação sobre cenário fiscal brasileiro - Panrotas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/11 12:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A superação da marca de R$ 6 pelo dólar reflete a apreensão do mercado com a trajetória fiscal do Brasil. Se o governo não apresentar medidas concretas para reequilibrar as contas públicas, a pressão sobre o câmbio pode aumentar; a aprovação de um arcabouço fiscal mais robusto poderia mitigar essa preocupação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795452349.7187955,
+    "titulo": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal - Estadão",
+    "titulo_original": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal - Estadão",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/11 10:04",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de um dólar a R$ 8 e uma fuga massiva de capital sinaliza um risco extremo de desequilíbrio macroeconômico sem um ajuste fiscal efetivo. Se o governo não conseguir implementar medidas de consolidação fiscal, o cenário de fuga de capitais e desvalorização cambial se tornará mais provável; a adoção de políticas fiscais responsáveis poderia reverter essa perspectiva.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795452353.5527086,
+    "titulo": "Análise: Galípolo sinaliza que juro é a principal resposta às pressões cambiais",
+    "titulo_original": "Análise: Galípolo sinaliza que juro é a principal resposta às pressões cambiais",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 12:45",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Galípolo reforça a prioridade da política monetária em controlar a inflação e o câmbio através da taxa de juros. Se as pressões cambiais persistirem, o BC pode ser forçado a manter os juros em patamares elevados por mais tempo; se a inflação ceder e o câmbio se estabilizar, pode haver espaço para cortes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795452358.7748036,
+    "titulo": "Dólar sobe até R$ 6 com ajuste fiscal no foco e pressão do exterior; Ibovespa cai",
+    "titulo_original": "Dólar sobe até R$ 6 com ajuste fiscal no foco e pressão do exterior; Ibovespa cai",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 13:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A combinação de incertezas fiscais domésticas e pressões externas elevou o dólar e derrubou o Ibovespa. Se o governo conseguir apresentar um plano de ajuste fiscal crível, isso pode estabilizar o câmbio e impulsionar a bolsa; caso contrário, a pressão sobre a moeda e o mercado acionário pode persistir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795452358.7758794,
+    "titulo": "Momento da economia não é o que gostaríamos, mas teremos situação melhor em 3 anos, diz Setubal",
+    "titulo_original": "Momento da economia não é o que gostaríamos, mas teremos situação melhor em 3 anos, diz Setubal",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 13:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de melhora em médio prazo, embora positiva, contrasta com as preocupações de curto prazo mencionadas. Se as reformas recentes começarem a mostrar efeitos mais palpáveis, a confiança do investidor pode aumentar; caso contrário, a persistência do alto custo de capital pode adiar essa recuperação esperada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795452358.7767744,
+    "titulo": "Abertura | Falas de Galípolo, Durigan e números da Petrobras devem guiar o ritmo do mercado - InvesTalk",
+    "titulo_original": "Abertura | Falas de Galípolo, Durigan e números da Petrobras devem guiar o ritmo do mercado - InvesTalk",
+    "fonte": "Google News Acoes",
+    "publicado": "23/11 09:37",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa em torno das falas de autoridades monetárias e fiscais, bem como dos resultados de grandes empresas, pode gerar volatilidade no mercado. Se as declarações de Galípolo e Durigan trouxerem clareza sobre a política econômica, o mercado pode reagir positivamente; caso contrário, a incerteza pode prevalecer.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795452358.7777555,
+    "titulo": "Crescimento da atividade empresarial nos EUA diminui ainda mais em novembro, mostra pesquisa",
+    "titulo_original": "Crescimento da atividade empresarial nos EUA diminui ainda mais em novembro, mostra pesquisa",
+    "fonte": "Folha Mercado",
+    "publicado": "23/11 12:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A desaceleração da atividade empresarial nos EUA, motivada por preços altos e restrições de capacidade, pode indicar uma moderação na demanda. Se essa tendência se consolidar, o Fed pode ter mais espaço para considerar cortes de juros no futuro; caso contrário, a persistência inflacionária pode manter a política monetária restritiva.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795452358.7786758,
+    "titulo": "Ibovespa abre em queda em meio ao Boletim Focus e a movimentações corporativas - TradeMap",
+    "titulo_original": "Ibovespa abre em queda em meio ao Boletim Focus e a movimentações corporativas - TradeMap",
+    "fonte": "Google News Acoes",
+    "publicado": "23/11 11:08",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa na abertura, ligada ao Boletim Focus e a eventos corporativos, sugere um dia de cautela no mercado acionário. Se o Boletim Focus apresentar projeções desfavoráveis para inflação ou juros, a queda pode se acentuar; se as movimentações corporativas forem positivas, pode haver alguma recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795452358.7796898,
+    "titulo": "Braskem fecha acordo com credores para capitalização de US$ 4,9 bilhões",
+    "titulo_original": "Braskem fecha acordo com credores para capitalização de US$ 4,9 bilhões",
+    "fonte": "Folha Mercado",
+    "publicado": "23/11 11:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O acordo de capitalização da Braskem com seus credores, incluindo um aporte da Petrobras, visa reestruturar a dívida da petroquímica. Se essa capitalização for bem-sucedida, pode trazer mais estabilidade financeira para a Braskem e reduzir riscos associados à empresa; a participação da Petrobras pode ter implicações em sua própria saúde financeira.",
+    "is_stocks": true
   }
 ]
