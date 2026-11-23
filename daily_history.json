@@ -129,5 +129,90 @@
     "origem": "domestica",
     "leitura_critica": "O plano de negócios da Petrobras, com expectativa de maiores investimentos e pressão no caixa, pode indicar um período de maior endividamento ou necessidade de capital. A forma como a empresa gerenciará essa pressão e a eficácia dos investimentos serão cruciais para seu desempenho futuro. A notícia não detalha os motivos específicos para a pressão no caixa ou a natureza dos investimentos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795433444.7381184,
+    "titulo": "Estrangeiros reforçam compras de dólar futuro e pressão sobre o real continua",
+    "titulo_original": "Estrangeiros reforçam compras de dólar futuro e pressão sobre o real continua - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/11 05:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O reforço na compra de dólar futuro por estrangeiros indica uma saída de capital do Brasil ou uma aposta na valorização da moeda americana frente ao real. Se essa tendência se mantiver, pode haver uma desvalorização mais acentuada do real, impactando a inflação e o custo de importados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795433448.717944,
+    "titulo": "Quais são os principais eventos para hoje?",
+    "titulo_original": "What are the main events for today?",
+    "fonte": "ForexLive",
+    "publicado": "23/11 04:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "juros"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "Dados de atividade econômica mais fracos que o esperado na Europa e nos EUA podem aumentar a pressão por cortes de juros por parte do Banco Central Europeu e do Federal Reserve. Se os PMIs vierem abaixo das expectativas, o mercado pode reavaliar as apostas de aperto monetário, o que tenderia a pressionar as moedas dessas regiões.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795433453.7051618,
+    "titulo": "Agenda do dia: Galípolo, relatório Focus e dirigente do Fed são destaques",
+    "titulo_original": "Agenda do dia: Galípolo, relatório Focus e dirigente do Fed são destaques",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 07:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "atividade_emprego"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "As falas de autoridades monetárias do Brasil e dos EUA, juntamente com a divulgação de dados de atividade e inflação, podem gerar volatilidade nos mercados. Se os comentários de Galípolo ou Williams indicarem um viés mais duro ou mais brando sobre juros, isso pode influenciar as expectativas do mercado. Dados de PMI abaixo do esperado podem reforçar a narrativa de desaceleração econômica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795433453.705971,
+    "titulo": "Braskem tem apenas um ponto pendente para fechar acordo com credores ainda hoje, dizem fontes",
+    "titulo_original": "Braskem tem apenas um ponto pendente para fechar acordo com credores ainda hoje, dizem fontes",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 07:52",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A resolução do impasse com credores pode trazer mais estabilidade para a Braskem, o que seria positivo para o setor petroquímico. Se o acordo for fechado, pode haver um alívio nas incertezas sobre a empresa, potencialmente impactando suas ações e a confiança dos investidores no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795433453.707057,
+    "titulo": "Day Trade hoje (23): Ibovespa pressiona suporte e dólar se aproxima dos 6 mil pontos",
+    "titulo_original": "Day Trade hoje (23): Ibovespa pressiona suporte e dólar se aproxima dos 6 mil pontos - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/11 07:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A pressão sobre o suporte do Ibovespa e a aproximação do dólar aos 6 mil pontos indicam um cenário de aversão ao risco no mercado brasileiro. Se o Ibovespa romper o suporte, pode haver uma queda mais acentuada, enquanto a valorização do dólar pode continuar a pressionar a inflação e o custo de dívidas em moeda estrangeira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795433453.7090378,
+    "titulo": "Ajuste fiscal mexe com bolsa enquanto semana é mais curta lá fora; Ibovespa em dólar salta nesta segunda-feira (23)",
+    "titulo_original": "Ajuste fiscal mexe com bolsa enquanto semana é mais curta lá fora; Ibovespa em dólar salta nesta segunda-feira (23)",
+    "fonte": "Money Times",
+    "publicado": "23/11 07:13",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A votação da proposta de ajuste fiscal na Câmara é um ponto crucial para o mercado, com desconfiança sobre o controle dos gastos públicos. Se a proposta for aprovada com modificações que aumentem a despesa, isso pode gerar pressão fiscal e afetar negativamente o Ibovespa. A alta do Ibovespa em dólar pode ser reflexo da volatilidade ou de outros fatores externos.",
+    "is_stocks": true
   }
 ]
