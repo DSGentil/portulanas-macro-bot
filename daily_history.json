@@ -214,5 +214,133 @@
     "origem": "domestica",
     "leitura_critica": "A votação da proposta de ajuste fiscal na Câmara é um ponto crucial para o mercado, com desconfiança sobre o controle dos gastos públicos. Se a proposta for aprovada com modificações que aumentem a despesa, isso pode gerar pressão fiscal e afetar negativamente o Ibovespa. A alta do Ibovespa em dólar pode ser reflexo da volatilidade ou de outros fatores externos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795439742.0780332,
+    "titulo": "BC cancela licença de fintech alvo de operação policial por suposta lavagem de R$ 1 bilhão para bets ilegais",
+    "titulo_original": "BC cancela licença de fintech alvo de operação policial por suposta lavagem de R$ 1 bilhão para bets ilegais",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 10:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Banco Central de cancelar a licença da fintech indica um endurecimento na fiscalização de atividades financeiras. Se a investigação policial confirmar as suspeitas de lavagem de dinheiro, isso pode levar a um escrutínio maior sobre outras fintechs que operam com modelos de negócio semelhantes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795439746.1628246,
+    "titulo": "Economistas sobem previsão da inflação e do dólar e diminuem a do PIB neste ano",
+    "titulo_original": "Economistas sobem previsão da inflação e do dólar e diminuem a do PIB neste ano",
+    "fonte": "Folha Mercado",
+    "publicado": "23/11 09:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "fluxo_capital",
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão das previsões de inflação, dólar e PIB indica um cenário de maior pressão inflacionária e desaceleração econômica, apesar do ajuste fiscal. Se a inflação continuar a surpreender para cima, o Banco Central pode manter uma postura mais restritiva nos juros, o que, por sua vez, pode impactar negativamente a atividade econômica e o câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795439750.0558634,
+    "titulo": "Soja e milho sobem com dólar valorizado, aponta Cepea",
+    "titulo_original": "Soja e milho sobem com dólar valorizado, aponta Cepea - Feed&Food",
+    "fonte": "Google News Commodities",
+    "publicado": "23/11 09:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "commodities"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta nos preços da soja e do milho, influenciada pela valorização do dólar, pode beneficiar produtores brasileiros e exportadores. Se o dólar continuar em trajetória de alta, os preços dessas commodities podem permanecer sustentados, impactando o custo de alimentos no mercado interno.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795439754.0638182,
+    "titulo": "Plantio da soja chega a 75% com clima desigual no país",
+    "titulo_original": "Plantio da soja chega a 75% com clima desigual no país - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "23/11 07:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "commodities"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O clima desigual pode afetar a produtividade da safra de soja, impactando a oferta futura e os preços. Se as condições climáticas não melhorarem nas próximas semanas, a safra pode ser menor do que o esperado, sustentando os preços da soja no mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795439759.0346215,
+    "titulo": "Goldman Sachs vê real atrativo e projeta dólar a R$ 5,25 em 12 meses",
+    "titulo_original": "Goldman Sachs vê real atrativo e projeta dólar a R$ 5,25 em 12 meses - ISTOÉ DINHEIRO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "23/11 09:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção do Goldman Sachs sugere uma visão positiva para o real, o que pode indicar um fluxo de capital estrangeiro para o Brasil. Se as condições macroeconômicas internas se mantiverem favoráveis e o cenário externo não apresentar choques significativos, essa projeção pode se concretizar, impactando o custo de importação e exportação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795439759.035331,
+    "titulo": "BBAS3, ITUB4, PETR4 e VALE3: ações podem cair mais ou reagir?",
+    "titulo_original": "BBAS3, ITUB4, PETR4 e VALE3: ações podem cair mais ou reagir? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "23/11 09:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "acoes_mercado"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A incerteza sobre o desempenho das principais ações brasileiras reflete a volatilidade do mercado. Se os resultados corporativos divulgados nas próximas semanas forem positivos e o cenário macroeconômico se estabilizar, essas ações podem apresentar recuperação; caso contrário, novas quedas são possíveis.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795439759.0360858,
+    "titulo": "Procurador da Califórnia processa OpenAI por risco à segurança pública",
+    "titulo_original": "Procurador da Califórnia processa OpenAI por risco à segurança pública",
+    "fonte": "Folha Mercado",
+    "publicado": "23/11 09:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O processo contra a OpenAI levanta questões sobre a regulamentação da inteligência artificial e a responsabilidade das empresas nesse setor. Se a ação for bem-sucedida, pode levar a novas regulamentações para o desenvolvimento e uso de IA, impactando o setor de tecnologia globalmente. A notícia é sobre uma decisão regulatória específica, não sobre política fiscal.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795439759.0368726,
+    "titulo": "GPA, Brava, Unifique, Simpar, Equatorial e mais ações para acompanhar nesta segunda",
+    "titulo_original": "GPA, Brava, Unifique, Simpar, Equatorial e mais ações para acompanhar nesta segunda - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "23/11 07:58",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "acoes_mercado"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A lista de ações para acompanhar indica um foco em empresas específicas do mercado brasileiro. O desempenho desses papéis dependerá de fatores corporativos e do cenário macroeconômico geral. Se houver notícias relevantes sobre os resultados ou estratégias dessas empresas, o mercado poderá reagir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795439759.0378795,
+    "titulo": "RD Saúde anuncia programa de recompra de até R$ 600 milhões em ações",
+    "titulo_original": "RD Saúde anuncia programa de recompra de até R$ 600 milhões em ações",
+    "fonte": "Folha Mercado",
+    "publicado": "23/11 09:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "acoes_mercado"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O programa de recompra de ações pela RD Saúde pode ser interpretado como um sinal de confiança da empresa em seu próprio valor de mercado. Se a empresa executar o programa conforme anunciado, isso pode sustentar o preço de suas ações no curto prazo.",
+    "is_stocks": true
   }
 ]
