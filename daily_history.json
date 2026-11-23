@@ -570,5 +570,75 @@
     "origem": "domestica",
     "leitura_critica": "O acordo de capitalização da Braskem com seus credores, incluindo um aporte da Petrobras, visa reestruturar a dívida da petroquímica. Se essa capitalização for bem-sucedida, pode trazer mais estabilidade financeira para a Braskem e reduzir riscos associados à empresa; a participação da Petrobras pode ter implicações em sua própria saúde financeira.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795458644.464036,
+    "titulo": "Governo piora projeções para alta do PIB em 2026 e 2027",
+    "titulo_original": "Governo piora projeções para alta do PIB em 2026 e 2027",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 15:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A piora nas projeções de crescimento do PIB para 2026 e 2027 indica um cenário econômico doméstico mais desafiador do que o previsto anteriormente. Se os setores de serviços e indústria continuarem a apresentar desempenho abaixo do esperado, isso pode pressionar o governo a rever políticas de estímulo ou a ajustar metas fiscais para tentar impulsionar a atividade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795458649.260195,
+    "titulo": "Nível e tempo de juros elevados importam para conter inflação, diz diretor do BC",
+    "titulo_original": "Nível e tempo de juros elevados importam para conter inflação, diz diretor do BC",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 13:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do diretor do BC reforça a visão de que a política monetária restritiva continuará sendo um fator determinante para o controle inflacionário. Se as expectativas de inflação permanecerem desancoradas, o Banco Central pode ser forçado a manter a taxa de juros em patamares elevados por mais tempo, o que impactaria o custo do crédito e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795458655.5047295,
+    "titulo": "Fazenda reduz projeção de crescimento para o ano e vê alta do dólar e inflação",
+    "titulo_original": "Fazenda reduz projeção de crescimento para o ano e vê alta do dólar e inflação",
+    "fonte": "Folha Mercado",
+    "publicado": "23/11 15:02",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A revisão para baixo do crescimento do PIB, acompanhada de projeções de alta para o dólar e a inflação, aponta para um cenário macroeconômico doméstico mais adverso. Se a inflação continuar a acelerar e o dólar se mantiver em patamares elevados, isso pode pressionar ainda mais o poder de compra e exigir medidas de política econômica mais contundentes.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795458661.944601,
+    "titulo": "Diretor do BC diz que ‘greed’ virou ‘fear’ após eleições e vê indícios de exagero do mercado",
+    "titulo_original": "Diretor do BC diz que ‘greed’ virou ‘fear’ após eleições e vê indícios de exagero do mercado",
+    "fonte": "Valor Economico",
+    "publicado": "23/11 13:36",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A percepção do diretor do BC sobre a mudança de 'greed' para 'fear' no mercado, ligada às expectativas fiscais pós-eleições, sugere que a volatilidade pode persistir. Se as incertezas fiscais não forem dissipadas com clareza, o mercado pode continuar a precificar um prêmio de risco maior, impactando o custo de capital e a atratividade de ativos brasileiros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795458670.5852437,
+    "titulo": "Temporal compromete lavouras de soja e estruturas agroindustriais no Rio Grande do Sul - O Presente Rural",
+    "titulo_original": "Temporal compromete lavouras de soja e estruturas agroindustriais no Rio Grande do Sul - O Presente Rural",
+    "fonte": "Google News Commodities",
+    "publicado": "23/11 15:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Eventos climáticos adversos que afetam a produção de commodities agrícolas como a soja podem ter impacto nos preços e na oferta. Se o temporal comprometer uma parcela significativa da safra, isso pode levar a uma alta nos preços da soja e afetar as exportações, com potenciais reflexos na balança comercial brasileira.",
+    "is_stocks": false
   }
 ]
