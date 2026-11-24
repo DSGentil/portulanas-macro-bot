@@ -1,97 +1,5 @@
 [
   {
-    "_timestamp": 1795446937.934545,
-    "titulo": "Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda",
-    "titulo_original": "Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda",
-    "fonte": "Folha Mercado",
-    "publicado": "23/11 08:31",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A votação do plano Moretti na Câmara dos Deputados é um passo crucial para a consolidação fiscal do país. Se o plano for aprovado com as medidas propostas, pode sinalizar um compromisso com a disciplina fiscal, o que tende a ser positivo para a percepção de risco do Brasil.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795446941.926131,
-    "titulo": "Valor do dólar hoje: câmbio e Bolsa reagem a medidas fiscais e cenário externo",
-    "titulo_original": "Valor do dólar hoje: câmbio e Bolsa reagem a medidas fiscais e cenário externo - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/11 07:46",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A reação do câmbio e da Bolsa a medidas fiscais e ao cenário externo demonstra a sensibilidade do mercado brasileiro a fatores domésticos e internacionais. Se as medidas fiscais forem percebidas como positivas, isso pode levar a uma valorização do real e a uma melhora no desempenho da bolsa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795446945.8289497,
-    "titulo": "Macron propõe retomar plano para incluir regras fiscais na Constituição da França",
-    "titulo_original": "Macron propõe retomar plano para incluir regras fiscais na Constituição da França",
-    "fonte": "Valor Economico",
-    "publicado": "23/11 10:34",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A proposta de Macron de incluir regras fiscais na Constituição francesa visa aumentar a credibilidade fiscal do país. Se aprovada, essa medida pode reduzir a percepção de risco fiscal e influenciar a volatilidade dos títulos públicos franceses, com potencial reflexo em outros mercados europeus.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795446951.472784,
-    "titulo": "Bolsas de NY disparam com recuperação em 'techs' e retorno de Huang à Nvidia",
-    "titulo_original": "Bolsas de NY disparam com recuperação em 'techs' e retorno de Huang à Nvidia",
-    "fonte": "Valor Economico",
-    "publicado": "23/11 11:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte alta das bolsas de Nova York, especialmente no setor de tecnologia, sugere um aumento do apetite a risco global. Se a recuperação em empresas de tecnologia se mantiver, isso pode indicar um fluxo de capital mais positivo para mercados de renda variável.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795446951.4735708,
-    "titulo": "Itaú BBA recomenda estratégia defensiva com exportadoras e ações de qualidade em cenário de juro alto",
-    "titulo_original": "Itaú BBA recomenda estratégia defensiva com exportadoras e ações de qualidade em cenário de juro alto",
-    "fonte": "Valor Economico",
-    "publicado": "23/11 11:38",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A recomendação de estratégia defensiva reflete a percepção de um ambiente de juros altos e volatilidade. Se o cenário de juros elevados se prolongar, a performance de exportadoras pode ser favorecida pela taxa de câmbio, enquanto ações de qualidade podem oferecer maior resiliência.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795446951.4743102,
-    "titulo": "Trump elogia decisão da Nvidia de reconduzir Jensen Huang ao cargo de CEO",
-    "titulo_original": "Trump elogia decisão da Nvidia de reconduzir Jensen Huang ao cargo de CEO",
-    "fonte": "Valor Economico",
-    "publicado": "23/11 11:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O endosso de Donald Trump à liderança de Jensen Huang na Nvidia pode ser interpretado como um sinal de apoio político a empresas de tecnologia estratégicas. Se essa percepção de apoio se confirmar em outras declarações, pode influenciar o sentimento do investidor em relação ao setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795446951.4751313,
-    "titulo": "UBS BB corta B3 para neutra com visão de cenário desafiador para mercado de capitais",
-    "titulo_original": "UBS BB corta B3 para neutra com visão de cenário desafiador para mercado de capitais - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "23/11 10:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A redução da recomendação para a B3 para neutra pelo UBS BB sugere uma perspectiva cautelosa para o mercado de capitais. Se o cenário desafiador se concretizar, isso pode impactar negativamente o volume de negociações e a performance de ativos de renda variável.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795452342.182291,
     "titulo": "Mercado eleva projeção do dólar para R$ 5,55 em 2026 - Agência Brasil",
     "titulo_original": "Mercado eleva projeção do dólar para R$ 5,55 em 2026 - Agência Brasil",
@@ -1277,6 +1185,132 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "O aumento do risco-país da Argentina reflete a percepção de maior risco em investir no país. Se a instabilidade política e econômica persistir, o custo de financiamento da Argentina pode aumentar; caso contrário, reformas estruturais e maior estabilidade podem reduzir esse risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795557646.7314823,
+    "titulo": "TCU questiona receitas estimadas pelo governo no último ajuste no Orçamento",
+    "titulo_original": "TCU questiona receitas estimadas pelo governo no último ajuste no Orçamento",
+    "fonte": "Folha Mercado",
+    "publicado": "24/11 18:18",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O questionamento do TCU sobre as receitas estimadas pelo governo pode gerar incertezas fiscais. Se o Tribunal de Contas mantiver suas ressalvas, isso pode levar a revisões nas projeções de arrecadação e impactar o cumprimento das metas fiscais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795557650.8081229,
+    "titulo": "Em nova Carta ao Povo Brasileiro, PT diz que ‘nenhum interesse econômico’ estará acima da ‘vontade popular’",
+    "titulo_original": "Em nova Carta ao Povo Brasileiro, PT diz que ‘nenhum interesse econômico’ estará acima da ‘vontade popular’",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 18:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do PT sugere uma priorização da agenda social sobre a econômica, o que pode gerar incertezas para o mercado financeiro. Se o governo mantiver essa postura, pode haver pressão por mais gastos públicos, contrariando a necessidade de ajuste fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795557654.851705,
+    "titulo": "Seis fatores para entender a alta do dólar - InvestNews",
+    "titulo_original": "Seis fatores para entender a alta do dólar - InvestNews",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/11 17:48",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "cambio"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar pode ser influenciada por diversos fatores, tanto internos quanto externos. Se esses fatores persistirem, a moeda americana pode continuar em patamar elevado, impactando custos de importação e a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795557658.914575,
+    "titulo": "Banco vê dólar a R$ 5,35 no fim de 2026 - Agrolink",
+    "titulo_original": "Banco vê dólar a R$ 5,35 no fim de 2026 - Agrolink",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/11 17:16",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "cambio"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de um banco para o dólar a R$ 5,35 no fim de 2026 sugere uma expectativa de desvalorização do real no médio prazo. Se essa projeção se concretizar, pode haver um impacto nos custos de importação e na competitividade das exportações brasileiras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795557664.438651,
+    "titulo": "Ibovespa fecha no vermelho após presidente da Petrobras não garantir dividendos extraordinários",
+    "titulo_original": "Ibovespa fecha no vermelho após presidente da Petrobras não garantir dividendos extraordinários",
+    "fonte": "Money Times",
+    "publicado": "24/11 18:27",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "acoes"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da presidente da Petrobras sobre dividendos extraordinários impactou negativamente o Ibovespa. Se a empresa mantiver uma política de menor distribuição de proventos, isso pode afetar o desempenho de suas ações e, consequentemente, do índice no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795557664.4410455,
+    "titulo": "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031 - Agência Brasil",
+    "titulo_original": "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031 - Agência Brasil",
+    "fonte": "Google News Acoes",
+    "publicado": "24/11 14:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "acoes"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O anúncio de investimentos robustos pela Petrobras pode sinalizar um ciclo de expansão e desenvolvimento para a empresa. Se esses investimentos forem bem executados, podem impulsionar o setor de energia e gerar valor para os acionistas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795557664.443041,
+    "titulo": "Se houver mudanças na política de preços dos combustíveis, será 'pontual e conjuntural', diz Petrobras",
+    "titulo_original": "Se houver mudanças na política de preços dos combustíveis, será 'pontual e conjuntural', diz Petrobras",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 18:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração da Petrobras sobre a política de preços dos combustíveis sugere que a empresa busca manter estabilidade, mas está atenta à volatilidade externa. Se houver pressões inflacionárias globais significativas, a companhia pode ser forçada a fazer ajustes, impactando os preços internos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795557664.4448285,
+    "titulo": "Petrobras buscará outras empresas de etanol de milho após compra de fatia na Neomille, diz agência",
+    "titulo_original": "Petrobras buscará outras empresas de etanol de milho após compra de fatia na Neomille, diz agência",
+    "fonte": "Folha Mercado",
+    "publicado": "24/11 18:40",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "acoes"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estratégia da Petrobras de investir em etanol de milho indica um movimento em direção a energias renováveis. Se a empresa concretizar novas aquisições, isso pode fortalecer seu portfólio de biocombustíveis e gerar novas oportunidades de negócio.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795557664.446624,
+    "titulo": "Ibovespa destoa de ativos domésticos e termina nas mínimas com tombo da Vale",
+    "titulo_original": "Ibovespa destoa de ativos domésticos e termina nas mínimas com tombo da Vale",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 18:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "acoes"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do Ibovespa, influenciada pela Vale e Petrobras, contrasta com a melhora de outros ativos domésticos. Se a performance das commodities continuar a pressionar as ações dessas empresas, o índice pode ter dificuldades em se recuperar no curto prazo.",
     "is_stocks": true
   }
 ]
