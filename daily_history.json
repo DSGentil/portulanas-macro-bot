@@ -955,5 +955,109 @@
     "origem": "externa",
     "leitura_critica": "Os dados de PIB de Singapura podem indicar a força da demanda regional e o desempenho do setor manufatureiro asiático. Se os números vierem acima do esperado, isso pode reforçar a perspectiva de atividade econômica resiliente na Ásia; se vierem abaixo, pode gerar preocupações sobre a sustentabilidade desse momento.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1795519850.735971,
+    "titulo": "Esquerda tem mais a oferecer ao governo do que briga com a Faria Lima",
+    "titulo_original": "Esquerda tem mais a oferecer ao governo do que briga com a Faria Lima",
+    "fonte": "Folha Mercado",
+    "publicado": "24/11 08:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O cenário projetado pela IFI aponta para uma deterioração significativa das contas públicas caso não haja mudança de rumo. Se o governo não implementar medidas fiscais eficazes, o país pode enfrentar um aumento expressivo da dívida, o que limitaria o espaço para investimentos e poderia pressionar a inflação e os juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795519854.8525956,
+    "titulo": "Lula e a escala 6x1 do dólar, a pizza de Moraes e Bolsonaro e os dois caminhos do PL",
+    "titulo_original": "Lula e a escala 6x1 do dólar, a pizza de Moraes e Bolsonaro e os dois caminhos do PL - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/11 03:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "Este título sugere uma análise política e econômica complexa, mas sem detalhamento específico sobre decisões concretas ou dados que afetem os canais macroeconômicos. A menção ao dólar pode indicar relevância para câmbio, mas a notícia em si não detalha o impacto ou a causa específica para os canais definidos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795519859.04244,
+    "titulo": "Black Friday deve ter recorde de vendas mesmo com consumidor pressionado por dívidas, projeta CNC",
+    "titulo_original": "Black Friday deve ter recorde de vendas mesmo com consumidor pressionado por dívidas, projeta CNC",
+    "fonte": "Folha Mercado",
+    "publicado": "24/11 04:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de recorde de vendas na Black Friday, apesar do cenário de juros altos e endividamento, sugere uma resiliência do consumo em datas promocionais. Se essa tendência se confirmar, pode indicar que o impacto dos juros na atividade econômica de curto prazo é menor do que o esperado, mas a sustentabilidade desse consumo em um cenário de juros elevados é um ponto de atenção.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795519863.2372303,
+    "titulo": "Casa própria com Selic a 13,75%: vale comprar agora ou esperar?",
+    "titulo_original": "Casa própria com Selic a 13,75%: vale comprar agora ou esperar? - Valor Investe",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/11 06:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A alta taxa de juros (Selic a 13,75%) encarece o crédito imobiliário, impactando a decisão de compra de imóveis. Se a expectativa for de queda futura na Selic, esperar pode ser vantajoso para obter melhores condições de financiamento. Caso contrário, a compra imediata pode ser justificada por outros fatores, como a valorização esperada do imóvel.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795519868.3173184,
+    "titulo": "Petrobras eleva investimentos a US$ 122 bi após alta do petróleo",
+    "titulo_original": "Petrobras eleva investimentos a US$ 122 bi após alta do petróleo - Bloomberg Línea Brasil",
+    "fonte": "Google News Acoes",
+    "publicado": "24/11 07:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento expressivo nos investimentos da Petrobras, influenciado pela alta do petróleo, pode ter implicações na atividade econômica e no setor de energia. Se a empresa mantiver essa estratégia de investimento, isso pode gerar demanda por bens e serviços, impactando o PIB e a geração de empregos no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795519868.3191047,
+    "titulo": "Agenda de empresas: Petrobras prevê investir US$ 122 bi em 5 anos; Braskem confirma acordo em recuperação",
+    "titulo_original": "Agenda de empresas: Petrobras prevê investir US$ 122 bi em 5 anos; Braskem confirma acordo em recuperação",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 08:15",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O plano de investimentos da Petrobras, com foco em expansão, pode impulsionar a atividade econômica e o setor de energia. O acordo da Braskem em recuperação judicial indica uma resolução para a empresa, o que pode trazer mais estabilidade ao setor petroquímico. A notícia também menciona dividendos extraordinários da Petrobras, o que pode impactar o fluxo de capital para acionistas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795519868.3344257,
+    "titulo": "Ajuste fiscal, plano da Petrobras e confiança do consumidor movimentam a terça-feira",
+    "titulo_original": "Ajuste fiscal, plano da Petrobras e confiança do consumidor movimentam a terça-feira - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "24/11 06:14",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A convergência de notícias sobre ajuste fiscal, o plano de investimentos da Petrobras e a confiança do consumidor indica um dia de atenção para os mercados. Se o ajuste fiscal for percebido como insuficiente, isso pode gerar volatilidade. O plano da Petrobras, por sua vez, pode impactar o setor de energia e a atividade econômica. A confiança do consumidor, se apresentar melhora, pode sinalizar um consumo mais robusto.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795519868.3361757,
+    "titulo": "ADRs da Petrobras (PETR4) recuam em Nova York após novo plano de investimentos; o que desagradou?",
+    "titulo_original": "ADRs da Petrobras (PETR4) recuam em Nova York após novo plano de investimentos; o que desagradou?",
+    "fonte": "Money Times",
+    "publicado": "24/11 08:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A reação negativa dos ADRs da Petrobras em Nova York sugere que o mercado internacional pode ter interpretado o novo plano de investimentos de forma desfavorável, possivelmente por questões de alocação de capital ou retorno esperado. Se essa percepção se mantiver, pode haver pressão sobre as ações da empresa no mercado doméstico.",
+    "is_stocks": true
   }
 ]
