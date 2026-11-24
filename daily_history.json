@@ -1152,5 +1152,127 @@
     "origem": "externa",
     "leitura_critica": "O desempenho positivo das bolsas asiáticas, impulsionado por notícias corporativas específicas da Nvidia, demonstra a influência de grandes empresas de tecnologia no sentimento do mercado global. Se o retorno de Huang gerar novas estratégias de crescimento para a Nvidia, isso pode ter um efeito positivo em outras empresas do setor de tecnologia. A notícia não conecta explicitamente com canais macroeconômicos brasileiros.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795533345.1776276,
+    "titulo": "Venezuela divulga quadro macroeconômico e estima dívida em US$ 237,5 bilhões",
+    "titulo_original": "Venezuela divulga quadro macroeconômico e estima dívida em US$ 237,5 bilhões",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 11:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divulgação do quadro macroeconômico e a estimativa de dívida representam um passo significativo para a Venezuela em busca de reestruturação. Se a economia realmente dobrar de tamanho como projetado, isso pode sinalizar uma recuperação substancial; caso contrário, a alta dívida pode se tornar um fardo insustentável.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795533349.801007,
+    "titulo": "O tempo fechou para 2027? Por que a economia pode ter o pior ano desde a pandemia",
+    "titulo_original": "O tempo fechou para 2027? Por que a economia pode ter o pior ano desde a pandemia",
+    "fonte": "InvestNews",
+    "publicado": "24/11 11:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de 2027 como o pior ano para a economia brasileira desde a pandemia, sem alívio em juros e dólar, sugere um cenário de estagnação ou contração. Se as projeções se confirmarem, isso pode levar a uma revisão significativa das expectativas de crescimento e investimento para o período.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795533356.2849197,
+    "titulo": "Após abrir em alta, dólar recua mais de 1% com aprovação de pacote fiscal - UOL Economia",
+    "titulo_original": "Após abrir em alta, dólar recua mais de 1% com aprovação de pacote fiscal - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/11 09:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação de um pacote fiscal impactando negativamente o dólar sugere que o mercado pode ter reagido positivamente às medidas. Se o pacote fiscal for implementado de forma eficaz e gerar confiança, isso pode sustentar a queda do dólar e beneficiar ativos domésticos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795533360.983698,
+    "titulo": "Arrecadação bate recorde com ajuda de imposto do petróleo e ganhos atípicos",
+    "titulo_original": "Arrecadação bate recorde com ajuda de imposto do petróleo e ganhos atípicos",
+    "fonte": "Money Times",
+    "publicado": "24/11 11:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O recorde na arrecadação federal em outubro, impulsionado pelo imposto do petróleo, sugere um desempenho fiscal positivo no curto prazo. Se esses ganhos atípicos e o imposto sobre petróleo se mantiverem, isso pode aliviar a pressão sobre as contas públicas; caso contrário, a sustentabilidade dessa alta pode ser questionada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795533366.679413,
+    "titulo": "Ativos americanos pioram com risco de novas tarifas comerciais de Trump contra dezenas de países",
+    "titulo_original": "Ativos americanos pioram com risco de novas tarifas comerciais de Trump contra dezenas de países",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 11:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O risco de novas tarifas comerciais impostas pelos EUA pode gerar volatilidade nos mercados globais e prejudicar ativos americanos. Se as tarifas forem efetivamente implementadas, isso pode levar a uma guerra comercial e impactar negativamente o crescimento econômico global; caso contrário, a reação do mercado pode ser limitada.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795533366.6817186,
+    "titulo": "Arrecadação com IRRF sobre dividendos soma R$ 6,360 bilhões de janeiro a outubro",
+    "titulo_original": "Arrecadação com IRRF sobre dividendos soma R$ 6,360 bilhões de janeiro a outubro",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 11:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A arrecadação com IRRF sobre dividendos, inferior à projeção, indica uma possível queda na distribuição de lucros ou no volume de transações. Se essa tendência se mantiver, pode haver um impacto nas receitas fiscais do governo; caso contrário, pode ser um reflexo de flutuações pontuais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795533366.6835957,
+    "titulo": "Notícias europeias: futuros dos EUA devolvem ganhos liderados pela Nvidia",
+    "titulo_original": "investingLive European news wrap: US futures give back Nvidia-led gains",
+    "fonte": "ForexLive",
+    "publicado": "24/11 10:26",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A devolutiva dos ganhos nos futuros dos EUA, após a influência da Nvidia, sugere que o otimismo pode ser temporário. Se o Fed mantiver um tom mais duro, como indicado, isso pode continuar a pressionar os mercados acionários globais, limitando a recuperação.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795533366.6854856,
+    "titulo": "Ibovespa deve ter desempenho positivo em 2027 mas com retornos seletivos, segundo estrategistas",
+    "titulo_original": "Ibovespa deve ter desempenho positivo em 2027 mas com retornos seletivos, segundo estrategistas",
+    "fonte": "Money Times",
+    "publicado": "24/11 11:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A perspectiva de um Ibovespa positivo em 2027, mas com retornos seletivos, indica que o mercado pode estar precificando um cenário de recuperação gradual. Se a situação fiscal do governo se deteriorar, isso pode limitar o potencial de alta do índice, mesmo com empresas fortes.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795533366.6873004,
+    "titulo": "Wall Street abre no vermelho com pressão da Nvidia",
+    "titulo_original": "Wall Street abre no vermelho com pressão da Nvidia",
+    "fonte": "Money Times",
+    "publicado": "24/11 11:56",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A abertura em queda de Wall Street, influenciada pela Nvidia, sugere que o desempenho da empresa pode ter um impacto significativo no sentimento do mercado. Se a pressão sobre a Nvidia persistir, isso pode afetar outros setores de tecnologia e a tendência geral do mercado; caso contrário, pode ser uma correção pontual.",
+    "is_stocks": true
   }
 ]
