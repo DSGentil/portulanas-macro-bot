@@ -1,141 +1,5 @@
 [
   {
-    "_timestamp": 1795452342.182291,
-    "titulo": "Mercado eleva projeção do dólar para R$ 5,55 em 2026 - Agência Brasil",
-    "titulo_original": "Mercado eleva projeção do dólar para R$ 5,55 em 2026 - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/11 10:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A elevação da projeção do dólar indica uma percepção de maior volatilidade ou desvalorização futura da moeda brasileira. Se as preocupações fiscais domésticas se intensificarem ou o cenário externo se deteriorar, o dólar pode testar níveis ainda mais altos; se houver melhora na confiança com o ajuste fiscal, essa projeção pode ser revista para baixo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795452346.0096655,
-    "titulo": "Dólar supera R$ 6 com preocupação sobre cenário fiscal brasileiro - Panrotas",
-    "titulo_original": "Dólar supera R$ 6 com preocupação sobre cenário fiscal brasileiro - Panrotas",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/11 12:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A superação da marca de R$ 6 pelo dólar reflete a apreensão do mercado com a trajetória fiscal do Brasil. Se o governo não apresentar medidas concretas para reequilibrar as contas públicas, a pressão sobre o câmbio pode aumentar; a aprovação de um arcabouço fiscal mais robusto poderia mitigar essa preocupação.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795452349.7187955,
-    "titulo": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal - Estadão",
-    "titulo_original": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal - Estadão",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/11 10:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de um dólar a R$ 8 e uma fuga massiva de capital sinaliza um risco extremo de desequilíbrio macroeconômico sem um ajuste fiscal efetivo. Se o governo não conseguir implementar medidas de consolidação fiscal, o cenário de fuga de capitais e desvalorização cambial se tornará mais provável; a adoção de políticas fiscais responsáveis poderia reverter essa perspectiva.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795452353.5527086,
-    "titulo": "Análise: Galípolo sinaliza que juro é a principal resposta às pressões cambiais",
-    "titulo_original": "Análise: Galípolo sinaliza que juro é a principal resposta às pressões cambiais",
-    "fonte": "Valor Economico",
-    "publicado": "23/11 12:45",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Galípolo reforça a prioridade da política monetária em controlar a inflação e o câmbio através da taxa de juros. Se as pressões cambiais persistirem, o BC pode ser forçado a manter os juros em patamares elevados por mais tempo; se a inflação ceder e o câmbio se estabilizar, pode haver espaço para cortes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795452358.7748036,
-    "titulo": "Dólar sobe até R$ 6 com ajuste fiscal no foco e pressão do exterior; Ibovespa cai",
-    "titulo_original": "Dólar sobe até R$ 6 com ajuste fiscal no foco e pressão do exterior; Ibovespa cai",
-    "fonte": "Valor Economico",
-    "publicado": "23/11 13:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A combinação de incertezas fiscais domésticas e pressões externas elevou o dólar e derrubou o Ibovespa. Se o governo conseguir apresentar um plano de ajuste fiscal crível, isso pode estabilizar o câmbio e impulsionar a bolsa; caso contrário, a pressão sobre a moeda e o mercado acionário pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795452358.7758794,
-    "titulo": "Momento da economia não é o que gostaríamos, mas teremos situação melhor em 3 anos, diz Setubal",
-    "titulo_original": "Momento da economia não é o que gostaríamos, mas teremos situação melhor em 3 anos, diz Setubal",
-    "fonte": "Valor Economico",
-    "publicado": "23/11 13:28",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de melhora em médio prazo, embora positiva, contrasta com as preocupações de curto prazo mencionadas. Se as reformas recentes começarem a mostrar efeitos mais palpáveis, a confiança do investidor pode aumentar; caso contrário, a persistência do alto custo de capital pode adiar essa recuperação esperada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795452358.7767744,
-    "titulo": "Abertura | Falas de Galípolo, Durigan e números da Petrobras devem guiar o ritmo do mercado - InvesTalk",
-    "titulo_original": "Abertura | Falas de Galípolo, Durigan e números da Petrobras devem guiar o ritmo do mercado - InvesTalk",
-    "fonte": "Google News Acoes",
-    "publicado": "23/11 09:37",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A expectativa em torno das falas de autoridades monetárias e fiscais, bem como dos resultados de grandes empresas, pode gerar volatilidade no mercado. Se as declarações de Galípolo e Durigan trouxerem clareza sobre a política econômica, o mercado pode reagir positivamente; caso contrário, a incerteza pode prevalecer.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795452358.7777555,
-    "titulo": "Crescimento da atividade empresarial nos EUA diminui ainda mais em novembro, mostra pesquisa",
-    "titulo_original": "Crescimento da atividade empresarial nos EUA diminui ainda mais em novembro, mostra pesquisa",
-    "fonte": "Folha Mercado",
-    "publicado": "23/11 12:47",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A desaceleração da atividade empresarial nos EUA, motivada por preços altos e restrições de capacidade, pode indicar uma moderação na demanda. Se essa tendência se consolidar, o Fed pode ter mais espaço para considerar cortes de juros no futuro; caso contrário, a persistência inflacionária pode manter a política monetária restritiva.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795452358.7786758,
-    "titulo": "Ibovespa abre em queda em meio ao Boletim Focus e a movimentações corporativas - TradeMap",
-    "titulo_original": "Ibovespa abre em queda em meio ao Boletim Focus e a movimentações corporativas - TradeMap",
-    "fonte": "Google News Acoes",
-    "publicado": "23/11 11:08",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda do Ibovespa na abertura, ligada ao Boletim Focus e a eventos corporativos, sugere um dia de cautela no mercado acionário. Se o Boletim Focus apresentar projeções desfavoráveis para inflação ou juros, a queda pode se acentuar; se as movimentações corporativas forem positivas, pode haver alguma recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795452358.7796898,
-    "titulo": "Braskem fecha acordo com credores para capitalização de US$ 4,9 bilhões",
-    "titulo_original": "Braskem fecha acordo com credores para capitalização de US$ 4,9 bilhões",
-    "fonte": "Folha Mercado",
-    "publicado": "23/11 11:53",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O acordo de capitalização da Braskem com seus credores, incluindo um aporte da Petrobras, visa reestruturar a dívida da petroquímica. Se essa capitalização for bem-sucedida, pode trazer mais estabilidade financeira para a Braskem e reduzir riscos associados à empresa; a participação da Petrobras pode ter implicações em sua própria saúde financeira.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795458644.464036,
     "titulo": "Governo piora projeções para alta do PIB em 2026 e 2027",
     "titulo_original": "Governo piora projeções para alta do PIB em 2026 e 2027",
@@ -1311,6 +1175,151 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A queda do Ibovespa, influenciada pela Vale e Petrobras, contrasta com a melhora de outros ativos domésticos. Se a performance das commodities continuar a pressionar as ações dessas empresas, o índice pode ter dificuldades em se recuperar no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795563054.3003333,
+    "titulo": "Juros futuros têm queda firme com mercado monitorando novo pacote fiscal",
+    "titulo_original": "Juros futuros têm queda firme com mercado monitorando novo pacote fiscal",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 17:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda firme nos juros futuros sugere que o mercado precifica um cenário de maior controle fiscal, o que é positivo para a percepção de risco do país. Se o governo de fato apresentar um novo pacote fiscal eficaz, isso pode reforçar a tendência de queda dos juros e atrair mais capital estrangeiro; caso contrário, a desconfiança pode retornar e pressionar as taxas para cima.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795563057.9770708,
+    "titulo": "Reunião do BC pode levar empresas a rever operações com stablecoins, diz advogado",
+    "titulo_original": "Reunião do BC pode levar empresas a rever operações com stablecoins, diz advogado",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 18:57",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reunião do Banco Central com o setor de criptoativos, mesmo sem novas restrições, pode levar empresas a reavaliar suas operações com stablecoins para garantir conformidade com as interpretações do órgão. Se o BC endurecer a fiscalização sobre operações de câmbio que utilizam stablecoins, isso pode impactar o fluxo de capital internacional e a adoção dessas moedas digitais no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795563061.638945,
+    "titulo": "Alcolumbre diz que Senado pode votar novo ajuste fiscal neste ano se houver apoio",
+    "titulo_original": "Alcolumbre diz que Senado pode votar novo ajuste fiscal neste ano se houver apoio",
+    "fonte": "Folha Mercado",
+    "publicado": "24/11 18:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração de Alcolumbre abre a porta para a discussão de um novo ajuste fiscal ainda em 2026, o que pode ser um sinal positivo para a consolidação fiscal do país. Se o Senado avançar com a votação, isso pode trazer mais clareza sobre as futuras políticas fiscais e seu impacto na economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795563065.313727,
+    "titulo": "Produção de soja em Tupanciretã teve perda de 95% após tempestade, aponta levantamento - G1",
+    "titulo_original": "Produção de soja em Tupanciretã teve perda de 95% após tempestade, aponta levantamento - G1",
+    "fonte": "Google News Commodities",
+    "publicado": "24/11 17:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A perda massiva na produção de soja em Tupanciretã devido a uma tempestade ressalta a vulnerabilidade do agronegócio a eventos climáticos extremos. Se eventos como este se tornarem mais frequentes, isso pode impactar a oferta de commodities agrícolas e os preços no mercado interno e externo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795563071.0956457,
+    "titulo": "Justiça mantém proteção da Braskem, mas ainda analisa pedido de prazo adicional para recuperação extrajudicial",
+    "titulo_original": "Justiça mantém proteção da Braskem, mas ainda analisa pedido de prazo adicional para recuperação extrajudicial",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 20:11",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão judicial de manter a proteção da Braskem oferece um fôlego temporário para a empresa reestruturar suas dívidas. Se o pedido de prazo adicional for concedido, isso pode indicar que os credores estão mais alinhados com o plano, mas a finalização e aprovação do acordo ainda são cruciais para a estabilidade da companhia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795563071.0971851,
+    "titulo": "Financiamento de veículos soma 671 mil unidades em outubro, queda de 3,8%, aponta B3",
+    "titulo_original": "Financiamento de veículos soma 671 mil unidades em outubro, queda de 3,8%, aponta B3",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 19:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade mensal no financiamento de veículos pode indicar uma resiliência do mercado automotivo brasileiro, apesar da queda anual. Se a tendência de recuo se mantiver nos próximos meses, isso pode sinalizar uma desaceleração na atividade econômica, impactando a produção e o emprego no setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795563071.0986717,
+    "titulo": "Dell lucra US$ 5,67 bilhões no 3º trimestre fiscal de 2027, alta de 266% na base anual",
+    "titulo_original": "Dell lucra US$ 5,67 bilhões no 3º trimestre fiscal de 2027, alta de 266% na base anual",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 19:01",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O expressivo aumento no lucro e receita da Dell sugere uma forte demanda por seus produtos e serviços, especialmente em um cenário de crescimento tecnológico. Se essa performance se mantiver, pode indicar um bom momento para o setor de tecnologia, com potencial reflexo em outras empresas do ramo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795563071.100074,
+    "titulo": "Nasdaq tem forte queda com perdas em ‘techs’ puxadas por Nvidia e Anthropic",
+    "titulo_original": "Nasdaq tem forte queda com perdas em ‘techs’ puxadas por Nvidia e Anthropic",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 18:29",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda acentuada no Nasdaq, impulsionada por gigantes de tecnologia, pode indicar uma correção de mercado após fortes altas recentes ou um reflexo das preocupações com tarifas e o cenário macroeconômico. Se as tarifas forem implementadas, isso pode afetar cadeias de suprimentos globais e a rentabilidade de empresas de tecnologia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795563071.1014078,
+    "titulo": "ForexLive Américas FX news wrap 24 Nov: É um Wrap. Ações de chips caem. Anthropic quebra preço de IPO. USD mais baixo.",
+    "titulo_original": "investingLive Americas FX news wrap 24 Nov: It’s a Wrap. Chip stocks slide. Anthropic breaks IPO price. USD lower.",
+    "fonte": "ForexLive",
+    "publicado": "24/11 18:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda nas ações de chips e a performance da Anthropic podem indicar um reajuste no setor de tecnologia, influenciado por fatores como tarifas e expectativas de IPO. A desvalorização do dólar e a resistência do ouro em sua média móvel podem sugerir um movimento de aversão ao risco ou uma busca por ativos mais seguros no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795563071.102717,
+    "titulo": "BC anuncia leilões de linha de até US$ 2 bi para esta quarta-feira (25)",
+    "titulo_original": "BC anuncia leilões de linha de até US$ 2 bi para esta quarta-feira (25)",
+    "fonte": "Folha Mercado",
+    "publicado": "24/11 19:34",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A realização de leilões de venda de dólares pelo Banco Central indica uma ação para gerenciar a liquidez cambial e potencialmente conter a volatilidade da moeda. Se esses leilões forem bem-sucedidos em estabilizar o câmbio, isso pode trazer mais previsibilidade para agentes econômicos que operam com moeda estrangeira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795563071.1040885,
+    "titulo": "Ações da Braskem desabam 14% após acordo com credores",
+    "titulo_original": "Ações da Braskem desabam 14% após acordo com credores",
+    "fonte": "Folha Mercado",
+    "publicado": "24/11 18:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte queda nas ações da Braskem, apesar do acordo com credores, sugere que o mercado pode ter precificado um cenário mais favorável ou que os termos do acordo geraram preocupações. A volatilidade nas ações da empresa reflete a incerteza em torno da sua recuperação financeira e da sua estrutura de capital futura.",
     "is_stocks": true
   }
 ]
