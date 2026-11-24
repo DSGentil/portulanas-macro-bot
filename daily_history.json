@@ -1,133 +1,5 @@
 [
   {
-    "_timestamp": 1795439742.0780332,
-    "titulo": "BC cancela licença de fintech alvo de operação policial por suposta lavagem de R$ 1 bilhão para bets ilegais",
-    "titulo_original": "BC cancela licença de fintech alvo de operação policial por suposta lavagem de R$ 1 bilhão para bets ilegais",
-    "fonte": "Valor Economico",
-    "publicado": "23/11 10:02",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A decisão do Banco Central de cancelar a licença da fintech indica um endurecimento na fiscalização de atividades financeiras. Se a investigação policial confirmar as suspeitas de lavagem de dinheiro, isso pode levar a um escrutínio maior sobre outras fintechs que operam com modelos de negócio semelhantes.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795439746.1628246,
-    "titulo": "Economistas sobem previsão da inflação e do dólar e diminuem a do PIB neste ano",
-    "titulo_original": "Economistas sobem previsão da inflação e do dólar e diminuem a do PIB neste ano",
-    "fonte": "Folha Mercado",
-    "publicado": "23/11 09:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "fluxo_capital",
-      "atividade_emprego"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A revisão das previsões de inflação, dólar e PIB indica um cenário de maior pressão inflacionária e desaceleração econômica, apesar do ajuste fiscal. Se a inflação continuar a surpreender para cima, o Banco Central pode manter uma postura mais restritiva nos juros, o que, por sua vez, pode impactar negativamente a atividade econômica e o câmbio.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795439750.0558634,
-    "titulo": "Soja e milho sobem com dólar valorizado, aponta Cepea",
-    "titulo_original": "Soja e milho sobem com dólar valorizado, aponta Cepea - Feed&Food",
-    "fonte": "Google News Commodities",
-    "publicado": "23/11 09:34",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "commodities"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta nos preços da soja e do milho, influenciada pela valorização do dólar, pode beneficiar produtores brasileiros e exportadores. Se o dólar continuar em trajetória de alta, os preços dessas commodities podem permanecer sustentados, impactando o custo de alimentos no mercado interno.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795439754.0638182,
-    "titulo": "Plantio da soja chega a 75% com clima desigual no país",
-    "titulo_original": "Plantio da soja chega a 75% com clima desigual no país - Agrolink",
-    "fonte": "Google News Commodities",
-    "publicado": "23/11 07:14",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "commodities"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O clima desigual pode afetar a produtividade da safra de soja, impactando a oferta futura e os preços. Se as condições climáticas não melhorarem nas próximas semanas, a safra pode ser menor do que o esperado, sustentando os preços da soja no mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795439759.0346215,
-    "titulo": "Goldman Sachs vê real atrativo e projeta dólar a R$ 5,25 em 12 meses",
-    "titulo_original": "Goldman Sachs vê real atrativo e projeta dólar a R$ 5,25 em 12 meses - ISTOÉ DINHEIRO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "23/11 09:13",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção do Goldman Sachs sugere uma visão positiva para o real, o que pode indicar um fluxo de capital estrangeiro para o Brasil. Se as condições macroeconômicas internas se mantiverem favoráveis e o cenário externo não apresentar choques significativos, essa projeção pode se concretizar, impactando o custo de importação e exportação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795439759.035331,
-    "titulo": "BBAS3, ITUB4, PETR4 e VALE3: ações podem cair mais ou reagir?",
-    "titulo_original": "BBAS3, ITUB4, PETR4 e VALE3: ações podem cair mais ou reagir? - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "23/11 09:29",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "acoes_mercado"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A incerteza sobre o desempenho das principais ações brasileiras reflete a volatilidade do mercado. Se os resultados corporativos divulgados nas próximas semanas forem positivos e o cenário macroeconômico se estabilizar, essas ações podem apresentar recuperação; caso contrário, novas quedas são possíveis.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795439759.0360858,
-    "titulo": "Procurador da Califórnia processa OpenAI por risco à segurança pública",
-    "titulo_original": "Procurador da Califórnia processa OpenAI por risco à segurança pública",
-    "fonte": "Folha Mercado",
-    "publicado": "23/11 09:36",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O processo contra a OpenAI levanta questões sobre a regulamentação da inteligência artificial e a responsabilidade das empresas nesse setor. Se a ação for bem-sucedida, pode levar a novas regulamentações para o desenvolvimento e uso de IA, impactando o setor de tecnologia globalmente. A notícia é sobre uma decisão regulatória específica, não sobre política fiscal.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795439759.0368726,
-    "titulo": "GPA, Brava, Unifique, Simpar, Equatorial e mais ações para acompanhar nesta segunda",
-    "titulo_original": "GPA, Brava, Unifique, Simpar, Equatorial e mais ações para acompanhar nesta segunda - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "23/11 07:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "acoes_mercado"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A lista de ações para acompanhar indica um foco em empresas específicas do mercado brasileiro. O desempenho desses papéis dependerá de fatores corporativos e do cenário macroeconômico geral. Se houver notícias relevantes sobre os resultados ou estratégias dessas empresas, o mercado poderá reagir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795439759.0378795,
-    "titulo": "RD Saúde anuncia programa de recompra de até R$ 600 milhões em ações",
-    "titulo_original": "RD Saúde anuncia programa de recompra de até R$ 600 milhões em ações",
-    "fonte": "Folha Mercado",
-    "publicado": "23/11 09:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "acoes_mercado"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O programa de recompra de ações pela RD Saúde pode ser interpretado como um sinal de confiança da empresa em seu próprio valor de mercado. Se a empresa executar o programa conforme anunciado, isso pode sustentar o preço de suas ações no curto prazo.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795446937.934545,
     "titulo": "Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda",
     "titulo_original": "Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda",
@@ -1283,6 +1155,128 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "A queda das bolsas europeias, influenciada pelo setor de tecnologia e pela alta do petróleo, reflete um cenário de aversão ao risco e possíveis tensões comerciais. Se as tarifas americanas forem confirmadas, isso pode impactar o fluxo de capital e a atividade econômica global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795552252.4686344,
+    "titulo": "Novas regras do BC devem desacelerar queda da concentração bancária, projeta A&S Partners",
+    "titulo_original": "Novas regras do BC devem desacelerar queda da concentração bancária, projeta A&S Partners",
+    "fonte": "Valor Economico",
+    "publicado": "24/11 16:56",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As novas regras do Banco Central podem alterar a dinâmica de concentração bancária no Brasil. Se as exigências regulatórias forem mais rigorosas, a entrada de novos players pode ser dificultada, mantendo a concentração; caso contrário, uma flexibilização poderia acelerar a competição no setor financeiro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795552257.9867787,
+    "titulo": "Selic em cumprimento de sentença: O alcance do Tema 1.368 e os limites da coisa julgada - Migalhas",
+    "titulo_original": "Selic em cumprimento de sentença: O alcance do Tema 1.368 e os limites da coisa julgada - Migalhas",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "24/11 14:55",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia discute a aplicação da taxa Selic em contextos jurídicos específicos. Se a interpretação do Tema 1.368 levar a um aumento na demanda por liquidação de sentenças, isso poderia ter um impacto marginal na demanda por crédito; contudo, o impacto macroeconômico direto é limitado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795552263.1987102,
+    "titulo": "O Tesouro dos EUA vende US$ 70 bilhões em notas de 5 anos com rendimento de 4,719%",
+    "titulo_original": "The US treasury sells $70 billion of 5 year notes at a high yield of 4.719%",
+    "fonte": "ForexLive",
+    "publicado": "24/11 15:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A venda de títulos do Tesouro dos EUA com rendimento de 4,719% indica a demanda por ativos de renda fixa no mercado americano. Se a demanda por títulos de longo prazo se mantiver forte, isso pode sinalizar expectativas de juros mais estáveis ou em queda no futuro; caso contrário, pode indicar receio com a inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795552268.5169992,
+    "titulo": "Ouro fecha em queda com perspectiva de alta dos juros nos EUA - Money Times",
+    "titulo_original": "Ouro fecha em queda com perspectiva de alta dos juros nos EUA - Money Times",
+    "fonte": "Google News Commodities",
+    "publicado": "24/11 16:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A queda do ouro em antecipação a uma alta de juros nos EUA é um movimento clássico de mercado, pois juros mais altos tornam ativos de renda fixa mais atrativos em comparação com o ouro. Se os juros realmente subirem, o ouro pode continuar em tendência de baixa; se a expectativa de alta for frustrada, o ouro pode se recuperar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795552274.8021855,
+    "titulo": "Ações europeias caem com Trump voltando às tarifas. Itália lidera as quedas.",
+    "titulo_original": "European stocks fall as Trump turns back to tariffs. Italy leads the declines.",
+    "fonte": "ForexLive",
+    "publicado": "24/11 14:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A imposição de novas tarifas por Trump pode gerar um aumento nos custos de importação e, consequentemente, pressionar a inflação. Se as tarifas forem amplas e mantidas, isso pode levar a um cenário de inflação mais persistente; caso contrário, uma negociação comercial favorável poderia mitigar esse risco.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795552274.8039372,
+    "titulo": "Mercados de ações caem com Trump mudando de interferência corporativa para novas tarifas",
+    "titulo_original": "Stock markets fall as Trump pivots from corporate meddling to fresh tariffs",
+    "fonte": "ForexLive",
+    "publicado": "24/11 13:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A imposição de novas tarifas por Trump pode gerar incerteza no comércio global e afetar cadeias de suprimentos. Se as tarifas forem implementadas de forma ampla, isso pode levar a uma desaceleração do crescimento econômico global; caso contrário, uma negociação diplomática pode amenizar os impactos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795552274.8056183,
+    "titulo": "XP (XPBR31) e B3 (B3SA3) podem ter um 2027 mais difícil: Safra rebaixa ações e corta preço-alvo; confira",
+    "titulo_original": "XP (XPBR31) e B3 (B3SA3) podem ter um 2027 mais difícil: Safra rebaixa ações e corta preço-alvo; confira",
+    "fonte": "Money Times",
+    "publicado": "24/11 16:17",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O rebaixamento das ações da XP e B3 pelo Safra sugere um cenário de menor atividade no mercado de capitais. Se as projeções de juros mais altos e desaceleração econômica se confirmarem, o volume de negociações pode ser afetado; caso contrário, uma melhora nas condições macroeconômicas poderia reverter essa perspectiva.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795552274.8072722,
+    "titulo": "Confiança do consumidor nos Estados Unidos atinge nível mais alto em quase dois anos",
+    "titulo_original": "Confiança do consumidor nos Estados Unidos atinge nível mais alto em quase dois anos",
+    "fonte": "Folha Mercado",
+    "publicado": "24/11 16:18",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O aumento da confiança do consumidor nos EUA pode sinalizar uma demanda mais forte e um crescimento econômico sustentado. Se essa confiança se mantiver, o consumo tende a crescer, impulsionando a atividade econômica; caso contrário, uma reversão nesse sentimento pode indicar uma desaceleração futura.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795552274.8088963,
+    "titulo": "Risco-país da Argentina supera 1.100 pontos com pressão externa",
+    "titulo_original": "Risco-país da Argentina supera 1.100 pontos com pressão externa",
+    "fonte": "Folha Mercado",
+    "publicado": "24/11 15:38",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O aumento do risco-país da Argentina reflete a percepção de maior risco em investir no país. Se a instabilidade política e econômica persistir, o custo de financiamento da Argentina pode aumentar; caso contrário, reformas estruturais e maior estabilidade podem reduzir esse risco.",
     "is_stocks": true
   }
 ]
