@@ -1,127 +1,5 @@
 [
   {
-    "_timestamp": 1795533345.1776276,
-    "titulo": "Venezuela divulga quadro macroeconômico e estima dívida em US$ 237,5 bilhões",
-    "titulo_original": "Venezuela divulga quadro macroeconômico e estima dívida em US$ 237,5 bilhões",
-    "fonte": "Valor Economico",
-    "publicado": "24/11 11:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divulgação do quadro macroeconômico e a estimativa de dívida representam um passo significativo para a Venezuela em busca de reestruturação. Se a economia realmente dobrar de tamanho como projetado, isso pode sinalizar uma recuperação substancial; caso contrário, a alta dívida pode se tornar um fardo insustentável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795533349.801007,
-    "titulo": "O tempo fechou para 2027? Por que a economia pode ter o pior ano desde a pandemia",
-    "titulo_original": "O tempo fechou para 2027? Por que a economia pode ter o pior ano desde a pandemia",
-    "fonte": "InvestNews",
-    "publicado": "24/11 11:44",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de 2027 como o pior ano para a economia brasileira desde a pandemia, sem alívio em juros e dólar, sugere um cenário de estagnação ou contração. Se as projeções se confirmarem, isso pode levar a uma revisão significativa das expectativas de crescimento e investimento para o período.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795533356.2849197,
-    "titulo": "Após abrir em alta, dólar recua mais de 1% com aprovação de pacote fiscal - UOL Economia",
-    "titulo_original": "Após abrir em alta, dólar recua mais de 1% com aprovação de pacote fiscal - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/11 09:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação de um pacote fiscal impactando negativamente o dólar sugere que o mercado pode ter reagido positivamente às medidas. Se o pacote fiscal for implementado de forma eficaz e gerar confiança, isso pode sustentar a queda do dólar e beneficiar ativos domésticos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795533360.983698,
-    "titulo": "Arrecadação bate recorde com ajuda de imposto do petróleo e ganhos atípicos",
-    "titulo_original": "Arrecadação bate recorde com ajuda de imposto do petróleo e ganhos atípicos",
-    "fonte": "Money Times",
-    "publicado": "24/11 11:56",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O recorde na arrecadação federal em outubro, impulsionado pelo imposto do petróleo, sugere um desempenho fiscal positivo no curto prazo. Se esses ganhos atípicos e o imposto sobre petróleo se mantiverem, isso pode aliviar a pressão sobre as contas públicas; caso contrário, a sustentabilidade dessa alta pode ser questionada.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795533366.679413,
-    "titulo": "Ativos americanos pioram com risco de novas tarifas comerciais de Trump contra dezenas de países",
-    "titulo_original": "Ativos americanos pioram com risco de novas tarifas comerciais de Trump contra dezenas de países",
-    "fonte": "Valor Economico",
-    "publicado": "24/11 11:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O risco de novas tarifas comerciais impostas pelos EUA pode gerar volatilidade nos mercados globais e prejudicar ativos americanos. Se as tarifas forem efetivamente implementadas, isso pode levar a uma guerra comercial e impactar negativamente o crescimento econômico global; caso contrário, a reação do mercado pode ser limitada.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795533366.6817186,
-    "titulo": "Arrecadação com IRRF sobre dividendos soma R$ 6,360 bilhões de janeiro a outubro",
-    "titulo_original": "Arrecadação com IRRF sobre dividendos soma R$ 6,360 bilhões de janeiro a outubro",
-    "fonte": "Valor Economico",
-    "publicado": "24/11 11:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A arrecadação com IRRF sobre dividendos, inferior à projeção, indica uma possível queda na distribuição de lucros ou no volume de transações. Se essa tendência se mantiver, pode haver um impacto nas receitas fiscais do governo; caso contrário, pode ser um reflexo de flutuações pontuais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795533366.6835957,
-    "titulo": "Notícias europeias: futuros dos EUA devolvem ganhos liderados pela Nvidia",
-    "titulo_original": "investingLive European news wrap: US futures give back Nvidia-led gains",
-    "fonte": "ForexLive",
-    "publicado": "24/11 10:26",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A devolutiva dos ganhos nos futuros dos EUA, após a influência da Nvidia, sugere que o otimismo pode ser temporário. Se o Fed mantiver um tom mais duro, como indicado, isso pode continuar a pressionar os mercados acionários globais, limitando a recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795533366.6854856,
-    "titulo": "Ibovespa deve ter desempenho positivo em 2027 mas com retornos seletivos, segundo estrategistas",
-    "titulo_original": "Ibovespa deve ter desempenho positivo em 2027 mas com retornos seletivos, segundo estrategistas",
-    "fonte": "Money Times",
-    "publicado": "24/11 11:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A perspectiva de um Ibovespa positivo em 2027, mas com retornos seletivos, indica que o mercado pode estar precificando um cenário de recuperação gradual. Se a situação fiscal do governo se deteriorar, isso pode limitar o potencial de alta do índice, mesmo com empresas fortes.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795533366.6873004,
-    "titulo": "Wall Street abre no vermelho com pressão da Nvidia",
-    "titulo_original": "Wall Street abre no vermelho com pressão da Nvidia",
-    "fonte": "Money Times",
-    "publicado": "24/11 11:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A abertura em queda de Wall Street, influenciada pela Nvidia, sugere que o desempenho da empresa pode ter um impacto significativo no sentimento do mercado. Se a pressão sobre a Nvidia persistir, isso pode afetar outros setores de tecnologia e a tendência geral do mercado; caso contrário, pode ser uma correção pontual.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795538775.9945579,
     "titulo": "Petróleo, saúde e ajuste fiscal: quem paga a conta amanhã?",
     "titulo_original": "Petróleo, saúde e ajuste fiscal: quem paga a conta amanhã? - CNN Brasil",
@@ -1311,5 +1189,125 @@
     "origem": "domestica",
     "leitura_critica": "A notícia trata de uma possível aquisição de um banco por outra instituição financeira estatal, com envolvimento do Banco Central e do governo. Embora envolva o sistema financeiro, a notícia foca em uma operação específica e não em uma decisão macroeconômica que afete diretamente os canais de juros, inflação ou fiscalidade de forma ampla.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1795644047.8666823,
+    "titulo": "Do tomate às carnes bovinas: por que o preço dos alimentos não dá trégua e o que esperar para 2027",
+    "titulo_original": "Do tomate às carnes bovinas: por que o preço dos alimentos não dá trégua e o que esperar para 2027",
+    "fonte": "InvestNews",
+    "publicado": "25/11 18:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A persistência da alta nos preços dos alimentos como principal fator de inflação indica uma pressão contínua sobre o poder de compra da população. Se essa tendência se mantiver, o Banco Central pode ter que considerar o impacto no cenário de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795644051.6080658,
+    "titulo": "BC reforça recomendação de cautela na concessão de crédito diante de juros altos e inadimplência",
+    "titulo_original": "BC reforça recomendação de cautela na concessão de crédito diante de juros altos e inadimplência",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 18:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação do BC por cautela na concessão de crédito, em um cenário de juros altos e inadimplência, reforça a visão de que o cenário econômico demanda prudência. Se a inadimplência continuar a crescer, isso pode pressionar o sistema financeiro e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795644055.3211346,
+    "titulo": "TCU livra Dilma de multas por irregularidades fiscais em 2014",
+    "titulo_original": "TCU livra Dilma de multas por irregularidades fiscais em 2014",
+    "fonte": "Folha Mercado",
+    "publicado": "25/11 18:36",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do TCU, ao isentar a ex-presidente de punições por irregularidades fiscais passadas, pode ser interpretada como um encerramento de um capítulo judicial, mas não altera o cenário fiscal ou orçamentário atual do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795644059.1077442,
+    "titulo": "Governo expressa 'indignação' com ameaça de tarifas dos EUA e cita pressão sobre o Pix",
+    "titulo_original": "Governo expressa 'indignação' com ameaça de tarifas dos EUA e cita pressão sobre o Pix",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 18:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "ambas",
+    "leitura_critica": "A ameaça de tarifas dos EUA, se concretizada, pode gerar um cenário de retaliação comercial, impactando o fluxo de capital e a atividade econômica de ambos os países. Se o Brasil optar por medidas de reciprocidade, a tensão pode escalar, afetando setores específicos e a confiança dos investidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795644066.5665495,
+    "titulo": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
+    "titulo_original": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81 - Bora Investir",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/11 18:43",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do Ibovespa, com recuperação de Vale e Petrobras, e a queda do dólar indicam um movimento de melhora no sentimento do mercado doméstico. Se essa tendência de valorização das commodities e apreciação do real se mantiver, pode atrair mais fluxo de capital para o Brasil.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795644066.5684907,
+    "titulo": "Trump culpa a eleição pela liquidação. Aqui está o que estou observando.",
+    "titulo_original": "Trump blames the election for the selloff. Here’s what I’m watching.",
+    "fonte": "ForexLive",
+    "publicado": "25/11 14:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A declaração de Trump sugere que o cenário político nos EUA pode influenciar diretamente o desempenho do mercado acionário, especialmente o setor de tecnologia. Se a regulamentação de IA se tornar mais rigorosa, isso pode impactar as projeções de lucro e as avaliações das empresas do setor.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795644066.5702927,
+    "titulo": "Wall Street fecha no vermelho com pressão do setor tech — mas Dow Jones tem recuperação surpreendente",
+    "titulo_original": "Wall Street fecha no vermelho com pressão do setor tech — mas Dow Jones tem recuperação surpreendente",
+    "fonte": "Money Times",
+    "publicado": "25/11 18:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A aversão ao risco em Wall Street, impulsionada por dados de inflação e tarifas, pode indicar um cenário de cautela global. A recuperação do Dow Jones, apesar das perdas gerais, sugere que alguns setores ou ações podem estar se beneficiando de dinâmicas específicas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795644066.5721092,
+    "titulo": "Tombo das bolsas abala carry trade após período de bonança",
+    "titulo_original": "Tombo das bolsas abala carry trade após período de bonança",
+    "fonte": "InvestNews",
+    "publicado": "25/11 18:06",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A perda de força do carry trade sugere um aumento da aversão ao risco no mercado financeiro global. Se o cenário de instabilidade persistir, estratégias que dependem de volatilidade reduzida podem ser mais afetadas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795644066.5739331,
+    "titulo": "Grão Investimentos, do Grupo Primo, lança ETF de Tesouro Prefixado na B3",
+    "titulo_original": "Grão Investimentos, do Grupo Primo, lança ETF de Tesouro Prefixado na B3",
+    "fonte": "Folha Mercado",
+    "publicado": "25/11 17:57",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O lançamento de um ETF de Tesouro Prefixado na B3 oferece mais uma opção de investimento em renda fixa para o investidor. Se as expectativas de juros se mantiverem estáveis ou em queda, esse tipo de ETF pode se tornar mais atrativo.",
+    "is_stocks": true
   }
 ]
