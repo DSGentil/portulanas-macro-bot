@@ -1028,5 +1028,87 @@
     "origem": "domestica",
     "leitura_critica": "A atenção aos desdobramentos da PEC de gastos e anúncios de ajuste fiscal no Brasil é fundamental para a percepção de risco fiscal. Se os anúncios forem robustos e corroborarem com o ajuste fiscal, isso pode melhorar o sentimento do mercado em relação à dívida pública. Caso contrário, a incerteza fiscal pode continuar pressionando o Ibovespa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795612548.8054848,
+    "titulo": "Governo amplia previsão de déficit primário para 2026",
+    "titulo_original": "Governo amplia previsão de déficit primário para 2026",
+    "fonte": "Money Times",
+    "publicado": "25/11 08:39",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento da previsão de déficit primário para 2026 sugere uma deterioração das contas públicas, o que pode pressionar a dívida pública e a percepção de risco fiscal. Se o governo não apresentar medidas eficazes para conter o déficit, isso pode levar a um aumento da desconfiança do mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795612552.4600663,
+    "titulo": "Mercado aguarda leilão de US$ 2 bilhões do BC e dólar permanece estável",
+    "titulo_original": "Mercado aguarda leilão de US$ 2 bilhões do BC e dólar permanece estável",
+    "fonte": "InvestNews",
+    "publicado": "25/11 10:03",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A estabilidade do dólar pode ser temporária, dependendo do resultado do leilão de divisas e das sinalizações sobre a PEC dos gastos. Se a PEC avançar com novas despesas, isso pode pressionar o dólar para cima no médio prazo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795612557.1452334,
+    "titulo": "Disparada do dólar divide economistas sobre exagero do mercado",
+    "titulo_original": "Disparada do dólar divide economistas sobre exagero do mercado - UOL Economia",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/11 08:51",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A divisão entre economistas sobre a alta do dólar sugere incerteza sobre a direção futura da moeda. Se a análise de exagero prevalecer, pode haver uma correção; se os fundamentos de pressão se mantiverem, a alta pode continuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795612560.8326263,
+    "titulo": "A frase que faltou no pacote fiscal",
+    "titulo_original": "A frase que faltou no pacote fiscal",
+    "fonte": "Folha Mercado",
+    "publicado": "25/11 07:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A discussão sobre a ausência de uma frase em um pacote fiscal pode indicar lacunas ou ambiguidades na legislação tributária. Se essa omissão gerar brechas ou interpretações desfavoráveis à arrecadação, pode haver impacto na percepção de risco fiscal do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795612565.0727992,
+    "titulo": "Sessão Europeia: Venda de ações e tecnologia se aprofunda, ouro ameaça US$ 3.500",
+    "titulo_original": "investingLive European session wrap: Equities and tech selloff deepens, gold threatens $3,500",
+    "fonte": "ForexLive",
+    "publicado": "25/11 09:43",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A forte queda em ações de tecnologia e o movimento do ouro podem indicar um aumento da aversão ao risco global. Se os EUA implementarem novas tarifas, isso pode intensificar as tensões comerciais e impactar negativamente os mercados de ações globais.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795612565.074161,
+    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/11 09:05",
+    "relevancia": "BAIXA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Notícia de acompanhamento de cotação, sem informações de causa ou consequência. O valor do dólar pode ser influenciado por diversos fatores macroeconômicos e de fluxo de capital, mas esta notícia não especifica quais.",
+    "is_stocks": true
   }
 ]
