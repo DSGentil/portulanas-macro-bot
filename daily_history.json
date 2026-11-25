@@ -1110,5 +1110,83 @@
     "origem": "domestica",
     "leitura_critica": "Notícia de acompanhamento de cotação, sem informações de causa ou consequência. O valor do dólar pode ser influenciado por diversos fatores macroeconômicos e de fluxo de capital, mas esta notícia não especifica quais.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795619756.06189,
+    "titulo": "Premissa de Lula é não afetar gastos sociais, diz ministro do Planejamento sobre novas medidas",
+    "titulo_original": "Premissa de Lula é não afetar gastos sociais, diz ministro do Planejamento sobre novas medidas",
+    "fonte": "Folha Mercado",
+    "publicado": "25/11 11:42",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro indica que qualquer ajuste fiscal buscará preservar o investimento em áreas sociais. Se as novas medidas forem focadas em otimização de despesas não essenciais, isso pode sinalizar um esforço para equilibrar as contas públicas sem comprometer o bem-estar social.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795619760.9090166,
+    "titulo": "Tesouro Direto hoje: taxas curtas caem, longas sobem e Prefixado 2029 fica abaixo de 15%",
+    "titulo_original": "Tesouro Direto hoje: taxas curtas caem, longas sobem e Prefixado 2029 fica abaixo de 15%",
+    "fonte": "InvestNews",
+    "publicado": "25/11 11:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda nas taxas curtas e a alta nas longas podem indicar uma expectativa de que a taxa Selic permaneça em patamares elevados por mais tempo, mas com alguma perspectiva de queda futura. Se os juros de longo prazo continuarem a subir, isso pode refletir preocupações com a inflação futura ou com o risco fiscal.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795619764.5147505,
+    "titulo": "O susto com o dólar a R$ 6 - O GLOBO",
+    "titulo_original": "O susto com o dólar a R$ 6 - O GLOBO",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/11 07:22",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A cotação do dólar a R$ 6 pode impactar a inflação e o custo de importação para o Brasil. Se essa tendência de valorização da moeda americana se mantiver, o Banco Central pode precisar intervir para conter a volatilidade cambial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795619768.0745785,
+    "titulo": "Soja chega a R$ 170 em Paranaguá com dólar perto de R$ 6, e diferença para Sorriso é de R$ 31",
+    "titulo_original": "Soja chega a R$ 170 em Paranaguá com dólar perto de R$ 6, e diferença para Sorriso é de R$ 31 - Portal do Agronegócio",
+    "fonte": "Google News Commodities",
+    "publicado": "25/11 10:50",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alta do dólar tem um impacto direto no preço das commodities agrícolas em reais, como a soja. Se o dólar se mantiver em patamares elevados, isso pode beneficiar os exportadores de commodities, mas também encarecer produtos importados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795619772.2957802,
+    "titulo": "Wall Street abre sessão em forte queda com alta da inflação e pressão do setor tech",
+    "titulo_original": "Wall Street abre sessão em forte queda com alta da inflação e pressão do setor tech",
+    "fonte": "Money Times",
+    "publicado": "25/11 11:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A alta da inflação nos EUA, medida pelo PCE, pode reforçar a percepção de que o Federal Reserve precisará manter uma postura mais restritiva em sua política monetária. Se o setor de tecnologia continuar sob pressão, isso pode afetar o desempenho geral do mercado acionário americano.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795619772.297185,
+    "titulo": "Wall Street em queda e nova liquidação de IA: por que mercado cai hoje? Leia análise",
+    "titulo_original": "Wall Street em queda e nova liquidação de IA: por que mercado cai hoje? Leia análise",
+    "fonte": "Money Times",
+    "publicado": "25/11 11:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda generalizada em Wall Street, especialmente no setor de tecnologia, pode indicar uma correção de mercado ou uma reavaliação das perspectivas para empresas de alto crescimento. Se essa tendência se mantiver, pode haver um movimento de aversão ao risco global.",
+    "is_stocks": true
   }
 ]
