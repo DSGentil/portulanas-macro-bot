@@ -1,147 +1,5 @@
 [
   {
-    "_timestamp": 1795538775.9945579,
-    "titulo": "Petróleo, saúde e ajuste fiscal: quem paga a conta amanhã?",
-    "titulo_original": "Petróleo, saúde e ajuste fiscal: quem paga a conta amanhã? - CNN Brasil",
-    "fonte": "Google News Commodities",
-    "publicado": "24/11 11:40",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A intersecção entre os preços do petróleo, os gastos com saúde e a necessidade de ajuste fiscal aponta para um cenário de decisões complexas para o governo. Se o ajuste fiscal for implementado de forma a impactar negativamente os gastos sociais, isso pode gerar insatisfação popular; caso contrário, a busca por equilíbrio fiscal pode ser mais sustentável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795538780.9484086,
-    "titulo": "China investiga líder do Partido Comunista em Xangai por suspeita de corrupção",
-    "titulo_original": "China investiga líder do Partido Comunista em Xangai por suspeita de corrupção",
-    "fonte": "Valor Economico",
-    "publicado": "24/11 13:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Investigações de corrupção envolvendo altos escalões do Partido Comunista Chinês podem sinalizar uma intensificação da campanha anticorrupção ou instabilidade política interna. Se essas investigações levarem a uma reconfiguração de poder, isso pode afetar a direção das políticas econômicas e regulatórias da China, com reflexos globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795538786.7049274,
-    "titulo": "China e Índia devem atingir recorde de importações de petróleo da Rússia em 2026",
-    "titulo_original": "China e Índia devem atingir recorde de importações de petróleo da Rússia em 2026 - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "24/11 10:57",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O aumento das importações de petróleo russo pela China e Índia pode indicar uma consolidação de rotas comerciais alternativas para a Rússia, potencialmente afetando a dinâmica global de oferta e demanda. Se as sanções contra a Rússia forem mantidas ou ampliadas, essa tendência de reorientação comercial pode se intensificar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795538791.9324818,
-    "titulo": "Ataques de Israel matam chefe de segurança interna do Hamas e outras 6 pessoas em Gaza",
-    "titulo_original": "Ataques de Israel matam chefe de segurança interna do Hamas e outras 6 pessoas em Gaza - O GLOBO",
-    "fonte": "Google News Geopolitica",
-    "publicado": "24/11 10:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada de violência no conflito entre Israel e Hamas pode gerar instabilidade regional e impactar a oferta de energia, caso haja envolvimento de outros países ou interrupção de rotas de transporte. Se as negociações diplomáticas falharem, a tensão pode aumentar, com potenciais repercussões globais.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795538798.5979555,
-    "titulo": "Continuidade do ajuste fiscal é sinalização positiva do governo para o mercado, avalia Guillen",
-    "titulo_original": "Continuidade do ajuste fiscal é sinalização positiva do governo para o mercado, avalia Guillen",
-    "fonte": "Valor Economico",
-    "publicado": "24/11 13:04",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A continuidade do ajuste fiscal, se confirmada por ações concretas, pode trazer mais estabilidade ao mercado financeiro brasileiro. Caso as próximas medidas anunciadas pelo governo sejam menos ambiciosas do que o esperado, o cenário de incerteza pode se prolongar, impactando o apetite por risco.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795538798.5997276,
-    "titulo": "Confiança do consumidor dos EUA em novembro 103,3 vs 92,5 esperado",
-    "titulo_original": "US November consumer confidence 103.3 vs 92.5 expected",
-    "fonte": "ForexLive",
-    "publicado": "24/11 12:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "atividade_emprego"
-    ],
-    "origem": "externa",
-    "leitura_critica": "Um dado de confiança do consumidor acima do esperado nos EUA pode indicar uma resiliência da economia americana, o que, em um cenário global, pode levar a um Federal Reserve mais cauteloso em relação a cortes de juros. Se a inflação de bens continuar a pressionar, como sugerido pela notícia, isso pode reforçar essa postura.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795538798.6028304,
-    "titulo": "Governo mantém estimativa de arrecadar R$ 10,5 bi com taxação de dividendos, apesar de frustração até agora",
-    "titulo_original": "Governo mantém estimativa de arrecadar R$ 10,5 bi com taxação de dividendos, apesar de frustração até agora",
-    "fonte": "Folha Mercado",
-    "publicado": "24/11 13:35",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A manutenção da meta de arrecadação com a taxação de dividendos, mesmo com resultados abaixo do esperado, sugere que o governo pode buscar outras formas de compensação fiscal se a meta não for atingida. Se a frustração na arrecadação persistir, isso pode levar a cortes de gastos ou a busca por novas fontes de receita.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795538798.6044908,
-    "titulo": "Credores da Braskem poderão virar sócios, aceitar desconto ou receber título para 2060",
-    "titulo_original": "Credores da Braskem poderão virar sócios, aceitar desconto ou receber título para 2060",
-    "fonte": "Folha Mercado",
-    "publicado": "24/11 08:36",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O acordo de reestruturação da dívida da Braskem com seus credores pode impactar a estrutura de capital da empresa e sua capacidade de investimento futuro. Se a maioria dos credores optar por se tornar sócio, isso pode diluir o controle dos acionistas atuais; se optarem pelo desconto ou título, a empresa terá um alívio financeiro imediato, mas com obrigações futuras.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795538798.6061943,
-    "titulo": "Petrobras (PETR4) sobe após plano de US$ 122 bilhões",
-    "titulo_original": "Petrobras (PETR4) sobe após plano de US$ 122 bilhões - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "24/11 11:01",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta das ações da Petrobras após o anúncio de um plano de investimentos robusto sugere uma reação positiva do mercado à estratégia da empresa. Se os investimentos planejados forem bem executados e gerarem os retornos esperados, isso pode sustentar a valorização das ações no médio e longo prazo; caso contrário, o mercado pode reavaliar sua posição.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795538798.6078577,
-    "titulo": "Ações da Vale (VALE3) tombam na bolsa com queda do dólar",
-    "titulo_original": "Ações da Vale (VALE3) tombam na bolsa com queda do dólar - Valor Investe",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/11 11:32",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A queda das ações da Vale atrelada à desvalorização do dólar sugere uma correlação entre o câmbio e o desempenho da empresa no mercado de ações. Se o dólar continuar a cair, isso pode pressionar ainda mais as ações da Vale; por outro lado, uma reversão na tendência do câmbio pode impulsionar a recuperação.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795538798.6114576,
-    "titulo": "Petrobras prevê US$ 7 bilhões para ampliar infraestrutura de transporte de combustíveis",
-    "titulo_original": "Petrobras prevê US$ 7 bilhões para ampliar infraestrutura de transporte de combustíveis",
-    "fonte": "Folha Mercado",
-    "publicado": "24/11 09:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O investimento da Petrobras em infraestrutura de transporte de combustíveis pode otimizar a logística e reduzir custos no setor. Se a execução desses projetos for eficiente, isso pode melhorar a competitividade da empresa e do setor energético brasileiro; caso contrário, atrasos ou estouros de orçamento podem comprometer os resultados.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795545055.419424,
     "titulo": "Dólar se distancia das mínimas do dia, mas ainda cai forte com notícias sobre PEC",
     "titulo_original": "Dólar se distancia das mínimas do dia, mas ainda cai forte com notícias sobre PEC - InfoMoney",
@@ -1308,6 +1166,117 @@
     ],
     "origem": "domestica",
     "leitura_critica": "O lançamento de um ETF de Tesouro Prefixado na B3 oferece mais uma opção de investimento em renda fixa para o investidor. Se as expectativas de juros se mantiverem estáveis ou em queda, esse tipo de ETF pode se tornar mais atrativo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795649445.282108,
+    "titulo": "Cade recomenda condenação de 25 empresas por troca de informações sobre mercado de trabalho",
+    "titulo_original": "Cade recomenda condenação de 25 empresas por troca de informações sobre mercado de trabalho",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 20:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A recomendação da Superintendência-Geral do Cade representa um passo significativo na repressão a condutas anticompetitivas no mercado de trabalho. Se o Tribunal do Cade seguir o parecer, isso pode servir como um precedente para investigações futuras em outros setores, sinalizando um endurecimento na fiscalização de práticas que afetam a livre concorrência.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795649449.8165069,
+    "titulo": "BC amplia exigências de informações sobre operações de securitização e FIDCs",
+    "titulo_original": "BC amplia exigências de informações sobre operações de securitização e FIDCs",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 19:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A medida do Banco Central visa aumentar a transparência e o controle sobre operações de securitização e FIDCs. Se essa ampliação de exigências resultar em maior clareza sobre os riscos envolvidos, pode facilitar a análise de crédito e potencialmente reduzir a volatilidade nesses mercados. Acompanhar como as instituições financeiras se adaptarão a essas novas regras será crucial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795649454.3506372,
+    "titulo": "Cessão ou transferência de direitos creditórios não pode restringir direitos do cliente devedor, diz BC",
+    "titulo_original": "Cessão ou transferência de direitos creditórios não pode restringir direitos do cliente devedor, diz BC",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 19:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nova resolução do BC e CMN busca proteger os direitos dos devedores em operações de cessão de crédito. Se essa norma for efetivamente aplicada, pode levar a uma reavaliação das práticas de mercado por parte das instituições financeiras que realizam essas transferências, potencialmente reduzindo litígios e garantindo um tratamento mais justo aos consumidores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795649458.8675556,
+    "titulo": "BC determina redução do limite do cartão de quem usa crédito rotativo com frequência",
+    "titulo_original": "BC determina redução do limite do cartão de quem usa crédito rotativo com frequência",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 19:23",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do BC de reduzir limites de cartão para usuários frequentes do rotativo visa mitigar o endividamento excessivo. Se essa medida surtir efeito, pode levar a uma maior disciplina financeira por parte dos consumidores, mas também pode impactar o acesso ao crédito para alguns perfis. A eficácia dependerá da adoção e do comportamento dos consumidores frente às novas regras.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795649464.3728616,
+    "titulo": "Itaú vê forças opostas no câmbio e recomenda diversificação de moedas",
+    "titulo_original": "Itaú vê forças opostas no câmbio e recomenda diversificação de moedas",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 19:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A análise do Itaú aponta para um cenário de câmbio desafiador, com fatores internos e externos em conflito. Se as remessas de lucros e dividendos se intensificarem mais do que o esperado, a pressão sobre o real pode aumentar. A recomendação de diversificação de moedas sugere que o banco vê pouca clareza no curto prazo para o comportamento da moeda brasileira.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795649464.3741548,
+    "titulo": "Notícias de câmbio da ForexLive Americas em 25 de novembro: S&P 500 e Nasdaq reduzem perdas acentuadas",
+    "titulo_original": "investingLive Americas FX news wrap 25 Nov: It’s a Wrap. S&P 500 and Nasdaq pare steep losses",
+    "fonte": "ForexLive",
+    "publicado": "25/11 18:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego",
+      "fluxo_capital"
+    ],
+    "origem": "externa",
+    "leitura_critica": "O fechamento misto das bolsas americanas e a redução das perdas no Nasdaq podem indicar uma melhora no apetite a risco no final do pregão, apesar das pressões salariais mencionadas no Beige Book. Se as pressões inflacionárias persistirem, isso pode influenciar as decisões futuras do Federal Reserve sobre juros, impactando o fluxo de capital global.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795649464.3753006,
+    "titulo": "Yduqs (YDUQ3) vai aumentar capital em R$ 2,5 bi",
+    "titulo_original": "Yduqs (YDUQ3) vai aumentar capital em R$ 2,5 bi",
+    "fonte": "Money Times",
+    "publicado": "25/11 19:44",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A aprovação da incorporação da Afya pela Yduqs, com aumento de capital significativo, é um movimento corporativo relevante que aguarda aprovação regulatória. Se o Cade aprovar a transação, isso pode sinalizar um cenário de consolidação no setor educacional, com potenciais impactos na estrutura de mercado e na concorrência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795649464.376394,
+    "titulo": "Cosan (CSAN3) negocia reduzir participação na Rumo, Compass e Moove, dizem fontes",
+    "titulo_original": "Cosan (CSAN3) negocia reduzir participação na Rumo, Compass e Moove, dizem fontes",
+    "fonte": "Money Times",
+    "publicado": "25/11 19:19",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A potencial venda de participações pela Cosan em suas subsidiárias indica uma estratégia de desalavancagem. Se a operação for concretizada, pode liberar capital para a empresa e afetar a estrutura de controle dessas subsidiárias, mas a notícia em si não detalha impactos diretos nos canais macroeconômicos de juros, inflação, atividade/emprego, decisão fiscal/regulatória ou fluxo de capital.",
     "is_stocks": true
   }
 ]
