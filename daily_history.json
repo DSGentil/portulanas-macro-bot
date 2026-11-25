@@ -1,98 +1,5 @@
 [
   {
-    "_timestamp": 1795526173.0433562,
-    "titulo": "Dólar abre em queda após aprovação do plano Moretti pela Câmara",
-    "titulo_original": "Dólar abre em queda após aprovação do plano Moretti pela Câmara",
-    "fonte": "Folha Mercado",
-    "publicado": "24/11 09:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A aprovação do plano de ajuste fiscal pela Câmara tende a gerar um sentimento de maior controle das contas públicas, o que é positivo para a moeda local. Se o plano for efetivamente implementado e gerar os resultados esperados, isso pode levar a uma trajetória de queda mais consistente para o dólar; caso contrário, a pressão sobre a moeda pode retornar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795526177.9536602,
-    "titulo": "Tesouro Direto hoje: taxas recuam em todos os títulos, mas prefixados seguem acima de 15%",
-    "titulo_original": "Tesouro Direto hoje: taxas recuam em todos os títulos, mas prefixados seguem acima de 15%",
-    "fonte": "InvestNews",
-    "publicado": "24/11 09:51",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros",
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas de juros futuros sugere uma expectativa de que as taxas de juros de referência possam ter atingido o pico ou que o ciclo de aperto monetário esteja chegando ao fim. Se essa tendência de queda se confirmar nas próximas reuniões do Copom, isso pode impulsionar a renda fixa e a bolsa; se os dados de inflação voltarem a surpreender negativamente, a reversão dessa tendência é provável.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795526182.9332128,
-    "titulo": "BC tem US$ 363 bilhões em reservas: por que isso não basta para segurar o dólar?",
-    "titulo_original": "BC tem US$ 363 bilhões em reservas: por que isso não basta para segurar o dólar? - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/11 07:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O volume de reservas internacionais é um fator importante na capacidade de um país intervir no mercado de câmbio. Se as reservas não forem suficientes para conter a desvalorização do real em cenários de fuga de capital, isso pode indicar uma vulnerabilidade externa maior. A análise deve considerar se a pressão sobre o dólar é pontual ou estrutural.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795526187.830518,
-    "titulo": "Opinião: Pacotes fiscais parciais não são uma solução",
-    "titulo_original": "Opinião: Pacotes fiscais parciais não são uma solução",
-    "fonte": "Money Times",
-    "publicado": "24/11 09:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A crítica a pacotes fiscais parciais sugere que o mercado busca soluções mais abrangentes e estruturais para a questão da dívida pública. Se o governo insistir em medidas paliativas, isso pode manter a percepção de risco fiscal elevada, impactando negativamente a confiança dos investidores. A ausência de um plano fiscal robusto pode dificultar a queda sustentada dos juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795526193.817004,
-    "titulo": "Ultra volta a tratar potencial aquisição de fatia da Rumo, diz colunista",
-    "titulo_original": "Ultra volta a tratar potencial aquisição de fatia da Rumo, diz colunista",
-    "fonte": "Valor Economico",
-    "publicado": "24/11 09:40",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A notícia indica uma movimentação corporativa relevante no setor de logística, com potencial impacto na estrutura de capital e governança da Rumo. Se a aquisição for concretizada, isso pode alterar a dinâmica competitiva do setor e influenciar o desempenho das ações de ambas as empresas. A notícia não especifica impacto macroeconômico direto.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795526193.8187668,
-    "titulo": "Singapura diz que colabora com EUA em investigação sobre Megaspeed",
-    "titulo_original": "Singapura diz que colabora com EUA em investigação sobre Megaspeed",
-    "fonte": "Folha Mercado",
-    "publicado": "24/11 08:56",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A colaboração entre Singapura e EUA em investigações sobre desvio de tecnologia pode ter implicações para o comércio global de semicondutores e para a segurança tecnológica. Se a investigação resultar em sanções ou restrições comerciais, isso pode afetar a cadeia de suprimentos de componentes eletrônicos. A notícia não conecta explicitamente com canais macroeconômicos brasileiros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795526193.820367,
-    "titulo": "Bolsas de Taiwan, Japão e Coreia do Sul têm forte alta com volta de Huang",
-    "titulo_original": "Bolsas de Taiwan, Japão e Coreia do Sul têm forte alta com volta de Huang",
-    "fonte": "Folha Mercado",
-    "publicado": "24/11 08:25",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "O desempenho positivo das bolsas asiáticas, impulsionado por notícias corporativas específicas da Nvidia, demonstra a influência de grandes empresas de tecnologia no sentimento do mercado global. Se o retorno de Huang gerar novas estratégias de crescimento para a Nvidia, isso pode ter um efeito positivo em outras empresas do setor de tecnologia. A notícia não conecta explicitamente com canais macroeconômicos brasileiros.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795533345.1776276,
     "titulo": "Venezuela divulga quadro macroeconômico e estima dívida em US$ 237,5 bilhões",
     "titulo_original": "Venezuela divulga quadro macroeconômico e estima dívida em US$ 237,5 bilhões",
@@ -1335,5 +1242,74 @@
     "origem": "externa",
     "leitura_critica": "A queda das bolsas europeias, impulsionada por fatores globais como a percepção de risco e tarifas comerciais, pode indicar um cenário de aversão ao risco que pode se estender a outros mercados. Se a tensão comercial se intensificar, pode haver impacto negativo no comércio global e nas cadeias de suprimentos.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795638647.5330734,
+    "titulo": "O Banco Central não pode esperar Brasília",
+    "titulo_original": "O Banco Central não pode esperar Brasília",
+    "fonte": "Folha Mercado",
+    "publicado": "25/11 16:22",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do Copom de interromper os cortes na Selic em 13,75% indica uma postura mais cautelosa do Banco Central. Se o cenário econômico não apresentar melhora, a possibilidade de uma nova alta nos juros se torna um cenário a ser monitorado, o que poderia impactar o custo do crédito e a atividade econômica.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795638652.1502566,
+    "titulo": "Para Moretti, medidas adicionais de ajuste fiscal devem ser encaminhadas ao Congresso neste exercício",
+    "titulo_original": "Para Moretti, medidas adicionais de ajuste fiscal devem ser encaminhadas ao Congresso neste exercício",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 16:41",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do ministro Bruno Moretti sobre a necessidade de encaminhar medidas adicionais de ajuste fiscal ao Congresso indica uma intenção do governo em avançar na consolidação das contas públicas. Se essas medidas forem efetivamente propostas e aprovadas, podem ter impacto na dívida pública e no cenário fiscal do país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795638656.889079,
+    "titulo": "Reforma tributária tende a gerar inflação em 2027, mas efeito é temporário, avalia Appy",
+    "titulo_original": "Reforma tributária tende a gerar inflação em 2027, mas efeito é temporário, avalia Appy",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 16:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação de Bernard Appy de que a reforma tributária pode gerar inflação em 2027, embora temporária, é um ponto relevante para o cenário inflacionário futuro. Se a reforma for implementada conforme previsto, o impacto nos preços relativos e a forma como os aumentos de tributação serão repassados ao consumidor determinarão a magnitude e duração desse efeito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795638661.498094,
+    "titulo": "Lula reúne equipe econômica para debater novas medidas de ajuste fiscal",
+    "titulo_original": "Lula reúne equipe econômica para debater novas medidas de ajuste fiscal",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 16:21",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A reunião do presidente Lula com a equipe econômica para debater novas medidas de ajuste fiscal, incluindo uma possível PEC, indica uma continuidade na agenda de controle das contas públicas. Se novas medidas fiscais concretas forem propostas e aprovadas, isso pode impactar a trajetória da dívida pública e o cenário de gastos do governo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795638666.1138506,
+    "titulo": "Caixa discute com BC operação para comprar BRB, e plano será submetido a Lula",
+    "titulo_original": "Caixa discute com BC operação para comprar BRB, e plano será submetido a Lula",
+    "fonte": "Folha Mercado",
+    "publicado": "25/11 13:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia trata de uma possível aquisição de um banco por outra instituição financeira estatal, com envolvimento do Banco Central e do governo. Embora envolva o sistema financeiro, a notícia foca em uma operação específica e não em uma decisão macroeconômica que afete diretamente os canais de juros, inflação ou fiscalidade de forma ampla.",
+    "is_stocks": false
   }
 ]
