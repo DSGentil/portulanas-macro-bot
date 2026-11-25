@@ -1,109 +1,5 @@
 [
   {
-    "_timestamp": 1795519850.735971,
-    "titulo": "Esquerda tem mais a oferecer ao governo do que briga com a Faria Lima",
-    "titulo_original": "Esquerda tem mais a oferecer ao governo do que briga com a Faria Lima",
-    "fonte": "Folha Mercado",
-    "publicado": "24/11 08:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O cenário projetado pela IFI aponta para uma deterioração significativa das contas públicas caso não haja mudança de rumo. Se o governo não implementar medidas fiscais eficazes, o país pode enfrentar um aumento expressivo da dívida, o que limitaria o espaço para investimentos e poderia pressionar a inflação e os juros.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795519854.8525956,
-    "titulo": "Lula e a escala 6x1 do dólar, a pizza de Moraes e Bolsonaro e os dois caminhos do PL",
-    "titulo_original": "Lula e a escala 6x1 do dólar, a pizza de Moraes e Bolsonaro e os dois caminhos do PL - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/11 03:30",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "Este título sugere uma análise política e econômica complexa, mas sem detalhamento específico sobre decisões concretas ou dados que afetem os canais macroeconômicos. A menção ao dólar pode indicar relevância para câmbio, mas a notícia em si não detalha o impacto ou a causa específica para os canais definidos.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795519859.04244,
-    "titulo": "Black Friday deve ter recorde de vendas mesmo com consumidor pressionado por dívidas, projeta CNC",
-    "titulo_original": "Black Friday deve ter recorde de vendas mesmo com consumidor pressionado por dívidas, projeta CNC",
-    "fonte": "Folha Mercado",
-    "publicado": "24/11 04:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A projeção de recorde de vendas na Black Friday, apesar do cenário de juros altos e endividamento, sugere uma resiliência do consumo em datas promocionais. Se essa tendência se confirmar, pode indicar que o impacto dos juros na atividade econômica de curto prazo é menor do que o esperado, mas a sustentabilidade desse consumo em um cenário de juros elevados é um ponto de atenção.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795519863.2372303,
-    "titulo": "Casa própria com Selic a 13,75%: vale comprar agora ou esperar?",
-    "titulo_original": "Casa própria com Selic a 13,75%: vale comprar agora ou esperar? - Valor Investe",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "24/11 06:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A alta taxa de juros (Selic a 13,75%) encarece o crédito imobiliário, impactando a decisão de compra de imóveis. Se a expectativa for de queda futura na Selic, esperar pode ser vantajoso para obter melhores condições de financiamento. Caso contrário, a compra imediata pode ser justificada por outros fatores, como a valorização esperada do imóvel.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795519868.3173184,
-    "titulo": "Petrobras eleva investimentos a US$ 122 bi após alta do petróleo",
-    "titulo_original": "Petrobras eleva investimentos a US$ 122 bi após alta do petróleo - Bloomberg Línea Brasil",
-    "fonte": "Google News Acoes",
-    "publicado": "24/11 07:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O aumento expressivo nos investimentos da Petrobras, influenciado pela alta do petróleo, pode ter implicações na atividade econômica e no setor de energia. Se a empresa mantiver essa estratégia de investimento, isso pode gerar demanda por bens e serviços, impactando o PIB e a geração de empregos no setor.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795519868.3191047,
-    "titulo": "Agenda de empresas: Petrobras prevê investir US$ 122 bi em 5 anos; Braskem confirma acordo em recuperação",
-    "titulo_original": "Agenda de empresas: Petrobras prevê investir US$ 122 bi em 5 anos; Braskem confirma acordo em recuperação",
-    "fonte": "Valor Economico",
-    "publicado": "24/11 08:15",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O plano de investimentos da Petrobras, com foco em expansão, pode impulsionar a atividade econômica e o setor de energia. O acordo da Braskem em recuperação judicial indica uma resolução para a empresa, o que pode trazer mais estabilidade ao setor petroquímico. A notícia também menciona dividendos extraordinários da Petrobras, o que pode impactar o fluxo de capital para acionistas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795519868.3344257,
-    "titulo": "Ajuste fiscal, plano da Petrobras e confiança do consumidor movimentam a terça-feira",
-    "titulo_original": "Ajuste fiscal, plano da Petrobras e confiança do consumidor movimentam a terça-feira - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "24/11 06:14",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A convergência de notícias sobre ajuste fiscal, o plano de investimentos da Petrobras e a confiança do consumidor indica um dia de atenção para os mercados. Se o ajuste fiscal for percebido como insuficiente, isso pode gerar volatilidade. O plano da Petrobras, por sua vez, pode impactar o setor de energia e a atividade econômica. A confiança do consumidor, se apresentar melhora, pode sinalizar um consumo mais robusto.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795519868.3361757,
-    "titulo": "ADRs da Petrobras (PETR4) recuam em Nova York após novo plano de investimentos; o que desagradou?",
-    "titulo_original": "ADRs da Petrobras (PETR4) recuam em Nova York após novo plano de investimentos; o que desagradou?",
-    "fonte": "Money Times",
-    "publicado": "24/11 08:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A reação negativa dos ADRs da Petrobras em Nova York sugere que o mercado internacional pode ter interpretado o novo plano de investimentos de forma desfavorável, possivelmente por questões de alocação de capital ou retorno esperado. Se essa percepção se mantiver, pode haver pressão sobre as ações da empresa no mercado doméstico.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795526173.0433562,
     "titulo": "Dólar abre em queda após aprovação do plano Moretti pela Câmara",
     "titulo_original": "Dólar abre em queda após aprovação do plano Moretti pela Câmara",
@@ -1340,6 +1236,104 @@
     "canais_afetados": [],
     "origem": "externa",
     "leitura_critica": "Este é um acordo judicial referente a uma ação coletiva contra a Nvidia, sem relação direta com decisões macroeconômicas ou fiscais que afetem o mercado brasileiro. A relevância se restringe ao âmbito corporativo e ao setor de tecnologia.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795631455.4401748,
+    "titulo": "Fluxo cambial registra saída de US$ 1,535 bilhão na semana de 16 a 19 de novembro",
+    "titulo_original": "Fluxo cambial registra saída de US$ 1,535 bilhão na semana de 16 a 19 de novembro",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 15:12",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A saída de capital estrangeiro na conta financeira pode indicar menor apetite por ativos brasileiros. Se essa tendência se mantiver nas próximas semanas, pode haver pressão sobre o câmbio e menor liquidez no mercado doméstico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795631460.9323494,
+    "titulo": "Buscando frear endividamento, BC deve elevar capital regulatório de emissores de cartão",
+    "titulo_original": "Buscando frear endividamento, BC deve elevar capital regulatório de emissores de cartão",
+    "fonte": "Folha Mercado",
+    "publicado": "25/11 14:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento do capital regulatório para emissores de cartão pode levar a um aperto nas condições de crédito para consumidores. Se a medida for implementada, pode haver uma redução no volume de crédito disponível e um aumento no custo de empréstimos para pessoas físicas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795631466.5259438,
+    "titulo": "Dólar hoje cai mais de 1,6%, a R$ 5,81, com especulações sobre ministro da Fazenda",
+    "titulo_original": "Dólar hoje cai mais de 1,6%, a R$ 5,81, com especulações sobre ministro da Fazenda - InfoMoney",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "25/11 14:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar sugere um aumento da confiança do investidor no cenário doméstico, possivelmente ligado à expectativa de uma política econômica mais estável com a definição do Ministério da Fazenda. Se a especulação se confirmar com um nome considerado positivo pelo mercado, a tendência de queda do dólar pode se acentuar.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795631472.0836983,
+    "titulo": "Juros forçados para baixo podem acabar em recessão, com mais inflação e pobreza",
+    "titulo_original": "Juros forçados para baixo podem acabar em recessão, com mais inflação e pobreza",
+    "fonte": "Folha Mercado",
+    "publicado": "25/11 14:51",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia alerta para os riscos de uma política monetária expansionista sem o devido suporte fiscal, podendo gerar um ciclo vicioso de inflação e recessão. Se o Banco Central decidir cortar juros sem um plano fiscal claro, pode haver pressão inflacionária e deterioração do cenário econômico.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795631478.5444758,
+    "titulo": "Visto no mercado como cotado à Fazenda, Trabuco participa de solenidade na Câmara",
+    "titulo_original": "Visto no mercado como cotado à Fazenda, Trabuco participa de solenidade na Câmara",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 15:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A especulação sobre a nomeação de Luiz Carlos Trabuco para o Ministério da Fazenda teve impacto direto nos mercados, com alta do Ibovespa e queda do dólar. Se a nomeação se concretizar, o mercado pode reagir positivamente a uma percepção de maior estabilidade e previsibilidade na política econômica.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795631478.5459464,
+    "titulo": "AO VIVO: STF julga exigência de valores em ações trabalhistas",
+    "titulo_original": "AO VIVO: STF julga exigência de valores em ações trabalhistas - Migalhas",
+    "fonte": "Google News Acoes",
+    "publicado": "25/11 14:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A decisão do STF sobre a exigência de valores em ações trabalhistas pode ter implicações significativas para o mercado de trabalho e para as empresas. Se a decisão for desfavorável às empresas, pode haver aumento de custos e passivos trabalhistas, impactando o ambiente de negócios.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795631478.5472474,
+    "titulo": "Bolsas caem na Europa com peso de 'techs' em linha com maior percepção global de risco",
+    "titulo_original": "Bolsas caem na Europa com peso de 'techs' em linha com maior percepção global de risco",
+    "fonte": "Valor Economico",
+    "publicado": "25/11 14:44",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A queda das bolsas europeias, impulsionada por fatores globais como a percepção de risco e tarifas comerciais, pode indicar um cenário de aversão ao risco que pode se estender a outros mercados. Se a tensão comercial se intensificar, pode haver impacto negativo no comércio global e nas cadeias de suprimentos.",
     "is_stocks": true
   }
 ]
