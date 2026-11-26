@@ -1,87 +1,5 @@
 [
   {
-    "_timestamp": 1795612548.8054848,
-    "titulo": "Governo amplia previsão de déficit primário para 2026",
-    "titulo_original": "Governo amplia previsão de déficit primário para 2026",
-    "fonte": "Money Times",
-    "publicado": "25/11 08:39",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da previsão de déficit primário para 2026 sugere uma deterioração das contas públicas, o que pode pressionar a dívida pública e a percepção de risco fiscal. Se o governo não apresentar medidas eficazes para conter o déficit, isso pode levar a um aumento da desconfiança do mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795612552.4600663,
-    "titulo": "Mercado aguarda leilão de US$ 2 bilhões do BC e dólar permanece estável",
-    "titulo_original": "Mercado aguarda leilão de US$ 2 bilhões do BC e dólar permanece estável",
-    "fonte": "InvestNews",
-    "publicado": "25/11 10:03",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A estabilidade do dólar pode ser temporária, dependendo do resultado do leilão de divisas e das sinalizações sobre a PEC dos gastos. Se a PEC avançar com novas despesas, isso pode pressionar o dólar para cima no médio prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795612557.1452334,
-    "titulo": "Disparada do dólar divide economistas sobre exagero do mercado",
-    "titulo_original": "Disparada do dólar divide economistas sobre exagero do mercado - UOL Economia",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/11 08:51",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A divisão entre economistas sobre a alta do dólar sugere incerteza sobre a direção futura da moeda. Se a análise de exagero prevalecer, pode haver uma correção; se os fundamentos de pressão se mantiverem, a alta pode continuar.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795612560.8326263,
-    "titulo": "A frase que faltou no pacote fiscal",
-    "titulo_original": "A frase que faltou no pacote fiscal",
-    "fonte": "Folha Mercado",
-    "publicado": "25/11 07:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A discussão sobre a ausência de uma frase em um pacote fiscal pode indicar lacunas ou ambiguidades na legislação tributária. Se essa omissão gerar brechas ou interpretações desfavoráveis à arrecadação, pode haver impacto na percepção de risco fiscal do país.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795612565.0727992,
-    "titulo": "Sessão Europeia: Venda de ações e tecnologia se aprofunda, ouro ameaça US$ 3.500",
-    "titulo_original": "investingLive European session wrap: Equities and tech selloff deepens, gold threatens $3,500",
-    "fonte": "ForexLive",
-    "publicado": "25/11 09:43",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A forte queda em ações de tecnologia e o movimento do ouro podem indicar um aumento da aversão ao risco global. Se os EUA implementarem novas tarifas, isso pode intensificar as tensões comerciais e impactar negativamente os mercados de ações globais.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795612565.074161,
-    "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
-    "titulo_original": "Dólar hoje: siga ao vivo o valor da cotação - GZH",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/11 09:05",
-    "relevancia": "BAIXA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Notícia de acompanhamento de cotação, sem informações de causa ou consequência. O valor do dólar pode ser influenciado por diversos fatores macroeconômicos e de fluxo de capital, mas esta notícia não especifica quais.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795619756.06189,
     "titulo": "Premissa de Lula é não afetar gastos sociais, diz ministro do Planejamento sobre novas medidas",
     "titulo_original": "Premissa de Lula é não afetar gastos sociais, diz ministro do Planejamento sobre novas medidas",
@@ -1140,6 +1058,72 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A alocação de investimentos sugerida pela XP Asset indica uma preferência por setores com menor correlação com os ciclos de commodities e juros. Se as empresas mencionadas apresentarem bons resultados, isso pode sinalizar tendências de investimento para outros gestores e investidores no mercado brasileiro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795725047.6250787,
+    "titulo": "IPCA-15: serviços aliviam, mas clima e dólar desafiam a inflação - FGV Ibre",
+    "titulo_original": "IPCA-15: serviços aliviam, mas clima e dólar desafiam a inflação - FGV Ibre",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/11 14:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Apesar de alguns alívios pontuais, a persistência de fatores como o clima e a cotação do dólar indicam que a pressão inflacionária pode continuar. Se o dólar apresentar uma desvalorização significativa, isso poderia ajudar a conter a alta de preços em alguns setores.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795725052.331034,
+    "titulo": "Brasil fecha outubro com déficit de US$ 4 bilhões nas contas externas - Agência Brasil",
+    "titulo_original": "Brasil fecha outubro com déficit de US$ 4 bilhões nas contas externas - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/11 15:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O déficit nas contas externas em outubro indica uma saída líquida de recursos do país. Se essa tendência se mantiver, pode pressionar a taxa de câmbio e as reservas internacionais. A análise dos componentes dessa conta (balança comercial, serviços, rendas) é fundamental para entender a sustentabilidade do quadro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795725056.921689,
+    "titulo": "Petróleo sobe após ataque a refinaria na Arábia Saudita",
+    "titulo_original": "Petróleo sobe após ataque a refinaria na Arábia Saudita",
+    "fonte": "Valor Economico",
+    "publicado": "26/11 17:09",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O ataque a uma refinaria na Arábia Saudita eleva o risco de interrupção no fornecimento de petróleo, o que tende a sustentar os preços no curto prazo. Se a capacidade de produção da refinaria for rapidamente restabelecida, a pressão altista sobre o preço do barril pode diminuir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795725061.4473534,
+    "titulo": "Fed mantém postura dura e deve aumentar juros apesar de queda das ações",
+    "titulo_original": "Fed mantém postura dura e deve aumentar juros apesar de queda das ações",
+    "fonte": "Folha Mercado",
+    "publicado": "26/11 16:55",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A decisão do Fed de manter uma postura dura sugere que a inflação ainda é uma preocupação central, o que pode levar a mais aumentos de juros. Se os dados de inflação futuros mostrarem uma desaceleração consistente, o Fed poderá sinalizar uma pausa nos aumentos, o que seria positivo para os mercados de ações.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795725066.740799,
+    "titulo": "Cabo de guerra entre Black Friday e El Niño segura IPCA-15 em novembro, mas não muda perspectiva, dizem economistas",
+    "titulo_original": "Cabo de guerra entre Black Friday e El Niño segura IPCA-15 em novembro, mas não muda perspectiva, dizem economistas",
+    "fonte": "Valor Economico",
+    "publicado": "26/11 17:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A inflação em novembro veio abaixo do esperado devido a fatores temporários, mas a perspectiva de médio prazo permanece inalterada, com preocupações sobre o câmbio. Se o câmbio continuar a se depreciar, o impacto nos preços pode se tornar mais disseminado e persistente.",
     "is_stocks": true
   }
 ]
