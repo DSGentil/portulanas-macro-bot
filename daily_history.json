@@ -1,97 +1,5 @@
 [
   {
-    "_timestamp": 1795606253.6831522,
-    "titulo": "Ciudad del Este amplia vendas na Black Friday antecipada apesar do dólar alto",
-    "titulo_original": "Ciudad del Este amplia vendas na Black Friday antecipada apesar do dólar alto",
-    "fonte": "Folha Mercado",
-    "publicado": "25/11 07:58",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho de vendas em Ciudad del Este, mesmo com o dólar alto, sugere uma demanda resiliente por certos produtos, como eletrônicos. Se essa tendência se mantiver, pode indicar uma capacidade de consumo que não é totalmente contida pela variação cambial, mas o impacto direto nos canais macroeconômicos é limitado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795606258.9304736,
-    "titulo": "Entenda como o dólar ao redor de R$ 6 encarece comida, eletrônicos e passagens aéreas",
-    "titulo_original": "Entenda como o dólar ao redor de R$ 6 encarece comida, eletrônicos e passagens aéreas - InfoMoney",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/11 05:00",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar impacta diretamente o poder de compra e os custos de importação, afetando o preço de bens essenciais e supérfluos. Se o dólar se mantiver nesse patamar elevado, a pressão inflacionária sobre esses itens tende a persistir, afetando o consumo. A notícia não especifica a origem do movimento do dólar, apenas seu efeito.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795606264.1092165,
-    "titulo": "Petróleo e IR sobre capital puxam arrecadação",
-    "titulo_original": "Petróleo e IR sobre capital puxam arrecadação - Valor Econômico",
-    "fonte": "Google News Commodities",
-    "publicado": "25/11 05:11",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aumento da arrecadação, impulsionado pelo petróleo e IR sobre capital, pode aliviar a pressão sobre as contas públicas. Se essa tendência se mantiver, pode contribuir para o cumprimento de metas fiscais. No entanto, a notícia não detalha se essa arrecadação é resultado de decisões fiscais específicas ou de movimentos de mercado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795606269.2985487,
-    "titulo": "Quais são os principais eventos para hoje?",
-    "titulo_original": "What are the main events for today?",
-    "fonte": "ForexLive",
-    "publicado": "25/11 04:39",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "atividade_emprego",
-      "inflacao",
-      "juros"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "Os dados de atividade e inflação nos EUA, especialmente o PCE, são cruciais para as decisões futuras do Fed sobre juros. Se o PCE vier acima do esperado, reforçará a postura hawkish do Fed; se vier abaixo, pode abrir espaço para discussões sobre cortes de juros. A revisão do PIB alemão indica uma desaceleração, o que pode pressionar o BCE a manter uma postura mais cautelosa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795606275.5745995,
-    "titulo": "Entrada de BDRs de empresas brasileiras no Ibovespa deve ampliar a liquidez desses papéis",
-    "titulo_original": "Entrada de BDRs de empresas brasileiras no Ibovespa deve ampliar a liquidez desses papéis - Valor Investe",
-    "fonte": "Google News Acoes",
-    "publicado": "25/11 06:10",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A ampliação da liquidez de BDRs no Ibovespa pode facilitar a negociação desses papéis, atraindo mais investidores. Se essa maior liquidez se traduzir em maior volume de negociações e menor volatilidade, pode ser um passo positivo para a atratividade do mercado brasileiro no cenário internacional.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795606275.5764644,
-    "titulo": "Bolsas da China caem e têm menor patamar em mais de um ano; Seul desaba 6,16%",
-    "titulo_original": "Bolsas da China caem e têm menor patamar em mais de um ano; Seul desaba 6,16%",
-    "fonte": "Folha Mercado",
-    "publicado": "25/11 07:54",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda nas bolsas asiáticas, especialmente na China e Coreia do Sul, reflete um sentimento de aversão ao risco no mercado global. Se essa tendência de queda se estender para outros mercados, pode indicar uma maior preocupação com o crescimento econômico global ou com tensões geopolíticas.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795606275.5780385,
-    "titulo": "PCE e Livro Bege nos EUA mexem com bolsas hoje; Ibovespa em dólar cai nesta quarta-feira (25)",
-    "titulo_original": "PCE e Livro Bege nos EUA mexem com bolsas hoje; Ibovespa em dólar cai nesta quarta-feira (25)",
-    "fonte": "Money Times",
-    "publicado": "25/11 07:06",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A atenção aos desdobramentos da PEC de gastos e anúncios de ajuste fiscal no Brasil é fundamental para a percepção de risco fiscal. Se os anúncios forem robustos e corroborarem com o ajuste fiscal, isso pode melhorar o sentimento do mercado em relação à dívida pública. Caso contrário, a incerteza fiscal pode continuar pressionando o Ibovespa.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795612548.8054848,
     "titulo": "Governo amplia previsão de déficit primário para 2026",
     "titulo_original": "Governo amplia previsão de déficit primário para 2026",
@@ -1154,6 +1062,84 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A valorização do Ibovespa Futuro, atrelada a discussões sobre o fiscal e a Fazenda, demonstra a sensibilidade do mercado a sinais de definição na política econômica. Se houver clareza e credibilidade nas ações relacionadas à Fazenda, o otimismo pode se estender aos pregões seguintes; caso contrário, a volatilidade pode aumentar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795717884.094916,
+    "titulo": "Operação contra fintechs prende sete executivos; outras duas pessoas estão foragidas",
+    "titulo_original": "Operação contra fintechs prende sete executivos; outras duas pessoas estão foragidas",
+    "fonte": "Valor Economico",
+    "publicado": "26/11 15:01",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ação policial e a investigação do Ministério Público indicam um endurecimento na fiscalização de fintechs e plataformas de pagamento. Se a investigação revelar um padrão de conduta generalizado, isso pode levar a novas regulamentações ou a um escrutínio mais rigoroso por parte do Banco Central sobre o setor.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795717889.0385895,
+    "titulo": "CEO da Fictor inflou capital da holding de R$ 4 milhões para quase R$ 1 bi sem aporte real, diz MP",
+    "titulo_original": "CEO da Fictor inflou capital da holding de R$ 4 milhões para quase R$ 1 bi sem aporte real, diz MP",
+    "fonte": "Money Times",
+    "publicado": "26/11 14:16",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A acusação de fraude financeira contra o CEO do Grupo Fictor levanta preocupações sobre a integridade de operações de capitalização e investimentos. Se a investigação confirmar as irregularidades, isso pode gerar um ambiente de maior cautela para investidores e aumentar a pressão por fiscalização mais rigorosa em operações financeiras de grande porte.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795717893.9521463,
+    "titulo": "Dólar tem forte queda e toca os R$ 5,75 com melhora de expectativas sobre o governo",
+    "titulo_original": "Dólar tem forte queda e toca os R$ 5,75 com melhora de expectativas sobre o governo - Valor Econômico",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/11 09:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A queda do dólar para R$ 5,75 sugere que o mercado financeiro está reagindo positivamente a sinais de maior estabilidade ou melhora na percepção sobre a gestão econômica do governo. Se essa melhora de expectativas se consolidar, isso pode favorecer um ambiente de maior previsibilidade para investimentos e para o planejamento de empresas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795717898.846582,
+    "titulo": "BC freia teto da dívida familiar e diz que falta medir melhor o endividamento",
+    "titulo_original": "BC freia teto da dívida familiar e diz que falta medir melhor o endividamento",
+    "fonte": "Money Times",
+    "publicado": "26/11 14:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A declaração do Banco Central sobre a necessidade de melhor mensuração do endividamento familiar sugere que a discussão sobre um teto para a dívida familiar está em compasso de espera. Se o BC avançar na criação de mecanismos de controle, isso pode impactar o acesso ao crédito e o comportamento de consumo das famílias no futuro.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795717904.5594387,
+    "titulo": "Embraer foi pega de surpresa e vai insistir no argumento econômico para evitar tarifas, diz presidente",
+    "titulo_original": "Embraer foi pega de surpresa e vai insistir no argumento econômico para evitar tarifas, diz presidente",
+    "fonte": "Folha Mercado",
+    "publicado": "26/11 11:10",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A declaração do presidente da Embraer indica que a empresa buscará ativamente reverter a ameaça de tarifas americanas, focando em argumentos econômicos. Se as tarifas forem impostas, isso pode afetar a competitividade da Embraer no mercado internacional e gerar um impacto negativo em suas receitas e planos de expansão.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795717904.561296,
+    "titulo": "XP Asset evita BB e commodities e vê oportunidades em utilities, Smart Fit e Cyrela",
+    "titulo_original": "XP Asset evita BB e commodities e vê oportunidades em utilities, Smart Fit e Cyrela",
+    "fonte": "Valor Economico",
+    "publicado": "26/11 14:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A alocação de investimentos sugerida pela XP Asset indica uma preferência por setores com menor correlação com os ciclos de commodities e juros. Se as empresas mencionadas apresentarem bons resultados, isso pode sinalizar tendências de investimento para outros gestores e investidores no mercado brasileiro.",
     "is_stocks": true
   }
 ]
