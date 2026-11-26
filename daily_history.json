@@ -1,83 +1,5 @@
 [
   {
-    "_timestamp": 1795619756.06189,
-    "titulo": "Premissa de Lula é não afetar gastos sociais, diz ministro do Planejamento sobre novas medidas",
-    "titulo_original": "Premissa de Lula é não afetar gastos sociais, diz ministro do Planejamento sobre novas medidas",
-    "fonte": "Folha Mercado",
-    "publicado": "25/11 11:42",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do ministro indica que qualquer ajuste fiscal buscará preservar o investimento em áreas sociais. Se as novas medidas forem focadas em otimização de despesas não essenciais, isso pode sinalizar um esforço para equilibrar as contas públicas sem comprometer o bem-estar social.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795619760.9090166,
-    "titulo": "Tesouro Direto hoje: taxas curtas caem, longas sobem e Prefixado 2029 fica abaixo de 15%",
-    "titulo_original": "Tesouro Direto hoje: taxas curtas caem, longas sobem e Prefixado 2029 fica abaixo de 15%",
-    "fonte": "InvestNews",
-    "publicado": "25/11 11:15",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda nas taxas curtas e a alta nas longas podem indicar uma expectativa de que a taxa Selic permaneça em patamares elevados por mais tempo, mas com alguma perspectiva de queda futura. Se os juros de longo prazo continuarem a subir, isso pode refletir preocupações com a inflação futura ou com o risco fiscal.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795619764.5147505,
-    "titulo": "O susto com o dólar a R$ 6 - O GLOBO",
-    "titulo_original": "O susto com o dólar a R$ 6 - O GLOBO",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "25/11 07:22",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A cotação do dólar a R$ 6 pode impactar a inflação e o custo de importação para o Brasil. Se essa tendência de valorização da moeda americana se mantiver, o Banco Central pode precisar intervir para conter a volatilidade cambial.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795619768.0745785,
-    "titulo": "Soja chega a R$ 170 em Paranaguá com dólar perto de R$ 6, e diferença para Sorriso é de R$ 31",
-    "titulo_original": "Soja chega a R$ 170 em Paranaguá com dólar perto de R$ 6, e diferença para Sorriso é de R$ 31 - Portal do Agronegócio",
-    "fonte": "Google News Commodities",
-    "publicado": "25/11 10:50",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "domestica",
-    "leitura_critica": "A alta do dólar tem um impacto direto no preço das commodities agrícolas em reais, como a soja. Se o dólar se mantiver em patamares elevados, isso pode beneficiar os exportadores de commodities, mas também encarecer produtos importados.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795619772.2957802,
-    "titulo": "Wall Street abre sessão em forte queda com alta da inflação e pressão do setor tech",
-    "titulo_original": "Wall Street abre sessão em forte queda com alta da inflação e pressão do setor tech",
-    "fonte": "Money Times",
-    "publicado": "25/11 11:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "A alta da inflação nos EUA, medida pelo PCE, pode reforçar a percepção de que o Federal Reserve precisará manter uma postura mais restritiva em sua política monetária. Se o setor de tecnologia continuar sob pressão, isso pode afetar o desempenho geral do mercado acionário americano.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795619772.297185,
-    "titulo": "Wall Street em queda e nova liquidação de IA: por que mercado cai hoje? Leia análise",
-    "titulo_original": "Wall Street em queda e nova liquidação de IA: por que mercado cai hoje? Leia análise",
-    "fonte": "Money Times",
-    "publicado": "25/11 11:29",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A queda generalizada em Wall Street, especialmente no setor de tecnologia, pode indicar uma correção de mercado ou uma reavaliação das perspectivas para empresas de alto crescimento. Se essa tendência se mantiver, pode haver um movimento de aversão ao risco global.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795625144.0321198,
     "titulo": "Equipe econômica prevê fechar o ano com déficit nas contas inferior a R$ 68 bi",
     "titulo_original": "Equipe econômica prevê fechar o ano com déficit nas contas inferior a R$ 68 bi",
@@ -1124,6 +1046,130 @@
     ],
     "origem": "domestica",
     "leitura_critica": "A inflação em novembro veio abaixo do esperado devido a fatores temporários, mas a perspectiva de médio prazo permanece inalterada, com preocupações sobre o câmbio. Se o câmbio continuar a se depreciar, o impacto nos preços pode se tornar mais disseminado e persistente.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795730451.3904507,
+    "titulo": "Banco Central se manifesta a favor de devolução de R$ 316 milhões ao BRB",
+    "titulo_original": "Banco Central se manifesta a favor de devolução de R$ 316 milhões ao BRB",
+    "fonte": "Money Times",
+    "publicado": "26/11 18:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A manifestação do Banco Central sobre a liberação de recursos ao BRB pode sinalizar uma postura mais flexível em relação a certas operações financeiras. Se a decisão for efetivada e não houver novas restrições, isso pode trazer alguma liquidez para o banco; caso contrário, a incerteza sobre a titularidade dos ativos pode persistir.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795730456.9102452,
+    "titulo": "Soja chega a R$ 150 por saca no mercado brasileiro",
+    "titulo_original": "Soja chega a R$ 150 por saca no mercado brasileiro - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "26/11 16:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O preço da soja a R$ 150 por saca indica um cenário favorável para os produtores brasileiros, possivelmente influenciado pela demanda internacional e pela taxa de câmbio. Se o dólar se mantiver em patamares elevados e a demanda global por commodities agrícolas persistir, os preços da soja podem continuar sustentados; caso contrário, uma valorização do real ou uma desaceleração da demanda podem pressionar os preços para baixo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795730462.3285522,
+    "titulo": "Alta do preço da soja irriga o campo com mais receitas na reta final do ano",
+    "titulo_original": "Alta do preço da soja irriga o campo com mais receitas na reta final do ano",
+    "fonte": "Folha Mercado",
+    "publicado": "26/11 17:30",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento das receitas no campo devido à alta do preço da soja é um indicativo positivo para o setor agrícola brasileiro. Se a demanda global por soja se mantiver forte e o câmbio continuar favorável, os produtores podem continuar a ter bons resultados; caso contrário, uma queda nos preços internacionais ou uma valorização do real podem reduzir essa rentabilidade.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795730467.8642104,
+    "titulo": "Governo Lula deve consultar setores e buscar alternativas, após novas tarifas propostas pelos EUA",
+    "titulo_original": "Governo Lula deve consultar setores e buscar alternativas, após novas tarifas propostas pelos EUA",
+    "fonte": "Valor Economico",
+    "publicado": "26/11 18:24",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "ambas",
+    "leitura_critica": "A resposta do governo brasileiro às novas tarifas dos EUA sobre aviões pode gerar tensões comerciais e impactar setores específicos da economia. Se o Brasil conseguir negociar um acordo favorável ou encontrar alternativas viáveis, o impacto negativo pode ser mitigado; caso contrário, retaliações comerciais podem prejudicar as relações bilaterais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795730474.8108146,
+    "titulo": "Ibovespa sobe mais de 6% com notícia de que Trabuco assumirá Fazenda; ações do Bradesco avançam 11,6%",
+    "titulo_original": "Ibovespa sobe mais de 6% com notícia de que Trabuco assumirá Fazenda; ações do Bradesco avançam 11,6%",
+    "fonte": "Valor Economico",
+    "publicado": "26/11 18:42",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nomeação de Trabuco para a Fazenda é vista pelo mercado como um sinal de melhora na credibilidade fiscal, o que tende a favorecer o fluxo de capital para a bolsa. Se a confirmação da nomeação for oficializada e Trabuco apresentar um plano econômico que traga segurança, o Ibovespa pode continuar sua trajetória de alta; caso contrário, a volatilidade pode retornar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795730474.8123548,
+    "titulo": "Ibovespa tem a maior alta desde o 1º turno das eleições; dólar recua a R$ 5,74",
+    "titulo_original": "Ibovespa tem a maior alta desde o 1º turno das eleições; dólar recua a R$ 5,74 - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "26/11 18:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa e a desvalorização do dólar indicam um aumento da confiança do mercado, possivelmente influenciado por notícias de melhora na perspectiva fiscal. Se essa tendência de melhora na percepção de risco se mantiver, o fluxo de capital para o Brasil pode aumentar; caso contrário, a reversão desse cenário pode levar a uma nova valorização do dólar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795730474.8137598,
+    "titulo": "Ibovespa dispara 6% com ‘efeito Trabuco’ e recupera os 176 mil pontos; dólar cai a R$ 5,74",
+    "titulo_original": "Ibovespa dispara 6% com ‘efeito Trabuco’ e recupera os 176 mil pontos; dólar cai a R$ 5,74 - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "26/11 18:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa e a queda do dólar, associadas à possível nomeação de Trabuco para a Fazenda, indicam um otimismo do mercado com a perspectiva de maior credibilidade fiscal. Se essa percepção se consolidar e for acompanhada por políticas econômicas consistentes, o fluxo de capital para o Brasil pode se intensificar; caso contrário, a reversão desse sentimento pode levar a uma nova valorização do dólar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795730474.815164,
+    "titulo": "Trabuco vai a Brasília e aliados de Lula acreditam que banqueiro aceitará convite para a Fazenda",
+    "titulo_original": "Trabuco vai a Brasília e aliados de Lula acreditam que banqueiro aceitará convite para a Fazenda",
+    "fonte": "Valor Economico",
+    "publicado": "26/11 17:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A expectativa de que Trabuco aceite o convite para a Fazenda reforça a percepção de melhora na credibilidade fiscal, o que tende a ser positivo para os ativos brasileiros. Se a nomeação for confirmada e Trabuco apresentar um plano de gestão que traga segurança aos investidores, o mercado financeiro pode reagir favoravelmente; caso contrário, a incerteza sobre a condução da política econômica pode gerar volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795730474.8165815,
+    "titulo": "Usiminas espera resultado menor no 4º tri com pressão do câmbio",
+    "titulo_original": "Usiminas espera resultado menor no 4º tri com pressão do câmbio",
+    "fonte": "Folha Mercado",
+    "publicado": "26/11 18:39",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A pressão cambial sobre os custos da Usiminas pode indicar um cenário de dólar mais forte, o que impacta empresas com custos dolarizados. Se o câmbio se mantiver volátil, outras empresas do setor de commodities podem apresentar resultados semelhantes; caso contrário, a pressão sobre os custos pode diminuir.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795730474.8180015,
+    "titulo": "Localiza lidera altas do Ibovespa hoje e apenas uma ação cai; veja qual",
+    "titulo_original": "Localiza lidera altas do Ibovespa hoje e apenas uma ação cai; veja qual - Estadão",
+    "fonte": "Google News Acoes",
+    "publicado": "26/11 16:49",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O desempenho positivo da Localiza no Ibovespa pode refletir notícias específicas da empresa ou um sentimento geral de melhora no setor de locação de veículos. Se a empresa apresentar resultados sólidos e o setor continuar em expansão, suas ações podem manter a tendência de alta; caso contrário, fatores macroeconômicos ou setoriais podem impactar seu desempenho.",
     "is_stocks": true
   }
 ]
