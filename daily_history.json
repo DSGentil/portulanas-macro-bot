@@ -1,158 +1,5 @@
 [
   {
-    "_timestamp": 1795625144.0321198,
-    "titulo": "Equipe econômica prevê fechar o ano com déficit nas contas inferior a R$ 68 bi",
-    "titulo_original": "Equipe econômica prevê fechar o ano com déficit nas contas inferior a R$ 68 bi",
-    "fonte": "Folha Mercado",
-    "publicado": "25/11 13:20",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A previsão de um déficit fiscal inferior ao esperado é um sinal positivo para as contas públicas brasileiras. Se essa meta for confirmada, pode reforçar a confiança dos investidores na gestão fiscal do país e contribuir para a estabilidade econômica. No entanto, é crucial observar se essa melhora se sustenta em médio e longo prazo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795625148.3813794,
-    "titulo": "Tarifaço de Trump: EUA propõem tarifa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar - G1",
-    "titulo_original": "Tarifaço de Trump: EUA propõem tarifa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar - G1",
-    "fonte": "Google News Geopolitica",
-    "publicado": "25/11 10:16",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "As novas tarifas propostas pelos EUA representam um endurecimento da política comercial, com potencial impacto direto em setores exportadores brasileiros como o aeronáutico e o açucareiro. Se essas tarifas forem implementadas, podem afetar a competitividade e o volume de exportações brasileiras, exigindo respostas diplomáticas e estratégicas do governo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795625152.7415843,
-    "titulo": "Itamaraty diz que avaliará impactos de novas tarifas propostas por Trump sobre aviões e açúcar",
-    "titulo_original": "Itamaraty diz que avaliará impactos de novas tarifas propostas por Trump sobre aviões e açúcar",
-    "fonte": "Money Times",
-    "publicado": "25/11 12:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A declaração do Itamaraty indica que o governo brasileiro está atento às novas tarifas impostas pelos EUA e que analisará suas consequências. A forma como o Brasil responderá a essas medidas, seja por meio de negociações diplomáticas ou retaliações, poderá influenciar o fluxo de comércio e a relação bilateral.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795625157.054548,
-    "titulo": "Inflação principal do PCE de outubro dos EUA +0,3% m/m vs +0,3% esperado",
-    "titulo_original": "US October PCE core inflation +0.3% m/m vs +0.3% expected",
-    "fonte": "ForexLive",
-    "publicado": "25/11 10:30",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "externa",
-    "leitura_critica": "O dado de inflação principal do PCE, embora em linha com o esperado na variação mensal, veio ligeiramente acima do consenso na variação anual, o que pode reforçar a cautela do Federal Reserve em relação a cortes de juros. Se os próximos dados de inflação continuarem a mostrar essa tendência, o Fed pode adiar o início do ciclo de flexibilização monetária.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795625162.5700347,
-    "titulo": "Se desequilíbrio fiscal persistir, ‘uma hora a conta chega’, diz CIO do Itaú Unibanco",
-    "titulo_original": "Se desequilíbrio fiscal persistir, ‘uma hora a conta chega’, diz CIO do Itaú Unibanco",
-    "fonte": "Valor Economico",
-    "publicado": "25/11 13:25",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração do CIO do Itaú Unibanco sinaliza a importância da gestão fiscal para a alocação de carteiras em um cenário de juros e inflação elevados. Se o governo não apresentar um plano de ajuste fiscal crível, a percepção de risco pode aumentar, impactando a atratividade de ativos brasileiros.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795625162.5717924,
-    "titulo": "Ações da Embraer caem mais de 9% após proposta dos EUA de tarifa sobre aviões brasileiros",
-    "titulo_original": "Ações da Embraer caem mais de 9% após proposta dos EUA de tarifa sobre aviões brasileiros",
-    "fonte": "Folha Mercado",
-    "publicado": "25/11 11:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A proposta de tarifa dos EUA sobre aeronaves brasileiras impacta diretamente a Embraer, que tem forte dependência do mercado norte-americano. Se a tarifa for efetivada, isso pode reduzir a competitividade da empresa e afetar seus resultados futuros, exigindo uma reavaliação das projeções de mercado.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795625162.5734615,
-    "titulo": "Ibovespa tem alta modesta com fiscal no foco - InfoMoney",
-    "titulo_original": "Ibovespa tem alta modesta com fiscal no foco - InfoMoney",
-    "fonte": "Google News Acoes",
-    "publicado": "25/11 11:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O desempenho modesto do Ibovespa, influenciado pelo foco no fiscal, sugere que o mercado aguarda definições concretas sobre as contas públicas. Se houver avanços significativos na agenda fiscal, isso pode impulsionar o índice; caso contrário, a volatilidade pode persistir.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795625162.5751245,
-    "titulo": "Embraer volta à rota das tarifas de Trump e ação cai 10%",
-    "titulo_original": "Embraer volta à rota das tarifas de Trump e ação cai 10%",
-    "fonte": "InvestNews",
-    "publicado": "25/11 12:27",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "O impacto direto nas ações da Embraer demonstra a sensibilidade da empresa a políticas comerciais dos EUA. Se as tarifas forem confirmadas, a receita e a lucratividade da Embraer podem ser significativamente afetadas, exigindo uma estratégia de diversificação de mercados ou de renegociação com o governo americano.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795625162.5767856,
-    "titulo": "Ibovespa avança com fiscal e PCE; Vale tem leve recuperação - Valor Econômico",
-    "titulo_original": "Ibovespa avança com fiscal e PCE; Vale tem leve recuperação - Valor Econômico",
-    "fonte": "Google News Acoes",
-    "publicado": "25/11 10:47",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "ambas",
-    "leitura_critica": "A alta do Ibovespa, influenciada tanto pelo cenário fiscal doméstico quanto pelos dados de inflação dos EUA, sugere um otimismo cauteloso do mercado. Se os dados fiscais continuarem a apresentar melhora e a inflação americana se mantiver sob controle, o índice pode ter espaço para novas valorizações.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795625162.578479,
-    "titulo": "Ajuste fiscal não é sobre cortar benefícios sociais, diz economista-chefe da Itaú Asset",
-    "titulo_original": "Ajuste fiscal não é sobre cortar benefícios sociais, diz economista-chefe da Itaú Asset",
-    "fonte": "Money Times",
-    "publicado": "25/11 12:48",
-    "relevancia": "MEDIA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A declaração de Thomas Wu busca desmistificar o debate sobre ajuste fiscal, focando na necessidade de adequação das contas públicas sem necessariamente sacrificar benefícios sociais. Se o governo conseguir comunicar essa visão e implementar medidas eficazes, pode haver maior aceitação pública e menor volatilidade política.",
-    "is_stocks": true
-  },
-  {
-    "_timestamp": 1795625162.580152,
-    "titulo": "Nvidia aceita acordo de US$ 290 milhões em ação coletiva de investidores de 2018",
-    "titulo_original": "Nvidia aceita acordo de US$ 290 milhões em ação coletiva de investidores de 2018",
-    "fonte": "Valor Economico",
-    "publicado": "25/11 13:24",
-    "relevancia": "MEDIA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "Este é um acordo judicial referente a uma ação coletiva contra a Nvidia, sem relação direta com decisões macroeconômicas ou fiscais que afetem o mercado brasileiro. A relevância se restringe ao âmbito corporativo e ao setor de tecnologia.",
-    "is_stocks": true
-  },
-  {
     "_timestamp": 1795631455.4401748,
     "titulo": "Fluxo cambial registra saída de US$ 1,535 bilhão na semana de 16 a 19 de novembro",
     "titulo_original": "Fluxo cambial registra saída de US$ 1,535 bilhão na semana de 16 a 19 de novembro",
@@ -1170,6 +1017,74 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O desempenho positivo da Localiza no Ibovespa pode refletir notícias específicas da empresa ou um sentimento geral de melhora no setor de locação de veículos. Se a empresa apresentar resultados sólidos e o setor continuar em expansão, suas ações podem manter a tendência de alta; caso contrário, fatores macroeconômicos ou setoriais podem impactar seu desempenho.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795735840.2673686,
+    "titulo": "CMN amplia limites de crédito para Estados, DF e municípios, e teto vai a R$ 11 bi",
+    "titulo_original": "CMN amplia limites de crédito para Estados, DF e municípios, e teto vai a R$ 11 bi",
+    "fonte": "Valor Economico",
+    "publicado": "26/11 20:11",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A ampliação do limite de crédito para entes subnacionais pode aliviar pressões de liquidez em governos locais. Se a demanda por esses créditos se mantiver alta, pode indicar um cenário de maior endividamento público em níveis regionais.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795735844.9464762,
+    "titulo": "Relatório do Orçamento prevê R$ 12,8 bi para emendas de comissão e corte de R$ 2 bi do governo",
+    "titulo_original": "Relatório do Orçamento prevê R$ 12,8 bi para emendas de comissão e corte de R$ 2 bi do governo",
+    "fonte": "Folha Mercado",
+    "publicado": "26/11 20:20",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aumento nas emendas de comissão, mesmo com um corte em despesas do Executivo, pode indicar uma negociação política em torno do orçamento. Se o texto final mantiver o acréscimo substancial nas emendas, isso pode pressionar o lado da despesa do governo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795735849.58666,
+    "titulo": "Exportações de soja rendem 6,8% mais por dia em novembro, mesmo com queda nos embarques",
+    "titulo_original": "Exportações de soja rendem 6,8% mais por dia em novembro, mesmo com queda nos embarques - Portal do Agronegócio",
+    "fonte": "Google News Commodities",
+    "publicado": "26/11 18:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O aumento no rendimento diário das exportações de soja, mesmo com menor volume, sugere uma valorização do produto no mercado internacional. A sustentabilidade dessa tendência dependerá da dinâmica da oferta e demanda global e das condições climáticas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795735854.103314,
+    "titulo": "Confiança do consumidor na Nova Zelândia quebra 100 com queda nos preços dos combustíveis, aliviando temores de inflação",
+    "titulo_original": "NZ consumer confidence breaks 100 as falling fuel prices cool inflation fears",
+    "fonte": "ForexLive",
+    "publicado": "26/11 18:32",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A melhora na confiança do consumidor e a queda nas expectativas de inflação podem sinalizar um cenário menos pressionado para o Banco Central da Nova Zelândia. Se os preços do petróleo voltarem a subir, a melhora observada pode ser revertida rapidamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795735859.7117548,
+    "titulo": "O plano para liberar R$ 24 bilhões e encerrar a disputa de mais de 15 anos entre Petrobras e ANP",
+    "titulo_original": "O plano para liberar R$ 24 bilhões e encerrar a disputa de mais de 15 anos entre Petrobras e ANP",
+    "fonte": "InvestNews",
+    "publicado": "26/11 16:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A resolução da disputa entre Petrobras e ANP pode trazer clareza regulatória e destravar recursos significativos. Se a proposta for aprovada, o repasse de R$ 16 bilhões ao poder público pode impactar positivamente a arrecadação fiscal.",
     "is_stocks": true
   }
 ]
