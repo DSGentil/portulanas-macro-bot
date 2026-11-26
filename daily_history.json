@@ -975,5 +975,75 @@
     "origem": "externa",
     "leitura_critica": "A escalada do conflito em Gaza é um evento geopolítico de alta relevância externa. Embora a notícia não detalhe um impacto direto nos canais macroeconômicos brasileiros, eventos dessa magnitude podem gerar volatilidade nos mercados globais, afetando o apetite a risco e, consequentemente, fluxos de capital e preços de commodities, o que pode ter reflexos indiretos no Brasil.",
     "is_stocks": false
+  },
+  {
+    "_timestamp": 1795706141.643299,
+    "titulo": "Há risco de migração para crédito fora do sistema financeiro após aperto contra inadimplência, diz diretor do BC",
+    "titulo_original": "Há risco de migração para crédito fora do sistema financeiro após aperto contra inadimplência, diz diretor do BC",
+    "fonte": "Valor Economico",
+    "publicado": "26/11 11:58",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Se o aperto nas regras de crédito levar a um aumento significativo do mercado informal de crédito, isso pode criar novas vulnerabilidades e dificultar o controle da política monetária. Caso as medidas do BC consigam equilibrar a proteção ao consumidor com a manutenção do crédito saudável, o impacto no sistema financeiro pode ser mitigado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795706147.7782407,
+    "titulo": "Contas externas têm déficit de US$ 4 bilhões em outubro - Agência Brasil",
+    "titulo_original": "Contas externas têm déficit de US$ 4 bilhões em outubro - Agência Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "26/11 10:33",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Um déficit nas contas externas pode indicar uma saída líquida de recursos do país ou um aumento da dívida externa. Se este déficit persistir, pode pressionar a taxa de câmbio e demandar maior entrada de capital estrangeiro para financiamento.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795706152.5142126,
+    "titulo": "Durigan fala em combater supersalários e mudar aposentadoria de militares em novo pacote fiscal",
+    "titulo_original": "Durigan fala em combater supersalários e mudar aposentadoria de militares em novo pacote fiscal",
+    "fonte": "Folha Mercado",
+    "publicado": "26/11 12:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As propostas de revisão de gastos e aposentadorias visam o controle fiscal, mas podem enfrentar resistência política. Se aprovadas, essas medidas podem contribuir para a redução do déficit público, mas o impacto na arrecadação e nas despesas dependerá dos detalhes e da negociação no Congresso.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795706158.4181228,
+    "titulo": "IPCA-15 surpreende até os mais otimistas do mercado, mas inflação pode superar 6% no início de 2027",
+    "titulo_original": "IPCA-15 surpreende até os mais otimistas do mercado, mas inflação pode superar 6% no início de 2027",
+    "fonte": "Money Times",
+    "publicado": "26/11 11:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A desaceleração do IPCA-15 em novembro é um alívio, mas a projeção de inflação acima de 6% no início de 2027 sugere que o Banco Central pode manter uma postura cautelosa. Se a inflação voltar a acelerar, isso pode adiar ou limitar cortes futuros na taxa Selic.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795706170.4799957,
+    "titulo": "Banco Central aperta regras de crédito para frear endividamento excessivo",
+    "titulo_original": "Banco Central aperta regras de crédito para frear endividamento excessivo",
+    "fonte": "InvestNews",
+    "publicado": "26/11 10:19",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O aperto nas regras de crédito visa proteger os consumidores, mas pode impactar a disponibilidade e o custo do crédito para outros segmentos. Se as novas regras forem muito restritivas, podem desacelerar o consumo e a atividade econômica.",
+    "is_stocks": false
   }
 ]
