@@ -1,75 +1,5 @@
 [
   {
-    "_timestamp": 1795706141.643299,
-    "titulo": "Há risco de migração para crédito fora do sistema financeiro após aperto contra inadimplência, diz diretor do BC",
-    "titulo_original": "Há risco de migração para crédito fora do sistema financeiro após aperto contra inadimplência, diz diretor do BC",
-    "fonte": "Valor Economico",
-    "publicado": "26/11 11:58",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Se o aperto nas regras de crédito levar a um aumento significativo do mercado informal de crédito, isso pode criar novas vulnerabilidades e dificultar o controle da política monetária. Caso as medidas do BC consigam equilibrar a proteção ao consumidor com a manutenção do crédito saudável, o impacto no sistema financeiro pode ser mitigado.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795706147.7782407,
-    "titulo": "Contas externas têm déficit de US$ 4 bilhões em outubro - Agência Brasil",
-    "titulo_original": "Contas externas têm déficit de US$ 4 bilhões em outubro - Agência Brasil",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/11 10:33",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "Um déficit nas contas externas pode indicar uma saída líquida de recursos do país ou um aumento da dívida externa. Se este déficit persistir, pode pressionar a taxa de câmbio e demandar maior entrada de capital estrangeiro para financiamento.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795706152.5142126,
-    "titulo": "Durigan fala em combater supersalários e mudar aposentadoria de militares em novo pacote fiscal",
-    "titulo_original": "Durigan fala em combater supersalários e mudar aposentadoria de militares em novo pacote fiscal",
-    "fonte": "Folha Mercado",
-    "publicado": "26/11 12:06",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "As propostas de revisão de gastos e aposentadorias visam o controle fiscal, mas podem enfrentar resistência política. Se aprovadas, essas medidas podem contribuir para a redução do déficit público, mas o impacto na arrecadação e nas despesas dependerá dos detalhes e da negociação no Congresso.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795706158.4181228,
-    "titulo": "IPCA-15 surpreende até os mais otimistas do mercado, mas inflação pode superar 6% no início de 2027",
-    "titulo_original": "IPCA-15 surpreende até os mais otimistas do mercado, mas inflação pode superar 6% no início de 2027",
-    "fonte": "Money Times",
-    "publicado": "26/11 11:08",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A desaceleração do IPCA-15 em novembro é um alívio, mas a projeção de inflação acima de 6% no início de 2027 sugere que o Banco Central pode manter uma postura cautelosa. Se a inflação voltar a acelerar, isso pode adiar ou limitar cortes futuros na taxa Selic.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795706170.4799957,
-    "titulo": "Banco Central aperta regras de crédito para frear endividamento excessivo",
-    "titulo_original": "Banco Central aperta regras de crédito para frear endividamento excessivo",
-    "fonte": "InvestNews",
-    "publicado": "26/11 10:19",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O aperto nas regras de crédito visa proteger os consumidores, mas pode impactar a disponibilidade e o custo do crédito para outros segmentos. Se as novas regras forem muito restritivas, podem desacelerar o consumo e a atividade econômica.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1795711544.5923517,
     "titulo": "Medidas do BC contra endividamento vão afetar até 20 mi de pessoas, diz diretor",
     "titulo_original": "Medidas do BC contra endividamento vão afetar até 20 mi de pessoas, diz diretor",
@@ -1094,6 +1024,141 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "A previsão do Magalu de despachar mais de 400 mil itens na Black Friday indica um volume significativo de vendas e atividade logística. Se o volume real superar as expectativas, isso pode ser um termômetro positivo para o varejo e o consumo no período, mas o impacto setorial é mais direto do que macro.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795816849.816964,
+    "titulo": "Boletim Cambial (27/11): Euro e Dólar PTAX - TradeMap",
+    "titulo_original": "Boletim Cambial (27/11): Euro e Dólar PTAX - TradeMap",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/11 13:34",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A notícia se refere a um boletim cambial que divulga taxas de câmbio, mas o resumo não detalha os valores ou variações. Sem informações específicas sobre o comportamento do dólar ou euro, a relevância direta para operações de WDO é limitada, mas a mera divulgação de PTAX é um fato do mercado de câmbio.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795816854.7255003,
+    "titulo": "Qual será a política fiscal de Lula 4?",
+    "titulo_original": "Qual será a política fiscal de Lula 4?",
+    "fonte": "Folha Mercado",
+    "publicado": "27/11 16:35",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A incerteza sobre a política fiscal futura é um fator de atenção para os mercados. Se a política fiscal se mostrar mais austera, isso pode ser positivo para a confiança dos investidores; se for mais expansionista, pode gerar preocupações com a dívida pública e inflação.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795816859.5593746,
+    "titulo": "Dólar recua 4% e atinge R$ 5,51 depois de Trabuco aceitar convite para comandar a Fazenda - VEJA",
+    "titulo_original": "Dólar recua 4% e atinge R$ 5,51 depois de Trabuco aceitar convite para comandar a Fazenda - VEJA",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/11 17:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte desvalorização do dólar indica uma melhora na percepção de risco do Brasil após a confirmação de Trabuco na Fazenda. Se essa melhora na confiança se mantiver, o câmbio pode continuar em patamares mais baixos, o que beneficia importadores e pode ajudar a conter a inflação de produtos importados.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795816864.5225651,
+    "titulo": "Trabuco no Lula 4 deve distensionar relação de conflito com BC, dizem aliados",
+    "titulo_original": "Trabuco no Lula 4 deve distensionar relação de conflito com BC, dizem aliados",
+    "fonte": "Folha Mercado",
+    "publicado": "27/11 13:50",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia sugere que a nomeação de Trabuco pode melhorar a relação com o Banco Central, o que poderia facilitar a convergência de políticas e a previsibilidade na condução da economia. Se essa distensão se concretizar, pode haver um ambiente mais favorável para a queda da inflação e, consequentemente, para a redução dos juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795816870.4442797,
+    "titulo": "Ibovespa termina em leve queda no ‘day after’ de Trabuco, mas sobe 6% na semana",
+    "titulo_original": "Ibovespa termina em leve queda no ‘day after’ de Trabuco, mas sobe 6% na semana",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 18:26",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nomeação de Trabuco para a Fazenda gerou um forte movimento positivo no Ibovespa durante a semana. Se a percepção de melhora na condução fiscal se consolidar com a atuação do novo ministro, o índice pode sustentar a tendência de alta. Caso contrário, a volatilidade observada no pregão de sexta-feira pode se intensificar.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795816870.4455428,
+    "titulo": "Por que Ibovespa amenizou ganhos após saltar quase 7 mil pontos com “efeito Trabuco”? - InfoMoney",
+    "titulo_original": "Por que Ibovespa amenizou ganhos após saltar quase 7 mil pontos com “efeito Trabuco”? - InfoMoney",
+    "fonte": "Google News Acoes",
+    "publicado": "27/11 13:08",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia reforça o impacto da nomeação de Trabuco no mercado acionário, indicando que a realização de lucros pode ter limitado a alta. Se a percepção de melhora fiscal se mantiver, o mercado pode voltar a precificar ganhos futuros, mas a realização de lucros pode gerar volatilidade no curto prazo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795816870.4466949,
+    "titulo": "Taxas dos DIs fecham com fortes baixas após governo Lula confirmar Trabuco na Fazenda",
+    "titulo_original": "Taxas dos DIs fecham com fortes baixas após governo Lula confirmar Trabuco na Fazenda",
+    "fonte": "Money Times",
+    "publicado": "27/11 17:17",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A forte queda nas taxas dos DIs reflete a expectativa do mercado por uma condução fiscal mais responsável com a nomeação de Trabuco. Se essa percepção se confirmar, pode haver pressão para novas quedas nas taxas de juros futuras, o que impactaria o custo do dinheiro no país.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795816870.4478252,
+    "titulo": "Ibovespa perde força com investidores embolsando ganhos com a nomeação de Trabuco - VEJA",
+    "titulo_original": "Ibovespa perde força com investidores embolsando ganhos com a nomeação de Trabuco - VEJA",
+    "fonte": "Google News Acoes",
+    "publicado": "27/11 13:27",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A notícia reitera que a realização de lucros limitou a alta do Ibovespa após a nomeação de Trabuco. Se o mercado interpretar a nomeação como um sinal de melhora fiscal sustentável, a tendência de alta pode ser retomada; caso contrário, a realização de lucros pode se intensificar, gerando volatilidade.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795816870.4489336,
+    "titulo": "Bancos estrangeiros elogiam Trabuco e condicionam melhora fiscal à autonomia dele na Fazenda",
+    "titulo_original": "Bancos estrangeiros elogiam Trabuco e condicionam melhora fiscal à autonomia dele na Fazenda",
+    "fonte": "Folha Mercado",
+    "publicado": "27/11 13:48",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "O elogio de bancos estrangeiros a Trabuco e a condição de autonomia na Fazenda indicam que a percepção de risco fiscal pode melhorar se ele tiver liberdade para implementar suas políticas. Se a autonomia for garantida, isso pode atrair mais capital estrangeiro e reforçar a tendência de queda do dólar e dos juros.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795816870.450034,
+    "titulo": "Dúvidas sobre IA elevam cautela nos mercados para 2027, avalia Principal",
+    "titulo_original": "Dúvidas sobre IA elevam cautela nos mercados para 2027, avalia Principal",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 18:28",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A notícia aponta para uma maior cautela nos mercados globais devido a incertezas em torno da inteligência artificial e da economia americana. Se essa cautela se traduzir em menor apetite a risco global, isso pode impactar o fluxo de capital para mercados emergentes, mas a notícia não especifica essa conexão.",
     "is_stocks": true
   }
 ]
