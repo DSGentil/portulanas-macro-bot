@@ -1,74 +1,5 @@
 [
   {
-    "_timestamp": 1795698958.2032702,
-    "titulo": "Dólar tem forte queda e toca os R$ 5,75 com melhora de expectativas sobre o governo",
-    "titulo_original": "Dólar tem forte queda e toca os R$ 5,75 com melhora de expectativas sobre o governo",
-    "fonte": "Valor Economico",
-    "publicado": "26/11 09:50",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A melhora nas expectativas sobre a política econômica doméstica tende a sustentar o dólar em patamares mais baixos. Caso as expectativas sobre o ajuste fiscal se concretizem e a nomeação para o Ministério da Fazenda seja confirmada, o fluxo de capital para o país pode se intensificar, pressionando ainda mais o câmbio para baixo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795698964.5077891,
-    "titulo": "Tesouro Direto hoje: taxas caem em todos os títulos e prefixados ficam abaixo de 15%",
-    "titulo_original": "Tesouro Direto hoje: taxas caem em todos os títulos e prefixados ficam abaixo de 15%",
-    "fonte": "InvestNews",
-    "publicado": "26/11 09:41",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "juros"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda generalizada nas taxas do Tesouro Direto sugere uma expectativa de juros menores no futuro ou uma maior demanda por títulos públicos. Se essa tendência se mantiver, pode indicar uma mudança na percepção do mercado sobre a política monetária. Acompanhar a divulgação de novos dados de inflação e decisões do Copom será crucial para entender a sustentabilidade dessa queda.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795698970.7976632,
-    "titulo": "Dólar abre em queda e vai abaixo de R$ 5,80, com prévia da inflação e política econômica no radar",
-    "titulo_original": "Dólar abre em queda e vai abaixo de R$ 5,80, com prévia da inflação e política econômica no radar - G1",
-    "fonte": "Google News Cambio Juros",
-    "publicado": "26/11 09:00",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "inflacao",
-      "decisao_fiscal_regulatoria"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "A queda do dólar, associada à prévia da inflação e à política econômica, sugere que o mercado está precificando um cenário de maior estabilidade ou melhora nas perspectivas fiscais e de preços. Se os dados de inflação continuarem a surpreender positivamente e as decisões fiscais forem percebidas como sólidas, o dólar pode seguir em trajetória de baixa.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795698979.9182222,
-    "titulo": "Estoque de Investimento Direto no País atinge recorde de US$ 1,416 trilhão em 2025",
-    "titulo_original": "Estoque de Investimento Direto no País atinge recorde de US$ 1,416 trilhão em 2025",
-    "fonte": "Valor Economico",
-    "publicado": "26/11 09:49",
-    "relevancia": "ALTA",
-    "canais_afetados": [
-      "fluxo_capital"
-    ],
-    "origem": "domestica",
-    "leitura_critica": "O recorde no estoque de Investimento Direto no País (IDP) indica um forte ingresso de capital estrangeiro produtivo. Se essa tendência de ingressos líquidos se mantiver, pode fortalecer a posição externa do Brasil e influenciar positivamente a taxa de câmbio. Acompanhar a origem e a destinação desses investimentos será importante para avaliar o impacto contínuo.",
-    "is_stocks": false
-  },
-  {
-    "_timestamp": 1795698986.0664158,
-    "titulo": "Israel intensifica ataques em Gaza e mata 3º chefe do Hamas em 3 dias",
-    "titulo_original": "Israel intensifica ataques em Gaza e mata 3º chefe do Hamas em 3 dias - Folha de S.Paulo",
-    "fonte": "Google News Geopolitica",
-    "publicado": "26/11 10:11",
-    "relevancia": "ALTA",
-    "canais_afetados": [],
-    "origem": "externa",
-    "leitura_critica": "A escalada do conflito em Gaza é um evento geopolítico de alta relevância externa. Embora a notícia não detalhe um impacto direto nos canais macroeconômicos brasileiros, eventos dessa magnitude podem gerar volatilidade nos mercados globais, afetando o apetite a risco e, consequentemente, fluxos de capital e preços de commodities, o que pode ter reflexos indiretos no Brasil.",
-    "is_stocks": false
-  },
-  {
     "_timestamp": 1795706141.643299,
     "titulo": "Há risco de migração para crédito fora do sistema financeiro após aperto contra inadimplência, diz diretor do BC",
     "titulo_original": "Há risco de migração para crédito fora do sistema financeiro após aperto contra inadimplência, diz diretor do BC",
@@ -1101,6 +1032,68 @@
     "canais_afetados": [],
     "origem": "domestica",
     "leitura_critica": "O lançamento de uma nova stablecoin de real, com apoio da B3 e de bancos, pode indicar um avanço na digitalização do sistema financeiro brasileiro e na adoção de novas tecnologias. Se bem sucedida, pode facilitar transações e a integração de ativos digitais no mercado financeiro tradicional.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795811446.8852348,
+    "titulo": "Fictor teria inflado capital social da holding de R$ 4,2 milhões para quase R$ 1 bilhão",
+    "titulo_original": "Fictor teria inflado capital social da holding de R$ 4,2 milhões para quase R$ 1 bilhão",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 15:52",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A acusação de inflação de capital social e captação de recursos sem lastro pelo Grupo Fictor aponta para um esquema fraudulento com potencial impacto significativo no mercado de capitais e na confiança dos investidores. Se a investigação confirmar as irregularidades, isso pode levar a um escrutínio maior sobre práticas de mercado e exigir ações regulatórias mais rigorosas.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795811451.6978788,
+    "titulo": "Chuvas reduzem temor com El Niño e animam produtores de soja em Mato Grosso",
+    "titulo_original": "Chuvas reduzem temor com El Niño e animam produtores de soja em Mato Grosso - InfoMoney",
+    "fonte": "Google News Commodities",
+    "publicado": "27/11 15:45",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A melhora nas condições de chuva em Mato Grosso, reduzindo o temor do El Niño, é uma notícia positiva para os produtores de soja. Se as chuvas se mantiverem adequadas, isso pode garantir uma boa safra, impactando positivamente a produção agrícola e as exportações, mas o efeito macroeconômico depende da dimensão da safra e de sua contribuição para o PIB e balança comercial.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795811457.622807,
+    "titulo": "Produção de soja avança em Goiás; veja os custos para a safra 2026/27",
+    "titulo_original": "Produção de soja avança em Goiás; veja os custos para a safra 2026/27 - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "27/11 17:02",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O avanço na produção de soja em Goiás e a divulgação de custos para a safra 2026/27 indicam planejamento e desenvolvimento no setor agrícola. Se os custos se mantiverem competitivos e a produção for robusta, isso pode fortalecer a posição do Brasil como exportador de soja, mas o impacto macroeconômico é gradual e depende de outros fatores de mercado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795811462.68009,
+    "titulo": "Soja chega a R$ 170 por saca em Paranaguá e vendas da safra nova ganham ritmo em novembro",
+    "titulo_original": "Soja chega a R$ 170 por saca em Paranaguá e vendas da safra nova ganham ritmo em novembro - Portal do Agronegócio",
+    "fonte": "Google News Commodities",
+    "publicado": "27/11 16:00",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O preço da soja em Paranaguá a R$ 170 por saca e o ritmo acelerado das vendas da safra nova em novembro indicam um cenário favorável para os produtores brasileiros. Se esses preços se sustentarem, isso pode impulsionar a receita do agronegócio e as exportações, com um impacto positivo na balança comercial e na economia.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795811468.2077854,
+    "titulo": "Magalu prevê despachar 400 mil itens na Black Friday em seu maior centro de distribuição",
+    "titulo_original": "Magalu prevê despachar 400 mil itens na Black Friday em seu maior centro de distribuição",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 16:14",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A previsão do Magalu de despachar mais de 400 mil itens na Black Friday indica um volume significativo de vendas e atividade logística. Se o volume real superar as expectativas, isso pode ser um termômetro positivo para o varejo e o consumo no período, mas o impacto setorial é mais direto do que macro.",
     "is_stocks": true
   }
 ]
