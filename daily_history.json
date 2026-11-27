@@ -796,5 +796,107 @@
     "origem": "domestica",
     "leitura_critica": "A notícia se refere a uma análise e discussão sobre a nomeação de Trabuco para a Fazenda. Embora o tema seja relevante para a política econômica, a notícia em si não apresenta um fato concreto ou decisão, mas sim uma contextualização e expectativa.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795785561.9525478,
+    "titulo": "Subiu ou caiu? Veja como os preços de cada categoria variaram antes da Black Friday 2026",
+    "titulo_original": "Subiu ou caiu? Veja como os preços de cada categoria variaram antes da Black Friday 2026",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 09:54",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A variação de preços em diferentes categorias antes da Black Friday pode indicar pressões inflacionárias específicas em alguns setores. Se a tendência de queda em eletrodomésticos se mantiver, pode haver um estímulo ao consumo nesses itens; caso contrário, o aumento de preços em eletrônicos pode limitar o poder de compra.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795785569.028809,
+    "titulo": "Inadimplência das famílias sobe a 8,2% em outubro e renova recorde, mostra BC",
+    "titulo_original": "Inadimplência das famílias sobe a 8,2% em outubro e renova recorde, mostra BC",
+    "fonte": "Folha Mercado",
+    "publicado": "27/11 09:13",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "O recorde na inadimplência das famílias indica um aperto nas condições financeiras e pode sinalizar um impacto negativo no consumo. Se essa tendência de alta na inadimplência persistir, pode levar a uma maior cautela por parte das instituições financeiras na concessão de crédito.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795785577.7750697,
+    "titulo": "Taxa de desemprego fica em 5,1% no trimestre encerrado em outubro, mostra IBGE",
+    "titulo_original": "Taxa de desemprego fica em 5,1% no trimestre encerrado em outubro, mostra IBGE",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 09:29",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A taxa de desemprego em 5,1% no trimestre encerrado em outubro, igualando o menor patamar histórico, sugere uma melhora no mercado de trabalho. Se essa tendência de queda no desemprego se mantiver, pode impulsionar o consumo e a atividade econômica no país.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795785583.4768662,
+    "titulo": "Pix terá novas regras de segurança e BC busca disponibilizar devolução de valor enviado por engano",
+    "titulo_original": "Pix terá novas regras de segurança e BC busca disponibilizar devolução de valor enviado por engano",
+    "fonte": "Folha Mercado",
+    "publicado": "27/11 09:41",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "As novas regras de segurança e a busca pela devolução de valores enviados por engano no Pix visam aumentar a confiança e a usabilidade do sistema de pagamentos. Se essas medidas forem eficazes, podem reduzir fraudes e incidentes de erros de transferência, fortalecendo a adoção do Pix.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795785590.3805008,
+    "titulo": "Ibovespa dispara 6% e dólar cai a R$ 5,74",
+    "titulo_original": "Ibovespa dispara 6% e dólar cai a R$ 5,74 - brasilagro.com.br",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/11 04:25",
+    "relevancia": "ALTA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A forte alta do Ibovespa e a queda do dólar podem indicar um aumento do apetite por risco no mercado brasileiro. Se essa tendência se mantiver, pode atrair mais capital estrangeiro para a bolsa e pressionar ainda mais o câmbio para baixo.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795785590.3818886,
+    "titulo": "Sessão europeia: otimismo pós-Ação de Graças impulsiona ações, ouro",
+    "titulo_original": "investingLive European session wrap: Post-Thanksgiving optimism lifts stocks, gold",
+    "fonte": "ForexLive",
+    "publicado": "27/11 09:53",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "juros"
+    ],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das ações e a alta do ouro podem indicar um alívio temporário nas preocupações com o crescimento econômico global. Se as expectativas de juros mudarem após os eventos da semana, isso pode influenciar a direção futura dos mercados de ações e commodities.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795785590.3831146,
+    "titulo": "Diretor da CVM vê espaço para liberação de mercados preditivos",
+    "titulo_original": "Diretor da CVM vê espaço para liberação de mercados preditivos",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 09:31",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A possibilidade de liberação de mercados preditivos para investidores de varejo pela CVM pode expandir as opções de investimento disponíveis. Se essa regulamentação for aprovada, pode atrair novos participantes para o mercado e aumentar a liquidez em certos contratos.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795785590.3843253,
+    "titulo": "Bolsas da China têm maior alta em mais de dois anos após aval do governo; Nasdaq sobe mais de 3%",
+    "titulo_original": "Bolsas da China têm maior alta em mais de dois anos após aval do governo; Nasdaq sobe mais de 3%",
+    "fonte": "Folha Mercado",
+    "publicado": "27/11 09:09",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "O forte desempenho das bolsas chinesas após o apoio governamental pode indicar uma recuperação de confiança no mercado de ações do país. Se essa tendência se consolidar, pode ter um efeito positivo nos mercados globais e no sentimento de risco.",
+    "is_stocks": true
   }
 ]
