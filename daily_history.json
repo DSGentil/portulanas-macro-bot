@@ -898,5 +898,99 @@
     "origem": "externa",
     "leitura_critica": "O forte desempenho das bolsas chinesas após o apoio governamental pode indicar uma recuperação de confiança no mercado de ações do país. Se essa tendência se consolidar, pode ter um efeito positivo nos mercados globais e no sentimento de risco.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795792550.9114807,
+    "titulo": "Alta do dólar eleva perdas do Banco Central com swaps cambiais a R$ 38,96 bilhões em novembro",
+    "titulo_original": "Alta do dólar eleva perdas do Banco Central com swaps cambiais a R$ 38,96 bilhões em novembro - Portal do Agronegócio",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/11 10:40",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As perdas do Banco Central com swaps cambiais, decorrentes da alta do dólar, indicam uma pressão sobre as reservas e podem influenciar a política monetária. Se a volatilidade cambial persistir, o BC pode ter que intervir mais ativamente, o que pode levar a um aperto nas condições de liquidez ou a uma revisão das expectativas de juros.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795792558.4438775,
+    "titulo": "BC pede projeções de impacto da reforma tributária na inflação antes do próximo Copom",
+    "titulo_original": "BC pede projeções de impacto da reforma tributária na inflação antes do próximo Copom",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 11:00",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "inflacao",
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A consulta do Banco Central sobre o impacto da reforma tributária na inflação demonstra a preocupação da autoridade monetária com os efeitos de médio e longo prazo das mudanças fiscais. Se a reforma tributária for aprovada e gerar pressões inflacionárias significativas, o BC pode ter que ajustar sua política monetária, mantendo os juros em patamares mais elevados por mais tempo.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795792564.8602355,
+    "titulo": "Agroconsult: safra 2026/27 de soja deve cair 1,3%, para 182,3 milhões de t",
+    "titulo_original": "Agroconsult: safra 2026/27 de soja deve cair 1,3%, para 182,3 milhões de t - UOL Notícias",
+    "fonte": "Google News Commodities",
+    "publicado": "27/11 11:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A projeção de queda na safra de soja pode impactar a balança comercial brasileira e a inflação de alimentos. Se essa redução se concretizar, pode haver um efeito positivo nos preços internacionais da soja, mas também uma menor receita de exportação para o Brasil, afetando o PIB.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795792572.4012995,
+    "titulo": "Armazenagem pode responder por perdas de até 10% da produção de soja",
+    "titulo_original": "Armazenagem pode responder por perdas de até 10% da produção de soja - Agrolink",
+    "fonte": "Google News Commodities",
+    "publicado": "27/11 10:46",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "As perdas potenciais de até 10% na produção de soja devido a problemas de armazenagem podem afetar a oferta e os preços do grão, com possíveis reflexos na balança comercial e na inflação de alimentos. Se as perdas se confirmarem, pode haver um impacto negativo na receita de exportação e no PIB agrícola.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795792583.064403,
+    "titulo": "Wall Street abre em alta em sessão mais curta, impulsionada pelo setor de tecnologia",
+    "titulo_original": "Wall Street abre em alta em sessão mais curta, impulsionada pelo setor de tecnologia",
+    "fonte": "Money Times",
+    "publicado": "27/11 12:07",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A alta em Wall Street, impulsionada pelo setor de tecnologia em uma sessão encurtada, sugere um otimismo pontual no mercado americano. Se essa tendência se mantiver nos próximos dias, pode haver um fluxo de capital mais positivo para ativos de risco globais, mas a curta duração da sessão limita a força do sinal.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795792583.0658233,
+    "titulo": "Recuperação em ações de tecnologia impulsiona bolsas de NY",
+    "titulo_original": "Recuperação em ações de tecnologia impulsiona bolsas de NY",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 11:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "externa",
+    "leitura_critica": "A recuperação das ações de tecnologia, especialmente em chips e semicondutores, sugere um otimismo renovado em relação à inteligência artificial e um possível alívio nas preocupações com desdobramentos geopolíticos. Se essa tendência se consolidar, pode haver um fluxo de capital mais positivo para ativos de risco, mas a escassez de indicadores econômicos limita a força do sinal.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795792583.067172,
+    "titulo": "B3 fecha acordo com instituições financeiras para criar stablecoin em reais",
+    "titulo_original": "B3 fecha acordo com instituições financeiras para criar stablecoin em reais",
+    "fonte": "Money Times",
+    "publicado": "27/11 11:15",
+    "relevancia": "MEDIA",
+    "canais_afetados": [],
+    "origem": "domestica",
+    "leitura_critica": "A iniciativa da B3 em parceria com grandes bancos para criar uma stablecoin em reais pode ser um passo importante para a digitalização do sistema financeiro brasileiro e para a eficiência de transações. Se a adoção for ampla, pode haver um impacto na liquidez e na velocidade das operações, mas a relevância para os canais macroeconômicos ainda é incerta.",
+    "is_stocks": true
   }
 ]
