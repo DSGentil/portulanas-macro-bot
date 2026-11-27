@@ -992,5 +992,118 @@
     "origem": "domestica",
     "leitura_critica": "A iniciativa da B3 em parceria com grandes bancos para criar uma stablecoin em reais pode ser um passo importante para a digitalização do sistema financeiro brasileiro e para a eficiência de transações. Se a adoção for ampla, pode haver um impacto na liquidez e na velocidade das operações, mas a relevância para os canais macroeconômicos ainda é incerta.",
     "is_stocks": true
+  },
+  {
+    "_timestamp": 1795797945.5078773,
+    "titulo": "Tesouro Direto hoje: juros recuam; prefixado vai abaixo de 14% com Trabuco na Fazenda",
+    "titulo_original": "Tesouro Direto hoje: juros recuam; prefixado vai abaixo de 14% com Trabuco na Fazenda",
+    "fonte": "InvestNews",
+    "publicado": "27/11 09:49",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "juros",
+      "inflacao"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A escolha de Trabuco para o Ministério da Fazenda gerou euforia nos mercados, com queda nos juros e títulos prefixados. Se essa percepção de melhora na condução econômica se mantiver, a tendência de queda nos juros pode se consolidar; caso contrário, uma reversão rápida seria esperada.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795797952.0458808,
+    "titulo": "Mercado de trabalho mais fraco em 2027 pode afetar renda média mensal, avalia Ibre",
+    "titulo_original": "Mercado de trabalho mais fraco em 2027 pode afetar renda média mensal, avalia Ibre",
+    "fonte": "Valor Economico",
+    "publicado": "27/11 13:30",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A avaliação de um mercado de trabalho mais fraco em 2027 sugere uma desaceleração futura na renda média. Se essa perspectiva se concretizar, pode haver menor consumo e pressão sobre a atividade econômica; o contrário seria verdadeiro se o mercado de trabalho se fortalecer inesperadamente.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795797957.6673777,
+    "titulo": "Dólar despenca abaixo de R$ 5,50 e bolsa dispara 3% com escolha de Trabuco",
+    "titulo_original": "Dólar despenca abaixo de R$ 5,50 e bolsa dispara 3% com escolha de Trabuco - CNN Brasil",
+    "fonte": "Google News Cambio Juros",
+    "publicado": "27/11 09:06",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nomeação de Trabuco teve um impacto imediato e positivo no câmbio e na bolsa. Se a percepção de melhora na gestão econômica se sustentar, o dólar pode continuar em trajetória de queda e a bolsa em alta; qualquer sinal de instabilidade pode reverter esses movimentos.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795797963.1235082,
+    "titulo": "Greve da Caixa impactou liberação de até 25% de crédito imobiliário no mês, mostra BC",
+    "titulo_original": "Greve da Caixa impactou liberação de até 25% de crédito imobiliário no mês, mostra BC",
+    "fonte": "Folha Mercado",
+    "publicado": "27/11 12:47",
+    "relevancia": "MEDIA",
+    "canais_afetados": [
+      "atividade_emprego"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A greve na Caixa afetou diretamente a liberação de crédito imobiliário, o que pode ter reflexos na atividade econômica do setor. Se a greve se estender ou ocorrerem paralisações similares em outras instituições financeiras, o impacto na atividade econômica pode ser mais pronunciado.",
+    "is_stocks": false
+  },
+  {
+    "_timestamp": 1795797969.67662,
+    "titulo": "Lula busca em Trabuco conciliação de ajuste com políticas sociais, dizem aliados",
+    "titulo_original": "Lula busca em Trabuco conciliação de ajuste com políticas sociais, dizem aliados",
+    "fonte": "Folha Mercado",
+    "publicado": "27/11 12:36",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nomeação de Trabuco para a Fazenda é vista como uma tentativa de equilibrar ajuste fiscal e políticas sociais. Se essa dualidade for bem administrada, pode trazer estabilidade; caso contrário, a tensão entre as duas agendas pode gerar incertezas.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795797969.6781514,
+    "titulo": "Corte de gastos, Previdência e grau de investimento: o que Trabuco já defendeu",
+    "titulo_original": "Corte de gastos, Previdência e grau de investimento: o que Trabuco já defendeu",
+    "fonte": "Money Times",
+    "publicado": "27/11 11:31",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "Os posicionamentos anteriores de Trabuco sobre corte de gastos e Previdência indicam uma linha de atuação mais austera. Se ele conseguir implementar essas ideias, pode haver melhora no grau de investimento; a dificuldade em avançar com reformas pode gerar frustração no mercado.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795797969.6795256,
+    "titulo": "Confirmação de Trabuco na Fazenda leva euforia a mercados. ETF de ações brasileiras sobe quase 13%",
+    "titulo_original": "Confirmação de Trabuco na Fazenda leva euforia a mercados. ETF de ações brasileiras sobe quase 13%",
+    "fonte": "InvestNews",
+    "publicado": "27/11 08:47",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "fluxo_capital"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A nomeação de Trabuco impulsionou fortemente o mercado de ações brasileiro, com alta expressiva em ETFs e ADRs. Se a confiança do investidor se mantiver, o fluxo de capital para a bolsa pode continuar positivo; uma mudança de sentimento poderia reverter rapidamente essa tendência.",
+    "is_stocks": true
+  },
+  {
+    "_timestamp": 1795797969.6813676,
+    "titulo": "Meirelles vê semelhanças entre Trabuco na Fazenda e sua ida ao BC, e diz que novo ministro precisará de firmeza",
+    "titulo_original": "Meirelles vê semelhanças entre Trabuco na Fazenda e sua ida ao BC, e diz que novo ministro precisará de firmeza",
+    "fonte": "Folha Mercado",
+    "publicado": "27/11 10:32",
+    "relevancia": "ALTA",
+    "canais_afetados": [
+      "decisao_fiscal_regulatoria"
+    ],
+    "origem": "domestica",
+    "leitura_critica": "A comparação de Meirelles sugere que Trabuco precisará de uma condução firme na Fazenda. Se ele demonstrar essa firmeza em suas ações, pode inspirar confiança nos mercados; a falta dela pode gerar incertezas sobre a capacidade de implementar as políticas necessárias.",
+    "is_stocks": true
   }
 ]
